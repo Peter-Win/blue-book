@@ -1,0 +1,12 @@
+{
+  "name": "blue-book",
+  "version": "1.0.0",
+  "description": "Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.",
+  "main": "index.js",
+  "repository": "https://github.com/Peter-Win/blue-book",
+  "author": "PeterWin <peterwin1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "charchem2": "^2.2.1"
+  }
+}

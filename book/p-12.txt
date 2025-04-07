@@ -1,0 +1,716 @@
+#P-12
+en: PREFERRED, PRESELECTED, AND RETAINED IUPAC NAMES
+ru: ПРЕДПОЧТИТЕЛЬНЫЕ, ПРЕДВАРИТЕЛЬНО ВЫБРАННЫЕ И СОХРАНЕННЫЕ НАЗВАНИЯ ИЮПАК
+
+@Content
+
+#P-12.1 
+en: Preferred IUPAC names
+ru: Предпочтительные названия ИЮПАК
+
+en: Preferred IUPAC names are names for structures or structural components that are preferred among two or more names 
+for the same structure generated from two or more recommended IUPAC rules for organic compounds or the many 
+synonyms that have been coined and used over the years. 
+ru: Предпочтительные названия ИЮПАК — это названия структур или структурных компонентов, которые являются 
+предпочтительными среди двух или более названий одной и той же структуры, полученных на основе двух или более 
+рекомендуемых правил ИЮПАК для органических соединений или множества синонимов, которые были придуманы и использовались 
+на протяжении многих лет.
+
+en: Preferred IUPAC names, or PINs for short, are names selected according to the set of principles, conventions, and rules 
+given herein. They originate from the strict application of the rules; in this sense, they can be referred to as ‘single 
+names’. All preferred IUPAC names for organic compounds are identified by the parenthetical abbreviation ‘(PIN)’ 
+following the name. Names used in the past, but now discarded or no longer recommended, are placed in parentheses 
+and preceded by the word ‘not’. Names of organic compounds based on aluminium, gallium, indium, and thallium are 
+not followed by the parenthetical abbreviation (PIN), because the decision to choose between a name based on organic 
+or inorganic principles has not yet been reached.
+ru: Предпочтительные названия IUPAC, или сокращенно PIN, — это названия, выбранные в соответствии с набором принципов, 
+соглашений и правил, приведенных в настоящем документе. Они возникают из строгого применения правил; в этом смысле 
+их можно называть «отдельными названиями». Все предпочтительные названия IUPAC для органических соединений 
+идентифицируются по аббревиатуре в скобках «(PIN)», следующей за названием. Названия, которые использовались в прошлом, 
+но теперь отброшены или больше не рекомендуются, заключаются в скобки и предваряются словом «не». 
+Названия органических соединений на основе алюминия, галлия, индия и таллия не сопровождаются аббревиатурой в скобках (PIN), 
+поскольку решение о выборе между названием, основанным на органических или неорганических принципах, еще не принято.
+
+en: It is necessary to select a preferred alternative in many instances in the construction of the names of organic 
+compounds. Preferred IUPAC names are given to parent structures; characteristic groups denoted by prefixes and 
+suffixes used in PINs are designated as preferred prefixes or suffixes. They also result from the choice to be made 
+among the different types of nomenclature, for example, substitutive nomenclature, functional class nomenclature, and 
+multiplicative nomenclature; and among the different types of operations, for example substitutive, additive, and 
+subtractive. 
+ru: Во многих случаях при построении названий органических соединений необходимо выбрать предпочтительную альтернативу. 
+Предпочтительные названия ИЮПАК даются родительским структурам; характерные группы, обозначенные префиксами и суффиксами, 
+используемыми в PIN, обозначаются как предпочтительные префиксы или суффиксы. Они также являются результатом выбора, 
+который необходимо сделать среди различных типов номенклатуры, например, заместительной номенклатуры, 
+номенклатуры функциональных классов и мультипликативной номенклатуры; и среди различных типов операций, например, 
+заместительной, аддитивной и субтрактивной.
+
+en: Most commonly, a **parent structure** is a **parent hydride**, i.e., a structure containing, in addition to one or more 
+hydrogen atoms, a single atom of an element, for example, methane; or a number of atoms (alike or different) linked 
+together to form an unbranched chain, for example, pentane; or a monocyclic or polycyclic ring system, for example, 
+cyclohexane and quinoline. Methane is a retained name (see P-12.3) that is preferred to the systematic name ‘carbane’, 
+a name never recommended to replace methane, but used to derive the names ‘carbene’ and ‘carbyne’ for the radicals 
+<% f1 %> and <% f2 %>, respectively. Similarly, the retained names ‘ethane’, ‘propane’, and ‘butane’ were never replaced by 
+systematic names ‘dicarbane’, tricarbane’, and ‘tetracarbane’ as recommended for analogues of silane, ‘disilane’; 
+phosphane, ‘triphosphane’; and sulfane, ‘tetrasulfane’. The name ‘pentane’ is formed by application of P-21.2.1 and is 
+marked as the preferred IUPAC name, or PIN, even though no rule has been cited giving an alternative name. The same 
+reasoning applies to cyclohexane, an IUPAC name resulting from the application of P-22.1.1. The name ‘quinoline’ is a 
+retained name that is preferred to the alternative systematic fusion names ‘1-benzopyridine’ or ‘benzo[_b_]pyridine’. 
+ru: Чаще всего **исходная структура** представляет собой **исходный гидрид**, т. е. структуру, содержащую, помимо 
+одного или нескольких атомов водорода, один атом элемента, например, метан; или ряд атомов (одинаковых или разных), 
+связанных вместе с образованием неразветвленной цепи, например, пентан; или моноциклическую или полициклическую 
+кольцевую систему, например, циклогексан и хинолин. Метан — это сохраненное название (см. P-12.3), которое предпочтительнее 
+систематического названия «карбан», названия, которое никогда не рекомендовалось для замены метана, но использовалось 
+для получения названий «карбен» и «карбин» для радикалов <% f1 %> и <% f2 %> соответственно. 
+Аналогично, сохраненные названия «этан», «пропан» и «бутан» никогда не заменялись систематическими названиями «дикарбан», 
+«трикарбан» и «тетракарбан», как рекомендовано для аналогов силана, «дисилан»; фосфана, «трифосфан»; 
+и сульфана, «тетрасульфан». Название «пентан» образовано путем применения P-21.2.1 и отмечено как предпочтительное 
+название ИЮПАК или PIN, хотя не было приведено ни одного правила, дающего альтернативное название. 
+Те же рассуждения применимы к циклогексану, названию ИЮПАК, полученному в результате применения P-22.1.1. 
+Название «хинолин» является сохраненным названием, которое предпочтительнее альтернативных систематических названий 
+слияния «1-бензопиридин» или «бензо[_b_]пиридин».
+%f1: <$ H2C":" $>
+%f2: <$ HC"⫶" $>
+
+@Examples
+
+@cell
+<$ CH4 $>
+
+en: methane (preferred IUPAC name or PIN, a retained name)<br>
+carbane 
+ru: метан (предпочтительное название ИЮПАК или PIN, сохраненное название)<br>
+карбан
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH3 $>
+
+en: pentane (preferred IUPAC name or PIN)
+ru: пентан (предпочтительное название ИЮПАК или PIN)
+
+@cell
+<$ /\|`/`\`| $>
+
+en: cyclohexane (PIN) 
+ru: циклогексан (PIN)
+
+@cell
+<$ `/`\\`|//\||\//`|`\\N`/ $>
+
+en: quinoline (PIN, a retained name, P-25.2.1)<br>
+1-benzopyridine (P-25.2.2.4)<br> 
+benzo[_b_]pyridine (P-25.3.1.3)<br> 
+(not 1-benzazine, see P-22.2.2.1.1) 
+ru: хинолин (PIN, сохраненное название, P-25.2.1)<br>
+1-бензопиридин (P-25.2.2.4)<br>
+бензо[_b_]пиридин (P-25.3.1.3)<br>
+(не 1-бензазин, см. P-22.2.2.1.1)
+
+@End
+
+en: It is sometimes convenient to employ parent hydrides of more complex structure, such as ring or ring-chain assemblies, 
+for example biphenyl and styrene. The name ‘1,1′-biphenyl’ results from the application of Rule P-28.2.1; it is the 
+preferred IUPAC name and the locants ‘1,1′’ are compulsory; the name ‘biphenyl’, without locants, can be used in 
+general IUPAC nomenclature. The name ‘styrene’ is a retained name acceptable in general IUPAC nomenclature as 
+being clear and unambiguous along with the substitutive name ‘vinylbenzene’. The name ‘ethenylbenzene’ is the 
+preferred IUPAC name (PIN). 
+ru: Иногда удобно использовать родительские гидриды более сложной структуры, такие как кольцевые или кольцево-цепочечные 
+сборки, например, бифенил и стирол. Название «1,1′-бифенил» является результатом применения Правила P-28.2.1; 
+это предпочтительное название ИЮПАК, и локанты «1,1′» являются обязательными; название «бифенил» без локантов может 
+использоваться в общей номенклатуре ИЮПАК. Название «стирол» является сохраненным названием, приемлемым в общей 
+номенклатуре ИЮПАК как ясное и недвусмысленное вместе с замещающим названием «винилбензол». 
+Название «этенилбензол» является предпочтительным названием ИЮПАК (PIN).
+
+@Examples --
+
+@cell
+<$ `//`-`\\/=\-\\-//`\`=`/ $>
+
+en: 1,1′-biphenyl (PIN)<br>
+biphenyl 
+ru: 1,1′-бифенил (PIN)<br>
+бифенил
+
+@cell
+<$ ||`/`\\`|//\_(A-30)CH=CH2 $>
+
+en: styrene (a retained name; P-31.1.3.4) <br>
+vinylbenzene <br>
+ethenylbenzene (PIN; P-31.1.3.4) 
+ru: стирол (сохраненное название; P-31.1.3.4) <br>
+винилбензол <br>
+этенилбензол (PIN; P-31.1.3.4)
+
+@End
+
+en: A special class of parent structures having retained names (see P-12.3) is called **functional parent compounds**, 
+for example, phenol and acetic acid. These two names are preferred IUPAC names; the corresponding systematic 
+alternatives, benzenol and ethanoic acid, may be used in general IUPAC nomenclature. On the other hand, although 
+acetone is a retained name recommended for general nomenclature, the preferred IUPAC name is the substitutive name 
+propan-2-one. 
+ru: Особый класс родительских структур, имеющих сохраненные названия (см. P-12.3), называется 
+**функциональными родительскими соединениями**, например, фенол и уксусная кислота. Эти два названия являются 
+предпочтительными названиями ИЮПАК; соответствующие систематические альтернативы, бензол и этановая кислота, 
+могут использоваться в общей номенклатуре ИЮПАК. С другой стороны, хотя ацетон является сохраненным названием, 
+рекомендованным для общей номенклатуры, предпочтительным названием ИЮПАК является замещающее название пропан-2-он.
+
+@Examples
+
+@cell
+<$ C6H5-OH $>
+
+en: phenol (PIN) <br>
+benzenol
+ru: фенол (PIN) <br>
+бензенол
+
+@cell
+<$ CH3-COOH $>
+
+en: acetic acid (PIN) <br>
+ethanoic acid 
+ru: уксусная кислота (PIN) <br>
+этановая кислота
+
+@cell
+<$ CH3-C<`||O>-CH3 $>
+
+en: acetone <br>
+propan-2-one (PIN) 
+ru: ацетон <br>
+пропан-2-он (PIN)
+
+@End
+
+en: In order to generate the parent structure from a compound to be named, various formal **operations** must be carried out. 
+For example, in naming the structure below, the parent hydride ‘pentane’ is formally derived by replacing the oxygen 
+and chlorine atoms by the appropriate number of hydrogen atoms. When constructing the name, the formal operation is 
+reversed; the suffix ‘one’ and the prefix ‘chloro’, indicating **substitution** of 
+<% f1 %>
+the hydrogen atoms of pentane, are attached to the name of the parent hydride to give the name ‘5-chloropentan-2-one’. 
+Suffixes and prefixes can represent a number of different types of formal operations on the parent structure. Frequently, 
+the suffix or prefix denotes the attachment of a characteristic group (functional group), for example, ‘one’ or ‘oxo’ for 
+<$=O$>. A prefix may also describe a group derived from a parent hydride, for example ‘pentyl’, <% p %>, 
+from pentane. 
+ru: Для того чтобы сгенерировать исходную структуру из соединения, которое должно быть названо, необходимо выполнить 
+различные формальные **операции**.
+Например, при именовании структуры ниже исходный гидрид «пентан» формально получается путем замены атомов кислорода и 
+хлора соответствующим числом атомов водорода. При построении имени формальная операция меняет местами; суффикс «он» 
+и префикс «хлор», указывающие на **замену** 
+<% f1 %> 
+атомов водорода пентана, присоединяются к имени исходного гидрида, чтобы получить название «5-хлоропентан-2-он».
+Суффиксы и префиксы могут представлять ряд различных типов формальных операций над исходной структурой. 
+Часто суффикс или префикс обозначает присоединение характерной группы (функциональной группы), например, 
+«он» или «оксо» для <$=O$>. Префикс может также описывать группу, полученную из исходного гидрида, 
+например «пентил», <% p %>, из пентана.
+%p: <$ CH3-CH2-CH2-CH2-CH2–{} $>
+%f1: <div class="block"><$ 
+@:n(n,a,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+ClCH2@n(5,-90)-CH2@n(4,-90)-CH2@n(3,-90)-C@n(2,90)<`||O>-CH3@n(1,-90) 
+$></div>
+
+en: The **substitutive operation**, described in P-13.1, is the operation used most extensively in organic nomenclature. 
+Indeed, the comprehensive nomenclature system based largely on the application of this operation to parent structures 
+is, for convenience, termed **substitutive nomenclature**, although this nomenclature also involves many of the other 
+types of operations described in P-13. Substitutive nomenclature is the set of **substitutive names, principles, 
+conventions, and rules used for name construction**. Examples of substitutive and other nomenclature operations are 
+shown in Table 1.2 
+ru: **Замещающая операция**, описанная в P-13.1, является операцией, наиболее широко используемой в органической номенклатуре.
+Действительно, всеобъемлющая система номенклатуры, основанная в значительной степени на применении этой операции 
+к исходным структурам, для удобства называется **замещающей номенклатурой**, хотя эта номенклатура также включает 
+в себя многие другие типы операций, описанные в P-13. Замещающая номенклатура представляет собой набор 
+**замещающих имен, принципов, соглашений и правил, используемых для построения имен**. 
+Примеры замещающих и других операций номенклатуры приведены в Таблице 1.2
+
+@Examples -- 3
+
+@cell
+<$ CH3-CH2-O-CH2-CH2-CH3 $> <br> **1**
+
+@cell
+<$ CH3-CHCl-CH2-CO-CH3 $> <br> **2**
+
+@cell
+<$ P(OCH3)3 $> <br> **3**
+
+@cell
+<$ \\|`/`\`|/ $> <br> **4**
+
+@cell
+<$
+@:n(n,a,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90)\@n(2,-30,0.4)|`//@n(5,90,0.4)`\`||/
+$> <br> **5**
+
+@cell
+<$ CH3-O-CH2-CH2-O-CH2-CH2-O-CH2-CH2-O-CH2-CH3 $> <br> **6**
+
+@cell
+<$ |`//`\`||/\\/_(A0)_q3O_q3 $> <br> **7**
+
+@cell
+<$
+$slope(40)H3C\:a</CH3>$L(1.2)_(A78)$color(gray)$slope(%a:15)`/$color()$slope(%b:65)`/$slope(%a)/<_#a>$slope(%g:18)\$slope(%b)/$slope(%g)`\
+$> <br> **8**
+
+@cell
+<$
+`/`\\`|//\||_q_qq_qN@n(1,100,0.6)<_q>_(a54)CH2-COOH
+$> <br> **9**
+
+@End
+
+@Table 1.2
+en: Nomenclature operations
+ru: Номенклатурные операции
+
+@th
+en: Formula
+ru: Формула
+
+@th
+en: Parent Structure <br> (class name)
+ru: Исходная структура <br> (имя класса)
+
+@th
+en: Operation
+ru: Операция
+
+@th
+en: Name
+ru: Название
+
+@th
+en: Reference
+ru: Ссылки
+
+@td
+**1**
+
+@td
+en: propane (PIN) <br> (ether) 
+ru: пропан (PIN) <br> (эфир)
+
+@td
+en: substitutive <br> functional class
+ru: замещающий <br> функциональный класс
+
+@td
+en: 1-ethoxypropane (PIN) <br> ethyl propyl ether 
+ru: 1-этоксипропан (PIN) <br> этилпропиловый эфир
+
+@td
+P-13.1 <br> P-13.3.3.2
+
+@td
+**2**
+
+@td
+en: pentane (PIN) <br> (ketone) 
+ru: пентан (PIN) <br> (кетон)
+
+@td
+en: substitutive <br> functional class
+ru: замещающий <br> функциональный класс
+
+@td
+en: 4-chloropentan-2-one (PIN) <br> 2-chloropropyl methyl ketone 
+ru: 4-хлорпентан-2-он (PIN) <br> 2-хлорпропилметилкетон
+
+@td
+P-13.1 <br> P-13.3.3.2
+
+@td
+**3**
+
+@td
+en: phosphane (preselected name) <br> (phosphite) 
+ru: фосфан (предварительно выбранное название) <br> (фосфит)
+
+@td
+en: substitutive <br> functional class
+ru: замещающий <br> функциональный класс
+
+@td
+en: trimethoxyphosphane <br> trimethyl phosphite (PIN)
+ru: триметоксифосфан <br> триметилфосфит (PIN)
+
+@td
+P-13.1 <br> P-13.3.3.2
+
+@td
+**4**
+
+@td
+en: cyclohexane (PIN) 
+ru: циклогексан (PIN)
+
+@td
+en: substractive
+ru: субтрактивная 
+
+@td
+en: cyclohexene (PIN) 
+ru: циклогексен (PIN)
+
+@td
+P-31.1.3.1 
+
+@td
+**5**
+
+@td
+en: pyridine (PIN)
+ru: пиридин (PIN)
+
+@td
+en: additive
+ru: аддитивная
+
+@td
+en: 1,2-dihydropyridine (PIN) 
+ru: 1,2-дигидропиридин (PIN)
+
+@td
+P-31.2.3.1 
+
+@td
+**6**
+
+@td
+en: ethane (PIN) <br> tridecane (PIN) 
+ru: этан (PIN) <br> тридекан (PIN)
+
+@td
+en: substitutive skeletal (‘a’) replacement
+ru: заместительная скелетная замена («а»)
+
+@td
+en: 1-ethoxy-2-[2-(2-methoxyethoxy)ethoxy]ethane <br> 2,5,8,11-tetraoxatridecane (PIN) 
+ru: 1-этокси-2-[2-(2-метоксиэтокси)этокси]этан <br> 2,5,8,11-тетраоксатридекан (PIN)
+
+@td
+P-13.1 <br> P-13.2.1.1
+
+@td
+**7**
+
+@td
+en: oxirane (PIN) <br> styrene + oxide 
+ru: оксиран (PIN) <br> стирол + оксид
+
+@td
+en: substitutive <br> additive
+ru: заместительная <br> аддитивная
+
+@td
+en: phenyloxirane (PIN) <br> styrene oxide 
+ru: фенилоксиран (PIN) <br> оксид стирола
+// http://charchem.org/en/subst-ref/?langs=*&id=953  Styrene = Стирол 
+
+@td
+P-13.1 <br> P-13.3.3.1 
+
+@td
+**8**
+
+@td
+// Bornane http://charchem.org/en/subst-ref/?id=6695
+en: bornane  <br> bicyclo[2.2.1]heptane (PIN) 
+ru: борнан <br> бицикло[2.2.1]гептан (PIN)
+
+@td
+en: subtractive <br> substitutive
+ru: субтрактивная <br> заместительная
+
+@td
+en: 10-norbornane <br> 7,7-dimethylbicyclo[2.2.1]heptane (PIN)
+ru: 10-норборнан <br> 7,7-диметилбицикло[2.2.1]гептан (PIN)
+
+@td
+P-13.4.3.2 <br> P-13.1
+
+@td
+**9**
+
+@td
+en: acetic acid <br> acetic acid + indole
+ru: уксусная кислота <br> уксусная кислота + индол
+
+@td
+en: substitutive <br> conjunctive
+ru: заместительная <br> соединительная
+
+@td
+en: (1_H_-indol-1-yl)acetic acid (PIN) <br>
+1_H_-indole-1-acetic acid 
+ru: (1_H_-индол-1-ил)уксусная кислота (PIN) <br>
+1_H_-индол-1-уксусная кислота
+
+@td
+P-13.1 <br> P-13.5.2
+
+@EndTable
+
+en: Another type of nomenclature expresses the principal characteristic group not as a suffix but as a term denoting its 
+functional class cited in a name as a separate word; in Table 1.2, the name ‘ethyl propyl ether’ is a typical **functional 
+class name** based on the functional class name ‘ether’. The corresponding substitutive name ‘1-ethoxypropane’ is 
+constructed by using the prefix ‘ethoxy’ and the parent hydride name ‘propane’. 
+ru: Другой тип номенклатуры выражает основную характерную группу не как суффикс, а как термин, обозначающий ее 
+функциональный класс, указанный в названии как отдельное слово; в Таблице 1.2 название «этилпропиловый эфир» является 
+типичным **названием функционального класса**, основанным на названии функционального класса «эфир». 
+Соответствующее замещающее название «1-этоксипропан» строится с использованием префикса «этокси» и названия 
+исходного гидрида «пропан».
+
+en: Substitutive and functional class names are written differently. Generally, substitutive names are unitary names that 
+combine prefixes, names of parent hydrides, endings, and suffixes in one word. In contrast, a functional class name is 
+written as separate words [in English], even though the part describing the parent hydride or the modified parent 
+hydride is the result of the same operations used to construct substitutive names. 
+ru: Замещающие и функциональные имена классов пишутся по-разному. Как правило, замещающие имена — это унитарные имена, 
+которые объединяют префиксы, имена исходных гидридов, окончания и суффиксы в одном слове. Напротив, функциональное 
+имя класса пишется как отдельные слова [на английском языке], даже если часть, описывающая исходный гидрид 
+или модифицированный исходный гидрид, является результатом тех же операций, которые использовались для построения 
+замещающих имен.
+
+en: The great majority, if not all, of organic compounds can be named in accordance with the principles of substitutive and 
+functional class operations. However, in these recommendations, where there is a choice, names obtained by the 
+substitutive operation are preferred IUPAC names. In Table 1.2, examples 1, 2, and 3 illustrate this preference. The 
+substitutive names 1-ethoxypropane and 4-chloropentan-2-one are preferred to the functional class names based on the 
+names of the corresponding class, ether and ketone, ethyl propyl ether and 2-chloropropyl methyl ketone, respectively. 
+In contrast, a functional class name is preferred for the ester ‘trimethyl phosphite’ to the substitutive name 
+trimethoxyphosphane. Esters, along with acid halides, anhydrides, and amine oxides, linked to a nitrogen atom are 
+preferably named by using functional class nomenclature; substitutive nomenclature is less preferred for naming these 
+compound classes.  
+ru: Подавляющее большинство, если не все, органических соединений могут быть названы в соответствии с принципами 
+заместительных и функциональных операций класса. Однако в этих рекомендациях, где есть выбор, названия, 
+полученные заместительной операцией, являются предпочтительными названиями ИЮПАК. В таблице 1.2 примеры 1, 2 и 3 
+иллюстрируют это предпочтение. Заместительные названия 1-этоксипропан и 4-хлорпентан-2-он предпочтительны 
+по сравнению с названиями функциональных классов, основанными на названиях соответствующего класса, 
+эфир и кетон, этилпропиловый эфир и 2-хлорпропилметилкетон соответственно.
+Напротив, для эфира «триметилфосфит» предпочтительнее название функционального класса, чем заместительное 
+название триметоксифосфан. Сложные эфиры, наряду с галогенангидридами кислот, ангидридами и аминооксидами, 
+связанными с атомом азота, предпочтительно называть с использованием номенклатуры функциональных классов; 
+заместительная номенклатура менее предпочтительна для наименования этих классов соединений.
+
+en: Other types of operations are widely used, alone or along with substitutive nomenclature. There are two major types of 
+replacement operations, the skeletal replacement operation (often referred to as skeletal replacement nomenclature or 
+simply ‘a’ nomenclature) and functional replacement nomenclature. The former is used as a necessary complement in 
+order to introduce heteroatoms into cyclic hydrocarbons and to avoid highly complex prefixes in names for acyclic 
+systems. For example, the name ‘2,5,8,11-tetraoxatridecane’ formed by skeletal replacement is preferred to the 
+substitutive name ‘1-ethoxy-2-[2-(2-methoxyethoxy)ethoxy]ethane’ (see Table 1.2, example 6). The latter is used to 
+derive a very large number of suffixes and prefixes from basic oxygen names. Additive and subtractive operations have 
+been extended for naming radicals and ions. They are the sole method for modification of the degree of hydrogenation, 
+by adding or subtracting pairs of hydrogen atoms. Examples 4 and 5 illustrate this methodology. The conjunctive 
+operation eliminates hydrogen atoms from two different parent structures and then combines them; this method is used 
+to name parent hydrides composed of repeated identical units or to link rings and chains under specific conditions. 
+Example 9 in Table 1.2 illustrates such an operation; in IUPAC nomenclature, however, a substitutive name is always 
+preferred to a conjunctive name, for example ‘(1_H_-indol-1-yl)acetic acid’ is preferred to ‘1_H_-indole-1-acetic acid’ (see 
+P-51.1.2). 
+ru: Другие типы операций широко используются, отдельно или вместе с заместительной номенклатурой. 
+Существует два основных типа операций замены: операция скелетной замены (часто называемая скелетной заместительной 
+номенклатурой или просто «a» номенклатурой) и функциональная заместительная номенклатура. Первая используется как 
+необходимое дополнение для введения гетероатомов в циклические углеводороды и для избежания сложных префиксов 
+в названиях ациклических систем. Например, название «2,5,8,11-тетраоксатридекан», образованное скелетной заменой, 
+предпочтительнее заместительного названия «1-этокси-2-[2-(2-метоксиэтокси)этокси]этан» (см. Таблицу 1.2, пример 6). 
+Последнее используется для получения очень большого количества суффиксов и префиксов из названий основных кислородных атомов. 
+Аддитивные и субтрактивные операции были расширены для наименования радикалов и ионов. Они являются единственным методом 
+изменения степени гидрирования путем добавления или вычитания пар атомов водорода. Примеры 4 и 5 иллюстрируют эту методологию. 
+Конъюнктивная операция исключает атомы водорода из двух различных родительских структур, а затем объединяет их; 
+этот метод используется для наименования родительских гидридов, состоящих из повторяющихся идентичных единиц, 
+или для соединения колец и цепей при определенных условиях. Пример 9 в таблице 1.2 иллюстрирует такую ​​операцию; 
+однако в номенклатуре ИЮПАК замещающее название всегда предпочтительнее конъюнктивного названия, например, 
+«(1_H_-индол-1-ил)уксусная кислота» предпочтительнее «1_H_-индол-1-уксусной кислоты» (см. P-51.1.2).
+
+en: A nomenclature embraces the major operations along with the principles, conventions, and rules necessary to construct 
+names of a particular type. Substitutive nomenclature and functional class nomenclature have been discussed above. 
+Replacement nomenclature and conjunctive nomenclature also require specific principles, conventions, and rules. In 
+contrast, additive and subtractive operations do not correspond to nomenclatures in their own right, but are necessary 
+complements to other nomenclatures. 
+ru: Номенклатура охватывает основные операции вместе с принципами, соглашениями и правилами, необходимыми для построения 
+имен определенного типа. Замещающая номенклатура и номенклатура функциональных классов обсуждались выше.
+Замещающая номенклатура и конъюнктивная номенклатура также требуют определенных принципов, соглашений и правил. 
+Напротив, аддитивные и субтрактивные операции не соответствуют номенклатурам сами по себе, но являются необходимыми 
+дополнениями к другим номенклатурам.
+
+en: It is very important to recognize that, in general, the rules of the nomenclature of organic compounds are written in 
+terms of classical valence bonding. The principles and general rules for the nomenclature of organic compounds are 
+described in this Chapter. Substitutive nomenclature is then elaborated in Chapter P-2 (parent hydride names), in 
+Chapter P-3 (endings, suffixes, and prefixes), and in Chapter P-4 (selection rules for parent structures and unique 
+names). Chapter P-5 describes selection rules for construction of preferred IUPAC names. In Chapter P-6 the naming of 
+compounds arranged in classes and groups related to the Periodic Table (Groups 13-17) is described. In Chapter P-7, 
+nomenclature for radicals, ions, and related species is discussed. Chapter P-8 describes isotopic modifications of 
+organic compounds. Chapter P-9 deals with configuration and conformation specification and Chapter P-10 deals with 
+natural products. Preferred IUPAC names (PINs) for the natural products in Chapter P-10 are not identified. Although 
+most of the names are in fact generally accepted, there is a nebulous grey area where a distinction between a natural 
+product name and a systematic name based solely on principles of organic nomenclature has not been defined. This 
+likely will be the task of a future project consisting of organic and biochemical nomenclaturists.
+ru: Очень важно осознать, что в целом правила номенклатуры органических соединений написаны в терминах классической 
+валентной связи. В этой главе описаны принципы и общие правила номенклатуры органических соединений. 
+Затем в главе P-2 (имена исходных гидридов), в главе P-3 (окончания, суффиксы и префиксы) и в главе 
+P-4 (правила выбора исходных структур и уникальных имен) подробно рассматривается заместительная номенклатура. 
+В главе P-5 описываются правила выбора для построения предпочтительных названий ИЮПАК. 
+В главе P-6 описывается наименование соединений, организованных в классы и группы, связанные с 
+Периодической таблицей (группы 13-17). В главе P-7 обсуждается номенклатура радикалов, ионов и родственных видов. 
+В главе P-8 описываются изотопные модификации органических соединений. В главе P-9 рассматривается конфигурация 
+и спецификация конформации, а в главе P-10 рассматриваются природные продукты. 
+Предпочтительные названия ИЮПАК (PIN) для натуральных продуктов в главе P-10 не определены. 
+Хотя большинство названий фактически общеприняты, существует неясная серая зона, где не определено различие между 
+названием натурального продукта и систематическим названием, основанным исключительно на принципах органической номенклатуры. 
+Вероятно, это будет задачей будущего проекта, состоящего из органических и биохимических номенклатуристов.
+
+en: Several topics discussed in these recommendations have been published since 1993 as fully comprehensive documents: 
+radicals and ions (ref. 3), fused and bridged fused ring systems (ref. 4), phane nomenclature (refs. 5, 6), the von Baeyer 
+system for polycyclic compounds (ref. 7), spiro compounds (ref. 8), natural products (ref. 9), and fullerenes (refs. 10, 
+11). They are not reproduced in extenso in these recommendations. Rather, the principles, conventions, and rules are 
+discussed in a less extensive manner. Readers should use the full publications to deal with more complex cases; these 
+publications are not superseded in these recommendations unless specifically noted in boxed comments. Again, all 
+modifications to previously published recommendations made to achieve consistency are clearly signalled in these 
+recommendations and prevail over any former rules or interpretations. 
+ru: Несколько тем, обсуждаемых в этих рекомендациях, были опубликованы с 1993 года в виде полностью всеобъемлющих документов: 
+радикалы и ионы (ссылка 3), конденсированные и мостиковые конденсированные кольцевые системы (ссылка 4), 
+номенклатура фан (ссылки 5, 6), система фон Байера для полициклических соединений (ссылка 7), спиросоединения (ссылка 8), 
+природные продукты (ссылка 9) и фуллерены (ссылки 10, 11). Они не воспроизводятся in extenso в этих рекомендациях. 
+Вместо этого принципы, соглашения и правила обсуждаются в менее подробной манере. Читатели должны использовать 
+полные публикации для рассмотрения более сложных случаев; эти публикации не заменяются в этих рекомендациях, 
+если это специально не указано в комментариях в рамке. Опять же, все изменения в ранее опубликованных рекомендациях, 
+сделанные для достижения согласованности, четко обозначены в этих рекомендациях и имеют преимущественную силу 
+над любыми предыдущими правилами или интерпретациями.
+
+en: In this book, the label ‘PIN’ is added to the names of compounds whose parent hydride contains at least one of the 
+following elements: B, Si, Ge, Sn, Pb, N, P, As, Sb, Bi, O, S, Se, Te, Po, F, Cl, Br, I, At, and that also contain at least 
+one carbon atom in their structure and that can be named by substitutive nomenclature or one of its related 
+nomenclatures according to the principles described in these recommendations. (see P-11) 
+ru: В этой книге метка «PIN» добавляется к названиям соединений, исходный гидрид которых содержит по крайней мере 
+один из следующих элементов: B, Si, Ge, Sn, Pb, N, P, As, Sb, Bi, O, S, Se, Te, Po, F, Cl, Br, I, At, 
+и которые также содержат по крайней мере один атом углерода в своей структуре и которые могут быть названы 
+по заместительной номенклатуре или одной из связанных с ней номенклатур в соответствии с принципами, описанными 
+в этих рекомендациях. (см. P-11)
+
+en: Rules for the selection of preferred IUPAC names (PINs) for compounds containing Al, Ga, In, Tl, as well as for 
+compounds containing B, Si, Ge, Sn, Pb, N, P, As, Sb, Bi, O, S, Se, Te, Po, F, Cl, Br, I, At, and that do not contain 
+carbon, or that cannot be named on the basis of the principles of organic nomenclature as described in this book will be 
+discussed in a further publication. Examples are discussed in these recommendations to illustrate the scope and 
+limitations of the substitutive nomenclature extended from carbon to all elements of Groups 13 through 17; the label 
+‘preselected name’ is added to appropriate names. 
+ru: Правила выбора предпочтительных названий ИЮПАК (PIN) для соединений, содержащих Al, Ga, In, Tl, а также для соединений, 
+содержащих B, Si, Ge, Sn, Pb, N, P, As, Sb, Bi, O, S, Se, Te, Po, F, Cl, Br, I, At, и которые не содержат углерод 
+или которые не могут быть названы на основе принципов органической номенклатуры, описанных в этой книге, 
+будут обсуждаться в дальнейшей публикации. В этих рекомендациях обсуждаются примеры, иллюстрирующие объем и 
+ограничения заместительной номенклатуры, расширенной от углерода до всех элементов групп с 13 по 17; 
+к соответствующим названиям добавляется метка «предварительно выбранное название».
+
+#P-12.2 
+en: Preselected names
+ru: Предварительно выбранные названия
+
+en: Preselected names are names for structures or structural components chosen among two or more names for noncarbon
+containing (inorganic) parents to be used as the basis for preferred IUPAC names for organic derivatives in the 
+nomenclature of organic compounds. Although systematic names alumane, gallane, indigane and thallane are 
+preselected names, the names based on these parent hydrides currently do not have PIN status. However such names 
+can be used in general nomenclature.
+ru: Предварительно выбранные названия — это названия структур или структурных компонентов, выбранные из двух или 
+более названий для не содержащих углерод (неорганических) родителей, которые будут использоваться в качестве 
+основы для предпочтительных названий ИЮПАК для органических производных в номенклатуре органических соединений. 
+Хотя систематические названия алюман, галлан, индиган и таллан являются предварительно выбранными названиями, 
+названия, основанные на этих родительских гидридах, в настоящее время не имеют статуса PIN. Однако такие названия 
+могут использоваться в общей номенклатуре.
+
+en: In the context of substitutive organic nomenclature, we need to select names for parent hydrides or other parent 
+structures that do not contain carbon, in order to name derivatives that do contain carbon. The names chosen here for 
+this purpose are termed 'preselected'. Each noncarbon-containing parent structure capable of substitution or 
+functionalization by carbon-containing groups is assigned a unique 'preselected name’ to be used as the basis for 
+deriving a preferred IUPAC name; noncarbon-containing characteristic groups, prefixes, and suffixes used in PINs are 
+designated as preselected prefixes or suffixes. 
+ru: В контексте заместительной органической номенклатуры нам необходимо выбрать названия для исходных гидридов 
+или других исходных структур, которые не содержат углерод, чтобы назвать производные, которые содержат углерод. 
+Названия, выбранные здесь для этой цели, называются «предварительно выбранными». Каждой не содержащей углерода 
+исходной структуре, способной к замещению или функционализации углеродсодержащими группами, присваивается уникальное 
+«предварительно выбранное имя», которое будет использоваться в качестве основы для получения предпочтительного 
+названия ИЮПАК; не содержащие углерода характерные группы, префиксы и суффиксы, используемые в PIN, обозначаются 
+как предварительно выбранные префиксы или суффиксы.
+
+en: Names of parent structures, prefixes, and suffixes identified herein as 'preselected' may not necessarily emerge as 
+preferred IUPAC names in the context of inorganic chemical nomenclature. 
+ru: Названия исходных структур, префиксов и суффиксов, обозначенные здесь как «предварительно выбранные», 
+не обязательно могут оказаться предпочтительными названиями ИЮПАК в контексте номенклатуры неорганических химических соединений.
+
+en: All names listed in Table 2.1, with the exception of methane (carbane), are preselected names, and the concept is 
+illustrated by the following examples. 
+ru: Все названия, перечисленные в таблице 2.1, за исключением метана (карбана), являются предварительно выбранными названиями, 
+и концепция иллюстрируется следующими примерами.
+
+@Examples
+
+@cell
+<$ SnH3-[SnH2]11-SnH3 $>
+
+en: tridecastannane (preselected name)
+ru: тридекастаннан (предварительно выбранное имя)
+
+@cell
+<$ CH3-SnH2-[SnH2]11-SnH3 $>
+
+en: 1-methyltridecastannane (PIN)
+ru: 1-метилтридекастаннан (PIN)
+
+@cell
+<$ (HO)3PO $>
+
+en: phosphoric acid (preselected name) 
+ru: фосфорная кислота (предварительно выбранное название)
+
+@cell
+<$ (CH3-O)3PO $>
+
+en: trimethyl phosphate (PIN) 
+ru: триметилфосфат (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90)\SiH2@n(2,-90)|O@n(3,0,0.5)`/Si@n(4,160)<_(y.5)H2>`\O@n(5,150)`|H2Si@n(6,-90)/
+$>
+
+en: 1,3,5,2,4,6-trioxatrisilinane (preselected name see P-22.2.2.1.6) <br>
+cyclotrisiloxane (P-22.2.6) 
+ru: 1,3,5,2,4,6-триоксатрисилинан (предварительно выбранное название см. P-22.2.2.1.6) <br>
+циклотрисилоксан (P-22.2.6)
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90)\Si@n(2,-90)<_(a-70)CH3><_(a-15)H>|O@n(3,0,0.5)`/Si@n(4,160)<_(y.5)H2>`\O@n(5,150)`|H2Si@n(6,-90)/
+$>
+
+en: 2-methyl-1,3,5,2,4,6-trioxatrisilinane (PIN)
+ru: 2-метил-1,3,5,2,4,6-триоксатрисилинан (PIN)
+
+@End
+
+#P-12.3 
+en: Retained names
+ru: Сохраненные имена
+
+en: Retained names are traditional or common, well-established names that may be either preferred IUPAC names, such as 
+naphthalene, pyridine, and acetic acid; or preselected names, such as hydrazine and hydroxylamine; or as alternative 
+names allowed in general nomenclature, for example, allene. 
+ru: Сохраненные названия — это традиционные или общепринятые, устоявшиеся названия, которые могут быть либо 
+предпочтительными названиями ИЮПАК, такими как нафталин, пиридин и уксусная кислота; либо предварительно 
+выбранными названиями, такими как гидразин и гидроксиламин; либо альтернативными названиями, разрешенными 
+в общей номенклатуре, например, аллен.
+
+#P-12.4 
+en: Methodology
+ru: Методология
+
+en: In this book, names of parent structures, characteristic groups and their prefixes, and organic compounds are 
+systematically identified as preferred IUPAC names, prefixes, and suffixes; or as preselected names, prefixes, or 
+suffixes. Preferred IUPAC stereodescriptors are described and used in Chapter P-9. To facilitate the construction of the 
+names of organic compounds, preferred and preselected prefixes for use in generating preferred IUPAC names are 
+listed in Appendix 2 along with other prefixes that are acceptable in general nomenclature. 
+ru: В этой книге названия исходных структур, характерных групп и их префиксов, а также органических соединений 
+систематически идентифицируются как предпочтительные названия, префиксы и суффиксы ИЮПАК; или как 
+предварительно выбранные названия, префиксы или суффиксы. 
+Предпочтительные стереодескрипторы ИЮПАК описаны и используются в Главе P-9. 
+Для облегчения построения названий органических соединений предпочтительные и предварительно выбранные префиксы 
+для использования при создании предпочтительных названий ИЮПАК перечислены в Приложении 2 
+вместе с другими префиксами, которые приемлемы в общей номенклатуре.
