@@ -1,0 +1,1110 @@
+#P-15 
+en: Types of nomenclature
+ru: Типы номенклатуры
+
+@Content
+
+#P-15.0 
+en: Introduction 
+ru: Введение
+
+en: ‘Nomenclature’, in chemistry, is a system by which names are formed using various nomenclatural operations in 
+accordance with a set of principles, rules, and conventions. There are fundamentally two types of nomenclature: (1) 
+substitutive nomenclature, the principal nomenclature used in organic chemistry and the basis of IUPAC preferred 
+organic names; and (2) additive nomenclature used in inorganic chemistry for generating coordination names. These 
+two types are applied to name organic compounds and inorganic compounds, thus making nomenclature a matter of 
+choice between them. For example, <$SiCl4$>
+ can be named silicon tetrachloride (binary name), tetrachloridosilicon 
+(coordination name), and tetrachlorosilane (substitutive name). Although coordination nomenclature is not discussed in 
+these recommendations, it is used in the nomenclature of organometallic compounds belonging to Groups 1 and 2, for 
+example, dimethylmagnesium. Binary names are used for salts composed of an anionic or cationic organic part, for 
+example sodium acetate and methanaminium chloride. Preferred IUPAC names are recommended when there is a 
+choice within the limits of the nomenclature of organic compounds, for example a choice between two substitutive 
+names (acetic acid and ethanoic acid), between a multiplicative name and a substitutive name (2,2′-oxydiacetic acid and 
+[(carboxymethyl)oxy]acetic acid), or between a substitutive name and a functional class name (bromomethane and 
+methyl bromide), but not between a coordination or binary name and an organic name, for example, when the choice 
+could be between a substitutive name and coordination name (tetrachlorosilane and tetrachloridosilicon). 
+ru: «Номенклатура» в химии — это система, с помощью которой названия формируются с использованием различных 
+номенклатурных операций в соответствии с набором принципов, правил и соглашений. Существует два основных типа 
+номенклатуры: (1) заместительная номенклатура, основная номенклатура, используемая в органической химии и основа 
+предпочтительных органических названий ИЮПАК; и (2) аддитивная номенклатура, используемая в неорганической химии 
+для создания координационных названий. Эти два типа применяются для наименования органических и неорганических соединений, 
+что делает номенклатуру вопросом выбора между ними. Например, <$SiCl4$> можно назвать тетрахлоридом кремния 
+(бинарное название), тетрахлорокремнием (координационное название) и тетрахлорсиланом (заместительное название). 
+Хотя координационная номенклатура не обсуждается в этих рекомендациях, она используется в номенклатуре 
+металлоорганических соединений, относящихся к группам 1 и 2, например, диметилмагний. 
+Бинарные названия используются для солей, состоящих из анионной или катионной органической части, например, 
+ацетат натрия и хлорид метанаминия. Предпочтительные названия ИЮПАК рекомендуются, когда есть выбор в пределах 
+номенклатуры органических соединений, например, выбор между двумя замещающими названиями (уксусная кислота и 
+этановая кислота), между мультипликативным названием и замещающим названием (2,2′-оксидиуксусная кислота и 
+[(карбоксиметил)окси]уксусная кислота), или между замещающим названием и названием функционального класса 
+(бромметан и бромистый метил), но не между координационным или бинарным названием и органическим названием, например, 
+когда выбор может быть между замещающим названием и координационным названием (тетрахлорсилан и тетрахлорокремний).
+
+en: The nomenclature of organic compounds is considered as the set of different types of nomenclature based on the 
+various operations described in P-13. The term nomenclature is usually associated with more than one kind of 
+operation. **Substitutive nomenclature** may be regarded as based on substitutive, additive, and subtractive operations. 
+**Functional class nomenclature** is essentially based on additive operations, but includes substituent group names 
+formed by substitutive nomenclature. **Multiplicative nomenclature** is a subset of substitutive nomenclature based on 
+cyclic parent hydrides, functionalized or not, functionalized acyclic parent hydrides, and heteroacyclic parent hydrides. 
+**Skeletal replacement nomenclature** usually refers to replacement by ‘a’ terms and is thus often called just **‘a’ 
+nomenclature**. Similarly, **conjunctive nomenclature**, is restricted to conjunction operations involving rings or ring 
+systems substituted by a chain bearing a principal group named substitutively or having a retained name. Finally, 
+**functional replacement nomenclature** defines the rules for the use of prefixes and infixes to indicate replacement of 
+oxygen atoms or oxygen groups by nitrogen atoms, nitrogen groups, chalcogen atoms, halogen atoms, peroxy groups, 
+etc. (see P-15.5). 
+ru: Номенклатура органических соединений рассматривается как набор различных типов номенклатуры, основанных на различных 
+операциях, описанных в P-13. Термин номенклатура обычно ассоциируется с более чем одним видом операции. 
+**Заместительная номенклатура** может рассматриваться как основанная на заместительных, аддитивных и субтрактивных 
+операциях. **Номенклатура функциональных классов** по существу основана на аддитивных операциях, но включает названия 
+групп заместителей, образованные заместительной номенклатурой. **Мультипликативная номенклатура** является подмножеством 
+заместительной номенклатуры, основанной на циклических родительских гидридах, функционализированных или нет, 
+функционализированных ациклических родительских гидридах и гетероациклических родительских гидридах.
+**Скелетная заместительная номенклатура** обычно относится к замене терминами «a» и поэтому часто называется просто 
+**«a» номенклатурой**. Аналогично, **конъюнктивная номенклатура** ограничена операциями конъюнкции, включающими кольца 
+или кольцевые системы, замещенные цепью, несущей основную группу, названную замещающе или имеющую сохраненное имя. 
+Наконец, **функциональная номенклатура замены** определяет правила использования префиксов и инфиксов для указания 
+замены атомов кислорода или кислородных групп атомами азота, азотными группами, атомами халькогена, атомами галогена, 
+пероксидными группами и т. д. (см. P-15.5).
+
+en: Thus, the term nomenclature is not normally associated with only a single type of operation, and name formation within 
+a nomenclature system consists of a series of operations of various types, for example the subtractive operation in the 
+formation of double bonds and the functional replacement operation in the replacement of oxygen atoms by chalcogen 
+or nitrogen atoms. 
+ru: Таким образом, термин «номенклатура» обычно не ассоциируется только с одним типом операции, а формирование названия 
+в системе номенклатуры состоит из ряда операций различных типов, например, операции вычитания при образовании 
+двойных связей и операции функционального замещения при замене атомов кислорода атомами халькогена или азота.
+
+en: The term nomenclature also applies to families or classes of compounds, for instance **Nomenclature of Radicals and 
+Ions, Phane Nomenclature** for naming compounds composed of chains and/or ring systems, and **Fullerene 
+Nomenclature** to describe all operations necessary to name polycyclic carbon cage compounds and their derivatives. 
+This term is also used to describe families of compounds of natural origin, for example, **Nomenclature of Natural 
+Products** is based on the concept of stereoparents. The nomenclature of carbohydrates, of α-amino acids, peptides, 
+lipids, and of some other compounds of biochemical significance is generally considered to be **Biochemical 
+Nomenclature** and, as such, is published comprehensively separately. 
+ru: Термин номенклатура также применяется к семействам или классам соединений, например, **Номенклатура радикалов 
+и ионов, фановая номенклатура** для наименования соединений, состоящих из цепей и/или кольцевых систем, и 
+**Номенклатура фуллеренов** для описания всех операций, необходимых для наименования полициклических соединений с 
+углеродным каркасом и их производных.
+Этот термин также используется для описания семейств соединений природного происхождения, например, **Номенклатура 
+природных продуктов** основана на концепции стереородителей. Номенклатура углеводов, α-аминокислот, пептидов, липидов 
+и некоторых других соединений биохимического значения обычно считается **Биохимической номенклатурой** и, как таковая, 
+публикуется полностью отдельно.
+
+#P-15.1 
+en: Substitutive nomenclature 
+ru: Замещающая номенклатура
+
+en: Substitutive nomenclature is based on the selection of a parent structure having substitutable hydrogen atoms (see  
+P-15.1.5) which are substituted by nomenclaturally significant structural fragments represented either by prefixes and/or 
+suffixes or only by prefixes. In substitutive nomenclature there are three kinds of parent structures, parent hydrides, 
+functionalized parent hydrides, and functional parent compounds. 
+ru: Заместительная номенклатура основана на выборе исходной структуры, имеющей замещаемые атомы водорода 
+(см. P-15.1.5), которые замещаются номенклатурно значимыми структурными фрагментами, представленными либо префиксами 
+и/или суффиксами, либо только префиксами. В заместительной номенклатуре существует три вида исходных структур: 
+исходные гидриды, функционализированные исходные гидриды и функциональные исходные соединения.
+
+#P-15.1.1 
+en: Parent hydrides
+ru: Исходные гидриды
+
+en: Parent hydrides are unbranched acyclic, cyclic structures, or acyclic/cyclic structures to which only hydrogen atoms are 
+attached. They may have retained names as described in Chapters P-2 and P-3, semisystematic names for natural 
+products (see P-101), or names derived by the systematic methods described in Chapters P-2 and P-3.
+ru: Исходные гидриды — это неразветвленные ациклические, циклические структуры или ациклические/циклические структуры, 
+к которым присоединены только атомы водорода. Они могли сохранить названия, описанные в главах P-2 и P-3, 
+полусистематические названия природных продуктов (см. P-101) или названия, полученные с помощью систематических методов, 
+описанных в главах P-2 и P-3.
+
+@Examples .left-aligned-cells
+
+@cell
+en: methane (PIN; retained name, P-21.1.1.1)
+ru: метан (PIN; сохраненное название, P-21.1.1.1)
+
+@cell
+en: cyclohexane (PIN; P-22.1.1) 
+ru: циклогексан (PIN; P-22.1.1)
+
+@cell
+en: styrene (retained name, P-31.1.3.4); ethenylbenzene (PIN) 
+ru: стирол (сохраненное название, P-31.1.3.4); этенилбензол (PIN)
+
+@cell
+en: pyridine (retained name, PIN; P-22.2.1) 
+ru: пиридин (сохраненное название, PIN; P-22.2.1)
+
+@cell
+en: cholestane (retained name, Table 10.1, b) 
+ru: холестан (сохраненное название, Таблица 10.1, б)
+
+@End
+
+en: Parent hydrides may be substituted by prefixes and/or suffixes. A complete substitutive name may be described 
+schematically in Fig. 1.1. 
+ru: Исходные гидриды могут быть заменены префиксами и/или суффиксами. Полное замещающее название может быть 
+схематически описано на рис. 1.1.
+
+@Table
+
+@th colspan=3
+en: Prefixes
+ru: Префиксы
+
+@th
+en: Parent
+ru: Исходное
+
+@th
+en: Endings
+ru: Окончания
+
+@th; colspan=2
+en: Suffixes
+ru: Суффиксы
+
+@td
+en: Detachable substitutive prefixes
+ru: Отделяемые замещающие префиксы
+
+@td
+en: Detachable  saturation/unsaturation prefixes <br> (hydro/dehydro)
+ru: Отделяемые приставки насыщенности/ненасыщенности <br> (гидро/дегидро)
+
+@td
+en: Nondetachable structure defining prefixes
+ru: Неотделяемые префиксы, определяющие структуру
+
+@td
+en: Name of parent hydride 
+ru: Название исходного гидрида
+
+@td
+en: Unsaturation endings <br> (ane/ene/yne) 
+ru: Окончания ненасыщенности <br> (ан/ен/ин)
+
+@td
+en: Functional suffixes 
+ru: Функциональные суффиксы
+
+@td
+en: Cumulative suffixes 
+ru: Кумулятивные суффиксы
+
+@EndTable
+
+@Fig. 1.1
+en: Order of components in substitutive names based on parent hydrides
+ru: Порядок компонентов в замещающих названиях на основе исходных гидридов
+
+#P-15.1.2 
+en: Functional parent compounds
+ru: Функциональные исходные соединения
+
+#P-15.1.2.1+ 
+en: Functional parent compounds used in systematic organic nomenclature are structures having retained names 
+that imply the presence of at least one characteristic group and which have one or more hydrogen atoms attached to at 
+least one of its skeletal atoms or in which at least one of its characteristic groups can form at least one kind of functional 
+modification. The modification of these functional parent compounds is limited as only detachable prefixes and 
+cumulative suffixes can be added. Furthermore, preferred IUPAC functional parent compound names cannot be 
+modified by changing the degree of hydrogenation by means of the prefixes hydro/dehydro, by changing the ending 
+‘ane’ into ‘ene’ or ‘yne’, or by modifing the structure by nondetachable prefixes, such as ‘cyclo’. 
+ru: Функциональные родительские соединения, используемые в систематической органической номенклатуре, представляют 
+собой структуры, имеющие сохраненные названия, которые подразумевают наличие по крайней мере одной характерной группы 
+и которые имеют один или несколько атомов водорода, присоединенных по крайней мере к одному из своих скелетных атомов, 
+или в которых по крайней мере одна из своих характерных групп может образовывать по крайней мере один вид функциональной 
+модификации. Модификация этих функциональных родительских соединений ограничена, поскольку могут быть добавлены только 
+отделяемые префиксы и кумулятивные суффиксы. Кроме того, предпочтительные функциональные родительские названия 
+соединений ИЮПАК не могут быть изменены путем изменения степени гидрогенизации с помощью префиксов гидро/дегидро, 
+путем изменения окончания «ан» на «ен» или «ин» или путем изменения структуры неотделяемыми префиксами, такими как «цикло».
+
+@Examples .left-aligned-cells
+
+@cell
+en: acetic acid (PIN; P-65.1.1) 
+ru: уксусная кислота (PIN; P-65.1.1)
+
+@cell
+en: aniline (PIN; P-62.2.1.1.1) 
+ru: анилин (PIN; P-62.2.1.1.1)
+
+@cell
+en: phosphonic acid (preselected name; P-67.1.1) 
+ru: фосфоновая кислота (предварительно выбранное название; P-67.1.1)
+
+@End
+
+#P-15.1.2.2+
+en: A second group of functional parent compounds is extensively used in the nomenclature of natural products, 
+for which nondetachable prefixes, such as ‘cyclo’, ‘nor’, ‘homo’; hydro/dehydro prefixes; and the endings ‘ene’, ‘yne’, 
+etc., as specified in Chapter P-10. 
+ru: Вторая группа функциональных исходных соединений широко используется в номенклатуре природных продуктов, 
+для которых используются неотделяемые префиксы, такие как «цикло», «нор», «гомо»; префиксы гидро/дегидро; 
+и окончания «ен», «ин» и т. д., как указано в главе P-10.
+
+@Examples .left-aligned-cells
+
+@cell
+en: D-glucose (Table 10.2)
+ru: D-глюкоза (таблица 10.2)
+
+@cell
+en: alanine (Table 10.4)
+ru: аланин (таблица 10.4)
+
+@End
+
+en: A complete preferred IUPAC substitutive name based on a functional parent compound may be described schematically 
+as shown in Fig. 1.2.
+ru: Полное предпочтительное замещающее название ИЮПАК, основанное на функциональном исходном соединении, 
+может быть схематически описано, как показано на рис. 1.2.
+
+@Table
+
+@th
+en: Detachable substitutive prefixes
+ru: Отделяемые замещающие префиксы
+
+@th
+en: Name of functional parent compound
+ru: Название функционального исходного соединения
+
+@th
+en: Cumulative suffixes
+ru: Кумулятивные суффиксы
+
+@EndTable
+
+@Fig. 1.2 
+en: Order of components in a substitutive name based on a functional parent compound
+ru: Порядок компонентов в замещающем имени на основе функционального исходного соединения
+
+#P-15.1.2.3+ 
+en: A functionalized parent hydride is a parent hydride substituted by a characteristic group suffix, for example, 
+ethanamine (see P-62.2.1.2) and cyclohexanol (see P-63.1.2), and should not be confused with a functional parent 
+compound. 
+ru: Функционализированный исходный гидрид представляет собой исходный гидрид, замещенный характерным групповым 
+суффиксом, например, этанамин (см. P-62.2.1.2) и циклогексанол (см. P-63.1.2), и его не следует путать с 
+функциональным исходным соединением.
+
+#P-15.1.3 
+en: Suffixes (see also P-33)
+ru: Суффиксы (см. также P-33)
+
+en: There are, in general, two kinds of suffixes, functional suffixes and cumulative suffixes. 
+ru: Вообще существует два типа суффиксов: функциональные суффиксы и кумулятивные суффиксы.
+
+en: (1) Functional suffixes are generally simple suffixes used for describing characteristic groups that express classes. For 
+example, the classes ketones, acids, amines, and esters are denoted by the suffixes -one, -carboxylic acid, -amine, and  -carboxylate, respectively. Functional suffixes are exclusive suffixes, as the presence of one suffix denoting the 
+principal characteristic group excludes all other suffixes describing other characteristic groups that must be designated 
+as prefixes. 
+ru: (1) Функциональные суффиксы — это, как правило, простые суффиксы, используемые для описания характерных групп, 
+выражающих классы. Например, классы кетоны, кислоты, амины и эфиры обозначаются суффиксами -он, -карбоновая кислота, 
+-амин и -карбоксилат соответственно. Функциональные суффиксы являются исключающими суффиксами, поскольку наличие одного 
+суффикса, обозначающего основную характерную группу, исключает все другие суффиксы, описывающие другие характерные группы, 
+которые должны быть обозначены как префиксы.
+
+en: (2) Cumulative suffixes are used to designate radicals, ions, radical ions, and related species, for example, -yl, -ium,  -ide, as well as substituent groups. Cumulative suffixes are not exclusive. They can be combined with each other as well 
+as with functional suffixes, for example, -aminyl, -nitrilium, -sulfaniumyl. 
+ru: (2) Кумулятивные суффиксы используются для обозначения радикалов, ионов, ион-радикалов и родственных видов, 
+например, -ил, -иум, -ид, а также замещающих групп. Кумулятивные суффиксы не являются исключительными. 
+Они могут сочетаться друг с другом, а также с функциональными суффиксами, например, -аминил, -нитрилий, -сульфаниумил.
+
+@Examples 5
+
+@cell colspan=2
+<$ CH4 $>
+
+en: methane (PIN)  (parent hydride)
+ru: метан (PIN) (исходный гидрид)
+
+@cell
+-->
+
+@cell colspan=2
+<$ C$dots(Tr)H4^+ $>
+
+en: methaniumyl (PIN)  (‘iumyl’ is a cumulative suffix) 
+ru: метаниумил (PIN) <br> («иумил» — кумулятивный суффикс)
+
+@cell
+<$ CH3-CH3 $>
+
+en: ethane (PIN) <br> 
+(parent hydride) 
+ru: этан (PIN) <br>
+(исходный гидрид)
+
+@cell
+-->
+
+@cell
+<$ CH3-CH2-NH2 $>
+
+en: ethanamine (PIN)  <br>
+(‘amine’ is a functional suffix)
+ru: этанамин (PIN) <br>
+(‘амин’ — функциональный суффикс)
+
+@cell
+-->
+
+@cell
+<$ CH3-CH2-NH3^+ $>
+
+en: ethanaminium (PIN)  <br>
+(‘ium’ is a cumulative suffix) 
+ru: этанаминиум (PIN) <br>
+(«иум» — кумулятивный суффикс)
+
+@End
+
+#P-15.1.4 
+en: Position of the endings ‘ane’, ‘ene’, and ‘yne’
+ru: Положение окончаний «ан», «ен» и «ин»
+
+en: The modification of the ending ‘ane’ to ‘ene’ or ‘yne’ in acyclic, cyclic and polycyclic parent hydrides is used to 
+describe the subtractive operation that inserts double and triple bonds into saturated parent hydrides. These endings are 
+cumulative and can be combined with functional suffixes. 
+ru: Изменение окончания «ан» на «ен» или «ин» в ациклических, циклических и полициклических родительских гидридах 
+используется для описания вычитательной операции, которая вставляет двойные и тройные связи в насыщенные исходные гидриды. 
+Эти окончания являются кумулятивными и могут сочетаться с функциональными суффиксами.
+
+#P-15.1.5 
+en: Prefixes and their order in names
+ru: Префиксы и их порядок в именах
+
+en: There are two kinds of prefixes, nondetachable and detachable. Nondetachable prefixes describe structural 
+modifications to the parent structure creating new parent structures, for example, replacement prefixes, which can be 
+either skeletal replacement (‘a’) prefixes (see P-15.4) or ‘functional replacement prefixes’ (see P-15.5). Detachable 
+prefixes are of two types: prefixes that describe saturation or unsaturation (‘hydro’ and ‘dehydro’); and prefixes that 
+describe substitution, also called alphabetizable prefixes. 
+ru: Существует два типа префиксов: неотделяемые и отсоединяемые. Неотделяемые префиксы описывают структурные 
+модификации исходной структуры, создающие новые исходные структуры, например, замещающие префиксы, которые могут быть 
+либо скелетными замещающими («a») префиксами (см. P-15.4), либо «функциональными замещающими префиксами» (см. P-15.5). 
+Отсоединяемые префиксы бывают двух типов: префиксы, описывающие насыщенность или ненасыщенность («гидро» и «дегидро»); 
+и префиксы, описывающие замещение, также называемые алфавитно-упорядочиваемыми префиксами.
+
+@Content
+
+en: Nondetachable prefixes, the detachable saturation prefixes (‘hydro/dehydro’), and the detachable alphatizable prefixes 
+are cited in names as indicated in Fig. 1.1 (see P-15.1.1). 
+ru: Неотделяемые префиксы, отделяемые префиксы насыщения («гидро/дегидро») и отделяемые алфавитно-упорядоченные префиксы
+указаны в названиях, как указано на рис. 1.1 (см. P-15.1.1).
+
+#P-15.1.5.1 
+en: Nondetachable prefixes
+ru: Неотделяемые префиксы
+
+en: Nondetachable prefixes are permanently attached to the name of the parent structure in a given order, which normally 
+matches the order of operations used to modify the parent structure. Prefixes describing the first operation are attached 
+directly to the name of the parent structure; those resulting from a second operation are placed in front of those already 
+introduced, and so on (this technique may be termed ‘advancing backwards’ from the name of the parent structure). The 
+order is precisely prescribed for each category, as indicated below:
+ru: Неотделяемые префиксы постоянно присоединяются к имени родительской структуры в заданном порядке, который обычно 
+соответствует порядку операций, используемых для изменения родительской структуры. Префиксы, описывающие первую операцию, 
+присоединяются непосредственно к имени родительской структуры; те, которые являются результатом второй операции, 
+помещаются перед теми, которые уже введены, и так далее (этот прием можно назвать «продвижением назад» от имени 
+исходной структуры). Порядок точно предписан для каждой категории, как указано ниже:
+
+#P-15.1.5.1.1+ 
+en: Nondetachable prefixes creating new parent structures:
+ru: Неотделяемые префиксы, создающие новые исходные структуры:
+
+@List
+
+@item
+en: alicyclic rings and ring systems by prefixes such as: ‘cyclo’, ‘bicyclo’, ‘tricyclo’, etc.; ‘spiro’, ‘dispiro’, etc.;
+ru: алициклические кольца и кольцевые системы с помощью префиксов, таких как: «цикло», «бицикло», «трицикло» и т. д.; 
+«спиро», «диспиро» и т. д.;
+
+@item
+en: fused ring systems by fusion prefixes: ‘benzo’, ‘naphtho’, ‘imidazo’, etc.; 
+ru: конденсированные кольцевые системы с префиксами слияния: «бензо», «нафто», «имидазо» и т. д.;
+
+@item
+en: bridged fused ring systems by the addition of bridge prefixes: ‘methano’, ‘epoxy’, etc.; 
+ru: мостиковые конденсированные кольцевые системы путем добавления мостиковых префиксов: «метано», «эпокси» и т. д.;
+
+@item
+en: spiro compounds formed by combining names of cyclic compounds in (a), (b), and/or (c). 
+ru: спиросоединения, образованные путем объединения названий циклических соединений в (a), (b) и/или (c).
+
+@End
+
+#P-15.1.5.1.2+
+en: Replacement of atoms other than hydrogen by other atoms.
+ru: Замена атомов, отличных от водорода, другими атомами.
+
+en: This type of replacement, called ‘skeletal replacement’, is essentially the replacement of carbon atoms by heteroatoms; 
+it takes place with acyclic and cyclic hydrocarbons generating new parent structures by using skeletal replacement (‘a’) 
+prefixes, i.e., ‘oxa’, ‘aza’, ‘thia’, etc.
+ru: Этот тип замены, называемый «скелетной заменой», по сути является заменой атомов углерода гетероатомами;
+он происходит с ациклическими и циклическими углеводородами, образуя новые родительские структуры с использованием 
+префиксов скелетной замены («а»), т. е. «окса», «аза», «тиа» и т. д.
+
+#P-15.1.5.1.3+ 
+en: Indicated hydrogen (see P-14.7) is also a nondetachable prefix and is introduced in front of all other 
+nondetachable prefixes. 
+ru: Указанный водород (см. P-14.7) также является неотделяемой приставкой и вводится перед всеми другими неотделяемыми 
+приставками.
+
+#P-15.1.5.2 
+en: Detachable hydro/dehydro prefixes
+ru: Отделяемые префиксы гидро/дегидро 
+
+@p .framed
+en: These two prefixes are introduced in names by an additive or subtractive operation; thus, they are not included in the 
+category of detachable alphabetizable prefixes describing substitution (P-15.1.5.3). In names, they occupy a place 
+between nondetachable prefixes and the detachable alphabetizable prefixes. These prefixes express modifications of 
+the degree of hydrogenation of a ring or ring systen having the maximum number of noncumulative double bonds (a 
+mancude structure) and are treated for numbering like the endings ‘ene’ and ‘yne’, which fulfill the same function. 
+In names, the prefix ‘dehydro’ precedes the prefix ‘hydro’, when both are present. Simple numerical terms, such as 
+‘di-’, ‘tri-’, ‘tetra-’, etc., are used with ‘hydro’ and ‘dehydro‘. 
+ru: Эти два префикса вводятся в имена с помощью операции сложения или вычитания; таким образом, они не включены 
+в категорию отделяемых алфавитно-упорядоченных префиксов, описывающих замещение (P-15.1.5.3). В именах они занимают 
+место между неотделяемыми префиксами и отделяемыми алфавитно-упорядоченными префиксами. Эти префиксы выражают изменения 
+степени гидрирования кольца или кольцевой системы, имеющей максимальное количество некумулятивных двойных связей 
+(структура mancude), и обрабатываются для нумерации как окончания «ene» и «yne», которые выполняют ту же функцию.
+В именах префикс «dehydro» предшествует префиксу «hydro», когда присутствуют оба. Простые числовые термины, такие как 
+«ди-», «три-», «тетра-» и т. д., используются с «гидро» и «дегидро».
+
+#P-15.1.5.3 
+en: Detachable alphabetizable prefixes
+ru: Отделяемые алфавитно-упорядоченные префиксы
+
+en: These prefixes describe substituent groups denoting characteristic groups that are not cited as principal characteristic 
+group or groups derived from parent hydrides and are cited before the ‘hydro-dehydro’ prefixes, if present (see P-31.2), 
+or nondetachable prefixes, if present, as indicated in Fig. 1.1. They are alphabetized in accordance with P-14.5. 
+ru: Эти префиксы описывают замещающие группы, обозначающие характерные группы, которые не указаны как основные 
+характерные группы или группы, полученные из исходных гидридов, и указаны перед префиксами «гидро-дегидро», если они 
+присутствуют (см. P-31.2), или неотделяемыми префиксами, если они присутствуют, как указано на рис. 1.1. 
+Они расположены в алфавитном порядке в соответствии с P-14.5.
+
+#P-15.1.6 
+en: Other components of substitutive names
+ru: Другие компоненты замещающих имен
+
+en: In addition to the components described above, the following nomenclatural indicators are added, as required: 
+ru: В дополнение к описанным выше компонентам, по мере необходимости добавляются следующие номенклатурные показатели:
+
+#P-15.1.6.1+ 
+en: Multiplicative prefixes placed before suffixes and prefixes to indicate multiple occurrences. 
+ru: Мультипликативные префиксы, которые ставятся перед суффиксами и префиксами для указания на множественность вхождений.
+
+#P-15.1.6.2+ 
+en: Locants used to indicate positions of the parent structure at which modifications represented by suffixes, 
+prefixes, and endings occur. 
+ru: Локанты, используемые для указания позиций родительской структуры, в которых происходят модификации, 
+представленные суффиксами, префиксами и окончаниями.
+
+#P-15.1.6.3+ 
+en: Stereodescriptors placed at the front of the complete name or name fragment to which they apply (see 
+Chapter P-9). 
+ru: Стереодескрипторы, размещаемые в начале полного имени или фрагмента имени, к которому они относятся (см. Главу P-9).
+
+#P-15.1.7 
+en: Construction of substitutive names 
+ru: Построение замещающих имен
+
+en: This subsection describes the formation of substitutive names and the application of four general sets of rules dealing 
+with numbering (P-14.4), locants (P-14.3), multiplicative prefixes (P-14.2), and alphanumerical order (P-14.5). These 
+four sets of rules are applied in constructing names of most organic compounds. In the first set of examples, alkanes and 
+branched alkanes are used. In the second set, the general rule of numbering is exemplified by saturated and unsaturated 
+acyclic compounds denoted by suffixes. The full question of name construction is considered in P-45. 
+ru: В этом подразделе описывается образование замещающих названий и применение четырех общих наборов правил, касающихся 
+нумерации (P-14.4), локантов (P-14.3), мультипликативных префиксов (P-14.2) и алфавитно-цифрового порядка (P-14.5). 
+Эти четыре набора правил применяются при построении названий большинства органических соединений. В первом наборе 
+примеров используются алканы и разветвленные алканы. Во втором наборе общее правило нумерации иллюстрируется насыщенными 
+и ненасыщенными ациклическими соединениями, обозначенными суффиксами. Полный вопрос построения названий рассматривается в P-45.
+
+#P-15.1.7.1 
+en: Naming of alkanes and branched alkanes 
+ru: Наименование алканов и разветвленных алканов
+
+#P-15.1.7.1.1+ 
+en: The names of alkanes are either the retained names, methane, ethane, propane, and butane; or are names 
+formed systematically by adding the ending ‘ane’ to a basic multiplicative prefix, with elision of the final letter ‘a’ of 
+the multiplicative term (See Chapter P-2). 
+ru: Названия алканов представляют собой либо сохраненные названия, метан, этан, пропан и бутан; либо названия, 
+образованные систематически путем добавления окончания «ан» к основному мультипликативному префиксу с опусканием 
+последней буквы «а» мультипликативного члена (см. главу P-2).
+
+@Examples 3
+
+@cell
+<$ CH4 $>
+
+en: methane (PIN)
+ru: метан (PIN)
+
+@cell
+<$ CH3-CH3 $>
+
+en: ethane (PIN)
+ru: этан (PIN)
+
+@cell
+<$ CH3-CH2-CH3 $>
+
+en: propane (PIN) 
+ru: пропан (PIN)
+
+@cell
+<$ CH3-CH2-CH2-CH3 $>
+
+en: butane (PIN)
+ru: бутан (PIN)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH3 $>
+
+en: pentane (PIN) 
+ru: пентан (PIN)
+
+@cell
+<$ CH3-[CH2]8-CH3 $>
+
+en: decane (PIN)
+ru: декан (PIN)
+
+@End
+
+#P-15.1.7.1.2+ 
+en: Monovalent simple substituent groups derived from unbranched acyclic hydrocarbons (alkanes) by the 
+removal of one hydrogen atom from a terminal carbon atom (subtractive operation) are named by replacing the ending 
+‘ane’ of the name of the hydrocarbon by ‘yl’ (see P-29.3.2.1) or, if one hydrogen atom is removed from a nonterminal 
+carbon atom of a chain, by replacing the final ‘e’ of the name of the hydrocarbon by ‘yl’ (see P-29.3.2.2) (‘yl’ is a 
+cumulative suffix, see Fig. 1.1, P-15.1.1). 
+ru: Одновалентные простые замещающие группы, полученные из неразветвленных ациклических углеводородов (алканов) 
+путем удаления одного атома водорода от конечного атома углерода (операция вычитания), называются путем замены окончания 
+«ан» в названии углеводорода на «ил» (см. P-29.3.2.1) или, если один атом водорода удален от неконцевого атома углерода цепи, 
+путем замены конечного «е» в названии углеводорода на «ил» (см. P-29.3.2.2) («ил» является кумулятивным суффиксом, 
+см. рис. 1.1, P-15.1.1).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-CH2–{} $>
+
+en: butyl (preferred prefix) 
+ru: бутил (предпочтительный префикс)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2–{} $>
+
+en: pentyl (preferred prefix)
+ru: пентил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH@n(2,90)<`|{}>-CH3@n(1)
+$>
+
+en: butan-2-yl (preferred prefix)
+ru: бутан-2-ил (предпочтительный префикс)
+
+@End
+
+#P-15.1.7.1.3+ 
+en: A saturated branched acyclic hydrocarbon is formed by substituting one or more substituent groups, 
+formed as described in P-15.1.7.1.2, into the longest chain present in the structure (substitutive operation); it is named 
+by prefixing the designations of the side chains, as formed in P-15.1.7.1.2, to the name of the longest chain [see  
+P-15.1.7.1.4 for numbering]. 
+ru: Насыщенный разветвленный ациклический углеводород образуется путем замещения одной или нескольких замещающих групп, 
+образованных, как описано в P-15.1.7.1.2, в самой длинной цепи, присутствующей в структуре (операция замещения); 
+его название формируется путем добавления префикса обозначений боковых цепей, образованных, как описано в P-15.1.7.1.2, 
+к названию самой длинной цепи [нумерацию см. в P-15.1.7.1.4].
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2)-CH@n(3,90)<`|CH3>-CH2@n(4)-CH3@n(5)
+$>
+
+en: 3-methylpentane (PIN) 
+ru: 3-метилпентан (PIN)
+
+@End
+
+#P-15.1.7.1.4+ 
+en: The longest chain is numbered from one end to the other by arabic numbers, the direction being chosen so 
+as to give the lower locants to the substituent groups (side chains) [see P-14.4 (f)]. The lower set of locants is defined as 
+the set that, when compared term by term with other locant sets cited in order of increasing magnitude, has the lower 
+term at the first point of difference (see P-14.3.5). The locants are placed immediately in front of the part of the name to 
+which they refer. Identical simple substituent groups are indicated by multiplicative prefixes, such as ‘di’, ‘tri’, etc.  
+[P-16.3.3 (b)]. For compound or complex substituent groups (see P-29.4 and P-29.5), the multiplicative prefixes ‘bis’, 
+‘tris’, ‘tetrakis-’, etc. (P-14.2.2) are used as described in P-16.3.5 (a).
+ru: Самая длинная цепь нумеруется от одного конца до другого арабскими цифрами, направление выбирается таким образом, 
+чтобы нижние локанты соответствовали группам заместителей (боковым цепям) [см. P-14.4 (f)]. Наименьший набор локантов 
+определяется как набор, который при сравнении термина за термином с другими наборами локантов, указанными в порядке 
+возрастания величины, имеет меньший термин в первой точке различия (см. P-14.3.5). Локанты размещаются непосредственно 
+перед частью имени, к которой они относятся. Идентичные простые группы заместителей обозначаются мультипликативными 
+префиксами, такими как «ди», «три» и т. д. [P-16.3.3 (b)]. Для сложных или комплексных замещающих групп 
+(см. P-29.4 и P-29.5) мультипликативные префиксы «бис», «трис», «тетракис-» и т. д. (P-14.2.2) используются, 
+как описано в P-16.3.5 (a).
+
+@Examples
+
+@cell
+<$
+CH3@:w(c,i,cx,ix)<_(y-0.7,N0)$itemColor(darkgreen)"&c"<&cx>`|0$itemColor(darkred)"&i"&ix$itemColor()>@(5,1)-CH2@w(4,2)-CH2@w(3,3)-CH@w(2,4)<|CH3>-CH3@w(1,5,-0"`correct numbering`",-0"`incorrect numbering`")
+$>
+
+en: 2-methylpentane (PIN)
+ru: 2-метилпентан (PIN)
+
+@cell
+<$
+@:w(c,i,cx,ix)<_(y-0.7,N0)$itemColor(darkgreen)"&c"<&cx>`|0$itemColor(darkred)"&i"&ix$itemColor()>@;
+H3C@w(6,1)-CH@w(5,2)<|CH3>-CH2@w(4,3)-CH@w(3,4)<|CH3>-CH@w(2,5)<|CH3>-CH3@w(1,6,-0"`correct numbering`",-0"`incorrect numbering`")
+$>
+
+en: 2,3,5-trimethylhexane (PIN)  <br>
+(not 2,4,5-trimethylhexane;  <br>
+the locant set 2,3,5 is lower than 2,4,5) 
+ru: 2,3,5-триметилгексан (PIN) <br>
+(не 2,4,5-триметилгексан; <br>
+локантный набор 2,3,5 меньше, чем 2,4,5)
+
+@End
+
+#P-15.1.7.1.5+ 
+en: If two or more different substituent groups are present, they are cited in names in alphanumerical order 
+(see P-14.5). When two or more substituent groups occupy equivalent positions, the one to be assigned the lower locant 
+is that one cited first in the name.
+ru: Если присутствуют две или более различных замещающих групп, они приводятся в названиях в алфавитно-цифровом порядке 
+(см. P-14.5). Когда две или более замещающих групп занимают эквивалентные позиции, то следует 
+считать меньшей ту, которая указана первой в названии.
+
+@Examples
+
+@cell
+<$
+@:w(c,i,cx,ix)<_(y-0.7,N0)$itemColor(darkgreen)"&c"<&cx>`|0$itemColor(darkred)"&i"&ix$itemColor()>@;
+CH3@w(6,1)-CH2@w(5,2)-CH@w(4,3)<|CH2`-CH3>-CH2@w(3,4)-CH@w(2,5)<|CH3>-CH3@w(1,6,-0"`correct numbering`",-0"`incorrect numbering`")
+$>
+
+en: 4-ethyl-2-methylhexane (PIN)  <br>
+(not 3-ethyl-5-methylhexane;  <br>
+the locant set 2,4 is lower than 3,5)
+ru: 4-этил-2-метилгексан (PIN) <br>
+(не 3-этил-5-метилгексан; <br>
+локантный набор 2,4 меньше 3,5)
+// Здесь локанты сортируются независимо от названий, т.к. достаточно сравнить числа и станет точно известно, что метил (2) ближе к концу цепи, чем этил (3) 
+
+@cell
+<$
+@:w(c,i,cx,ix)<_(y-0.7,N0)$itemColor(darkgreen)"&c"<&cx>`|0$itemColor(darkred)"&i"&ix$itemColor()>@;
+CH3@w(1,7)-CH2@w(2,6)-CH@w(3,5)<|CH2`-CH3>-CH2@w(4,4)-CH@w(5,3)<|CH3>-CH2@w(6,2)-CH3@w(7,1,-0"`correct numbering`",-0"`incorrect numbering`")
+$>
+
+en: 3-ethyl-5-methylheptane (PIN)  <br>
+(not 5-ethyl-3-methylheptane;  <br>
+the lower locant must be assigned to the  
+substituent group that is cited first) 
+ru: 3-этил-5-метилгептан (PIN) <br>
+(не 5-этил-3-метилгептан; <br>
+нижний локант должен быть назначен замещающей группе, которая указана первой)
+// Здесь ситуация отличается от предыдущего примера тем что метил и этил находятся на одинаковом расстоянии от конца цепи (3)
+// Этил на англ меньше чем Метил, поэтому тут принимается нумерация с того конца цепи, где ближе этил.
+
+@End
+
+#P-15.1.7.2 
+en: The numbering rules 
+ru: Правила нумерации
+
+en: The following examples illustrate the rule for numbering described in P-14.4. This rule establishes an order of priority 
+among different nomenclatural features for assignment of the lowest possible locants.
+ru: Следующие примеры иллюстрируют правило нумерации, описанное в P-14.4. Это правило устанавливает порядок приоритета 
+среди различных номенклатурных признаков для назначения наименьших возможных локантов.
+
+#P-15.1.7.2.1+ 
+en: Alcohols are named by attaching the suffix ‘ol’ to the name of the parent hydride, with elision of the final 
+letter ‘e’ in the parent hydride, if present. When alone in the structure, the characteristic group(s) must receive the 
+lowest locant(s) possible, which is (are) cited immediately in front of the suffix (see P-14.3.2). 
+ru: Спирты именуются путем присоединения суффикса «ol» к названию родительского гидрида с опусканием последней 
+буквы «e» в родительском гидриде, если она присутствует. Если они находятся в структуре одни, характеристическая группа(ы) 
+должны получить наименьший возможный локант(ы), который(е) цитируется(ются) непосредственно перед суффиксом (см. P-14.3.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH2@n(1)-OH
+$>
+
+en: propan-1-ol (PIN) 
+ru: пропан-1-ол (PIN)
+
+@End
+
+#P-15.1.7.2.2+ 
+en: Alkenes are acyclic branched or unbranched hydrocarbons having one double bond. When one double 
+bond is present, an unbranched alkene is named by changing the ending ‘ane’ in the name of the alkane having the same 
+number of carbon atoms to the ending ‘ene’ (see P-31.1). The double bond is assigned the lowest locant possible, which 
+is placed immediately in front of the ending ‘ene’ (see P-14.3.2) 
+ru: Алкены — это ациклические разветвленные или неразветвленные углеводороды, имеющие одну двойную связь. 
+При наличии одной двойной связи неразветвленный алкен называют, изменяя окончание «ан» в названии алкана, имеющего 
+то же число атомов углерода, на окончание «ен» (см. P-31.1). Двойной связи присваивается самый низкий возможный локант, 
+который размещается непосредственно перед окончанием «ен» (см. P-14.3.2)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: but-1-ene (PIN)
+ru: бут-1-ен (PIN)
+
+@End
+
+#P-15.1.7.2.3+ 
+en: When several nomenclatural features are present in a structure, lowest locants are assigned in accordance 
+with P-14.4. For example, in an unsaturated alcohol having one substituent group, lowest locants are assigned in the 
+order:
+ru: Когда в структуре присутствует несколько номенклатурных признаков, меньшие локанты назначаются в соответствии с P-14.4. 
+Например, в ненасыщенном спирте, имеющем одну замещающую группу, низшие локанты назначаются в следующем порядке:
+
+@List
+
+@item
+en:  characteristic group cited as suffix (-ol); 
+ru: характерная группа, указанная как суффикс (-ол);
+
+@item
+en:  unsaturation (‘ene‘ ending, for example); 
+ru: ненасыщенность (например, окончание «ен»);
+
+@item
+en: detachable alphabetized prefixes (a methyl group, for instance). 
+ru: отделяемые алфавитные префиксы (например, метильная группа).
+
+@End
+
+@Examples
+en: The following examples illustrate the application of this rule
+ru: Следующие примеры иллюстрируют применение этого правила
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)=CH@n(3)-CH2@n(2)-CH2@n(1)-OH
+$>
+
+en: but-3-en-1-ol (PIN)
+ru: бут-3-ен-1-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3,90)<`|CH3>-CH3@n(4)
+$>
+
+en: 3-methylbut-1-ene (PIN)
+ru: 3-метилбут-1-ен (PIN)
+
+@cell
+<$
+@:w(c,i,cx,ix)<_(y-0.7,N0)$itemColor(darkgreen)"&c"<&cx>`|0$itemColor(darkred)"&i"&ix$itemColor()>@;
+CH3@w(1,7)-CH@w(2,6)=CH@w(3,5)-CH@w(4,4)<|OH>-CH2@w(5,3)-CH@w(6,2)<|CH3>-CH3@w(7,1,-0"`correct numbering`",-0"`incorrect numbering`")
+$>
+
+en: 6-methylhept-2-en-4-ol (PIN)  <br>
+(not 2-methylhept-5-en-4-ol) 
+ru: 6-метилгепт-2-ен-4-ол (PIN) <br>
+(не 2-метилгепт-5-ен-4-ол)
+
+@End
+
+#P-15.1.8 
+en: Substitution rules for parent structures with retained names 
+ru: Правила замены для исходных структур с сохраненными именами
+
+en: The following rules describe the substitutability of parent structures having retained names found in P-22.1.2, P-22.1.3, 
+Tables 2.2, 2.3, 2.7, 2.8, Tables 3.1, 3.2, and for functional parent compounds given in P-34. These rules do not apply to 
+functional parent compounds used in the nomenclature of natural products (see Chapter P-10), where specific rules 
+apply. 
+ru: Следующие правила описывают заменяемость родительских структур, имеющих сохраненные названия, найденные в P-22.1.2, 
+P-22.1.3, Таблицах 2.2, 2.3, 2.7, 2.8, Таблицах 3.1, 3.2, и для функциональных родительских соединений, приведенных 
+в P-34. Эти правила не применяются к функциональным родительским соединениям, используемым в номенклатуре природных 
+продуктов (см. Главу P-10), где применяются особые правила.
+
+@Content
+
+#P-15.1.8.1 
+en: Substitution rules for Type 1 retained names
+ru: Правила замены для сохраненных имен типа 1
+
+en: Type 1 retained names of parent hydrides described in Chapters P-2 and P-3 have unlimited substitution by substituent 
+groups cited either as suffixes or prefixes.
+ru: Сохраненные названия типа 1 исходных гидридов, описанные в главах P-2 и P-3, имеют неограниченную замену замещающими 
+группами, указанными либо как суффиксы, либо как префиксы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CHF@n(2)-CH@n(3)(NO2)-COOH@n(4)
+$>
+
+en: 2-fluoro-3-nitrobutanedioic acid (PIN)  <br>
+(butane is a retained name) 
+ru: 2-фтор-3-нитробутандиовая кислота (PIN) <br>
+(бутан — сохраненное название)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|_p@n(1,-70)_pp@n(2,60)<-OH>_p@n(3,80)_pp`|0_qq7@n(8,-70)_q7@n(7,-120)_qq7@n(6,180)_q7@n(5,180)<_(a64)H2N>_qq7@n(4,80)_q7
+$>
+
+en: 5-aminoazulen-2-ol (PIN; azulene is a retained name)  <br>
+(not 2-hydroxyazulen-5-amine)  
+ru: 5-аминоазулен-2-ол (PIN; азулен — сохраненное название) <br>
+(не 2-гидроксиазулен-5-амин)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|_p@n(1,0)<_(a-54,N2)O>_p@n(2,60)<=O>_p@n(3,150)<_(a-54,N2)O>_p`//`\`||/\\
+$>
+
+en: indane-1,2,3-trione  <br>
+1_H_-indene-1,2,3-trione (PIN) 
+ru: индан-1,2,3-трион <br>
+1_H_-инден-1,2,3-трион (PIN)
+
+@End
+
+#P-15.1.8.2 
+en: Substitution rules for Type 2 retained names
+ru: Правила замены для сохраненных имен типа 2
+
+en: Substitution of parent hydrides with retained names and of functional parent compounds whose retained names 
+explicitly or implicitly express the presence of a characteristic group normally expressed as a suffix, such as ‘-one’, or a 
+functional class, such as ‘ether’, is limited in different ways as described in the following subsections. Rules for the 
+substitution of inorganic oxo acids used as functional parents and parent structures are described in P-67. 
+ru: Замена исходных гидридов с сохраненными названиями и функциональных исходных соединений, чьи сохраненные названия 
+явно или неявно выражают наличие характерной группы, обычно выражаемой суффиксом, например, «-он», 
+или функционального класса, например, «эфир», ограничена различными способами, как описано в следующих подразделах. 
+Правила замены неорганических оксокислот, используемых в качестве функциональных родителей и родительских структур, 
+описаны в P-67.
+
+#P-15.1.8.2.1 
+en: Substitution rules for Type 2a retained names 
+ru: Правила замены для сохраненных имен типа 2a
+
+en: Type 2a retained names include functional parent compounds whose name expresses or implies a characteristic group 
+expressed as suffix in systematic names. 
+ru: Сохраненные названия типа 2а включают функциональные исходные соединения, название которых выражает или 
+подразумевает характерную группу, выраженную в виде суффикса в систематических названиях.
+
+#P-15.1.8.2.1.1+ 
+en: Substitution by substituent groups, expressed as prefixes, having a lower seniority than that denoted by 
+the suffix is allowed. 
+ru: Допускается замена замещающими группами, выраженными в виде префиксов, имеющими более низкий старшинство, 
+чем обозначенное суффиксом.
+
+@Examples
+
+@cell
+<$ H2N-CH2-CO-CH3 $>
+
+en: aminoacetone <br>
+1-aminopropan-2-one (PIN)
+ru: аминоацетон <br>
+1-аминопропан-2-он (PIN)
+
+@cell
+<$ HS-CH2-COOH $>
+
+en: sulfanylacetic acid (PIN)
+ru: сульфанилуксусная кислота (PIN)
+
+@End
+
+en: A suffix explicitly or implicitly present cannot be expressed as a prefix; 
+ru: Суффикс, присутствующий явно или неявно, не может быть выражен как префикс;
+
+@Examples
+
+@cell
+<$ HOOC-CH2-COOH $>
+
+en: propanedioic acid (PIN) <br>
+malonic acid <br>
+(not 2-carboxyacetic acid)
+ru: пропандиовая кислота (ПИН) <br>
+малоновая кислота <br>
+(не 2-карбоксиуксусная кислота)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`/@n(1,30)`\\`/||\//@n(2,90)<`|>\COOH
+$>
+
+en: benzene-1,2-dicarboxylic acid (PIN)  <br>
+phthalic acid  <br>
+(not 2-carboxybenzoic acid)
+ru: бензол-1,2-дикарбоновая кислота (PIN) <br>
+фталевая кислота <br>
+(не 2-карбоксибензойная кислота)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`/@n(1,30)`\\`/||@n(4,-140)<`/HOOC>\//@n(2,90)<`|>\COOH
+$>
+
+en: benzene-1,2,4-tricarboxylic acid (PIN)  <br>
+(not 2,4-dicarboxybenzoic acid;  <br>
+not 4-carboxyphthalic acid) 
+ru: бензол-1,2,4-трикарбоновая кислота (PIN) <br>
+(не 2,4-дикарбоксибензойная кислота; <br>
+не 4-карбоксифталевая кислота)
+
+@End
+
+#P-15.1.8.2.1.2+ 
+en: The senior characteristic group or functional class name must be expressed in the name. 
+ru: В названии должно быть указано имя старшей характеристической группы или функционального класса.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1,30)</COOH>|@n(2,90)\OH
+$>
+
+en: 2-hydroxybenzoic acid (PIN)  <br>
+(not 2-carboxyphenol)
+ru: 2-гидроксибензойная кислота (PIN) <br>
+(не 2-карбоксифенол)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\_(A-30)NH@n(N)-NO
+$>
+
+en: phenylnitrous amide (PIN)  
+_N_-nitrosoaniline 
+ru: фенилнитрозамид (PIN)
+_N_-нитрозоанилин
+
+@End
+
+#P-15.1.8.2.2 
+en: Substitution rules for Type 2b retained names
+ru: Правила замены для сохраненных имен типа 2b
+
+en: Type 2b retained names include parent compounds explicitly or implicitly devoid of suffixes; acetylene (PIN) and 
+allene are examples. Substitution of these parent compounds is possible by using specifically designated prefixes only.
+ru: Сохраненные названия типа 2b включают родительские соединения, явно или неявно лишенные суффиксов; 
+например, ацетилен (PIN) и аллен. Замена этих исходных соединений возможна только с использованием 
+специально обозначенных префиксов.
+
+en: The following characteristic groups cited can be used to substitute parent structures of Type 2b (ring and the side chain 
+if required): halides <$–Br$>, <$–Cl$>, <$–F$>, <$–I$>, pseudohalides <$–N3$>, <$–NCO$> (and chalcogen analogues), 
+<$–NC$>, substituent groups derived from the halogen oxo acids <$–ClO$>, <$–ClO2$>, <$–ClO3$>
+ (similarly for groups in which Cl is replaced by Br or I), <$–NO2$> and <$–NO$>, and <$–O{R}$> (R = alkyl groups), 
+ and chalcogen analogues, and <$–SO-{R}$> and <$–SO2-{R}$>, and Se and Te analogues (see Table 5.1). 
+ru: Следующие приведенные характерные группы могут быть использованы для замены исходных структур типа 2b (кольцо и 
+боковая цепь, если требуется): галогениды <$–Br$>, <$–Cl$>, <$–F$>, <$–I$>, псевдогалогениды <$–N3$>, <$–NCO$> 
+(и аналоги халькогенов), <$–NC$>, замещающие группы, полученные из галогеноксокислот <$–ClO$>, <$–ClO2$>, <$–ClO3$> 
+(аналогично для групп, в которых Cl заменен на Br или I), <$–NO2$> и <$–NO$>, и <$–O{R}$> (R = алкильные группы), 
+и аналоги халькогенов, и <$–SO-{R}$> и <$–SO2-{R}$>, и аналоги Se и Te (см. Таблицу 5.1).
+
+@Examples
+
+@cell
+<$ Br-C≡C-H $>
+
+en: bromoacetylene  <br>
+bromoethyne (PIN)
+ru: бромацетилен <br>
+бромэтин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH@n(1)=C@n(2)=CH@n(3)-Cl
+$>
+
+en: 1,3-dichloroallene  <br>
+1,3-dichloropropa-1,2-diene (PIN)
+ru: 1,3-дихлораллен <br>
+1,3-дихлорпропа-1,2-диен (PIN)
+
+@End
+
+#P-15.1.8.2.3 
+en: Substitution rules for Type 2c retained names
+ru: Правила замены для сохраненных имен типа 2c
+
+en: Type 2c retained names are functional parent compounds that are not included in Type 2b, for example, hydroxylamine 
+(see P-68.3.1.1.1), formic acid (see P-65.1.8), and anisole (see P-34.1.1.4). 
+ru: Сохраненные названия типа 2c представляют собой функциональные исходные соединения, которые не включены в тип 2b, 
+например, гидроксиламин (см. P-68.3.1.1.1), муравьиная кислота (см. P-65.1.8) и анизол (см. P-34.1.1.4).
+
+@Examples
+
+@cell
+<$ H2N-O-CH3 $>
+
+en: _O_-methylhydroxylamine (PIN)  <br>
+[not methoxyamine (see P-68.3.1.1.1.2)] 
+ru: _O_-метилгидроксиламин (PIN)  <br>
+[не метоксиамин (см. P-68.3.1.1.1.2)]
+
+@cell
+<$ HS-CO-OH $>
+
+en: carbonothioic S-acid (PIN)  <br>
+[not sulfanylformic acid (see P-65.1.8.1)]
+ru: карбонотиоевая S-кислота (PIN) <br>
+[не сульфанилмуравьиная кислота (см. P-65.1.8.1)]
+
+@End
+
+#P-15.1.8.3 
+en: Substitution rules for Type 3 retained names 
+ru: Правила замены для сохраненных имен типа 3
+
+en: No substitution of any kind is allowed for retained names of parent hydrides and functional parent compounds of type 3. 
+However, functionalization of characteristic groups, such as the formation of esters, anhydrides, and salts is allowed 
+ru: Никакие замены не допускаются для сохраненных названий исходных гидридов и функциональных исходных соединений типа 3.
+Однако функционализация характерных групп, такая как образование сложных эфиров, ангидридов и солей, допускается
+
+@Examples
+
+@cell
+<$ Cl-CH2-CH2-COOH $>
+
+en: 3-chloropropanoic acid (PIN)  <br>
+(not 3-chloropropionic acid)
+ru: 3-хлорпропановая кислота (PIN) <br>
+(не 3-хлорпропионовая кислота)
+
+@cell
+<$ CH3-CH2-CO-O-CH2-CH3 $>
+
+en: ethyl propanoate (PIN)  <br>
+ethyl propionate 
+ru: этилпропаноат (PIN) <br>
+этилпропионат
+// http://charchem.org/ru/subst-ref/?id=2575
+
+@End

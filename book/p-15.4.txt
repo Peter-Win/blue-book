@@ -1,0 +1,11 @@
+#P-15.4 
+en: Skeletal replacement (‘a’) nomenclature 
+ru: Номенклатура скелетных замещений (‘a’)
+
+#P-15.5 
+en: Functional replacement nomenclature  
+ru: Функциональная номенклатура замены
+
+#P-15.6 
+en: Conjunctive nomenclature 
+ru: Конъюнктивная номенклатура

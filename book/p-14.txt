@@ -1,0 +1,2752 @@
+#P-14 
+en: General rules
+ru: Общие правила
+
+@Content
+
+#P-14.0 
+en: Introduction
+ru: Введение
+
+en: Rules described in this section are of general application for naming types of compounds and individual compounds. 
+They must be closely followed to construct preferred IUPAC names as well as names for general use. 
+ru: Правила, описанные в этом разделе, имеют общее применение для наименования типов соединений и отдельных соединений.
+Им необходимо строго следовать для построения предпочтительных названий ИЮПАК, а также названий для общего использования.
+
+#P-14.1 
+en: Bonding number
+ru: Число связей
+
+en: The concept of a standard valence state for an atom is fundamental to organic nomenclature. Since most organic names 
+are derived by formal exchange of hydrogen atoms of a parent structure for other atoms or groups, it is necessary to 
+know exactly how many hydrogen atoms are implied for skeletal atoms of the parent structure. For example, does the 
+name phosphane refer to <$ PH3 $> or <$ PH5 $> ? 
+This is a problem when an element can occur in more than one valence state; in 
+such cases, the standard state is normally not specified, but any other valence state is noted by citation of an appropriate 
+**bonding number**. More details are given in the publication ‘Treatment of Variable Valence in Organic Nomenclature 
+(Lambda Convention)’ (ref. 13). In these Recommendations, this convention is called simply the ‘λ-convention’. 
+ru: Концепция стандартного валентного состояния атома является основополагающей для органической номенклатуры. 
+Поскольку большинство органических названий получены путем формальной замены атомов водорода исходной структуры 
+на другие атомы или группы, необходимо точно знать, сколько атомов водорода подразумевается для скелетных атомов 
+исходной структуры. Например, относится ли название фосфан к <$ PH3 $> или <$ PH5 $> ?
+Это проблема, когда элемент может встречаться в более чем одном валентном состоянии; в таких случаях стандартное 
+состояние обычно не указывается, но любое другое валентное состояние отмечается указанием соответствующего 
+**числа связей**. Более подробная информация приведена в публикации «Обработка переменной валентности 
+в органической номенклатуре (лямбда-конвенция)» (ссылка 13). 
+В настоящих Рекомендациях эта конвенция называется просто «λ-конвенцией».
+
+#P-14.1.1 
+en: Definition.
+ru: Определение.
+
+en: The bonding number ‘_n_’ of a skeletal atom is the sum of the total number of bonding equivalents (valence bonds) of 
+that skeletal atom to adjacent skeletal atoms, if any, in a parent hydride and the number of hydrogen atoms.
+ru: Число связей «_n_» скелетного атома представляет собой сумму общего числа эквивалентов связей (валентных связей) 
+этого скелетного атома с соседними скелетными атомами, если таковые имеются, в исходном гидриде и числа атомов водорода.
+
+@Examples 2
+
+@cell
+<$ H2S $>
+
+@cell
+en: for S, _n_ = 2
+ru: для S, _n_ = 2
+
+@cell
+<$ H6S $>
+
+@cell
+en: for S, _n_ = 6
+ru: для S, _n_ = 6
+
+@cell
+<$ (C6H5)3PH2 $>
+
+@cell
+en: for P, _n_ = 5
+ru: для P, _n_ = 5
+
+@cell
+<$ N\\|`//`\`||/ $>
+
+@cell
+en: for N, _n_ = 3
+ru: для N, _n_ = 3
+
+@End
+
+#P-14.1.2+ 
+en: Standard bonding numbers. The bonding number of a skeletal atom is standard when it has the value given in Table 1.3. 
+ru: Стандартные числа связей. Число связей скелетного атома является стандартным, если оно имеет значение, указанное в Таблице 1.3.
+
+@Table 1.3
+en: Standard bonding numbers for the elements of Groups 13, 14, 15, 16, and 17
+ru: Стандартные числа связей для элементов групп 13, 14, 15, 16 и 17
+
+@th
+en: Standard bonding <br> number (_n_) 
+ru: Стандартное число <br> связей (_n_)
+
+@th; colspan=5
+en: Element
+ru: Элемент
+
+@td
+3
+
+@td
+B
+
+@td
+Al
+
+@td
+Ga
+
+@td
+In
+
+@td
+Tl
+
+@td
+4
+
+@td
+C
+
+@td
+Si
+
+@td
+Ge
+
+@td
+Sn
+
+@td
+Pb
+
+@td
+3
+
+@td
+N 
+
+@td
+P 
+
+@td
+As 
+
+@td
+Sb 
+
+@td
+Bi
+
+@td
+2
+
+@td
+O
+
+@td
+S 
+
+@td
+Se 
+
+@td
+Te 
+
+@td
+Po
+
+@td
+1
+
+@td
+F
+
+@td
+Cl
+
+@td
+Br
+
+@td
+I
+
+@td
+At
+
+@EndTable
+
+#P-14.1.3 
+en: Nonstandard bonding numbers
+ru: Нестандартные числа связей
+
+en: A nonstandard bonding number of a **neutral** skeletal atom of a parent hydride is indicated by the symbol ‘λ^{_n_}’, cited in 
+conjunction with an appropriate locant. Note that the ‘_n_’ in the symbol ‘λ^{_n_}’ is italicized but the numbers in a specific 
+symbol, e.g., ‘λ^{4}’, are not (for the use of italicized ‘_n_’ in the symbol ‘λ^{_n_}’, see the General rules for symbols in physical 
+quantities, Section 1.3 in ref. 14). 
+ru: Нестандартное число связей **нейтрального** скелетного атома исходного гидрида обозначается символом «λ^{_n_}», 
+цитируемым вместе с соответствующим локантом. Обратите внимание, что «_n_» в символе «λ^{_n_}» выделено курсивом, 
+но числа в определенном символе, например, «λ^{4}», не выделены (для использования курсивного «_n_» в символе «λ^{_n_}» см. 
+Общие правила для символов в физических величинах, Раздел 1.3 в ссылке 14).
+
+@Examples
+
+@cell
+<$ CH3-SH5 $>
+
+en: methyl-λ^{6}-sulfane (PIN)
+ru: метил-λ^{6}-сульфан (PIN)
+
+@cell
+<$ (C6H5)3PH2 $>
+
+en: triphenyl-λ^{5}-phosphane (PIN) 
+ru: трифенил-λ^{5}-фосфан (PIN)
+
+@cell
+<$ 
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)S@n(1,-10,.6)\\@n(2,-30,.5)|N@n(3,0,.5)`//`\`||/
+$>
+
+en: 1λ^{4},3-thiazine (PIN)
+ru: 1λ^{4},3-тиазин (PIN)
+
+@End
+
+#P-14.2 
+en: Multiplicative prefixes
+ru: Мультипликативные префиксы
+
+en: Three types of multiplicative prefixes are used in names to denote multiplicity of identical features in structures 
+(characteristic groups, substituent groups, multiple bonds) and correspondingly of affixes (suffixes, infixes, and 
+prefixes) in names. They are always placed before the part of the name to which they relate. 
+ru: Три типа мультипликативных префиксов используются в именах для обозначения множественности одинаковых признаков 
+в структурах (характеристических групп, замещающих групп, кратных связей) и соответственно аффиксов (суффиксов, 
+инфиксов и префиксов) в именах. Они всегда ставятся перед той частью имени, к которой они относятся.
+
+#P-14.2.1+ 
+en: Basic multiplicative prefixes denote simple features and, in general, are the first choice among such prefixes to 
+specify multiplicity (ref. 15). They are listed in Table 1.4. 
+ru: Базовые мультипликативные префиксы обозначают простые признаки и, в общем, являются первым выбором среди 
+таких префиксов для указания кратности (ссылка 15). Они перечислены в таблице 1.4.
+
+// https://chemister.ru/Chemie/prefix.htm - переводы отсюда
+
+@Table 1.4 
+en: Basic numerical terms (multiplicative prefixes) 
+ru: Основные числовые термины (мультипликативные префиксы)
+
+@th
+en: Number
+ru: Число
+
+@th
+en: Numerical <br> Term 
+ru: Числовой <br> термин
+
+@th
+en: Number
+ru: Число
+
+@th
+en: Numerical <br> Term 
+ru: Числовой <br> термин
+
+@th
+en: Number
+ru: Число
+
+@th
+en: Numerical <br> Term 
+ru: Числовой <br> термин
+
+@th
+en: Number
+ru: Число
+
+@th
+en: Numerical <br> Term 
+ru: Числовой <br> термин
+
+@td
+1
+
+@td
+en: mono, hen
+ru: моно, ген
+
+@td
+11
+
+@td
+en: undeca
+ru: ундека
+
+@td
+101
+
+@td
+en: henhecta
+ru: гендека
+
+@td
+1001
+
+@td
+en: henkilla
+ru: генкила
+
+@td
+2
+
+@td
+en: di,do
+ru: ди, до
+
+@td
+20
+
+@td
+en: icosa
+ru: эйкоза
+// https://en.wikipedia.org/wiki/Icosane  -> Эйкозан
+
+@td
+200
+
+@td
+en: dicta
+ru: дикта
+
+@td
+2000
+
+@td
+en: dilia
+ru: дила
+// не удалось в русских источниках найти больше чем 1000. Поэтому переведено по аналогии с "кила"
+
+@td
+3
+
+@td
+en: tri
+ru: три 
+
+@td
+30
+
+@td
+en: triaconta
+ru: триаконта 
+
+@td
+300
+
+@td
+en: tricta
+ru: трикта
+
+@td
+3000
+
+@td
+en: trilia
+ru: трила
+
+@td
+4
+
+@td
+en: tetra
+ru: тетра 
+
+@td
+40
+
+@td
+en: tetraconta
+ru: тетраконта 
+
+@td
+400
+
+@td
+en: tetracta
+ru: тетракта
+
+@td
+4000
+
+@td
+en: tetralia
+ru: тетрала 
+
+@td
+5
+
+@td
+en: penta
+ru: пента 
+
+@td
+50
+
+@td
+en: pentaconta
+ru: пентаконта 
+
+@td
+500
+
+@td
+en: pentacta
+ru: пентакта
+
+@td
+5000
+
+@td
+en: pentalia
+ru: пентала
+
+@td
+6
+
+@td
+en: hexa
+ru: гекса 
+
+@td
+60
+
+@td
+en: hexaconta
+ru: гексаконта 
+
+@td
+600
+
+@td
+en: hexacta
+ru: гексакта
+
+@td
+6000
+
+@td
+en: hexalia
+ru: гексала
+
+@td
+7
+
+@td
+en: hepta
+ru: гепта 
+
+@td
+70
+
+@td
+en: heptaconta
+ru: гептаконта 
+
+@td
+700
+
+@td
+en: heptacta
+ru: гептакта
+
+@td
+7000
+
+@td
+// В оригинале тут опечатка
+en: heptalia
+ru: гептала
+
+@td
+8
+
+@td
+en: octa
+ru: окта 
+
+@td
+80
+
+@td
+en: octaconta
+ru: октаконта 
+
+@td
+800
+
+@td
+en: octacta
+ru: октакта
+
+@td
+8000
+
+@td
+en: octalia
+ru: октала
+
+@td
+9
+
+@td
+en: nona
+ru: нона 
+
+@td
+90
+
+@td
+en: nonaconta
+ru: нонаконта
+
+@td
+900
+
+@td
+en: nonacta
+ru: нонакта 
+
+@td
+9000
+
+@td
+en: nonalia
+ru: нонала
+
+@td
+10
+
+@td
+en: deca
+ru: дека 
+
+@td
+100
+
+@td
+en: hecta
+ru: гекта 
+
+@td
+1000
+
+@td
+en: kilia
+ru: кила 
+
+@td
+
+@td
+
+@EndTable
+
+#P-14.2.1.1
+en: The prefix mono
+ru: Префикс моно
+
+#P-14.2.1.1.1+ 
+en: When alone, the numerical term for the number ‘1’ is ‘mono’ and that for ‘2’ is ‘di’. In association with 
+other numerical terms, the number ‘1’ is represented by ‘hen’ (except in the case of ‘undeca’) and the number ‘2’ by 
+‘do’ (except in the cases of ‘dicta’ and ‘dilia’). The numerical term for the number ‘11’ is ‘undeca’.
+ru: Когда число «1» стоит отдельно, то числовой термин для числа «1» — «моно», а для числа «2» — «ди». В сочетании 
+с другими числовыми терминами число «1» представлено как «ген» (за исключением случая «ундека»), а число «2» — как «до» 
+(за исключением случаев «дикта» и «дила»). Числовой термин для числа «11» — «ундека». 
+
+#P-14.2.1.1.2+ 
+en: The prefix ‘mono’ is not used in systematically formed names to indicate the presence of one 
+nomenclatural feature, for example suffixes, prefixes, endings. It is used in functional class nomenclature to designate a 
+monoester of a diacid, for example phthalic acid monomethyl ester, and in terminology, to emphasize singleness, for 
+example, monocyclic and mononuclear in contrast to bicyclic and polynuclear. 
+ru: Префикс «моно» не используется в систематически образованных названиях для указания на наличие одного 
+номенклатурного признака, например суффиксы, префиксы, окончания. Он используется в номенклатуре функциональных классов 
+для обозначения моноэфира дикислоты, например монометиловый эфир фталевой кислоты, и в терминологии для подчеркивания 
+единичности, например, моноциклический и моноядерный в отличие от бициклического и многоядерного.
+
+#P-14.2.1.2 
+en: Derivation of basic numerical terms
+ru: Вывод основных числовых терминов
+
+en: After ‘undeca-’ (for the number eleven), composite numerical terms are formed systematically by citing the basic terms 
+in the order opposite to that of the constituent digits in the arabic numbers. The composite terms are formed by direct 
+joining of the basic terms, without hyphen(s). The letter ‘i’ in ‘icosa’ is elided after a vowel. 
+ru: После «ундека-» (для числа одиннадцать) составные числовые термины образуются систематически путем указания 
+основных терминов в порядке, противоположном порядку составных цифр в арабских числах. Составные термины образуются 
+путем прямого соединения основных терминов без дефиса(ов). 
+Буквы «эй» в «эйкоза» опускаются после гласной.
+
+@Examples 2
+
+@cell
+486
+
+@cell
+en: <$ {hexa}<|0"6">$color(blue)_(h){octaconta}<|0"80">_(h)$color(green){tetracta}<|0"400"> $>
+ru: <$ {гекса}<|0"6">$color(blue)_(h){октаконта}<|0"80">_(h)$color(green){тетракта}<|0"400"> $>
+
+@End
+
+@Examples 6 -- .left-aligned-cells
+
+@cell
+14
+
+@cell
+// Ошибка в оригинале - tetracosa, но 24 есть в другой ячейке
+en: tetradeca
+ru: тетрадека
+
+@cell
+21
+
+@cell
+en: henicosa
+ru: генэйкоза
+
+@cell
+22
+
+@cell
+en: docosa
+ru: докоза 
+
+@cell
+23
+
+@cell
+en: tricosa
+ru: трикоза 
+
+@cell
+24
+
+@cell
+en: tetracosa
+ru: тетракоза 
+
+@cell
+41
+
+@cell
+en: hentetraconta
+ru: гентетраконта 
+
+@cell
+52
+
+@cell
+en: dopentaconta
+ru: допентаконта 
+
+@cell
+111
+
+@cell
+en: undecahecta
+ru: ундекагекта 
+
+@cell
+363
+
+@cell
+en: trihexacontatricta
+ru: тригексаконтатрикта
+
+@End
+
+#P-14.2.2 
+en: Numerical terms for compound or complex features
+ru: Числовые термины для составных или сложных случаев
+
+en: Multiplicative prefixes for compound or complex entities, such as substituted substituents, are formed by adding the 
+ending ‘kis’ to the basic multiplicative prefix ending in ‘a’, ‘tetrakis’, ‘pentakis’, etc. (ref. 15). The prefixes ‘bis’ and 
+‘tris’ correspond to ‘di’ and ‘tri’. The basic prefix ‘mono’ has no counterpart in this series. 
+ru: Мультипликативные префиксы для составных или сложных сущностей, таких как замещенные заместители, образуются 
+путем добавления окончания «кис» к базовому мультипликативному префиксу, оканчивающемуся на «a», «тетракис», 
+«пентакис» и т. д. (ссылка 15). Префиксы «бис» и «трис» соответствуют «ди» и «три». 
+Базовый префикс «моно» не имеет аналога в этой серии.
+
+@Examples 6 .left-aligned-cells
+
+@cell
+2
+
+@cell
+en: bis
+ru: бис
+
+@cell
+3
+
+@cell
+en: tris
+ru: трис
+
+@cell
+4
+
+@cell
+en: tetrakis
+ru: тетракис
+
+@cell
+231
+
+@cell colspan=5
+en: hentriacontadictakis
+ru: гентриаконтадиктакис
+
+@End
+
+#P-14.2.3 
+en: Multiplicative prefixes for naming assemblies of identical units 
+ru: Мультипликативные префиксы для именования совокупностей идентичных единиц
+
+en: The traditional prefixes used to denote the number of repeated identical units in unbranched ring assemblies (see P-28) 
+are as follows:
+ru: Традиционные префиксы, используемые для обозначения числа повторяющихся идентичных единиц в неразветвленных 
+кольцевых сборках (см. P-28), следующие:
+
+// https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BD%D0%BE%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8
+
+@Examples -- 6 .left-aligned-cells
+
+@cell
+2
+
+@cell
+en: bis
+ru: бис
+
+@cell
+5
+
+@cell
+en: quinque
+ru: квинки
+
+@cell
+8
+
+@cell
+en: octi
+ru: окти
+
+@cell
+3
+
+@cell
+en: ter
+ru: тер
+
+@cell
+6
+
+@cell
+en: sexi
+ru: секси
+
+@cell
+9
+
+@cell
+en: novi
+ru: нови
+
+@cell
+4
+
+@cell
+en: quater
+ru: кватер
+
+@cell
+7
+
+@cell
+en: septi
+ru: септи
+
+@cell
+10
+
+@cell
+en: deci
+ru: деци
+
+@End
+
+en: This list has been completed from 11 to 9999. The prefixes are formed by changing the ending ‘a’ of basic numerical 
+prefixes into ‘i’, for example, ‘undeci’ for the number ‘11’, ‘hexadeci’ for the number ‘16’, ‘tetraconti’ for the number 
+‘40’. 
+ru: Этот список был дополнен числами от 11 до 9999. Префиксы образуются путем изменения окончания «a» основных 
+числовых префиксов на «и», например, «ундеци» для числа «11», «гексадеци» для числа «16», «тетраконти» для числа «40».
+
+#P-14.3 
+en: Locants
+ru: Локанты
+
+#P-14.3.1 
+en: Types of locants
+ru: Типы локантов
+
+en: Traditional types of locants are arabic numbers, for example, 1, 2, 3; primed locants, for example, 1′, 1′′′, 2′′; locants 
+including a lower case Roman letter, for example, 3a, 3b; italicized Roman letters, for example, _O_, _N_, _P_; Greek letters, 
+for example, ‘α-, β-, γ-’ and compound locants, for example, ‘1(10)’ and ‘5(17)’. 
+ru: Традиционными типами локантов являются арабские цифры, например, 1, 2, 3; локанты со штрихами, например, 1′, 1′′′, 2′′; 
+локанты, включающие строчные латинские буквы, например, 3a, 3b; курсивные латинские буквы, например, _O_, _N_, _P_; 
+греческие буквы, например, «α-, β-, γ-» и составные локанты, например, «1(10)» и «5(17)».
+
+en: The locants _o_, _m_, _p_ are no longer recommended; the numerical locants ‘1,2-’, ‘1,3-’, and ‘1,4-’ must be used in 
+substitutive names. However, as an exception, the three isomers of xylene and cresol are still recognized as _o_-, _m_-, and 
+_p_-xylene and _o_-, _m_-, and _p_-cresol in general IUPAC nomenclature (see P-22.1.3 and P-63.1.1.2). The prefixes _o_-, _m_-, 
+and _p_-tolyl are still recognized for general nomenclature (see P-29.6.2.3). No substitution is allowed.  
+ru: Локанты _o_, _m_, _p_ больше не рекомендуются; числовые локанты «1,2-», «1,3-» и «1,4-» должны использоваться 
+в замещающих названиях. Однако, в качестве исключения, три изомера ксилена и крезола по-прежнему признаются как 
+_o_-, _m_- и _p_-ксилен и _o_-, _m_- и _p_-крезол в общей номенклатуре ИЮПАК (см. P-22.1.3 и P-63.1.1.2). 
+Префиксы _o_-, _m_- и _p_-толил по-прежнему признаются для общей номенклатуры (см. P-29.6.2.3). Замена не допускается.
+
+en: Composite locants, for example, 3^{2}, 2a^{1}, _N_^{2′}, and _O_^{3} have been developed in recent years for various purposes and are 
+included in these recommendations. They are used in phane nomenclature to indicate positions in amplificants (see  
+P-26.4.3); for numbering in ring assemblies (see P-28.3); to denote interior positions in fused ring systems (see  
+P-25.3.3.3); and in von Baeyer descriptors for spiro ring systems (see P-24.2.2). They are also used in steroid (ref. 16 
+and P-101.7.1.1), tetrapyrrole (ref. 17), and amino acid and peptide nomnclature (ref. 18 and P-103.2.1). 
+ru: Составные локанты, например, 3^{2}, 2a^{1}, _N_^{2′} и _O_^{3}, были разработаны в последние годы для различных целей 
+и включены в эти рекомендации. Они используются в номенклатуре фан для указания позиций в амплификантах (см. P-26.4.3); 
+для нумерации в кольцевых сборках (см. P-28.3); для обозначения внутренних позиций в конденсированных кольцевых 
+системах (см. P-25.3.3.3); и в дескрипторах фон Байера для спирокольцевых систем (см. P-24.2.2). Они также используются 
+в стероидной (ссылка 16 и P-101.7.1.1), тетрапиррольной (ссылка 17) и аминокислотной и пептидной номенклатуре 
+(ссылка 18 и P-103.2.1).
+
+en: Primes are added to differentiate between the same locant in the same or different parts of the structure, for example, 1′, 
+2′′, _N_′, and α′. In locants consisting of two or more characters, primes are generally added to the primary character. For 
+example, in locants including a lower case Roman letter, used in fused rings, primes are added following the arabic 
+number, for example, 3′a and 2′a^{1}; this format follows the principle that in locants for fusion positions in a fused ring 
+system a letter follows the previous peripheral locant. For composite locants used in phane nomenclature, the prime 
+follows the superatom locant, as in 2′^{3} and 2′^{4a}. In multiplicative nomenclature, primes may appear just after a letter 
+locant, such as _N_′^{4} or following the composite letter locant, such as _N_^{2′}. 
+ru: Штрихи добавляются для различения одного и того же локанта в одной и той же или разных частях структуры, например, 
+1′, 2′′, _N_′ и α′. В локантах, состоящих из двух или более символов, штрихи обычно добавляются к основному символу. 
+Например, в локантах, включающих строчную римскую букву, используемых в слитых кольцах, штрихи добавляются после 
+арабской цифры, например, 3′a и 2′a^{1}; этот формат следует принципу, что в локантах для позиций слияния в системе 
+слитых колец буква следует за предыдущим периферическим локантом. Для составных локантов, используемых в номенклатуре фан, 
+штрих следует за локантом суператома, как в 2′^{3} и 2′^{4a}. В мультипликативной номенклатуре штрихи могут появляться 
+сразу после буквенного локанта, например, _N_′^{4}, или после составного буквенного локанта, например, _N_^{2′}.
+
+#P-14.3.2 
+en: Position of locants
+ru: Положение локантов
+
+en: Locants (numerals and/or letters) are placed immediately before that part of the name to which they relate, except in the 
+case of the traditional contracted names when locants are placed at the front of their names. 
+ru: Локанты (цифры и/или буквы) размещаются непосредственно перед той частью имени, к которой они относятся, 
+за исключением случаев традиционных сокращенных имен, когда локанты размещаются в начале имени.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH2@n(4)-CH@n(3)=CH@n(2)-CH3@n(1)
+$>
+
+en: hex-2-ene (PIN) <br>
+(not 2-hexene) 
+ru: гекс-2-ен (PIN) <br>
+(не 2-гексен)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,-30)\@n(2,-30)||`/`\`|/
+$>
+
+en: cyclohex-2-en-1-ol (PIN) <br>
+(not 2-cyclohexen-1-ol)
+ru: циклогекс-2-ен-1-ол (PIN) <br>
+(не 2-циклогексен-1-ол)
+
+@cell
+<$
+@:n(n,a,L:0.4)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(2,30)|`//`\`/`\\`|//\|`|/@n(1,-90)\\/(*_q4~*)_p4~
+$>
+
+en: naphthalen-2-yl (preferred prefix)  <br>
+2-naphthyl (contracted name) <br>
+(not naphth-2-yl) 
+ru: нафталин-2-ил (предпочтительный префикс) <br>
+2-нафтил (сокращенное название) <br>
+(не нафт-2-ил)
+
+@End
+
+#P-14.3.3 
+en: Citation of locants
+ru: Цитирование локантов
+
+en: In preferred IUPAC names, if any locants are essential for defining the structure of the parent structure or of a unit of 
+structure as defined by its appropriate enclosing marks, then all locants must be cited for the parent structure or that 
+structural unit. For example, the omission of the locant ‘1’ in 2-chloroethanol, while permissible in general usage, is not 
+allowed in preferred IUPAC names, thus the name 2-chloroethan-1-ol is the PIN. And in the following example,  
+1-phenyl-2-(phenyldiazenyl)-2-(phenylhydrazinylidene)ethan-1-one (PIN), locants are not used for the structural units 
+defined by the parentheses even though locants are used for these substituents of the parent structure ethanone. Also, in 
+preferred IUPAC multiplicative names and in preferred IUPAC names for ring assemblies locants are always cited, e.g., 
+1,1′-oxydibenzene (P-15.3.1.3) and 1,1′-biphenyl (P-28.2.1). 
+ru: В предпочтительных названиях ИЮПАК, если какие-либо локанты необходимы для определения структуры исходной структуры 
+или единицы структуры, как определено соответствующими охватывающими знаками, то все локанты должны быть указаны для 
+исходной структуры или этой структурной единицы. Например, пропуск локанта «1» в 2-хлорэтаноле, хотя и допустим в общем 
+использовании, не допускается в предпочтительных названиях ИЮПАК, таким образом, название 2-хлорэтан-1-ол является PIN. 
+И в следующем примере, 1-фенил-2-(фенилдиазенил)-2-(фенилгидразинилиден)этан-1-он (PIN), локанты не используются для 
+структурных единиц, определенных скобками, даже если локанты используются для этих заместителей исходной структуры этанона. 
+Кроме того, в предпочтительных мультипликативных названиях ИЮПАК и в предпочтительных названиях ИЮПАК для 
+кольцевых сборок всегда указываются локанты, например, 1,1′-оксидибензол (P-15.3.1.3) и 1,1′-бифенил (P-28.2.1).
+
+#P-14.3.4 
+en: Omission of locants 
+ru: Пропуск локантов
+
+en: The practice of omitting locants when there is no ambiguity is widespread. However, for absolute clarity in preferred 
+IUPAC names it is necessary to be prescriptive about when omission of locants is permissible. 
+ru: Практика пропуска локантов, когда нет двусмысленности, широко распространена. Однако для абсолютной ясности 
+в предпочтительных названиях ИЮПАК необходимо предписывать, когда допустимо пропускать локанты.
+
+en: Locants are omitted in preferred IUPAC names in the following cases.
+ru: Локанты опускаются в предпочтительных названиях ИЮПАК в следующих случаях.
+
+#P-14.3.4.1+ 
+en: Terminal locants are not cited in names for mono- and dicarboxylic acids derived from acyclic hydrocarbons 
+and their corresponding acyl halides, amides, hydrazides, nitriles, esters, aldehydes, amidines, amidrazones, 
+hydrazidines, and amidoximes, when unsubstituted or substituted on carbon atoms. 
+ru: Концевые локанты не указываются в названиях моно- и дикарбоновых кислот, полученных из ациклических углеводородов 
+и соответствующих им ацилгалогенидов, амидов, гидразидов, нитрилов, эфиров, альдегидов, амидинов, амидразонов, 
+гидразидинов и амидоксимов, когда они незамещены или замещены у атомов углерода.
+
+@Examples
+
+@cell
+<$ HOOC-CH2-CH2-COOH $>
+
+en: butanedioic acid (PIN)
+ru: бутандиовая кислота (PIN)
+// http://charchem.org/ru/subst-ref/?id=547
+
+@cell
+<$ HOOC-CH2-CH(Cl)-COOH $>
+
+en: chlorobutanedioic acid (PIN) 
+ru: хлорбутандиовая кислота (PIN)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CO– {} $>
+
+en: pentanoyl (preferred prefix)
+ru: пентаноил (предпочтительный префикс)
+
+@cell
+<$ H2N-CO-CH(CH3)-CO-NH2 $>
+
+en: 2-methylpropanediamide (PIN) 
+ru: 2-метилпропандиамид (PIN)
+
+@cell
+<$ CH3-NH-CO-CH2-CO-NH-CH3 $>
+
+en: _N_^{1},_N_^{3}-dimethylpropanediamide (PIN) <br> 
+(not _N_^{1},_N_^{3}-dimethylpropane-1,3-diamide)
+ru: _N_^{1},_N_^{3}-диметилпропандиамид (PIN) <br>
+(не _N_^{1},_N_^{3}-диметилпропан-1,3-диамид)
+
+@End
+
+#P-14.3.4.2+
+en: The locant ‘1’ is omitted:
+ru: Локант «1» опущен:
+
+en: (a) in substituted mononuclear parent hydrides; 
+ru: (a) в замещенных одноядерных исходных гидридах;
+
+@Examples
+
+@cell
+<$ CH3Cl $>
+
+en: chloromethane (PIN)
+ru: хлорметан (PIN)
+
+@cell
+<$ SiH2Cl2 $>
+
+en: dichlorosilane (from silane, a preselected name) 
+ru: дихлорсилан (от силана, предварительно выбранное имя)
+
+@cell
+<$ (CH3)3Al $>
+
+en: trimethylalumane
+ru: триметилалюман
+
+@End
+
+en: (b) in monosubstituted homogeneous chains consisting of only two identical atoms; 
+ru: (b) в монозамещенных однородных цепях, состоящих только из двух одинаковых атомов;
+
+@Examples
+
+@cell
+<$ CH3-CH2-OH $>
+
+en: ethanol (PIN) 
+ru: этанол (PIN)
+
+@cell
+<$ NH2-NH-Cl $>
+
+en: chlorohydrazine (from hydrazine, a preselected name) 
+ru: хлоргидразин (от гидразина, предварительно выбранное имя)
+
+@cell
+<$ NH2-NH–{} $>
+
+en: hydrazinyl (preselected prefix) (not hydrazin-1-yl)
+ru: гидразинил (предварительно выбранный префикс) (не гидразин-1-ил)
+
+@End
+
+en: (c) in monosubstituted homogeneous monocyclic rings;
+ru: (c) в монозамещенных однородных моноциклических кольцах;
+
+@Examples
+
+@cell
+<$ |`/`\`|/\/SH $>
+
+en: cyclohexanethiol (PIN)
+ru: циклогексантиол (PIN)
+
+@cell
+<$ |`//`\`||/\\/Br $>
+
+en: bromobenzene (PIN)
+ru: бромбензол (ПИН)
+
+@End
+
+en: (d) in unsubstituted dinuclear and trinuclear alkenes and alkynes and monounsaturated cycloalkenes and cycloalkynes; 
+similarly, in unsubstituted monounsaturated compounds composed of homogeneous chains containing elements of 
+Groups 13, 14, 15, and 16, and corresponding monounsaturated cyclic compounds. 
+ru: (d) в незамещенных двуядерных и трехъядерных алкенах и алкинах и мононенасыщенных циклоалкенах и циклоалкинах;
+аналогично, в незамещенных мононенасыщенных соединениях, состоящих из однородных цепей, содержащих элементы групп 
+13, 14, 15 и 16, и соответствующих мононенасыщенных циклических соединениях.
+
+@Examples
+
+@cell
+<$ CH2=CH2 $>
+
+en: ethene (PIN)
+ru: этен (PIN)
+
+@cell
+<$ CH%CH $>
+
+en: acetylene (PIN)
+ru: ацетилен (ПИН)
+// Действительно, PIN - acetylene, хотя систематическое имя - Ethyne
+
+@cell
+<$ CH3-CH=CH2 $>
+
+en: propene (PIN) 
+ru: пропен (PIN) 
+
+@cell
+<$ NH=NH $>
+
+en: diazene (preselected name)
+ru: диазен (предварительно выбранное название)
+// http://charchem.org/ru/subst-ref/?id=2483
+
+@cell
+<$ SiH%SiH $>
+
+en: disilyne (preselected name)
+ru: дисилин (предварительно выбранное имя)
+
+@cell
+<$ H2N-N=NH $>
+
+en: triazene (preselected name)
+ru: триазен (предварительно выбранное название)
+// http://charchem.org/ru/subst-ref/?id=6706
+
+@End
+
+#P-14.3.4.3+ 
+en: The locant is omitted in monosubstituted symmetrical parent hydrides or parent compounds where there is 
+only one kind of substitutable hydrogen. 
+ru: Локант опускается в монозамещенных симметричных исходных гидридах или исходных соединениях, где есть только 
+один вид замещаемого водорода.
+
+@Examples
+
+@cell
+<$ CH3-NH-CO-NH2 $>
+
+en: methylurea (PIN)
+ru: 
+// http://charchem.org/ru/subst-ref/?id=6707
+
+@cell
+<$ Cl-SiH2-O-SiH3 $>
+
+en: chlorodisiloxane (from disiloxane, a preselected name)
+ru: хлордисилоксан (от дисилоксан, предварительно выбранное название)
+
+@cell
+<$ Cl|`/c/\||\||`/||`/`\\`/`\\`|`\\`|//`|//\|\\</>|<\>`//r<|>`\<`/>`||l<`\>/ $>
+
+en: chlorocoronene (PIN) 
+ru: хлоркоронен (ПИН)
+
+@cell
+<$ |`//N`\`||/N\\/COOH $>
+
+en: pyrazinecarboxylic acid (PIN)
+ru: пиразинкарбоновая кислота (ПИН)
+// http://charchem.org/ru/subst-ref/?id=6708
+
+@cell
+<$ HOOC-CH<`|Cl>-COOH $>
+
+en: chloropropanedioic acid (PIN) <br>
+chloromalonic acid 
+ru: хлорпропандиовая кислота (PIN) <br>
+хлормалоновая кислота
+
+@End
+
+#P-14.3.4.4+ 
+en: Locants are omitted when no isomer can be generated by moving suffixes and/or prefixes (if any) from their 
+position to another or by interchanging them between two different positions. 
+ru: Локанты опускаются, если изомер не может быть получен путем перемещения суффиксов и/или префиксов 
+(если таковые имеются) из одной позиции в другую или путем их замены между двумя различными позициями.
+
+@Examples
+
+@cell
+<$ CH3-CH=N-NH–{} $>
+
+en: ethylidenehydrazinyl (preferred prefix) <br>
+(not 2-ethylidenehydrazin-1-yl)
+ru: этилиденгидразинил (предпочтительный префикс) <br>
+(не 2-этилиденгидразин-1-ил)
+
+@cell
+<$ HC%Si-Si%C-CH3 $>
+
+en: ethylidyne(methylidyne)disilane <br>
+(not 1-ethylidyne-2-methylidynedisilane) 
+ru: этилидин(метилидин)дисилан <br>
+(не 1-этилидин-2-метилидиндисилан)
+
+@cell
+<$ C6H5-CH=SiH-Si(=CH-C6H5)–{} $>
+
+en: dibenzylidenedisilanyl (preferred prefix)  <br>
+(not 1,2-dibenzylidenedisilan-1-yl) 
+ru: дибензилидендисиланил (предпочтительный префикс) <br>
+(не 1,2-дибензилидендисилан-1-ил)
+
+@cell
+<$ H2C=P-O-PH-O-P=CH-CH3 $>
+
+en: ethylidene(methylidene)triphosphoxane (PIN) <br>  
+(not 1-ethylidene-5-methylidenetriphosphoxane) 
+ru: этилиден(метилиден)трифосфоксан (PIN) <br>
+(не 1-этилиден-5-метилидентрифосфоксан)
+
+@cell
+<$ H2Si=N-NH-Cl $>
+
+en: chloro(silylidene)hydrazine (preselected name) <br>
+(not 1-chloro-2-silylidenehydrazine)
+ru: хлор(силилиден)гидразин (предварительно выбранное название) <br>
+(не 1-хлор-2-силилиденгидразин)
+
+@cell
+<$ Br-S-S-CH3 $>
+
+en: (bromodisulfanyl)methane (PIN)  <br>
+(not bromo(methyl)disulfane see P-63.3.1;  <br>
+not 1-bromo-2-methyldisulfane) 
+ru: (бромдисульфанил)метан (PIN) <br>
+(не бром(метил)дисульфан см. P-63.3.1; <br>
+не 1-бром-2-метилдисульфан)
+
+@cell
+<$ O=C=CH–{} $>
+
+en: oxoethenyl (preferred prefix)
+ru: оксоэтенил (предпочтительный префикс)
+
+@cell
+<$ Cl-N=N–{} $>
+
+en: chlorodiazenyl (preferred prefix)
+ru: хлородиазенил (предпочтительный префикс)
+
+@cell
+<$ 
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(3,30)`--N@n(4,150)_pp@n(5,-180,.4)_pN@n(1,90)<_(y-.5)H>_pN@n(2,0)_pp 
+$>
+
+en: 1_H_-tetrazole (PIN) <br>
+(not 1_H_-1,2,3,4-tetrazole) 
+ru: 1_H_-тетразол (PIN) <br>
+(не 1_H_-1,2,3,4-тетразол)
+
+@End
+
+@Examples
+en: In the following examples locants are needed.
+ru: В следующих примерах локанты необходимы.
+
+@cell
+<$ CH3-CH2-CH=SiH-Si(=CH-CH3)–{} $>
+
+en: 1-ethylidene-2-propylidenedisilan-1-yl (preferred prefix) <br>
+(by interchanging the two substituent groups another isomer  <br>
+is generated, i.e., 2-ethylidene-1-propylidenedisilan-1-yl)
+ru: 1-этилиден-2-пропилидендисилан-1-ил (предпочтительный префикс) <br>
+(при замене двух замещающих групп образуется другой изомер, <br>
+т. е. 2-этилиден-1-пропилидендисилан-1-ил)
+
+@cell
+<$ CH3-CH=SiH-SiH2-Cl $>
+
+en: 1-chloro-2-ethylidenedisilane (PIN) <br>
+(another isomer is generated by moving the Cl atom <br>
+to the other Si atom, i.e., 1-chloro-1-ethylidenedisilane) 
+ru: 1-хлор-2-этилидендисилан (PIN) <br>
+(еще один изомер образуется путем перемещения атома Cl к другому атому Si, <br>
+т.е. 1-хлор-1-этилидендисилан)
+
+@cell
+<$ Cl-CH=CH–{} $>
+
+en: 2-chloroethen-1-yl (preferred prefix) <br>
+2-chlorovinyl
+ru: 2-хлорэтен-1-ил (предпочтительный префикс) <br>
+2-хлорвинил
+
+@End
+
+en: As an exception the locant is not omitted from propan-2-one, butan-2-one, prop-2-enoic acid and prop-2-ynoic acid 
+although unambiguous without a locant. 
+ru: В качестве исключения локант не опускается в следующих соединениях: пропан-2-он, бутан-2-он, проп-2-еновая кислота 
+и проп-2-иновая кислота, хотя они однозначны без локанта.
+
+#P-14.3.4.5+ 
+en: All locants are omitted in compounds or substituent groups in which all substitutable positions are 
+completely substituted or modified, for example, by hydro, in the same way. Except for hydrogen atoms attached to 
+chalcogen atoms, such as in acids, alcohols, and to the carbon atoms of formyl groups (aldehydes), all hydrogen atoms 
+are considered substitutable. 
+ru: Все локанты опускаются в соединениях или группах заместителей, в которых все замещаемые позиции полностью замещены 
+или модифицированы, например, гидро, таким же образом. За исключением атомов водорода, присоединенных к атомам халькогена, 
+например, в кислотах, спиртах и ​​к атомам углерода формильных групп (альдегидов), все атомы водорода считаются замещаемыми.
+
+en: In case of partial substitution or modification, all numerical prefixes must be indicated. The prefix ‘per-’ is no longer 
+recommended. 
+ru: В случае частичной замены или модификации необходимо указать все числовые префиксы. 
+Префикс «пер-» больше не рекомендуется.
+
+@Examples
+
+@cell
+<$ `/`\`|/\|\/`|`\`/ $>
+
+en: decahydronaphthalene (PIN)
+ru: декагидронафталин (PIN)
+
+@cell
+<$ CF3-CF2-C`|NF|-NF2 $>
+
+en: octafluoropropanimidamide (PIN) 
+ru: октафторпропанимидамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CF3@n(4)-CF2@n(3)-CF2@n(2)-COOH@n(1)
+$>
+
+en: heptafluorobutanoic acid (PIN)
+ru: гептафторбутановая кислота (PIN)
+
+@cell
+<$ CF3-CF2-CH2-OH $>
+
+en: 2,2,3,3,3-pentafluoropropan-1-ol (PIN) 
+ru: 2,2,3,3,3-пентафторпропан-1-ол (PIN)
+
+@cell
+<$
+/@:b(a)<_(A&a,L.5)<_(a-90,L.5,~)>_(a90,L.5,~)>@(-90)\\@b(-30)|@b(30)`//@b(90)`\@b(150)`||@b(-150)
+$>
+
+en: benzenehexayl (preferred prefix) 
+ru: бензолгексаил (предпочтительный префикс)
+
+@cell
+<$ Cl|\|`//`\`||/\_q6CF2-CF3 $>
+
+en: 1-chloro-2-(pentafluoroethyl)benzene (PIN)
+ru: 1-хлор-2-(пентафторэтил)бензол (PIN)
+
+@cell
+<$ F2N-CO-NF2 $>
+
+en: tetrafluorourea (PIN) 
+ru: тетрафтормочевина (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-@n(4,-55,.5)`|O@n(1)--O@n(2)|O@n(3,90)`-|Cl
+$>
+
+en: dichlorotrioxetane (PIN) 
+ru: дихлортриоксетан (PIN)
+
+@End
+
+#P-14.3.4.6+ 
+en: All locants are omitted for parent compounds when all substitutable hydrogen atoms have the same locant.  
+ru: Все локанты опускаются для исходных соединений, когда все замещаемые атомы водорода имеют одинаковый локант.
+
+@Examples
+
+@cell
+<$ F2CH-COOH $>
+
+en: difluoroacetic acid (PIN) <br> 
+(not 2,2-difluoroacetic acid)
+ru: дифторуксусная кислота (PIN) <br>
+(не 2,2-дифторуксусная кислота)
+
+@cell
+<$ 
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)Cl-C@n(4,-55)<_(y.5)H>`|O@n(1)--O@n(2)|O@n(3,90)`-
+$>
+
+en: chlorotrioxetane (PIN) <br>
+(not 4-chloro-1,2,3-trioxetane)
+ru: хлортриоксетан (PIN) <br>
+(не 4-хлор-1,2,3-триоксетан)
+
+@End
+
+#P-14.3.5 
+en: Lowest set of locants
+ru: Наименьший набор локантов
+
+en: The lowest set of locants is defined as the set that, when compared term by term with other locant sets, each cited in 
+order of increasing value, has the lowest term at the first point of difference; for example, the locant set ‘2,3,5,8’ is 
+lower than ‘3,4,6,8’ and ‘2,4,5,7’. 
+ru: Наименьший набор локантов определяется как набор, который при почленном сравнении с другими наборами локантов, 
+каждый из которых цитируется в порядке возрастания значения, имеет самый низкий приоритет в первой точке различия; 
+например, набор локантов «2,3,5,8» меньше, чем «3,4,6,8» и «2,4,5,7».
+
+en: Primed locants are placed immediately after the corresponding unprimed locants in a set arranged in ascending order; 
+locants consisting of a number and a lower-case letter with or without primes as 4a and 4′a (not 4a′) are placed 
+immediately after the corresponding numeric locant and are followed by locants having superscripts. 
+ru: Локанты со штрихами располагаются сразу после соответствующих локантов без штрихов в порядке возрастания; 
+локанты, состоящие из числа и строчной буквы со штрихами или без них, например 4a и 4′a (не 4a′), располагаются 
+сразу после соответствующего числового локанта и сопровождаются локантами с верхними индексами.
+
+@Examples
+
+@cell
+2 &lt; 2′ 
+
+@cell
+3 &lt; 3a 
+
+@cell
+8a &lt; 8b 
+
+@cell
+4′ &lt; 4a 
+
+@cell
+4a &lt; 4′a 
+
+@cell
+1^{2} &lt; 1^{3} 
+
+@cell
+1^{4} &lt; 2′
+
+@cell
+3a &lt; 3a^{1} 
+
+@cell
+1,1,1,4,2 &lt 1,1,4,4,2
+
+@cell
+1,1′,2′,1′′,3′′,1′′′ &lt; 1,1′,3′,1′′,2′′,1′′′
+
+@cell
+N,α,1,2 &lt; 1,2,4,6
+
+@End
+
+en: **Note:** An exception must be noted in the field of carotenoid nomenclature, where 5,8,5′,8′- is used rather than 5,5′,8,8′- 
+(see P-101.5.2); the latter would be recommended for systematic substitutive nomenclature
+ru: **Примечание:** Исключение следует отметить в области номенклатуры каротиноидов, где используется 5,8,5′,8′- вместо 5,5′,8,8′-
+(см. P-101.5.2); последнее будет рекомендовано для систематической заместительной номенклатуры
+
+#P-14.4 
+en: Numbering
+ru: Нумерация
+
+en: When several structural features appear in cyclic and acyclic compounds, low locants are assigned to them in the 
+following decreasing order of seniority: 
+ru: При наличии нескольких структурных признаков в циклических и ациклических соединениях им присваиваются 
+меньшие локанты в следующем порядке убывания старшинства:
+
+<div class="framed">
+
+en: Two important changes have been made to the 1979 recommendations (ref 1): 
+ru: В рекомендации 1979 года (ссылка 1) были внесены два важных изменения:
+
+en: (1) heteroatoms in chains are now considered to be a part of the parent hydride; as such, they have seniority over 
+suffixes for numbering as for heteroatoms in rings; 
+ru: (1) гетероатомы в цепях теперь считаются частью родительского гидрида; как таковые, они имеют приоритет 
+над суффиксами для нумерации, как и для гетероатомов в кольцах;
+
+en: (2) hydro/dehydro prefixes are now classified as detachable prefixes but are not included in the category of 
+alphabetized detachable prefixes; they are cited directly before the name of the parent hydride [see item (e) below].
+ru: (2) префиксы гидро/дегидро теперь классифицируются как отделяемые префиксы, но не включены в категорию 
+алфавитно-упорядоченных отделяемых префиксов; они указываются непосредственно перед названием исходного гидрида 
+[см. пункт (e) ниже].
+
+</div>
+
+#(a)
+en: fixed numbering in chains, rings, or ring systems, i.e., when the numbering of a system is fixed, for example in 
+purine, anthracene, and phenanthrene, this numbering must be used, both in PINs and in general nomenclature; 
+ru: фиксированная нумерация в цепях, кольцах или кольцевых системах, т. е. когда нумерация системы фиксирована, 
+например, в пурине, антрацене и фенантрене, эта нумерация должна использоваться как в PIN-кодах, так и в общей номенклатуре;
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-CH2@n(3)-CH2@n(4)-O@n(5)-CH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH2@n(10)-SiH2@n(11)-CH2@n(12)-CH2@n(13)-COOH@n(14)
+$>
+
+en: 5-oxa-2,8-dithia-11-silatetradecan-14-oic acid (PIN)
+ru: 5-окса-2,8-дитиа-11-силаттрадекан-14-овая кислота (PIN)
+
+@cell
+
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(1)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(4a,90,.6)`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\|r`|@n(8a,,.6)/
+$>
+
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/@n(1)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\`//N@n(5,90,.6)`\`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//@n(9)\|r`|/N@n(10,,.6)\\
+$>
+
+en: phenazine (PIN)
+ru: феназин (PIN)
+// http://charchem.org/ru/subst-ref/?id=6710
+
+@cell
+<$ `\`/`\`/`\`|/\/\/\GeH2|`/|CN $>
+
+en: 1-germacyclotetradecane-3-carbonitrile (PIN) 
+ru: 1-гермациклотетрадекан-3-карбонитрил (PIN)
+
+@End
+
+#(b)
+en: indicated hydrogen for unsubstituted compounds; a higher locant may be needed at another position to 
+accommodate a substituent suffix in accordance with structural feature (d);
+ru: указан водород для незамещенных соединений; более высокий локант может потребоваться в другом положении 
+для размещения суффикса заместителя в соответствии со структурной особенностью (d);
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/`|@n(3,-30)`\\@n(2)`/@n(1,-150)|\`\`/||\//\//`|`\c\@n(4,30)/OH
+$>
+
+en: 1_H_-phenalen-4-ol (PIN) 
+ru: 1_H_-фенален-4-ол (ПИН)
+
+@cell
+<$ /O\|`//`\`||`\HOOC $>
+
+en: 2_H_-pyran-6-carboxylic acid (PIN) 
+ru: 2_H_-пиран-6-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(4,90)`\@n(5,-30)`/O/`|//\|_q@n(3,75)_qq@n(2,0)_q@n(1,-75)_qq
+$>
+
+en: 5_H_-inden-5-one (PIN)
+ru: 5_H_-инден-5-он (PIN)
+
+@End
+
+#(c)
+en: principal characteristic groups and free valences (suffixes);
+ru: основные характеристические группы и свободные валентности (суффиксы);
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH|@n(1,-30)`/|`/`\\@n(6,-150)<`/HOOC>`|//\|\<|Cl>//<\Cl>`|@n(2,-30)`\\
+$>
+
+en: 3,4-dichloronaphthalene-1,6-dicarboxylic acid (PIN) 
+ru: 3,4-дихлорнафталин-1,6-дикарбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\@n(1)`/|`/`\\@n(6,-150)<`/HOOC>`|//\|\//`|@n(2,30)/<_q4~>_p4~
+$>
+
+en: 6-carboxynaphthalen-2-yl (preferred prefix) 
+ru: 6-карбоксинафталин-2-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(2,60)`=`\/-\@n(1,60)-NH2
+$>
+
+en: cyclohex-2-en-1-amine (PIN) 
+ru: циклогекс-2-ен-1-амин (PIN)
+
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(2,60)`-@n(3,120)`\\/-\@n(1,60)-{}_(y-.5,N0){}|~{}
+$>
+
+en: cyclohex-3-en-1-yl (preferred prefix)
+ru: циклогекс-3-ен-1-ил (предпочтительный префикс)
+
+@End
+
+#(d)
+en: ‘added indicated hydrogen’ (consistent with the structure of the compound and in accordance with further 
+substitution); 
+ru: «добавлен указанный водород» (в соответствии со структурой соединения и в соответствии с дальнейшей заменой);
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/@n(1,-30)`|O|\@n(2,-30)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: 3,4-dihydronaphthalen-1(2_H_)-one (PIN)
+ru: 3,4-дигидронафталин-1(2_H_)-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`/|`/O@n(7,90,.6)`\@n(8,150)`|@n(9,-150)/@n(10)\|\@n(6)|O`|/@n(5,30)`||/@n(4,30)`|O@n(3,0,.6)`\@n(2,90)`|O|`/@n(1,-150)||
+$>
+
+en: 9,10-dihydro-2_H_,4_H_-benzo[1,2-_b_:4,3-_c_′]dipyran-2,6(8_H_)-dione (PIN) 
+ru: 9,10-дигидро-2_H_,4_H_-бензо[1,2-_b_:4,3-_c_′]дипиран-2,6(8_H_)-дион (PIN)
+
+@End
+
+#(e)
+en: saturation/unsaturation: 
+ru: насыщенность/ненасыщенность:
+
+@p .left-offset
+en: (i) low locants are given to hydro/dehydro prefixes (see first example and P-31.2.2) and ‘ene’ and ‘yne’ endings; 
+ru: (i) низкие локанты присваиваются гидро/дегидро префиксам (см. первый пример и P-31.2.2) и окончаниям «ен» и «ин»;
+
+@p .left-offset
+en: (ii) low locants are given first to multiple bonds as a set and then to double bonds (see second and third examples 
+and P-31.1.1.1); 
+ru: (ii) низкие значения даются сначала кратным связям как набору, а затем двойным связям 
+(см. второй и третий примеры и P-31.1.1.1);
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\@n(6,90)<`/F>`|//\||\@n(4,90)/@n(3,30)`|@n(2,-30)`\@n(1)`/
+$>
+
+en: 6-fluoro-1,2,3,4-tetrahydronaphthalene (PIN) 
+ru: 6-фтор-1,2,3,4-тетрагидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\`|/@n(1)\\|@n(3,-30)\Br
+$>
+
+en: 3-bromocyclohex-1-ene (PIN) 
+ru: 3-бромциклогекс-1-ен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(5)%C@n(4)-CH@n(3,90)<`|OH>-C@n(2)<|CH3>=CH2@n(1)
+$>
+
+en: 2-methylpent-1-en-4-yn-3-ol (PIN)  <br>
+(not 4-methylpent-4-en-1-yn-3-ol) 
+ru: 2-метилпент-1-ен-4-ин-3-ол (PIN) <br>
+(не 4-метилпент-4-ен-1-ин-3-ол)
+
+@End
+
+#(f)
+en: detachable alphabetized prefixes, all considered together in a series of increasing numerical order;
+ru: отделяемые алфавитные префиксы, рассматриваемые вместе в ряду в порядке возрастания номеров;
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_p@n(1)_pp@n(2,-60)<-COOH>_p_pp`|_qq7@n(8,-130)<_(a%h:64)OH>_q7_qq7_q7@n(5,80)<_(a%h)Br>_qq7@n(4,10)<_(a%h)CH3>_q7
+$>
+
+en: 5-bromo-8-hydroxy-4-methylazulene-2-carboxylic acid (PIN) <br>
+(the locant set ‘4,5,8’ is lower than ‘4,7,8’)
+ru: 5-бром-8-гидрокси-4-метилазулен-2-карбоновая кислота (PIN) <br>
+(локантный набор «4,5,8» меньше, чем «4,7,8»)
+
+@End
+
+#(g)
+en: lowest locants for the substituent cited first as a prefix in the name;
+ru: наименьшие локанты для заместителя, указанного первым в качестве префикса в названии;
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH2@n(3)-CH@n(4,90)<`|H3C>-CH@n(5,90)<`|NO2>-CH2@n(6)-CH2@n(7)-COOH@n(8)
+$>
+
+en: 4-methyl-5-nitrooctanedioic acid (PIN)
+ru: 4-метил-5-нитрооктандиовая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|@n(1,-30)\\@n(2,-30)|@n(3,30)`//@n(4,30)<|NO2>`\`/`\\`|//\|`|/
+$>
+
+en: 1-methyl-4-nitronaphthalene (PIN)  <br>
+(not 4-methyl-1-nitronaphthalene) 
+ru: 1-метил-4-нитронафталин (PIN) <br>
+(не 4-метил-1-нитронафталин)
+
+@End
+
+#(h)
+en: When a choice is needed between the same skeletal atom in different valence states, the one in a nonstandard 
+valence state is assigned the lower locant. If a further choice is needed between the same skeletal atom in two or more 
+nonstandard valence states, the one in the higher valence state is assigned the lower locant;
+ru: Когда необходим выбор между одним и тем же скелетным атомом в разных валентных состояниях, тот, который 
+находится в нестандартном валентном состоянии, назначается в качестве меньшего локанта. Если необходим дальнейший 
+выбор между одним и тем же скелетным атомом в двух или более нестандартных валентных состояниях, тот, который 
+находится в более высоком валентном состоянии, назначается в качестве меньшего локанта;
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||_q7S@n(5)_q7_qq7_q7@n(2,110,.5)_qq7S@n(1,90)<_(y-.5)H>_q7
+$>
+
+en: 1λ^{4},5-benzodithiepine (PIN) 
+ru: 1λ^{4},5-бензодитиепин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_p7O@n(1,90)_p7_p7_p7SH4@n(4,-120)_p7_p7`-`|0<->_q7S@n(12,110)<_(y-.5)H2>_q7_q7_q7_q7_q7
+$>
+
+en: 1-oxa-4λ^{6},12λ^{4}-dithiacyclotetradecane (PIN) 
+ru: 1-окса-4λ^{6},12λ^{4}-дитиациклотетрадекан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2P-CH2@n(3)-CH@n(2,90)<-OH>`|CH2@n(1)-PH4
+$>
+
+en: 1-(λ^{5}-phosphanyl)-3-phosphanylpropan-2-ol (PIN) <br>
+(λ^{5}-phosphanyl is cited before phosphanyl and is given the lower locant) 
+ru: 1-(λ^{5}-фосфанил)-3-фосфанилпропан-2-ол (PIN) <br>
+(λ^{5}-фосфанил цитируется перед фосфанилом и имеет меньший локант)
+
+@End
+
+#(i)
+en: When there is a choice between equivalent numberings in an isotopically unmodified compound, the starting point 
+and the direction of numbering of the analogous isotopically substituted compound are chosen so as to give lowest 
+locants to the modified atoms or groups considered together as a set in increasing numerical order. If a choice still 
+remains, the lower locant is given to the nuclide of higher atomic number. In the case of different nuclides of the same 
+element, the lower locant is assigned to the nuclide of higher mass number; 
+ru: Когда есть выбор между эквивалентными нумерациями в изотопически немодифицированном соединении, 
+начальная точка и направление нумерации аналогичного изотопически замещенного соединения выбираются таким образом, 
+чтобы дать самые меньшие локанты модифицированным атомам или группам, рассматриваемым вместе как набор в порядке 
+возрастания номеров. Если выбор все еще остается, то меньший локант дается нуклиду с более высоким атомным номером. 
+В случае различных нуклидов одного и того же элемента более низкий локант присваивается нуклиду с более высоким 
+массовым номером;
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-$M(14)CH2@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: (2-^{14}C)butane (PIN) <br>
+[not (3-^{14}C)butane] 
+ru: (2-^{14}C)бутан (PIN) <br>
+[не (3-^{14}C)бутан] 
+
+@cell
+<$
+@:n(n,a:-90,L:0.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-$M(14)CH2@n(3)-C$M(2)H2@n(2)-CH3@n(1)
+$>
+
+en: (3-^{14}C,2,2-^{2}H_{2})butane (PIN) <br>
+[not (2-^{14}C,3,3-^{2}H_{2})butane] 
+ru: (3-^{14}C,2,2-^{2}H_{2})бутан (PIN) <br>
+[не (2-^{14}C,3,3-^{2}H_{2})бутан]
+
+@cell
+<$
+@:n(n,a:-90,L:0.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-$M(14)CH2@n(2)-CH$M(2)H@n(3)-CH3@n(4)
+$>
+
+en: (2-^{14}C,3-^{2}H_{1})butane (PIN)  <br>
+[not (3-^{14}C,2-^{2}H_{1})butane]
+ru: (2-^{14}C,3-^{2}H_{1})бутан (PIN) <br>
+[не (3-^{14}C,2-^{2}H_{1})бутан]
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,-140)\\|@n(3,-40)<\$M(3)H>`//`\`||/
+$>
+
+en: (3-^{3}H)phenol (PIN)
+ru: (3-^{3}H)фенол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C@n(2,-100)@n(R,100,.7)<`\dH><`/wHO>$slope(60)<\CH3@n(3,90)></CH2$M(2)H@n(1)>
+$>
+
+en: (2_R_)-(1-^{2}H_{1})propan-2-ol (PIN)
+ru: (2_R_)-(1-^{2}H_{1})пропан-2-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C@n(2,-100)@n(R,100,.7)<`\dH><`/wHO>$slope(60)<\CH2I@n(3,90)></CH2$M(131)I@n(1)>
+$>
+
+en: (2_R_)-1-(^{131}I)iodo-3-iodopropan-2-ol (PIN)  <br>
+(see P-82.2.2.1) 
+ru: (2_R_)-1-(^{131}I)иодо-3-иодпропан-2-ол (PIN) <br>
+(см. P-82.2.2.1)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)H3C@n(1)\C@n(2)@n(S,105,.8)<_(A130,d+)H><_(A65,w+)$M(3)H>/CH2@n(3)\C@n(4)@n(R,100,.8)<_(A130,d+)H><_(A65,w+)$M(2)H>/CH3@n(5)
+$>
+
+en: (2_S_,4_R_)-(4-^{2}H_{1},2-^{3}H_{1})pentane (PIN)  <br>
+[not (2_R_,4_S_)-(2-^{2}H_{1},4-^{3}H_{1})pentane;  <br>
+isotopic modifications have seniority for low locants over  <br>
+stereodescriptors described in (j) below] 
+ru: (2_S_,4_R_)-(4-^{2}H_{1},2-^{3}H_{1})пентан (PIN) <br>
+[не (2_R_,4_S_)-(2-^{2}H_{1},4-^{3}H_{1})пентан; <br>
+изотопные модификации имеют приоритет для меньших локантов <br> 
+над стереодескрипторами, описанными в (j) ниже]
+
+@End
+
+#(j)
+en: When there is a choice for lower locants related to the presence of stereogenic centers or stereoisomers, the lower 
+locant is assigned to CIP stereodescriptors _Z_, _R_, _M_, and _r_ (pseudoasymmetry) that are preferred to _E_, _S_, _P_, and _s_, 
+respectively, which are preferred to the non-CIP stereodescriptors _cis_, _trans_, or _r_ (reference), _c_, and _t_ (see P-91.2 for 
+CIP and non-CIP stereodescriptors). 
+ru: Когда есть выбор для нижних локантов, связанных с наличием стереогенных центров или стереоизомеров, 
+меньший локант назначается стереодескрипторам CIP _Z_, _R_, _M_ и _r_ (псевдоасимметрия), которые предпочтительнее 
+_E_, _S_, _P_ и _s_ соответственно, которые предпочтительнее не-CIP стереодескрипторов _cis_, _trans_ или _r_ (референт), 
+_c_ и _t_ (см. P-91.2 для стереодескрипторов CIP и не-CIP).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:z(t)@n(&t,125,.8)@;
+HOOC@n(7)$L(1.3)$slope(60)\C@n(6)<`/H>=C@n(5)@z(E)</H>_(A30)CH2@n(4)_(A-30)C@n(3)<`\H>=C@n(2)@z(Z)</H>\COOH@n(1)
+$>
+
+en: (2_Z_,5_E_)-hepta-2,5-dienedioic acid (PIN) <br>
+(the chain is numbered by assigning the low locant to the ‘_Z_’ double bond)
+ru: (2_Z_,5_E_)-гепта-2,5-диендиовая кислота (PIN) <br>
+(цепь нумеруется путем присвоения меньшего локанта двойной связи ‘_Z_’)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:z(t)@n(&t,135,.8)@;
+$slope(60)$L(1.2)H3C\C<`/H>==C@n(4,-100)@z(E)</C@n(5,-80)<`\H>==C@n(6,-100)@z(E)</CH3@n(7)>_(A30)H>\C@n(3,-80)<`/H>==C@n(2,-100)@z(Z)<\H>_(A-30)CH3@n(1,90)
+$>
+
+en: (2_Z_,4_E_,5_E_)-4-ethylidenehepta-2,5-diene (PIN)  <br>
+(low locants are assigned to the longest chain, then to the ‘_Z_’ double bond) 
+ru: (2_Z_,4_E_,5_E_)-4-этилиденгепта-2,5-диен (PIN) <br>
+(меньшие локанты присваиваются самой длинной цепи, затем двойной связи ‘_Z_’)
+
+@cell
+<$
+`-_p8_p8_p8_p8/\@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@(4,-60)@n(E,135,0.7)||@n(3,-30)_(A50)@n(2,-10)@n(Z,170,0.7)_pp6@n(1,45)_p6_#1
+$>
+
+en: (1_Z_,3_E_)-cyclododeca-1,3-diene (PIN)
+ru: (1_Z_,3_E_)-циклододека-1,3-диен (PIN)
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:z(t)<_(a54,L1.2,N0)$itemColor1(gray)"&t">@;
+$L(1.2)-@n(3,45)_q@n(2,155)@z(R)<_(a%a:94,w+)H><_(a%b:14,d+)Br>_q@n(1,90)@z(R)<_(a%a,d+)H><_(a%b,w+)Br>_q@n(5,-155)_q@n(4,-65)<_(a%a,w+)Cl>_(a%b,d+)H
+$>
+
+en: or
+ru: или
+
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:z(t)<_(a54,L1.2,N0)$itemColor1(gray)"&t">@;
+$L(1.2)-@n(4,-115)<_(a%a:94,d+)H><_(a%b:14,w+)Cl>_q@n(3,-35)_q@n(2,90)@z(S)<_(a%a,w+)Br><_(a%b,d+)H>_q@n(1,25)@z(S)<_(a%a,d+)Br><_(a%b,w+)H>_q@n(5,1555)
+$>
+
+</div>
+en: _rel_-(1_R_,2_R_)-1,2-dibromo-4-chlorocyclopentane (PIN)  <br>
+1_r_,2_t_-dibromo-4_c_-chlorocyclopentane  <br>
+(the preferred IUPAC name is denoted by CIP stereodescriptors;  <br>
+in the second name, the relative configuration is expressed by the  <br>
+non-CIP stereodescriptors ‘1_r_,2_t_,4_c_’ rather than ‘1_r_,2_t_,4_t_’, <br>  
+because a ‘_cis_’ arrangement, denoted by ‘_c_’, has priority  <br>
+over a ‘_trans_’ arrangement, denoted by ‘_t_’, in position ‘4’)
+ru: _rel_-(1_R_,2_R_)-1,2-дибром-4-хлорциклопентан (PIN) <br>
+1_r_,2_t_-дибром-4_c_-хлорциклопентан <br>
+(предпочтительное название IUPAC обозначается стереодескрипторами CIP; <br>
+во втором названии относительная конфигурация выражается <br>
+не-CIP стереодескрипторами ‘1_r_,2_t_,4_c_’, а не ‘1_r_,2_t_,4_t_’, <br> 
+поскольку расположение ‘_cis_’, обозначаемое ‘_c_’, имеет приоритет <br>
+над расположением ‘_trans_’, обозначаемым ‘_t_’, в позиции ‘4’)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)H3C@n(1)\C@n(2)@n(R,100,.8)<_(A130,d+)F><_(A65,w+)H>/CH2@n(3)\C@n(4)@n(S,100,.8)<_(A130,d+)F><_(A65,w+)H>/CH3@n(5)
+$>
+
+en: (2_R_,4_S_)-2,4-difluoropentane (PIN) 
+ru: (2_R_,4_S_)-2,4-дифторпентан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H3C-CH2_(h){}_(A-30)C@n(R,90,.8)<_(A-120,w+)H3C><_(A-60,d+)H>\@n(1)||\//`|@n(3)<`\\`/>/C@n(S,90,.8)<_(A-120,w+)H3C><_(A-60,d+)H>_(A30)CH2-CH3
+$>
+
+en: 1-[(2_R_)-butan-2-yl]-3-[(2_S_)-butan-2-yl]benzene (PIN)
+ru: 1-[(2_R_)-бутан-2-ил]-3-[(2_S_)-бутан-2-ил]бензол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)$slope(33)H3C@n(11)\C@n(10,150)<|H>//C@n(9,90)<`|H>\C@n(8)<_(A120,w+)HO><_(A60,d+)H>/CH2@n(7)\CH2@n(6,-70)/CH2@n(5)\C@n(4,-75)<_(A120,w+)HO><_(A60,d+)H>/C@n(3,90)<`|H>\\C@n(2)</H>|CH3@n(1,90)
+$>
+
+en: (2_Z_,4_S_,8_R_,9_E_)-undeca-2,9-diene-4,8-diol (PIN)  <br>
+(the choice is between ‘_E_’ and ‘_Z_’ for position ‘2’, not between ‘_R_’ and ‘_S_’ for position ‘4’) 
+ru: (2_Z_,4_S_,8_R_,9_E_)-ундека-2,9-диен-4,8-диол (PIN) <br>
+(выбор между «_E_» и «_Z_» для позиции «2», а не между «_R_» и «_S_» для позиции «4»)
+
+@cell
+<div class="flex-row">
+<div class="flex-column">
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|`\`/@n(s,30,.4)<_p4dH><_(a30,w+)H3C>|\/@n(s,-150,.4)<_(a30,d+)H>_p4wC@n(2,40)<_p4NC><|CN>_(x1.8)C@n(1,140)<|CN><_(a30)CN>_(A-60,w-)@n(r,-30,.4)<_(a-120,d+)H>`|/\@n(r,150,.4)<_q4wH><_(a-30,d+)CH3>|`/`\
+$>
+
+**I**
+
+</div>
+<div class="flex-column">
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|`\@n(cis)`/<_p4dH><_(a30,w+)H3C>|\/<_(a30,d+)H>_p4wC@n(2,40)<_p4NC><|CN>_(x1.8)C@n(1,140)<|CN><_(a30)CN>_(A-60,w-)<_(a-120,d+)H>`|/@n(trans)\<_q4wH><_(a-30,d+)CH3>|`/`\
+$>
+
+**II**
+
+</div>
+</div>
+<div class="custom-list">
+**(I)**
+
+en: 1-[(1_r_,4_r_)-4-methylcyclohexyl]-2-[(1_s_,4_s_)-4-methylcyclohexyl]ethane-1,1,2,2-tetracarbonitrile (PIN)  <br>
+ (the substituent denoted by the ‘_r_’ stereodescriptor receives the lowest locant, ‘1’;  <br>
+ the use of CIP stereodescriptors generates the preferred IUPAC name)
+ru: 1-[(1_r_,4_r_)-4-метилциклогексил]-2-[(1_s_,4_s_)-4-метилциклогексил]этан-1,1,2,2-тетракарбонитрил (PIN) <br>
+(заместитель, обозначенный стереодескриптором «_r_», получает самый меньший локант, «1»; <br>
+использование стереодескрипторов CIP генерирует предпочтительное название IUPAC)
+
+**(II)**
+
+en: 1-(_cis_-4-methylcyclohexyl)-2-(_trans_-4-methylcyclohexyl)ethane-1,1,2,2-tetracarbonitrile <br>
+ (the ‘_cis_’ substituent receives the lowest locant, ‘1’)
+ru: 1-(_цис_-4-метилциклогексил)-2-(_транс_-4-метилциклогексил)этан-1,1,2,2-тетракарбонитрил <br>
+(заместитель «_цис_» получает самый меньший локант, «1»)
+
+</div>
+
+@cell
+<$
+$L(1.2)C@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@(1,90)@:b(a,w,t)<_(A&a,&w+)&t>@(150,w,Cl)@b(-150,d,H)@:c(a,t)@n(&t,&a,1)@(-70,M)=C@n(2,90)=C@n(3,100)@b(60,,H)/H2C@n(4,80)-CH2@n(5,-100)/C@n(6,-80)@b(-120,,H)=C@n(7,90)=C@n(8,90)@c(-110,P)@b(-30,d,Cl)@b(30,w,H)
+$>
+
+en: (1_M_,6_P_)-1,8-dichloroocta-1,2,6,7-tetraene (PIN) 
+ru: (1_M_,6_P_)-1,8-дихлорокта-1,2,6,7-тетраен (PIN)
+
+@End
+
+#P-14.5 
+en: Alphanumerical order
+ru: Алфавитно-цифровой порядок
+
+en: Alphanumerical order has been commonly called ‘alphabetical order’. As these ordering principles do involve ordering 
+both letters and numbers, in a strict sense, it is best called ‘alphanumerical order’ in order to convey the message that 
+both letters and numbers are involved. 
+ru: Алфавитно-цифровой порядок обычно называют «алфавитным порядком». Поскольку эти принципы упорядочения подразумевают 
+упорядочивание как букв, так и цифр, в строгом смысле, его лучше всего называть «алфавитно-цифровым порядком», 
+чтобы передать сообщение о том, что задействованы как буквы, так и цифры.
+
+en: Alphanumerical order is used to establish the order of citation of detachable substituent prefixes (not the detachable 
+saturation prefixes, hydro and dehydro), and the numbering of a chain, ring, or ring system when a choice is possible. 
+ru: Алфавитно-цифровой порядок используется для установления порядка цитирования отделяемых префиксов заместителей 
+(не отделяемых префиксов насыщенности, гидро и дегидро), а также нумерации цепи, кольца или кольцевой системы, 
+когда возможен выбор.
+
+en: Alphanumerical order is applied as follows in organic nomenclature. Nonitalic Roman letters are considered first, 
+unless used as locants or part of a compound or composite locant, for example, ‘_N_’ or ‘4a’ (see P-14.3), or in an isotopic 
+descriptor. When all the Roman letters are identical, the set of locants for all initial locants for primary substituents, that 
+is, locants appearing ahead of the first Roman letter of each primary substituent, are compared. Absence of locants is 
+most preferred, followed by italic Roman letter locants, Greek letter locants (as in conjunctive names), if any, and 
+arabic numerals in order from lowest to highest. Thus, the preferred order for alphanumerical order is: nonitalic Roman 
+letters > italic letters > Greek letters. 
+ru: Буквенно-цифровой порядок применяется в органической номенклатуре следующим образом. Некурсивные латинские буквы 
+считаются первыми, если только они не используются в качестве локантов или части составного или составного локанта, 
+например, «_N_» или «4a» (см. P-14.3), или в изотопном дескрипторе. Когда все латинские буквы идентичны, сравнивается 
+набор локантов для всех начальных локантов для первичных заместителей, то есть локантов, появляющихся перед первой 
+римской буквой каждого первичного заместителя. Наиболее предпочтительным является отсутствие локантов, за которым следуют 
+курсивные латинские буквы, греческие буквы (как в конъюнктивных названиях), если таковые имеются, и арабские цифры 
+в порядке от низшего к высшему. Таким образом, предпочтительный порядок для буквенно-цифрового порядка следующий: 
+некурсивные латинские буквы > курсивные буквы > греческие буквы.
+
+en: For the sorting of nonalphanumerical characters, see P-14.6.
+ru: Для сортировки небуквенно-цифровых символов см. P-14.6.
+
+en: In these subsections the principles of alphanumerical order do not include Greek letters (except in conjunctive names) 
+or isotopic or stereochemical descriptors. 
+ru: В этих подразделах принципы алфавитно-цифрового порядка не включают греческие буквы 
+(за исключением соединительных названий) или изотопные или стереохимические дескрипторы.
+
+#P-14.5.1+ 
+en: Simple prefixes (i.e., those describing atoms and unsubstituted substituents) are arranged alphabetically; 
+multiplicative prefixes, if necessary, are then inserted and do not alter the alphabetical order already established.
+ru: Простые префиксы (т. е. те, которые описывают атомы и незамещенные заместители) располагаются в алфавитном порядке;
+при необходимости мультипликативные префиксы затем вставляются и не изменяют уже установленный алфавитный порядок.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\@n(1,180)<_(A-30)CH3>_(A30)CH2-CH3
+$>
+
+en: 1-ethyl-1-methylcyclohexane (PIN)
+ru: 1-этил-1-метилциклогексан (PIN)
+// В английском языке ethyl действительно меньше чем methyl. Но в русском этил больше чем метил.
+// В данном тексте никак не упоминаются правила для каких-то других языков, кроме английского.
+// Пока будем считать, что используется порядок для английского.
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\@n(4,0)<`-H3C>/-\@n(1,180)-CH2-CH3
+$>
+
+en: 1-ethyl-4-methylcyclohexane (PIN)  <br>
+[for numbering, see P-14.4 (g)]
+ru: 1-этил-4-метилциклогексан (PIN) <br>
+[нумерацию см. в P-14.4 (g)]
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\-CBr2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3,3-dibromo-3-cyclohexylpropanoic acid (PIN)  <br>
+(not 3-cyclohexyl-3,3-dibromopropanoic acid) 
+ru: 3,3-дибром-3-циклогексилпропановая кислота (PIN) <br>
+(не 3-циклогексил-3,3-дибромпропановая кислота)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-[CH2@n(2-4,-60,.65)]3-C@n(5,-120,.68)<_(y-1.5)CH2-CH2-CH2-CH3><_(y1.2)CH<-CH3>`-CH2`-CH3>-CH2@n(6)-CH2@n(7)-CH2@n(8)-[CH2@n(9-30,-60,.65)]22-CH3@n(31)
+$>
+
+en: 5-(butan-2-yl)-5-butylhentriacontane (PIN)  <br>
+[butyl is not treated as butan-1-yl; for the use of enclosing marks, see P-16.5.1.2] 
+ru: 5-(бутан-2-ил)-5-бутилгентриаконтан (PIN) <br>
+[бутил не рассматривается как бутан-1-ил; об использовании ограждающих знаков см. P-16.5.1.2]
+
+@cell
+<$ `/`-`\<`-HO>/-\</C(CH3)3>_(A30)CH2-CH2-CH2-CH3 $>
+
+en: 4-butyl-4-_tert_-butylcyclohexan-1-ol (PIN)
+ru: 4-бутил-4-_трет_-бутилциклогексан-1-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|@n(1,-30)\|`//@n(4,150)<|CH3>`\`/@n(5,150)<|Cl>`\\`|//@n(8,-30)<`|Cl>\|`|/\@n(2,30)/Cl
+$>
+
+en: 2,5,8-trichloro-1,4-dimethylnaphthalene (PIN)  <br>
+[not 1,4-dimethyl-2,5,8-trichloronaphthalene;  <br>
+‘trichloro’ is cited before ‘dimethyl’ as ‘chloro’ is earlier alphabetically than ‘methyl’]  <br>
+[not 1,4,6-trichloro-5,8-dimethylnaphthalene;  <br>
+the locant set ‘1,2,4,5,8’ is lower than ‘1,4,5,6,8’ (see P-14.3.5)] 
+ru: 2,5,8-трихлор-1,4-диметилнафталин (PIN) <br>
+[не 1,4-диметил-2,5,8-трихлорнафталин; <br>
+«трихлор» цитируется перед «диметилом», поскольку «хлор» стоит раньше по алфавиту, чем «метил»] <br>
+// Здесь снова особенности сортировки английского языка. В русском х стоит после м.
+[не 1,4,6-трихлор-5,8-диметилнафталин; <br>
+набор локантов «1,2,4,5,8» меньше, чем «1,4,5,6,8» (см. P-14.3.5)]
+
+@End
+
+#P-14.5.2+ 
+en: The name of a prefix for a substituent is considered to begin with the first letter of its complete name. 
+ru: Название префикса для заместителя считается начинающимся с первой буквы его полного названия.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(13)-[CH2]4-CH2@n(8)-CH@n(7)<|CH<|F>`-CH<|F>`-CH2`-CH3>-CH2-CH@n(5)<|CH2-CH3>-[CH2]3-CH3@n(1)
+$>
+
+en: 7-(1,2-difluorobutyl)-5-ethyltridecane (PIN)  <br>
+[not 5-ethyl-7-(1,2-difluorobutyl)tridecane;  <br>
+the compound substituent name in the PIN starts with ‘d’, and ‘d’ is earlier alphabetically than ‘e’] 
+ru: 7-(1,2-дифторбутил)-5-этилтридекан (PIN) <br>
+[не 5-этил-7-(1,2-дифторбутил)тридекан; <br>
+название заместителя соединения в PIN начинается с «d», а «d» стоит раньше по алфавиту, чем «e»]
+// Здесь правила сортировки англ и рус совпали, но проблема пока не решена
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(13)-[CH2]5-CH<_(y-1.6)H2C-CH<`|CH3>-CH2-CH<`|CH3>-CH3>-CH2-CH@n(5)<|CH2-CH3>-CH2-CH2-CH2-CH3@n(1)
+$>
+
+en: 7-(2,4-dimethylpentyl)-5-ethyltridecane (PIN); <br> 
+(‘dimethylpentyl’ begins with ‘d’ that precedes ‘e’ in alphabetical order) 
+ru: 7-(2,4-диметилпентил)-5-этилтридекан (PIN); <br>
+(‘диметилпентил’ начинается с ‘d’, которая предшествует ‘e’ в алфавитном порядке)
+// английские буквы оставлены до того как решится вопрос с сортировкой на русском языке
+
+@End
+
+#P-14.5.3+ 
+en: When an alphanumerical ordering is required and Roman letters do not permit a decision for the order of 
+citation, italicized letters are considered.
+ru: Если требуется алфавитно-цифровой порядок, а латинские буквы не позволяют принять решение о порядке цитирования, 
+рассматриваются курсивные буквы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)CH3-CH2_(h){}/CH<`|CH3>\@n(1,150)||\//`|@n(3,30)<`\\@n(2)`/>/C(CH3)3
+$>
+
+en: 3-_tert_-butyl-1-(1-methylpropyl)benzene  <br>
+1-(butan-2-yl)-3-_tert_-butylbenzene (PIN)  <br>
+(for use of enclosing marks, see P-16.5.1.2)  <br>
+[not 1-_sec_-butyl-3-_tert_-butylbenzene] 
+ru: 3-_трет_-бутил-1-(1-метилпропил)бензол <br>
+1-(бутан-2-ил)-3-_трет_-бутилбензол (PIN) <br>
+(для использования ограждающих знаков см. P-16.5.1.2) <br>
+[не 1-_втор_-бутил-3-_трет_-бутилбензол]
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//N@n(1,90,.6)`\`||@n(5,150)<`\_(a54,N2)_q_qq_q<_q>_pp6_p6_p6<_pp6_p6>_q_qq_q_qq>/\\@n(3,30)/_(a54,N2)_q<_q_qq_q>_pp6_p6<_p6_pp6_p6>_qq_q_qq_q
+$>
+
+en: 3-(_as_-indacen-3-yl)-5-(_s_-indacen-1-yl)pyridine (PIN)  <br>
+[not 5-_s_-indacen-1-yl-3-_as_-indacen-3-ylpyridine] 
+ru: 3-(_as_-indacen-3-yl)-5-(_s_-indacen-1-yl)pyridine (PIN) <br>
+[не 5-_s_-indacen-1-yl-3-_as_-indacen-3-ylpyridine]
+
+@End
+
+en: And similarly, naphtho[1,2-_f_]quinolin-2-yl is alphanumerically preferred to naphtho[1,2-_g_]quinolin-1-yl (‘f’ before ‘g’). 
+ru: Аналогично, нафто[1,2-_f_]хинолин-2-ил имеет алфавитно-цифровое предпочтение перед нафто[1,2-_g_]хинолин-1-илом («f» перед «g»).
+
+#P-14.5.4+ 
+en: When two or more prefixes consist of identical Roman letters, priority for order of citation is given to the 
+group that contains the lowest locant(s) at the first point of difference. 
+ru: Если два или более префикса состоят из одинаковых латинских букв, приоритет в порядке цитирования отдается группе, 
+содержащей наименьший локант(ы) в первой точке различия.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH<`|CH3>-CH2_(h){}-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-NH-CH2-CH2-CH<`|CH3>-CH3
+$>
+
+en: 4-(2-methylbutyl)-_N_-(3-methylbutyl)aniline (PIN) <br>  
+4-(2-methylbutyl)-_N_-(3-methylbutyl)benzenamine  <br>
+(for ordering the substituents ‘2’ is lower than ‘3’; <br>  
+the fact that ‘_N_’ is lower than ‘4’ is irrelevant) 
+ru: 4-(2-метилбутил)-_N_-(3-метилбутил)анилин (PIN) <br>
+4-(2-метилбутил)-_N_-(3-метилбутил)бензоламин <br>
+(для упорядочения заместителей «2» меньше «3»; <br>
+тот факт, что «_N_» меньше «4», не имеет значения)
+
+@cell
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C/CH<`|Cl>\@n(6,150)|\//`|<`\\`/|@n(5,90)`/{}_(h-)CH2`-CH2`-Cl>_pN@n(1,-10)<_(y-.5)H>_p@n(2,0,.3)_pp_p
+$>
+
+en: 6-(1-chloroethyl)-5-(2-chloroethyl)-1_H_-indole (PIN)  <br>
+(the locant ‘1’ is lower than ‘2’) 
+ru: 6-(1-хлорэтил)-5-(2-хлорэтил)-1_H_-индол (PIN) <br>
+(локант «1» меньше, чем «2»)
+
+@cell
+<$ H3C\CH<|CH2-CH2-CH3>/`||/\\<|`//`\>_(A-30)CH<`|CH2-CH3>-CH2-CH3 $>
+
+en: 1-(pentan-2-yl)-4-(pentan-3-yl)benzene (PIN)  <br>
+(the locant ‘2’ is lower than ‘3’; for the use of enclosing marks, see P-16.5.1.2) 
+ru: 1-(пентан-2-ил)-4-(пентан-3-ил)бензол (PIN) <br>
+(локант «2» меньше, чем «3»; об использовании ограждающих знаков см. P-16.5.1.2)
+
+@cell
+<$ |_q_q<_q_q></C(CH3)2-CH2-CH2-CH3>\C<|CH2-CH3>(CH3)-CH2-CH3 $>
+
+en: 1-(2-methylpentan-2-yl)-1-(3-methylpentan-3-yl)cyclopentane (PIN)  <br>
+[not 1-(3-methylpentan-3-yl)-1-(2-methylpentan-2-yl)cyclopentane; <br>
+the locant set ‘2,2’ is lower than ‘3,3’]
+ru: 1-(2-метилпентан-2-ил)-1-(3-метилпентан-3-ил)циклопентан (PIN) <br>
+[не 1-(3-метилпентан-3-ил)-1-(2-метилпентан-2-ил)циклопентан; <br>
+набор локантов «2,2» меньше, чем «3,3»]
+
+@cell
+<$ |_q_q<_q_q></CH(CH3)-CH(CH3)-CH2-CH3>_(A30)CH<|CH2-CH3>-CH(CH3)-CH3 $>
+
+en: 1-(2-methylpentan-3-yl)-1-(3-methylpentan-2-yl)cyclopentane (PIN)  <br>
+[not 1-(3-methylpentan-2-yl)-1-(2-methylpentan-3-yl)cyclopentane;  <br>
+the locant set ‘2,3’ is lower than ‘3,2’] 
+ru: 1-(2-метилпентан-3-ил)-1-(3-метилпентан-2-ил)циклопентан (PIN) <br>
+[не 1-(3-метилпентан-2-ил)-1-(2-метилпентан-3-ил)циклопентан; <br>
+локантный набор «2,3» меньше, чем «3,2»]
+
+@End
+
+#P-14.6 
+en: Nonalphanumerical order 
+ru: Небуквенно-цифровой порядок
+
+en: Alphanumerical ordering resolves practically all of the ordering problems for organic names. However, there are the 
+occasional names in which the alphanumerical character numberings are identical. In such cases, other characters, such 
+as enclosing marks or punctuation marks, must be compared with letters and/or numbers, or with each other to select a 
+preferred IUPAC name. Letters or numbers are always preferred to any other character. When necessary the order of 
+priority for other characters is as follows, listed in decreasing priority order: braces > square brackets > parentheses 
+(round brackets) > periods > commas > semi-colons > colons > hyphens. 
+ru: Буквенно-цифровое упорядочение решает практически все проблемы упорядочивания для органических названий. 
+Однако иногда встречаются названия, в которых буквенно-цифровые нумерации символов идентичны. В таких случаях другие символы, 
+такие как окружающие знаки или знаки препинания, должны сравниваться с буквами и/или цифрами или друг с другом, 
+чтобы выбрать предпочтительное название ИЮПАК. Буквы или цифры всегда предпочтительнее любых других символов. 
+При необходимости порядок приоритета для других символов следующий, перечисленный в порядке убывания приоритета: 
+фигурные скобки > квадратные скобки > круглые скобки > точки > запятые > точки с запятой > двоеточия > дефисы.
+
+en: **Note**: Previous recommendations did not provide rules for selection of a preferred name beyond the ordering 
+alphanumerical characters. For compounds whose alphanumerical characterics do not lead to a unique name, an 
+ordering for nonalphanumerical characters, such as commas, enclosing marks, etc., is needed. The above paragraph 
+provides this information. 
+ru: **Примечание**: Предыдущие рекомендации не содержали правил выбора предпочтительного имени за пределами 
+упорядочения буквенно-цифровых символов. Для соединений, буквенно-цифровые характеристики которых не приводят 
+к уникальному имени, требуется упорядочение небуквенно-цифровых символов, таких как запятые, обрамляющие знаки и т. д. 
+Вышеприведенный параграф предоставляет эту информацию.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(1,-50)<_(a54)HO>_q_q@n(3,180)<_q_q>$slope(30)</SiH2-CH2-NH2>\SiH<|NH2>-CH3
+$>
+
+en: 3-[amino(methyl)silyl]-3-[(aminomethyl)silyl]cyclopentan-1-ol (PIN)  <br>
+{not 3-[(aminomethyl)silyl]-3-[amino(methyl)silyl]cyclopentan-1-ol;  <br>
+alphanumerical characters are identical; at the fourth character of the name, the letter ‘a’ is preferred to an open 
+parenthesis} 
+ru: 3-[амино(метил)силил]-3-[(аминометил)силил]циклопентан-1-ол (PIN) <br>
+{не 3-[(аминометил)силил]-3-[амино(метил)силил]циклопентан-1-ол; <br>
+буквенно-цифровые символы идентичны; в четвертом символе имени буква «a» предпочтительнее открывающейся скобки}
+
+@cell
+<$ `/`-`\/-\-CH2_(h){}-/-\<`/`-`\>-CH2_(h){}-/-\<`/`-`\>-CH2-O-CH2_(h){}-/-\`/`-`\ $>
+
+en: 1-[(cyclohexylmethoxy)methyl]-4-{[4-(cyclohexylmethyl)cyclohexyl]methyl}cyclohexane (PIN)  <br>
+{not 1-({4-[(cyclohexylmethoxy)methyl]cyclohexyl}methyl)-4-(cyclohexylmethyl)cyclohexane  <br>
+the alphabetic letters and the primary substituent locants are identical for both names;  <br>
+however, there is no locant for the first internal substituent in the PIN, but in the  <br>
+alternative name the locant for the first internal substituent is ‘4’ and no locant is preferred to ‘4’}
+ru: 1-[(циклогексилметокси)метил]-4-{[4-(циклогексилметил)циклогексил]метил}циклогексан (PIN) <br>
+{не 1-({4-[(циклогексилметокси)метил]циклогексил}метил)-4-(циклогексилметил)циклогексан <br>
+буквы алфавита и локанты первичных заместителей идентичны для обоих названий; <br>
+однако, в PIN нет локанта для первого внутреннего заместителя, <br>
+но в альтернативном названии локант для первого внутреннего заместителя — «4», и никакой локант предпочтительнее «4»}
+
+@cell
+<$ H3C-C<`||O>-Si<`|CH3><|CH3>-CH2-O-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH2 $>
+
+en: _N_^{1}-{2-[(acetyldimethylsilyl)methoxy]ethyl}-_N_^{2}-[2-({2-[(2-aminoethyl)amino]ethyl}amino)ethyl]ethane-1,2-diamine  <br>
+_N_^{1}-[2-({2-[(acetyldimethylsilyl)methoxy]ethyl}amino)ethyl]-_N_^{2}-{2-[(2- aminoethyl)amino]ethyl}ethane-1,2-diamine  <br>
+[the parent structure must be a diamine; alphanumerical orders of the first two names are the same;  <br>
+at the third character the nonalphanumerical ‘{’ is preferred to ‘[’]  <br>
+19-amino-3,3-dimethyl-5-oxa-8,11,14,17-tetraaza-3-silanonadecan-2-one (PIN) 
+ru: _N_^{1}-{2-[(ацетилдиметилсилил)метокси]этил}-_N_^{2}-[2-({2-[(2-аминоэтил)амино]этил}амино)этил]этан-1,2-диамин <br>
+_N_^{1}-[2-({2-[(ацетилдиметилсилил)метокси]этил}амино)этил]-_N_^{2}-{2-[(2-аминоэтил)амино]этил}этан-1,2-диамин <br>
+[исходная структура должна быть диамином; буквенно-цифровые порядки первых двух названий одинаковы; <br>
+в третьем символе небуквенно-цифровой символ «{» предпочтительнее, чем «[»] <br>
+19-амино-3,3-диметил-5-окса-8,11,14,17-тетрааза-3-силанонадекан-2-он (PIN)
+
+@End
+
+#P-14.7 
+en: Indicated and ‘added indicated hydrogen’
+ru: Указанный и «добавленный указанный водород»
+
+#P-14.7.1+
+en: Indicated hydrogen. Under certain circumstances it is necessary to indicate in the name of a mancude ring or 
+ring system, i.e., one that contains the maximum number of noncumulative double bonds, one or more positions where 
+no multiple bond is attached. When these positions are occupied by hydrogen atoms, the name can be made specific by 
+indicating the position of one or more hydrogen atoms in the structure; this is accomplished by adding to the front of the 
+name an italic capital ‘_H_’ preceded by an appropriate numerical locant for each of these atoms.
+ru: Указанный водород. При определенных обстоятельствах необходимо указать в названии кольца или 
+кольцевой системы mancude, т. е. содержащей максимальное количество некумулятивных двойных связей, одну или 
+несколько позиций, к которым не присоединена кратная связь. Когда эти позиции заняты атомами водорода, 
+название можно сделать конкретным, указав положение одного или нескольких атомов водорода в структуре; 
+это достигается добавлением в начало названия курсивной заглавной буквы «_H_», перед которой стоит соответствующий 
+числовой код для каждого из этих атомов.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_qq@n(2,-20)_qN<_(y-.5)H>@n(1,90,.6)_q@n(5,-160)_qq@n(4,120)
+$>
+
+en: 1_H_-pyrrole (PIN)  
+pyrrole 
+ru: 1_H_-пиррол (PIN)
+пиррол
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_q@n(2,-20)_qqN@n(1,-90,.6)_q@n(5,-160)_qq@n(4,120)
+$>
+
+en: 3_H_-pyrrole (PIN) 
+ru: 3_H_-пиррол (PIN)
+
+@End
+
+en: In the first example, the ‘indicated hydrogen’ locates one hydrogen atom in position ‘1’ of the pyrrole ring; and in the 
+second, the ‘indicated hydrogen’ indicates an ‘extra’ hydrogen atom at position ‘3’ , i.e., one hydrogen atom more than 
+the number present if there were a double bond in the ring at that position. Indicated hydrogen of this type precedes the 
+name of a parent hydride. In general nomenclature, indicated hydrogen may be omitted (see P-25.7.1.3) and 1_H_-pyrrole 
+can be called just ‘pyrrole’. However, in a preferred IUPAC name a locant and the symbol ‘_H_’ must be cited. 
+ru: В первом примере «указанный водород» определяет один атом водорода в позиции «1» пиррольного кольца; 
+а во втором «указанный водород» указывает на «дополнительный» атом водорода в позиции «3», т. е. на один атом водорода 
+больше, чем число, имеющееся, если бы в кольце в этой позиции была двойная связь. Указанный водород этого типа 
+предшествует названию родительского гидрида. В общей номенклатуре указанный водород может быть опущен 
+(см. P-25.7.1.3) и 1_H_-пиррол можно назвать просто «пиррол». Однако в предпочтительном названии ИЮПАК 
+необходимо указать локант и символ «_H_».
+
+en: Detailed procedures for using ‘indicated hydrogen’ are discussed in P-58.2.1.
+ru: Подробные процедуры использования «указанного водорода» обсуждаются в P-58.2.1.
+
+#P-14.7.2+ 
+en: ‘Added indicated hydrogen’. A second type of indicated hydrogen is called ‘added indicated hydrogen’. It 
+describes hydrogen atoms added to a specified structure as the consequence of the addition of a suffix describing a 
+structural modification. ‘Added indicated hydrogen’ is cited in parentheses after the locant of the structural feature to 
+which it refers. 
+ru: «Добавленный указанный водород». Второй тип указанного водорода называется «добавленный указанный водород». 
+Он описывает атомы водорода, добавленные к указанной структуре в результате добавления суффикса, описывающего 
+структурную модификацию. «Добавленный указанный водород» указывается в скобках после локанта структурной особенности, 
+к которой он относится.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+P@n(1,-90,.6)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/
+$>
+
+en: phosphinine (PIN)
+ru: фосфинин (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)P@n(1,90,.6)\@n(2,150)/O`/|@n(3,30)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/
+$>
+
+en: phosphinin-2(1_H_)-one (PIN)
+ru: фосфинин-2(1_H_)-он (PIN)
+
+@End
+
+en: ‘Added indicated hydrogen’ is used to introduce a free valence, a radical or an ionic center, or a principal characteristic 
+group into a fully unsaturated heteromonocyclic compound or fused polycyclic system in the absence of, or lack of, 
+sufficient hydrogen atoms to accommodate the operation at the site of the operation. Such substituted compounds are 
+named by using a suffix to denote an operation on either a <$–CH=$> group or a <% c %> atom, or on equivalent heteroatoms 
+such as –N=, or groups such as <$=NH$>. 
+ru: «Добавленный указанный водород» используется для введения свободной валентности, радикального или ионного центра 
+или основной характерной группы в полностью ненасыщенное гетеромоноциклическое соединение или конденсированную 
+полициклическую систему при отсутствии или недостатке достаточного количества атомов водорода для выполнения операции 
+в месте операции. Такие замещенные соединения называются с использованием суффикса для обозначения операции либо 
+на группе <$–CH=$>, либо на атоме <% c %>, либо на эквивалентных гетероатомах, таких как –N=, или группах, таких как <$=NH$>.
+%c: =C<
+
+en: Detailed procedures for using ‘added indicated hydrogen’ are discussed in P-58.2.2. 
+ru: Подробные процедуры использования «добавленного указанного водорода» обсуждаются в P-58.2.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1,90)`|O|\@n(2,-30)|@n(3)`//@n(4,90)`\`|`\\`/||\//
+$>
+
+en: naphthalen-1(2_H_)-one (PIN) 
+ru: нафталин-1(2_H_)-он (ПИН)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.6)\@n(2,150)<//{}_(a-90,L.5,N0){}_(a180,~){}>|@n(3,30)`//@n(4,90)`\`|</>`\\`/||\//
+$>
+
+en: quinolin-2(1_H_)-ylidene (preferred prefix)
+ru: хинолин-2(1_H_)-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<@n(3a,-40,.5)_q@n(3,50)_qq@n(2,0)_q@n(1,-50)_q><_(y1.3)COOH>_p7_pp7_p7_pp7_p7_pp7
+$>
+
+en: azulene-3a(1_H_)-carboxylic acid (PIN)
+ru: азулен-3a(1_H_)-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}--~{}_(x-.5,N0){}_(y-1.3)@n(4a,-40,.5)\@n(4,90)//@n(3,30)`|NH@n(2,160,.5)`\@n(1,-90)`//|`/`\\`|//\
+$>
+
+en: isoquinolin-4a(2_H_)-yl (preferred prefix) 
+ru: изохинолин-4a(2_H_)-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\|\\/$pos(90)^+@n(4a,-30,.5)`|<`\`//>//@n(1,-90)\@n(2,-30)|@n(3,30)`//@n(4,90)`\
+$>
+
+en: anthracen-4a(2_H_)-ylium (PIN) 
+ru: антрацен-4a(2_H_)-илий (PIN)
+// илий - результат автоматического перевода. Точнее пока неизвестно
+
+@End
+
+en: ‘Added indicated hydrogen’ is not cited for preferred IUPAC names when two identical characteristic groups that 
+essentially remove one of the double bonds of the parent structure are cited as suffixes in a mancude compound.
+ru: «Добавленный указанный водород» не указывается для предпочтительных названий ИЮПАК, когда две идентичные 
+характерные группы, которые по существу удаляют одну из двойных связей исходной структуры, указываются в качестве 
+суффиксов в сокращенном соединении.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1,90)`|O|\@n(2,150)/O`/|`//`\`|`\\`/||\//
+$>
+
+en: naphthalene-1,2-dione (PIN) 
+ru: нафталин-1,2-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH_(y1.2)/@n(1,-75)\\@n(2,-30)|`//`\@n(4a,-30,.5)`|@n(8a,160,.5)`\`//|\\/|OH
+$>
+
+en: naphthalene-4a,8a-diol (PIN)
+ru: нафталин-4а,8а-диол (PIN)
+
+@End
+
+#P-14.8 
+en: Adducts
+ru: Аддукты
+
+#P-14.8.1 
+en: Organic adducts
+ru: Органические аддукты
+
+en: An adduct is a chemical species, each molecular entity of which is formed by direct combination of separate molecular 
+entities in such a way that there may be a change of connectivity but no loss of atoms from any of the molecular entities 
+(see ref. 19). 
+ru: Аддукт — это химическое вещество, каждое молекулярное образование которого образовано путем прямого соединения 
+отдельных молекулярных образований таким образом, что может произойти изменение связности, но не потеря атомов 
+ни в одном из молекулярных образований (см. ссылку 19).
+
+en: In this subsection, only adducts formed from organic compounds are considered. Inorganic adducts are discussed in ref. 
+12, IR-5.5. In this subsection, preferred IUPAC names for two different types of organic adducts are considered, Lewis 
+adducts and π-adducts. Salts of organic bases or acids of unknown structure are named in a similar manner, for which 
+see Chapter P-7. In general nomenclature the definition of an adduct as given above may include other types of 
+representations as adducts, for example, butadiene—hydrogen chloride. 
+ru: В этом подразделе рассматриваются только аддукты, образованные из органических соединений. Неорганические аддукты 
+обсуждаются в ссылке 12, IR-5.5. В этом подразделе рассматриваются предпочтительные названия ИЮПАК для двух различных 
+типов органических аддуктов, аддукты Льюиса и π-аддукты. Соли органических оснований или кислот неизвестной структуры 
+называются аналогичным образом, см. Главу P-7. В общей номенклатуре определение аддукта, как указано выше, 
+может включать другие типы представлений в качестве аддуктов, например, бутадиен—хлористый водород.
+
+en: Formulas for these adducts are written in the order that follows the general seniority of organic compounds given in  
+P-41. Names are formed by citing the names of individual compounds in the order of the formula connected by long 
+(em) dashes (—). The proportions of components are indicated after the name by an arabic number separated by a 
+solidus from other numbers; arabic numbers and the solidus are placed in parentheses, separated from the name by a 
+space.
+ru: Формулы этих аддуктов записываются в порядке, соответствующем общему старшинству органических соединений, 
+данному в P-41. Названия образуются путем указания названий отдельных соединений в порядке формулы, соединенных 
+длинными (em) тире (—). Пропорции компонентов указываются после названия арабской цифрой, отделенной косой чертой 
+от других цифр; арабские цифры и косая черта помещаются в скобки, отделенные от названия пробелом.
+
+en: Salts and Lewis adducts between boron compounds and the Group 15 elements in which the mode of attachment is 
+specified by italic element symbols are considered in P-68.1.6. 
+ru: Соли и аддукты Льюиса между соединениями бора и элементами группы 15, в которых способ присоединения указан 
+курсивными символами элементов, рассматриваются в P-68.1.6.
+
+@p .framed
+en: For adducts composed solely of organic compounds, the individual components are cited in the order of seniority of 
+classes (see P-41) in formulas, no longer according to the number of species in the adduct, nor in accordance with the 
+alphanumerical order as recommended in the 1979 Recommendations (see Rule D-1.55, ref. 1) and in the revised 
+Nomenclature of Inorganic Chemistry, 2005 Recommendations (ref. 12). For adducts composed of organic and 
+inorganic compounds, organic compounds precede inorganic compounds in formulas. Names are formed by citing the 
+names of individual components in the order of the formula. The use of order of seniority, a universal system, as a 
+ranking criterion is preferred to the language-dependent alphanumerical order for both preferred IUPAC names and in 
+general nomenclature.
+ru: Для аддуктов, состоящих исключительно из органических соединений, отдельные компоненты указываются в формулах 
+в порядке старшинства классов (см. P-41), а не в соответствии с числом видов в аддукте или в соответствии с 
+буквенно-цифровым порядком, рекомендованным в Рекомендациях 1979 г. (см. Правило D-1.55, ссылка 1) и в пересмотренных 
+Рекомендациях 2005 г. (ссылка 12). Для аддуктов, состоящих из органических и неорганических соединений, 
+органические соединения предшествуют неорганическим соединениям в формулах. Названия образуются путем указания 
+названий отдельных компонентов в порядке формулы. Использование порядка старшинства, универсальной системы, 
+в качестве критерия ранжирования предпочтительнее буквенно-цифрового порядка, зависящего от языка, как для 
+предпочтительных названий ИЮПАК, так и для общей номенклатуры.
+
+@Examples
+
+@cell
+<$ //\||`/|\(*/`||`\*)||`/`\\`/`\\`|(*/\/`/|*)`\\`|//\|`|/\`\`|`\`//|_(x5,y1,N0){}*{}|0O2`N/@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(5,-30)`||/@n(1,90)(*`|NO2*)\\|@n(3,-140)(*\NO2*)`//`\ $>
+
+en: coronene—1,3,5-trinitrobenzene (1/1) (PIN)
+ru: коронен—1,3,5-тринитробензол (1/1) (PIN)
+
+@cell
+<$ `-_p_q6_qq6_q6_qq6_q6_q6_p@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(9,-90)_p_pp_q6@n(4,100)_qq6_q6(*_qq6@n(1,-80)_q6*)_(x.5,N0){}*_(x3,y-1.5,N0)CH3|@n(1,90)`/|`/`\\`|//\|\//`|`\\ $>
+
+en: 9_H_-fluorene—1-methylnaphthalene (1/1) (PIN)
+ru: 9_H_-флуорен—1-метилнафталин (1/1) (PIN)
+
+@cell
+<$ (HOOC-CH2-NH-[CH2]2)2N-CH2-COOH*HN[CH2-P(O)(OH)2]2*H2N-[CH2]2-NH2 $>
+
+en: 2,2′-{[(carboxymethyl)azanediyl]bis(ethane-2,1-diylazanediyl)}diacetic acid—<br>
+ [azanediylbis(methylene)]bis(phosphonic acid)—ethane-1,2-diamine (1/1/1)  <br>
+_N_,_N_′-{[(carboxymethyl)azanediyl]di(ethan-2,1-diyl)}diglycine—[azanediylbis(methylene)]bis(phosphonic acid)—<br>
+ ethane-1,2-diamine (1/1/1)
+ru: 2,2′-{[(карбоксиметил)азандиил]бис(этан-2,1-диилазандиил)}диуксусная кислота —<br>
+[азандиилбис(метилен)]бис(фосфоновая кислота) — этан-1,2-диамин (1/1/1) <br>
+_N_,_N_′-{[(карбоксиметил)азандиил]ди(этан-2,1-диил)}диглицин —[азандиилбис(метилен)]бис(фосфоновая кислота) —<br>
+этан-1,2-диамин (1/1/1)
+
+@cell
+<$ 
+CN`/@:n(n,a,L:0.45)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(1,150)|@n(2,-150)`/@n(3,-90)|O`|`\@n(4,-30)(*`/Cl*)`||@n(5,30)(*`\Cl*)/@n(6,90)`|O|\|\CN_(x1,y-1,N0){}*{}\0/\|`/`\\`|/`|N@n(1,30,0.5)(*`\H3C*)/@n(2,90)\\N@n(3,150)|`/|\//`|`\c\/0{}*CH3I
+$>
+
+en: 4,5-dichloro-3,6-dioxocyclohexa-1,4-diene-1,2-dicarbonitrile—1-methyl-1H-perimidine—iodomethane (1/1/1) (PIN)
+ru: 4,5-дихлор-3,6-диоксоциклогекса-1,4-диен-1,2-дикарбонитрил — 1-метил-1H-перимидин — иодметан (1/1/1) (PIN)
+
+@cell
+<$
+OH|@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(1,100)\@n(2,160)|@n(3,-150)(*\OH*)`//`\`||/\/OH_(x1,y1,N0){}*{}/0/@n(8,90,0.6)\|\//`|`\\N@n(1,90,0.6)`/|`/`\\`|/`|OH
+$>
+
+en: benzene-1,2,3-triol—quinolin-8-ol (1/2) (PIN)
+ru: бензол-1,2,3-триол—хинолин-8-ол (1/2) (PIN)
+
+@cell
+<$ COOH|@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(1,100)\|`//@n(4,-100)(*|NO2*)`\`||/\c\0{}*{}/0/\|\//`|`\\N`/|`/`\\`|/`|OH $>
+
+en: 4-nitrobenzoic acid—quinolin-8-ol (1/1) (PIN)
+ru: 4-нитробензойная кислота — хинолин-8-ол (1/1) (PIN)
+
+@cell
+<$
+`\`//|\\/`||_pN(*_(y-.5)H*)_p(*_pp_p*)-COOH-0{}*{}|0O2`N/@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(5,-30)`||/@n(1,90)(*`|COOH*)\\|@n(3,-150)(*\NO2*)`//`\
+$>
+
+en: 1_H_-indole-2-carboxylic acid—3,5-dinitrobenzoic acid (1/1) (PIN) 
+ru: 1_H_-индол-2-карбоновая кислота — 3,5-динитробензойная кислота (1/1) (PIN)
+
+@cell
+<$ (C5H5)Fe(C5H4-CHO)*C6H6*CBr4 $>
+
+en: ferrocenecarbaldehyde—benzene—tetrabromomethane (1/1/1)  
+ru: ферроценкарбальдегид—бензол—тетрабромметан (1/1/1)
+
+@cell
+<$
+COOH|@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(1,90)\`\`/||\@n(4,-90)(*|NH2*)//`|\0{}*{}|0O2`N/@n(5,-30)`||/@n(1,90)(*`|NO2*)\\|@n(2,-150)(*\NO2*)`//`\
+$>
+
+en: 4-aminobenzoic acid—1,3,5-trinitrobenzene (1/1) (PIN)  
+ru: 4-аминобензойная кислота — 1,3,5-тринитробензол (1/1) (PIN)
+
+@cell
+<$
+CH3-COOH*{}_(x1,y-.5,N0)@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(2,30,0.35)$color(gray)_(A-20,L1.5)$color():a@n(1,90)_(A30)_(A110)_(A-150)(*_(y-1.8)(*`\H3C*)(*/CH3*)_#a_(A-30)CH2-SO2-OH*)_(A160,L1.5)_(A-70)(*_(A-135,N2)O*)_(x3,y.5,N0){}*CH3-CO-O-CH2-CH3*{}_(y-.5,N0)`\\`|//\|`|/\\(*/P(O)(C6H5)2*)|`//(*`\`/*)|\\|(*\P(O)(C6H5)2*)`//`\`/`\\`|//\|`|/
+$>
+
+en: acetic acid—(7,7-dimethyl-2-oxobicyclo[2.2.1]heptan-1-yl)methanesulfonic acid—<br>
+ethyl acetate—[1,1′-binaphthalene]-3,3′-diylbis(diphenyl-λ^{5}-phosphanone) (1/1/1/1) (PIN)  
+ru: уксусная кислота — (7,7-диметил-2-оксобицикло[2.2.1]гептан-1-ил)метансульфоновая кислота — <br>
+этилацетат — [1,1′-бинафталин]-3,3′-диилбис(дифенил-λ^{5}-фосфанон) (1/1/1/1) (PIN)
+
+@cell
+<$
+$padding(0.2)[`\$pos(90)N^+(*_(y-.5)H2*)`/|\N(*_(y.5)H*)/`|_(x.5,y.5,N0){}*{}_(x1.5,N0)O@:b(t,a,L:0.6)(*_(A&a,N0,L&L)$itemColor1(blue)"&t"*)@(16,180,0.75)`|_p4/O@b(19,-90)\/@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(3,-30)\@n(2,-90)(*|COO^-*)//@n(1,-130)(*`|`\\@b(1,90,0.8)`/||*)\/O@b(3,-90)\_(A0)|O:o@b(6,0)|_p4`/O@b(9,90)`\`/@n(1,-90)`\\@b(11,90,0.9)`/@n(3,-90)(*`\`/O@b(13,90)`\_(A180)`|*)||\@n(5,160)(*//`|*)|N=N-\-//(*-NO2*)`\`=`/\`/O2`N];
+#o_(x%d:2.3,y1,N0){}*CH2Cl2; #o_(x%d,y-1,N0){}*CH3-CO-O-CH2-CH3
+$>
+
+{piperazin-1-ium 11^{5}-[(2,4-dinitrophenyl)diazenyl]-3,6,9,13,16,19-hexaoxa-1,11(1,3)-dibenzenacycloicosaphane-1^{2}-carboxylate}—ethyl acetate—dichloromethane (1/1/1) (PIN)  <br>
+{piperazin-1-ium 13-[(2,4-dinitrophenyl)azo]-3,6,9,17,20,23-hexaoxatricyclo[23.3.1.1^{11,15}]triaconta-1(29),11(30),12,14,25,27-hexaene-29-carboxylate}—ethyl acetate—dichloromethane (1/1/1) 
+
+@End
+
+en: Solvates, including hydrates (see P-14.8.2), are treated as adducts and preferred IUPAC names must use the notation for 
+denoting the proportion of components described above. In general nomenclature, hydrates may be named by adding 
+the words ‘hydrate’ to the name preceded by an appropriate numerical prefix, such as ‘mono’,‘di’, ‘tri’, etc. Terms such 
+as ‘hemi’ and ‘sesqui’ are also used. 
+ru: Сольваты, включая гидраты (см. P-14.8.2), рассматриваются как аддукты, и предпочтительные названия IUPAC должны 
+использовать обозначение для обозначения пропорции компонентов, описанных выше. В общей номенклатуре гидраты могут быть 
+названы путем добавления слов «гидрат» к названию с предшествующим им соответствующим числовым префиксом, например, 
+«моно», «ди», «три» и т. д. Также используются такие термины, как «геми» и «сескви».
+
+@Examples
+
+@cell
+<$ CH3-CH2-OH-0{}*{}/0/N\\|`//`\`|| $>
+
+en: ethanol—pyridine (1/1) (PIN)
+ru: этанол-пиридин (1/1) (PIN)
+
+@End
+
+#P-14.8.2 
+en: Mixed organic – inorganic adducts
+ru: Смешанные органические – неорганические аддукты
+
+en: Formulas for mixed adducts composed of organic and inorganic chemical species are written in the following order: 
+organic components in order as described in P-14.8.1, inorganic components in order as described in Ref 12; water (if 
+present), is cited last.
+ru: Формулы для смешанных аддуктов, состоящих из органических и неорганических химических веществ, записываются 
+в следующем порядке: органические компоненты в порядке, описанном в P-14.8.1, неорганические компоненты в порядке, 
+описанном в Ref 12; вода (если присутствует) указывается последней.
+
+en: Although organic components are preferred IUPAC names, preferred IUPAC names cannot be assigned to mixed 
+adducts because preferred IUPAC names have not yet been determined for inorganic components. 
+ru: Хотя органические компоненты имеют предпочтительные названия по ИЮПАК, предпочтительные названия по ИЮПАК 
+не могут быть назначены смешанным аддуктам, поскольку предпочтительные названия по ИЮПАК еще не определены 
+для неорганических компонентов.
+
+en: However, names are formed by citing the names of individual compounds, connected by long (em) dashes (—). The 
+proportions of the components are indicated after the name by an arabic number(s) separated by a solidus enclosed in 
+parentheses and separated from the name by a space. Hydrates may be named by adding the word ‘hydrate’ to the name 
+preceded by an appropriate numerical prefix, such as ‘mono’,‘di’, ‘tri’, etc. Terms such as ‘hemi’ and ‘sesqui’ are also 
+used.
+ru: Однако названия образуются путем указания названий отдельных соединений, соединенных длинными (em) тире (—). 
+Пропорции компонентов указываются после названия арабскими цифрами, разделенными косой чертой, заключенной в скобки 
+и отделенной от названия пробелом. Гидраты могут быть названы путем добавления слова «гидрат» к названию 
+с предшествующим ему соответствующим числовым префиксом, например, «моно», «ди», «три» и т. д. 
+Также используются такие термины, как «геми» и «сескви».
+
+@Examples
+
+@cell
+<$ `\\`/||\//`|_p_pp_pN@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@(1,-110)<_p>_(a-54)N<`/@n(3,150)`\\`/||\N@n(1,-90)//`|>-CH2-CH2-CH3*HCl $>
+
+en: _N_-propyl-_N_-(pyridin-3-yl)-1_H_-indol-1-amine—hydrogen chloride (1/1)
+ru: _N_-пропил-_N_-(пиридин-3-ил)-1_H_-индол-1-амин — хлористый водород (1/1)
+
+@cell
+<$
+`\`/`\\`|@:n(n,a,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(7,30)(*`\Cl*)//\|`|/N@n(1,90)\\:a|`//@n(4,-90)|NH-CH@n(4,-90)(CH3)-CH2-CH2-CH2@n(1,-90)-N(CH2-CH3)2; #a_(x.5,y.5,N0){}*2H3PO4
+$>
+
+en: _N_^{4}-(7-chloroquinolin-4-yl)-_N_^{1},_N_^{1}-diethylpentane-1,4-diamine—phosphoric acid (1/2) 
+ru: _N_^{4}-(7-хлорхинолин-4-ил)-_N_^{1},_N_^{1}-диэтилпентан-1,4-диамин — фосфорная кислота (1/2)
+
+@cell
+<$ `\`/`\\`|@:n(n,a,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(7,30)(*`\Cl*)//\|`|/N@n(1,90)\\:a|`//@n(4,-90)|NH-CH@n(4,-90)(CH3)-CH2-CH2-CH2@n(1,-90)-N(CH2-CH3)2; #a_(x.5,y.5,N0){}*H2SO4 $>
+
+en: _N_^{4}-(7-chloroquinolin-4-yl)-_N_^{1},_N_^{1}-diethylpentane-1,4-diamine—sulfuric acid (1/1) 
+ru: _N_^{4}-(7-хлорхинолин-4-ил)-_N_^{1},_N_^{1}-диэтилпентан-1,4-диамин — серная кислота (1/1)
+
+@cell
+<$
+`//`\`||/N@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(1,90)\\|@n(3,-150)_(A30,w-,L1.3):a`/dH;
+`-_p#a@n(2,40)_pN@n(1,80)(*`|CH3*)_p(*_p*)-0{}*{}-0HCl
+$>
+
+en: 3-[(2_S_)-1-methylpyrrolidin-2-yl]pyridine—hydrogen chloride (1/1)
+ru: 3-[(2_S_)-1-метилпирролидин-2-ил]пиридин — хлористый водород (1/1)
+
+@cell
+<$ H2N-CH2@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(2,-90)-CO@n(1,-90)-NH@n(N,-90)_(A-40)@n(1,-30)\//`|@n(4,150)(*`\\`/||*)_(A-30)O(*-CH2-CH3*)|0{}*H2O $>
+
+en: 2-amino-_N_-(4-ethoxyphenyl)acetamide—water (1/1)  <br>
+2-amino-_N_-(4-ethoxyphenyl)acetamide monohydrate 
+ru: 2-амино-_N_-(4-этоксифенил)ацетамид—вода (1/1) <br>
+2-амино-_N_-(4-этоксифенил)ацетамид моногидрат
+
+@cell
+<$ HOOC-COOH*H2N-CH2-CH2-NH2*'3/2'H2O $>
+
+en: oxalic acid—ethane-1,2-diamine—water (2/2/3)  <br>
+oxalic acid—ethane-1,2-diamine sesquihydrate
+ru: щавелевая кислота—этан-1,2-диамин—вода (2/2/3) <br>
+щавелевая кислота—этан-1,2-диамин сесквигидрат
+
+@cell
+<$ H2N-@:n(n,a,L:0.5)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(1,0)/=\@n(4,180)(*`//`-`\\*)-S`O2-@n(1,0)/=\@n(4,180)(*`//`-`\\*)-CH2-NH2*HCl*H2O $>
+
+en: 4-[4-(aminomethyl)benzene-1-sulfonyl]aniline—hydrogen chloride—water (1/1/1) 
+ru: 4-[4-(аминометил)бензол-1-сульфонил]анилин—хлорид водорода—вода (1/1/1)
+
+@End
+

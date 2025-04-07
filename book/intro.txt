@@ -1,0 +1,475 @@
+// Нужен какой-то баннер для русского языка о том, что перевод не точный.
+
+#P-0
+en: Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.
+ru: Номенклатура органической химии. Рекомендации ИЮПАК и предпочтительные названия 2013.
+
+#P-01
+en: PREFACE
+ru: ПРЕДИСЛОВИЕ
+
+en: This edition of the _Nomenclature of Organic Chemistry_ follows the 1993 publication of the _Guide to IUPAC 
+Nomenclature of Organic Compounds_ by the International Union of Pure and Applied Chemistry (IUPAC). The 
+International Union of Pure and Applied Chemistry has the responsibility to establish rules for systematic nomenclature. 
+The Rules for Organic Chemistry were first issued in Geneva in 1892. They were followed by the Liége Rules in 1930 
+and the IUPAC rules in 1957 (Sections A and B), 1969 (Sections A, B, and C) codified as the Blue Book, and 1979 
+(Sections A, B, C, D, E, F, and H). The 1993 Guide recognized the necessity to propose to the chemical community the 
+so called ‘preferred IUPAC name’, not to say the ‘unique name’. The explosion of information justifies this new 
+approach in the revision of the principles, rules, and conventions of the nomenclature of organic compounds. Preferred 
+IUPAC names, known under the friendly acronym PIN, are also important in legal situations, with manifestations in 
+patents, export-import regulations, health and safety information, and communications in environmental sciences and 
+their legal implications. 
+ru: Это издание _Номенклатуры органической химии_ следует за публикацией _Руководства по номенклатуре органических 
+соединений ИЮПАК_ 1993 года Международным союзом теоретической и прикладной химии (ИЮПАК). 
+Международный союз теоретической и прикладной химии несет ответственность за установление правил систематической номенклатуры.
+Правила органической химии были впервые опубликованы в Женеве в 1892 году. 
+За ними последовали Льежские правила в 1930 году и правила ИЮПАК в 1957 году (Разделы A и B), 
+1969 году (Разделы A, B и C), кодифицированные как Синяя книга, и 1979 году (Разделы A, B, C, D, E, F и H). 
+В Руководстве 1993 года была признана необходимость предложить химическому сообществу так называемое 
+«предпочтительное название ИЮПАК», а не «уникальное название». 
+Взрыв информации оправдывает этот новый подход к пересмотру принципов, правил и соглашений номенклатуры органических соединений. 
+Предпочтительные названия ИЮПАК, известные под дружелюбной аббревиатурой PIN, также важны в юридических ситуациях, 
+с проявлениями в патентах, экспортно-импортных правилах, информации по охране здоровья и безопасности, 
+а также в коммуникациях в области наук об окружающей среде и их правовых последствиях.
+
+en: The work for this edition began in 1992 at the time the 1993 Guide was in press under the expert guidance of the 
+Commission on Nomenclature of Organic Chemistry (CNOC). The general format of the Guide was maintained. The 
+principal objective was to maintain continuity and consistency. Continuity meant that substitutive nomenclature was 
+maintained as the principal nomenclature to name organic compounds based on the concepts of parent hydrides and of 
+different hierarchical orders: order of classes, order of seniority of suffixes, seniority order for rings and ring systems, 
+and seniority order for chains (the principal chain). Consistency was to consider the hydrides of elements of Groups 13, 
+14, 15, 16, and 17 as parent hydrides in substitutive nomenclature and to treat equally carbon atoms and heteroatoms. 
+To achieve this goal, the names of the hydrides of heteroatoms are names ending in ‘ane’, for example ‘phosphane’ for 
+<$ PH3 $> and ‘silane’ for <$ SiH4 $>. As they are chosen amongst several (inorganic) names, for instance ‘sulfane’ and ‘hydrogen 
+sulfide’ for <$ H2S $>, these names are called ‘preselected names’; the decision to accept them as ‘preferred IUPAC names’ 
+will be made later. Preselected names generate preselected prefixes and suffixes, for example ‘sulfanyl’ and 
+‘sulfanylidene’ for <$ –SH $> and <$ =S $>, respectively, which are used in substitutive nomenclature, as are preferred prefixes and 
+suffixes, such as ‘methyl’, <$ –CH3 $>, and ‘phenyl’, <$ –C6H5 $>.
+ru: Работа над этим изданием началась в 1992 году, когда Руководство 1993 года находилось в печати под руководством 
+экспертов Комиссии по номенклатуре органической химии (CNOC). Общий формат Руководства был сохранен. 
+Главной целью было сохранение преемственности и последовательности. Преемственность означала, что заместительная номенклатура 
+сохранялась как основная номенклатура для наименования органических соединений на основе концепций исходных 
+гидридов и различных иерархических порядков: порядок классов, порядок старшинства суффиксов, порядок старшинства 
+для колец и кольцевых систем и порядок старшинства для цепей (главная цепь). 
+Последовательность заключалась в том, чтобы рассматривать гидриды элементов групп 13, 14, 15, 16 и 17 как 
+исходные гидриды в заместительной номенклатуре и одинаково относиться к атомам углерода и гетероатомам. 
+Для достижения этой цели названия гидридов гетероатомов представляют собой названия, заканчивающиеся на «ан», 
+например «фосфан» для <$ PH3 $> и «силан» для <$ SiH4 $>. 
+Поскольку они выбираются среди нескольких (неорганических) названий, например «сульфан» и «сероводород» для <$ H2S $>, 
+эти названия называются «предварительно выбранными названиями»; 
+решение о принятии их в качестве «предпочтительных названий ИЮПАК» будет принято позже. 
+Предварительно выбранные названия генерируют предварительно выбранные префиксы и суффиксы, 
+например «сульфанил» и «сульфанилиден» для <$ –SH $> и <$ =S $> соответственно, которые используются 
+в заместительной номенклатуре, как и предпочтительные префиксы и суффиксы, 
+такие как «метил», <$ –CH3 $>, и «фенил», <$ –C6H5 $>.
+
+en: Several changes from previous rules were needed to achieve systematization and consistency in constructing names. To 
+facilitate the understanding and use of the preferred IUPAC name system, these changes are explained and highlighted 
+in boxes each and every time they appear in Chapters P-1 through P-8. In Chapter P-6, full systematization has been 
+applied to the formation of prefixes of substituent and functional groups.
+ru: Несколько изменений по сравнению с предыдущими правилами потребовались для достижения систематизации и 
+согласованности в построении имен. Для облегчения понимания и использования предпочтительной системы имен ИЮПАК 
+эти изменения объясняются и выделяются в рамках каждый раз, когда они появляются в Главах P-1 — P-8. 
+В Главе P-6 полная систематизация была применена к формированию префиксов заместителей и функциональных групп.
+
+en: It is hoped that the systematization provided by the strict application of the rules will be widely understood and 
+accepted. Preferred IUPAC names are easy to be selected. It is however inevitable that some ambiguities and 
+unsuspected difficulties will be encountered. Task forces will be established to rapidly answer questions, give guidance 
+to authors and ensure the homogeneity of the system. Computerized nomenclature should help in maintaining this 
+homogeneity and in making sure that further progress will be firmly consistent with it.
+ru: Надеемся, что систематизация, обеспечиваемая строгим применением правил, будет широко понята и принята. 
+Предпочтительные названия ИЮПАК легко выбрать. Однако неизбежно, что будут возникать некоторые двусмысленности 
+и неожиданные трудности. Будут созданы целевые группы для быстрого ответа на вопросы, предоставления рекомендаций 
+авторам и обеспечения однородности системы. Компьютеризированная номенклатура должна помочь в поддержании 
+этой однородности и в обеспечении того, чтобы дальнейший прогресс был ей твердо согласовывался.
+
+en: It is important to reiterate that nomenclature is here to serve a number of purposes: oral communication, commercial 
+and industrial development, written scientific communication, etc. As has been many times, the prime aim of IUPAC 
+nomenclature is clarity and the construction of unambiguous names; there must be absolute correspondence between 
+structure and name, and vice versa between name and structure. Preferred IUPAC names are here today to serve a 
+special purpose; they are not imposed to the chemical and scientific community. The rules set out here express the firm 
+belief of the former Commission on Nomenclature for Organic Chemistry, now that of the IUPAC Chemical 
+Nomenclature and Structure Representation Division, as to the best system of nomenclature, for present specific 
+purposes and for future developments. 
+ru: Важно повторить, что номенклатура служит нескольким целям: устному общению, коммерческому и промышленному развитию, 
+письменному научному общению и т. д. Как уже было много раз, главной целью номенклатуры ИЮПАК является ясность 
+и построение недвусмысленных названий; должно быть абсолютное соответствие между структурой и названием, 
+и наоборот между названием и структурой. Предпочтительные названия ИЮПАК сегодня служат особой цели; 
+они не навязываются химическому и научному сообществу. Правила, изложенные здесь, выражают твердую веру бывшей 
+Комиссии по номенклатуре органической химии, ныне Отдела химической номенклатуры и представления структуры ИЮПАК, 
+в лучшую систему номенклатуры для настоящих конкретных целей и для будущих разработок.
+
+#P-02
+en: GLOSSARY
+ru: ГЛОССАРИЙ
+
+// Виды номенклатуры https://studfile.net/preview/2891055/page:3/
+
+en: **Attached component**. A ring or ring system that is fused to a parent component in fusion nomenclature; 
+there are first-order attached components, for example ‘benzo’ in benzo[_g_]quinoline and ‘furo’ and ‘pyrrolo’ in  
+furo[3,2-_h_]pyrrolo[3,4-_a_]carbazole; 
+second-order attached components, for example ‘cyclopenta’ in 
+cyclopenta[4,5]pyrrolo[2,3-_c_]pyridine and ‘pyrano’ in pyrano[3′,2′:4,5]cyclohepta[1,2-_d_]oxepine; and so on. 
+ru: **Присоединенный компонент**. Кольцо или кольцевая система, которая присоединена к исходному компоненту 
+в номенклатуре слияния;
+существуют присоединенные компоненты первого порядка, например «бензо» в бензо[_g_]хинолине и «фуро» 
+и «пирроло» в фуро[3,2-_h_]пирроло[3,4-_a_]карбазоле;
+присоединенные компоненты второго порядка, например «циклопента» в циклопента[4,5]пирроло[2,3-_c_]пиридине 
+и «пирано» в пирано[3′,2′:4,5]циклогепта[1,2-_d_]оксепине; и так далее.
+
+en: **Additive operation**. A procedure involving the formal assembly of a structure from its component parts without loss of 
+any atoms or groups, for example calcium chloride, styrene oxide, 1,1′-biphenyl, pentyloxy, decahydronaphthalene, and 
+pyridin-1-ium.
+ru: **Аддитивная операция**. Процедура, включающая формальную сборку структуры из ее составных частей без потери 
+каких-либо атомов или групп, например, хлорида кальция, оксида стирола, 1,1′-бифенила, пентилокси, декагидронафталина 
+и пиридин-1-ия.
+
+en: **Amplificant**. A ring or ring system replacing superatom(s) in the amplification operation of phane nomenclature. 
+ru: **Усилитель**. Кольцо или кольцевая система, заменяющая суператом(ы) в операции усиления номенклатуры фанов.
+
+en: **Amplification**. An operation in phane nomenclature restoring rings or ring systems from superatoms representing them 
+in a phane skeleton name. 
+ru: **Усиление**. Операция в номенклатуре фантомов, восстанавливающая кольца или кольцевые системы из суператомов, 
+представляющих их в названии скелета фана.
+
+en: **Amplification prefix**. Names of the amplificants restored from the superatoms cited as nondetachable prefixes in a 
+phane parent name, for example: benzena and pyridina.
+ru: **Префикс амплификации**. Названия амплификаторов, восстановленных из суператомов, указаны как неотделяемые префиксы 
+в названии исходного фана, например: benzena и pyridina.
+
+en: **Bridge**. In von Baeyer alicyclic ring systems, an unbranched chain of atoms, an atom, or a valence bond connecting two 
+bridgehead atoms; in bridged fused ring systems, a bridge can be an atom or a group of atoms, for example ethano, 
+azano, and epoxireno.
+ru: **Мост**. В алициклических кольцевых системах фон Байера — неразветвленная цепь атомов, атом или валентная связь, 
+соединяющая два атома-мостовых; в мостиковых конденсированных кольцевых системах мостиком может быть атом или группа атомов, 
+например, этано, азано и эпоксирено. 
+
+en: **Bridgehead atom**. In von Baeyer alicyclic ring systems, any skeletal atom of the ring system that is bonded to three or 
+more skeletal atoms (excluding hydrogen). In bridged fused ring systems, an atom of the fused system to which a bridge 
+is attached.
+ru: **Атом мостика**. В алициклических кольцевых системах фон Байера любой скелетный атом кольцевой системы, 
+связанный с тремя или более скелетными атомами (исключая водород). В мостиковых конденсированных кольцевых системах 
+атом конденсированной системы, к которому присоединен мостик. 
+
+en: **Carbane nomenclature**. Principles, rules, and conventions of substitutive nomenclature applied to the parent hydrides 
+of carbon leading to names such as methanamine and cyclohexanol.
+ru: **Номенклатура карбана**. Принципы, правила и соглашения заместительной номенклатуры, применяемые к исходным 
+гидридам углерода, приводящие к таким названиям, как метанамины и циклогексанол. 
+
+en: **Characteristic group**. A single heteroatom, such as <$–Cl$>, and <$=O$>; 
+a heteroatom bearing one or more hydrogen atoms or other heteroatoms, such as <$–NH2$>, <$–OH$>, <$–SO3H$>, <$–PO3H2$>, 
+and <$–IO2$>; or a heteroatomic group attached to or containing a single carbon atom, 
+for example <$–CHO$>, <$–CN$>, <$–COOH$>, and <$–NCO$>, attached to a parent hydride.
+ru: **Характерная группа**. Один гетероатом, такой как <$–Cl$> и <$=O$>;
+гетероатом, несущий один или несколько атомов водорода или других гетероатомов, 
+таких как <${}–NH2$>, <${}–OH$>, <${}–SO3H$>, <${}–PO3H2$> и <${}–IO2$>; или гетероатомная группа, 
+присоединенная к или содержащая один атом углерода,
+например, <${}–CHO$>, <${}–CN$>, <${}–COOH$> и <${}–NCO$>, присоединенная к исходному гидриду.
+
+en: **Complex substituent group**. A substituent group consisting of a simple substituent group 
+(the parent substituent group) to which is attached a compound substituent group, 
+for example (chloromethyl)phenyl <% f %>. 
+ru: **Сложная замещающая группа**. Замещающая группа, состоящая из простой замещающей группы (исходной замещающей группы), 
+к которой присоединена составная замещающая группа, например (хлорометил)фенил <% f %>.
+%f: <$(ClCH2-C6H4–)$>
+
+en: **Composite locant**. A locant composed of two or more parts. In phane nomenclature composite locants are composed of 
+a primary number identifying each amplificant and a superscript number expressing the locant of the amplificant itself, 
+for example 1^1 and 1^2. In ring assemblies, composite locants consist of an arabic primary number, identifying each ring 
+system, and an arabic superscript number expressing the numbering of the ring or ring system itself, for example 1^1 and 
+1^2.
+ru: **Составной локант**. Локант, состоящий из двух или более частей. 
+В номенклатуре фанов составные локанты состоят из первичного числа, идентифицирующего каждый усилитель, 
+и надстрочного числа, выражающего локант самого усилителя, например, 1^1 и 1^2. 
+В кольцевых сборках составные локанты состоят из арабского первичного числа, идентифицирующего каждую кольцевую систему, 
+и арабского надстрочного числа, выражающего нумерацию кольца или самой кольцевой системы, например, 1^1 и 1^2. 
+
+en: **Compound substituent group**. A substituent group consisting of two parts, 
+(1) a simple substituent group (the parent substituent group); 
+and (2) one or more simple substitutive atoms or groups, for example, chloromethyl <$(ClCH2–{})$>, 
+hydroxysulfanyl <$(HO-S–)$>, 2,2-dichloroethyl <$(Cl2CH-CH2–{})$>.
+ru: **Сложная замещающая группа**. Замещающая группа, состоящая из двух частей,
+(1) простая замещающая группа (исходная замещающая группа);
+и (2) один или несколько простых замещающих атомов или групп, например, хлорметил <$(ClCH2–{})$>,
+гидроксисульфанил <$(HO-S–)$>, 2,2-дихлорэтил <$(Cl2CH-CH2–{})$>.
+
+en: **Concatenated substituent group**. A compound or complex substituent group formed only by the additive operation, 
+for example sulfanyloxy <$(HS-O–)$> and cyclohexyloxy <$(C6H11-O–)$>.
+ru: **Сцепленная замещающая группа**. Сложная или сложная замещающая группа, образованная только посредством 
+аддитивной операции, например, сульфанилокси <$(HS-O–)$> и циклогексилокси <$(C6H11-O–)$>.
+
+en: **Detachable prefix**. A substituent prefix cited before the name of a parent structure and, with the exception of 
+hydro/dehydro prefixes, subject to alphabetization, for example amino, methyl, and silyl. 
+ru: **Отделяемый префикс**. Заместительный префикс, приводимый перед названием исходной структуры и, 
+за исключением гидро/дегидро префиксов, подлежащий алфавитному упорядочению, например, амино, метил и силил.
+
+en: **Functional class nomenclature**. A system in which the principal characteristic group is expressed as a class term, such 
+as chloride, alcohol, or ketone, written as a separate word or words, following a term derived from a parent hydride, for 
+example methyl iodide and ethyl methyl ketone or substituent group, for example: acetyl chloride. 
+ru: **Номенклатура функциональных классов**. Система, в которой основная характерная группа выражена термином класса, 
+например, хлорид, спирт или кетон, записанным отдельным словом или словами, следующим за термином, 
+полученным из исходного гидрида, например, метилйодид и этилметилкетон, или замещающей группы, например: ацетилхлорид.
+
+en: **Functionalized parent hydride**. A parent hydride with a characteristic group cited as a suffix, for example 
+cyclopentanecarbonitrile.
+ru: **Функционализированный исходный гидрид**. Исходный гидрид с характерной группой, указанной в качестве суффикса, 
+например циклопентанкарбонитрил. 
+
+en: **Functional parent compound**. A structure the name of which expresses or implies the presence of one or more 
+characteristic groups and which has one or more substitutable hydrogen atoms attached to at least one of its skeletal 
+atoms, or in which one of its characteristic groups can form at least one kind of functional modification, for example 
+acetic acid, aniline, and phosphonic acid.
+ru: **Функциональное исходное соединение**. Структура, название которой выражает или подразумевает наличие 
+одной или нескольких характерных групп и которая имеет один или несколько замещаемых атомов водорода, 
+присоединенных по крайней мере к одному из ее скелетных атомов, или в которой одна из ее характерных групп 
+может образовывать по крайней мере один вид функциональной модификации, например, уксусная кислота, анилин и фосфоновая кислота.
+
+en: **Functional replacement nomenclature**. A method by which oxygen atoms of characteristic groups and functional 
+parent compounds are replaced by halogen, chalcogen, and/or nitrogen atoms, for example propane-1-thiol and 
+carbonimidic acid. It is a subset of replacement nomenclature, for which see below.
+ru: **Функциональная номенклатура замены**. Метод, при котором атомы кислорода характерных групп и 
+функциональных исходных соединений заменяются атомами галогена, халькогена и/или азота, 
+например, пропан-1-тиол и карбонимидовая кислота. Это подмножество номенклатуры замены, о котором см. ниже.
+
+en: **Fusion atom**. An atom of a fused ring system which is common to two or more rings. 
+ru: **Атом слияния**. Атом конденсированной кольцевой системы, являющийся общим для двух или более колец.
+
+en: **Fusion nomenclature**. A system for naming bi- and polycyclic systems having two or more rings or ring systems 
+joined together by two adjacent common atoms, for example, benzo[_g_]quinoline and cyclopenta[_a_]naphthalene. 
+ru: **Номенклатура слияния**. Система наименования би- и полициклических систем, имеющих два или более колец 
+или кольцевых систем, соединенных вместе двумя соседними общими атомами, 
+например, бензо[_g_]хинолин и циклопента[_a_]нафталин.
+
+en: **General (IUPAC) nomenclature**. The principles, rules, and conventions by which names other than preferred IUPAC 
+names (PINs) are generated, for example acetone, propane-1,3-sultim, and thioacetamide. 
+ru: **Общая (ИЮПАК) номенклатура**. Принципы, правила и соглашения, по которым генерируются названия, 
+отличные от предпочтительных названий ИЮПАК (PIN), например, ацетон, пропан-1,3-сультим и тиоацетамид.
+
+en: **Generalized ‘ane’ nomenclature**. The principles, rules, and conventions of substitutive nomenclature generally 
+applied to parent hydrides of elements in Groups 13, 14, 16 , and 17, for example sulfane, diazane, trisilane, and borane. 
+ru: **Обобщенная «ановая» номенклатура**. Принципы, правила и соглашения заместительной номенклатуры, 
+обычно применяемые к исходным гидридам элементов групп 13, 14, 16 и 17, например, сульфан, диазан, трисилан и боран.
+
+en: **Hantzsch-Widman name**. A name for a heteromonocyclic ring having three- through ten-ring members formed by the 
+original proposals of Hantzsch and Widman in which a prefix or prefixes denoting the hetero atom(s) in the ring is 
+added to stems denoting the size and degree of saturation of the ring, for example 1,2,4-triazole and 1,2-oxazole. 
+ru: **Наименование Ганча-Видмана**. Название гетеромоноциклического кольца, имеющего от трех до десяти членов кольца, 
+образованное по первоначальным предложениям Ганча и Видмана, в котором префикс или префиксы, обозначающие 
+гетероатом(ы) в кольце, добавляются к основам, обозначающим размер и степень насыщенности кольца, 
+например, 1,2,4-триазол и 1,2-оксазол.
+
+en: **Heterane nomenclature**. The principles, rules, and conventions of substitutive nomenclature applied to parent hydrides 
+for elements of Groups 13, 14, 15, 16, and 17, other than carbon, for example disulfane, triarsane, disilane, and borane. 
+ru: **Номенклатура гетеранов**. Принципы, правила и соглашения заместительной номенклатуры, применяемые к исходным гидридам 
+для элементов групп 13, 14, 15, 16 и 17, кроме углерода, например, дисульфан, триарсан, дисилан и боран.
+
+en: **Heteroamine**. A compound having an amino group bonded to a heteroatom, for example piperidin-1-amine. 
+ru: **Гетероамин**. Соединение, имеющее аминогруппу, связанную с гетероатомом, например пиперидин-1-амин.
+
+en: **Heteroimine**. A compound having an imino group doubly bonded to a heteroatom, for example methylphosphanimine. 
+ru: **Гетероимин**. Соединение, имеющее иминогруппу, дважды связанную с гетероатомом, например, метилфосфанимин.
+
+en: **Heteroatom**. An atom other than carbon belonging to Groups 13, 14, 15, 16, or 17 in the nomenclature of organic 
+compounds, for example N, Si, and Ge.
+ru: **Гетероатом**. Атом, отличный от углерода, принадлежащий к группам 13, 14, 15, 16 или 17 
+в номенклатуре органических соединений, например N, Si и Ge.
+
+en: **Heterol**. A compound having a hydroxy group bonded to a heteroatom, for example piperidin-1-ol. 
+ru: **Гетерол**. Соединение, имеющее гидроксильную группу, связанную с гетероатомом, например пиперидин-1-ол.
+
+en: **Heterone**. A compound having an oxygen atom doubly bonded to a heteroatom, for example methylsilanone. 
+ru: **Гетерон**. Соединение, имеющее атом кислорода, дважды связанный с гетероатомом, например, метилсиланон.
+
+en: **Interior atom**. An atom of a fused ring system that is not a peripheral atom. 
+ru: **Внутренний атом**. Атом конденсированной кольцевой системы, не являющийся периферическим атомом.
+
+en: **Ketone**. A compound having an oxygen atom doubly bonded to a carbon atom that is itself linked to two carbon atoms, 
+for example propan-2-one <$(CH3-CO-CH3)$>.
+ru: **Кетон**. Соединение, имеющее атом кислорода, дважды связанный с атомом углерода, который сам связан с двумя атомами углерода,
+например, пропан-2-он <$(CH3-CO-CH3)$>.
+
+en: **Multiplicative nomenclature**. A system that allows the expression of two or more identical cyclic parent hydrides or 
+heteroacyclic parent structures linked by di- or polyvalent substituent groups, for example 1,1′-peroxydibenzene and 
+4,4′- oxydi(cyclohexane-1-carboxylic acid). 
+ru: **Мультипликативная номенклатура**. Система, которая позволяет выразить два или более идентичных циклических 
+исходных гидрида или гетероациклических исходных структур, связанных ди- или поливалентными замещающими группами, 
+например, 1,1′-пероксидибензол и 4,4′-оксиди(циклогексан-1-карбоновая кислота).
+
+en: **Nondetachable prefix**. A structure modifying prefix cited before the name of a parent structure and after alphabetized 
+detachable prefixes and the detachable prefixes hydro and/or dehydro prefixes, for example bicyclo, spiro, aza, and nor. 
+ru: **Неотделяемый префикс**. Префикс, изменяющий структуру, который приводится перед названием родительской структуры 
+и после алфавитно отщепляемых префиксов и отщепляемых префиксов гидро и/или дегидро, например, бицикло, спиро, аза и нор.
+
+en: **Parent component**. The parent component of a fused ring system is the ring or ring system having the highest seniority 
+according to the seniority order of rings and ring systems, for example oxepine in dibenzo[_c_,_e_]oxepine. 
+ru: **Исходный компонент**. Исходным компонентом конденсированной кольцевой системы является кольцо или кольцевая система, имеющие наивысшее старшинство
+согласно порядку старшинства колец и кольцевых систем, например оксепин в дибензо[_c_,_e_]оксепин.
+
+en: **Parent compound** (often used in place of Parent structure; see Parent structure) 
+ru: **Исходное соединение** (часто используется вместо Исходной структуры; см. Исходная структура)
+
+en: **Parent hydride**. An unbranched acyclic, a cyclic structure, or an acyclic/cyclic structure having a systematic or 
+retained name and to which only hydrogen atoms are attached, for example methane, cyclohexane, styrene, and pyridine. 
+ru: **Исходный гидрид**. Неразветвленная ациклическая, циклическая структура или ациклическая/циклическая структура, 
+имеющая систематическое или сохраненное название и к которой присоединены только атомы водорода, 
+например, метан, циклогексан, стирол и пиридин.
+
+en: **Parent structure**. A parent hydride, for example methane; a functional parent compound, for example phenol; a 
+functionalized parent hydride, for example propan-2-one. 
+ru: **Исходная структура**. Исходный гидрид, например, метан; функциональное исходное соединение, 
+например, фенол; функционализированный исходный гидрид, например, пропан-2-он.
+
+en: **Parent substituent group**. A simple substituent group attached to a parent hydride or parent structure in a compound 
+substituent group, for example the ethyl group in <$ ClCH2-CH2– $>. 
+ru: **Исходная заместительная группа**. Простая заместительная группа, присоединенная к исходному гидриду 
+или исходной структуре в сложной замещающей группе, например, этильная группа в <$ ClCH2-CH2– $>.
+
+en: **Peripheral atom**. Any atom that forms part of the outer perimeter of a fused ring system. 
+ru: **Периферийный атом**. Любой атом, который образует часть внешнего периметра конденсированной кольцевой системы.
+
+en: **Phane parent skeleton**. The skeletal graph before the simplication operation and after the amplification operation in 
+phane nomenclature. 
+ru: **Исходный скелет фана**. Скелетный граф до операции упрощения и после операции амплификации в номенклатуре фанов.
+
+en: **Preferred IUPAC name (PIN)**. A name preferred among two or more names generated from two or more IUPAC 
+recommendations including the many synonyms that have been coined and used over the years, for example 
+disilylacetic acid and 3-chloropropanoic acid. 
+ru: **Предпочтительное название ИЮПАК (PIN)**. Название, предпочтительное среди двух или более названий, 
+полученных из двух или более рекомендаций ИЮПАК, включая множество синонимов, которые были придуманы 
+и использовались на протяжении многих лет, например, дисилилуксусная кислота и 3-хлорпропановая кислота.
+
+en: **Preselected name**. A name chosen for a noncarbon (inorganic) structure to be used as the basis for derivation of a 
+preferred IUPAC name in the nomenclature of organic compounds, for example hydrazine and disulfane. 
+ru: **Предварительно выбранное название**. Название, выбранное для неуглеродной (неорганической) структуры, 
+которая будет использоваться в качестве основы для выведения предпочтительного названия ИЮПАК 
+в номенклатуре органических соединений, например, гидразин и дисульфан.
+
+en: **Primary locant**. In phane nomenclature, an arabic number designating an atom or an amplificant in a phane parent 
+skeleton. In ring assemblies, primary locants designate the rings or ring systems in the numbering of a structure. 
+ru: **Первичный локант**. В номенклатуре phane арабская цифра, обозначающая атом или усилитель в исходном скелете фана. 
+В кольцевых сборках первичные локанты обозначают кольца или кольцевые системы в нумерации структуры.
+
+en: **Principal characteristic group**. The characteristic group chosen for citation at the end of a name by means of a suffix 
+or a class name, or implied by a trivial name, for example, ethanol and acetic acid. 
+ru: **Основная характеристическая группа**. Характеристическая группа, выбранная для цитирования в конце имени 
+с помощью суффикса или имени класса, или подразумеваемая тривиальным именем, например, этанол и уксусная кислота.
+
+en: **Pseudoester**. A compound having the generic formula <% f %> and chalcogen analogues where x = 1 or 2, and Z 
+is not a carbon atom but an element from the following list: B, Al, In, Ga, Tl, Si, Ge, Sn, Pb, N(cyclic), P, As, Sb, Bi, 
+for example silyl acetate. 
+ru: **Псевдоэфир**. Соединение, имеющее общую формулу <% f %> и аналоги халькогенов, где x = 1 или 2, 
+а Z не является атомом углерода, а элементом из следующего списка: B, Al, In, Ga, Tl, Si, Ge, Sn, Pb, N(циклический), 
+P, As, Sb, Bi, например, силилацетат.
+%f: <$ {R}-{E}(=O)'x'(O{Z}) $>
+
+en: **Pseudoketone**. A cyclic compound having a carbonyl group linked to one or two skeletal heteroatoms or an acyclic 
+compound, other than esters or acid anhydrides, having a carbonyl group linked to one carbon atom and one skeletal 
+heteroatom, except for nitrogen and halogens, or an acyclic compound having a carbonyl group linked to a heteroatom 
+belonging to a ring or ring system, for example piperidin-2-one, 1-silylethan-1-one and 1-(piperidin-1-yl)ethan-1-one 
+ru: **Псевдокетон**. Циклическое соединение, имеющее карбонильную группу, связанную с одним или двумя 
+скелетными гетероатомами, или ациклическое соединение, отличное от сложных эфиров или ангидридов кислот, 
+имеющее карбонильную группу, связанную с одним атомом углерода и одним скелетным гетероатомом, за исключением азота 
+и галогенов, или ациклическое соединение, имеющее карбонильную группу, связанную с гетероатомом, принадлежащим кольцу 
+или кольцевой системе, например пиперидин-2-он, 1-силилэтан-1-он и 1-(пиперидин-1-ил)этан-1-он
+
+en: **Replacement nomenclature**. A system in which one single nonhydrogen atom or a group of atoms is exchanged for 
+another single nonhydrogen atom or group of atoms, for example 6λ^5-phosphaspiro[4.5]decane and phosphorothioic 
+acid. Skeletal replacement, for which see below, and functional replacement nomenclature, for which see above, are 
+subsets of replacement nomenclature. 
+ru: **Номенклатура замены**. Система, в которой один неводородный атом или группа атомов заменяются на другой 
+неводородный атом или группу атомов, например, 6λ^5-фосфаспиро[4.5]декан и фосфоротиоевая кислота. Скелетная замена, 
+о которой см. ниже, и функциональная замена, о которой см. выше, являются подмножествами замены.
+
+en: **Retained name**. A traditional or common name used either as the preferred IUPAC name or as an alternative name in 
+general nomenclature, for example acetone and aniline. 
+ru: **Сохраненное название**. Традиционное или общепринятое название, используемое либо как предпочтительное название ИЮПАК, 
+либо как альтернативное название в общей номенклатуре, например, ацетон и анилин.
+
+en: **Semi-systematic name or semi-trivial name**. A name in which only a part is used in a systematic sense, for example 
+methane, but-2-ene, and chalcone. 
+ru: **Полусистематическое название или полутривиальное название**. Название, в котором только часть используется 
+в систематическом смысле, например метан, бут-2-ен и халкон.
+
+en: **Simple**. A term for a single basic element, a simple substituent group consisting of just one part that describes an atom, 
+or group of atoms as a unit, for example methyl <$ (–CH3) $>, hydroxy <$ (–OH) $>, nitrilo (–N<), and propan-2-yl <% pyl %>. 
+In bridged fused names, an atom or group of atoms described as a single unit is a simple bridge, for example epoxy, 
+butano, and phospheno. 
+ru: **Простой**. Термин для одного основного элемента, простая замещающая группа, состоящая всего из одной части, 
+которая описывает атом или группу атомов как единое целое, например, метил <$ (–CH3) $>, гидрокси <$ (–OH) $>, 
+нитрило (–N<) и пропан-2-ил <% pyl %>.
+В мостиковых конденсированных названиях атом или группа атомов, описанные как единое целое, являются простым мостом, 
+например, эпокси, бутано и фосфен.
+%pyl: <$ [(CH3)2CH–] $>
+
+en: **Simple substituent group**. A substituent group with a name consisting of a single part that describes an atom or group 
+of atoms as a unit, for example methyl <$({}–CH3)$>, hydroxy <$({}–OH)$>, imino <$({}=NH)$>, and propan-2-yl <% pyl %>. 
+ru: **Простая замещающая группа**. Замещающая группа с названием, состоящим из одной части, которая описывает атом 
+или группу атомов как единое целое, например, метил <$({}–CH3)$>, гидрокси <$({}–OH)$>, имино <$({}=NH)$> 
+и пропан-2-ил <% pyl %>.
+%pyl: <$ [(CH3)2CH–] $>
+
+en: **Simplification**. An operation in phane nomenclature leading to a simplified skeleton by condensing a ring or ring 
+system to a single atom called a superatom.  
+ru: **Упрощение**. Операция в номенклатуре элементов, приводящая к упрощенному скелету путем уплотнения кольца 
+или кольцевой системы до одного атома, называемого суператомом.
+
+en: **Skeletal replacement (‘a’) nomenclature**. A system in which a heteroatom replaces skeletal atoms of a homogeneous 
+parent hydride, for example 8-thia-2,4,6-trisiladecane and 1,2-dicarba-closo-dodecaborane(12). It is a subset of 
+replacement nomenclature for which see above. 
+ru: **Номенклатура замены скелета (‘a’)**. Система, в которой гетероатом заменяет атомы скелета однородного 
+исходного гидрида, например, 8-тиа-2,4,6-трисиладекан и 1,2-дикарба-клозо-додекаборан(12). 
+Это подмножество заместительной номенклатуры, о которой см. выше.
+
+en: **Spiro nomenclature**. A system for naming polycyclic systems with at least one spiro union based on nomenclature for 
+monospiro bicyclic compounds developed by Adolf von Baeyer, for example spiro[4.5]decane. 
+ru: **Спирономенклатура**. Система наименования полициклических систем с по крайней мере одним спиросоюзом, 
+основанная на номенклатуре моноспиробициклических соединений, разработанной Адольфом фон Байером, 
+например, спиро[4,5]декан.
+
+en: **Subsidiary parent substituent group**. A parent substituent attached to the primary parent substituent group of a 
+complex substituent group attached to a parent hydride or a parent structure, for example in the complex substituent 
+group name (2-chloroethyl)phenyl, <% f %>, the ethyl group is a subsidiary parent substituent group and the 
+phenyl group the parent substituent group. 
+ru: **Дополнительная исходная заместительная группа**. Исходный заместитель, присоединенный к первичной исходной 
+заместительной группе сложной замещающей группы, присоединенной к исходному гидриду или исходной структуре, 
+например, в названии сложной заместительной группы (2-хлорэтил)фенил, <% f %>, 
+этильная группа является дополнительной исходной заместительной группой, а фенильная группа — 
+исходной заместительной группой.
+%f: <$ Cl$color(blue)CH2-CH2$color()-C6H4–{} $>
+
+en: **Substituent**. An atom or group that takes the place of a substitutable hydrogen atom of a parent hydride or parent 
+structure, for example amino, sulfanyl, and methyl. 
+ru: **Заместитель**. Атом или группа, которая занимает место замещаемого атома водорода исходного гидрида 
+или исходной структуры, например, амино, сульфанил и метил.
+
+en: **Substitutive nomenclature**. A system involving the exchange of one or more hydrogen atoms of a parent hydride or 
+parent structure, except for hydrogen atoms of a chalcogen atom, by another atom or group of atoms expressed by a 
+suffix or a prefix denoting the atom or group being introduced, for example 1-methylnaphthalene and pentan-1-ol. 
+ru: **Заместительная номенклатура**. Система, включающая обмен одного или нескольких атомов водорода исходного гидрида 
+или исходной структуры, за исключением атомов водорода атома халькогена, другим атомом или группой атомов, 
+выраженных суффиксом или префиксом, обозначающим вводимый атом или группу, например, 1-метилнафталин и пентан-1-ол.
+
+en: **Subtractive operation**. A method for describing the removal of an atom, ion, or group implicit in a name. Prefixes, 
+suffixes or endings are used, for example 3-norlabdane, propan-2-yl, and hex-2-ene. 
+ru: **Операция вычитания**. Метод описания удаления атома, иона или группы, подразумеваемой в имени. 
+Используются префиксы, суффиксы или окончания, например 3-норлабдан, пропан-2-ил и гекс-2-ен.
+
+en: **Superatom**. Atom in a simplified skeleton of a phane system resulting from the simplification of rings or ring systems. 
+ru: **Суператом**. Атом в упрощенном скелете фановой системы, полученной в результате упрощения колец или кольцевых систем.
+
+en: **Systematic name**. A name composed entirely of specially coined or selected syllables with or without numerical 
+prefixes and other structural symbols and constructed following the rules of a systematic nomenclature, for example 
+cyclopropanecarbonitrile and 2-chloroethan-1-ol. 
+ru: **Систематическое название**. Название, составленное полностью из специально придуманных или выбранных слогов 
+с числовыми префиксами или без них и другими структурными символами и построенное по правилам систематической номенклатуры, 
+например, циклопропанкарбонитрил и 2-хлороэтан-1-ол.
+
+en: **Trivial name**. A name no part of which is used in a systematic sense, for example xanthophyll.
+ru: **Тривиальное название**. Название, ни одна часть которого не используется в систематическом смысле, например ксантофилл.
+
+en: **von Baeyer nomenclature**. A system for naming polycyclic systems based on the system for naming bicyclic aliphatic 
+ring systems developed by Adolf von Baeyer and including its extension to polycyclic ring systems, for example 
+bicyclo[3.2.1]octane. 
+ru: **Номенклатура фон Байера**. Система наименования полициклических систем, основанная на системе наименования 
+бициклических алифатических кольцевых систем, разработанной Адольфом фон Байером, и включающая ее расширение 
+на полициклические кольцевые системы, например, бицикло[3.2.1]октан.

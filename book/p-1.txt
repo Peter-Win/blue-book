@@ -1,0 +1,325 @@
+#P-1 
+en: GENERAL PRINCIPLES, RULES, AND CONVENTIONS. 
+ru: ОБЩИЕ ПРИНЦИПЫ, ПРАВИЛА И КОНВЕНЦИИ.
+
+@Content
+
+#P-1# 
+en: INTRODUCTION 
+ru: ВВЕДЕНИЕ
+
+en: For nomenclature purposes, a structure containing at least one carbon atom is considered to be an organic compound 
+and can be named using the principles of organic nomenclature, such as substitutive or replacement nomenclature, as 
+described in this book. 
+ru: Для целей номенклатуры структура, содержащая по крайней мере один атом углерода, считается органическим соединением 
+и может быть названа с использованием принципов органической номенклатуры, таких как заместительная или восстановительная 
+номенклатура, как описано в этой книге.
+
+en: The formation of a systematic name for an organic compound requires first selection and then naming of a parent 
+structure. This basic name may then be modified by prefixes, infixes, and, in the case of a parent hydride, suffixes, 
+which convey precisely the structural changes required to generate the compound in question from the parent structure. 
+In contrast to such systematic names, there are traditional names which are widely used both in industry and academic 
+circles. Examples are acetic acid, benzene, and pyridine. Therefore, when they meet the requirements of utility and 
+when they fit into the general pattern of systematic nomenclature, these traditional names are retained.
+ru: Формирование систематического названия для органического соединения требует сначала выбора, а затем наименования 
+исходной структуры. Это базовое название затем может быть изменено префиксами, инфиксами и, в случае исходного гидрида, 
+суффиксами, которые точно передают структурные изменения, необходимые для получения рассматриваемого соединения 
+из исходной структуры.
+В отличие от таких систематических названий, существуют традиционные названия, которые широко используются 
+как в промышленности, так и в академических кругах. Примерами являются уксусная кислота, бензол и пиридин. 
+Поэтому, когда они отвечают требованиям полезности и когда они вписываются в общую схему систематической номенклатуры, 
+эти традиционные названия сохраняются.
+
+en: A major new principle is elaborated in these Recommendations; the concept of ‘preferred IUPAC names’ (PINs) is 
+developed and systematically applied. Up to now, the nomenclature developed and recommended by IUPAC has 
+emphasized the generation of unambiguous names in accord with the historical development of the subject. In 1993, 
+due to the explosion in the circulation of information and the globalization of human activities, it was deemed necessary 
+to have a common language that would prove important in legal situations, with manifestations in patents, export
+import regulations, environmental and health and safety information, etc. However, rather than recommend only a 
+single ‘unique name’ for each structure, we have developed rules for assigning ‘preferred IUPAC names’, while 
+continuing to allow alternative names in order to preserve the diversity and adaptability of the nomenclature to daily 
+activities in chemistry and in science in general. 
+ru: В этих Рекомендациях разрабатывается новый важный принцип; разрабатывается и систематически применяется концепция 
+«предпочтительных названий ИЮПАК» (PIN). До сих пор номенклатура, разработанная и рекомендованная ИЮПАК, 
+подчеркивала создание однозначных названий в соответствии с историческим развитием предмета. 
+В 1993 году из-за взрывного роста циркуляции информации и глобализации человеческой деятельности было сочтено 
+необходимым иметь общий язык, который оказался бы важным в юридических ситуациях, с проявлениями в патентах, 
+правилах экспорта и импорта, информации об окружающей среде, здоровье и безопасности и т. д. 
+Однако вместо того, чтобы рекомендовать только одно «уникальное имя» для каждой структуры, мы разработали правила 
+для назначения «предпочтительных названий ИЮПАК», продолжая при этом разрешать альтернативные названия, 
+чтобы сохранить разнообразие и адаптивность номенклатуры к повседневной деятельности в области химии и в науке в целом.
+
+en: Thus, the existence of preferred IUPAC names does not prevent the use of other names to take into account a specific 
+context or to emphasize structural features common to a series of compounds. Preferred IUPAC names (PINs) belong to 
+a **‘preferred IUPAC nomenclature’**. Any name other than a preferred IUPAC name, as long as it is unambiguous and 
+follows the principles of the IUPAC recommendations herein, is acceptable as a ‘general IUPAC name’, in the context 
+of a **‘general IUPAC nomenclature’**. 
+ru: Таким образом, существование предпочтительных названий ИЮПАК не препятствует использованию других названий для учета 
+конкретного контекста или для подчеркивания структурных особенностей, общих для ряда соединений. 
+Предпочтительные названия ИЮПАК (PIN) относятся к **‘предпочтительной номенклатуре ИЮПАК’**. Любое название, 
+отличное от предпочтительного названия ИЮПАК, если оно недвусмысленно и соответствует принципам рекомендаций ИЮПАК, 
+изложенным в настоящем документе, приемлемо в качестве ‘общего названия ИЮПАК’ в контексте **‘общей номенклатуры ИЮПАК’**.
+
+en: The concept of preferred IUPAC names is developed as a contribution to the continuing evolution of the IUPAC 
+nomenclature of organic compounds. This book (Recommendations 2013) covers and extends the principles, rules, and 
+conventions described in two former publications: _Nomenclature of Organic Chemistry_, 1979 Edition (ref. 1) and _A 
+Guide to IUPAC Nomenclature of Organic Compounds, Recommendations 1993_ (ref. 2). In a few instances, the 1979 
+rules and the 1993 recommendations have been modified to achieve consistency within the entire system. In case of 
+divergence among various sets of recommendations, Recommendations 2013 prevail. 
+ru: Концепция предпочтительных названий ИЮПАК разработана как вклад в продолжающуюся эволюцию номенклатуры 
+органических соединений ИЮПАК. Эта книга (Рекомендации 2013 г.) охватывает и расширяет принципы, правила и соглашения, 
+описанные в двух предыдущих публикациях: _Номенклатура органической химии_, издание 1979 г. (ссылка 1) и 
+_Руководство по номенклатуре органических соединений ИЮПАК, Рекомендации 1993 г._ (ссылка 2). В некоторых случаях 
+правила 1979 г. и рекомендации 1993 г. были изменены для достижения согласованности в рамках всей системы. 
+В случае расхождений между различными наборами рекомендаций преимущественную силу имеют Рекомендации 2013 г.
+
+#P-11
+en: SCOPE OF NOMENCLATURE FOR ORGANIC COMPOUNDS
+ru: ОБЛАСТЬ ПРИМЕНЕНИЯ НОМЕНКЛАТУРЫ ОРГАНИЧЕСКИХ СОЕДИНЕНИЙ
+
+en: For nomenclature purposes we consider all compounds containing carbon as the principal element to be organic 
+compounds as qualified above (see P-1#). Oxygen, hydrogen, and nitrogen are the three elements usually associated 
+with carbon to form the system of functional or characteristic groups. Other elements, among them the halogens and 
+sulfur, complete the basic core of elements found in organic compounds. Substitutive nomenclature was first applied to 
+compounds containing this set of atoms. The success of this type of nomenclature was such that it was extended to all 
+elements of Groups 14, 15, 16, 17, and in Group 13, to boron; it could be extended to all elements of Group 13. 
+ru: Для целей номенклатуры мы считаем все соединения, содержащие углерод в качестве основного элемента, 
+органическими соединениями, как квалифицировано выше (см. P-1#). Кислород, водород и азот — три элемента, 
+которые обычно ассоциируются с углеродом для формирования системы функциональных или характерных групп. 
+Другие элементы, среди которых галогены и сера, дополняют основное ядро ​​элементов, обнаруженных в органических соединениях. 
+Заместительная номенклатура была впервые применена к соединениям, содержащим этот набор атомов. Успех этого типа 
+номенклатуры был таков, что она была распространена на все элементы групп 14, 15, 16, 17 и в группе 13 на бор; 
+она могла быть распространена на все элементы группы 13.
+
+@Table 1.1
+en: Elements included in these recommendations
+ru: Элементы, включенные в эти рекомендации
+
+@th
+en: Groups
+ru: Группы
+
+@th
+13
+
+@th
+14
+
+@th
+15
+
+@th
+16
+
+@th;
+17
+
+@td
+
+@td
+B
+
+en: boron
+ru: бор
+
+@td
+C
+
+en: carbon
+ru: углерод
+
+@td
+N
+
+en: nitrogen
+ru: азот
+
+@td
+O
+
+en: oxygen
+ru: кислород
+
+@td
+F
+
+en: fluorine
+ru: фтор
+
+@td
+
+@td
+<$ Al $>
+
+en: aluminium
+ru: алюминий
+
+@td
+Si
+
+en: silicon
+ru: кремний
+
+@td
+P
+
+en: phosphorus
+ru: фосфор
+
+@td
+S
+
+en: sulfur
+ru: сера
+
+@td
+<$ Cl $>
+
+en: chlorine
+ru: хлор
+
+@td
+
+@td
+Ga
+
+en: gallium
+ru: галлий
+
+@td
+Ge
+
+en: germanium
+ru: германий
+
+@td
+As
+
+en: arsenic
+ru: мышьяк
+
+@td
+Se
+
+en: selenium
+ru: селен
+
+@td
+Br
+
+en: bromine
+ru: бром
+
+@td
+
+@td
+In
+
+en: indium
+ru: индий
+
+@td
+Sn
+
+en: tin
+ru: олово
+
+@td
+Sb
+
+en: antimony
+ru: сурьма
+
+@td
+Te
+
+en: tellurium
+ru: теллур
+
+@td
+I
+
+en: iodine
+ru: иод
+
+@td
+
+@td
+<$ Tl $>
+
+en: thallium
+ru: таллий
+
+@td
+Pb
+
+en: lead
+ru: свинец
+
+@td
+<$ Bi $>
+
+en: bismuth
+ru: висмут
+
+@td
+<$ Po $>
+
+en: polonium
+ru: полоний
+
+@td
+<$ At $>
+
+en: atatine
+ru: астат
+
+@EndTable
+
+@p .framed
+en: The elements Al, Ga, In, Tl have been added to the elements recommended in the 1979 edition (ref. 1) and the 
+1993 Guide (ref. 2)
+ru: Элементы Al, Ga, In, Tl были добавлены к элементам, рекомендованным в издании 1979 г. (ссылка 1) и 
+Руководстве 1993 г. (ссылка 2)
+
+en: The ending ‘ane’, characteristic of alkanes, was borrowed from methane, ethane, etc., and attached to terms forming the 
+roots of the names of the various elements, for example sulfane, <$ H2S $>; phosphane, <$ PH3 $>; silane, <$ SiH4 $>; 
+alumane, <$ AlH3 $>. 
+The resulting names constitute the basis of substitutive nomenclature; this treatment of parent hydrides is called **generalized 
+‘ane’ nomenclature** because all the rules applicable to alkanes are applicable to all hydrides of the elements of Groups 
+13, 14, 15, 16, and 17. The nomenclature of the carbon hydrides may be conveniently termed **‘carbane nomenclature’**; 
+whereas the term **‘heterane nomenclature’** covers the hydrides of elements other than carbon. Names of mononuclear 
+parent hydrides are listed in Table 2.1 in Chapter P-2. 
+ru: Окончание «ан», характерное для алканов, было заимствовано из метана, этана и т. д. и присоединено к терминам, 
+образующим корни названий различных элементов, например, сульфан, <$ H2S $>; фосфан, <$ PH3 $>; силан, <$ SiH4 $>;
+алюман, <$ AlH3 $>.
+Полученные названия составляют основу заместительной номенклатуры; эта трактовка родительских гидридов называется 
+**обобщенной номенклатурой «ан»**, поскольку все правила, применимые к алканам, применимы ко всем гидридам элементов 
+групп 13, 14, 15, 16 и 17. Номенклатуру гидридов углерода можно удобно назвать **«номенклатурой карбана»**;
+тогда как термин **«номенклатура гетеранана»** охватывает гидриды элементов, отличных от углерода. 
+Названия одноядерных родительских гидридов приведены в таблице 2.1 в главе P-2.
+
+en: Organometallic compounds, i.e., compounds in which one or more carbon atom(s) is (are) directly attached to a metal 
+atom, have been regarded as organic compounds for nomenclature purposes. This association is maintained in these 
+recommendations (see P-69), for the metals, semimetals, and nonmetals included in Groups 13, 14, 15, 16, and 17. 
+However, the nomenclature for other organic derivatives of the elements in Groups 1 through 12 is considered as part of 
+the nomenclature of inorganic compounds. 
+ru: Металлоорганические соединения, т. е. соединения, в которых один или несколько атомов углерода непосредственно 
+присоединены к атому металла, рассматриваются как органические соединения для целей номенклатуры. 
+Эта ассоциация сохраняется в настоящих рекомендациях (см. P-69) для металлов, полуметаллов и неметаллов, 
+включенных в группы 13, 14, 15, 16 и 17.
+Однако номенклатура для других органических производных элементов в группах с 1 по 12 рассматривается как часть
+номенклатуры неорганических соединений.
+
+en: Likewise, IUPAC preferred names for polymers and IUPAC preferred names for Natural Products and related 
+compounds are outside the scope of this book. The former is to be developed in conjunction with the Polymer 
+Committee on Polymer Terminology and the latter in conjunction with the IUPAC-IUBMB Joint Commission on 
+Biochemical Nomenclature
+ru: Аналогично, предпочтительные названия полимеров по ИЮПАК и предпочтительные названия натуральных продуктов 
+и родственных соединений по ИЮПАК выходят за рамки этой книги. Первые должны быть разработаны совместно с 
+Комитетом по полимерной терминологии, а вторые — совместно с Совместной комиссией по биохимической номенклатуре ИЮПАК-IUBMB
+
+en: The construction of systematic names is based on general nomenclature operations and rules, and on operations and 
+rules specific to different types of nomenclature. These aspects are discussed in the following sections. 
+ru: Построение систематических названий основано на общих номенклатурных операциях и правилах, а также на операциях 
+и правилах, специфичных для различных типов номенклатуры. Эти аспекты обсуждаются в следующих разделах.

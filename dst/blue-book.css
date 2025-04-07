@@ -1,0 +1,126 @@
+div {margin: 0; padding: 0;}
+
+:root {
+  --text-color: #333;
+  --cell-vert-pad: 0.5rem;
+}
+
+body {
+  font-size: 18px;
+  color: var(--text-color);
+}
+
+h4, h5, h6 {
+  font-size: 1.1rem;
+  margin: 0.6rem 0;
+}
+
+.framed {
+  border: thin solid var(--text-color);
+  padding: 0.5rem 1rem;
+}
+
+.std-table-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+.std-table-box.left-aligned {
+  align-items: flex-start;
+}
+.std-table-title {
+  font-weight: bold;
+  text-align: center;
+}
+.std-table {
+  border-collapse: collapse;
+}
+.std-table td, .std-table th {
+  border: thin solid var(--text-color);
+  padding: var(--cell-vert-pad) 0.6rem;
+  text-align: center;
+  p { margin: 0 0 var(--cell-vert-pad) 0}
+  p:last-child {margin-bottom: 0;}
+}
+.std-table th {
+  background-color: #EEE;
+}
+
+.examples td {
+  padding: var(--cell-vert-pad) 0.6rem;
+  text-align: center;
+  p { margin: 0 0 0.1rem 0}
+  p:last-child {margin-bottom: 0;}
+}
+.left-aligned .examples td, .left-aligned-cells td {
+  text-align: left;
+}
+
+.block {
+  display: flex;
+  justify-content: center;
+}
+
+.arrow-right {
+  display: inline-block;
+  width: 3.5rem;
+  height: 1rem;
+  line-height: 1;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 46.109375 15.05' width='46.109375px' height='15.05px' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0v1H41.38c-1.18 0.88 -2.1 1.95 -2.75 3.2c-0.42 0.8 -0.69 1.59 -0.83 2.38c0 0.03 -0.01 0.07 -0.01 0.1c-0.01 0.03 -0.01 0.06 -0.01 0.08c0 0.18 0.17 0.28 0.5 0.28c0.2 0 0.33 -0.02 0.39 -0.06c0.06 -0.04 0.11 -0.14 0.14 -0.29c0.05 -0.33 0.14 -0.68 0.28 -1.03c0.37 -1.12 0.98 -2.11 1.83 -2.99s1.84 -1.51 2.98 -1.89c0.15 -0.05 0.23 -0.14 0.23 -0.28s-0.08 -0.23 -0.23 -0.28c-1.13 -0.38 -2.13 -1.01 -2.98 -1.89s-1.46 -1.87 -1.83 -2.99c-0.12 -0.35 -0.21 -0.68 -0.28 -1c-0.03 -0.17 -0.08 -0.27 -0.14 -0.31c-0.06 -0.04 -0.19 -0.06 -0.39 -0.06c-0.35 0 -0.53 0.09 -0.53 0.28c0 0.05 0.05 0.26 0.15 0.63c0.52 2.08 1.68 3.79 3.48 5.13Z' fill='rgb(0, 0, 0)' transform='translate(1,7.03)'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.arrow-cw90 {
+  display: inline-block;
+  width: 1rem;
+  height: 3.5rem;
+  & > * {
+    transform: rotate(90deg) translate(1.25rem, 1rem);
+  }
+}
+
+a.wrong-part {
+  color: #A00;
+}
+
+.left-offset {
+  padding-left: 2rem;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+
+.custom-list {
+  display: inline-grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 1rem;
+  row-gap: 0.2rem;
+}
+.custom-list > * {
+  text-align: left;
+  margin: 0;
+}
+
+.fig-title {
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem 0 0.5rem 0;
+}
+
+.p-ref {
+  white-space: nowrap;
+}

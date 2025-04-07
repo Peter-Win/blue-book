@@ -1,0 +1,369 @@
+#P-15.2 
+en: Functional class nomenclature 
+ru: Номенклатура функциональных классов
+
+#P-15.2.0 
+en: Introduction
+ru: Введение
+
+en: Functional class nomenclature was quite important in the early days of organic chemistry when many compounds were 
+named using class names. The procedures were identical with those of substitutive nomenclature except that suffixes 
+were never used. Substituent groups, called ‘radicals’ in early nomenclature, were used in association with a name 
+denoting the class; this nomenclature was called ‘radicofunctional nomenclature’. With time, substitutive nomenclature 
+replaced functional class nomenclature in all but a few instances. In the context of IUPAC preferred names, substitutive 
+nomenclature is the primary way for naming organic compounds; functional class nomenclature is reduced to a strict 
+minimum. 
+ru: Номенклатура функциональных классов была весьма важна в ранние дни органической химии, когда многие соединения 
+назывались с использованием названий классов. Процедуры были идентичны процедурам заместительной номенклатуры, 
+за исключением того, что суффиксы никогда не использовались. Замещающие группы, называемые «радикалами» в ранней 
+номенклатуре, использовались в сочетании с названием, обозначающим класс; эта номенклатура называлась 
+«радикофункциональной номенклатурой». Со временем заместительная номенклатура заменила номенклатуру функциональных 
+классов во всех случаях, за исключением нескольких. В контексте предпочтительных названий ИЮПАК заместительная 
+номенклатура является основным способом наименования органических соединений; номенклатура функциональных классов 
+сведена к строгому минимуму.
+
+en: The notion of functional class nomenclature is also applied to compounds that are named using a class name, but not 
+necessarily preceded by a substituent group name. To that purpose, ‘functional modifiers’ are used to indicate a 
+functional change, for example the change of acid to anhydride, as in acetic anhydride, or the formation of derivatives 
+of ketones, for example, butan-2-one oxime.
+ru: Понятие функциональной номенклатуры классов также применяется к соединениям, которые названы с использованием 
+имени класса, но не обязательно предшествуют имени группы заместителей. Для этой цели используются «функциональные 
+модификаторы», указывающие на функциональное изменение, например, изменение кислоты на ангидрид, как в уксусном 
+ангидриде, или образование производных кетонов, например, бутан-2-он оксима.
+
+en: It is convenient to classify the main operation involved in functional class nomenclature as an additive one, as is done in 
+P-13.3.3.2. However it is also possible (and probably more relevant from a historical point of view) to regard the 
+process as one of specifying the substituent groups (‘radicals’) present in compounds for which a class name is given. 
+For instance, the name ‘methyl alcohol’ (for <$CH3-OH$>) consists of the name ‘methyl’ for the substituent group <$CH3–$> and 
+the class name ‘alcohol’ (for R-OH). 
+ru: Удобно классифицировать основную операцию, задействованную в номенклатуре функциональных классов, как аддитивную, 
+как это сделано в P-13.3.3.2. Однако также возможно (и, вероятно, более уместно с исторической точки зрения) рассматривать 
+этот процесс как процесс указания замещающих групп («радикалов»), присутствующих в соединениях, для которых дано название 
+класса. Например, название «метиловый спирт» (для <$CH3-OH$>) состоит из названия «метил» для замещающей группы <$CH3–$> 
+и названия класса «спирт» (для R-OH).
+
+en: Functional class nomenclature is discussed in relation to the traditional use of substituent group names and the use of 
+functional modifiers. Some names are formed on the basis of a class name, but are not considered as belonging to the 
+functional class nomenclature. They are called ‘descriptive’ names, for example, ‘propanoic acid methyl ester’, and are 
+never considered as IUPAC preferred names. The order of seniority of classes (see P-41) is given in the context of 
+preferred IUPAC names. 
+ru: Номенклатура функциональных классов обсуждается в связи с традиционным использованием названий групп заместителей 
+и использованием функциональных модификаторов. Некоторые названия образованы на основе названия класса, но не считаются 
+принадлежащими к номенклатуре функциональных классов. Они называются «описательными» названиями, например, 
+«метиловый эфир пропановой кислоты», и никогда не рассматриваются как предпочтительные названия ИЮПАК. Порядок 
+старшинства классов (см. P-41) приводится в контексте предпочтительных названий ИЮПАК.
+
+// Содержание находится в разделе 15.2.0, но включает ссылки на разделы с 15.2.1 по 15.2.4
+@Content ^
+
+#P-15.2.1 
+en: Functional class nomenclature using substituent group names 
+ru: Номенклатура функциональных классов с использованием названий замещающих групп
+
+#P-15.2.1.1+ 
+en: Functional class names are formed by expressing the functional class name of the compound as one word 
+and the remainder of the molecule as a monovalent group name cited as a separate word, placed in front of the class 
+name. Preferred IUPAC functional class names are restricted to esters (P-65.6.3.2), acyl halides (P-65.5.1), and 
+pseudohalides (see P-65.5.2). Alkyl glycosides receive also functional class names that are classified as approved names 
+in carbohydrate nomenclature (see P-102.5.6.2). 
+ru: Названия функциональных классов образуются путем выражения названия функционального класса соединения одним словом, 
+а остальная часть молекулы — как название одновалентной группы, указанное как отдельное слово, помещенное перед 
+названием класса. Предпочтительные названия функциональных классов ИЮПАК ограничены сложными эфирами (P-65.6.3.2), 
+ацилгалогенидами (P-65.5.1) и псевдогалогенидами (см. P-65.5.2). Алкилгликозиды также получают названия функциональных 
+классов, которые классифицируются как утвержденные названия в номенклатуре углеводов (см. P-102.5.6.2).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CO-O-CH3 $>
+
+en: methyl propanoate (PIN)
+ru: метилпропаноат (PIN)
+
+@cell
+<$ CH3-CO-Cl $>
+
+en: acetyl chloride (PIN) 
+ru: ацетилхлорид (PIN)
+// http://charchem.org/ru/subst-ref/?id=657
+
+@cell
+<$ C6H5-CO-CN $>
+
+en: benzoyl cyanide (PIN)
+ru: бензоилцианид (PIN)
+// http://charchem.org/ru/subst-ref/?id=6714
+
+@cell
+<$ C6H5-CH2-NCS $>
+
+en: benzyl isothiocyanate  <br>
+(isothiocyanatomethyl)benzene (PIN) 
+ru: бензилизотиоцианат <br>
+(изотиоцианатометил)бензол (PIN)
+
+@cell
+<$ C6H5-NC $>
+
+en: phenyl isocyanide <br> 
+isocyanobenzene (PIN) 
+ru: фенилизоцианид <br>
+изоцианобензол (PIN)
+
+@cell
+<$ CH3-OH $>
+
+en: methyl alcohol  <br>
+methanol (PIN) 
+ru: метиловый спирт <br>
+метанол (PIN)
+
+@cell
+<$ |`//`\`||/\\/N3 $>
+
+en: phenyl azide  <br>
+azidobenzene (PIN) 
+ru: фенилазид <br>
+азидобензол (PIN)
+
+@cell
+<$
+H|@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@(1,0)_(y%h:1.1,x-%a:0.8,w+)@n(2,30)<`|H><|OH>_(x-1.4,w2)@n(3,150)<`|H><|OH>_(x-%a,y-%h,w-)@n(4,180):p4(*`|H*)(*_(y3)C@n(5,-120,0.6)(*`-H*)(*-OH*)|CH2@n(6,90,0.6)-OH*)_(x#p4;2,y-0.7)O_#2|O-CH3
+$>
+
+en: methyl α-D-gulofuranoside
+ru: метил α-D-гулофуранозид
+
+@End
+
+#P-15.2.1.2+ 
+en: When the functional class name refers to a characteristic group that is divalent, the two substituent groups 
+attached to it are both expressed. When they are the same, appropriate numerical prefixes are used. When different, they 
+are written as separate words, in alphanumerical order, locants being added as needed. 
+ru: Когда название функционального класса относится к характерной группе, которая является двухвалентной, то обе 
+замещающие группы, присоединенные к ней, выражаются. Если они одинаковы, используются соответствующие числовые префиксы. 
+Если они различны, они записываются как отдельные слова в алфавитно-цифровом порядке, при необходимости добавляя локанты.
+
+@Examples
+
+@cell
+<$ CH3-O-C<`||O>-CH2-CH2-C<`||O>-O-CH3 $>
+
+en: dimethyl butanedioate (PIN)  <br>
+dimethyl succinate 
+ru: диметилбутандиоат (PIN) <br>
+диметилсукцинат
+
+@cell
+<$ CH3-C`|O|-O-CH2-CH2-O-C`|O|-CH3 $>
+
+en: ethane-1,2-diyl diacetate (PIN)  <br>
+ethylene diacetate 
+ru: этан-1,2-диил диацетат (PIN) <br>
+этилендиацетат
+
+@cell
+<$
+@:n(n,a:-90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)CH3-O-C`|O|\@n(3)||\//`|@n(1)<`\\@n(2)`/>/C`|O|-O-CH2-CH3
+$>
+
+en: ethyl methyl benzene-1,3-dicarboxylate (PIN)
+ru: этилметилбензол-1,3-дикарбоксилат (PIN)
+// http://charchem.org/ru/subst-ref/?id=6715
+// Точное русское название не найдено. Но похоже, что автоперевод соответствует действительности.
+
+@cell
+<$ CH3-CH2-C`|O|-CH2-CH3 $>
+  
+en: diethyl ketone  <br>
+pentan-3-one (PIN)  
+ru: диэтилкетон <br>
+пентан-3-он (PIN)
+
+@cell
+<$ CH3-CH2-C`|O|-CH3 $>
+  
+en: ethyl methyl ketone  <br>
+(not methyl ethyl ketone)  <br>
+butan-2-one (PIN)  
+ru: этилметилкетон <br>
+(не метилэтилкетон) <br>
+бутан-2-он (PIN)
+// здесь опять проблема сортировки на русском. т.к. "этил" по алфавиту позже, чем "метил"
+
+@End
+
+#P-15.2.2 
+en: Functional class nomenclature using functional modifiers 
+ru: Номенклатура функциональных классов с использованием функциональных модификаторов
+
+en: Many derivatives of principal characteristic groups or functional parent compounds (see P-34) may be named by 
+modifiers consisting of one or more separate words placed after the name of the parent structure. This method is most 
+useful in an indexing environment, but it is the only method used for naming acyclic anhydrides (see P-65.7.1),  
+_N_-oxides, _N_-sulfides, _N_-selenides, and _N_-tellurides (see P-62.5) in the context of preferred IUPAC names. 
+ru: Многие производные основных характерных групп или функциональных исходных соединений (см. P-34) могут быть названы 
+модификаторами, состоящими из одного или нескольких отдельных слов, размещенных после имени исходной структуры. 
+Этот метод наиболее полезен в среде индексации, но это единственный метод, используемый для наименования 
+ациклических ангидридов (см. P-65.7.1), _N_-оксидов, _N_-сульфидов, _N_-селенидов и _N_-теллуридов (см. P-62.5) 
+в контексте предпочтительных названий ИЮПАК.
+
+@Examples
+
+@cell
+<$ CH3-C`|O|-O-C`|O|-CH3 $>
+
+en: acetic anhydride (PIN)  <br>
+(the term ‘acid’ is replaced by ‘anhydride’) 
+ru: уксусный ангидрид (PIN) <br>
+(термин «кислота» заменен на «ангидрид»)
+
+@cell
+<$ (CH3)3NO $>
+
+en: _N_,_N_-dimethylmethanamine _N_-oxide (PIN)  <br>
+trimethylazane _N_-oxide  <br>
+trimethylamine _N_-oxide  <br>
+(traditional name, but cannot be substituted)
+ru: _N_,_N_-диметилметанамин _N_-оксид (PIN) <br>
+триметилазан _N_-оксид <br>
+триметиламин _N_-оксид <br>
+(традиционное название, но не может быть заменено)
+
+@End
+
+en: Functional modifiers are still acceptable for general nomenclature purposes, but the preferred IUPAC names are 
+substitutive names for azines, oximes, hydrazones, semicarbazones, carbohydrazones, acetals, and hemiacetals. 
+ru: Функциональные модификаторы по-прежнему приемлемы для целей общей номенклатуры, но предпочтительными названиями 
+ИЮПАК являются замещающие названия для азинов, оксимов, гидразонов, семикарбазонов, карбогидразонов, ацеталей и полуацеталей.
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH=N-OH $>
+
+en: propanal oxime  <br>
+(the term ‘oxime’ is added to the name of the carbonyl compound)  <br>
+_N_-propylidenehydroxylamine  <br>
+_N_-hydroxypropan-1-imine (PIN)  
+ru: пропаналь оксим <br>
+(термин «оксим» добавляется к названию карбонильного соединения) <br>
+_N_-пропилиденгидроксиламин <br>
+_N_-гидроксипропан-1-имин (PIN)
+
+@cell
+<$ CH3-CH2-CH=N-NH2 $>
+
+en: propanal hydrazone  <br>
+propylidenehydrazine (PIN)
+ru: пропанальгидразон <br>
+пропилиденгидразин (PIN)
+
+@cell
+<$ (CH3)2C=N-NH-CO-NH2 $>
+
+en: acetone semicarbazone  <br>
+2-(propan-2-ylidene)hydrazine-1-carboxamide (PIN)  
+ru: ацетон семикарбазон <br>
+2-(пропан-2-илиден)гидразин-1-карбоксамид (PIN)
+
+@cell
+<$ CH3-CH2-CH(O-CH3)2 $>
+  
+en: propanal dimethyl acetal  <br>
+1,1-dimethoxypropane (PIN)
+ru: пропаналь диметилацеталь <br>
+1,1-диметоксипропан (PIN)
+
+@cell
+<$ CH3-CH2-CH2-C`|O|-OCH3 $>
+  
+en: butanoic acid methyl ester  <br>
+methyl butanoate (PIN)
+ru: метиловый эфир бутановой кислоты <br>
+метилбутаноат (PIN)
+
+@End
+
+#P-15.2.3 
+en: Seniority of functional classes.
+ru: Старшинство функциональных классов.
+
+en: When two classes are present and both named by functional class nomenclature, the senior class must be chosen in 
+accordance with the seniority order of classes (see P-41). The relevant order for preferred IUPAC names is anhydrides, 
+esters, acyl halides. The seniority order of halides and pseudohalides is discussed in P-65.5. The senior class is 
+expressed by functional class nomenclature and the lower ranking classes are expressed by prefixes, as usual, in that 
+part of the name that is constructed by substitutive nomenclature.
+ru: Если присутствуют два класса и оба названы по функциональной номенклатуре классов, старший класс должен быть выбран 
+в соответствии с порядком старшинства классов (см. P-41). Соответствующий порядок для предпочтительных названий 
+ИЮПАК — ангидриды, эфиры, ацилгалогениды. Порядок старшинства галогенидов и псевдогалогенидов обсуждается в P-65.5. 
+Старший класс выражается функциональной номенклатурой классов, а классы более низкого ранга выражаются префиксами, 
+как обычно, в той части названия, которая построена по заместительной номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CO@n(4)-CH2-CH2-CO@n(1)-O-CH3
+$>
+
+en: methyl 4-chloro-4-oxobutanoate (PIN)  <br>
+methyl 3-(chlorocarbonyl)propanoate  <br>
+methyl 3-carbonochloridoylpropanoate
+ru: метил 4-хлор-4-оксобутаноат (PIN) <br>
+метил 3-(хлоркарбонил)пропаноат <br>
+метил 3-карбонохлоридоилпропаноат
+
+@cell
+<$ Cl-CH2-OH $>
+
+en: chloromethyl alcohol  <br>
+chloromethanol (PIN)  <br>
+(an alcohol is senior to a halide) 
+ru: хлорметиловый спирт <br>
+хлорметанол (PIN) <br>
+(спирт старше галогенида)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC-CH2@n(2)-CO@n(1)-Cl
+$>
+
+en: cyanoacetyl chloride (PIN)  <br>
+(an acyl chloride senior to a nitrile)
+ru: цианоацетилхлорид (PIN) <br>
+(ацилхлорид старше нитрила)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3O-CH2@n(4)-CH2-CO@n(1)-OCH3
+$>
+
+en: methyl 4-methoxybutanoate (PIN)  <br>
+(an ester senior to an ether) 
+ru: метил 4-метоксибутаноат (PIN) <br>
+(сложный эфир, старший по отношению к эфиру)
+
+@End
+
+#P-15.2.4 
+en: Polyfunctional compounds
+ru: Полифункциональные соединения
+
+en: Functional class names for polyfunctional compounds are not recommended. Substitutive nomenclature is preferred. 
+ru: Функциональные названия классов для полифункциональных соединений не рекомендуются. Предпочтительна заместительная номенклатура.
+
+@Examples --
+
+@cell
+<$ HO-CH2-CH2-CO-CH3 $>
+  
+en: 4-hydroxybutan-2-one (PIN; substitutive name)  <br>
+2-hydroxyethyl methyl ketone (functional class name) 
+ru: 4-гидроксибутан-2-он (PIN; заместительное название) <br>
+2-гидроксиэтилметилкетон (название функционального класса)
+
+@End

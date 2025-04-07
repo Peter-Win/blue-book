@@ -1,0 +1,1784 @@
+#P-13 
+en: Operations in nomenclature of organic compounds 
+ru: Операции по номенклатуре органических соединений
+
+en: The operations described in this section all involve structural modifications, and are classified first according to the type 
+of modification, for example ‘replacement’; and then according to the way in which the modification is expressed, for 
+example ‘by use of replacement infixes’. The structures to which the various modifications are applied can be regarded 
+as parent structures, and the modifications are expressed by suffixes, affixes, infixes, and prefixes, or by a change of 
+endings. 
+ru: Все операции, описанные в этом разделе, включают структурные модификации и классифицируются сначала по типу модификации, 
+например «замена»; а затем по способу выражения модификации, например «использованием заменяющих инфиксов». 
+Структуры, к которым применяются различные модификации, можно рассматривать как исходные структуры, 
+а модификации выражаются суффиксами, аффиксами, инфиксами и префиксами или изменением окончаний.
+
+@Content
+
+#P-13.1 
+en: The substitutive operation
+ru: Замещающая операция
+
+en: The substitutive operation involves the exchange of one or more hydrogen atoms for another atom or group of atoms. 
+This process is expressed by a suffix or a prefix denoting the atom or group being introduced. 
+ru: Операция замещения подразумевает замену одного или нескольких атомов водорода на другой атом или группу атомов.
+Этот процесс выражается суффиксом или префиксом, обозначающим вводимый атом или группу.
+
+@Examples 3
+
+@cell
+<$ CH3-CH3 $>
+
+en: ethane (PIN)
+ru: этан (PIN)
+
+@cell
+-->
+
+@cell
+<$ CH3-CH2-SH $>
+
+en: ethanethiol (PIN) (substitutive suffix = ‘thiol’) 
+ru: этантиол (ПИН) (замещающий суффикс = «тиол»)
+
+@cell
+<$ =\`//`-`\\/ $>
+
+en: benzene (PIN)
+ru: бензол (PIN)
+
+@cell
+-->
+
+@cell
+<$ `//`-`\\/=\-Br $>
+
+en: bromobenzene (PIN) (substitutive prefix = ‘bromo’)
+ru: бромбензол (PIN) (замещающий префикс = ‘бром’)
+
+@End
+
+#P-13.2 
+en: The replacement operation
+ru: Операция по замене
+
+#P-13.2.1+ 
+en: The replacement operation involves the exchange of one group of atoms or a single nonhydrogen atom for 
+another. This can be expressed in several ways, as shown in the following subsections.
+ru: Операция замены включает в себя обмен одной группы атомов или одного неводородного атома на другой. 
+Это может быть выражено несколькими способами, как показано в следующих подразделах.
+
+#P-13.2.1.1+ 
+en: By replacement (‘a’) prefixes representing the element being introduced. This type of replacement is called 
+‘skeletal replacement’. The most common type of replacement in the nomenclature of organic compounds is 
+replacement of carbon atoms by one or more of the following elements: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb.
+ru: По замене (‘a’) префиксов, представляющих вводимый элемент. Этот тип замены называется ‘скелетной заменой’. 
+Наиболее распространенным типом замены в номенклатуре органических соединений является замена атомов углерода 
+одним или несколькими из следующих элементов: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb.
+
+@Examples
+
+@cell
+<$ /\/\/\|`/`\`/`\`/`\`| $>
+
+en: cyclotetradecane (PIN)
+ru: циклотетрадекан (PIN)
+
+@cell
+<$ SiH2|`/`\`/`\`/`\`|/\/\/\ $>
+
+en: silacyclotetradecane (PIN) <br>
+[replacement (‘a’) prefix = ‘sila’] 
+ru: силациклотетрадекан (PIN) <br>
+[замена (‘a’) префикс = ‘сила’]
+
+@cell
+<$ //_(a-%pa:81.4707)_(a-%pb:68.5292,N2)_(a-%pb)\|<_(a%pa,N2)_(a%pb)_(a%pb,N2)>_(a-%pa)_(a-%pb,N2)_(a-%pb) $>
+
+en: cyclopenta[_cd_]pentalene (PIN) 
+ru: циклопента[_cd_]пентален (PIN)
+
+@cell
+<$ //_(a-%pa:81.4707)N_(a-%pb:68.5292,N2)N_(a-%pb)\|<_(a%pa,N2)N_(a%pb)N_(a%pb,N2)>_(a-%pa)N_(a-%pb,N2)N_(a-%pb) $>
+
+en: 1,2,3,4,5,6-hexaazacyclopenta[_cd_]pentalene (PIN) <br>
+[replacement (‘a’) prefix = ‘aza’] 
+ru: 1,2,3,4,5,6-гексаазациклопента[_cd_]пентален (PIN) <br>
+[замена (‘a’) префикс = ‘аза’]
+
+@End
+
+#P-13.2.1.2+ 
+en: In specific instances, a heteroatom may be replaced by a carbon atom or by another heteroatom. The former 
+is illustrated in the nomenclature of cyclic polyboranes (see IR-6.2.4.4, ref. 12) and both are found in natural products 
+(see RF-5, ref. 9 and P-101.4) and must be applied only when specifically prescribed because the nomenclature of 
+organic compounds is normally based on carbon atoms. 
+ru: В определенных случаях гетероатом может быть заменен атомом углерода или другим гетероатомом. 
+Первый вариант проиллюстрирован в номенклатуре циклических полиборанов (см. IR-6.2.4.4, ссылка 12), 
+и оба они встречаются в природных продуктах (см. RF-5, ссылка 9 и P-101.4) и должны применяться только в случае 
+особого указания, поскольку номенклатура органических соединений обычно основана на атомах углерода.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HB:d@n(4,-90)$L(2.4)$slope(%a:30)/hB:a@n(5,-140,0.4)<_(y.5)H>$slope(%b:10)\hBH:b@n(2,-90)$slope(%a)`/B:c@n(3,150)<_(y.5)H>$slope(%b)`\;
+#a_(x.5,y-1.6)C@n(1,-160)<_(y-.5)H><_#b><_#c><_#d>
+$>
+
+en: 1-carba-nido-pentaborane(5) (PIN) <br>
+[replacement (‘a’) prefix = ‘carba’; carbon replacing boron; see P-68.1.1.2.1] 
+ru: 1-карба-нидо-пентаборан(5) (PIN) <br>
+[замена (‘a’) префикс = ‘карба’; углерод заменяет бор; см. P-68.1.1.2.1]
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(8,-80)`\\`/||\//@n(13,90)\N@n(1,-90)<_(y.5)H>/@n(2,-30,0.5)`|@n(7,-90)/\@n(5,-30)|@n(4,90,0.5)`/@n(3,30,0.4)<`/dH><`\`|_#2>|@n(14,150)\@n(15,30)|\/`|`\<`/`/dH><_(A-30,w+)H>`|@n(21,-30)`\_(A-30,w+)H
+$>
+
+en: (4βH)-4-carbayohimban <br>
+[replacement (‘a’) prefix = ‘carba’; carbon replacing nitrogen; see P-101.4] 
+ru: (4βH)-4-карбайохимбан <br>
+[замена (‘a’) префикс = ‘карба’; углерод заменяет азот; см. P-101.4]
+// Yohimban: http://charchem.org/en/subst-ref/?id=6696
+
+@End
+
+#P-13.2.2+ 
+en: By prefixes or infixes signifying replacement of oxygen atoms or oxygen-containing groups. 
+ru: С помощью префиксов или инфиксов, обозначающих замену атомов кислорода или кислородсодержащих групп.
+
+#P-13.2.2.1+ 
+en: This type of replacement is called ‘functional replacement’. The affixes represent the group(s) being 
+introduced. Functional replacement nomenclature is described in P-15.5.
+ru: Этот тип замены называется «функциональной заменой». Аффиксы представляют вводимую группу(ы). 
+Номенклатура функциональной замены описана в P-15.5.
+
+@Examples 3
+
+@cell
+<$ (CH3)2P(O)-OCH3 $>
+
+en: methyl dimethylphosphinate (PIN)
+ru: метил диметилфосфинат (PIN)
+
+@cell
+-->
+
+@cell
+<$ (CH3)2P(=NH)-OCH3 $>
+
+en: methyl P,P-dimethylphosphinimidate (PIN) <br>
+[replacement infix = imid(o); =NH replaces =O] <br>
+methyl P,P-dimethyl(imidophosphinate) <br>
+(replacement prefix = ‘imido’; =NH replaces =O) 
+ru: метил P,P-диметилфосфинимидат (PIN) <br>
+[замещающий инфикс = имид(о); =NH заменяет =O] <br>
+метил P,P-диметил(имидофосфинат) <br>
+(замещающий префикс = «имидо»; =NH заменяет =O)
+
+@cell
+<$ C6H5-P(O)(OH)2 $>
+
+en: phenylphosphonic acid (PIN)
+ru: фенилфосфоновая кислота (PIN)
+
+@cell
+-->
+
+@cell
+<$ C6H5-P(≡N)-OH $>
+
+en: phenylphosphononitridic acid (PIN) <br>
+[replacement infix = ‘nitrid(o)’; ≡N replaces both =O and –OH] <br>
+phenyl(nitridophosphonic acid) <br>
+(replacement prefix = ‘nitrido’; ≡N replaces both =O and –OH) 
+ru: фенилфосфононитридовая кислота (PIN) <br>
+[замещающий инфикс = ‘нитрид(о)’; ≡N заменяет как =O, так и –OH] <br>
+фенил(нитридофосфоновая кислота) <br>
+(замещающий префикс = ‘нитридо’; ≡N заменяет как =O, так и –OH)
+
+@End
+
+#P-13.2.2.2+ 
+en: The affixes ‘thio’, ‘seleno’, and ‘telluro’ indicate replacement of an oxygen atom of a characteristic group by 
+another chalcogen atom.
+ru: Аффиксы «тио», «селено» и «теллуро» указывают на замену атома кислорода характерной группы другим атомом халькогена.
+
+@Examples 3
+
+@cell
+<$ C6H5-COOH $>
+
+en: benzoic acid
+ru: бензойная кислота
+
+@cell
+-->
+
+@cell
+<$ C6H5-C{{O"/"Se}}H $>
+
+en: benzenecarboselenoic acid (PIN) <br>
+(replacement infix = ‘selen(o)’; <br>
+selenium replaces either =O or –O–) <br>
+selenobenzoic acid <br>
+(replacement prefix = ‘seleno’; <br>
+selenium replaces either =O or –O–)
+// Не точный перевод.
+// К сожалению, selenoic acid не найдено ни в pubchem, ни в chemspider, ни даже в google
+ru: бензолкарбоселеновая кислота (PIN) <br>
+(замена инфикса = селен(o)’; <br>
+селен заменяет либо =O, либо –O–) <br>
+селенобензойная кислота <br>
+(замена префикса = ‘селено’; <br>
+селен заменяет либо =O, либо –O–)
+
+@cell
+<$ CH3-[CH2]4-COOH $>
+
+en: hexanoic acid (PIN) 
+ru: гексановая кислота (PIN)
+
+@cell
+-->
+
+@cell
+<$ CH3-[CH2]4-C(S)SH $>
+
+en: hexane(dithioic) acid (PIN) <br>
+(replacement infix = ‘thi(o)’; <br>
+S replaces both =O and –O–) <br>
+(not hexanedithioic acid)
+// Такого соединения в справочниках не найдено. Но есть аналог: Methane(dithioic) acid 
+// http://charchem.org/en/subst-ref/?id=6697
+// Но там IUPAC Name = methanedithioic acid, хотя тут оно помечено как "not".
+ru: гексан(дитиовая) кислота (PIN) <br>
+(замена инфикса = ‘ти(o)’; <br>
+S заменяет как =O, так и –O–) <br>
+(не гександитиовая кислота)
+
+@cell
+<$ 
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC-@n(4,-120)//-\\@n(1,-60)<-COOH>`/`=`\
+$>
+
+en: 4-formylbenzoic acid (PIN)
+ru: 4-формилбензойная кислота (PIN)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SeHC-@n(4,-120)//-\\@n(1,-60)<-COOH>`/`=`\
+$>
+
+en: 4-(methaneselenoyl)benzoic acid (PIN) <br>
+4-(selenoformyl)benzoic acid <br>
+(replacement prefix = ‘seleno’; <br>
+=Se replacing =O) 
+ru: 4-(метанселеноил)бензойная кислота (PIN) <br>
+4-(селеноформил)бензойная кислота <br>
+(префикс замены = ‘селено’; <br>
+=Se заменяет =O)
+
+@End
+
+#P-13.2.2.3+ 
+en: In specific instances, the prefixes ‘thio’, ‘seleno’, and ‘telluro’ indicate a skeletal modification. This 
+replacement occurs with the cyclic parent hydrides having retained names, i.e., morpholine (see Table 2.3), pyran (see 
+Table 2.2), chromene, isochromene, and xanthene (see Table 2.8), chromane and isochromane (see Table 3.1). 
+ru: В определенных случаях префиксы «тио», «селено» и «теллуро» указывают на скелетную модификацию. 
+Эта замена происходит с циклическими исходными гидридами, имеющими сохраненные названия, т. е. морфолин (см. Таблицу 2.3), 
+пиран (см. Таблицу 2.2), хромен, изохромен и ксантен (см. Таблицу 2.8), хроман и изохроман (см. Таблицу 3.1).
+
+@Examples 3
+
+@cell
+<$ O\|`//`\`||/ $>
+
+en: 2_H_-pyran (PIN) <br> (not 2_H_-oxine, see P-22.2.2.1.1)
+ru: 2_H_-пиран (PIN) <br> (не 2_H_-оксин, см. P-22.2.2.1.1)
+
+@cell
+-->
+
+@cell
+<$ S\|`//`\`||/ $>
+
+en: 2_H_-thiopyran (PIN) <br>
+(replacement prefix = ‘thio’; <br>
+S replacing O) <br>
+2_H_-thiine (Hantzsch-Widman name) <br>
+(see P-22.2.2.1.1) 
+ru: 2_H_-тиопиран (PIN) <br>
+(префикс замены = ‘тио’; <br>
+S заменяет O) <br>
+2_H_-тиин (название Ганча-Видмана) <br>
+(см. P-22.2.2.1.1)
+
+@End
+
+#P-13.3 
+en: The additive operation
+ru: Аддитивная операция
+
+en: The additive operation involves the formal assembly of a structure from its component parts without loss of any atoms 
+or groups. This operation can be expressed in several ways, as shown in the following subsections. 
+ru: Аддитивная операция подразумевает формальную сборку структуры из ее составных частей без потери каких-либо 
+атомов или групп. Эта операция может быть выражена несколькими способами, как показано в следующих подразделах.
+
+#P-13.3.1+
+en: By an additive prefix
+ru: С помощью аддитивного префикса
+
+@Examples 3
+
+@cell
+<$ |\//`|`\\`/|`/`\\`|//\ $>
+
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+-->
+
+@cell
+<$ 
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`//|\\/`||/@n(1,-90)\@n(2,-30)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: 1,2,3,4-tetrahydronaphthalene (PIN) <br>
+(‘hydro’ = prefix designating addition 
+of one hydrogen atom)
+ru: 1,2,3,4-тетрагидронафталин (PIN) <br>
+(‘гидро’ = префикс, обозначающий присоединение
+одного атома водорода)
+
+@cell colspan=3
+<$
+$itemColor(gray){1}:a1_(x-1.91,y-0.87){5}:a5_(x-2.53,y-0.34){6}:a6_(x-2.34,y0.38){20}:a20_(x-2.25,y1.31){19}:a19_(x-2.37,y2){38}:a38_(x-1.03,y2.13){39}:a39_(x-0.59,y2.69){54}:a54_(x0.41,y2.22){53}:a53_(x0.91,y2.09){52}:a52_(x2,y2.41){60}:a60_(x2.84,y1.38){59}:a59_(x3,y-0.03){49}:a49_(x2.56,y-0.72){48}:a48_(x2.06,y-1.25){47}:a47_(x1.47,y-2){28}:a28_(x1,y-2.37){29}:a29_(x0.09,y-1.97){11}:a11_(x-0.12,y-2.62){10}:a10_(x-0.62,y-1.78){9}:a9_(x0,y-3)$itemColor()CH2$itemColor(gray)<_(y-.6,N0)"1a">_#a1;
+$color(#AAA)#a9_(x-3.78,y-0.53){8}:a8_(x-1.91,y-0.84){7}:a7<_#a6>_(x-2.59,y1.13){22}:a22_(x-2.31,y-0.75){21}:a21<_#a20>_(x-2.16,y1.72){40}:a40<_#a39>_(x0.75,y2.56){41}:a41_(x-2.06,y1.47){55}:a55<_#a54>_(x2.03,y3.16){56}:a56<_#a60>_(x2.25,y0.13){57}:a57_(x1,y3.09){58}:a58<_#a59>_(x2.84,y-1.06){46}:a46<_#a47>_(x0.78,y-2.06){45}:a45_(x1.84,y-0.69){27}:a27<_#a28>_(x0.72,y-3.94){26}:a26<_#a10>_(x-1.47,y-1.03){25}:a25<_#a8>_(x-2.12,y1.16){24}:a24_(x-2.03,y-1.78){23}<_#a22>_(x-2.22,y1.91){42}:a42<_#a41>_(x1.53,y2.94){43}<_#a57>_(x2.28,y-1.41){44}<_#a45>_#a24;
+$color()#a11_(x-1.66,y-1.03){12}:a12_(x-1.34,y-3.09){2}:a2<_#a1>_(x-2.75,y0.22){3}:a3_(x-2.03,y-2.25){4}:a4<_#a5>_(x-2.03,y0.22){18}:a18<_#a19>_(x-1.25,y2.69){17}:a17_(x-2.53,y1.34){37}:a37<_#a38>_(x-0.06,y2.47){36}:a36<_#a53>_(x1.56,y1.63){35}:a35_(x0.22,y2.56){51}:a51<_#a52>_(x3,y1.03){50}:a50<_#a49>_(x1.97,y-1.31){32}:a32_(x3.16,y0.38){31}:a31<_#a48>_(x1.28,y-1.91){30}:a30<_#a29>_(x-0.41,y-2.5){13}:a13<_#a12>_(x-2.5,y-0.41){14}:a14_(x-1.37,y-2.19){15}<_#a3>_(x-2.59,y0.69){16}<_#a17>_(x-0.16,y2.22){34}<_#a35>_(x2,y1.25){33}<_#a32>_#a14
+$>
+
+en: 1a_H_-1(9)a-homo(C_{60}-_I__{h})[5,6]fullerene (PIN) 
+ru: 1a_H_-1(9)a-гомо(C_{60}-_I__{h})[5,6]фуллерен (PIN) 
+
+@cell colspan=3
+<$
+H_(A150,L1.5)$itemColor(gray){1}:a1_(x-1.91,y-0.87){5}:a5_(x-2.53,y-0.34){6}:a6_(x-2.34,y0.38){20}:a20_(x-2.25,y1.31){19}:a19_(x-2.37,y2){38}:a38_(x-1.03,y2.13){39}:a39_(x-0.59,y2.69){54}:a54_(x0.41,y2.22){53}:a53_(x0.91,y2.09){52}:a52_(x2,y2.41){60}:a60_(x2.84,y1.38){59}:a59_(x3,y-0.03){49}:a49_(x2.56,y-0.72){48}:a48_(x2.06,y-1.25){47}:a47_(x1.47,y-2){28}:a28_(x1,y-2.37){29}:a29_(x0.09,y-1.97){11}:a11_(x-0.12,y-2.62){10}:a10_(x-0.62,y-1.78){9}:a9_(A-70,L1.5)$itemColor()H;
+$color(#AAA)#a9_(x-3.78,y-0.53){8}:a8_(x-1.91,y-0.84){7}:a7<_#a6>_(x-2.59,y1.13){22}:a22_(x-2.31,y-0.75){21}:a21<_#a20>_(x-2.16,y1.72){40}:a40<_#a39>_(x0.75,y2.56){41}:a41_(x-2.06,y1.47){55}:a55<_#a54>_(x2.03,y3.16){56}:a56<_#a60>_(x2.25,y0.13){57}:a57_(x1,y3.09){58}:a58<_#a59>_(x2.84,y-1.06){46}:a46<_#a47>_(x0.78,y-2.06){45}:a45_(x1.84,y-0.69){27}:a27<_#a28>_(x0.72,y-3.94){26}:a26<_#a10>_(x-1.47,y-1.03){25}:a25<_#a8>_(x-2.12,y1.16){24}:a24_(x-2.03,y-1.78){23}<_#a22>_(x-2.22,y1.91){42}:a42<_#a41>_(x1.53,y2.94){43}<_#a57>_(x2.28,y-1.41){44}<_#a45>_#a24;
+$color()#a11_(x-1.66,y-1.03){12}:a12_(x-1.34,y-3.09){2}:a2<_#a1>_(x-2.75,y0.22){3}:a3_(x-2.03,y-2.25){4}:a4<_#a5>_(x-2.03,y0.22){18}:a18<_#a19>_(x-1.25,y2.69){17}:a17_(x-2.53,y1.34){37}:a37<_#a38>_(x-0.06,y2.47){36}:a36<_#a53>_(x1.56,y1.63){35}:a35_(x0.22,y2.56){51}:a51<_#a52>_(x3,y1.03){50}:a50<_#a49>_(x1.97,y-1.31){32}:a32_(x3.16,y0.38){31}:a31<_#a48>_(x1.28,y-1.91){30}:a30<_#a29>_(x-0.41,y-2.5){13}:a13<_#a12>_(x-2.5,y-0.41){14}:a14_(x-1.37,y-2.19){15}<_#a3>_(x-2.59,y0.69){16}<_#a17>_(x-0.16,y2.22){34}<_#a35>_(x2,y1.25){33}<_#a32>_#a14
+$>
+
+en: 1,9-seco(C_{60}-_I__{h})[5,6]fullerene (PIN) 
+ru: 1,9-секо(C_{60}-_I__{h})[5,6]фуллерен (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H`|dd@n(5,-150)`/@n(4,90)`\@n(3,150)`|@n(2,-150)/@n(1,90)\|\/`|<`|wH></|dH>`\<|dH><`/`|wH3C>`|/\|_q_q_q<-dH><_q`|wCH3>_(a54,w+)CH2-CH3
+$>
+
+en: 5α-pregnane
+ru: 5α-прегнан
+
+<span class="arrow-cw90"> --> </span>
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H`|dd@n(5,-150)`|_q7@n(1,110)_q7@n(2,-120)_q7@n(3,180)_q7@n(4,120)_q7@n(4a,90)_q7\/`|`\<|dH><`/_(y-1.2,d+)H2C>`|/\|<`/`|wH><|dH>_q_q_q<-dH><_q`|wCH3>_(a54,w+)CH2-CH3
+$>
+
+en: 4a-homo-5α-pregnane <br>
+(‘homo’ = addition of a methylene group, <$–CH2–$>, <br>
+which in this case expands a ring, see P-101.3.2.1) 
+ru: 4a-гомо-5α-прегнан <br>
+(‘гомо’ = присоединение метиленовой группы, <$–CH2–$>, <br>
+которая в этом случае расширяет кольцо, см. P-101.3.2.1)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(2,-90,0.6)/@n(1,90)\|@n(5,-150)<|dH><`/@n(4,90)`\H3C>\/`|`\<|dH><`/_(y-1.1,w+)H3C>`|/\|<|dH><`/`|wH>_q_q_q<-dH><_q`|wCH3>_(a54,w+)CH2-CH3
+$>
+
+en: 2,3-seco-5α-pregnane <br>
+(‘seco’ = addition of two hydrogen atoms at <br>
+positions 2 and 3 made necessary by cleavage <br>
+of the bond between C-2 and C-3) 
+ru: 2,3-секо-5α-прегнан <br>
+(‘секо’ = добавление двух атомов водорода в <br>
+положения 2 и 3, необходимое для разрыва <br>
+связи между C-2 и C-3)
+
+@cell
+
+@cell
+
+@End
+
+#P-13.3.2+ 
+en: By an additive suffix 
+ru: С помощью добавочного суффикса
+
+@Examples 3
+
+@cell
+<$ N\\|`//`\`||/ + H^+ $>
+
+en: pyridine (PIN)
+ru: пиридин (PIN)
+
+@cell
+-->
+
+@cell
+<$ H_(y.5)N^+\\|`//`\`||/ $>
+
+en: pyridin-1-ium (PIN) <br>
+(‘ium’ = suffix designating the addition of one <$ H^+ $>) 
+ru: пиридин-1-иум (PIN) <br>
+(‘иум’ = суффикс, обозначающий добавление одного <$ H^+ $>)
+
+@cell
+<$ CH3-BH2 + H^– $>
+
+en: methylborane (PIN)
+ru: метилборан (PIN)
+
+@cell
+-->
+
+@cell
+<$ CH3-BH3^- $>
+
+en: methylboranuide (PIN) <br>
+(‘uide’ = suffix designating the addition of one <$H^-$>) 
+ru: метилборануид (PIN) <br>
+(‘уид’ = суффикс, обозначающий добавление одного <$H^-$>)
+
+@End
+
+#P-13.3.3+ 
+en: By a separate word
+ru: Отдельным словом
+
+#P-13.3.3.1+ 
+en: With the name of a neutral parent structure
+ru: С именем нейтральной исходной структуры
+
+@Examples 3
+
+@cell
+<$ CH3-C%N $>
+
+en: acetonitrile (PIN) 
+ru: ацетонитрил (PIN)
+
+@cell
+-->
+
+@cell
+<$ CH3-C%NO $>
+
+en: acetonitrile oxide (PIN)
+ru: оксид ацетонитрила  (PIN)
+// http://charchem.org/en/subst-ref/?id=6699
+// Русскоязычный вариант удалось найти только такой: N-Оксид ацетонитрила
+// Явно есть какие-то отличия в правилах
+
+@cell
+<$ C6H5-CH=CH2 $>
+
+en: styrene <br>
+ethenylbenzene (PIN)
+ru: стирол <br>
+этенилбензол (PIN)
+
+@cell
+-->
+
+@cell
+<$ C6`H5/_(A0)_q3O_q3 $>
+
+en: styrene oxide <br>
+phenyloxirane (PIN) 
+ru: оксид стирола <br>
+фенилоксиран (PIN)
+
+@End
+
+#P-13.3.3.2+ 
+en: With one or more substituent prefix name(s)
+ru: С одним или несколькими замещающими префиксными именами
+
+en: Here the separate word is a class or subclass name representing the characteristic group or the kind of characteristic 
+group to which the substituents are linked (see also functional class nomenclature, P-15.2).
+ru: Здесь отдельное слово — это название класса или подкласса, представляющее характерную группу или вид характерной группы, 
+с которой связаны заместители (см. также номенклатуру функциональных классов, P-15.2).
+
+@Examples 7
+
+@cell colspan=2
+<$ CH3- $>
+
+en: methyl (preferred prefix) 
+ru: метил (предпочтительный префикс)
+
+@cell
++
+
+@cell colspan=2
+<$ -OH $>
+
+en: alcohol (class name) 
+ru: спирт (название класса)
+
+@cell
+-->
+
+@cell
+<$ CH3-OH $>
+
+en: methyl alcohol <br>
+methanol (PIN)
+ru: метиловый спирт <br>
+метанол (PIN)
+
+@cell
+<$ |~_(y-.5,N0)`-`/`-`\/-\ $>
+
+en: cyclohexyl <br>
+(preferred prefix) 
+ru: циклогексил <br>
+(предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ |~_(y-.5,N0)`-`/`-`\/-\ $>
+
+en: cyclohexyl <br>
+(preferred prefix) 
+ru: циклогексил <br>
+(предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ /`|O|\ $>
+
+en: ketone <br>
+(class name) 
+ru: кетон <br>
+(имя класса)
+
+@cell
+-->
+
+@cell
+<$ |`/`\`|/\/`|O|\|\/`|`\`/ $>
+
+en: dicyclohexyl ketone <br>
+dicyclohexylmethanone (PIN) 
+ru: дициклогексилкетон <br>
+дициклогексилметанон (PIN)
+
+@cell
+<$ CH3- $>
+
+en: methyl (preferred prefix) 
+ru: метил (предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ C6H5-{} $>
+
+en: phenyl (preferred prefix) 
+ru: фенил (предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ {}-O-{} $>
+
+en: oxy (preselected prefix) 
+ru: окси (предпочтительный префикс)
+
+@cell
+-->
+
+@cell
+<$ CH3-O-C6H5 $>
+
+en: methyl phenyl ether <br>
+anisole (PIN) <br>
+methoxybenzene
+ru: метилфениловый эфир <br>
+анизол (PIN) <br>
+метоксибензол
+
+@cell colspan=2
+<$ C6H5-CH2–{} $>
+
+en: benzyl (preferred prefix)
+ru: бензил (предпочтительный префикс)
+
+@cell
++
+
+@cell colspan=2
+<$ {}-CN $>
+
+en: cyanide (class name) 
+ru: цианид (название класса)
+
+@cell
+-->
+
+@cell
+<$ C6H5-CH2–CN $>
+
+en: benzyl cyanide <br>
+phenylacetonitrile (PIN) 
+ru: бензилцианид <br>
+фенилацетонитрил (PIN)
+
+@End
+
+#P-13.3.4+ 
+en: By adding substituent groups together, in an operation called ‘concatenation’
+ru: Путем сложения замещающих групп в ходе операции, называемой «конкатенацией»
+
+@Examples 7
+
+@cell colspan=2
+<$ CH3-CH2-CH2-CH2-CH2–{} $>
+
+en: pentyl (preferred prefix) 
+ru: пентил (предпочтительный префикс)
+
+@cell
++
+
+@cell colspan=2
+<$ -O- $>
+
+en: oxy (preselected prefix) 
+ru: окси (предпочтительный префикс)
+
+@cell
+-->
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-O–{} $>
+
+en: pentyloxy (preferred prefix)
+ru: пентилокси (предпочтительный префикс)
+
+@cell colspan=2
+<$ Cl-{} $>
+
+en: chloro (preselected prefix)
+ru: хлор (предпочтительный префикс)
+// В русских источниках не используется буква "о" на конце префикса
+
+@cell
++
+
+@cell colspan=2
+<$ {}-CO-{} $>
+
+en: carbonyl (preselected prefix)
+ru: карбонил (предпочтительный префикс)
+
+@cell
+-->
+
+@cell
+<$ Cl-CO-{} $>
+
+en: chlorocarbonyl <br>
+carbonochloridoyl (preferred prefix) 
+ru: хлоркарбонил <br>
+карбонохлоридоил (предпочтительный префикс)
+
+@cell
+<$ {}-NH-{} $>
+
+en: azanediyl <br> (preselected prefix)
+ru: азандиил <br> (предварительно выбранный префикс)
+
+@cell
++
+
+@cell
+<$ {}-CH2-CH2-{} $>
+
+en: ethane-1,2-diyl <br> (preferred prefix)
+ru: этан-1,2-диил <br> (предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ {}-NH-{} $>
+
+en: azanediyl <br> (preselected prefix)
+ru: азандиил <br> (предварительно выбранный префикс)
+
+@cell
+-->
+
+@cell
+<$ {}–NH-CH2-CH2-NH–{} $>
+
+en: ethane-1,2-diylbis(azanediyl) <br>
+(preferred prefix)
+ru: этан-1,2-диилбис(азандиил) <br>
+(предпочтительный префикс)
+
+@End
+
+#P-13.3.5+ 
+en: By adding molecular entities together
+ru: Путем сложения молекулярных сущностей
+
+en: Chemical species AB in which two molecular entities A and B are combined directly with no loss of atoms from either 
+A or B can be named as adducts (see P-14.8) by citing the names of A and B linked with an ‘em’ dash. 
+ru: Виды химических соединений AB, в которых две молекулярные сущности A и B соединены напрямую без потери атомов ни из A, 
+ни из B, могут быть названы аддуктами (см. P-14.8) путем указания названий A и B, соединенных знаком «длинное тире».
+
+@Examples 5
+
+@cell
+<$ CO $>
+
+en: carbon monoxide (PIN)
+ru: монооксид углерода (PIN)
+
+@cell
++
+
+@cell
+<$ CH3-BH2 $>
+
+en: methylborane (PIN)
+ru: метилборан (PIN)
+
+@cell
+-->
+
+@cell
+<$ CO*BH2-CH3 $>
+
+en: carbon monoxide—methylborane (PIN)
+ru: монооксид углерода—метилборан (PIN)
+
+@End
+
+#P-13.4 
+en: The subtractive operation
+ru: Операция вычитания
+
+en: The subtractive operation involves the removal of an atom or group implicit in a name. This operation can occur with 
+no other change, with introduction of unsaturation, or with formation of substituent groups, radicals, or ions. Several 
+prefixes are used to indicate subtractive operations of many kinds in natural products. Subtraction can be expressed in 
+several ways as shown in the following subsections. 
+ru: Операция вычитания подразумевает удаление атома или группы, подразумеваемой в названии. Эта операция может происходить 
+без других изменений, с введением ненасыщенности или с образованием замещающих групп, радикалов или ионов. 
+Для обозначения операций вычитания многих видов в природных продуктах используется несколько префиксов. 
+Вычитание может быть выражено несколькими способами, как показано в следующих подразделах.
+
+#P-13.4.1+ 
+en: By a suffix
+ru: По суффиксу
+
+@Examples 5
+
+@cell
+<$ CH4 $>
+
+en: methane (PIN)
+ru: метан (PIN)
+
+@cell
+–
+
+@cell
+<$ H"∙" $>
+
+en: monohydrogen <br>
+(preselected name)
+ru: моноводород <br>
+(предварительно выбранное имя)
+// В русских источниках не найдено такого слова как "моноводород" или "моногидроген".
+// Найдено "радикал водорода". Но такое название не соответствует теме. 
+// Автопереводчик предложил "моногидроген". Но решено использовать "моноводород", т.к. это больше соответствует русскому языку
+
+@cell
+-->
+
+@cell
+<$ CH3"∙" $>
+
+en: methyl <br>
+(PIN; a radical; the suffix ‘yl’ <br>
+indicates loss of one hydrogen atom) 
+ru: метил <br>
+(PIN; радикал; суффикс «ил» <br>
+указывает на потерю одного атома водорода)
+
+@cell
+<$ CH3-CH3 $>
+
+en: ethane (PIN)
+ru: этан (PIN)
+
+@cell
+–
+
+@cell
+<$ H^+ $>
+
+en: hydron (preselected name)
+ru: гидрон (предварительно выбранное имя)
+
+@cell
+-->
+
+@cell
+<$ CH3-CH2^- $>
+
+en: ethanide <br>
+(PIN; an anion; the suffix ‘ide’ <br>
+indicates loss of a hydron) 
+ru: этанид <br>
+(PIN; анион; суффикс «ид» <br>
+указывает на потерю гидрона)
+
+@cell
+<$ CH3-CH2-CH2-CH3 $>
+
+en: butane (PIN) 
+ru: бутан (PIN)
+
+@cell
+–
+
+@cell
+<$ H^- $>
+
+en: hydride (preselected name)
+ru: гидрид (предварительно выбранное имя)
+
+@cell
+-->
+
+@cell
+<$ CH3-CH2-CH2-CH2^+ $>
+
+en: butylium <br>
+(PIN; the suffix ‘ylium’ <br>
+indicates loss of a hydride ion) 
+ru: бутилий <br>
+(PIN; суффикс «илий» <br>
+указывает на потерю иона гидрида)
+// нет полной уверенности насчет правильного перевода ‘ylium’ -> «илий»
+// Поиск дал мало результатов. Но похожие результаты есть.
+
+@End
+
+#P-13.4.2+ 
+en: By a change of ending
+ru: Изменением окончания
+
+@Examples 5
+
+@cell
+<$ C6H5-SO2-OH $>
+
+en: benzenesulfonic acid (PIN)
+ru: бензосульфокислота (ПИН)
+// Автопереводчик предложил "бензолсульфоновая кислота"
+// Но использовано русское название - Бензосульфокислота
+// http://charchem.org/ru/subst-ref/?id=1768
+
+@cell
+–
+
+@cell
+<$ H^+ $>
+
+en: hydron (preselected name)
+ru: гидрон (предварительно выбранное имя)
+
+@cell
+-->
+
+@cell
+<$ C6H5-SO2^– $>
+
+en: benzenesulfonate <br> 
+(PIN; the ending ‘ate’ <br>
+indicates loss of a hydron from an ‘ic acid’)
+ru: бензолсульфонат <br>
+(PIN; окончание «нат» <br>
+указывает на потерю гидрона из «окислота»)
+
+@cell
+<$ CH3-CH2-CH2-CH3 $>
+
+en: butane (PIN) 
+ru: бутан (PIN)
+
+@cell
+–
+
+@cell
+<$ 2H $>
+
+en: hydrogen (preselected name)
+ru: водород (предварительно выбранное имя)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2@n(3,-90)-CH@n(2,-90)=CH2@n(1,-90)
+$>
+
+en: but-1-ene <br>
+(PIN; the ending ‘ene’ <br>
+indicates loss of two hydrogen atoms)
+ru: бут-1-ен <br>
+(PIN; окончание «ен» <br>
+указывает на потерю двух атомов водорода)
+
+@End
+
+#P-13.4.3+ 
+en: By the prefixes ‘dehydro’ and ‘nor’
+ru: По префиксам «дегидро» и «нор»
+
+#P-13.4.3.1+ 
+en: The prefix ‘dehydro’ 
+ru: Префикс «дегидро»
+
+@Examples 3
+
+@cell
+<$ -_q7_q7_q7O_q7_q7_q7 $>
+
+en: oxepane (PIN) 
+ru: оксепан (PIN)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q7@n(3,20)_qq7@n(2,-20)_q7O@n(1,-90,.6)_q7_q7_q7
+$>
+
+en: 2,3-didehydrooxepane <br>
+(the prefix ‘didehydro’ indicates 
+loss of 2 hydrogen atoms) <br>
+2,3,4,5-tetrahydrooxepine 
+(PIN, see P-54.4.1)
+ru: 2,3-дидегидрооксепан <br>
+(префикс «дидегидро» указывает на
+потерю 2 атомов водорода) <br>
+2,3,4,5-тетрагидрооксепин
+(PIN, см. P-54.4.1)
+
+@End
+
+#P-13.4.3.2+ 
+en: By the prefix ‘nor’
+ru: По префиксу ‘нор’
+
+en: The prefix ‘nor’ is used to indicate removal of an unsubstituted saturated skeletal atom from a ring or a chain of a 
+stereoparent structure with its attached hydrogen atom(s). It can also indicate the loss of a <$–CH=$> group from a mancude 
+ring from a stereoparent structure (see P-101.3.1) and the loss of a carbon atom from a fullerene structure (see  
+P-27.4.2).
+ru: Префикс «нор» используется для обозначения удаления незамещенного насыщенного скелетного атома из кольца или цепи 
+стереородительской структуры с присоединенным к нему атомом(ами) водорода. Он также может указывать на потерю группы 
+<$–CH=$> из кольца mancude стереородительской структуры (см. P-101.3.1) и потерю атома углерода из структуры фуллерена 
+(см. P-27.4.2).
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y-.8,d-)@n(5,-150)`/@n(4,-90)<_(A70,d+)CH3@n(18,80,.7)><_(A110,w+)H3C@n(19,100,.7)>`\@n(3,150)`|@n(2,-150)/@n(1,-130)\@n(10,160,.5)|\@n(6,90)/@n(7,30)`|@n(8,150)<_(A10,w+)CH3@n(20,90,0.5)></dH>`\@n(9,-50)<|dH><`/_(y-1.2,w+)H3C@n(17,-110,.6)>`|@n(11,-120,.5)/@n(12,-90)\@n(13,-90,.6)<_(A150,d+)H><_(A45,w+)CH3@n(16,-70,.6)>/@n(14,-90)\CH3@n(15,-80,.6)
+$>
+
+en: labdane <br> (fundamental parent structure)
+ru: лабдан <br> (фундаментальная исходная структура)
+// http://charchem.org/ru/subst-ref/?id=6700
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y-.9,d-)@n(5,-150)`|@n(10,160,.5)_q@n(1,-120)_q@n(2,180)_q@n(4,-90)<|dCH3@n(18,90,.6)><_(A150,w+)H3C@n(19,90,.6)>_q\@n(6,90)/@n(7,30)`|@n(8,150)<_(A10,w+)CH3@n(20,90,0.5)></dH>`\@n(9,-50)<|dH><`/_(y-1.2,w+)H3C@n(17,-110,.6)>`|@n(11,-120,.5)/@n(12,-90)\@n(13,-90,.6)<_(A150,d+)H><_(A45,w+)CH3@n(16,-70,.6)>/@n(14,-90)\CH3@n(15,-80,.6)
+$>
+
+en: 3-norlabdane <br>
+(ring contraction by removal 
+of a ring methylene, <$–CH2–$>, group)
+ru: 3-норлабдан <br>
+(сокращение кольца путем удаления <br> метиленовой группы кольца <$–CH2–$>)
+// Данное вещество отсутствует в справочниках
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0@n(1,-90)<_q_q_q@n(4,-75)<_q><_(a24,w+)CH3@n(15,90,.6)>_(a84,d+)H>_p7@n(10,80,.5)<_(a-94,d+)H><_(a-34,w+)CH3@n(14,-90,.6)>_p7_p7_p7@n(7,-120)<_p7_p7><_(A-20,d+)H>_(a-64,w+)HC@n(11,50,.6)<_p6H3C@n(13,80,.6)>_q6CH3@n(12,-80,.6)
+$>
+
+en: germacrane <br>
+(fundamental parent structure)
+ru: гермакран <br>
+(фундаментальная исходная структура)
+// http://charchem.org/ru/subst-ref/?id=6701
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0@n(1,-90)<_q_q_q@n(4,-75)<_q><_(a24,w+)CH3@n(15,90,.6)>_(a84,d+)H>_p7@n(10,80,.5)<_(a-94,d+)H><_(a-34,w+)CH3@n(14,-90,.6)>_p7_p7_p7@n(7,-120)<_p7_p7><_(A-20,d+)H>_(a-64,w+)CH2@n(11,90,.6)-CH3@n(12,-80,.6)
+$>
+
+en: 13-norgermacrane <br>
+(removal of a side chain methylene, <$–CH2–$>, group) <br>
+(1R,4s,7S)-4-ethyl-1,7-dimethylcyclodecane  <br>
+(see P-101.3.1.1) 
+ru: 13-норгермакран <br>
+(удаление боковой цепи метиленовой, <$–CH2–$>, группы) <br>
+(1R,4s,7S)-4-этил-1,7-диметилциклодекан <br>
+(см. P-101.3.1.1)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)`|$color()@n(10,-30)`\@n(11,-30,.6)`/r@n(12,160,.6)`\@n(4,150)`||@n(3,-150)/@n(2,-90)\\@n(1,-30)|`/|:a@n(13,-170,.6)\/@n(9,90)\wNH@n(17,90,.6)_(y-1)@n(16,-30)_(x-1.7)@n(15,-100,.3)_(w-)#a`/@n(5,-150)|@n(6,150)\@n(7,90)/@n(8,30)`|@n(14,150,.5)_(A40,w+)H
+$>
+
+en: morphinan <br>
+(fundamental parent structure)
+ru: морфинан <br>
+(фундаментальная исходная структура)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)`|$color()@n(10,-30)`\@n(11,-30,.6)`/r@n(12,160,.6)_p@n(3,-150)_pp@n(2,-90)_p@n(1,-30)_p`/|:a@n(13,-170,.6)\/@n(9,90)\wNH@n(17,90,.6)_(y-1)@n(16,-30)_(x-1.7)@n(15,-100,.3)_(w-)#a`/@n(5,-150)|@n(6,150)\@n(7,90)/@n(8,30)`|@n(14,150,.5)_(A40,w+)H
+$>
+
+en: 1_H_-4-normorphinan 
+ru: 1_H_-4-норморфинан
+
+@cell colspan=3
+<$
+$itemColor(gray){5}:a5_(x-2.36,y-0.44){6}:a6_(x-2.03,y0.33){20}:a20_(x-1.94,y1.25){19}:a19_(x-2.14,y1.83){38}:a38_(x-0.94,y1.86){39}:a39_(x-0.5,y2.42){54}:a54_(x0.28,y1.89){53}:a53_(x0.89,y1.83){52}:a52_(x1.75,y2.11){60}:a60_(x2.47,y1.28){59}:a59_(x2.72,y-0.08){49}:a49_(x2.36,y-0.75){48}:a48_(x1.78,y-1.06){47}:a47_(x1.33,y-1.81){28}:a28_(x0.83,y-1.92){29}:a29_(x0.08,y-1.81){11}:a11_(x-0.14,y-2.42){10}#
+$color(#AAA)_(x-2.78,y1.61){26}:a26_(x-1.33,y-1.06){25}:a25_(x0.22,y-2.53){8}:a8_(x-1.47,y-0.81){7}:a7<_#a6>_(x-2.42,y1.11){22}:a22_(x-2.25,y-0.75){21}:a21<_#a20>_(x-1.69,y1.61){40}:a40<_#a39>_(x0.58,y2.25){41}:a41_(x-2.11,y1.31){55}:a55<_#a54>_(x1.86,y2.69){56}:a56<_#a60>_(x2.31,y0.25){57}:a57_(x0.72,y2.86){58}:a58<_#a59>_(x2.61,y-0.89){46}<_#a47>_(x0.78,y-2.06){45}:a45_(x1.5,y-0.72){27}<_#a28>_#a26;
+#a45_(x-1.47,y-2.53){44}:a44_(x0.42,y-1.39){24}<_#a25>_(x-1.64,y-1.72){23}<_#a22>_(x-2.06,y1.78){42}<_#a41>_(x1.28,y2.75){43}<_#a57>_#a44;
+$color()#a5_(x-2.33,y1.39){4}:a4_(x-1.83,y0.17){18}<_#a19>_(x-1.03,y2.53){17}:a17_(x-2.33,y1.17){37}<_#a38>_(x0.06,y2.28){36}<_#a53>_(x1.28,y1.31){35}:a35_(x0.25,y2.36){51}<_#a52>_(x2.61,y0.89){50}<_#a49>_(x1.92,y-1.22){32}:a32_(x2.64,y0.36){31}<_#a48>_(x1.36,y-1.81){30}<_#a29>_(x-0.39,y-2){13}:a13_(x1.03,y-1.31){12}<_#a11>_(x-1.25,y-2.81){2}#
+_(x-2.5,y0.22){3}:a3<_#a4>_(x-0.83,y1.47){15}:a15_(x-2.31,y0.64){16}<_#a17>_(x-0.11,y2.11){34}<_#a35>_(x1.69,y1.11){33}<_#a32>_(x1.89,y-1.89){14}<_#a13>_#a15
+$>
+
+en: 1,9-dinor(C_{60}-_I__{h})[5,6]fullerene (PIN) 
+ru: 1,9-динор(C_{60}-_I__{h})[5,6]фуллерен (PIN) 
+
+@End
+
+#P-13.5 
+en: The conjunctive operation
+ru: Конъюнктивная операция
+
+en: The conjunctive operation involves the formal construction of a name for a compound from the names of its 
+components with subtraction of the same number of hydrogen atoms from each component at each site of the junction. 
+This operation is expressed as noted in the following subsections. 
+ru: Операция конъюнкции включает в себя формальное построение названия соединения из названий его компонентов 
+с вычитанием одинакового количества атомов водорода из каждого компонента в каждом месте соединения.
+Эта операция выражается так, как отмечено в следующих подразделах.
+
+#P-13.5.1+ 
+en: By placing a multiplicative prefix ‘bi’, ‘ter’, ‘quater’, etc. (see P-14.2.3) before the name of the corresponding 
+parent hydride. 
+ru: Путем добавления мультипликативного префикса «би», «тер», «кватер» и т. д. (см. P-14.2.3) 
+перед названием соответствующего родительского гидрида.
+
+@Examples 5
+
+@cell
+<$ |`//`\`||/N\\/H $>
+
+en: pyridine (PIN)
+ru: пиридин (PIN)
+
+@cell
++
+
+@cell
+<$ H\||\//`|`\\N`/ $>
+
+en: pyridine (PIN)
+ru: пиридин (PIN)
+
+@cell
+-->
+
+@cell
+<$ `\\N`/||\//`|-||\//`|`\\N`/ $>
+
+en: 2,2′-bipyridine (PIN) <br>
+2,2′-bipyridyl (see P-28.2.1) 
+ru: 2,2′-бипиридин (PIN) <br>
+2,2′-бипиридил (see P-28.2.1) 
+
+@End
+
+#P-13.5.2+ 
+en: By juxtaposition of component names (conjunctive nomenclature) 
+ru: Путем сопоставления названий компонентов (конъюнктивная номенклатура)
+
+en: This method is used by Chemical Abstracts Service. It is not recommended for constructing preferred IUPAC names; 
+substitutive nomenclature is the recommended operation (see P-51). This method is most commonly used when the two 
+components to be joined are a ring or a ring system and a carbon chain (or chains) substituted by the principal 
+characteristic group of the compound. In this method, both the principal characteristic group and the ring, or ring 
+system, must terminate the chain; the rest of the structure attached to the chain, if any, is described by substituent 
+prefixes, the locations of which are indicated by Greek letter locants, α, α^{1}, β, β^{1}, etc. (α designates the atom next to the 
+principal characteristic group). 
+ru: Этот метод используется Chemical Abstracts Service. Он не рекомендуется для построения предпочтительных названий IUPAC;
+замещающая номенклатура является рекомендуемой операцией (см. P-51). Этот метод чаще всего используется, когда два компонента,
+которые должны быть соединены, представляют собой кольцо или кольцевую систему и углеродную цепь (или цепи), 
+замещенные главной характеристической группой соединения. В этом методе как главная характеристическая группа, 
+так и кольцо или кольцевая система должны завершать цепь; остальная часть структуры, присоединенная к цепи, 
+если таковая имеется, описывается префиксами заместителей, местоположение которых указывается греческими 
+буквами-локантами, α, α^{1}, β, β^{1} и т. д. (α обозначает атом, следующий за главной характеристической группой).
+
+@Examples 5
+
+@cell
+<$ `/`-`\/-\-H $>
+
+en: cyclohexane (PIN)
+ru: циклогексан (PIN)
+
+@cell
++
+
+@cell
+<$ H-CH2-CH2-OH $>
+
+en: ethanol (PIN)
+ru: этанол (PIN)
+
+@cell
+-->
+
+@cell
+<$ `/`-`\/-\-CH2-CH2-OH $>
+
+en: cyclohexaneethanol <br>
+2-cyclohexylethan-1-ol (PIN)
+ru: циклогексанэтанол <br>
+2-циклогексилэтан-1-ол (PIN)
+
+@cell
+<$ |_q_q_q_q $>
+
+en: cyclopentane (PIN) 
+ru: циклопентан (PIN) 
+
+@cell
+-->
+
+@cell
+<$ 
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q<_q_q>-CH2@n([alpha],-90)-COOH 
+$>
+
+en: cyclopentaneacetic acid <br>
+cyclopentylacetic acid (PIN)
+ru: циклопентануксусная кислота <br>
+циклопентилуксусная кислота (PIN)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q<_q_q>-CH2@n([alpha],-130)<-COOH>`|CH2-CH3
+$>
+
+en: α-ethylcyclopentaneacetic acid <br> 
+2-cyclopentylbutanoic acid (PIN) 
+ru: α-этилциклопентануксусная кислота <br>
+2-циклопентилбутановая кислота (PIN)
+
+@End
+
+#P-13.5.3+ 
+en: Ring formation
+ru: Формирование кольца
+
+@Examples 3
+
+@cell
+<$ CH3-CH2-CH3 $>
+
+en: propane (PIN)
+ru: пропан (PIN)
+
+@cell
+-->
+
+@cell
+<$ -_q3_q3 $>
+
+en: cyclopropane (PIN)
+ru: циклопропан (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H`|ww@n(5,-160)`/@n(4,90)`\`|/@n(1,-140)\@n(10,160,.5)|\/`|`\@n(9,-30)<|wH><`/_(y-1.2,w+)H3C>`|/\|@n(14,-40,.5)<|dH><`/@n(8,30)`|wH>_q_q_q@n(17,-20)_q`|wCH3@n(18,-90,.6)
+$>
+
+en: 5β,9β-androstane <br>
+(fundamental parent structure)
+ru: 5β,9β-андростан <br>
+(фундаментальная исходная структура)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H`|ww@n(5,-160)`/@n(4,90)`\`|/@n(1,-90)\@n(10,160,.5)|\/`|`\@n(9,-30)`/`|w@n(19,-90)_p3ww`|/\|@n(14,-40,.5)<|dH><`/@n(8,30)`|wH>_q_q_q@n(17,-20)_q`|wCH3@n(18,-90,.6)
+$>
+
+en: 9,19-cyclo-5β,9β-androstane <br>
+(see P-101.3.3)
+ru: 9,19-цикло-5β,9β-андростан <br>
+(см. P-101.3.3)
+
+@cell colspan=3
+<$
+$itemColor(gray)$atomColor(black){5}:a5<_(A-10,L1.5)H>_(x-2.36,y-0.44){6}:a6_(x-2.03,y0.33){20}:a20_(x-1.94,y1.25){19}:a19_(x-2.14,y1.83){38}:a38_(x-0.94,y1.86){39}:a39_(x-0.5,y2.42){54}:a54_(x0.28,y1.89){53}:a53_(x0.89,y1.83){52}:a52_(x1.75,y2.11){60}:a60_(x2.47,y1.28){59}:a59_(x2.72,y-0.08){49}:a49_(x2.36,y-0.75){48}:a48_(x1.78,y-1.06){47}:a47_(x1.33,y-1.81){28}:a28_(x0.83,y-1.92){29}:a29_(x0.08,y-1.81){11}:a11_(x-0.14,y-2.42){10}:a10_(x-1.11,y-1.78){9}:a9;
+$color(#AAA)#a10_(x-2.78,y1.61){26}:a26_(x-1.33,y-1.06){25}:a25_(x0.22,y-2.53){8}:a8<_#a9>_(x-1.47,y-0.81){7}:a7<_#a6>_(x-2.42,y1.11){22}:a22_(x-2.25,y-0.75){21}:a21<_#a20>_(x-1.69,y1.61){40}:a40<_#a39>_(x0.58,y2.25){41}:a41_(x-2.11,y1.31){55}:a55<_#a54>_(x1.86,y2.69){56}:a56<_#a60>_(x2.31,y0.25){57}:a57_(x0.72,y2.86){58}:a58<_#a59>_(x2.61,y-0.89){46}<_#a47>_(x0.78,y-2.06){45}:a45_(x1.5,y-0.72){27}<_#a28>_#a26;
+#a45_(x-1.47,y-2.53){44}:a44_(x0.42,y-1.39){24}<_#a25>_(x-1.64,y-1.72){23}<_#a22>_(x-2.06,y1.78){42}<_#a41>_(x1.28,y2.75){43}<_#a57>_#a44;
+$color()#a5_(x-2.33,y1.39){4}:a4_(x-1.83,y0.17){18}<_#a19>_(x-1.03,y2.53){17}:a17_(x-2.33,y1.17){37}<_#a38>_(x0.06,y2.28){36}<_#a53>_(x1.28,y1.31){35}:a35_(x0.25,y2.36){51}<_#a52>_(x2.61,y0.89){50}<_#a49>_(x1.92,y-1.22){32}:a32_(x2.64,y0.36){31}<_#a48>_(x1.36,y-1.81){30}<_#a29>_(x-0.39,y-2){13}:a13_(x1.03,y-1.31){12}<_#a11>_(x-1.25,y-2.81){2}<_#a9><_(A-90,L1.5)H>#
+_(x-2.5,y0.22){3}:a3<_#a4>_(x-0.83,y1.47){15}:a15_(x-2.31,y0.64){16}<_#a17>_(x-0.11,y2.11){34}<_#a35>_(x1.69,y1.11){33}<_#a32>_(x1.89,y-1.89){14}<_#a13>_#a15
+$>
+
+en: 2_H_-2,9-cyclo-1-nor(C_{60}-_I__{h})[5,6]fullerene (PIN)
+ru: 2_H_-2,9-цикло-1-нор(C_{60}-_I__{h})[5,6]фуллерен (PIN)
+
+@End
+
+#P-13.6 
+en: The multiplicative operation 
+ru: Мультипликативная операция
+
+en: This operation allows the expression of multiple occurrences of parent structures connected by a symmetrical 
+multivalent structure. 
+ru: Эта операция позволяет выразить множественные вхождения исходных структур, связанных симметричной 
+многовалентной структурой.
+
+#P-13.6.1+ 
+en: In substitutive nomenclature the multiplicative operation is used to name assemblies of identical parent 
+structures linked by di- or polyvalent substituent groups. Identical parent structures are functionalized parent hydrides, 
+functional parents, and rings or ring systems. It is, in fact, substitutive nomenclature in which identical parent structures 
+are interconnected by a di- or polyvalent substituent group. 
+ru: В заместительной номенклатуре мультипликативная операция используется для наименования ансамблей идентичных 
+исходных структур, связанных ди- или поливалентными замещающими группами. Идентичные исходные структуры — это 
+функционализированные родительские гидриды, функциональные родители и кольца или кольцевые системы. 
+Фактически, это заместительная номенклатура, в которой идентичные исходные структуры связаны между собой 
+ди- или поливалентной замещающей группой.
+
+@Examples 7 --
+
+@cell
+<$ CN|\\|`//`\`||/ $>
+
+en: benzonitrile (PIN)
+ru: бензонитрил	(PIN)
+
+@cell
++
+
+@cell
+<$ -CH2- $>
+
+en: methylene <br> (preferred prefix) 
+ru: метилен <br> (предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ CN|\\|`//`\`||/ $>
+
+en: benzonitrile (PIN)
+ru: бензонитрил	(PIN)
+
+@cell
+-->
+
+@cell
+<$ CN|\|`//`\`||/\/C<_(y-.5)H>\||\//`|`\\<`/>`|CN $>
+
+en: 2,2′-methylenedibenzonitrile (PIN)
+ru: 2,2′-метилендибензонитрил (PIN)
+
+@cell colspan=2
+<$ CH3-COOH $>
+
+en: acetic acid 
+ru: уксусная кислота
+
+@cell
++
+
+@cell colspan=2
+<$ -N</>\ $>
+
+en: nitrilo <br>
+(preselected prefix) 
+ru: нитрило <br>
+(предварительно выбранный префикс)
+
+@cell
+-->
+
+@cell
+<$ N(CH2-COOH)3 $>
+
+en: 2,2′,2′′-nitrilotriacetic acid <br>
+N,N-bis(carboxymethyl)glycine (see P-103.1, Table 10.4)
+ru: 2,2′,2′′-нитрилотриуксусная кислота <br>
+N,N-бис(карбоксиметил)глицин (см. P-103.1, Таблица 10.4)
+// http://charchem.org/ru/subst-ref/?id=542
+
+@cell
+<$ \|`/`\`|/ $>
+
+en: cyclohexane (PIN)
+ru: циклогексан (PIN)
+
+@cell
++
+
+@cell
+<$ {}-O-{} $>
+
+en: oxy (preferred prefix)
+ru: окси (предпочтительный префикс)
+
+@cell
++
+
+@cell
+<$ \|`/`\`|/ $>
+
+en: cyclohexane (PIN)
+ru: циклогексан (PIN)
+
+@cell
+-->
+
+@cell
+<$ |`/`\`|/\/O\|\/`|`\`/ $>
+
+en: 1,1′-oxydicyclohexane (PIN) 
+ru: 1,1'-оксидициклогексан (PIN)
+
+@End
+
+#P-13.6.2+ 
+en: In functional class nomenclature the multiplicative operation is used to name assemblies of identical parent 
+structures linked by a bi- or multivalent functional class name. 
+ru: В номенклатуре функциональных классов операция мультипликативности используется для именования совокупностей 
+идентичных родительских структур, связанных би- или многовалентным именем функционального класса.
+
+@Examples
+
+@cell
+<$ 
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CO-CH2-CO-O-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-O-CO-CH2-CO-O-CH3 
+$>
+
+en: dimethyl 1,4-phenylene dipropanedioate (PIN)
+ru: диметил 1,4-фенилендипропандиоат (PIN)
+
+@cell
+<$
+`\</O-CO-CH2-CH2-CO-O-CH3>`=`/\\-//-O-CO-CH2-CH2-CO-O-\-//`\`=`/\`/O`-CO`-CH2`-CH2`-CO`-O`-H3C
+$>
+
+en: dimethyl butanedioylbis(oxy-2,1-phenylene) dibutanedioate (PIN)
+ru: диметилбутандиоилбис(окси-2,1-фенилен)дибутандиоат (ПИН)
+// Автоперевод убрал пробелы. Пока оставил такой вариант.
+
+@End
+
+#P-13.7 
+en: The fusion operation
+ru: Операция слияния
+
+en: The fusion operation involves the union of two rings or ring systems so that atoms or atoms and bonds are common to 
+each. Spiro systems have one atom in common; fused ring systems have both atoms and bonds in common. 
+ru: Операция слияния включает объединение двух колец или кольцевых систем таким образом, что атомы или атомы 
+и связи являются общими для каждого. Спиросистемы имеют один общий атом; слитые кольцевые системы имеют  
+как общие атомы, так и общие связи.
+
+@Examples 5
+
+@cell
+<$ -_q_qC<_(y-.5)H2>_q_q $>
+
+en: cyclopentane (PIN) 
+ru: циклопентан (PIN)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||_q_qq_qC@n(1,120,.6)<_(y-.5)H2>_q
+$>
+
+en: 1_H_-indene (PIN)
+ru: 1_H_-инден (PIN)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||_q_qq_q@n(1′,120,.5)@n(1,-80, .5)<_q>_(a0)_p_p_p_p
+$>
+
+en: spiro[cyclopentane-1,1′-indene] (PIN)
+ru: спиро[циклопентан-1,1'-инден] (PIN)
+
+@cell
+<$ CH||CH_p8_pp8_p8_pp8_p8_pp8_p8 $>
+
+en: 8-annulene <br>
+cycloocta-1,3,5,7-tetraene (PIN)
+ru: 8-аннулен <br>
+циклоокта-1,3,5,7-тетраен (PIN)
+
+@cell
+-->
+
+@cell
+<$ HC||HC\//`|`\\`/ $>
+
+en: benzene (PIN)
+ru: бензол (PIN)
+
+@cell
+-->
+
+@cell
+<$ ||r_p8_pp8_p8_pp8_p8_pp8_p8/\\|`//`\ $>
+
+en: benzo[8]annulene (PIN; see P-25.3.2.1.1) 
+// Исправлена ошибка в оригинале. Там было "annuene". Но вещество найдено в справочниках. http://charchem.org/ru/subst-ref/?id=6704
+ru: бензо[8]аннулен (PIN; см. P-25.3.2.1.1)
+
+@End
+
+#P-13.8 
+en: Operations used only in the nomenclature of natural products 
+ru: Операции, используемые только в номенклатуре натуральных продуктов
+
+en: In the nomenclature of natural products several prefixes are used to indicate the loss of a group, i.e., the exchange of a 
+group for hydrogen. The subtraction of the elements of water with concomitant bond formation can also be regarded as 
+a subtractive operation. These operations are denoted by the following prefixes: 
+ru: В номенклатуре природных продуктов используются несколько префиксов для обозначения потери группы, т. е. замены 
+группы на водород. Вычитание элементов воды с сопутствующим образованием связи также можно рассматривать как 
+вычитательную операцию. Эти операции обозначаются следующими префиксами:
+
+@Examples 2 -- .left-aligned
+
+@cell
+en: ‘abeo’
+ru: «абео»
+
+@cell
+en: rearrangement of single bonds in a stereoparent structure (see P-101.3.5.1)
+ru: перегруппировка одинарных связей в стереоисходной структуре (см. P-101.3.5.1)
+
+@cell
+en: ‘anhydro’
+ru: «ангидро»
+
+@cell
+en: loss of <$H2O$> from two hydroxy groups with bond formation (see P-102.5.6.7)
+ru: потеря <$H2O$> из двух гидроксигрупп с образованием связи (см. P-102.5.6.7)
+
+@cell
+en: ‘apo’ 
+ru: «апо»
+
+@cell
+en: removal of all of a side chain from a carotenoid system (see P-101.3.4.2)
+ru: удаление всей боковой цепи из каротиноидной системы (см. P-101.3.4.2)
+
+@cell
+en: ‘de’
+ru: «де»
+
+@cell
+en: subtraction of an oxygen atom from an –OH group in carbohydrate nomenclature (see P-102.5.3) or 
+exchange of a methyl group for a hydrogen atom (see P-101.7.5) 
+ru: вычитание атома кислорода из группы –ОН в номенклатуре углеводов (см. P-102.5.3) или замена 
+метильной группы на атом водорода (см. P-101.7.5)
+
+@cell
+en: ‘des’
+ru: «дес»
+
+@cell
+en: removal of an amino acid residue from a peptide (see P-103.3.5.4) or of a terminal unsubstituted ring 
+from a steroid skeleton (see P-101.3.6) 
+ru: удаление аминокислотного остатка из пептида (см. P-103.3.5.4) или концевого незамещенного кольца 
+из стероидного скелета (см. P-101.3.6)
+
+@cell
+en: ‘retro’
+ru: «ретро»
+
+@cell
+en: moving double bonds from a carotenoid system (see P-101.3.5.2)
+ru: перемещение двойных связей из каротиноидной системы (см. P-101.3.5.2)
+
+@End
+
+#P-13.8.1+ 
+en: By the prefixes ‘de’ and ‘des’
+ru: По префиксам «де» и «дес»
+
+#P-13.8.1.1+ 
+en: The prefix ‘de’ (not ‘des’), followed by the name of a group or atom (other than hydrogen), denotes removal 
+(or loss) of that group and addition of the necessary hydrogen atoms, i.e., exchange of that group with hydrogen atoms. 
+ru: Префикс «де» (не «дес»), за которым следует название группы или атома (кроме водорода), обозначает 
+удаление (или потерю) этой группы и добавление необходимых атомов водорода, т. е. замену этой группы атомами водорода.
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/@n(11,-30,.5)\@n(10,-30,.5)$color(gray)|$color()@n(9,90)\wN@n(17,110,.6)<_(A45)CH3>_(y-1,W2)@n(16,-30)_(x-1.8)@n(15,-110,.3)_(W-)#1\@n(14,150,.5)</><_(A40,w+)H>|@n(8,30)`//@n(7,90)`\@n(6,-30)<_q4dHO><_(a-30,w+)H>`|@n(5,30)</@n(13,-160,.5)><`-wH>_(y-1,x-%d:.5,d+)O_(x%d,y-1)@n(4,-160)\l@n(12,160,.5)`\`|@n(3,-90)<`\HO>//@n(2,-90)\@n(1,-30)||
+$>
+
+en: <% i %> morphine
+ru: <% i %> морфин
+%i: **I**
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/@n(11,-30,.5)\@n(10,-30,.5)$color(gray)|$color()@n(9,90)\wNH@n(17,90,.6)_(y-1,W2)@n(16,-30)_(x-1.8)@n(15,-110,.3)_(W-)#1\@n(14,150,.5)</><_(A40,w+)H>|@n(8,30)`//@n(7,90)`\@n(6,-30)<_q4dHO><_(a-30,w+)H>`|@n(5,30)</@n(13,-160,.5)><`-wH>_(y-1,x-%d:.5,d+)O_(x%d,y-1)@n(4,-160)\l@n(12,160,.5)`\`|@n(3,-90)<`\HO>//@n(2,-90)\@n(1,-30)||
+$>
+
+en: <% ii %> demethylmorphine <br>
+(exchange of methyl for H) 
+ru: <% ii %> деметилморфин <br>
+(обмен метила на H)
+%ii: **II**
+
+@cell colspan=3
+en: **I** (5βH)-17-methyl-7,8-didehydrofuro[2′,3′,4′,5′:4,12,13,5]morphinan-3,6α-diol <br>
+4,5α-epoxy-17-methyl-7,8-didehydromorphinan-3,6α-diol <br>
+**II** (5βH)-7,8-didehydrofuro[2′,,3′,,4′,,5′,:4,12,13,5]morphinan-3,6α-diol <br>
+4,5α-epoxy-7,8-didehydromorphinan-3,6α-diol 
+ru: **I** (5βH)-17-метил-7,8-дидегидрофуро[2′,3′,4′,5′:4,12,13,5]морфинан-3,6α-диол <br>
+4,5α-эпокси-17-метил-7,8-дидегидроморфинан-3,6α-диол <br>
+**II** (5βH)-7,8-дидегидрофуро[2′,,3′,,4′,,5′,:4,12,13,5]морфинан-3,6α-диол <br>
+4,5α-эпокси-7,8-дидегидроморфинан-3,6α-диол
+
+@End
+
+en: As an exception, ‘deoxy’, when applied to hydroxy compounds, denotes the removal of an oxygen atom from an –OH 
+group with the reconnection of the hydrogen atom. ‘Deoxy’ is extensively used as a subtractive prefix in carbohydrate 
+nomenclature (see P-102.5.3). 
+ru: В качестве исключения, «дезокси» применительно к гидроксисоединениям обозначает удаление атома кислорода 
+из группы –ОН с повторным присоединением атома водорода. «Дезокси» широко используется как субтрактивный префикс 
+в номенклатуре углеводов (см. P-102.5.3).
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,0)_(x-%d:.8,y-%h:1.2)O_(x-%m:1.4)@n(5,-140)<_(y.8)H><`|CH2@n(6,-90,.6)-OH>_(x-%d,y%h)@n(4,180)<`|HO><|H>_(x%d,y%h,w+)@n(3,130)<`|OH><|H>_(x%m,w2)@n(2,130)<`|H><|OH>_(x%d,y-%h,w-)|H
+$>
+
+en: β-D-galactopyranose <br>
+(fundamental parent structure) 
+ru: β-D-галактопираноза <br>
+(фундаментальная исходная структура)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,0)_(x-%d:.8,y-%h:1.2)O_(x-%m:1.4)@n(5,-140)<_(y.8)H><`|CH2@n(6,-90,.6)-OH>_(x-%d,y%h)@n(4,180)<`|H><|H>_(x%d,y%h,w+)@n(3,130)<`|OH><|H>_(x%m,w2)@n(2,130)<`|H><|OH>_(x%d,y-%h,w-)|H
+$>
+
+en: 4-deoxy-β-D-_xylo_-hexopyranose <br>
+(not 4-deoxy-β-D-_xylo_-galactopyranose) <br> 
+(2_R_,3_R_,4_S_,6_S_)-6-(hydroxymethyl)oxane-2,3,4-triol <br>
+(numbering based on the parent hydride oxane) 
+ru: 4-дезокси-β-D-_ксило_-гексопираноза <br>
+(не 4-дезокси-β-D-_ксило_-галактопираноза) <br>
+(2_R_,3_R_,4_S_,6_S_)-6-(гидроксиметил)оксан-2,3,4-триол <br>
+(нумерация основана на исходном гидриде оксана)
+
+@End
+
+#P-13.8.1.2+ 
+en: The prefix ‘des’ signifies removal of an amino acid residue of a polypeptide, with rejoining of the chain (see 
+P-103.3.5.4) or the removal of a terminal ring of a stereoparent (see P-101.3.6). 
+ru: Префикс «des» обозначает удаление аминокислотного остатка полипептида с повторным соединением цепи (см. P-103.3.5.4) 
+или удаление терминального кольца стереородителя (см. P-101.3.6).
+
+@Examples 3
+
+@cell
+en: oxytocin
+ru: окситоцин
+
+@cell
+-->
+
+@cell
+en: des-7-proline-oxytocin <br>
+(removal of the proline residue at position 7 of oxytocin) 
+ru: дес-7-пролин-окситоцин <br>
+(удаление остатка пролина в позиции 7 окситоцина)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:a(t,a,L)<_(A&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%d:1.2)H`|dd@n(5,-160)`/@n(4,90)`\`|/@n(1,-90)@a(A,90,%d)\@n(10,160,.5)|\@a(B,-90,.7)/`|@n(8,30)`\@n(9,-20)<_(y.8,d+)H><`/`|wCH3@n(19,-90,.6)>`|/@a(C,90,.7)\|@n(14,-150,.4)<|dH><`/_(y-.8,w+)H>_q_q@a(D,180,.9)_q@n(17,-30,.5)_q`|wCH3@n(18,-90,.6)
+$>
+
+en: 5α-androstane <br>
+(fundamental parent structure)
+ru: 5α-андростан <br>
+(фундаментальная исходная структура)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:a(t,a,L)<_(A&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%d:1.2)@n(10,160,.5)|@n(5,150)\@a(B,-90,.7)/`|@n(8,30)`\@n(9,-20)<_(y.8,d+)H><`/`|wCH3@n(19,-90,.6)>`|/@a(C,90,.7)\|@n(14,-150,.4)<|dH><`/_(y-.8,w+)H>_q_q@a(D,180,.9)_q@n(17,-30,.5)_q`|wCH3@n(18,-90,.6)
+$>
+
+en: des-A-androstane  <br>
+(see P-101.3.6) <br>
+(removal of ring A of 5α-androstane)
+ru: дес-A-андростан <br>
+(см. P-101.3.6) <br>
+(удаление кольца A у 5α-андростана)
+
+@End
+
+#P-13.8.2+ 
+en: By the prefix ‘anhydro’ 
+ru: По префиксу «ангидро»
+
+en: Intramolecular ethers, formally arising by elimination of water from two hydroxy groups of a single molecule of a 
+monosaccharide (aldose or ketose) or monosaccharide derivative, is indicated by the detachable prefix ‘anhydro’ 
+preceded by a pair of locants identifying the two hydroxy groups involved. The prefix ‘anhydro’ is placed in a name in 
+accordance with the principles of alphabetical order (see P-102.5.6.7.1). 
+ru: Внутримолекулярные эфиры, формально возникающие путем отщепления воды от двух гидроксильных групп одной молекулы 
+моносахарида (альдозы или кетозы) или производного моносахарида, обозначаются отделяемой приставкой «ангидро», 
+которой предшествует пара локантов, идентифицирующих две вовлеченные гидроксильные группы. Приставка «ангидро» 
+помещается в название в соответствии с принципами алфавитного порядка (см. P-102.5.6.7.1).
+
+@Examples 3
+en: Example:
+ru: Пример:
+
+@cell
+<$
+@:n(n,a,L:0.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)CHO@n(1,-130)|C@n(2,-130)<-H><`-O`-CH3>|C@n(3,-130)<`-HO><-H>|C@n(4,-130)<`-H><-O-CH3>|C@n(5,-130)<`-H><-O-CH3>|CH2@n(6,130)-OH
+$>
+
+en: 2,4,5-tri-_O_-methyl-D-mannose <br>
+(fundamental parent structure) 
+ru: 2,4,5-три-_O_-метил-D-манноза <br>
+(фундаментальная родительская структура)
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(6,-170)<|H><`|H>_(x%a:1.2,y%h:1.2,w+)@n(5,135,.5)<`|H><|O`-CH3>_(x1.4,w2)@n(4,135,.5)<`|H><|O|CH3>_(x%a,y-%h,w-)@n(3,0)<`|H><_(x-%c:1.9,y-%d:0.8)O_(x-%c,y%d)>|HC@n(2,45,.55)<|CHO@n(1,90,.6)>-O-CH3
+$>
+
+en: 3,6-anhydro-2,4,5-tri-O-methyl-D-mannose  <br>
+(the prefix ‘anhydro’ describes removal of <$ H2O $> <br>
+from 2 ‘OH’ groups in the same structure)
+ru: 3,6-ангидро-2,4,5-три-O-метил-D-манноза <br>
+(префикс «ангидро» описывает удаление <$ H2O $> <br>
+из 2 групп «ОН» в одной и той же структуре)
+
+@End

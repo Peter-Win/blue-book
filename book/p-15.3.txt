@@ -1,0 +1,1624 @@
+#P-15.3 
+en: Multiplicative nomenclature 
+ru: Мультипликативная номенклатура
+
+@Content
+
+#P-15.3.0 
+en: Introduction
+ru: Введение
+
+en: Multiplicative nomenclature is used to name assemblies of identical parent structures. There are two subsets of 
+multiplicative nomenclature: 
+ru: Мультипликативная номенклатура используется для наименования сборок идентичных родительских структур. 
+Существует два подмножества мультипликативной номенклатуры:
+
+@List 1
+
+@item
+en: A subset of substitutive nomenclature in which the identical structural units are linked by di- or polyvalent 
+substituent groups (see P-15.3.1);
+ru: Подмножество заместительной номенклатуры, в котором идентичные структурные единицы связаны ди- или поливалентными 
+замещающими группами (см. P-15.3.1);
+
+@item
+en: A subset of functional class nomenclature in which the identical structural units are linked by a di- or polyvalent 
+nonacidic residue (this subset is only used to name esters, for which see P-65.6.3.2, and leads to names such as  
+‘ethane-1,2-diyl diacetate’ for <% f %>). 
+ru: Подмножество номенклатуры функциональных классов, в котором идентичные структурные единицы связаны ди- или 
+поливалентным некислотным остатком (это подмножество используется только для наименования сложных эфиров, для которых 
+см. P-65.6.3.2, и приводит к таким названиям, как «этан-1,2-диилдиацетат» для <% f %>).
+%f: <$ CH3COO-CH2-CH2-OCOCH3 $>
+
+@End
+
+en: In the subset of multiplicative nomenclature as a subset of substitutive nomenclature, two or more identical units, for 
+example, parent structures, linked by di- or polyvalent substituent groups (called ‘multiplicative atoms or groups’ or 
+‘linking atoms or groups’) can be named in two ways: 
+ru: В подмножестве мультипликативной номенклатуры как подмножестве заместительной номенклатуры две или более идентичных 
+единиц, например, родительские структуры, связанные ди- или поливалентными замещающими группами (называемыми 
+«мультипликативными атомами или группами» или «связывающими атомами или группами»), могут быть названы двумя способами:
+
+@List
+
+@item
+en: by multiplicative nomenclature, in which two or more parent structures are connected by symmetrical or 
+unsymmetrical single or concatenated substituent groups; and
+ru: по мультипликативной номенклатуре, в которой две или более исходных структур соединены симметричными или 
+несимметричными одинарными или конкатенированными замещающими группами; и
+
+@item
+en: by substitutive nomenclature (see P-15.1) in which one of the parent structures is chosen as the senior parent 
+structure and the remainder of the structure is expressed by substituent prefixes. 
+ru: по заместительной номенклатуре (см. P-15.1), в которой одна из родительских структур выбирается в качестве 
+старшей родительской структуры, а остальная часть структуры выражается замещающими префиксами.
+
+@End
+
+en: For example, the following compound can be named 4,4′-sulfanediyldibenzoic acid (PIN) [numbering shown in (**I**)] 
+using multiplicative nomenclature, a name that includes both of the benzoic acid groups in the name of the parent 
+structure.
+ru: Например, следующее соединение можно назвать 4,4′-сульфандиилдибензойной кислотой (PIN) [нумерация показана 
+в (**I**)], используя мультипликативную номенклатуру, название, которое включает обе группы бензойной кислоты в названии 
+исходной структуры.
+
+@Examples -- 2
+
+@cell 
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\@n(1,-140)<`/HOOC>`||/\\@n(4)/S\@n(4')||\//<`|`\\`/>@n(1',-40)\COOH
+$>
+
+*: (**I**)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\@n(1,-140)<`/HOOC>`||/\\@n(4)/S\||\//<`|`\\`/>\COOH
+$>
+
+*: (**II**)
+
+@End
+
+en: Alternatively, it can be named 4-[(4-carboxyphenyl)sulfanyl]benzoic acid by substitutive nomenclature [numbering 
+shown in (**II**)], a name that includes only one of the benzoic acid groups in the name of the parent structure; the other 
+benzoic acid group is expressed as a prefix. 
+ru: В качестве альтернативы его можно назвать 4-[(4-карбоксифенил)сульфанил]бензойной кислотой по заместительной 
+номенклатуре [нумерация показана в (**II**)], название, которое включает только одну из групп бензойной кислоты 
+в названии исходной структуры; другая группа бензойной кислоты выражается в виде префикса.
+
+en: In this section, the general principles for construction of multiplicative names are discussed. The rules for the use of 
+multiplicative nomenclature in constructing preferred IUPAC names are given in P-51.3. 
+ru: В этом разделе обсуждаются общие принципы построения мультипликативных имен. Правила использования 
+мультипликативной номенклатуры при построении предпочтительных имен ИЮПАК приведены в P-51.3.
+
+@p .framed
+en: Multiplicative nomenclature is now extended to cyclic structures with or without characteristic groups; chains 
+composed only of carbon atoms continue to be excluded. In past recommendations, multiplicative nomenclature was 
+limited to compounds having characteristic groups expressed as suffixes or implied by a retained name, and for 
+heterocyclic parent hydrides. The system now has also been expanded to allow substitution on the central unit of a 
+multiplying group (P-15.3.1.2.1.2) and the use of nonsymmetrical central units under specific conditions  
+(P-15.3.3.1).
+ru: Мультипликативная номенклатура теперь расширена на циклические структуры с характерными группами или без них; 
+цепи, состоящие только из атомов углерода, по-прежнему исключаются. В прошлых рекомендациях мультипликативная 
+номенклатура была ограничена соединениями, имеющими характерные группы, выраженные суффиксами или подразумеваемые 
+сохраненным названием, и для гетероциклических родительских гидридов. Теперь система также была расширена, чтобы 
+разрешить замену в центральной единице множащей группы (P-15.3.1.2.1.2) и использование несимметричных центральных 
+единиц при определенных условиях (P-15.3.3.1).
+
+#P-15.3.1 
+en: General methodology 
+ru: Общая методология
+
+@Content
+
+#P-15.3.1.1 
+en: Identical structural units 
+ru: Идентичные структурные единицы
+
+en: There are four types of identical parent structures in multiplicative nomenclature: 
+ru: В мультипликативной номенклатуре существует четыре типа идентичных родительских структур:
+
+@List
+
+@item
+en: cyclic parent hydrides, mancude or saturated;
+ru: циклические исходные гидриды, mancude или насыщенные;
+
+@item
+en: mononuclear or polynuclear acyclic parent hydrides with the exception of saturated or unsaturated acyclic 
+hydrocarbons; 
+ru: одноядерные или многоядерные ациклические исходные гидриды, за исключением насыщенных или ненасыщенных 
+ациклических углеводородов;
+
+@item
+en: cyclic or acyclic parent hydrides substituted by characteristic groups expressed as suffixes, i.e., functionalized 
+parent hydrides (see P-15.1.2.3); 
+ru: циклические или ациклические исходные гидриды, замещенные характеристическими группами, выраженными в виде суффиксов, 
+т. е. функционализированные исходные гидриды (см. P-15.1.2.3);
+
+@item
+en:  functional parent compounds having substitutable hydrogen atoms, for example, acetic acid or phosphonic acid 
+(see P-15.1.2.1). 
+ru: функциональные исходные соединения, имеющие замещаемые атомы водорода, например, уксусная кислота или 
+фосфоновая кислота (см. P-15.1.2.1).
+
+@End
+
+en: Identical parent structures must be attached to multiplicative substituent groups by identical bonds (single, double, or 
+triple) and be identically substituted. 
+ru: Идентичные родительские структуры должны быть присоединены к мультипликативным замещающим группам идентичными 
+связями (одинарными, двойными или тройными) и быть идентично замещенными.
+
+#P-15.3.1.2 
+en: Multiplicative substituent groups
+ru: Мультипликативные замещающие группы
+
+en: There are two types of multiplicative substituent groups:
+ru: Существует два типа мультипликативных замещающих групп:
+
+@Content
+
+#P-15.3.1.2.1 
+en: Simple multiplicative atoms or groups 
+ru: Простые мультипликативные атомы или группы
+
+#P-15.3.1.2.1.1+ 
+en: Any simple polyvalent substituent group (see P-29.1 for definition) may be used as a multiplicative 
+substituent group when attached to two or more identical structural units. 
+ru: Любая простая поливалентная замещающая группа (см. определение в P-29.1) может использоваться в качестве 
+мультипликативной замещающей группы при присоединении к двум или более идентичным структурным единицам.
+
+@Examples --
+
+@cell
+<$ –CH2– $>
+
+en: methylene (preferred prefix)  <br>
+(not methanediyl) 
+ru: метилен (предпочтительный префикс) <br>
+(не метандиил)
+
+@cell
+<$ –O– $>
+
+en: oxy (preselected prefix) 
+ru: окси (предварительно выбранный префикс)
+
+@cell
+<$ –S– $>
+
+en: sulfanediyl (preselected prefix)  <br>
+thio  
+ru: сульфандиил (предварительно выбранный префикс) <br>
+тио
+
+@cell
+<$ –OO– $>
+
+en: peroxy (preselected prefix)  <br>
+(dioxy is no longer recommended) 
+ru: перокси (предварительно выбранный префикс) <br>
+(диокси больше не рекомендуется)
+
+@cell
+<$ –SS– $>
+
+en: disulfanediyl (preselected prefix)  <br>
+dithio 
+ru: дисульфандиил (предварительно выбранный префикс) <br>
+дитио
+
+@cell
+<$ $slope(50){}--N<\{}>/{}  $>
+
+en: nitrilo (preselected prefix) 
+ru: нитрило (предварительно выбранный префикс)
+
+@End
+
+@p .framed
+en: The prefix ‘nitrilo’, –N< ,is used as the preselected prefix only when the three bonds are attached to different atoms; 
+it is no longer to be used for the structure –N=, which now is named as the preselected prefix ‘azanylylidene’. 
+ru: Префикс «нитрило», –N<, используется как предварительно выбранный префикс только тогда, когда три связи присоединены к разным атомам;
+его больше не следует использовать для структуры –N=, которая теперь называется предварительно выбранным префиксом «азанилилиден».
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|~_(y-.5,N0)-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-_(y-.5,N0)|~
+$>
+
+en: 1,4-phenylene (also 1,2- and 1,3-isomers;  <br>
+preferred prefixes)  
+ru: 1,4-фенилен (также 1,2- и 1,3-изомеры; <br>
+предпочтительные префиксы)
+
+@cell
+<$ –C`|O|-CH2-CH2-C`|O|– $>
+
+en: butanedioyl (preferred prefix)  <br>
+succinyl 
+ru: бутандиоил (предпочтительный префикс) <br>
+сукцинил
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(50)\CH<`/>@n(1,-80)-CH2@n(2)-{}
+$>
+
+en: ethane-1,1,2-triyl (preferred prefix) 
+ru: этан-1,1,2-триил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH@n(1)=CH@n(2)-CH2@n(3)-{}
+$>
+
+en: prop-1-ene-1,3-diyl (preferred prefix)
+ru: проп-1-ен-1,3-диил (предпочтительный префикс)
+
+@End
+
+#P-15.3.1.2.1.2+ 
+en: Substitution, expressed by prefixes or implied, is allowed on simple multiplicative groups, symmetrical 
+or unsymmetrical, generating substitutive compound or complex (see P-29.1 for definitions) multiplicative groups. 
+ru: Замена, выраженная префиксами или подразумеваемая, допускается в простых мультипликативных группах, симметричных 
+или несимметричных, порождающих замещающие составные или сложные (определения см. в P-29.1) мультипликативные группы.
+
+@Examples
+
+@cell
+<$ $slope(50)ClCH</><\> $>
+
+en: chloromethylene (preferred prefix;  <br>
+a compound multiplicative group)
+ru: хлорметилен (предпочтительный префикс; <br>
+составная мультипликативная группа)
+
+@cell
+<$ -C<`|Cl>= $>
+
+en: chloromethanylylidene (preferred prefix; <br>
+a compound multiplicative group) 
+ru: хлорметанилиден (предпочтительный префикс; <br>
+составная мультипликативная группа)
+
+@cell
+<$
+@:n(n,a:90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH@n(1)<`|Cl>-CH2@n(2)-{}
+$>
+
+en: 1-chloroethane-1,2-diyl (preferred prefix; <br>
+a compound multiplicative group) 
+ru: 1-хлорэтан-1,2-диил (предпочтительный префикс; <br>
+составная мультипликативная группа)
+
+@cell
+<$ CH3-N$slope(40)<\>/ $>
+
+en: methylazanediyl (preferred prefix; <br>
+a compound multiplicative group) <br>
+(no longer methylimino) 
+ru: метилазандиил (предпочтительный префикс; <br>
+составная мультипликативная группа) <br>
+(больше не метилимино)
+
+@End
+
+@p .framed
+en: The name azanediyl (preselected prefix) derived from the preselected parent hydride name ‘azane’ is recommended 
+for the multiplicative substituent group –NH– ; the name imino (also a preselected prefix) is used only for =NH as a 
+substituent.
+ru: Название азандиил (предварительно выбранный префикс), полученное из предварительно выбранного названия исходного 
+гидрида «азан», рекомендуется для мультипликативной замещающей группы –NH–; название имино (также предварительно 
+выбранный префикс) используется только для =NH в качестве заместителя.
+
+@Examples
+
+@cell
+<$ ClCH2-P$slope(40)<\>/ $>
+
+en: (chloromethyl)phosphanediyl (preferred prefix; <br>
+a complex multiplicative group) 
+ru: (хлорметил)фосфандиил (предпочтительный префикс; <br>
+сложная мультипликативная группа)
+
+@cell
+<$ 
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH@n(2,90)<`|CH3>-CH2@n(3)-{} 
+$>
+
+en: 2-methylpropane-1,3-diyl (preferred prefix)
+ru: 2-метилпропан-1,3-диил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH2@n(2)-CH@n(3,90)<`|CH3>-{}
+$>
+
+en: butane-1,3-diyl (preferred prefix; see P-29.3.2.2)  <br>
+1-methylpropane-1,3-diyl (see P-29.4.1)
+ru: бутан-1,3-диил (предпочтительный префикс; см. P-29.3.2.2) <br>
+1-метилпропан-1,3-диил (см. P-29.4.1)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH@n(2,90)<_(y-1.4)N(CH3)2>_(x1.4)CH2@n(3)-{}
+$>
+
+en: 2-(dimethylamino)propane-1,3-diyl (preferred prefix) 
+ru: 2-(диметиламино)пропан-1,3-диил (предпочтительный префикс)
+
+@End
+
+#P-15.3.1.2.2 
+en: Concatenated multiplicative groups
+ru: Сцепленные мультипликативные группы
+
+#P-15.3.1.2.2.1+ 
+en: Concatenation is the method used for the formation of multipart di- and polyvalent multiplicative 
+substituent groups. A concatenated multiplicative group is formed by first citing the central multiplicative substituent 
+group, followed by a multiplicative prefix, such as ‘di’, ‘tri’, etc. or ‘bis’, ‘tris’, etc., and then, in order, and in the 
+direction toward the identical parent structures, the names of successive di- or polyvalent substituent groups.
+ru: Конкатенация — это метод, используемый для образования многокомпонентных ди- и поливалентных мультипликативных 
+групп заместителей. Сцепленная мультипликативная группа образуется путем указания сначала центральной мультипликативной 
+группы заместителей, за которой следует мультипликативный префикс, такой как «ди», «три» и т. д. или «бис», «трис» 
+и т. д., а затем, по порядку и в направлении к идентичным родительским структурам, названия последовательных ди- или 
+поливалентных групп заместителей.
+
+@Examples
+
+@cell
+<$ {}–O-CH2-O–{} $>
+
+en: methylenebis(oxy)  <br>
+(preferred prefix)  <br>
+not methylenedioxy; dioxy could be ambiguous,  <br>
+because it could be ‘peroxy’ or twice ‘oxy’ [see P-15.3.1.2.1.1, P-16.3.6 (b).] 
+ru: метиленбис(окси) <br>
+(предпочтительный префикс) <br>
+не метилендиокси; диокси может быть неоднозначным, <br>
+потому что это может быть «перокси» или дважды «окси» [см. P-15.3.1.2.1.1, P-16.3.6 (b).]
+
+@cell
+<$ {}–CH2-O-CH2–{} $>
+
+en: oxybis(methylene) (preferred prefix)
+ru: оксибис(метилен) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-O-@n(4,-120)\\-//@n(1,60)<-O-{}>`\@n(2,0)<`=`/>/O-{}
+$>
+
+en: benzene-1,2,4-triyltris(oxy) (preferred prefix) 
+ru: бензол-1,2,4-триилтрис(окси) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(45)\N<`/>-CH2@n(2)-CH@n(1)<|N<`/>\>-N</>\
+$>
+
+en: ethane-1,1,2-triyltrinitrilo (preferred prefix)
+ru: этан-1,1,2-триилтринитрило (предпочтительный префикс)
+
+@cell
+<$ {}–CH2-NH-CO-CH2-CO-NH-CH2–{} $>
+
+en: propanedioylbis(azanediylmethylene) (preferred prefix)
+ru: пропандиоилбис(азандиилметилен) (предпочтительный префикс)
+
+@End
+
+en: **Note**: When two or more successive multiplicative groups follow the central multiplicative group they are not prefixed 
+by separate multiplicative prefixes. Accordingly, the preferred IUPAC name for the example just above is NOT 
+propanedioylbis(azanediyl)bis(methylene). 
+ru: **Примечание**: Когда две или более последовательных мультипликативных группы следуют за центральной 
+мультипликативной группой, они не имеют отдельных мультипликативных префиксов. Соответственно, предпочтительное название 
+ИЮПАК для примера выше — НЕ пропандиоилбис(азандиил)бис(метилен).
+
+#P-15.3.1.2.2.2+ 
+en: When polyvalent substituent groups of the ‘yl/ylidene’ type that have no locants and are cited in a 
+prescribed order are used in a multipart multiplicative substituent group, concatenation occurs by adding a monovalent 
+free valence of the ‘yl’ type to another monovalent free valence of the ‘yl’ type, and similarly for free valences of the 
+‘ylidene’ type. 
+ru: Когда поливалентные замещающие группы типа «ил/илиден», не имеющие локантов и перечисленные в предписанном порядке, 
+используются в составной мультипликативной замещающей группе, конкатенация происходит путем добавления одновалентной 
+свободной валентности типа «ил» к другой одновалентной свободной валентности типа «ил», и аналогично для свободных 
+валентностей типа «илиден».
+
+@Examples
+
+@cell
+<$ {}–CH=N-O-N=CH–{} $>
+
+en: oxybis(azanylylidenemethanylylidene) (preferred prefix)  <br>
+[not oxybis(nitrilomethanylylidene)] 
+ru: оксибис(азанилилиденметанилилиден) (предпочтительный префикс) <br>
+[не оксибис(нитрилометанилилиден)]
+
+@cell
+<$ {}–O-N=CH-CH=N-O–{} $>
+
+en: ethane-1,2-diylidenebis(azanylylideneoxy) (preferred prefix) 
+ru: этан-1,2-диилиденбис(азанилиденокси) (предпочтительный префикс)
+
+@cell
+<$ {}–O-N=C=N-O–{} $>
+
+en: methanediylidenebis(azanylylideneoxy) (preferred prefix)
+ru: метандиилиденбис(азанилилиденокси) (предпочтительный префикс)
+
+@cell
+<$ {}=CH-N=C=N-CH={} $>
+
+en: methanediylidenebis(azanylylidenemethanylylidene) (preferred prefix)  <br>
+[not methanediylidenebis(nitrilomethanylylidene)] 
+ru: метандиилиденбис(азанилилиденметанилилиден) (предпочтительный префикс) <br>
+[не метандиилиденбис(нитрилометанилилиден)]
+
+@End
+
+#P-15.3.1.2.2.3+ 
+en: Substitution on the central substituent group and on successive substituent groups of a concatenated 
+multiplicative substituent group is allowed provided that the sequence of atoms and bonds, starting at the central 
+substituent group, are identical in each of the branches.
+ru: Замещение в центральной замещающей группе и в последовательных замещающих группах конкатенированной мультипликативной 
+замещающей группы допускается при условии, что последовательность атомов и связей, начиная с центральной замещающей группы, 
+идентична в каждой из ветвей.
+
+@Examples
+
+@cell
+<$ {}-N<`|CH3>-O-N<`|CH3>-{} $>
+
+en: oxybis(methylazanediyl) (preferred prefix)
+ru: оксибис(метилазандиил) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-C<`|Cl>=N-CH2@n(1)-CH2@n(2)-N=C<`|Cl>-{}
+$>
+
+en: ethane-1,2-diylbis[azanylylidene(chloromethanylylidene)] (preferred prefix) 
+ru: этан-1,2-диилбис[азанилилиден(хлорметанилилиден)] (предпочтительный префикс)
+
+@cell
+<$ -C|_(a30)_q3_q3`|-O-C|_(a30)_q3_q3`|- $>
+
+en: oxybis(cyclopropylidenemethylene) (preferred prefix)
+ru: оксибис(циклопропилиденметилен) (предпочтительный префикс)
+
+@End
+
+en: **Note**: The preferred prefix given here would be ambiguous if the suffix ‘ylidene’ were not limited to the indication of 
+double bonds (see P-29.2); it could refer to a structure in which the cyclopropane bonds went to the <$CH2$> group and the 
+oxygen atom as single bonds; however, the latter structure would have the preferred IUPAC prefix 
+oxybis(cyclopropane-1,1-diylmethylene) 
+ru: **Примечание**: Предпочтительный префикс, указанный здесь, был бы неоднозначным, если бы суффикс «илиден» 
+не ограничивался указанием на двойные связи (см. P-29.2); он мог бы относиться к структуре, в которой циклопропановые 
+связи идут к группе <$CH2$> и атому кислорода в качестве одинарных связей; однако последняя структура имела бы 
+предпочтительный префикс ИЮПАК оксибис(циклопропан-1,1-диилметилен)
+
+#P-15.3.1.2.2.4+ 
+en: Numbering of the components of a multipart di- or trivalent multiplicative substituent group, when 
+necessary, is achieved by attributing lowest locants to the atoms that are at the end of the component nearest to the 
+multiplied parent structure, except where the component has a fixed numbering. The locants attached to the multiplied 
+parent structure are cited last. When there is no choice the locants are cited in increasing numerical order. 
+ru: Нумерация компонентов многокомпонентной двух- или трехвалентной мультипликативной замещающей группы, когда это 
+необходимо, достигается путем присвоения самых низких локантов атомам, которые находятся в конце компонента, 
+ближайшего к умноженной родительской структуре, за исключением случаев, когда компонент имеет фиксированную нумерацию. 
+Локанты, присоединенные к умноженной родительской структуре, приводятся последними. Если нет выбора, локанты приводятся 
+в порядке возрастания номеров.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH@n(1)<`|Cl>-CH2@n(2)-O-CH2@n(2')-CH@n(1')<`|Cl>-{}
+$>
+
+en: oxybis(1-chloroethane-2,1-diyl) (preferred prefix)  <br>
+oxybis(1-chloroethylene) 
+ru: оксибис(1-хлорэтан-2,1-диил) (предпочтительный префикс) <br>
+оксибис(1-хлорэтилен)
+
+@cell
+<$
+@:n(n,a:80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH@n(2)<`|Cl>-O-CH@n(2')<`|Cl>-CH2@n(1')-{}
+$>
+
+en: oxybis(2-chloroethane-2,1-diyl) (preferred prefix)  <br>
+oxybis(2-chloroethylene) 
+ru: оксибис(2-хлорэтан-2,1-диил) (предпочтительный префикс) <br>
+оксибис(2-хлорэтилен)
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:t()<_(a90,L.5,N0)_(a180,~)>@;
+`\`=`/@n(1,-120)<`-@t()>\\-//@n(4,-60)-O-O-@n(4',-120)/=\@n(1',-60)<`//`-`\\>-@t()
+$>
+
+en: peroxydi(4,1-phenylene) (preferred prefix)  <br>
+[not dioxydi(4,1-phenylene)] 
+ru: пероксиди(4,1-фенилен) (предпочтительный префикс) <br>
+[не диоксиди(4,1-фенилен)]
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:t()<_(a90,L.5,N0)_(a180,~,L1)>@;
+$L(1.2)`\N@n(1,110,0.65)`=<`\@t()>@n(2,60)`/N\\@n(4,-60)<`/@t()>-N//@n(6,-170)-CH2_(h){}-/N@n(1',55,0.65)=</@t()>@n(2',105,.55)\N`//@n(4',-120)<\@t()>`-N`\\@n(6',-10)
+$>
+
+en: methylenebis(1,3,5-triazine-6,2,4-triyl) (preferred prefix) 
+ru: метиленбис(1,3,5-триазин-6,2,4-триил) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH@n(2)=P-CH@n(1)<`|Cl>-CH2@n(2)-O-CH2@n(2')-CH@n(1')<`|Cl>-P=CH@n(2')-CH2@n(1')-{}
+$>
+
+en: oxybis[(1-chloroethane-2,1-diyl)phosphanylylideneethan-1-yl-2-ylidene]  <br>
+(preferred prefix; the numbering of ethan-1-yl-2-ylidene is fixed) 
+ru: оксибис[(1-хлорэтан-2,1-диил)фосфанилиденэтан-1-ил-2-илиден]  <br>
+(предпочтительный префикс; нумерация этан-1-ил-2-илидена фиксирована)
+
+@cell
+<$
+@:n(n,a:80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH2@n(2)-O-CH2@n(1)-CH2@n(2)-O-CH2@n(2')-CH2@n(1')-{}
+$>
+
+en: ethane-1,2-diylbis(oxyethane-2,1-diyl) (preferred prefix) 
+ru: этан-1,2-диилбис(оксиэтан-2,1-диил) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}=CH@n(1)-CH2-CH2@n(3)-O-CH2@n(3')-CH2-CH@n(1')={}
+$>
+
+en: oxydi(propan-1-yl-3-ylidene) (preferred prefix) 
+ru: оксиди(пропан-1-ил-3-илиден) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH2-CH@n(3)=N-N=CH@n(3')-CH2-CH2@n(1')-{}
+$>
+
+en: hydrazinediylidenedi(propan-1-yl-3-ylidene) (preferred prefix;  <br>
+the numbering of propan-1-yl-3-ylidene is fixed)
+ru: гидразиндиилиденди(пропан-1-ил-3-илиден) (предпочтительный префикс; <br>
+нумерация пропан-1-ил-3-илидена фиксирована)
+
+@End
+
+#P-15.3.1.3 
+en: Multiplicative name formation
+ru: Мультипликативное образование имени
+
+en: Multiplicative names are formed in accordance with the number of occurrences of identical structural units as defined in 
+P-15.3.1.1 and the relationship of the linking multiplicative substituent group to the identical structural units. 
+ru: Мультипликативные названия образуются в соответствии с числом появлений идентичных структурных единиц, как определено 
+в P-15.3.1.1, и отношением связующей мультипликативной замещающей группы к идентичным структурным единицам.
+
+en: When a compound contains identical structural units as defined in P-15.3.1.1 linked by a symmetrical simple, 
+compound, complex, or concatenated multiplicative group (a di- or polyvalent substituent group), it is named by stating 
+successively:
+ru: Когда соединение содержит идентичные структурные единицы, как определено в P-15.3.1.1, связанные симметричной простой, 
+сложной, сложной или конкатенированной мультипликативной группой (двух- или многовалентной замещающей группой), его 
+название указывается путем последовательного указания:
+
+@List
+
+@item
+en:  the locants for the positions of substitution of the linking multiplicative substituent atom or group to the identical 
+parent structural unit (the locant 1 is omitted when alone in the name of a mononuclear parent hydride); 
+ru: локанты для позиций замещения связывающего мультипликативного замещающего атома или группы к идентичной исходной 
+структурной единице (локант 1 опускается, когда он один в названии одноядерного родительского гидрида);
+
+@item
+en:  the name of the linking multiplicative substituent atom or group; 
+ru: имя связывающего мультипликативного замещающего атома или группы;
+
+@item
+en: the numerical prefix ‘di’ , ‘tri’, etc.; and/or ‘bis-’, ‘tris-’, etc., with no elision of the final vowel before the name 
+of the identical parent structural unit; 
+ru: числовой префикс «di», «tri» и т. д.; и/или «bis-», «tris-» и т. д., без выпадения конечной гласной перед названием 
+идентичной исходной структурной единицы;
+
+@item
+en: the name of one of the identical structural units including the principal characteristic group and substituents, if 
+any, enclosed in appropriate enclosing marks (see P-16.5).
+ru: название одной из идентичных структурных единиц, включая основную характерную группу и заместители, если таковые 
+имеются, заключенные в соответствующие ограждающие знаки (см. P-16.5).
+
+@End
+
+en: The numbering of the identical parent structural unit is retained and, when there is a choice, the locants of the point of 
+substitution by the linking multiplicative substituent groups on the identical parent structure are as low as possible. 
+ru: Нумерация идентичной исходной структурной единицы сохраняется, и, когда есть возможность выбора, локанты точки 
+замещения связывающими мультипликативными замещающими группами в идентичной исходной структуре выбираются как можно ниже.
+
+#P-15.3.2 
+en: Construction of multiplicative names
+ru: Построение мультипликативных имен
+
+@Content
+
+#P-15.3.2.1 
+en: Assemblies of identical structural units (see P-15.3.1.1) 
+ru: Сборки идентичных структурных единиц (см. P-15.3.1.1)
+
+en: Retained and systematic names can be used as identical parent structural units. Primes, double primes, etc., are used to 
+distinguish among the locants of the identical parent structural unit. When functionalized parent hydrides, i.e. parent 
+structures substituted by groups expressed as suffixes (see P-15.1.2), have locants, they are enclosed in parentheses and 
+preceded by a numerical prefix ‘di-’, ‘tri-’, etc. Unsubstituted functional parent compounds are preceded by the 
+numerical prefix ‘di-’, ‘tri-, etc., but are not enclosed in parentheses, provided there is no ambiguity as described in  
+P-15.3.2.3. Compound and complex multiplicative substituent groups are enclosed in parentheses, brackets or braces, as 
+required (see P-16.5) 
+ru: Сохраненные и систематические названия могут использоваться в качестве идентичных родительских структурных единиц. 
+Штрихи, двойные штрихи и т. д. используются для различения локантов идентичной родительской структурной единицы. 
+Когда функционализированные родительские гидриды, т. е. родительские структуры, замещенные группами, выраженными в виде 
+суффиксов (см. P-15.1.2), имеют локанты, они заключаются в скобки и им предшествует числовой префикс «ди-», «три-» и т. д. 
+Незамещенные функциональные родительские соединения предшествуются числовым префиксом «ди-», «три-» и т. д., 
+но не заключаются в скобки, при условии отсутствия двусмысленности, как описано в P-15.3.2.3. 
+Составные и сложные мультипликативные замещающие группы заключаются в скобки, квадратные или фигурные скобки, 
+по мере необходимости (см. P-16.5)
+// Не совсем понятно, что означает слово Compound в последнем предложении.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1,-60)-O-O-@n(1',-120)/=\`//`-`\\
+$>
+
+en: 1,1′-peroxydibenzene (PIN)  <br>
+(not dioxydibenzene) 
+ru: 1,1′-пероксидибензол (PIN) <br>
+(не диоксидибензол)
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-30)`|`\`|`\`/|`/|\/\/\C<_(y.5)H2>/N@n(1',-150)`|/`|/\|\|`/`\`/`\
+$>
+
+en: 1,1′-methylenebis(1-azacyclododecane) (PIN)
+ru: 1,1′-метиленбис(1-азациклододекан) (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2-CH2@n(2)-S-CH2@n(2')-CH2-OH
+$>
+
+en: 2,2′-sulfanediyldi(ethan-1-ol) (PIN)  <br>
+2,2′-thiodi(ethan-1-ol) 
+ru: 2,2′-сульфандиилди(этан-1-ол) (PIN) <br>
+2,2′-тиоди(этан-1-ол)
+
+@cell
+<$
+@:n(n,a:-80,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q<_q@n(1)_q>\-/<`\`-`/>@n(8,-60)-O-@n(8',-120)/-\_(a-114)@n(1',-100)_p_p_p_p`/`-`\
+$>
+
+en: 8,8′-oxydi(spiro[4.5]decane) (PIN)
+ru: 8,8'-оксиди(спиро[4.5]декан) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Si-[C`H2:a]14-O-[C`H2:b]14-SiH3; #a@n(1-14); #b@n(14'-1')
+$>
+
+en: [oxydi(tetradecane-14,1-diyl)]bis(silane) (PIN) 
+ru: [оксиди(тетрадекан-14,1-диил)]бис(силан) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/-\@n(4,-60)<`/`-`\>-O-@n(4',-120)/-\@n(1',-60)<`/`-`\>-COOH
+$>
+
+en: 4,4′-oxydi(cyclohexane-1-carboxylic acid) (PIN)
+ru: 4,4′-оксиди(циклогексан-1-карбоновая кислота) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-S|O`|`|O|-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-O-@n(4',-120)/=\@n(1',-60)<`//`-`\\>-S|O`|`|O|-OH
+$>
+
+en: 4,4′-oxydi(benzene-1-sulfonic acid) (PIN) 
+ru: 4,4′-оксиди(бензол-1-сульфоновая кислота) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-O-CH2-CH<`|CH3>-CH2-O-@n(4',-120)/=\@n(1',-60)<`//`-`\\>-OH
+$>
+
+en: 4,4′-[(2-methylpropane-1,3-diyl)bis(oxy)]diphenol (PIN) 
+ru: 4,4′-[(2-метилпропан-1,3-диил)бис(окси)]дифенол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-@n(1,-120)</COOH>\@n(2,-60)-CH2-O-CH2-CH2-O-CH2_(h){}-@n(2',-120)/<`\HOOC>@n(1',-60)-\`/`-`\
+$>
+
+en: 2,2′-[ethane-1,2-diylbis(oxymethylene)]di(cyclohexane-1-carboxylic acid) (PIN) 
+ru: 2,2′-[этан-1,2-диилбис(оксиметилен)]ди(циклогексан-1-карбоновая кислота) (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-O-CH2-CH2-O-CH2-CH2-O-CH2@n(2')-COOH
+$>
+
+en: 2,2′-[oxybis(ethane-2,1-diyloxy)]diacetic acid (PIN) 
+ru: 2,2′-[оксибис(этан-2,1-диилокси)]диуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-{}[CH2]14-O-[CH2]14{}-@n(4',-120)/=\@n(1',-60)<`//`-`\\>-OH
+$>
+
+en: 4,4′-[oxydi(tetradecane-14,1-diyl)]diphenol (PIN) 
+ru: 4,4′-[оксиди(тетрадекан-14,1-диил)]дифенол (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-S|O`|`|O|-@n(1,-120)/-\@n(4,-60)<`/`-`\>-CH<`|F>-CH2-O-CH2@n(2,90,.6)-CH@n(1,90,.6)<`|F>_(h){}-@n(4',-120)/-\@n(1',-60)<`/`-`\>-S|O`|`|O|-OH
+$>
+
+en: 4,4′-[oxybis(1-fluoroethane-2,1-diyl)]di(cyclohexane-1-sulfonic acid) (PIN) 
+ru: 4,4'-[оксибис(1-фторэтан-2,1-диил)]ди(циклогексан-1-сульфоновая кислота) (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:0.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-O-CH2@n(2')-COOH
+$>
+
+en: 2,2′-oxydiacetic acid (PIN)  
+ru: 2,2′-оксидиуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:0.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2-CH2@n(3)-O-CH2@n(3')-CH2-COOH
+$>
+
+en: 3,3′-oxydipropanoic acid (PIN) 
+ru: 3,3′-оксидипропановая кислота (PIN)
+
+@cell
+<$ P(CH2:a-COOH)3; #a_(A-50,L.8,N0)$itemColor1(gray)"2,2',2''" $>
+
+en: 2,2′,2′′-phosphanetriyltriacetic acid (PIN) 
+ru: 2,2′,2′′-фосфантриилтриуксусная кислота (PIN)
+
+@cell
+<$ (HO)2P(O)-CH2-NH-CH2-P(O)(OH)2 $>
+
+en: [azanediylbis(methylene)]bis(phosphonic acid) (PIN)
+ru: [азандиилбис(метилен)]бис(фосфоновая кислота) (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,s:-)@n(&n,&s75,0.65)@;
+$L(1.2)OH`-CH2@m(1)$slope(60)`/\`/<\CH2@m(1',+)-OH>@n(5,-110)`=`\N@n(1,0)//N-@n(3,120)\@n(4,-170,.5)_(x%d:2.5)O_(x%d)/-N\\N@n(1',160,.55)`/`=@n(5',-60)<`/CH2@m(1''',+)`-HO>`\@n(4',0,.5)/@n(3',50)`\CH2@m(1'')`-HO
+$>
+
+en: [oxydi(pyridazine-4,3,5-triyl)]tetramethanol (PIN)  <br>
+(the locant set ‘3,4,5’ is lower than ‘4,5,6’ and the locant set ‘3,5’ is the lowest locant set  <br>
+of the pyridazine assigned to the junction to the multiplied parent structure) 
+ru: [оксиди(пиридазин-4,3,5-триил)]тетраметанол (PIN) <br>
+(локантный набор «3,4,5» меньше, чем «4,5,6», а локантный набор «3,5» является наименьшим локантным набором <br> 
+пиридазина, назначенным для соединения с умноженной родительской структурой)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,s:-)@n(&n,&s80,0.65)@;
+$L(1.1)$slope(30)HO-H2C@m(1)\|N\\N@n(1,-90,.6)/`||@n(5,150)<`\`/@n(3,30)/@n(4,90)_(y%v:-1.1)CH2@m(1')-OH>/O\/\</CH2@m(1'',+)-OH>@n(3',150,.5)||N`/N@n(1',-90,.6)`\\`|@n(5',40)/@n(4',90,.5)_(y%v)CH2@m(1''')-OH
+$>
+
+en: [oxydi(pyridazine-5,3,4-triyl)]tetramethanol (PIN)  <br>
+(the locant set ‘3,4,5’ is lower than ‘4,5,6’;  <br>
+the locant set ‘3,4’ is the lowest locant set of the pyridazine  <br>
+assigned to the junction to the multiplied parent structure)  
+ru: [оксиди(пиридазин-5,3,4-триил)]тетраметанол (PIN) <br>
+(локантный набор «3,4,5» меньше, чем «4,5,6»; <br>
+локантный набор «3,4» является наименьшим локантным набором пиридазина, <br>
+назначенным для соединения с умноженной исходной структурой)
+
+@cell
+<$ H2N-CH2-CH2-O-CH2-CH2-NH2 $>
+
+en: 2,2′-oxydi(ethan-1-amine) (PIN) 
+ru: 2,2'-оксиди(этан-1-амин) (PIN)
+
+@cell
+<$ HO-CH2-CH2-N<`|CH2-CH2-OH>-CH2-CH2-OH $>
+
+en: 2,2′,2′′-nitrilotri(ethan-1-ol) (PIN)  
+ru: 2,2′,2′′-нитрилотри(этан-1-ол) (PIN)
+
+@cell
+<$ HOOC-CH2-[CH2]7-CH2-O-/=\<`//`-`\\>-\\-//<`\`=`/>-O-CH2-[CH2]7-CH2-COOH $>
+
+en: 10,10′-[[1,1′-biphenyl]-4,4′-diylbis(oxy)]di(decanoic acid) (PIN). <br>  
+[**Note**: A double set of square brackets appears in the above name because square brackets are required  <br>
+for substituent names derived from ring assembly names (see P-16.5.2.1) and  <br>
+brackets are needed to enclose the multiplicative substitutive name]  
+ru: 10,10′-[[1,1′-бифенил]-4,4′-диилбис(окси)]ди(декановая кислота) (PIN). <br>
+[**Примечание**: Двойной набор квадратных скобок появляется в приведенном выше названии, поскольку квадратные скобки <br>
+требуются для названий заместителей, полученных из названий кольцевых сборок (см. P-16.5.2.1), <br>
+а скобки необходимы для заключения мультипликативного замещающего названия]
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,s:-)@n(&n,&s80,0.65)@;
+HOOC-CH2@m(2,+)-N<`|CH2@m(2')-COOH>-CH2-CH2-N<`|CH2@m(2'')-COOH>-CH2@m(2''',+)-COOH
+$>
+
+en: _N_,_N_′-(ethane-1,2-diyl)bis[_N_-(carboxymethyl)glycine] 
+ru: _N_,_N_′-(этан-1,2-диил)бис[_N_-(карбоксиметил)глицин]
+
+@End
+
+#P-15.3.2.1.1+ 
+en: If there is a choice, the greater number of primes is given to the locants of the parent structure having the 
+higher numbered point of attachment to the multiplicative substituent group. Such names are not acceptable as preferred 
+IUPAC names but may be used in general nomenclature; in these cases preferred IUPAC names are generated by 
+substitutive nomenclature principles (see P-51.3.3). 
+ru: Если есть выбор, большее количество штрихов дается локантам родительской структуры, имеющим более пронумерованную 
+точку присоединения к мультипликативной замещающей группе. Такие названия не приемлемы в качестве предпочтительных 
+названий ИЮПАК, но могут использоваться в общей номенклатуре; в этих случаях предпочтительные названия ИЮПАК генерируются 
+по принципам заместительной номенклатуры (см. P-51.3.3).
+
+@Examples
+
+@cell
+<$ HOOC-/-\<`/`-`\>-CH2_(A45)|\/`|`\<`/>`|COOH $>
+
+en: 2,4′-methylenedi(cyclohexane-1-carboxylic acid) (multiplicative name)  <br>
+2-[(4-carboxycyclohexyl)methyl]cyclohexane-1-carboxylic acid (PIN) <br>
+[not 4-[(2-carboxycyclohexyl)methyl]cyclohexane-1-carboxylic acid;  <br>
+the substituent locant ‘2’ is lower than ‘4’ (see P-45.2.2)] 
+ru: 2,4′-метиленди(циклогексан-1-карбоновая кислота) (мультипликативное название) <br>
+2-[(4-карбоксициклогексил)метил]циклогексан-1-карбоновая кислота (PIN) <br>
+[не 4-[(2-карбоксициклогексил)метил]циклогексан-1-карбоновая кислота; <br>
+локант заместителя «2» меньше, чем «4» (см. P-45.2.2)]
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,s:-)@n(&n,&s80,0.65)@;
+HOOC@m(1')-CH2@m(2')-CH2@m(3')-O-CH2@m(2,+)<`|CH3@m(3)>-COOH@m(1)
+$>
+
+en: 2,3′-oxydipropanoic acid (multiplicative name)  <br>
+2-(2-carboxyethoxy)propanoic acid (PIN)  <br>
+[not 3-(1-carboxyethoxy)propanoic acid;  <br>
+the substituent locant ‘2’ is lower than ‘3’ (see P-45.2.2)] 
+ru: 2,3′-оксидипропановая кислота (мультипликативное название) <br>
+2-(2-карбоксиэтокси)пропановая кислота (PIN) <br>
+[не 3-(1-карбоксиэтокси)пропановая кислота; <br>
+локант заместителя «2» меньше, чем «3» (см. P-45.2.2)]
+
+@End
+
+#P-15.3.2.2 
+en: Locants for nitrogen atoms in identical parent structures 
+ru: Локанты для атомов азота в идентичных исходных структурах
+
+#P-15.3.2.2.1+ 
+en: In multiplicative nomenclature, the use of primes on the italic letter _N_ is used to differentiate among 
+nitrogen atoms of identical structural units that contain one characteristic group with one or more nitrogen atoms. 
+ru: В мультипликативной номенклатуре использование штрихов над курсивной буквой _N_ используется для различения атомов 
+азота идентичных структурных единиц, которые содержат одну характерную группу с одним или несколькими атомами азота.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(2)-CH2@n(1)-NH@n(N)-CH2-NH@n(N')-CH2-CH3
+$>
+
+en: _N_,_N_′-methylenediethanamine
+ru: _N_,_N_′-метилендиэтанамин
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO-NH@n(N′′)-NH@n(N′′′)-CH2-NH@n(N′)-NH@n(N)-CO-CH3
+$>
+
+en: _N_′,_N_′′′-methylenediacetohydrazide (PIN)
+ru: _N_′,_N_′′′-метилендиацетогидразид (PIN)
+
+@End
+
+#P-15.3.2.2.2+ 
+en: In multiplicative nomenclature, a superscript arabic numeral indicating the locant of the parent structure at 
+which the characteristic group is attached, and an appropriate number of primes, for example, <% n %>, etc., is used 
+to distinguish among the nitrogen atoms of identical structural units containing two or more characteristic groups with 
+one or more nitrogen atoms. 
+ru: В мультипликативной номенклатуре верхний индекс в виде арабской цифры, указывающей местоположение исходной структуры, 
+к которой присоединена характеристическая группа, и соответствующее количество штрихов, например, <% n %> и т. д., 
+используется для различения атомов азота идентичных структурных единиц, содержащих две или более характеристических 
+групп с одним или более атомами азота.
+%n: N^{1}, N^{2′}, N^{4′′}
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-\\-//@n(1',-170,.55)<`\`=`/@n(4',-10,.55)>-NH@n(N^{1'})-CH2-NH@n(N^1)_(h){}-/=\@n(4,-170)<`//`-`\\@n(1,-10)>-NH2
+$>
+
+en: _N_^{1},_N_^{1′}-methylenedi(benzene-1,4-diamine) (PIN)
+ru: _N_^{1},_N_^{1′}-метиленди(бензол-1,4-диамин) (PIN)
+
+@cell
+<$
+@:n(n,a:80,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(5′)-CH@n(4′)<`|NH2>-CH@n(3′)<`|NH2>-CH2@n(2′)-CH2@n(1′)-NH@n(N^{1′},70,.9)-CH2-NH@n(N^{1},70,.9)-CH2@n(1)-CH2@n(2)-CH@n(3)<`|NH2>-CH@n(4)<`|NH2>-CH3@n(5)
+$>
+
+en: _N_1,_N_1′-methylenedi(pentane-1,3,4-triamine) (PIN)  <br>
+[**Note**: The attachment locant of the second of the identical parent structures is _N_^{1}; this is the locant that is primed] 
+ru: _N_1,_N_1′-метиленди(пентан-1,3,4-триамин) (PIN) <br>
+[**Примечание**: Локант присоединения второй из идентичных исходных структур — _N_^{1}; это локант, который отмечен штрихом]
+
+@End
+
+en: For parent structures with multiple nitrogen atoms, such as di- or tricarboximidamides (P-66.4.1.4) and 
+cyclophanamines (see P-62.2.5.3), even more complicated locant structures are required, such as primed letter locants 
+with superscript numbers or with superscripted superscript numbers.
+ru: Для исходных структур с несколькими атомами азота, таких как ди- или трикарбоксимидамиды (P-66.4.1.4) и 
+циклофанамины (см. P-62.2.5.3), требуются еще более сложные структуры локантов, такие как локанты со штрихованными 
+буквами и надстрочными числами или с надстрочными надстрочными числами.
+
+#P-15.3.2.3 
+en: Use of multiplicative prefixes ‘bis’, ‘tris’, etc. 
+ru: Использование мультипликативных префиксов «бис», «трис» и т. д.
+
+en: Identical parent structures for which the numerical prefixes ‘di-’, ‘tri-’, etc. cannot be used because of potential 
+ambiguity (see P-16.3.6) are enclosed in parentheses or square brackets, as required, and preceded by the numerical 
+terms ‘bis-’, ‘tris-’, etc. 
+ru: Идентичные исходные структуры, для которых числовые префиксы «ди-», «три-» и т. д. не могут быть использованы 
+из-за потенциальной двусмысленности (см. P-16.3.6), заключаются в круглые или квадратные скобки, по мере необходимости, 
+и им предшествуют числовые термины «бис-», «трис-» и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH3|@n(1,-150)\\|@n(3,-30)<\SiH3>`//`\@n(5,-150)<`/H3Si>`||/
+$>
+
+en: (benzene-1,3,5-triyl)tris(silane) (PIN)  <br>
+(not benzene-1,3-5-triyltrisilane; trisilane is <% f %>)
+ru: (бензол-1,3,5-триил)трис(силан) (PIN) <br>
+(не бензол-1,3-5-триилтрисилан; трисилан - это <% f %>)
+%f: <$ H3Si-SiH2-SiH3 $>
+
+@cell
+<$ H3Si-[CH2]14-O-[CH2]14-SiH3 $>
+
+en: [oxydi(tetradecane-14,1-diyl)]bis(silane) (PIN)  <br>
+[for ‘di’ before ‘tetradecane-14,1-diyl’ see P-16.3.4 (c)] 
+ru: [оксиди(тетрадекан-14,1-диил)]бис(силан) (PIN) <br>
+[для «ди» перед «тетрадекан-14,1-диил» см. P-16.3.4 (c)]
+
+@End
+
+#P-15.3.2.4 
+en: Substituted identical parent structures (see P-15.3.2.1) 
+ru: Замененные идентичные исходные структуры (см. P-15.3.2.1)
+
+en: When identical parent structures linked by symmetrical multiplicative groups contain substituents other than a principal 
+characteristic group, if any, on the identical parent structures, these substituent groups are cited as prefixes in one of two 
+ways.
+ru: Когда идентичные исходные структуры, связанные симметричными мультипликативными группами, содержат заместители, 
+отличные от основной характеристической группы, если таковые имеются, в идентичных исходных структурах, эти замещающие 
+группы указываются в качестве префиксов одним из двух способов.
+
+#P-15.3.2.4.1+ 
+en: Substituent groups on the identical parent structures other than the principal characteristic group, if any, 
+are cited as prefixes associated with the identical parent structure when they fulfill the following two conditions: 
+ru: Замещающие группы в идентичных исходных структурах, отличные от основной характеристической группы, если таковая имеется, 
+указываются как префиксы, связанные с идентичной исходной структурой, если они удовлетворяют следующим двум условиям:
+
+@List 1
+
+@item
+en:  the linking bonds (single or multiple) between the central substituent group of the multiplicative group and all 
+subsequent structural units are identical; and 
+ru: связующие связи (одинарные или множественные) между центральной замещающей группой мультипликативной группы и всеми 
+последующими структурными единицами идентичны; и
+
+@item
+en:  the locants of all substituent groups on the identical parent structures, including suffixes, are identical. 
+ru: локанты всех замещающих групп в идентичных родительских структурах, включая суффиксы, идентичны.
+
+@End
+
+en: The identical parent structures, together with their prefixes and suffixes, if any, are treated as a compound or complex 
+group, enclosed in parentheses, square brackets, or braces according to the nesting order given in P-16.5, and designated 
+by the appropriate numerical prefix ‘bis’, ‘tris’, ‘tetrakis’, etc. 
+ru: Идентичные исходные структуры вместе с их префиксами и суффиксами, если таковые имеются, рассматриваются как составная 
+или сложная группа, заключенная в круглые, квадратные или фигурные скобки в соответствии с порядком вложения, указанным в 
+P-16.5, и обозначаемая соответствующим числовым префиксом «бис», «трис», «тетракис» и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-O-@n(1',-120)/=\@n(4',-60)<`//`-`\\>-Br
+$>
+
+en: 1,1′-oxybis(4-bromobenzene) (PIN)
+ru: 1,1'-оксибис(4-бромбензол) (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1′,-110)/<`\Br>@n(2′,-50,.5)=\@n(4′,-60)<`//`-`\\>-O-@n(4,-120)/=</Br>@n(2,-120)\@n(1,-60)<`//`-`\\>-COOH
+$>
+
+en: 4,4′-oxybis(2-bromobenzoic acid) (PIN)  
+ru: 4,4'-оксибис(2-бромбензойная кислота) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+F3Si-SiF2@n(1)-CH2-SiF2@n(1′)-SiF3
+$>
+
+en: 1,1′-methylenebis(pentafluorodisilane) (PIN)
+ru: 1,1′-метиленбис(пентафтордисилан) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N@n(N)-O-N@n(N')(CH3)2
+$>
+
+en: _N_,_N_′-oxybis(_N_-methylmethanamine) (PIN)
+ru: _N_,_N_'-оксибис(_N_-метилметанамин) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO-N@n(N)(CH3)-Si<|CH3><_(y-1.5)CH=CH2>-N@n(N',-80)(CH3)-CO-CH3
+$>
+
+en: _N_,_N_′-[ethenyl(methyl)silanediyl]bis(_N_-methylacetamide) (PIN) 
+ru: _N_,_N_′-[этенил(метил)силандиил]бис(_N_-метилацетамид) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\<`/ClH2C>@n(4,-150)`||<`\Br>@n(3)/\\@n(1)/C<_(y-.5)H2>\@n(1')||\//<\CH2Cl>@n(4',-30)`|<`\\`/>@n(3')/Br
+$>
+
+en: 1,1′-methylenebis[3-bromo-4-(chloromethyl)benzene] (PIN) 
+ru: 1,1′-метиленбис[3-бром-4-(хлорметил)бензол] (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-N@n(1,150,.55)`\\/@n(5,180)<`\CH<`-CH3>/Cl>=\@n(3,-60)-O-@n(3',-120)\\-N@n(1',30,.6)//`\@n(5',0)<`=`/>/HC<`\Cl>-CH3
+$>
+
+en: 3,3′-oxybis[5-(1-chloroethyl)pyridine] (PIN)
+ru: 3,3′-оксибис[5-(1-хлорэтил)пиридин] (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)3Si/@n(5,-150)`||/@n(1,-30)<`|Si_(h)(CH3)3>\\|@n(3,-30)<`//`\>\Si(CH3)3
+$>
+
+en: (benzene-1,3,5-triyl)tris(trimethylsilane) (PIN)
+ru: (бензол-1,3,5-триил)трис(триметилсилан) (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N-CO-CH2-CH2@n(3)-S-CH2@n(3')-CH2-CO-N(CH3)2
+$>
+
+en: 3,3′-sulfanediylbis(N,N-dimethylpropanamide) (PIN) 
+ru: 3,3′-сульфандиилбис(N,N-диметилпропанамид) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\-N@n(2)=N@n(1)-C`|O|-N@n(1',-80)=N@n(2',-80)-\\-//`\`=`/
+$>
+
+en: bis(phenyldiazenyl)methanone (PIN) <br> 
+[not 1,1′-carbonylbis(2-phenyldiazene)]
+ru: бис(фенилдиазенил)метанон (PIN) <br>
+[не 1,1′-карбонилбис(2-фенилдиазен)]
+
+@End
+
+#P-15.3.2.4.2+ 
+en: When conditions (1) and (2) as defined in P-15.3.2.4.1, above, are not met, the substituent groups other 
+than those identified by suffixes, if present, are cited as prefixes at the front of the name of the assembly. These prefixes 
+are assigned the lowest locants available after priority has been given to the principal characteristic groups and the 
+linking multiplicative substituent groups. Such names are not acceptable as preferred IUPAC names but may be used in 
+general nomenclature; in these cases preferred IUPAC names are generated by substitutive nomenclature principles (see 
+P-51.3.3). 
+ru: Если условия (1) и (2), определенные в P-15.3.2.4.1 выше, не выполняются, то замещающие группы, отличные от тех, 
+которые идентифицированы суффиксами, если они присутствуют, указываются как префиксы в начале имени сборки. Этим префиксам 
+присваиваются самые низкие доступные локанты после того, как приоритет был отдан основным характеристическим группам и 
+связывающим мультипликативным замещающим группам. Такие названия не приемлемы в качестве предпочтительных названий ИЮПАК, 
+но могут использоваться в общей номенклатуре; в этих случаях предпочтительные названия ИЮПАК генерируются по принципам 
+заместительной номенклатуры (см. P-51.3.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CN|@n(1,-150)\|`//<|Cl>@n(4,150)`\`||/\@n(2)/C<_(y-.5)H2>\@n(3')||\//`|<`\\`/>@n(1')/CN
+$>
+
+en: 4-chloro-2,3′-methylenedibenzonitrile (multiplicative name; numbering shown)  <br>
+4-chloro-2-[(3-cyanophenyl)methyl]benzonitrile (PIN)  <br>
+[not 3-[(5-chloro-2-cyanophenyl)methyl]benzonitrile;  <br>
+the PIN has the greater number of substituents; see P-45.2.1]
+ru: 4-хлор-2,3′-метилендибензонитрил (мультипликативное название; показана нумерация) <br>
+4-хлор-2-[(3-цианофенил)метил]бензонитрил (PIN) <br>
+[не 3-[(5-хлор-2-цианофенил)метил]бензонитрил; <br>
+PIN имеет большее количество заместителей; см. P-45.2.1]
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//<|OH>@n(1',150,.5)`\<`/Cl>@n(6',-160,.5)`||/\\@n(3',30)$slope(40)/CH2-CH2\$slope()@n(2,150)/\||`/@n(4,30)<|Cl>`\\`|/@n(1,-30)`|OH
+$>
+
+en: 4,6′-dichloro-2,3′-(ethane-1,2-diyl)diphenol (multiplicative name; numbering shown)  <br>
+4-chloro-2-[2-(4-chloro-3-hydroxyphenyl)ethyl]phenol (PIN)  <br>
+[not 2-chloro-5-[2-(5-chloro-2-hydroxyphenyl)ethyl]phenol;  <br>
+the locant set for the substituents in the PIN, ‘2,4’, is lower than ‘2,5’; see P-14.4 (f), P-45.2.2] 
+ru: 4,6′-дихлор-2,3′-(этан-1,2-диил)дифенол (мультипликативное название; показана нумерация) <br>
+4-хлор-2-[2-(4-хлор-3-гидроксифенил)этил]фенол (PIN) <br>
+[не 2-хлор-5-[2-(5-хлор-2-гидроксифенил)этил]фенол; <br>
+локант, установленный для заместителей в PIN, «2,4», меньше, чем «2,5»; см. P-14.4 (f), P-45.2.2]
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-SiH2@n(1)-CH2-CH2-SiH3@n(1')
+$>
+
+en: 1-chloro-1,1′-(ethane-1,2-diyl)bis(silane) (multiplicative name; numbering shown)  <br>
+chloro(2-silylethyl)silane (PIN)  <br>
+[not [2-(chlorosilyl)ethyl]silane; <br>
+the parent silane of the PIN has more substituents; see P-45.2.1] 
+ru: 1-хлор-1,1′-(этан-1,2-диил)бис(силан) (мультипликативное название; показана нумерация) <br>
+хлор(2-силилэтил)силан (PIN) <br>
+[не [2-(хлорсилил)этил]силан; <br>
+исходный силан PIN имеет больше заместителей; см. P-45.2.1]
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2Si@n(2)-SiH2@n(1)-S-S-SiH2@n(1')-SiH3
+$>
+
+en: 2,2,2-trimethyl-1,1′-(disulfanediyl)bis(disilane) (multiplicative name; numbering shown)  <br>
+2-(disilanyldisulfanyl)-1,1,1-trimethyldisilane (PIN) <br>
+[not [2-(2,2,2-trimethyldisilan-1-yl)disulfanyl]disilane; <br> 
+the parent disilane in the PIN has more substituents; see P-45.2.1] <br>
+[not 6,6-dimethyl-3,4-dithia-1,2,5,6-tetrasilaheptane;  <br>
+four heterounits are required for a skeletal replacement name (see P-51.4)] 
+ru: 2,2,2-триметил-1,1′-(дисульфандиил)бис(дисилан) (мультипликативное название; показана нумерация) <br>
+2-(дисиланилдисульфанил)-1,1,1-триметилдисилан (PIN) <br>
+[не [2-(2,2,2-триметилдисилан-1-ил)дисульфанил]дисилан; <br>
+исходный дисилан в PIN имеет больше заместителей; см. P-45.2.1] <br>
+[не 6,6-диметил-3,4-дитиа-1,2,5,6-тетрасилагептан; <br>
+для названия скелетной замены требуется четыре гетероединицы (см. P-51.4)]
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\<`/Cl>`||/N\\/O\||\//N`|</Cl>`\\`/
+$>
+
+en: 2′,5-dichloro-2,4′-oxydipyridine (multiplicative name; numbering shown) <br>
+2-chloro-4-[(5-chloropyridin-2-yl)oxy]pyridine (PIN)  <br>
+[not 5-chloro-2-[(2-chloropyridin-4-yl)oxy]pyridine;  <br>
+the locant set for the substituents ‘2,4’ in the PIN is lower than ‘2,5’; see P-45.2.2]
+ru: 2′,5-дихлор-2,4′-оксидипиридин (мультипликативное название; показана нумерация) <br>
+2-хлор-4-[(5-хлорпиридин-2-ил)окси]пиридин (PIN) <br>
+[не 5-хлор-2-[(2-хлорпиридин-4-ил)окси]пиридин; <br>
+локант, установленный для заместителей «2,4» в PIN, меньше, чем «2,5»; см. P-45.2.2]
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||<`\Br>@n(3,150)/\\@n(1,40)/C<_(y-.5)H2>\@n(1',140,.5)||\//`|@n(3',30)</Cl>`\\`/
+$>
+
+en: 3-bromo-3′-chloro-1,1′-methylenedibenzene (multiplicative name; numbering shown)  <br>
+1-bromo-3-[(3-chlorophenyl)methyl]benzene (PIN) <br>
+[not 1-[(3-bromophenyl)methyl]-3-chlorobenzene;  <br>
+‘bromochloro’ is preferred alphanumerically to ‘bromophenyl’; see P-45.5] 
+ru: 3-бром-3′-хлор-1,1′-метилендибензол (мультипликативное название; показана нумерация) <br>
+1-бром-3-[(3-хлорфенил)метил]бензол (PIN) <br>
+[не 1-[(3-бромфенил)метил]-3-хлорбензол; <br>
+«бромхлор» предпочтительнее по буквенно-цифровому обозначению, чем «бромфенил»; см. P-45.5]
+
+@cell
+<$
+@:n(n,a:-90,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH|\|`//`\<`/Br>@n(5,-150)`||/@n(1,-150)\@n(2)/O\@n(2',-80)/\||<\F>@n(5',-30)`/`\\`|/@n(1',-30)`|COOH
+$>
+
+en: 5-bromo-5′-fluoro-2,2′-oxydibenzoic acid (multiplicative name; numbering shown)  <br>
+2-(4-bromo-2-carboxyphenoxy)-5-fluorobenzoic acid (PIN) <br>
+[not 5-bromo-2-(2-carboxy-4-fluorophenoxy)benzoic acid; <br>
+‘2,5’ is preferred to ‘5,2’; see P-45.2.3] 
+ru: 5-бром-5′-фтор-2,2′-оксидибензойная кислота (мультипликативное название; показана нумерация) <br>
+2-(4-бром-2-карбоксифенокси)-5-фторбензойная кислота (PIN) <br>
+[не 5-бром-2-(2-карбокси-4-фторфенокси)бензойная кислота; <br>
+«2,5» предпочтительнее, чем «5,2»; см. P-45.2.3]
+
+@End
+
+#P-15.3.3 
+en: Identical units linked by unsymmetrical multiplicative groups
+ru: Идентичные единицы, связанные несимметричными мультипликативными группами
+
+#P-15.3.3.1+ 
+en: Unsymmetrical central multiplicative substituent groups are allowed if they are formed from a multivalent 
+substituent group to which subsequent groups are attached by identical bonds (single or multiple). There is no limit to 
+the number of individual groups in the full central substituent used as a multiplier. 
+ru: Несимметричные центральные мультипликативные группы заместителей допускаются, если они образованы из многовалентной 
+группы заместителей, к которой последующие группы присоединены идентичными связями (одинарными или множественными). 
+Нет ограничений на количество отдельных групп в полном центральном заместителе, используемом в качестве множителя.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)3Si-CH2@n(1)-CH@n(2)<`|CH3>-Si(CH3)3
+$>
+
+en: (propane-1,2-diyl)bis(trimethylsilane) (PIN)  <br>
+trimethyl[1-(trimethylsilyl)propan-2-yl]silane 
+ru: (пропан-1,2-диил)бис(триметилсилан) (PIN) <br>
+триметил[1-(триметилсилил)пропан-2-ил]силан
+
+@cell
+<$
+@:n(n,a:90,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\<`-Br>/=\@n(1',180,.6)-CH2-CH=CH_(h){}-/=\<-Br>@n(4,-170)`//`-`\\@n(1,-10)
+$>
+
+en: 1,1′-(prop-1-ene-1,3-diyl)bis(4-bromobenzene) (PIN)  <br>
+1-bromo-4-[3-(4-bromophenyl)prop-1-en-1-yl]benzene  <br>
+[not 1-bromo-4-[3-(4-bromophenyl)prop-2-en-1-yl]benzene; <br> 
+the correct substitutive name has lower locants in the parent substituent group] 
+ru: 1,1′-(проп-1-ен-1,3-диил)бис(4-бромбензол) (PIN) <br>
+1-бром-4-[3-(4-бромфенил)проп-1-ен-1-ил]бензол <br>
+[не 1-бром-4-[3-(4-бромфенил)проп-2-ен-1-ил]бензол; <br>
+правильное заместительное название имеет меньшие локанты в родительской группе заместителей]
+
+@End
+
+#P-15.3.3.2 
+en: Choice between multiplicative names 
+ru: Выбор между мультипликативными именами
+
+#P-15.3.3.2.1+ 
+en: A preferred name multiplies the most identical parent structures. 
+ru: Предпочтительное имя умножает наиболее идентичные родительские структуры.
+
+@Examples
+
+@cell
+<$ HOOC-//-\\<`/`=`\>-CH2-CH<_(A-%a:45)\//`|</COOH>`\\`/||>_(A%a)/\\|<\COOH>`//`\`|| $>
+
+en: 4,4′,4′′-(ethane-1,1,2-triyl)tribenzoic acid (PIN) <br>
+4,4′-[2-(4-carboxyphenyl)ethane-1,1-diyl]dibenzoic acid <br>
+(the preferred IUPAC name multiplies more identical parent structures. ‘3’ vs. ‘2’)
+ru: 4,4′,4′′-(этан-1,1,2-триил)трибензойная кислота (PIN) <br>
+4,4′-[2-(4-карбоксифенил)этан-1,1-диил]дибензойная кислота <br>
+(предпочтительное название ИЮПАК умножает больше идентичных исходных структур. «3» против «2»)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;C6H5-C<`|C6H5><|C6H5>--O--C<`|C6H5><|C6H5>--S--C<`|C6H5@n(1)><|C6H5@n(1'',90,.8)>_(x1.6)C6H5@n(1',-70)
+$>
+
+en: 1,1′,1′′-({[diphenyl(triphenylmethoxy)methyl]sulfanyl}methanetriyl)tribenzene (PIN)  <br>
+[not 1,1′-{(triphenylmethoxy)[(triphenylmethyl)sulfanyl]methylene}dibenzene; <br>
+not 1,1′,1′′-({diphenyl[(triphenylmethyl)sulfanyl]methoxy}methanetriyl)tribenzene;  <br>
+the preferred IUPAC name is lower alphanumerically; ‘diphenyltriphenylmethoxy’ is lower than 
+‘diphenyltriphenylmethyl’] 
+ru: 1,1′,1′′-({[дифенил(трифенилметокси)метил]сульфанил}метантриил)трибензол (PIN) <br>
+[не 1,1′-{(трифенилметокси)[(трифенилметил)сульфанил]метилен}дибензол; <br>
+не 1,1′,1′′-({дифенил[(трифенилметил)сульфанил]метокси}метантриил)трибензол; <br>
+предпочтительное название ИЮПАК меньше по буквенно-цифровому обозначению; «дифенилтрифенилметокси» меньше, 
+чем «дифенилтрифенилметил»]
+
+@End
+
+#P-15.3.3.2.2+ 
+en: Seniority order of classes (see P-41) is used when a choice has to be made between a parent structure and a 
+component of a multiplicative group. 
+ru: Порядок старшинства классов (см. P-41) используется, когда необходимо сделать выбор между исходной структурой 
+и компонентом мультипликативной группы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-N@n(2)=N@n(1)-CO-N@n(1',-80)=N-C6H5
+$>
+
+en: bis(phenyldiazenyl)methanone (PIN)  <br>
+[not 1,1′-carbonylbis(2-phenyldiazene);  <br>
+not 1,1′-[carbonylbis(diazenediyl)]dibenzene;  <br>
+ketone is senior to ‘diazene’ which is senior to the carbocycle ‘benzene’, see P-41] 
+ru: бис(фенилдиазенил)метанон (PIN) <br>
+[не 1,1′-карбонилбис(2-фенилдиазен); <br>
+не 1,1′-[карбонилбис(диазенедиил)]дибензол; <br>
+кетон старше «диазена», который старше карбоцикла «бензол», см. P-41]
+
+@End
+
+#P-15.3.4 
+en: Limitations of multiplicative nomenclature 
+ru: Ограничения мультипликативной номенклатуры
+
+en: Multiplicative nomenclature is not used in the following circumstances. When multiplicative nomenclature is not 
+possible, substitutive nomenclature is used to generate preferred IUPAC names. 
+ru: Мультипликативная номенклатура не используется в следующих случаях. Когда мультипликативная номенклатура невозможна, 
+для создания предпочтительных названий ИЮПАК используется замещающая номенклатура.
+
+@Content
+
+#P-15.3.4.1 
+en: Disallowed multiplicative substituent groups. 
+ru: Запрещенные мультипликативные замещающие группы.
+
+en: Three different types of multiplicative substituent groups are not allowed in multiplicative nomenclature. 
+ru: Три различных типа мультипликативных замещающих групп не допускаются в мультипликативной номенклатуре.
+
+#P-15.3.4.1.1+ 
+en: Unsymmetrical substituent groups consisting of two or more different components: 
+ru: Несимметричные замещающие группы, состоящие из двух или более различных компонентов:
+
+// Здесь возможно не очень удачный перенос части текста из колонки №3 в колонку №2
+@Examples 3
+
+@cell
+(1)
+
+@cell
+en: <% f %> as in 
+ru: <% f %> как в
+%f: <$ –CH2-OO– $>
+
+@cell
+<$ H3Si-SiH2-CH2-OO-SiH2-SiH3 $>
+
+en: [(disilanylmethyl)peroxy]disilane (PIN) <br>
+not [(disilanylperoxy)methyl]disilane; 
+ru: [(дисиланилметил)перокси]дисилан (PIN) <br>
+не [(дисиланилперокси)метил]дисилан;
+
+@cell
+
+@cell colspan=2
+en: ‘disilanylmethylperoxy’ precedes ‘disilanylperoxymethyl’ in alphanumerical order (see P-14.5) <br>
+not 3,4-dioxa-1,2,6,7-tetrasilaheptane;  <br>
+four hetero units are required for a skeletal replacement name (see P-51.4)
+ru: «дисиланилметилперокси» предшествует «дисиланилпероксиметилу» в алфавитно-цифровом порядке (см. P-14.5) <br>
+[не 3,4-диокса-1,2,6,7-тетрасилагептан; <br>
+для названия скелетной замены требуется четыре гетероединицы (см. P-51.4)]
+
+@cell
+(2)
+
+@cell
+en: <% f %> as in 
+ru: <% f %> как в
+%f: <$ –CH2-NH– $>
+
+@cell
+<$ `//`-`\\<`-HO>/=\-CH2-NH_(h){}-/=\<-OH>`//`-`\\ $>
+
+en: 4-[(4-hydroxyanilino)methyl]phenol (PIN) <br>
+[not 4-{[(4-hydroxyphenyl)methyl]amino}phenol;
+ru: 4-[(4-гидроксианилино)метил]фенол (PIN) <br>
+[не 4-{[(4-гидроксифенил)метил]амино}фенол;
+
+@cell
+
+@cell colspan=2
+en: ‘hydroxyanilinomethyl’ precedes ‘hydroxyphenylmethylamino’ in alphanumerical order (see P-14.5)] 
+ru: «гидроксианилинометил» предшествует «гидроксифенилметиламино» в алфавитно-цифровом порядке (см. P-14.5)]
+
+@cell
+(3)
+
+@cell
+en: <% f %> as in 
+ru: <% f %> как в
+%f: <$ –O-CH2-CH2-S– $>
+
+@cell
+<$ H3Si-SiH2-O-CH2-CH2-S-SiH2-SiH3 $>
+
+en: 3-oxa-6-thia-1,2,7,8-tetrasilaoctane (PIN)  <br>
+{[2-(disilanyloxy)ethyl]sulfanyl}disilane <br>
+[not [2-(disilanylsulfanyl)ethoxy]disilane; 
+ru: 3-окса-6-тиа-1,2,7,8-тетрасилаоктан (PIN) <br>
+{[2-(дисиланилокси)этил]сульфанил}дисилан <br>
+[не [2-(дисиланилсульфанил)этокси]дисилан;
+
+@cell
+
+@cell colspan=2
+en: ‘disilanyloxy’ precedes ‘disilanylsulfanyl’ in alphanumerical order; see P-14.5] 
+ru: «дисиланилокси» предшествует «дисиланилсульфанилу» в алфавитно-цифровом порядке; см. P-14.5]
+
+@End
+
+#P-15.3.4.1.2+ 
+en: Unsymmetrical substituent groups having terminal atoms with different types of free valencies: 
+ru: Несимметричные замещающие группы, имеющие концевые атомы с различными типами свободных валентностей:
+
+@Examples 3
+
+@cell
+(1)
+
+@cell
+en: <% f %> as in 
+ru: <% f %> как в
+%f: <$ –CH= $>
+
+@cell
+<$ `//`-`\\/=\-CH_(N2,x1.5)/-\`/`-`\ $>
+
+en: (cyclohexylidenemethyl)benzene (PIN) 
+ru: (циклогексилиденметил)бензол (PIN)
+
+@cell
+
+@cell colspan=2
+en: [not (phenylmethylidene)cyclohexane; benzene is senior to cyclohexane (see P-44.4.1.1)] 
+ru: [не (фенилметилиден)циклогексан; бензол старше циклогексана (см. P-44.4.1.1)]
+
+@cell
+(2)
+
+@cell
+en: <% f %> as in 
+ru: <% f %> как в
+%f: <$ –CH2-CH=N-CH2-CH= $>
+// Неизвестно почему, но предыдущий фрагмент не соответствует следующей формуле. Отсутствует двойная связь в конце
+
+@cell
+<$ `/`-`\<`-HO>/-\-CH2-CH=N-CH2-CH2_(x1.5)/-\<-OH>`/`-`\ $>
+
+@cell
+
+@cell colspan=2
+en: 4-(2-{[2-(4-hydroxycyclohexyl)ethylidene]amino}ethylidene)cyclohexan-1-ol (PIN) <br>
+[not 4-(2-{[2-(4-hydroxycyclohexylidene)ethyl]imino}ethyl)cyclohexan-1-ol; <br>
+‘(hydroxycyclohexyl)ethylidene’ precedes ‘(hydroxycyclohexylidene)ethyl’
+in alphanumerical order; see P-14.5] 
+ru: 4-(2-{[2-(4-гидроксициклогексил)этилиден]амино}этилиден)циклогексан-1-ол (PIN) <br>
+[не 4-(2-{[2-(4-гидроксициклогексилиден)этил]имино}этил)циклогексан-1-ол; <br>
+‘(гидроксициклогексил)этилиден’ предшествует ‘(гидроксициклогексилиден)этил’ <br>
+в алфавитно-цифровом порядке; см. P-14.5]
+
+@End
+
+#P-15.3.4.1.3+ 
+en: Unsymmetrically substituted component units:  
+ru: Несимметрично замещенные составные части:
+
+@Examples 3
+en: Example:
+ru: Пример:
+
+@cell
+(1)
+
+@cell
+en: <% f %> as in 
+ru: <% f %> как в
+%f: <$ {}-CH2-CH<`|Cl>-O-CH2-CH<`|Cl>-{} $>
+
+@cell
+<$ `/`=`\<`-HOOC>//-\\-CH2-CH<`|Cl>-O-CH2-CH<`|Cl>_(x1.5)/=\<-COOH>`//`-`\\ $>
+
+@cell
+
+@cell colspan=2
+en:  4-{2-[2-(4-carboxyphenyl)-1-chloroethoxy]-1-chloroethyl}benzoic acid (PIN)  <br>
+[not 4-{2-[2-(4-carboxyphenyl)-2-chloroethoxy]-2-chloroethyl}benzoic acid; <br>
+‘1-chloroethoxy’ precedes ‘2-chloroethoxy’ in alphanumerical order; see P-45.5] 
+ru: 4-{2-[2-(4-карбоксифенил)-1-хлорэтокси]-1-хлорэтил}бензойная кислота (PIN) <br>
+[не 4-{2-[2-(4-карбоксифенил)-2-хлорэтокси]-2-хлорэтил}бензойная кислота; <br>
+«1-хлорэтокси» предшествует «2-хлорэтокси» в алфавитно-цифровом порядке; см. P-45.5]
+
+@End
+
+#P-15.3.4.2 
+en: Disallowed identical units
+ru: Запрещенные идентичные единицы
+
+en: Acyclic hydrocarbons, saturated or unsaturated, are not allowed as parent structures in multiplicative nomenclature [see 
+P-15.3.1.1 (b)]. 
+ru: Ациклические углеводороды, насыщенные или ненасыщенные, не допускаются в качестве родительских структур 
+в мультипликативной номенклатуре [см. P-15.3.1.1 (b)].
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-S-C<`||CH-S-CH2-CH3>-S-CH2-CH2-CH3 $>
+
+en: 1-{[2-(ethylsulfanyl)-1-(propylsulfanyl)ethen-1-yl]sulfanyl}propane (PIN; substitutive name) <br>
+(not 1,1′-{[2-(ethylsulfanyl)ethene-1,1-diyl]bis(sulfanyl)}dipropane; <br>
+alkanes are still not allowed to be identical units)
+ru: 1-{[2-(этилсульфанил)-1-(пропилсульфанил)этен-1-ил]сульфанил}пропан (PIN; замещающее название) <br>
+(не 1,1′-{[2-(этилсульфанил)этен-1,1-диил]бис(сульфанил)}дипропан; <br>
+алканы по-прежнему не могут быть идентичными единицами)
+
+@End
