@@ -1,0 +1,415 @@
+#P-16.9 
+en: Primes
+ru: Штрихи
+
+en: In preferred IUPAC names, primes, double primes, etc., sometimes with superscripted arabic numbers that are 
+the locants of the parent structure to which a group is attached, are added to locants and symbols without a 
+space and are not italicized even after italic fonts. When more than three primes are required, they are cited in 
+group of threes. 
+ru: В предпочтительных названиях ИЮПАК штрихи, двойные штрихи и т. д., иногда с надстрочными арабскими цифрами, 
+которые являются локантами исходной структуры, к которой присоединена группа, добавляются к локантам и символам 
+без пробела и не выделяются курсивом даже после курсивных шрифтов. Когда требуется более трех штрихов, они цитируются 
+группами по три.
+
+#P-16.9.1+
+en: Primes (′), double primes (′′), triple primes (′′′), etc. are used to differentiate the nitrogen atoms of 
+hydrazides (P-66.3), imidamides (amidines) (see P-66.4.1), hydrazonamides (amidrazones) (see P-66.4.2), and 
+hydrazonohydrazides (hydrazidines) (see P-66.4.3). 
+ru: Штрихи (′), двойные штрихи (′′), тройные штрихи (′′′) и т. д. используются для дифференциации атомов азота 
+гидразидов (P-66.3), имидамидов (амидинов) (см. P-66.4.1), гидразонамидов (амидразонов) (см. P-66.4.2) и 
+гидразоногидразидов (гидразидинов) (см. P-66.4.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-C(O)-N@n(N,90)<`|H3C>-N@n(N',85)<`|CH2-CH3>-C(O)-CH3
+$>
+
+en: _N_′-acetyl-_N_′-ethyl-_N_-methylbutanehydrazide (PIN, P-66.3.3.2)
+ru: _N_′-ацетил-_N_′-этил-_N_-метилбутангидразид (PIN, P-66.3.3.2)
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-NH@n(N)-NH2@n(N')
+$>
+
+en: pentanehydrazide (PIN, P-66.3.1.1)
+ru: пентангидразид (PIN, P-66.3.1.1)
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-C@n(1,90)<`||NH@n(N')>-NH2@n(N,90)
+$>
+
+en: hexanimidamide (PIN, P-66.4.1.1) <br>
+(no longer hexanamidine) 
+ru: гексанимидамид (PIN, P-66.4.1.1) <br>
+(больше не гексанамидин)
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-C<-NH2@n(N,90)>`||mN-NH2@n(N')
+$>
+
+en: benzenecarbohydrazonamide (PIN, P-66.4.2.1)
+ru: бензолкарбогидразонамид (PIN, P-66.4.2.1)
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-C(=N-NH2:a)-NH@n(N)-NH2@n(N'); #a@n(N'',-80)
+$>
+
+en: butanehydrazonohydrazide (PIN, P-66.4.3.1)
+ru: бутангидразоногидразид (PIN, P-66.4.3.1)
+
+@End
+
+#P-16.9.2+
+en: Superscript arabic numbers, which are the locants of the parent structure, are used to differentiate the 
+nitrogen atoms of di- and polyamines, di- and polyimines, di- and polyamides, except for geminal amines, imines, 
+and amides.
+ru: Надстрочные арабские цифры, которые являются локантами исходной структуры, используются для различения атомов азота 
+ди- и полиаминов, ди- и полииминов, ди- и полиамидов, за исключением геминальных аминов, иминов и амидов.
+
+@p .framed
+en: Superscript arabic numbers are now used to differentiate the nitrogen atoms of symmetrical diamines, diimines, 
+diamides, di(imidamides), di(amidines), di(hydrazonamides), di(amidrazones), di(hydrazonohydrazides), 
+imidohydrazides, and polyimidopolycarbonic and inorganic oxoacids, where primes (′), double primes (′′), triple 
+primes (′′′), etc. were formerly used.
+ru: Надстрочные арабские цифры теперь используются для различения атомов азота симметричных диаминов, дииминов, диамидов, 
+ди(имидамидов), ди(амидинов), ди(гидразонамидов), ди(амидразонов), ди(гидразоногидразидов), имидогидразидов, а также 
+полиимидополикарбоновых и неорганических оксокислот, тогда как ранее использовались штрихи (′), двойные штрихи (′′), 
+тройные штрихи (′′′) и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(N^2,-75)-CH2@n(2)-CH2@n(1)-NH@n(N^1,-75)-CH2-CH3
+$>
+
+en: _N_^{1}-ethyl-_N_^{2}-methylethane-1,2-diamine (PIN, P-62.2.4.1.2) <br>
+_N_-ethyl-_N_′-methylethane-1,2-diamine
+ru: _N_^{1}-этил-_N_^{2}-метилэтан-1,2-диамин (PIN, P-62.2.4.1.2) <br>
+_N_-этил-_N_′-метилэтан-1,2-диамин
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||\@n(4,-90,.5)|mN@n(N^4,75,.7)<-CH3>`|/`||`\@n(1,90,.5)`|mN@n(N^1,-75)<-CH3>|`/
+$>
+
+en: _N_^{1},_N_^{4}-dimethylnaphthalene-1,4-diimine (PIN, P-62.3.1.1) <br>
+_N_,_N_′-dimethylnaphthalene-1,4-diimine (see also P-58.2.2.3) <br>
+_N_,_N_′-dimethyl-1,4-dihydronaphthalene-1,4-diimine
+ru: _N_^{1},_N_^{4}-диметилнафталин-1,4-диимин (PIN, P-62.3.1.1) <br>
+_N_,_N_′-диметилнафталин-1,4-диимин (см. также P-58.2.2.3) <br>
+_N_,_N_′-диметил-1,4-дигидронафталин-1,4-диимин
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(N^5,-75)-CO@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-NH@n(N^1,-75)-CH3
+$>
+
+en: _N_^{1},_N_^{5}-dimethylpentanediamide (PIN, P-66.1.1.3.1.1) <br>
+_N_,_N_′-dimethylpentanediamide 
+ru: _N_^{1},_N_^{5}-диметилпентандиамид (PIN, P-66.1.1.3.1.1) <br>
+_N_,_N_′-диметилпентандиамид
+
+@cell
+<$
+@:n(n,a:-85,L:0.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)H3C@n(5)-CH@n(4,85)<`|NH@n(N^4,-75)`-H3C>-CH2@n(3)-C@n(2,-125,.6)<|CH3><`|NH2@n(N^2,-75)>-CH3@n(1)
+$>
+
+en: _N_^{4},2-dimethylpentane-2,4-diamine (PIN, P-62.2.4.1.2)
+ru: _N_^{4},2-диметилпентан-2,4-диамин (PIN, P-62.2.4.1.2)
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(1,90)<`||mNH@n(N^1,-75)>-O@n(2,90)-C@n(3,90)<`||mNH@n(N^3,-75)>-OH
+$>
+
+en: 1,3-diimidodicarbonic acid (PIN, P-65.2.3.1.2.1)
+ru: 1,3-диимидодикарбоновая кислота (PIN, P-65.2.3.1.2.1)
+
+@End
+
+en: Superscript arabic numbers are also used to differentiate the chalcogen atoms in polynuclear organic and 
+inorganic oxoacids.
+ru: Надстрочные арабские цифры также используются для различения атомов халькогенов в многоядерных органических 
+и неорганических оксокислотах.
+
+@p .framed
+en: The use of superscripted letter locants is a change from previous practice where numerical locants were placed in 
+front of the letter locants such as 1-_O_ and 3-_O_, as described in ref. 1, Rule C-213.1.
+ru: Использование надстрочных буквенных локантов является изменением по сравнению с предыдущей практикой, когда 
+числовые локанты размещались перед буквенными локантами, такими как 1-_O_ и 3-_O_, как описано в ссылке 1, Правило C-213.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CO@n(3)-O@n(2)-CO@n(1)-SH
+$>
+
+en: 1,3-dithiodicarbonic _S_^{1},_S_^{3}-acid <br>
+(not 1,3-dithiodicarbonic 1-_S_,3-_S_-acid) 
+ru: 1,3-дитиодикарбоновая _S_^{1},_S_^{3}-кислота <br>
+(не 1,3-дитиодикарбоновая 1-_S_,3-_S_-кислота)
+
+@End
+
+#P-16.9.3+
+en: Primes (′), double primes (′′), triple primes (′′′), etc., with superscripted numerical locants indicating 
+the position of the suffix on the parent structure, are used to differentiate the nitrogen atoms in cases other than 
+those listed in P-16.9.1 and P-16.9.2, above, especially when symmetry conditions are not fulfilled.
+ru: Штрихи (′), двойные штрихи (′′), тройные штрихи (′′′) и т. д. с надстрочными числовыми локантами, указывающими 
+положение суффикса в родительской структуре, используются для дифференциации атомов азота в случаях, отличных от 
+перечисленных в P-16.9.1 и P-16.9.2 выше, особенно когда не выполняются условия симметрии.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-85,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)CH3@n(1)-CH2@n(2)-C@n(3,-125,.7)<`|NH@n(N^3,-75)-CH2-CH3><|NH@n(N'^3,75,.8)-CH3>-CH2@n(4)-CH2@n(5)-CH3@n(6)
+$>
+
+en: _N_^{3}-ethyl-_N_′^{3}-methylhexane-3,3-diamine (PIN, P-62.2.4.1.2) <br>
+_N_-ethyl-_N_′-methylhexane-3,3-diamine 
+ru: _N_^{3}-этил-_N_′^{3}-метилгексан-3,3-диамин (PIN, P-62.2.4.1.2) <br>
+_N_-этил-_N_′-метилгексан-3,3-диамин
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-NH@n(N''^1,70,0.8)-C<`||mNH@n(N'''^1,-70,.7)>_(A%a:55,L%d:1.1)@n(1,90,.5)\|`/`\`|/_(A-%a,L%d)C<`||mNH@n(N'^1,-70,.7)>-N@n(N^1,85,.8)(CH3)2
+$>
+
+en: _N_′′^{1}-ethyl-_N_^{1},_N_^{1}-dimethylcyclohexane-1,1-dicarboximidamide (PIN, P-66.4.1.1 and P-66.4.1.4.2) <br>
+_N_′′-ethyl-_N_,_N_-dimethylcyclohexane-1,1-dicarboximidamide 
+ru: _N_′′^{1}-этил-_N_^{1},_N_^{1}-диметилциклогексан-1,1-дикарбоксимидамид (PIN, P-66.4.1.1 и P-66.4.1.4.2) <br>
+_N_′′-этил-_N_,_N_-диметилциклогексан-1,1-дикарбоксимидамид
+
+@cell
+<$
+@:n(n,a,L:.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(N^1,80,.8)-C@n(1,90)<`||mN`-H2N@n(N'^1,-70)>-C@n(2,90)<`||mN@n(N'^2,-70)-NH2>-NH2@n(N^2,80,.8)
+$>
+
+en: ethanedihydrazonamide (PIN, P-66.4.2.1)
+ru: этандигидразонамид (PIN, P-66.4.2.1)
+
+@cell
+<$
+@:n(n,a:80,L:.8)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(N'^1)-NH@n(N^1)-C@n(1,90)<`||mHN@n(N''^1,-95,.7)>-C@n(2,90)<`||NH@n(N''^2,-65,.7)>-NH@n(N^2)-NH2@n(N'^2)
+$>
+
+en: ethanediimidohydrazide (PIN, P-66.4.2.1) 
+ru: этандиимидогидразид (PIN, P-66.4.2.1)
+
+@cell
+<$
+@:n(n,a:80,L:.8)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(N'^1)-NH@n(N^1)-C@n(1,90)<`||mN`-H2N@n(N''^1,-70,.7)>-C@n(2,90)<`||mN-NH2@n(N''^2,-70,.7)>-NH@n(N^2)-NH2@n(N'^2)
+$>
+// Очевидно, что в оригинале ошибка в формуле. Лишний символ H:
+// -NH    Потому что N должен быть 3-валентным, а не 4.
+//  ║     Кроме того, судя по названию, обе ветки должны быть идентичные.
+// PS. в справочниках данного вещества нет.
+
+en: ethanedihydrazonohydrazide (PIN, P-66.4.3.1) 
+ru: этандигидразоногидразид (PIN, P-66.4.3.1)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)CH3-NH-CH2@n(1)-CH2@n(2)-C@n(3,-115,.6)<`|NH@n(N'^3,-70,.7)-CH3><|NH@n(N^3,75,.8)-CH2-CH3>-CH2@n(4)-CH2@n(5)-CH2@n(6)-NH2
+$>
+
+en: _N_^{3}-ethyl-_N_^{1},_N_′^{3}-dimethylhexane-1,3,3,6-tetramine (PIN, P-62.2.4.1.2) <br>
+_N_^{3}-ethyl-_N_^{1},_N_′^{3}-dimethyl(hexane-1,3,3,6-tetrayltetraamine) 
+ru: _N_^{3}-этил-_N_^{1},_N_′^{3}-диметилгексан-1,3,3,6-тетрамин (PIN, P-62.2.4.1.2) <br>
+_N_^{3}-этил-_N_^{1},_N_′^{3}-диметил(гексан-1,3,3,6-тетраилтетрамин)
+
+@cell
+<$
+@:n(n,a:80,L:.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nx(t)@n(N^{&t},-75,.7)@;
+CH3@n(5')-CH@n(4')<`|H2N@nx(4')>-CH@n(3')<`|NH2@nx(3')>-CH2@n(2')-CH2@n(1')-NH@nx(1')-CH2-NH@nx(1)-CH2@n(1)-CH2@n(2)-CH@n(3)<`|H2N@nx(3)>-CH@n(4)<`|NH2@nx(4)>-CH3@n(5)
+$>
+
+en: _N_^{1},_N_^{1′}-methylenedi(pentane-1,3,4-triamine) (PIN, P-62.2.5.2)
+ru: _N_^{1},_N_^{1′}-метиленди(пентан-1,3,4-триамин) (PIN, P-62.2.5.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nx(t)@n(N^{&t},-75,.7)@;
+CH3-NH@nx(3)-CO-CH2@n(3)-CH2@n(2)-CH@n(1,-120,.65)<_(y-1.5)CO-N@nx(1)(CH3)2>_(x1.4)CO-NH@n(N'^1,-70)-CH2-CH3
+$>
+
+en: _N_′^{1}-ethyl-_N_^{1},_N_^{1},_N_^{3}-trimethylpropane-1,1,3-tricarboxamide (PIN, P-66.1.1.3.1.2)
+ru: _N_′^{1}-этил-_N_^{1},_N_^{1},_N_^{3}-триметилпропан-1,1,3-трикарбоксамид (PIN, P-66.1.1.3.1.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(N^1,-75)<(CH2-CH3)2>|C<=mN@n(N'^1,75,.75)-CH3>_(y1.2)@n(1,-125,.4)\\@n(2,-30,.4)|@n(3,90,.5)<`//`\`/`\\`|//\|`|/>_(A30)C<|N@n(N^3,85,.8)(CH3)2>_(x1,N2)N@n(N'^3,-70,.7)-CH2-CH3
+$>
+
+en: _N_^{1},_N_^{1},_N_′^{3}-triethyl-_N_′^{1},_N_^{3},_N_^{3}-trimethylnaphthalene-1,3-dicarboximidamide (PIN, P-66.4.1.4.1)
+ru: _N_^{1},_N_^{1},_N_′^{3}-триэтил-_N_′^{1},_N_^{3},_N_^{3}-триметилнафталин-1,3-дикарбоксимидамид (PIN, P-66.4.1.4.1)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nt(t)@n(N&t,-70,.7)@;
+`\\`/||\//@n(2,90,.5)<_(A30)CO-NH@nt(^2)-NH2@nt(′^2)>`|@n(1,-90,.5)_(A-30)CO-NH@nt(^1)-NH2@nt(′^1)
+$>
+
+en: benzene-1,2-dicarbohydrazide (PIN, P-66.3.1.2.2)
+ru: бензол-1,2-дикарбогидразид (PIN, P-66.3.1.2.2)
+
+@End
+
+#P-16.9.4+
+en: Primes (′), double primes (′′), triple primes (′′′), etc., are also used to differentiate identical locants other 
+than _N_ locants, for example 1, 1′, 1′′, 4′a (not 4a′; for fusion locants, primes are added after the number, not after 
+the letter). Such usage occurs:
+ru: Штрихи (′), двойные штрихи (′′), тройные штрихи (′′′) и т. д. также используются для различения идентичных локантов, 
+отличных от _N_ локантов, например 1, 1′, 1′′, 4′a (не 4a′; для локантов слияния штрихи добавляются после цифры, а не после 
+буквы). Такое использование встречается:
+
+#(a)
+en: in multiplicative nomenclature to denote multiplied units and modify locants accordingly; 
+ru: в мультипликативной номенклатуре для обозначения умноженных единиц и соответствующей модификации локантов;
+
+@Examples
+
+@cell
+en: 2,2′,2′′-nitrilotri(ethan-1-ol) (PIN, P-15.3.2.1)
+ru: 2,2′,2′′-нитрилотри(этан-1-ол) (PIN, P-15.3.2.1)
+
+@End
+
+#(b)
+en: in spiro-fused compounds, to denote positions in polycyclic systems, identical or different; 
+ru: в спиросоединениях для обозначения положений в полициклических системах, одинаковых или разных;
+
+@Examples
+
+@cell
+en: 7,7′-spirobi[bicyclo[4.1.0]heptane] (PIN, P-24.3.1) 
+ru: 7,7′-спироби[бицикло[4.1.0]гептан] (PIN, P-24.3.1)
+
+@cell
+en: 1_H_,1′_H_,1′′_H_,3′_H_-2,2′:7′,2′′-dispiroter[naphthalene] (PIN, P-24.4.1) 
+ru: 1_H_,1′_H_,1′′_H_,3′_H_-2,2′:7′,2′′-диспиротер[нафталин] (PIN, P-24.4.1)
+
+@cell
+en: spiro[cyclohexane-1,1′-indene] (PIN, P-24.5.1)
+ru: спиро[циклогексан-1,1′-инден] (PIN, P-24.5.1)
+
+@End
+
+#(c)
+en: in ring assemblies, to number identical ring components;
+ru: в кольцевых сборках для нумерации идентичных компонентов кольца;
+
+@Examples
+
+@cell
+en: 1,1′-bi(cyclopropane) (PIN, P-28.2.1) 
+ru: 1,1'-би(циклопропан) (PIN, P-28.2.1)
+
+@cell
+en: 1,1′-biphenyl (PIN, P-28.2.1) 
+ru: 1,1′-бифенил (PIN, P-28.2.1)
+
+@cell
+en: 3a,3′a-biindene (PIN, P-28.2.3) 
+ru: 3a,3'a-биинден (PIN, P-28.2.3)
+
+@End
+
+#P-16.9.5
+en: Primes also occur:
+ru: Штрихи также встречаются:
+
+#(a)
+en: in fusion nomenclature, to identify first and higher attached components, identical attached components, and 
+multiparent names; 
+ru: в номенклатуре слияний для идентификации первых и более высоких присоединенных компонентов, идентичных 
+присоединенных компонентов и многородительских имен;
+
+@Examples
+
+@cell
+en: pyrido[1′′,2′′:1′,2′]imidazo[4′,5′:5,6]pyrazino[2,3-_b_]phenazine (PIN, P-25.3.4.1.1) 
+ru: пиридо[1′′,2′′:1′,2′]имидазо[4′,5′:5,6]пиразино[2,3-_b_]феназин (PIN, P-25.3.4.1.1)
+
+@cell
+en: difuro[3,2-_b_:2′,3′-_e_]pyridine (PIN, P-25.3.4.1.2) 
+ru: дифуро[3,2-_b_:2',3'-_e_]пиридин (PIN, P-25.3.4.1.2)
+
+@cell
+en: cyclopenta[1,2-_b_:5,1-_b_′]bis([1,4]oxathiine) (PIN, P-25.3.7.1) 
+ru: циклопента[1,2-_b_:5,1-_b_′]бис([1,4]оксатиин) (PIN, P-25.3.7.1)
+
+@End
+
+#(b)
+en: in fullerenes ortho-fused to organic ring or ring systems, to identify positions in the nonfullerene component; 
+ru: в фуллеренах, орто-конденсированных с органическим кольцом или кольцевыми системами, для определения позиций 
+в нефуллереновом компоненте;
+
+@Examples
+
+@cell
+en: 3′_H_-cyclopropa[1,9](C_{60}-_I__{h})[5,6]fullerene (PIN, P-27.6.1) 
+ru: 3′_H_-циклопропа[1,9](C_{60}-_I__{h})[5,6]фуллерен (PIN, P-27.6.1)
+
+@End
+
+#(c)
+en: in natural product nomenclature, to identify positions in ring(s) fused to a fundamental parent hydride;
+ru: в номенклатуре природных продуктов для обозначения позиций в кольце(ах), конденсированных с фундаментальным 
+исходным гидридом;
+
+@Examples
+
+@cell
+en: naphtho[2′,1′:2,3]-5α-androstane (P-101.5.1.1)
+ru: нафто[2′,1′:2,3]-5α-андростан (P-101.5.1.1)
+
+@End
+
+#P-16.9.6
+en: Multiple primes
+ru: Множественные штрихи
+
+en: Long strings of primes may be needed with ring assemblies and polyspiro compound. It is difficult to count long 
+streams of primes. For example, how many primes appear in this string: <% s1 %> ? It is eight. In these 
+recommendations, to simplify the counting process, long strings of primes are broken into groups of three as: 
+<% s2 %>, which has the same number of primes as the string above. This is a change from the publication on spiro 
+compounds (ref. 8) in which multiple primes were separated by a space after every four primes. 
+ru: Длинные строки штрихов могут потребоваться для кольцевых сборок и полиспиросоединения. Сложно подсчитать 
+длинные потоки штрихов. Например, сколько простых чисел появляется в этой строке: ​​​​​<% s1 %> ? Их восемь. 
+В этих рекомендациях для упрощения процесса подсчета длинные строки простых чисел разбиваются на группы по три, 
+как: <% s2 %>, которые имеют то же количество простых чисел, что и строка выше. Это изменение по сравнению с публикацией 
+о спиросоединениях (ссылка 8), в которой несколько простых чисел разделялись пробелом после каждых четырех простых чисел.
+%s1: ′′′′′′′′
+%s2: ′′′&nbsp;′′′&nbsp;′′

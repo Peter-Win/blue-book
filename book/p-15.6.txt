@@ -1,0 +1,588 @@
+#P-15.6 
+en: Conjunctive nomenclature 
+ru: Конъюнктивная номенклатура
+
+#P-15.6.0
+en: Introduction
+ru: Введение
+
+en: Conjunctive nomenclature is based essentially on the conjunctive operation, by which a compound is formally 
+constructed by subtracting the same number of hydrogen atoms from each component at each site where joined. It is 
+traditionally reserved for naming compounds having a principal group attached to an acyclic component that is also 
+directly attached by a carbon-carbon bond to a cyclic component. This method can be used in general nomenclature as 
+an alternative to substitutive nomenclature, but it is not recommended for generating preferred IUPAC names (see 
+P-51.5). The names have been modified (ref. 2) so that the placement of locants in the conjunctive names is consistent 
+with the placement of locants in names as established in these recommendations (see P-14.3.2). Other aspects of 
+conjunctive nomenclature used in CAS index nomenclature are discussed here briefly, including its limitations 
+(P-15.6.2). 
+ru: Конъюнктивная номенклатура основана по существу на конъюнктивной операции, с помощью которой соединение формально 
+конструируется путем вычитания одинакового числа атомов водорода из каждого компонента в каждом месте соединения. 
+Он традиционно зарезервирован для наименования соединений, имеющих основную группу, присоединенную к ациклическому 
+компоненту, который также непосредственно присоединен углерод-углеродной связью к циклическому компоненту. Этот метод 
+может использоваться в общей номенклатуре как альтернатива заместительной номенклатуре, но он не рекомендуется для 
+создания предпочтительных названий ИЮПАК (см. P-51.5). Названия были изменены (ссылка 2) таким образом, чтобы 
+размещение локантов в конъюнктивных названиях соответствовало размещению локантов в названиях, как установлено в этих 
+рекомендациях (см. P-14.3.2). Другие аспекты конъюнктивной номенклатуры, используемые в номенклатуре индекса CAS, 
+кратко обсуждаются здесь, включая ее ограничения (P-15.6.2).
+
+#P-15.6.1 
+en: Name formation
+ru: Формирование имени
+
+#P-15.6.1.1+
+en: Names are formed by juxtaposition of component names. The name of the cyclic component is cited first 
+followed by the systematic or retained name of the component to which the principal characteristic group is attached. 
+ru: Имена образуются путем сопоставления имен компонентов. Имя циклического компонента приводится первым, за которым 
+следует систематическое или сохраненное имя компонента, к которому присоединена основная характеристическая группа.
+
+@Examples
+
+@cell
+<$ |`/`\`|/\_(A-30)CH2-OH $>
+
+en: cyclohexanemethanol <br>
+cyclohexylmethanol (PIN) 
+ru: циклогексанметанол <br>
+циклогексилметанол (PIN)
+
+@cell
+<$ |`//`\`||/\\_(A-30)CH2-COOH $>
+
+en: benzeneacetic acid <br>
+phenylacetic acid (PIN)
+ru: бензолуксусная кислота <br>
+фенилуксусная кислота (PIN)
+
+@End
+
+#P-15.6.1.2+
+en: When necessary, the position of attachment of the side chain to the cyclic component is given by the 
+appropriate locant placed before the name of the cyclic component, unless locants for structural features referring to the 
+cyclic component, such as heteroatoms and indicated hydrogen, are already there; in this case the locant follows the 
+name of the cyclic component. Since the acyclic component must terminate at the cyclic component, it is not necessary 
+to give its locant of attachment. Carbon atoms of the side chain are indicated by Greek letters proceeding from the 
+principal characteristic group to the cyclic component; these locants are used in the name only to locate other 
+substituents on the side chain. The carbon atom of the characteristic group (in acids, aldehydes, nitriles, etc.) is omitted 
+when allocating Greek letter locants. 
+ru: При необходимости положение присоединения боковой цепи к циклическому компоненту указывается соответствующим локантом, 
+помещенным перед названием циклического компонента, если только локанты для структурных признаков, относящихся к 
+циклическому компоненту, таких как гетероатомы и указанный водород, уже отсутствуют; в этом случае локант следует за 
+названием циклического компонента. Поскольку ациклический компонент должен заканчиваться на циклическом компоненте, 
+нет необходимости указывать его локант присоединения. Атомы углерода боковой цепи указываются греческими буквами, 
+идущими от основной характеристической группы к циклическому компоненту; эти локанты используются в названии только для 
+того, чтобы указать другие заместители на боковой цепи. Атом углерода характеристической группы (в кислотах, альдегидах, 
+нитрилах и т. д.) опускается при выделении локантов греческих букв.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/`\\`|//\|`|/@n(1,,.4)\\@n(2,30,.4)_(A-30)CH2@n([gamma])-CH2@n([beta])-CH2@n([alpha])-OH
+$>
+
+en: naphthalene-2-propanol <br>
+3-(naphthalen-2-yl)propan-1-ol (PIN) <br>
+3-(2-naphthyl)propan-1-ol 
+ru: нафталин-2-пропанол <br>
+3-(нафталин-2-ил)пропан-1-ол (PIN) <br>
+3-(2-нафтил)пропан-1-ол
+
+@cell
+<$ 
+@:n(n,a:-90,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(3,90)`-_pp_pS@n(1)_p@n(2,45,0.4)<_pp>_(a-54)CH2@n([alpha])-COOH
+$>
+
+en: 1,3-thiazole-2-acetic acid <br>
+(1,3-thiazol-2-yl)acetic acid (PIN)
+ru: 1,3-тиазол-2-уксусная кислота <br>
+(1,3-тиазол-2-ил)уксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/`\\`|//\|`|/@n(1,,.4)\\@n(2,30,.4)_(A-30)CH2@n([gamma])-CH@n([beta])<|Cl>-CH2@n([alpha])-OH
+$>
+
+en: β-chloronaphthalene-2-propanol <br>
+2-chloro-3-(naphthalen-2-yl)propan-1-ol (PIN)
+ru: β-хлорнафталин-2-пропанол <br>
+2-хлор-3-(нафталин-2-ил)пропан-1-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\@n(5,90,.5)<`/H3C>`|<`\H3C>@n(6,,.5)//\|_qq_qN@n(2,70,.6)<_q@n(1,,.4)_qq>-CH2@n([alpha])-COOH
+$>
+
+en: 5,6-dimethyl-2H-isoindole-2-acetic acid <br>
+(5,6-dimethyl-2H-isoindol-2-yl)acetic acid (PIN)
+ru: 5,6-диметил-2H-изоиндол-2-уксусная кислота <br>
+(5,6-диметил-2H-изоиндол-2-ил)уксусная кислота (PIN)
+
+@End
+
+#P-15.6.1.3+
+en: For all purposes in conjunctive nomenclature the side chain is considered to extend only from the principal 
+group to the cyclic component. Any other chain members, even those extending the side chain terminally, are named as 
+substituents, appropriate prefixes and locants being placed before the name of the cyclic component. 
+ru: Для всех целей в конъюнктивной номенклатуре боковая цепь рассматривается как простирающаяся только от основной 
+группы до циклического компонента. Любые другие члены цепи, даже те, которые расширяют боковую цепь на конце, 
+называются заместителями, соответствующие префиксы и локанты ставятся перед названием циклического компонента.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/`\\`|//\|`|/@n(1,,.4)\\@n(2,,.5)_(A-30)CH@n([gamma],90)<`|CH3>-CH2@n([beta],90)-CH2@n([alpha],90)-OH
+$>
+
+en: γ-methylnaphthalene-2-propanol <br>
+3-(naphthalen-2-yl)butan-1-ol (PIN) <br>
+3-(2-naphthyl)butan-1-ol 
+ru: γ-метилнафталин-2-пропанол <br>
+3-(нафталин-2-ил)бутан-1-ол (PIN) <br>
+3-(2-нафтил)бутан-1-ол
+
+@cell
+<$
+@:n(n,a:90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\_(A-30)CH2@n([gamma])-CH2@n([beta])-CH@n([alpha])<`|OH>-CH2-CH2-CH3
+$>
+
+en: α-propylbenzenepropanol <br>
+1-phenylhexan-3-ol (PIN)
+ru: α-пропилбензолпропанол <br>
+1-фенилгексан-3-ол (PIN)
+
+@End
+
+#P-15.6.1.4+
+en: When a cyclic component carries at least two identical side chains, multiplicative prefixes ‘di’, ‘tri’, etc., are 
+used to indicate their number; these prefixes are placed before the name of the side chain and superscript arabic 
+numbers are used for all locants on the side chain instead of primes. 
+ru: Если циклический компонент имеет по крайней мере две одинаковые боковые цепи, то для указания их количества 
+используются мультипликативные префиксы «ди», «три» и т. д.; эти префиксы ставятся перед названием боковой цепи, 
+а для всех локантов боковой цепи вместо штрихов используются надстрочные арабские цифры.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2@n([alpha]^3,70,.9)_(A-150)@n(3,,.5)`//`\`/`\\`|//\|`|/@n(1,-90,.4)\\@n(2,-90,.5)<|>_(A-30)CH2@n([alpha]^2,-70,.8)-COOH
+$>
+// Локант alpha^n соответствует локанту n нафталина
+
+en: naphthalene-2,3-diacetic acid <br>
+2,2′-(naphthalene-2,3-diyl)diacetic acid (PIN) 
+ru: нафталин-2,3-диуксусная кислота <br>
+2,2′-(нафталин-2,3-диил)диуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)HOOC-CH2@n([alpha]^5,70,.9)/@n(5,-150)`||/@n(1,-140)<`|CH2@n([alpha]^1,-70,.8)-COOH>\\|@n(3,-40)<`//`\>\CH2@n([alpha]^3,70,.9)-COOH
+$>
+
+en: benzene-1,3,5-triacetic acid <br>
+2,2′,2′′-(benzene-1,3,5-triyl)triacetic acid (PIN) 
+ru: бензол-1,3,5-триуксусная кислота <br>
+2,2′,2′′-(бензол-1,3,5-триил)триуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:n3(g,t:3)CH2@n([&g]^&t,-70,.8)@;
+@:n2(g)@n3(&g,2)@;
+N@n(1,90)/`/`\`||/\\@n(3,,.5)<_(A-30)@n3(iota)-@n3(theta)-@n3(eta)-@n3(zeta)-@n3(epsilon)-@n3(delta)-@n3(gamma)-@n3(beta)-@n3(alpha)-COOH>|@n(2,90,.5)_(A30)@n2(iota)-[CH2]7-@n2(alpha)-COOH
+$>
+
+en: pyridine-2,3-di(decanoic acid) <br>
+10,10′-(pyridine-2,3-diyl)di(decanoic acid) (PIN)
+ru: пиридин-2,3-ди(декановая кислота) <br>
+10,10'-(пиридин-2,3-диил)ди(декановая кислота) (ПИН)
+
+@End
+
+#P-15.6.1.5+
+en: When different side chains are attached to a cyclic component: 
+ru: Когда к циклическому компоненту присоединены разные боковые цепи:
+
+#(a)
+en: the chain that contains the principal characteristic group is chosen for naming by the conjunctive method; or 
+ru: цепь, содержащая основную характеристическую группу, выбирается для наименования конъюнктивным методом; или
+
+#(b)
+en: if there is more than one side chain containing the principal characteristic group, the conjunctive name that 
+expresses the greater number of the principal characteristic group is chosen. When necessary, side chains are selected 
+by applying the seniority order for selecting the principal chain (see P-44.3). 
+ru: если имеется более одной боковой цепи, содержащей основную характеристическую группу, выбирается конъюнктивное имя, 
+выражающее большее число основной характеристической группы. При необходимости боковые цепи выбираются путем применения 
+порядка старшинства для выбора основной цепи (см. P-44.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2$slope(30)`\@n(3,90)`//`\`/`\\`|//\|`|/N@n(1,-90,.6)\\@n(2,-90)<|>/CH2-CH2-CH2-OH
+$>
+
+en: 2-(3-hydroxypropyl)quinoline-3-acetic acid <br>
+[2-(3-hydroxypropyl)quinolin-3-yl]acetic acid (PIN) <br>
+(a carboxylic acid is senior to an alcohol) 
+ru: 2-(3-гидроксипропил)хинолин-3-уксусная кислота <br>
+[2-(3-гидроксипропил)хинолин-3-ил]уксусная кислота (PIN) <br>
+(карбоновая кислота старше спирта)
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)COOH`-CH2`-CH2|\|@n(3,90)<\CH2-COOH>`//`\`/`\\`|//\|`|/@n(1,-140)\@n(2,-90)/CH2-COOH
+$>
+
+en: 1-(2-carboxyethyl)naphthalene-2,3-diacetic acid <br>
+3-[2,3-bis(carboxymethyl)naphthalen-1-yl]propanoic acid (PIN) 
+ru: 1-(2-карбоксиэтил)нафталин-2,3-диуксусная кислота <br>
+3-[2,3-бис(карбоксиметил)нафталин-1-ил]пропановая кислота (PIN)
+
+@End
+
+#P-15.6.1.6+
+en: When the side chain is linked to two different cyclic components, the senior ring or ring system is selected in 
+accord with the seniority order of rings and ring systems (see P-44.2). 
+ru: Когда боковая цепь связана с двумя различными циклическими компонентами, старшее кольцо или кольцевая система 
+выбирается в соответствии с порядком старшинства колец и кольцевых систем (см. P-44.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/`\\`|//\|`|/@n(1,-90)\\@n(2,30)/CH@n([beta],-80,.8)$slope(60)<`\`-`\/-\`/>-CH2@n([alpha],-80,.8)-OH
+$>
+
+en: β-cyclohexylnaphthalene-2-ethanol <br>
+(naphthalene is senior to cyclohexane) <br>
+2-cyclohexyl-2-(naphthalen-2-yl)ethan-1-ol (PIN)
+ru: β-циклогексилнафталин-2-этанол <br>
+(нафталин старше циклогексана) <br>
+2-циклогексил-2-(нафталин-2-ил)этан-1-ол (PIN)
+
+@End
+
+#P-15.6.2
+en: Limitations of conjunctive nomenclature 
+ru: Ограничения конъюнктивной номенклатуры
+
+en: Conjunctive nomenclature is not used when:
+ru: Конъюнктивная номенклатура не используется, когда:
+
+@List
+
+@item
+en:  a double bond links the acyclic component to the ring system; 
+ru: двойная связь связывает ациклический компонент с кольцевой системой;
+
+@item
+en:  a double bond or a heteroatom is present in the side chain; 
+ru: в боковой цепи присутствует двойная связь или гетероатом;
+
+@item
+en:  two identical characteristic groups are located on the side chain provided that the condition of maximum number 
+of principal characteristic groups is not violated; 
+ru: две одинаковые характеристические группы расположены в боковой цепи при условии, что не нарушается условие 
+максимальности числа главных характеристических групп;
+
+@item
+en: characteristic groups having higher priority for citation as principal group are directly attached to the cyclic 
+component; 
+ru: группы признаков, имеющие более высокий приоритет для цитирования в качестве основной группы, напрямую 
+присоединяются к циклическому компоненту;
+
+@item
+en:  two or more characteristic groups of the same kind as the principal group are located on the ring or ring system.
+ru: две или более характерных групп того же типа, что и основная группа, расположены в кольце или кольцевой системе.
+
+@End
+
+en: In the cases listed above, normal substitutive nomenclature must be used. 
+ru: В перечисленных выше случаях необходимо использовать обычную замещающую номенклатуру.
+
+@Examples
+
+@cell
+<$ |_q_q<_q_q>=CH-COOH $>
+
+en: cyclopentylideneacetic acid (PIN) 
+ru: циклопентилиденуксусная кислота (PIN)
+
+@cell
+<$ |`//`\`||/\\_(A-30)NH-COOH $>
+
+en: phenylcarbamic acid (PIN) 
+ru: фенилкарбаминовая кислота (ФИН)
+
+@cell
+<$ COOH|CH<-CH2-CH2-CH2-COOH>_(A150)|`/`\`|/\ $>
+
+en: 2-cyclohexylhexanedioic acid (PIN)
+ru: 2-циклогексилгександиовая кислота (PIN)
+
+@cell
+<$ OH|\|`//<|OH>`\`||/\_(A-30)CH2-OH $>
+
+en: 2-(hydroxymethyl)benzene-1,4-diol (PIN) 
+ru: 2-(гидроксиметил)бензол-1,4-диол (PIN)
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH@n([beta]^1,-70,.8)<-CH2@n([alpha]^1,-70,.8)-OH>|\\|@n(3,90)<_(A30)CH2@n([beta]^3,-70,.8)-CH2-OH>`//`\@n(5,90)<`/HO>`||/@n(1,-140,.4)
+$>
+
+en: β^{1},5-dihydroxybenzene-1,3-diethanol <br>
+1-[3-hydroxy-5-(2-hydroxyethyl)phenyl]ethane-1,2-diol (PIN) 
+ru: β^{1},5-дигидроксибензол-1,3-диэтанол <br>
+1-[3-гидрокси-5-(2-гидроксиэтил)фенил]этан-1,2-диол (PIN)
+
+@End
+
+#P-15.6.3
+en: Analysis of conjunctive name construction 
+ru: Анализ конструирования конъюнктивного названия
+
+@Examples 4 .left-aligned-cells --
+
+@cell
+
+@cell colspan=3 .centred
+en: **Note**: The PIN is the substitutive name.
+ru: **Примечание**: PIN — замещающее имя.
+
+@cell
+en: Example 1:
+ru: Пример 1:
+
+@cell colspan=3 .centred
+<$ 
+@:n(n,a:-90,L:0.7)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(1)-CH2@n(2)-CH3@n(3)_(h){}-/=\<`//`-`\\>-CH2-CH2-OH
+$>
+
+@cell
+en: Analysis:
+ru: Анализ:
+
+@cell
+en: Principal group
+ru: Основная группа
+
+@cell
+–OH
+
+@cell
+en: ol
+ru: ол
+
+@cell
+
+@cell
+en: Parent:
+ru: Исходная структура:
+
+@cell colspan=2
+
+@cell
+
+@cell .cell-left-offset
+en: ring:
+ru: кольцо:
+
+@cell
+<$ C6H6 $>
+
+@cell
+en: benzene
+ru: бензол
+
+@cell
+
+@cell .cell-left-offset
+en: chain:
+ru: цепь:
+
+@cell
+<$ CH3-CH2-CH3 $>
+
+@cell
+en: propane
+ru: пропан
+
+@cell
+
+@cell colspan=3
+en: Conjunctive parent including suffix:
+ru: Соединительный родитель, включающий суффикс:
+
+@cell
+
+@cell
+
+@cell
+<$ `//`-`\\/=\-CH2-CH2-CH2-OH $>
+
+@cell
+en: benzenepropanol
+ru: бензолпропанол
+
+@cell
+
+@cell
+en: Prefix:
+ru: Префикс:
+
+@cell
+<$ –CH2-CH2-OH $>
+
+@cell
+
+@cell
+
+@cell
+en: Prefix components: 
+ru: Компоненты префикса:
+
+@cell
+–OH <br>
+<$ –CH2-CH3 $>
+
+@cell
+en: hydroxy <br>
+ethyl
+ru: гидрокси <br>
+этил
+
+@cell
+
+@cell
+en: Prefix name
+ru: Название префикса
+
+@cell
+
+@cell
+en: 2-hydroxyethyl 
+ru: 2-гидроксиэтил
+
+@cell colspan=4
+en: Together with other rules, this analysis leads to the conjunctive name: 
+ru: Вместе с другими правилами этот анализ приводит к конъюнктивному названию:
+
+@cell
+
+@cell colspan=3 .centred
+en: 4-(2-hydroxyethyl)benzenepropanol <br>
+3-[4-(2-hydroxyethyl)phenyl]propan-1-ol (PIN)
+ru: 4-(2-гидроксиэтил)бензолпропанол <br>
+3-[4-(2-гидроксиэтил)фенил]пропан-1-ол (PIN)
+
+@cell colspan=4
+en: Example 2:
+ru: Пример 2:
+
+@cell
+
+@cell colspan=3 .centred
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC\@n(3,150)||\//`|<`\\`/>@n(1,30)_(A-30)CH2-CH2-CH2-CH2-CH2-CH2-CHO
+$>
+
+@cell
+
+@cell
+en: Principal group
+ru: Основная группа
+
+@cell
+<$ –CHO $>
+
+@cell
+en: carbaldehyde or al
+ru: карбальдегид или аль
+
+@cell
+
+@cell
+en: Parent:
+ru: Исходная структура:
+
+@cell colspan=2
+
+@cell
+
+@cell .cell-left-offset colspan=2
+en: ring
+ru: кольцо
+
+@cell
+en: benzene
+ru: бензол
+
+@cell
+
+@cell .cell-left-offset colspan=2
+en: chain
+ru: цепь
+
+@cell
+en: heptane
+ru: гептан
+
+@cell
+
+@cell colspan=3
+en: Conjunctive parent including suffix:
+ru: Соединительный родитель, включающий суффикс:
+
+@cell
+
+@cell
+
+@cell
+<$ |`//`\`||/\\_q6CH2-CH2-CH2-CH2-CH2-CH2-CHO $>
+
+@cell
+en: benzeneheptanal
+ru: бензолгептаналь
+
+@cell
+
+@cell
+en: Prefix:
+ru: Префикс:
+
+@cell
+–CHO
+
+@cell
+en: formyl
+ru: формил
+
+@cell colspan=4
+en: Together with other rules, this analysis leads to the conjunctive name: 
+ru: Вместе с другими правилами этот анализ приводит к конъюнктивному названию:
+
+@cell
+
+@cell colspan=3 .centred
+en: 3-formylbenzeneheptanal <br>
+3-(7-oxoheptyl)benzaldehyde (PIN) 
+ru: 3-формилбензолгептаналь <br>
+3-(7-оксогептил)бензальдегид (PIN)
+
+@End

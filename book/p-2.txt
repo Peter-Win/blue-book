@@ -1,0 +1,796 @@
+#P-2 
+en: Parent hydrides
+ru: Исходные гидриды
+
+@Content
+
+#P-20 
+en: Introduction 
+ru: Введение
+
+en: A parent hydride is the structure that is named before the addition of affixes denoting substituents to yield the name of a 
+specific compound. Its name is understood to signify a definite population of hydrogen atoms attached to a skeletal 
+structure. Acyclic parent hydrides are always saturated and unbranched, for example, pentane and trisilane. Cyclic 
+parent hydrides are usually either fully saturated, for example, cyclopentane, cyclotrisiloxane, azepane, 
+bicyclo[3.2.1]octane, and spiro[4.5]decane, or fully unsaturated, i.e., they contain the maximum number of 
+noncumulative double bonds, for example benzene, pyridine, 1,3-oxazole, 1H-phenalene, phenanthroline, and benzo[a]acridine. 
+Also, there are parent hydrides that are partially saturated, for example 1H-spiro[[1,3]-dioxolane-2,1′-indene], and 
+there are combinations of cyclic and acyclic hydrides, having traditional 
+retained names, for example toluene.
+ru: Исходный гидрид — это структура, название которой присваивается до добавления аффиксов, обозначающих заместители, 
+для получения названия конкретного соединения. Под его названием понимают определенную популяцию атомов водорода, 
+присоединенных к скелетной структуре. Ациклические исходные гидриды всегда насыщенные и неразветвленные, например 
+пентан и трисилан. Циклические исходные гидриды обычно либо полностью насыщены, например циклопентан, циклотрисилоксан, 
+азепан, бицикло[3.2.1]октан и спиро[4.5]декан, либо полностью ненасыщены, т.е. содержат максимальное количество 
+некумулятивных двойных связей, например бензол, пиридин, 1,3-оксазол, 1Н-фенален, фенантролин и бензо[а]акридин. 
+Кроме того, существуют исходные гидриды, которые являются частично насыщенными, например, 1H-спиро[[1,3]-диоксолан-2,1′-инден], 
+а также комбинации циклических и ациклических гидридов, имеющие традиционные сохраненные названия, например, толуол.
+
+en: Names of parent hydrides that do not contain skeletal carbon atoms, for example trisilane, are not designated as 
+preferred IUPAC names in these recommendations. Instead they are called preselected names, i.e., they are used to 
+generate preferred IUPAC names for derivatives substituted by organic (carbon-containing) substituents (see P-12.2). 
+They may, however, become IUPAC preferred names depending on decisions of a team formed to decide IUPAC 
+preferred names for inorganic (noncarbon-containing) compounds.
+ru: Названия исходных гидридов, которые не содержат скелетных атомов углерода, например, трисилан, не обозначены как 
+предпочтительные названия ИЮПАК в этих рекомендациях. Вместо этого они называются предварительно выбранными названиями, 
+т. е. они используются для создания предпочтительных названий ИЮПАК для производных, замещенных органическими 
+(углеродсодержащими) заместителями (см. P-12.2). Однако они могут стать предпочтительными названиями ИЮПАК в зависимости 
+от решений группы, сформированной для принятия решений о предпочтительных названиях ИЮПАК для неорганических 
+(не содержащих углерод) соединений.
+
+en: Names of parent hydrides are either traditional names that are retained or systematic names formed in accordance with 
+specific rules. Rules and names must be unambiguous and clear. In order to achieve this goal and keep rules simple and 
+concise, the rules for selecting preferred IUPAC names and preselected names of parent hydrides and prefixes denoting 
+substituent groups derived from parent hydrides are not provided in this Chapter. These rules are given in Chapter P-5. 
+ru: Названия исходных гидридов являются либо традиционными названиями, которые сохраняются, либо систематическими названиями, 
+образованными в соответствии с определенными правилами. Правила и названия должны быть однозначными и понятными. 
+Для достижения этой цели и сохранения простоты и краткости правил в этой главе не приводятся правила выбора предпочтительных 
+названий ИЮПАК и предварительно выбранных названий исходных гидридов и префиксов, обозначающих замещающие группы, 
+полученные из родительских гидридов. Эти правила приведены в главе P-5.
+
+
+
+
+#P-21 
+en: Mononuclear and acyclic polynuclear parent hydrides 
+ru: Моноядерные и ациклические многоядерные исходные гидриды
+
+@Content
+
+
+#P-21.1 
+en: Mononuclear parent hydrides 
+ru: Моноядерные исходные гидриды
+
+#P-21.1.1
+en: Mononuclear parent hydrides with standard bonding numbers
+ru: Одноядерные исходные гидриды со стандартными числами связей
+
+#P-21.1.1.1
+en: Systematic names
+ru: Систематические названия
+
+en: The names of mononuclear hydrides of the elements for use as parents in naming organic compounds by substitutive 
+nomenclature are given in Table 2.1. Most are formed systematically by citing the ‘a’ term of the element (see  
+Table 2.4) with elision of the terminal letter ‘a’ before the ending ‘ane’ (patterned after methane), for example borane 
+for <$ BH3 $> and silane for <$ SiH4 $>, etc. There are important exceptions: oxidane for <$ H2O $>, sulfane for <$ H2S $>, 
+selane for <$ H2Se $>, tellane for <$ H2Te $>, polane for <$ H2Po $>, and bismuthane for <$ BiH3 $> (see Table 2.1). 
+The systematically formed names oxane, thiane, selenane, tellurane, polonane, and bismane are Hantzsch-Widman names 
+designating the corresponding saturated six-membered rings with a single heteroatom. The name ‘carbane’ has never been used 
+in place of methane; it is not recommended. 
+ru: Названия моноядерных гидридов элементов для использования в качестве родительских при наименовании органических 
+соединений по заместительной номенклатуре приведены в Таблице 2.1. Большинство из них образованы систематически путем 
+указания термина «a» элемента (см. Таблицу 2.4) с опусканием конечной буквы «a» перед окончанием «ан» (по образцу метана), 
+например, боран для <$ BH3 $> и силан для <$ SiH4 $> и т. д. Существуют важные исключения: оксидан для <$ H2O $>, 
+сульфан для <$ H2S $>, селан для <$ H2Se $>, теллан для <$ H2Te $>, полан для <$ H2Po $> и висмутан для <$ BiH3 $> 
+(см. Таблицу 2.1).
+Систематически образованные названия oxane, thiane, selenane, tellurane, polonane и bisman являются названиями Ганча-Видмана, 
+обозначающими соответствующие насыщенные шестичленные кольца с одним гетероатомом. Название «карбан» никогда не 
+использовалось вместо метана; это не рекомендуется.
+
+@Table 2.1 
+en: Systematic names of mononuclear parent hydrides of the elements in Groups 13, 14, 15, 16, and 17 
+with normal bonding numbers
+ru: Систематические названия одноядерных родительских гидридов элементов групп 13, 14, 15, 16 и 17 с нормальн
+числом связей
+
+en: (all systematic names, except for carbane, are preselected names; see P-12.2; for the retained name methane,  
+see P-21.1.1.2) 
+ru: (все систематические названия, за исключением карбана, являются предварительно выбранными названиями; см. P-12.2; 
+для сохраненного названия метан, см. P-21.1.1.2)
+
+@th
+en: Groups
+ru: Группы
+
+@th
+13
+
+@th
+14
+
+@th
+15
+
+@th
+16
+
+@th
+17
+
+@td
+
+@td
+<$ BH3 $>
+ 
+en: borane
+ru: боран
+
+@td
+<$ CH4 $>
+ 
+en: (carbane)*
+ru: (карбан)*
+
+@td
+<$ NH3 $>
+ 
+en: azane 
+ru: азан
+
+@td
+<$ OH2 $>
+ 
+en: oxidane
+ru: оксидан
+
+@td
+<$ FH $>
+
+en: fluorane
+ru: фторан
+
+@td
+
+@td
+<$ AlH3 $>
+ 
+en: alumane
+ru: алюман
+
+@td
+<$ SiH4 $>
+ 
+en: silane
+ru: силан
+
+@td
+<$ PH3 $>
+ 
+en: phosphane
+ru: фосфан
+
+@td
+<$ SH2 $>
+ 
+en: sulfane
+ru: сульфан
+
+@td
+<$ ClH $>
+
+en: chlorane 
+ru: хлоран
+
+@td
+
+@td
+<$ GaH3 $>
+ 
+en: gallane
+ru: галлан
+
+@td
+<$ GeH4 $>
+ 
+en: germane 
+ru: герман
+
+@td
+<$ AsH3 $>
+ 
+en: arsane
+ru: арсан
+
+@td
+<$ SeH2 $>
+ 
+ru: selane 
+en: селан
+
+@td
+<$ BrH $>
+
+en: bromane
+ru: броман
+
+@td
+
+@td
+<$ InH3 $>
+ 
+en: indigane
+ru: индиган
+
+@td
+<$ SnH4 $>
+ 
+en: stannane 
+ru: станнан
+
+@td
+<$ SbH3 $>
+ 
+en: stibane 
+ru: стибан
+
+@td
+<$ TeH2 $>
+ 
+en: tellane
+ru: теллан
+
+@td
+<$ IH $>
+
+en: iodane
+ru: иодан
+
+@td
+
+@td
+<$ TlH3 $>
+
+en: thallane
+ru: таллан
+
+@td
+<$ PbH4 $>
+ 
+en: plumbane 
+ru: плюмбан
+
+@td
+<$ BiH3 $>
+ 
+en: bismuthane
+ru: висмутан
+
+@td
+<$ PoH2 $>
+ 
+en: polane 
+ru: полан
+
+@td
+<$ AtH $>
+
+en: astane
+ru: астан
+
+@EndTable
+
+@p .centred
+en: * Note that methane is the preferred IUPAC name. 
+ru: * Обратите внимание, что метан является предпочтительным названием ИЮПАК.
+
+en: See P-21.1.1.2 for common names used in the IUPAC nomenclature of organic and inorganic compounds. 
+ru: См. P-21.1.1.2 для ознакомления с общепринятыми названиями, используемыми в номенклатуре ИЮПАК органических 
+и неорганических соединений.
+
+en: The newly recommended names gallane and thallane are formed systematically. Alumane and indigane are exceptions. 
+The name ‘aluminane’ could be ambiguous as it could designate the mononuclear hydride <$ AlH3 $> and the saturated six
+membered ring with one aluminium atom that has a Hantzsch-Widman name denoted by the ending ‘-inane’. The name 
+‘alane’ has been used, but must also be discarded because its systematically derived substituent group, <$ H2Al– $>, would be 
+named ‘alanyl’, the well entrenched name for the acyl group derived from the amino acid alanine. The name alumane 
+has no negative connotation. The prefix ‘aluma’ is recommended for forming Hantszch-Widman names, and thus the 
+name ‘aluminane’ describes the saturated six-membered ring monocycle containing one aluminium atom (see P-22.2.2). 
+The systematically formed name ‘indane’ cannot be used because it is already used to designate a partially saturated 
+bicyclic fused hydrocarbon. Reich and Richter (ref. 20) called the element indium in 1863 after the indigo colored flame 
+test, recognized as different than the color from caesium. Returning to the source indigo, ‘indigane’ could be an 
+acceptable name; it is thus recommended for the hydride <$ InH3 $>.
+ru: Новые рекомендуемые названия галлан и таллан образуются систематически. Исключения составляют алюман и индиган. 
+Название «алюминан» может быть неоднозначным, поскольку оно может обозначать моноядерный гидрид <$ AlH3 $> и насыщенное 
+шестичленное кольцо с одним атомом алюминия, которое имеет название Ганча-Видмана, обозначенное окончанием «-инан». 
+Название «алан» использовалось, но его также следует отбросить, поскольку его систематически полученная замещающая группа, 
+<$ H2Al– $>, будет называться «аланил», хорошо укоренившееся название для ацильной группы, полученной из аминокислоты аланина. 
+Название алюман не имеет отрицательного оттенка. Префикс «алума» рекомендуется для образования названий Ганча-Видмана, 
+и, таким образом, название «алюминан» описывает насыщенный шестичленный кольцевой моноцикл, содержащий один атом алюминия 
+(см. P-22.2.2). Систематически сформированное название «индан» не может быть использовано, поскольку оно уже используется 
+для обозначения частично насыщенного бициклического конденсированного углеводорода. Райх и Рихтер (ссылка 20) назвали 
+элемент индием в 1863 году после теста с пламенем цвета индиго, признанным отличным от цвета цезия. Возвращаясь к исходному 
+индиго, «индиган» может быть приемлемым названием; поэтому оно рекомендуется для гидрида <$ InH3 $>.
+
+@Examples --
+
+@cell
+<$ AlH3 $>
+
+en: alumane (preselected name, see P-12.2) <br>
+(not alane) 
+ru: алюман (предварительно выбранное имя, см. P-12.2) <br>
+(не алан)
+
+@cell
+<$ H_(y.5)Al\|`/`\`|/ $>
+
+en: aluminane
+ru: алюминан
+
+@cell
+<$ InH3 $>
+
+en: indigane (preselected name, see P-12.2)
+ru: индиган (предварительно выбранное имя, см. P-12.2)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q@n(3,60)_q@n(2,0)_q@n(1,-60)_q
+$>
+
+en: indane  <br>
+2,3-dihydro-1_H_-indene (PIN) 
+ru: индан <br>
+2,3-дигидро-1_H_-инден (PIN)
+
+@End
+
+en: The monohydride names listed in Table 2.1 constitute the basis of ‘generalized ane nomenclature’. Substitutive 
+nomenclature as applied to alkanes, cycloalkanes, and polycycloalkanes has been systematically extended to hydrides of 
+elements of Groups 13, 14, 15, 16, and 17. Generalized ‘ane’ nomenclature is divided into ‘carbane nomenclature’, 
+which covers the traditional substitutive nomenclature for carbon parent hydrides, and ‘heterane nomenclature’, which 
+relates to atoms other than carbon, referred to as heteroatoms. 
+ru: Названия моногидридов, перечисленные в Таблице 2.1, составляют основу «обобщенной номенклатуры анов». 
+Заместительная номенклатура, применяемая к алканам, циклоалканам и полициклоалканам, была систематически распространена 
+на гидриды элементов групп 13, 14, 15, 16 и 17. Обобщенная номенклатура «анов» делится на «карбановую номенклатуру», 
+которая охватывает традиционную заместительную номенклатуру для исходных гидридов углерода, и «гетерановую номенклатуру», 
+которая относится к атомам, отличным от углерода, называемым гетероатомами.
+
+#P-21.1.1.2
+en: Retained names
+ru: Сохраненные имена
+
+en: The common name methane is retained. The common names water, ammonia, the binary names for the hydracids of 
+Group 17, for example hydrogen chloride, and binary names for the hydrides of Group 16, for example hydrogen 
+sulfide, are used in these recommendations but their use as preferred IUPAC names is deferred pending publication of 
+recommendations for the selection of preferred inorganic names; thus, no PIN label will be assigned in names including 
+them (see P-14.8). However, systematic alternatives to these common names, e.g. oxidane for water and azane for 
+ammonia, and for the binary names of hydracids of Group 17 and the hydrides of Group 16, for example chlorane for 
+hydrogen chloride and sulfane for hydrogen sulfide, are necessary for naming some derivatives and for generating 
+names of radicals, ions, and polynuclear homologues.
+ru: Общее название метан сохранено. Общепринятые названия вода, аммиак, бинарные названия для гидридов группы 17, 
+например, хлористый водород, и бинарные названия для гидридов группы 16, например, сероводород, используются в этих 
+рекомендациях, но их использование в качестве предпочтительных названий ИЮПАК отложено до публикации рекомендаций 
+по выбору предпочтительных неорганических названий; таким образом, никакая метка PIN не будет назначена для названий, 
+включающих их (см. P-14.8). Однако систематические альтернативы этим общим названиям, например, оксидан для воды и азан 
+для аммиака, и для бинарных названий гидридов группы 17 и гидридов группы 16, например, хлоран для хлористого водорода 
+и сульфан для сероводорода, необходимы для наименования некоторых производных и для получения названий радикалов, ионов 
+и многоядерных гомологов.
+
+en: The names ‘phosphine’ for <$ PH3 $>, ‘arsine’ for <$ AsH3 $>, ‘stibine’ for <$ SbH3 $>, and ‘bismuthine’ for 
+<$ BiH3$>, are retained for use in general nomenclature. 
+ru: Названия «фосфин» для <$ PH3 $>, «арсин» для <$ AsH3 $>, «стибин» для <$ SbH3 $> и «висмутин» для <$ BiH3$> 
+сохранены для использования в общей номенклатуре.
+
+#P-21.1.2
+en: Mononuclear parent hydrides with nonstandard bonding numbers
+ru: Одноядерные исходные гидриды с нестандартными связями
+
+#P-21.1.2.1
+en: Systematic and traditional names
+ru: Систематические и традиционные названия
+
+en: If the bonding number of the element differs from the standard one as defined in P-14.1 and exemplified in Table 2.1, 
+the name of the hydride is modified by affixing the symbol λ^{_n_}, where ‘_n_’ is the bonding number, to the name of the 
+hydride (ref. 13).
+ru: Если число связей элемента отличается от стандартного, как определено в P-14.1 и приведено в таблице 2.1, название 
+гидрида модифицируется путем добавления символа λ^{_n_}, где «_n_» — число связей, к названию гидрида (ссылка 13).
+
+en: The names ‘phosphorane’ for <$ PH5 $>, ‘arsorane’ for <$ AsH5 $>, and ‘stiborane’ for <$ SbH5 $>, are retained 
+for use in general nomenclature. However, the names ‘sulfurane’ for <$ SH4 $>, ‘selenurane’ for <$ SeH4 $>, 
+‘iodinane’ for <$ IH3 $>, ‘persulfurane’ for <$ SH6 $>, and ‘periodinane’ for <$ IH5 $>, which have been used 
+in recent literature, are not recommended.
+ru: Названия «фосфоран» для <$ PH5 $>, «арсоран» для <$ AsH5 $> и «стиборан» для <$ SbH5 $> сохранены для использования 
+в общей номенклатуре. Однако названия «сульфуран» для <$ SH4 $>, «селенуран» для <$ SeH4 $>, «иодинан» для <$ IH3 $>, 
+«персульфуран» для <$ SH6 $> и «периодинан» для <$ IH5 $>, которые использовались в недавней литературе, не рекомендуются.
+
+@Examples
+
+@cell
+<$ IH3 $>
+
+en: λ^{3}-iodane (preselected name, see P-12.2)  <br>
+(not iodinane)  
+ru: λ^{3}-иодан (предварительно выбранное название, см. P-12.2) <br>
+(не йодинан)
+
+@cell
+<$ SH4 $>
+  
+en: λ^{4}-sulfane (preselected name, see P-12.2) <br>
+(not sulfurane) 
+ru: λ^{4}-сульфан (предварительно выбранное название, см. P-12.2) <br>
+(не сульфуран)
+
+@cell
+<$ SnH2 $>
+  
+en: λ^{2}-stannane (preselected name, see P-12.2)
+ru: λ^{2}-станнан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$ PH5 $>
+  
+en: λ^{5}-phosphane (preselected name, see P-12.2)  <br>
+phosphorane 
+ru: λ^{5}-фосфан (предварительно выбранное название, см. P-12.2) <br>
+фосфоран
+
+@cell
+<$ AsH5 $>
+ 
+en: λ^{5}-arsane (preselected name, see P-12.2)  <br>
+arsorane 
+ru: λ^{5}-арсан (предварительно выбранное имя, см. P-12.2) <br>
+арсоран
+
+@cell
+<$ SbH5 $>
+ 
+en: λ^{5}-stibane (preselected name, see P-12.2)  <br>
+stiborane 
+ru: λ^{5}-стибан (предварительно выбранное имя, см. P-12.2) <br>
+стиборан
+
+@End
+
+#P-21.2 
+en: Acyclic polynuclear parent hydrides
+ru: Ациклические полиядерные исходные гидриды
+
+@Content
+
+#P-21.2.1 
+en: Hydrocarbons 
+ru: Углеводороды
+
+en: The saturated unbranched acyclic hydrocarbons <$ C2H6 $>, <$ C3H8 $>, and <$ C4H10 $>
+have the retained names ethane, propane, and 
+butane, respectively. Systematic names for the higher members of this series consist of a numerical term (see Table 1.4) 
+followed by the ending ‘ane’ with elision of the terminal letter ‘a’ from the numerical term. The generic name for 
+saturated acyclic hydrocarbons (branched or unbranched) is ‘alkane’. The chain is numbered from one end to the other 
+with arabic numbers. Brackets are employed in formulas to indicate repetition of groups in chains. For unsaturated 
+acyclic hydrocarbons see P-31.1. 
+ru: Насыщенные неразветвленные ациклические углеводороды <$ C2H6 $>, <$ C3H8 $> и <$ C4H10 $> имеют сохраненные названия 
+этан, пропан и бутан соответственно. Систематические названия для высших членов этого ряда состоят из числового термина 
+(см. Таблицу 1.4), за которым следует окончание «ан» с выпадением конечной буквы «а» из числового термина. Общее название 
+для насыщенных ациклических углеводородов (разветвленных или неразветвленных) — «алкан». Цепь нумеруется от одного конца 
+до другого арабскими цифрами. Скобки используются в формулах для указания повторения групп в цепях. Для ненасыщенных 
+ациклических углеводородов см. P-31.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n)CH2@n(&n)@;
+CH3@n(7)-@m(6)-@m(5)-@m(4)-@m(3)-@m(2)-CH3@n(1)
+$>
+
+en: heptane (PIN)
+ru: гептан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(20)-[CH2]18-CH3@n(1)
+$>
+
+en: icosane (PIN)  <br>
+(the Beilstein and CAS index name is ‘eicosane’)
+ru: икозан (PIN) <br>
+(название индекса Бейльштейна и CAS — «эйкозан»)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(23)-[CH2]21-CH3@n(1)
+$>
+
+en: tricosane (PIN) 
+ru: трикозан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(70)-[CH2]68-CH3@n(1)
+$>
+
+en: heptacontane (PIN)
+ru: гептаконтан (PIN)
+
+@End
+
+
+#P-21.2.2 
+en: Homogeneous acyclic parent hydrides other than hydrocarbons and boron hydrides 
+ru: Однородные ациклические исходные гидриды, отличные от углеводородов и бороводородов
+
+en: A compound consisting of an unbranched chain containing two or more identical heteroatoms saturated with hydrogen 
+atoms is named by citing the appropriate multiplying prefix from Table 1.4 (with no elision of the terminal vowel of the 
+multiplying prefix) followed by the name of the appropriate hydride according to P-21.1. These names are preselected 
+(see P-12.2). Potential functionality of terminal groups, such as –SH or –OH, is ignored.
+ru: Соединение, состоящее из неразветвленной цепи, содержащей два или более идентичных гетероатома, насыщенных 
+атомами водорода, называется путем указания соответствующего префикса умножения из Таблицы 1.4 (без удаления конечной 
+гласной префикса умножения), за которым следует название соответствующего гидрида в соответствии с P-21.1. Эти названия 
+выбираются заранее (см. P-12.2). Потенциальная функциональность концевых групп, таких как –SH или –OH, игнорируется.
+
+@Examples
+
+@cell
+<$ 
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2@n(2)-NH2@n(1)
+$>
+
+en: hydrazine (retained, preselected name, see P-12.3)  <br>
+diazane
+ru: гидразин (сохранено, предварительно выбранное название, см. P-12.3) <br>
+диазан
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2@n(9)-[NH]7-NH2@n(1)
+$>
+
+en: nonaazane (preselected name, see P-12.2) 
+ru: нонаазан (предварительно выбранное имя, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:si(n,h:2)SiH&h@n(&n)@(5,3)-@si(4)-@si(3)-@si(2)-@si(1,3)
+$>
+
+en: pentasilane (preselected name, see P-12.2)
+ru: пентасилан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:p(n,h:)PH&h@n(&n)@(5,2)-@p(4)-@p(3)-@p(2)-@p(1,2)
+$>
+
+en: pentaphosphane (preselected name, see P-12.2) 
+ru: пентафосфан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$ HS-S-S-SH $>
+
+en: tetrasulfane (preselected name)  <br>
+(not disulfanedithiol nor trisulfanethiol, see P-58.3.1)
+ru: тетрасульфан (предварительно выбранное название) <br>
+(не дисульфандитиол и не трисульфандитиол, см. P-58.3.1)
+
+@End
+
+
+#P-21.2.3 
+en: Heterogenous acyclic parent hydrides 
+ru: Гетерогенные ациклические исходные гидриды
+
+// @Content К сожалению, пока нет конструкции, чтобы текст в содержании и непосредственно в заголовке был разный
+
+#P-21.2.3.1+
+en: Heterogeneous parent hydrides composed of alternating heteroatoms, i.e., [a(ba)_{_n_} hydrides], excluding 
+carbon atoms and the halogen atoms 
+ru: Гетерогенные исходные гидриды, состоящие из чередующихся гетероатомов, т.е. [a(ba)_{_n_} гидриды], 
+исключая атомы углерода и атомы галогена
+
+en: Compounds containing an unbranched chain of alternating atoms terminated by two identical atoms of the element 
+coming later in the seniority order O > S > Se > Te > N > P >As > Sb > Bi > Si > Ge > Sn > Pb > B >Al > Ga > In > Tl 
+maybe named by citing successively a multiplying prefix denoting the number of atoms of the terminal element 
+followed by the ‘a’ term for that element, then the ‘a’ term of the other element in the chain and the ending ‘ane’. The 
+terminal letter ‘a’ of an ‘a’ term is elided when followed by a vowel; the terminal vowel of a numerical prefix is not 
+elided even when the ‘a’ term begins with the same vowel. When nitrogen atoms are present, amine names (see P-62) 
+should be used because of the higher functionality of amines. This concept does not extend to other elements. These 
+parent hydrides are preselected parent hydrides (see P-12.2) and have priority to receive preferred IUPAC names, as 
+long as they are used to name compounds containing carbon.
+ru: Соединения, содержащие неразветвленную цепь чередующихся атомов, заканчивающуюся двумя идентичными атомами элемента, 
+следующего за ним в порядке старшинства O > S > Se > Te > N > P >As > Sb > Bi > Si > Ge > Sn > Pb > B >Al > Ga > In > Tl, 
+могут быть названы путем последовательного указания умножающего префикса, обозначающего число атомов конечного элемента, 
+за которым следует термин «a» для этого элемента, затем термин «a» другого элемента в цепи и окончание «ane». Конечная 
+буква «a» термина «a» опускается, если за ней следует гласная; конечная гласная числового префикса не опускается, даже 
+если термин «a» начинается с той же гласной. При наличии атомов азота следует использовать названия аминов (см. P-62) 
+из-за более высокой функциональности аминов. Эта концепция не распространяется на другие элементы. Эти исходные гидриды 
+являются предварительно выбранными исходными гидридами (см. P-12.2) и имеют приоритет для получения предпочтительных 
+названий ИЮПАК, если они используются для наименования соединений, содержащих углерод.
+
+@p .framed
+en: This is a change from the 1993 Guide (ref. 2) where the ‘amine’ characteristic group was not recognized.
+ru: Это изменение по сравнению с Руководством 1993 г. (ссылка 2), в котором характерная группа «амины» не признавалась.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:sn(n,h:2)SnH&h@n(&n)@(7,3)-O@n(6)-@sn(5)-O@n(4)-@sn(3)-O@n(2)-@sn(1,3)
+$>
+
+en: tetrastannoxane (preselected name, see P-12.2)
+ru: тетрастанноксан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$ SiH3-S-SiH3 $>
+
+en: disilathiane (preselected name, see P-12.2) 
+ru: дисилатиан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$ HS-O-SH $>
+
+en: dithioxane (preselected name, see P-12.2)
+ru: дитиоксан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$ PH2-Se-PH2 $>
+
+en: diphosphaselenane (preselected name, see P-12.2)
+ru: дифосселенан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$ SiH3-NH-SiH3 $>
+
+en: N-silylsilanamine (name derived from the preselected name silane, see P-12.2)  <br>
+(not disilazane) 
+ru: N-силилсиланамина (название, полученное из предварительно выбранного названия силан, см. P-12.2) <br>
+(не дисилазан)
+
+@End
+
+#P-21.2.3.2 
+en: Heterogeneous parent hydrides formed by skeletal replacement (‘a’) nomenclature
+ru: Гетерогенные исходные гидриды, образованные по номенклатуре скелетного замещения («а»).
+
+en: Heterogeneous acyclic parent hydrides consisting of chains containing at least one carbon atom and heteroatoms, alike 
+or different, and terminating with C, P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, or Tl are named by skeletal 
+replacement (‘a’) nomenclature (see P-15.4.3). The use of skeletal replacement (‘a’) names as preferred IUPAC names 
+is considered in Chapter P-5.
+ru: Гетерогенные ациклические исходные гидриды, состоящие из цепей, содержащих по крайней мере один атом углерода 
+и гетероатомы, одинаковые или разные, и оканчивающиеся C, P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In или Tl, 
+называются по номенклатуре скелетных замен («a») (см. P-15.4.3). Использование скелетных замещающих («a») названий 
+в качестве предпочтительных названий ИЮПАК рассматривается в главе P-5.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,h:2)CH&h@n(&n)@; @:o(n)O@n(&n)@;
+@m(11,3)-@o(10)-@m(9)-@m(9)-@o(7)-@m(6)-@m(5)-@o(4)-@m(3)-@o(2)-@m(1,3)
+$>
+
+en: 2,4,7,10-tetraoxaundecane (PIN)
+ru: 2,4,7,10-тетраоксаундекан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,h:2)CH&h@n(&n)@; @:o(n)O@n(&n)@;
+@m(11,3)-@o(10)-@m(9)-@m(8)-@o(7)-@m(6)-@m(5)-SiH2@n(4)-@m(3)-S@n(2)-@m(1,3)
+$>
+
+en: 7,10-dioxa-2-thia-4-silaundecane (PIN)
+ru: 7,10-диокса-2-тиа-4-силаундекан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,h:2)CH&h@n(&n)@;
+@m(8,3)-S@n(7)-SiH2@n(6)-@m(5)-@m(4)-SiH2@n(3)-O@n(2)-@m(1,3)
+$>
+
+en: 2-oxa-7-thia-3,6-disilaoctane (PIN) 
+ru: 2-окса-7-тиа-3,6-дисилаоктан (PIN)
+
+@End
+
+#P-21.2.4
+en: Acyclic parent hydrides containing heteroatoms with nonstandard bonding numbers.
+ru: Ациклические исходные гидриды, содержащие гетероатомы с нестандартным числом связей.
+
+#P-21.2.4.1+ 
+en: Heteroatoms with nonstandard bonding numbers are denoted by the λ^{_n_} symbol which is placed after each 
+appropriate locant (see P-14.1). Low numbering is first given to the heteroatoms in the usual manner without regard to 
+nonstandard bonding numbers. When there is a choice, lower locants are given to a higher nonstandard bonding 
+number. 
+ru: Гетероатомы с нестандартными связевыми числами обозначаются символом λ^{_n_}, который ставится после каждого 
+соответствующего локанта (см. P-14.1). Сначала гетероатомам присваивается более низкая нумерация обычным образом без 
+учета нестандартных связевых чисел. При наличии выбора более низкие локанты присваиваются более высокому нестандартному 
+числу связей.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS@n(1)-SH2@n(2)-SH@n(3)
+$>
+
+en: 2λ^{4}-trisulfane (preselected name, see P-12.2) 
+ru: 2λ^{4}-трисульфан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS@n(3)-S@n(2)-SH5@n(1)
+$>
+
+en: 1λ^{6}-trisulfane (preselected name, see P-12.2)
+ru: 1λ^{6}-трисульфан (предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+PH4@n(1)-PH3@n(2)-PH4@n(3)
+$>
+
+en: 1λ^{5},2λ^{5},3λ^{5}-triphosphane (preselected name, see P-12.2) <br>
+(not tri-λ^{5}-phosphane) 
+ru: 1λ^{5},2λ^{5},3λ^{5}-трифосфан (предварительно выбранное название, см. P-12.2) <br>
+(не три-λ^{5}-фосфан)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+PH4@n(1)-O@n(2)-PH4@n(3)
+$>
+
+en: 1λ^{5},3λ^{5}-diphosphoxane (preselected name, see P-12.2)
+ru: 1λ^{5},3λ^{5}-дифосфоксан (предварительно выбранное название, см. P-12.2)
+
+@End
+
+#P-21.2.4.2+ 
+en: When a choice is needed between the same skeletal atom with two or more nonstandard bonding numbers, 
+low locants are assigned in order of the decreasing value of the bonding number, for example λ^{6} is assigned a lower 
+locant than λ^{4}. 
+ru: Когда необходимо сделать выбор между одним и тем же скелетным атомом с двумя или более нестандартными числами связей, 
+меньшие локанты назначаются в порядке убывания значения числа связей, например, λ^{6} назначается меньший локант, чем λ^{4}.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS@n(6)-SH2@n(5)-S@n(4)-S@n(3)-SH4@n(2)-SH@n(1)
+$>
+
+en: 2λ^{6},5λ^{4}-hexasulfane (preselected name; see P-12.2)
+ru: 2λ^{6},5λ^{4}-гексасульфан (предварительно выбранное название; см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:m(n,h:2)CH&h@n(&n,-80,.62)@;
+@m(12,3)-S@n(11)-@m(10)-@m(9)-S@n(8)-@m(7)-@m(6)-SH2@n(5)-@m(4)-@m(3)-S@n(2)-CH3@n(1)
+$>
+
+en: 2,5λ^{4},8,11-tetrathiadodecane (PIN) 
+ru: 2,5λ^{4},8,11-тетратиадодекан (PIN)
+
+@End
+

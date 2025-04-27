@@ -24,6 +24,9 @@ const buildExamples = (part, locale, text, ctx, buildPart) => {
     if (colspan > 1) {
       attrs.colspan = cell.v.colspan;
     }
+    if (cell.v.cls) {
+      attrs["class"] = cell.v.cls;
+    }
     res += `${drawTag("td", attrs)}\n`;
     res += cell.p.map(it => buildPart(it, locale, ctx)).join("\n");
     res += "</td>\n";

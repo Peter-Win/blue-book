@@ -4,6 +4,7 @@ const createDocument = () => {
   return {
     blocks: [],
     headersMap: {}, // headerId => block
+    shortHeadersMap: {},
   }
 }
 
