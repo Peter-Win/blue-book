@@ -63,6 +63,10 @@ const onTopLevelCmd = (reader) => {
     onHeader(reader);
     return;
   }
+  if (curLine[0] === "%") {
+    onShortHeader(reader);
+    return;
+  }
   if (curLine.startsWith("@Table")) {
     parseTable(reader);
     return;
@@ -111,6 +115,13 @@ const onTopLevelCmd = (reader) => {
   // reader.error("Unrecognized construction", 0);
 }
 
+const onShortHeader = (reader) => {
+  const headerLine = reader.readLine();
+  const h = onLocalParagraph("header", reader);
+  h.headerId = headerLine.slice(1).trim();
+  reader.ctx.doc.shortHeadersMap[h.headerId] = h;
+}
+
 const onHeader = (reader) => {
   const headerLine = reader.readLine();
   const h = onLocalParagraph("header", reader);
@@ -135,6 +146,7 @@ const parseTable = (reader) => {
   const part = onLocalParagraph("table", reader);
   part.cells = [];
   part.cols = 0;
+  part.subtitle = [];
   if (res) part.tableId = res[1];
   addPartToDocument(reader.ctx.doc, part);
   let curCell = null;
@@ -157,17 +169,36 @@ const parseTable = (reader) => {
         // Признак конца строки
         part.cols = part.cells.reduce((sum, cell) => sum + (cell.colspan || 1), 0);
       }
+      const chunks = line.split(/\s+/);
+      chunks.forEach(chunk => {
+        if (chunk[0] === ".") {
+          curCell.cls = curCell.cls ? (curCell.cls + " ") : "";
+          curCell.cls += chunk.slice(1);
+        }
+      });
     } else {
       reader.goPrevLine();
     }
     if (curCell) {
-      curCell.parts.push(onLocalParagraph("p", reader));
+      appendPart(curCell.parts, "p", reader);
+    } else {
+      appendPart(part.subtitle, "p", reader);
     }
   }
   if (!part.cols) {
     const tdPos = part.cells.findIndex(c => c.type === "td");
-    part.cols = tdPos >= 0 ? tdPos : part.cells.length;
+    part.cols = tdPos >= 0 ? part.cells.slice(0,tdPos).reduce((sum, c) => sum + (c.colspan ?? 1), 0) : part.cells.length;
   }
+}
+
+const appendPart = (container, type, reader) => {
+  const p = onLocalParagraph(type, reader);
+  // Это попытка удалить пустые параграфы
+  if (JSON.stringify(Object.keys(p.loc)) === `["*"]`) {
+    const par = p.loc["*"];
+    p.loc["*"] = par.filter(cur => !(typeof cur.content === "string" && cur.content.trim() === ""))
+  }
+  container.push(p);
 }
 
 const parseFig = (reader, figId) => {
@@ -218,7 +249,7 @@ const parseExamples = (reader) => {
   if (extCls) part.extCls = extCls.slice(1);
   addPartToDocument(reader.ctx.doc, part);
 
-  let curCell = [];
+  let curCell = {p:[], v:{}};
   let cellBegin = false;
   while (!reader.isEnd) {
     const line = reader.readLine();
@@ -230,6 +261,8 @@ const parseExamples = (reader) => {
         const res = /^(.+)=(.+)$/.exec(p);
         if (res) {
           curCell.v[res[1]] = res[2];
+        } else if (/^\..+$/.test(p)) {
+          curCell.v.cls = p.slice(1);
         }
       });
       cellBegin = true;
@@ -244,6 +277,12 @@ const parseExamples = (reader) => {
     curCell.p.push(cellItem);
     cellBegin = false;
   }
+  curCell.p = curCell.p.filter(p => {
+    if (p.type === "p" && Object.keys(p.loc).length === 0) {
+      return false;
+    }
+    return true;
+  });
 }
 
 const tryToHtml = (line) => {

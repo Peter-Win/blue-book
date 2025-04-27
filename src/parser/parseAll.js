@@ -37,6 +37,8 @@ const linkPart = (part, doc) => {
     });
   } else if (type === "table") {
     linkBlocks(part.cells, doc);
+    linkParts(part.subtitle, doc);
+    // part.subtitle.forEach(b => linkBlock(b, doc));
   } else if (type === "list") {
     part.items.forEach(it => linkParts(it, doc));
   }

@@ -19,6 +19,9 @@ h4, h5, h6 {
   border: thin solid var(--text-color);
   padding: 0.5rem 1rem;
 }
+.centred {
+  text-align: center;
+}
 
 .std-table-box {
   display: flex;
@@ -56,6 +59,9 @@ h4, h5, h6 {
 .left-aligned .examples td, .left-aligned-cells td {
   text-align: left;
 }
+.left-aligned-cells td.centred {
+  text-align: center;
+}
 
 .block {
   display: flex;
@@ -83,9 +89,10 @@ h4, h5, h6 {
 
 a.wrong-part {
   color: #A00;
+  white-space: nowrap;
 }
 
-.left-offset {
+.left-offset, .cell-left-offset > * {
   padding-left: 2rem;
 }
 
@@ -102,6 +109,9 @@ a.wrong-part {
   flex-direction: column;
   gap: 1rem;
   align-items: center;
+}
+.flex-column > p {
+  margin: 0;
 }
 
 .custom-list {
@@ -123,4 +133,8 @@ a.wrong-part {
 
 .p-ref {
   white-space: nowrap;
+}
+
+.empty-column {
+  min-width: 4rem;
 }

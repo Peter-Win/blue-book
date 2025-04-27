@@ -1,0 +1,1030 @@
+#P-16
+en: Name writing 
+ru: Написание имени
+
+@Content
+
+#P-16.0
+en: Introduction 
+ru: Введение
+
+en: Names are written in accordance with a symbolism specific to the nomenclature of organic compounds in order 
+to avoid ambiguity and to establish an unequivocal relationship between a name and the corresponding 
+structure. The recommended symbolism is particularly important in the formation of IUPAC preferred names. As 
+usual, IUPAC recognizes the needs of other languages to introduce modifications specific to a particular language, 
+but it is hoped that, whenever possible, the following conventions will be applied to construct IUPAC names for 
+general use as well as for IUPAC preferred names. 
+ru: Названия записываются в соответствии с символикой, специфичной для номенклатуры органических соединений, чтобы избежать 
+двусмысленности и установить недвусмысленную связь между названием и соответствующей структурой. Рекомендуемая символика 
+особенно важна при формировании предпочтительных названий ИЮПАК. Как обычно, ИЮПАК признает потребности других языков 
+вводить модификации, специфичные для конкретного языка, но есть надежда, что, когда это возможно, следующие соглашения 
+будут применяться для построения названий ИЮПАК для общего использования, а также для предпочтительных названий ИЮПАК.
+
+en: In the 1979 and 1993 recommendations, names were written with a capital initial letter. This practice has been 
+abandoned in recent publications in order to ensure that names of organic compounds are not considered as 
+proper nouns; the usual practice of capitalizing letters at the beginning of a sentence must however be respected. 
+ru: В рекомендациях 1979 и 1993 годов названия писались с заглавной буквы. В последних публикациях эта практика была 
+отменена, чтобы гарантировать, что названия органических соединений не будут считаться именами собственными; однако, 
+обычная практика написания заглавных букв в начале предложения должна соблюдаться.
+
+
+#P-16.1 
+en: Spelling
+ru: Правописание 
+
+en: The spelling of elements is that given in the IUPAC Nomenclature of Inorganic Chemistry (ref. 12, Table I, 
+pp. 248-249), for example, sulfur not sulphur, aluminium not aluminum, and caesium not cesium. 
+// Данный абзац имеет смысл только для англоязычной версии
+ru: Написание названий элементов соответствует написанию, данному в Номенклатуре ИЮПАК неорганической химии 
+(ссылка 12, таблица I, стр. 248-249), например, sulfur, а не sulphur, aluminium, а не aluminum, и caesium, а не cesium.
+
+#P-16.2 
+en: Punctuation 
+ru: Пунктуация
+
+@Content
+
+#P-16.2.1
+en: Commas are used:
+ru: Запятые используются:
+
+#(a)
+en: to separate locants, numerals, or italicized letters;
+ru: для разделения локантов, цифр или курсивных букв;
+
+@Examples
+
+@cell
+en: 1,2-dibromoethane (PIN, P-61.3.1)
+ru: 1,2-дибромэтан (PIN, P-61.3.1)
+
+@cell
+en: _N_,_N_-diethylfuran-2-carboxamide (PIN, P-66.1.1.3.1.1) 
+ru: _N_,_N_-диэтилфуран-2-карбоксамид (PIN, P-66.1.1.3.1.1)
+
+@End
+
+#(b)
+en: to separate numbers, as well as italicized letters, in fusion descriptors when they indicate the presence of 
+separate attached components; however, italicized letters denoting peri-fused junctions are not separated by commas.
+ru: для разделения цифр, а также курсивных букв в описаниях слияний, когда они указывают на наличие отдельных 
+присоединенных компонентов; однако курсивные буквы, обозначающие пери-слитые соединения, запятыми не разделяются.
+
+@Examples
+
+@cell
+en: dibenzo[_c_,_g_]phenanthrene [PIN, P-25.3.4.2.1 (c)] 
+ru: дибензо[_c_,_g_]фенантрен [PIN, P-25.3.4.2.1 (c)]
+
+@cell
+en: 6_H_-pyrrolo[3,2,1-_de_]acridine (PIN, P-25.3.1.3)
+ru: 6_H_-пирроло[3,2,1-_de_]акридин (PIN, P-25.3.1.3)
+
+@End
+
+#P-16.2.2
+en: Full stops
+ru: Точки
+
+en: Full stops are used to separate numbers that denote lengths of bridges in polyalicyclic names constructed 
+according to the von Baeyer system (see P-23.2.5.1) and of chain lengths between spiro atoms in von Baeyer 
+spiro names (see P-24.2.1). 
+ru: Точки используются для разделения чисел, обозначающих длину мостиков в полиалициклических названиях, построенных 
+по системе фон Байера (см. P-23.2.5.1), и длину цепей между спироатомами в спирономенах фон Байера (см. P-24.2.1).
+
+@Examples
+
+@cell
+en: bicyclo[3.2.1]octane (PIN, P-23.2.3) 
+ru: бицикло[3.2.1]октан (PIN, P-23.2.3)
+
+@cell
+en: 6-oxaspiro[4.5]decane (PIN, P-24.2.4.1.1) 
+ru: 6-оксаспиро[4.5]декан (PIN, P-24.2.4.1.1)
+
+@End
+
+#P-16.2.3
+en: Colons and semicolons
+ru: Двоеточия и точки с запятой
+
+en: Colons separate related sets of locants; if a higher level of separation is required, semicolons are used.
+ru: Двоеточия разделяют связанные наборы локантов; если требуется более высокий уровень разделения, используются точки с запятой.
+
+@Examples
+
+@cell
+en: benzo[1′′,2′′:3,4;4′′,5′′:3,4]dicyclobuta[1,2-_b_:1′,2′-_c_′]difuran (PIN, see P-25.3.7.3) 
+ru: бензо[1′′,2′′:3,4;4′′,5′′:3,4]дициклобута[1,2-_b_:1′,2′-_c_′]дифуран (PIN, см. P-25.3.7.3)
+
+@cell
+en: 1^{1},2^{1}:2^{2},3^{1}-tercyclopropane (PIN, see P-28.3.1) 
+ru: 1^{1},2^{1}:2^{2},3^{1}-терциклопропан (PIN, см. P-28.3.1)
+
+@End
+
+#P-16.2.4
+en: Hyphens
+ru: Дефисы
+
+#P-16.2.4.1+
+en: Hyphens are used in substitutive names: 
+ru: Дефисы используются в замещающих именах:
+
+#(a)
+en: to separate locants from words or word fragments; 
+ru: отделять локанты от слов или фрагментов слов;
+
+@Examples
+
+@cell
+en: 2-chloro-2-methylpropane (PIN, P-61.3.1) 
+ru: 2-хлор-2-метилпропан (PIN, P-61.3.1)
+
+@End
+
+#(b)
+en: after parentheses, if the closing parenthesis is followed by a locant;
+ru: после скобок, если за закрывающей скобкой следует локант;
+
+@Examples
+
+@cell
+en: 1-(chloromethyl)-4-nitrobenzene (PIN, P-61.5.1) 
+ru: 1-(хлорметил)-4-нитробензол (PIN, P-61.5.1)
+
+@cell
+en: _N_^{1}-(2-aminoethyl)-_N_^{1},_N_^{2},_N_^{2}-trimethylethane-1,2-diamine (PIN, P-62.2.4.1.3)
+ru: _N_^{1}-(2-аминоэтил)-_N_^{1},_N_^{2},_N_^{2}-триметилэтан-1,2-диамин (PIN, P-62.2.4.1.3)
+
+@End
+
+#(c)
+en: to separate adjacent locants from a subsequent opening enclosing mark; 
+ru: для отделения смежных локантов от последующего открывающегося ограждающего знака;
+
+@Examples
+
+@cell
+en: 1-(3,4-dihydroquinolin-1(2_H_)-yl)ethan-1-one (PIN, P-64.3.2) 
+ru: 1-(3,4-дигидрохинолин-1(2_H_)-ил)этан-1-он (PIN, P-64.3.2)
+
+@cell
+en: _N_-acetyl-_N_-(3-chloropropanoyl)benzamide (PIN, P-66.1.2.1) 
+ru: _N_-ацетил-_N_-(3-хлорпропаноил)бензамид (PIN, P-66.1.2.1)
+
+@End
+
+#(d)
+en: to separate italic letters from Roman letters;
+ru: для отделения курсивных букв от латинских;
+
+@Examples
+
+@cell
+en: di-_tert_-butyl (P-61.2.3) 
+ru: ди-_трет_-бутил (P-61.2.3)
+
+@cell
+en: _as_-indacene (P-25.1.1) 
+ru: _as_-индацен (P-25.1.1)
+
+@End
+
+#P-16.2.4.2+
+en: No hyphen is placed after a numerical prefix cited in front of a compound substituent enclosed by 
+parentheses, even if that substituent begins with locants;
+ru: После числового префикса, указанного перед составным заместителем, заключенным в скобки, дефис не ставится, 
+даже если этот заместитель начинается с локантов;
+
+@Examples
+
+@cell
+en: _N_,1-bis(4-chlorophenyl)methanimine (PIN, P-62.3.1.1) 
+ru: _N_,1-бис(4-хлорфенил)метанимин (PIN, P-62.3.1.1)
+
+@End
+
+#P-16.2.4.3+
+en: Hyphens separate the two parts of a fusion descriptor, i.e., numbers and italicized letters. 
+ru: Дефисы разделяют две части дескриптора слияния, т. е. цифры и курсивные буквы.
+
+@Examples
+
+@cell
+en: naphtho[1,2-_a_]azulene (PIN, P-25.3.1.3)
+ru: нафто[1,2-_a_]азулен (PIN, P-25.3.1.3)
+
+@End
+
+#P-16.2.4.4+
+en: Hyphens separate stereodescriptors from the rest of the name or the part of a name to which they relate.
+ru: Дефисы отделяют стереодескрипторы от остальной части имени или части имени, к которой они относятся.
+
+@Examples
+
+@cell
+en: (2_E_)-but-2-ene (PIN, P-93.4.2.1.1) 
+ru: (2_Е_)-бут-2-ен (PIN, P-93.4.2.1.1)
+
+@End
+
+#P-16.2.4.5+
+en: A long hyphen (an ‘em’ dash) is used to separate the names of components in adducts. 
+ru: Длинный дефис (тире) используется для разделения названий компонентов в аддуктах.
+
+@Examples
+
+@cell
+en: carbon monoxide—methylborane (PIN, P-13.3.5)
+ru: оксид углерода — метилборан (PIN, P-13.3.5)
+
+@End
+
+#P-16.2.5+
+en: Spaces are a very important type of punctuation for many kinds of names in the English language. If a 
+space is required in a name, it must be used. On the other hand, the use of spaces where they are not required, 
+for example, in substitutive names that must be written continuously from one end to the other using hyphens to 
+connect the different parts, may be misleading. Spaces are used in:
+ru: Пробелы являются очень важным типом пунктуации для многих видов имен в английском языке. Если в имени требуется 
+пробел, он должен быть использован. С другой стороны, использование пробелов там, где они не требуются, например, 
+в замещающих именах, которые должны быть написаны непрерывно от одного конца до другого с использованием дефисов для 
+соединения различных частей, может ввести в заблуждение. Пробелы используются в:
+
+#(a)
+en: names of acids and salts;
+ru: названия кислот и солей;
+
+@Examples
+
+@cell
+en: acetic acid (PIN, P-65.1.1.1) 
+ru: уксусная кислота (PIN, P-65.1.1.1)
+
+@cell
+en: sodium 4-ethoxy-4-oxobutanoate (PIN, P-65.6.3.3.5) 
+ru: 4-этокси-4-оксобутаноат натрия (PIN, P-65.6.3.3.5)
+
+@End
+
+#(b)
+en: functional class names; 
+ru: имена функциональных классов 
+(однако правила построения русских названий отличаются от английских. поэтому тут пробелов нет);
+
+@Examples
+
+@cell
+en: ethyl acetate (PIN, P-65.6.3.2.1) 
+ru: этилацетат (PIN, P-65.6.3.2.1)
+
+@cell
+en: 2-(carbonocyanidothioyl)benzoyl chloride (PIN, P-65.5.4) 
+ru: 2-(карбоцианидотиоил)бензоилхлорид (PIN, P-65.5.4)
+
+@cell
+en: butyl ethyl sulfoxide (P-63.6) <br>
+1-(ethanesulfinyl)butane (PIN)
+ru: бутилэтилсульфоксид (P-63.6) <br>
+1-(этансульфинил)бутан (PIN)
+
+@End
+
+#(c)
+en: names formed using a functional modifier; 
+ru: имена, образованные с помощью функционального модификатора;
+
+@Examples
+
+@cell
+en: cyclohexanone ethyl methyl ketal (P-66.6.5.1.1) <br>
+1-ethoxy-1-methoxycyclohexane (PIN) 
+ru: циклогексанон этил метил кеталь (P-66.6.5.1.1) <br>
+1-этокси-1-метоксициклогексан (PIN)
+
+@cell
+en: pentan-2-one oxime (P-68.3.1.1.2) <br>
+(pentan-2-ylidene)hydroxylamine <br>
+_N_-hydroxypentan-2-imine (PIN)
+ru: пентан-2-он оксим (P-68.3.1.1.2) <br>
+(пентан-2-илиден)гидроксиламин <br>
+_N_-гидроксипентан-2-имин (PIN)
+
+@End
+
+#(d)
+en: additive names;
+ru: аддитивные имена;
+
+@Examples
+
+@cell
+en: ethene oxide (P-63.5) <br>
+oxirane (PIN) 
+ru: этилена окись (P-63.5) <br>
+// Вариант названия с пробелом для данного вещества взят отсюда 
+// https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B8%D1%81%D1%8C_%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B0
+оксиран (PIN)
+
+@cell
+en: trimethylphosphane oxide <br>
+trimethyl-λ^{5}-phosphanone (PIN, P-68.3.2.3.1, P-74.2.1.4) 
+ru: триметилфосфан оксид <br>
+триметил-λ^{5}-фосфанон (PIN, P-68.3.2.3.1, P-74.2.1.4)
+
+@End
+
+
+
+#P-16.3 
+en: Multiplicative prefixes and ‘di’, ‘tri’, etc. _vs._ ‘bis’, ‘tris, etc. 
+ru: Мультипликативные префиксы и «ди», «три» и т. д. в сравнении с «бис», «трис» и т. д.
+
+#P-16.3.1+
+en: Multiplicative prefixes are derived from Greek and Latin number names (see P-14.2) and are the 
+principal method for describing a multiplicity of identical features of a structure in chemical names. They are 
+intimately interconnected with enclosing marks, particularly parentheses. 
+ru: Мультипликативные префиксы происходят от греческих и латинских названий чисел (см. P-14.2) и являются основным 
+методом описания множества идентичных признаков структуры в химических названиях. Они тесно связаны с ограждающими знаками, 
+в частности, скобками.
+
+#P-16.3.2
+en: General methodology. 
+ru: Общая методология.
+
+en: The general method to best determine whether ‘di’, ‘tri’, etc. or ‘bis’, ‘tris’, etc. should be used involves the 
+following steps, not necessarily in the order given: 
+ru: Общий метод наилучшего определения того, следует ли использовать «di», «tri» и т. д. или «bis», «tris» и т. д., 
+включает следующие шаги, не обязательно в указанном порядке:
+
+#(a)
+en: determine whether the component to be multiplied is simple or compound. Simple components are 
+unsubstituted parent hydrides, such as naphthalene ; unsubstituted prefixes, such as ethyl or tert-butyl; 
+functionalized parent hydrides, such as benzenesulfonic acid; or retained names, such as acetic acid. All of these 
+are multiplied by the multiplicative prefixes ‘di’, ‘tri’, etc.; 
+ru: определить, является ли компонент, который нужно умножить, простым или сложным. Простые компоненты — это незамещенные 
+исходные гидриды, такие как нафталин; незамещенные префиксы, такие как этил или трет-бутил; функционализированные 
+исходные гидриды, такие как бензолсульфоновая кислота; или сохраненные названия, такие как уксусная кислота. Все они 
+умножаются на мультипликативные префиксы «ди», «три» и т. д.;
+
+#(b)
+en: determine whether these simple nomenclatural components require parentheses (see P-16.3.4) and insert 
+them into the name; 
+ru: определить, требуют ли эти простые номенклатурные компоненты скобок (см. P-16.3.4) и вставить их в название;
+
+#(c)
+en: any component which is substituted automatically requires use of the multiplicative forms ‘bis’, ‘tris’, etc.; 
+ru: любой компонент, который заменяется автоматически, требует использования мультипликативных форм «бис», «трис» и т. д.;
+
+#(d)
+en: determine whether a simple nomenclature component would be ambiguous if multiplied by the 
+multiplicative prefixes ‘di’, ‘tri’, etc., with or without the parentheses (see P-16.3.4).
+ru: определить, будет ли компонент простой номенклатуры неоднозначным, если его умножить на мультипликативные префиксы 
+«ди», «три» и т. д., со скобками или без них (см. P-16.3.4).
+
+#P-16.3.3
+en: The basic numerical prefixes ‘di’, ‘tri’, ‘tetra’, etc. are used to indicate a multiplicity of: 
+ru: Основные числовые префиксы «ди», «три», «тетра» и т. д. используются для указания кратности:
+
+#(a)
+en: functional and cumulative suffixes, basic or modified by functional replacement, with the exception of ‘thioic 
+acid’ and ‘dithioic acid’ described in P-16.3.5 (b); 
+ru: функциональные и кумулятивные суффиксы, основные или модифицированные путем функциональной замены, 
+за исключением «тиоевой кислоты» и «дитиоевой кислоты», описанных в P-16.3.5 (b);
+
+@Examples
+
+@cell
+en: diol (see P-63.1.2) 
+ru: диол (см. P-63.1.2)
+
+@cell
+en: dicarboxylic acid (see P-65.1.1.2.1) 
+ru: дикарбоновая кислота (см. P-65.1.1.2.1)
+
+@cell
+en: disulfonic acid (see P-65.3.1) 
+ru: дисульфоновая кислота (см. P-65.3.1)
+
+@cell
+en: diyl (see P-71.2.3) 
+ru: диил (см. P-71.2.3)
+
+@cell
+en: diide (see P-72.2.2.1) 
+ru: диид (см. P-72.2.2.1)
+
+@cell
+en: diium (see P-73.1.1.2) 
+ru: дииум (см. P-73.1.1.2) 
+
+@cell
+en: diperoxoic acid (see P-65.1.4.1) 
+ru: дипероксоевая кислота (см. P-65.1.4.1)
+
+@cell
+en: dicarboperoxoic acid (see P-65.1.4.1) 
+ru: дикарбопероксоевая кислота (см. P-65.1.4.1)
+
+@cell
+en: diimidic acid (P-65.1.3.1.1) 
+ru: диимидовая кислота (P-65.1.3.1.1)
+
+@cell
+en: dicarbohydrazonic acid (P-65.1.3.2.1) 
+ru: дикарбогидразоновая кислота (P-65.1.3.2.1)
+
+@cell
+en: disulfonoperoxoic acid (see P-65.3.1.2) 
+ru: дисульфонопероксоевая кислота (см. P-65.3.1.2)
+
+@cell
+en: disulfinimidic acid (see P-65.3.1.4) 
+ru: дисульфинимидная кислота (см. P-65.3.1.4)
+
+@cell
+en: disulfonohydrazonimidic acid (see P-65.3.1.4) 
+ru: дисульфоногидразонимидовая кислота (см. P-65.3.1.4)
+
+@cell
+en: dithioamide (see P-66.1.4.1.1) 
+ru: дитиоамид (см. P-66.1.4.1.1)
+
+@cell
+en: diimidamide (see P-66.4.1.1) 
+ru: диимидамид (см. P-66.4.1.1)
+
+@cell
+en: dicarbohydrazonamide (P-66.4.2.1) 
+ru: дикарбогидразонамид (P-66.4.2.1)
+
+@cell
+en: dicarboximidohydrazide (P-66.4.2.1) 
+ru: дикарбоксимидогидразид (P-66.4.2.1)
+
+@cell
+en: dicarboximidamide (see P-66.4.1.1) 
+ru: дикарбоксимидамид (см. P-66.4.1.1)
+
+@End
+
+#(b)
+en: simple substituent prefixes, including parent hydrides with ‘ene’ and ‘yne’ endings (without locants), and 
+characteristic groups 
+ru: простые замещающие префиксы, включая исходные гидриды с окончаниями «ен» и «ин» (без локантов), 
+а также характерные группы
+
+@Examples
+
+@cell
+en: dicyclohexyl (see P-44.1.2) 
+ru: дициклогексил (см. P-44.1.2)
+
+@cell
+en: dimethyl (see P-61.2.3) 
+ru: диметил (см. P-61.2.3)
+
+@cell
+en: di-_tert_-butyl (see P-61.2.3) 
+ru: ди-_трет_-бутил (см. P-61.2.3)
+
+@cell
+en: diethenyl (see P-61.2.3) 
+ru: диэтенил (см. P-61.2.3)
+
+@cell
+en: diimino (see P-62.3.1.2) 
+ru: диимино (см. P-62.3.1.2)
+
+@cell
+en: dibromo (see P-61.3.1)
+ru: дибром (см. P-61.3.1)
+
+@End
+
+#(c)
+en: skeletal ‘a’ replacement prefixes
+ru: скелетные префиксы для замены «a»
+
+@Examples
+
+@cell
+en: trisila (see P-15.4.3.2.1) 
+ru: трисила (см. P-15.4.3.2.1)
+
+@cell
+en: trioxa (see P-15.4.3.2.5)
+ru: триокса (см. P-15.4.3.2.5)
+
+@End
+
+#(d)
+en: multiplied components with retained names and systematic names other than those described in 
+P-16.3.4 (c), P-16.3.4 (d) and P-16.3.4 (e). 
+ru: умноженные компоненты с сохраненными названиями и систематическими названиями, отличными от описанных 
+в P-16.3.4 (c), P-16.3.4 (d) и P-16.3.4 (e).
+
+@Examples
+
+@cell
+en: diphenol (see P-15.3.2.1) 
+ru: дифенол (см. P-15.3.2.1)
+
+@cell
+en: diacetic acid (see P-15.3.2.1; see also P-15.6.1.4) 
+ru: диуксусная кислота (см. P-15.3.2.1; см. также P-15.6.1.4)
+
+@cell
+en: dipropanoic acid (see P-15.3.2.1)
+ru: дипропановая кислота (см. P-15.3.2.1)
+
+@End
+
+#(e)
+en: simple functional modifiers 
+ru: простые функциональные модификаторы
+
+@Examples
+
+@cell
+en: dioxime (see P-68.3.1.1.2) 
+en: диоксим (см. P-68.3.1.1.2)
+
+@cell
+en: dihydrazide (see P-66.3.5.2) 
+ru: дигидразид (см. P-66.3.5.2)
+
+@End
+
+#P-16.3.4
+en: Parentheses (round brackets) (see P-16.6.1) are used to enclose multiplied components that are:
+ru: Скобки (круглые скобки) (см. P-16.6.1) используются для заключения в них умножаемых компонентов, которые:
+
+#(a)
+en: simple substituent prefixes having locants; 
+ru: простые замещающие префиксы, имеющие локанты;
+
+@Examples
+
+@cell
+en: di(propan-2-yl) (preferred prefix; see P-61.2.3) 
+ru: ди(пропан-2-ил) (предпочтительный префикс; см. P-61.2.3)
+
+@cell
+en: tetra(naphthalen-2-yl) (preferred prefix; see P-61.2.3)
+ru: тетра(нафталин-2-ил) (предпочтительный префикс; см. P-61.2.3)
+
+@End
+
+#(b)
+en: simple substituent prefixes modified by ‘ene’ and ‘yne’ endings and that have locants; 
+en: простые замещающие префиксы, модифицированные окончаниями «ен» и «ин» и имеющие локанты;
+
+@Examples
+
+@cell
+en: di(prop-1-en-2-yl) (preferred prefix; see P-68.2.6.1) 
+ru: ди(проп-1-ен-2-ил) (предпочтительный префикс; см. P-68.2.6.1)
+
+@End
+
+#(c)
+en: simple substituent prefixes and functionalized parent hydrides beginning with a multiplicative prefix; 
+ru: простые замещающие префиксы и функционализированные исходные гидриды, начинающиеся с мультипликативного префикса;
+
+@p .framed
+en: This is a change from earlier editions where ‘bi’ was used
+ru: Это изменение по сравнению с предыдущими изданиями, где использовалось «bi»
+
+@Examples
+
+@cell
+en: di(dodecyl) (preferred prefix; see P-68.2.6.1) 
+ru: ди(додецил) (предпочтительный префикс; см. P-68.2.6.1)
+
+@cell
+en: di(tridecyl) (preferred prefix, see P-52.2.8) 
+ru: ди(тридецил) (предпочтительный префикс, см. P-52.2.8)
+
+@cell
+en: di(tetradecane-14,1-diyl) (multipicative preferred prefix: see P-15.3.2.1) 
+ru: ди(тетрадекан-14,1-диил) (мультипликативный предпочтительный префикс: см. P-15.3.2.1)
+
+@cell
+en: di(pentanal) (see P-68.2.6.2) 
+ru: ди(пентанал) (см. P-68.2.6.2)
+
+@End
+
+#(d)
+en: simple substituent groups and functionalized parent hydrides beginning with ‘dec’ to distinguish multiplied 
+groups from acyclic components containing 12 to 19 atoms (see P-15.1.2) 
+ru: простые замещающие группы и функциональные исходные гидриды, начинающиеся с «dec», чтобы отличить умноженные группы 
+от ациклических компонентов, содержащих от 12 до 19 атомов (см. P-15.1.2)
+
+@Examples
+
+@cell
+en: di(decyl) (see P-57.1.1.1) 
+ru: ди(децил) (см. P-57.1.1.1)
+
+@cell
+en: di(decanoic acid) (see P-15.3.2.1) 
+ru: ди(декановая кислота) (см. P-15.3.2.1)
+
+@cell
+en: tri(decyl) [preferred prefix, <br>
+defines three <$–C10H21$> groups, see P-61.2.3, <br>
+tridecyl defines the <$–C13H27$> group, see P-57.1.1.1] 
+ru: три(децил) [предпочтительный префикс, <br>
+определяет три группы <$–C10H21$>, см. P-61.2.3, <br>
+тридецил определяет группу <$–C13H27$>, см. P-57.1.1.1]
+
+@cell
+en: tetra(decanoic acid) (preferred suffix, <br>
+defines four decanoic acid suffixes; <br>
+tetradecanoic acid defines an acid suffix group with fourteen atoms) 
+ru: тетра(декановая кислота) (предпочтительный суффикс, <br>
+определяет четыре суффикса декановой кислоты; <br>
+тетрадекановая кислота определяет группу суффикса кислоты с четырнадцатью атомами)
+
+@End
+
+#(e)
+en: functionalized parent hydrides with locants;
+ru: функционализированные исходные гидриды с локантами;
+
+@Examples
+
+@cell
+en: di(benzene-1-sulfonic acid) (see P-15.3.2.1) 
+ru: ди(бензол-1-сульфоновая кислота) (см. P-15.3.2.1)
+
+@cell
+en: di(cyclohexane-1-carboxylic acid) (see P-15.3.2.1)
+ru: ди(циклогексан-1-карбоновая кислота) (см. P-15.3.2.1)
+
+@End
+
+#(f)
+en: simple components containing brackets;
+ru: простые компоненты, содержащие скобки;
+
+@Examples
+
+@cell
+en: 8,8′-oxydi(spiro[4.5]decane) (PIN; see P-15.3.2.1) 
+ru: 8,8'-оксиди(спиро[4.5]декан) (PIN; см. P-15.3.2.1)
+
+@cell
+en: di(bicyclo[3.2.1]octan-3-yl) (preferred prefix; see P-44.2.1.1) 
+ru: ди(бицикло[3.2.1]октан-3-ил) (предпочтительный префикс; см. P-44.2.1.1)
+
+@cell
+en: di([4-^{2}H]benzoyl) (preferred prefix, see P-83.1.2.2) 
+ru: ди([4-^{2}H]бензоил) (предпочтительный префикс, см. P-83.1.2.2)
+
+@End
+
+#P-16.3.5
+en: The numerical prefixes ‘bis’, ‘tris’, ‘tetrakis’, etc. are used to indicate a multiplicity of:
+ru: Числовые префиксы «бис», «трис», «тетракис» и т. д. используются для указания кратности:
+
+#(a)
+en: compound or complex (i.e. substituted) prefixes (see P-35.3 and P-35.4); 
+ru: составные или сложные (т.е. замещенные) префиксы (см. P-35.3 и P-35.4);
+
+@Examples
+
+@cell
+en: bis(2-chloropropan-2-yl) (preferred prefix; see P-61.3.1) 
+ru: бис(2-хлорпропан-2-ил) (предпочтительный префикс; см. P-61.3.1)
+
+@cell
+en: bis(dimethylamino) (preferred prefix; see P-62.5) 
+ru: бис(диметиламино) (предпочтительный префикс; см. P-62.5)
+
+@cell
+en: ethane-1,2-diylbis(oxymethylene) (preferred prefix; see P-15.3.2.1) 
+ru: этан-1,2-диилбис(оксиметилен) (предпочтительный префикс; см. P-15.3.2.1)
+
+@cell
+en: bis(bromomethyl) (preferred prefix, see P-61.3.1) 
+ru: бис(бромметил) (предпочтительный префикс, см. P-61.3.1)
+
+@End
+
+#(b)
+en: ‘thioic acid’ and ‘dithioic acid’ suffixes, and their Se and Te analogues, as exceptions to suffixes described in 
+P-16.3.3 and P-16.3.4;
+ru: суффиксы «тиоевая кислота» и «дитиоевая кислота», а также их аналоги Se и Te, как исключения из суффиксов, 
+описанных в P-16.3.3 и P-16.3.4;
+
+@Examples
+
+@cell
+en: bis(thioic acid) [multiple preferred suffix, <br>
+describes two –C(O/S)H suffixes, see P-65.1.5.1; <br>
+whereas dithioic acid describes a –CSSH suffix, see P-65.1.5.1] 
+ru: бис(тиоевая кислота) [несколько предпочтительных суффиксов, <br>
+описывает два суффикса –C(O/S)H, см. P-65.1.5.1; <br>
+тогда как дитиоевая кислота описывает суффикс –CSSH, см. P-65.1.5.1]
+
+@cell
+en: bis(dithioic acid) (multiple preferred suffix, <br>
+describes two –CSSH suffixes, see P-65.1.5.1) <br>
+not didithoic acid 
+ru: бис(дитиоевая кислота) (несколько предпочтительных суффиксов, <br>
+описывает два суффикса –CSSH, см. P-65.1.5.1) <br>
+не дидитоевая кислота
+
+@End
+
+#(c)
+en: before suffixes that are composed of two or more cumulative suffixes; 
+ru: перед суффиксами, состоящими из двух или более кумулятивных суффиксов;
+
+@Examples
+
+@cell
+en: bis(ylium) (multiple preferred suffix, <br>
+describes two ‘-ylium’ suffixes, see P-73.2.2.1.2; <br>
+whereas ‘diylium’ could describe a cation radical suffix) 
+ru: бис(илий) (несколько предпочтительных суффиксов, <br>
+описывает два суффикса «-илий», см. P-73.2.2.1.2; <br>
+тогда как «диилий» может описывать суффикс катионного радикала)
+
+@cell
+en: bis(nitrilium) (preferred suffix, <br>
+describes two ‘nitrilium’ suffixes, see P-73.1.2.1; <br>
+whereas ‘dinitrilium’ might be interpreted as two ‘nitrile’ suffixes and one ‘ium’ suffix) 
+ru: бис(нитрилий) (предпочтительный суффикс, <br>
+описывает два суффикса «нитрилий», см. P-73.1.2.1; <br>
+тогда как «динитрилий» можно интерпретировать как два суффикса «нитрил» и один суффикс «иум»)
+
+@End
+
+#(d)
+en: substituted functional modifiers; 
+ru: замещенные функциональные модификаторы;
+
+@Examples
+
+@cell
+en: bis(phenylhydrazone) (see P-68.3.1.2.2) 
+ru: бис(фенилгидразон) (см. P-68.3.1.2.2)
+
+@cell
+en: pentane-2,4-dione bis(_O_-phenyloxime) (see P-68.3.1.1.2) 
+ru: пентан-2,4-дион-бис(_О_-фенилоксим) (см. P-68.3.1.1.2)
+
+@End
+
+#(e)
+en: substituted parent compounds in multiplicative nomenclature. 
+ru: замещенные исходные соединения в мультипликативной номенклатуре.
+
+@Examples
+
+@cell
+en: bis(2-bromobenzoic acid) (see P-15.3.2.4.1) 
+ru: бис(2-бромбензойная кислота) (см. P-15.3.2.4.1)
+
+@cell
+en: bis[5-(1-chloroethyl)pyridine] (see P-15.3.2.4.1)
+ru: бис[5-(1-хлорэтил)пиридин] (см. P-15.3.2.4.1)
+
+@End
+
+#P-16.3.6
+en: The prefixes ‘bis’, ‘tris’, ‘tetrakis’, etc. are also used to avoid ambiguity:
+ru: Префиксы «бис», «трис», «тетракис» и т. д. также используются для избежания двусмысленности:
+
+#(a)
+en: before a mononuclear subset of a polynyclear acyclic structure;
+ru: перед мононуклеарным подмножеством полинуклеарной ациклической структуры;
+
+@Examples
+
+@cell
+en: bis(sulfanyl) (preferred prefix; <br>
+defines two –SH groups, see P-63.1.5; <br>
+whereas disulfanyl defines the –SSH group; see P-63.4.2.2) 
+ru: бис(сульфанил) (предпочтительный префикс; <br>
+определяет две группы –SH, см. P-63.1.5;  <br>
+тогда как дисульфанил определяет группу –SSH; см. P-63.4.2.2)
+
+@cell
+en: tris(sulfanyl) [preferred prefix; <br>
+defines three –SH groups (see P-63.1.5)] <br>
+whereas trisulfanyl (preferred prefix; defines the –SSSH group; see P-68.4.1) 
+ru: трис(сульфанил) [предпочтительный префикс; <br>
+определяет три группы –SH (см. P-63.1.5)] <br>
+тогда как трисульфанил (предпочтительный префикс; определяет группу –SSSH; см. P-68.4.1)
+
+@cell
+en: bis(λ^{4}-sulfanyl) (preferred prefix; <br>
+defines two <$–SH3$> groups) not di(λ^{4}-sulfanyl) 
+ru: бис(λ^{4}-сульфанил) (предпочтительный префикс; <br>
+определяет две группы <$–SH3$>), а не ди(λ^{4}-сульфанил)
+
+@cell
+
+<div class="framed">
+
+en: **Note**: And similarly for the analogous Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, and Tl groups. 
+ru: **Примечание**: И то же самое для аналогичных групп Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In и Tl.
+
+</div>
+
+@cell
+en: bis(phosphonic acid) [preselected name; <br>
+describes two phosphonic acids, see P-67.1.1.2; <br>
+diphosphonic acid describes the acid <% f %>, see P-67.2.1] 
+ru: бис(фосфоновая кислота) [предварительно выбранное название; <br>
+описывает две фосфоновые кислоты, см. P-67.1.1.2; <br>
+дифосфоновая кислота описывает кислоту <% f %>, см. P-67.2.1]
+%f: <$ (HO)(O)PH-O-PH(O)(OH) $>
+
+@cell
+en: bis(hydrogen sulfate) [preselected name; <br>
+describes two (hydrogen sulfate) anions or acid esters, see P-67.1.3.2, <br>
+hydrogensulfate is an inorganic name for <$HSO4^–$>, see ref. 12, IR 8.5] 
+ru: бис(гидросульфат) [предварительно выбранное название; <br>
+описывает два (гидросульфат) аниона или кислотных эфиров, см. P-67.1.3.2, <br>
+гидросульфат — неорганическое название для <$HSO4^–$>, см. ссылку 12, IR 8.5]
+// HSO4^- = гидросульфат http://charchem.org/ru/subst-ref/?id=1772
+// не очень понятна разница между (hydrogen sulfate) и hydrogensulfate
+// Вот с пробелом: https://pubchem.ncbi.nlm.nih.gov/compound/Dithiobis_formamidinium_-bis_hydrogen-sulfate
+// Вот без пробела: https://pubchem.ncbi.nlm.nih.gov/compound/139084982
+// Разницы не видно
+// Возможно, здесь речь идёт о том важно использовать бис, а не ди. 
+// Чтобы не получилось название дигидросульфат. Т.к. это уже серная кислота а не два гидросульфата.
+// Кроме того, например, быват дигидрофосфат http://charchem.org/ru/subst-ref/?id=258
+
+@cell
+en: tris(iodide) [preselected name <br>
+describes three iodide ions, see ref. 12, IR 5.4.2.3; <br>
+triiodide describes the (<$I3^–$>) anion; see ref. 12, IR 5.4.2.3] 
+ru: трис(иодид) [предварительно выбранное название <br>
+описывает три иона иодида, см. ссылку 12, IR 5.4.2.3; <br>
+трииодид описывает анион (<$I3^–$>); см. ссылку 12, IR 5.4.2.3]
+
+@cell
+en: bis(phosphate) [(preselected name) <br>
+Example: D-fructofuranose 1,6-bis(phosphate) (see P-102.5.6.1.2)]
+ru: бис(фосфат) [(предварительно выбранное имя) <br>
+Пример: D-фруктофураноза 1,6-бис(фосфат) (см. P-102.5.6.1.2)]
+
+@End
+
+#(b)
+en: before the retained names of mononuclear divalent substituent groups, such as ‘oxy’, ‘thio’, and ‘methylene’ 
+to distinguish multiplied groups from chains (see P-15.3.1.2.2.1);
+ru: перед сохраненными названиями моноядерных двухвалентных замещающих групп, таких как «окси», «тио» и «метилен», 
+чтобы отличать умноженные группы от цепей (см. P-15.3.1.2.2.1);
+
+@Examples
+
+@cell
+en: bis(oxy) [preferred prefix, <br>
+defines two –O– groups, see P-15.3.2.1; <br>
+whereas ‘dioxy‘ would define the –OO– group, used in the past, see P-15.3.2.1] 
+ru: бис(окси) [предпочтительный префикс, <br>
+определяет две группы –O–, см. P-15.3.2.1; <br>
+тогда как «диокси» будет определять группу –OO–, использовавшуюся в прошлом, см. P-15.3.2.1]
+
+@cell
+en: bis(methylene) [preferred prefix, <br>
+defines two <$–CH2–$> groups, see P-29.4.2; <br>
+whereas dimethylene might be used to define the <$–CH2-CH2–$> group 
+properly named as ethane-1,2-diyl (preferred prefix) or ethylene; see P-29.6.2.3] 
+ru: бис(метилен) [предпочтительный префикс, <br>
+определяет две группы <$–CH2–$>, см. P-29.4.2; <br>
+тогда как диметилен может использоваться для определения группы <$–CH2-CH2–$>, <br>
+правильно названной как этан-1,2-диил (предпочтительный префикс) или этилен; см. P-29.6.2.3]
+
+@cell
+en: bis(azo) defines two –N=N– groups, see P-68.3.1.3.2.3; <br>
+whereas ‘diazo’ is one <$=N2$> group, see P-61.4 <br>
+Example: 3,3′-[methylenebis(azo)]dipropanoic acid 
+ru: бис(азо) определяет две группы –N=N–, см. P-68.3.1.3.2.3; <br>
+тогда как «диазо» — это одна группа <$=N2$>, см. P-61.4 <br>
+Пример: 3,3′-[метиленбис(азо)]дипропановая кислота
+
+@cell
+en: bis(sulfonyl) (preferred prefix, <br>
+defines two <$–SO2–$> groups, see P-65.3.2.3; <br>
+whereas ‘disulfonyl’ is <$–SO2-SO2–$>) <br>
+Example: 3,3′-[oxybis(sulfonyl)]di(propan-1-ol) (PIN; see P-65.3.2.3) 
+ru: бис(сульфонил) (предпочтительный префикс, <br>
+определяет две группы <$–SO2–$>, см. P-65.3.2.3; <br>
+тогда как «дисульфонил» — это <$–SO2-SO2–$>) <br>
+Пример: 3,3′-[оксибис(сульфонил)]ди(пропан-1-ол) (PIN; см. P-65.3.2.3)
+
+@cell
+en: bis(sulfinyl) (preferred prefix, <br>
+defines two –S(O)– groups, see P-65.3.2.3; disulfinyl is –S(O)-S(O)–) <br>
+Example: 3,3′-[azanediylbis(sulfinyl)]di(propan-1-amine) (PIN, see P-65.3.2.3) 
+ru: бис(сульфинил) (предпочтительный префикс, <br>
+определяет две группы –S(O)–, см. P-65.3.2.3; дисульфинил – это –S(O)-S(O)–) ​​<br>
+Пример: 3,3′-[азандиилбис(сульфинил)]ди(пропан-1-амин) (PIN, см. P-65.3.2.3)
+
+@End
+
+#(c)
+en: before skeletal replacement (‘a’) prefixes, such as ‘aza’, ‘oxa’, etc. that are used in the construction of 
+Hantzsch-Widman names and in skeletal replacement (‘a’) nomenclature, to describe clearly the number of 
+replacement atoms in a name or name component; 
+ru: перед префиксами скелетной замены («а»), такими как «аза», «окса» и т. д., которые используются при построении 
+имен Ганча-Видмана и в номенклатуре скелетной замены («а»), чтобы четко описать количество заменяющих атомов в имени или 
+компоненте имени;
+
+@Examples
+
+@cell
+en: benzo[1,2-_c_:3,4-_c_′]bis([1,2,5]oxadiazole) (PIN, <br>
+describes two ‘oxadiazole’ rings, see P-25.3.7.1; <br>
+whereas the name ‘benzo[1,2-_c_:3,4-_c_′]di[1,2,5]oxadiazole’ might describe <br>
+a five-membered ring with two oxygen atoms and two nitrogen atoms, see P-22.2.2.1.1)
+ru: benzo[1,2-_c_:3,4-_c_′]bis([1,2,5]oxadiazole) (PIN, <br>
+описывает два «оксадиазольных» кольца, см. P-25.3.7.1; <br>
+тогда как название «benzo[1,2-_c_:3,4-_c_′]di[1,2,5]oxadiazole» может описывать <br>
+пятичленное кольцо с двумя атомами кислорода и двумя атомами азота, см. P-22.2.2.1.1)
+
+@cell
+en: bis(azacyclododecane) (PIN, <br>
+describes two ‘azacyclododecane’ rings, see P-22.2.3; <br>
+whereas the name diazacyclododecane describes <br>
+a cyclododecane ring with two nitrogen atoms, see P-22.2.3.2.2) 
+ru: бис(азациклододекан) (PIN, <br>
+описывает два кольца «азациклододекан», см. P-22.2.3; <br>
+тогда как название диазациклододекан описывает <br>
+циклододекановое кольцо с двумя атомами азота, см. P-22.2.3.2.2)
+
+@cell
+en: bis(1,2-oxazol-3-yl) [preferred prefix, <br>
+but di(isoxazol-3-yl), see P-16.3.2; <br>
+whereas di(1,2-oxazol-3-yl) might be interpreted <br>
+as a ‘dioxazole’ ring system, see P-22.2.2.1.1]
+ru: бис(1,2-оксазол-3-ил) [предпочтительный префикс, <br>
+но ди(изоксазол-3-ил), см. P-16.3.2; <br>
+тогда как ди(1,2-оксазол-3-ил) можно интерпретировать <br>
+как кольцевую систему «диоксазола», см. P-22.2.2.1.1]
+
+@End
+
+#(d)
+en: before attached components in fusion nomenclature to distinguish a multiplicative prefix from multiplied 
+attached fusion components;
+ru: перед присоединенными компонентами в слитной номенклатуре для различения мультипликативного префикса от 
+умноженных присоединенных слитных компонентов;
+
+@Examples
+
+@cell
+en: bis(benzo[_a_]anthracen-1-yl) (preferred prefix, <br>
+describes two ‘benzo[_a_]anthracen-1-yl prefixes; see P-61.2.4; <br>
+whereas dibenzo[_a_]anthracen-1-yl might be interpreted <br>
+as a dibenzoanthracene ring system; see P-25.3.4.2.1) 
+ru: бис(бензо[_a_]антрацен-1-ил) (предпочтительный префикс, <br>
+описывает два префикса «бензо[_a_]антрацен-1-ил»; см. P-61.2.4; <br>
+тогда как дибензо[_a_]антрацен-1-ил можно интерпретировать <br>
+как дибензоантраценовую кольцевую систему; см. P-25.3.4.2.1)
+
+@cell
+en: bis(cyclobuta[1,2-_c_]furan) (PIN, <br>
+describes two cyclobuta[1,2-_c_]furan ring systems, see P-25.3.7.3; <br>
+whereas dicyclobuta[1,2-_c_]furan might be interpreted <br>
+as a dicyclobutafuran ring system, see P-25.3.6.1) 
+ru: бис(циклобута[1,2-_c_]фуран) (PIN, <br>
+описывает две циклобута[1,2-_c_]фурановые кольцевые системы, см. P-25.3.7.3; <br>
+тогда как дициклобута[1,2-_c_]фуран можно интерпретировать <br>
+как дициклобутафурановую кольцевую систему, см. P-25.3.6.1)
+
+@End
+
+#(e)
+en: before names beginning with a multiplicative prefix ‘di’. 
+ru: перед именами, начинающимися с мультипликативного префикса «ди».
+
+@Examples
+
+@cell
+en: bis(diazonium) (preselected suffix, see P-73.2.2.3) (not didiazonium) 
+ru: бис(диазоний) (предварительно выбранный суффикс, см. P-73.2.2.3) (не дидиазоний)
+
+@cell
+en: bis(diazenyl) (preselected prefix, see P-68.3.1.3.1) (not didiazenyl) 
+ru: бис(диазенил) (предварительно выбранный префикс, см. P-68.3.1.3.1) (не дидиазенил)
+
+@cell
+en: bis(disulfanyl) (preselected prefix, see P-29.3.2.2, P-63.1.5, and P-63.4.2.2) (not didisulfanyl) 
+ru: бис(дисульфанил) (предварительно выбранный префикс, см. P-29.3.2.2, P-63.1.5 и P-63.4.2.2) (не дидисульфанил)
+
+@cell
+en: tris(dihydrogen phosphate) (preselected name; see P-67.1.3.2) (not tridihydrogen phosphate) 
+ru: трис(дигидрогенфосфат) (предварительно выбранное название; см. P-67.1.3.2) (не тридигидрогенфосфат)
+
+@End
+

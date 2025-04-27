@@ -18,15 +18,21 @@ const buildContent = (part, locale, ctx) => {
   }
 
   const list = doc.blocks.filter(isIncluded);
+
   
   let result = `<ul>\n`;
   list.forEach(block => {
     const { headerId } = block.header;
+    const short = doc.shortHeadersMap[headerId];
+
+    const loc = short ? short.loc : block.header.loc;
+    const params = short ? short.params : block.params;
+
     result += `  <li>`;
     result += drawTag("a", {href: ctx.makeRef(headerId)});
     result += headerId;
     result += " ";
-    result += buildLocalChunks(block.header.loc, locale, block.params, ctx);
+    result += buildLocalChunks(loc, locale, params, ctx);
     result += `</a></li>\n`;
   });
   result += `</ul>\n`;

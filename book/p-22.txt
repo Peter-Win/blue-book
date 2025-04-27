@@ -1,0 +1,2040 @@
+#P-22 
+en: Monocyclic parent hydrides 
+ru: Моноциклические исходные гидриды
+
+@Content
+
+#P-22.1 
+en: Monocyclic hydrocarbons 
+ru: Моноциклические углеводороды
+
+#P-22.1.1+
+en: The names of saturated monocyclic hydrocarbons are formed by attaching the nondetachable prefix ‘cyclo’ to 
+the name of the acyclic saturated unbranched hydrocarbon with the same number of carbon atoms. The generic name of 
+monocyclic hydrocarbons is ‘cycloalkane’. Numbering proceeds sequentially around the ring, usually clockwise. For 
+unsaturated monocyclic hydrocarbons, see P-31.1. 
+ru: Названия насыщенных моноциклических углеводородов образуются путем присоединения неотделяемой приставки «цикло» 
+к названию ациклического насыщенного неразветвленного углеводорода с тем же числом атомов углерода. Родовое название 
+моноциклических углеводородов — «циклоалкан». Нумерация идет последовательно по кольцу, обычно по часовой стрелке. 
+Для ненасыщенных моноциклических углеводородов см. P-31.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.5)@n(2,15)_q3@n(1,-90,.4)_q3@n(3,165)
+$>
+
+en: cyclopropane (PIN) 
+ru: циклопропан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\@n(2,-30)|@n(3,30)`/@n(4,90,.4)`\@n(5,150)`|@n(6,-150)/@n(1,-90,.4)
+$>
+
+en: cyclohexane (PIN) 
+ru: циклогексан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\@n(2,-30)|@n(3,30)`/@n(4,90,.4)`\@n(5,90,.5)`/@n(6,90,.4)`\@n(7,90,.5)`/@n(8,90,.4)`\@n(9,150)`|@n(10,-150,.5)/@n(11,-90,.4)\@n(12,-90,.6)/@n(13,-90,.4)\@n(14,-90,.6)/@n(1,-90,.4)
+$>
+
+en: cyclotetradecane (PIN)
+ru: циклотетрадекан (PIN)
+
+@End
+
+#P-22.1.2+ 
+en: Unsubstituted monocyclic hydrocarbon polyenes having the maximum number of non-cumulative double 
+bonds (mancude) and with the general formula of <% f1 %> or <% f2 %> (with _n_ greater than 6) are called annulenes 
+generically. A specific annulene is named as an [_n_]annulene, where _n_ is the number of carbon atoms of the ring and is 
+greater than 6. When _n_ is an odd number, i. e., when the annulene has the general formula <% f2 %>, the extra hydrogen 
+atom is denoted as ‘indicated hydrogen’ (see P-14.7) and is assigned the locant ‘1’. Such annulene names may be used 
+in general nomenclature and are the IUPAC preferred names for parent components in fusion nomenclature  
+(P-25.3.2.1.1); but not as component prefixes. 
+ru: Незамещенные моноциклические углеводородные полиены, имеющие максимальное количество некумулятивных двойных 
+связей (mancude) и с общей формулой <% f1 %> или <% f2 %> (с _n_ больше 6), называются аннуленами в общем смысле. 
+Конкретный аннулен называется [_n_]аннулен, где _n_ — число атомов углерода кольца, больше 6. Когда _n_ — нечетное число, 
+т. е. когда аннулен имеет общую формулу <% f2 %>, дополнительный атом водорода обозначается как «указанный водород» 
+(см. P-14.7) и ему присваивается локант «1». Такие названия аннулена могут использоваться в общей номенклатуре и являются 
+предпочтительными названиями ИЮПАК для исходных компонентов в номенклатуре слияния (P-25.3.2.1.1); но не в качестве 
+префиксов компонентов.
+%f1: <$ C'n'H'n' $>
+%f2: <$ C'n'H'n+1' $>
+
+en: Preferred IUPAC names for fully unsaturated monocyclic hydrocarbons are those of the corresponding 
+cycloalkapolyenes (see P-31.1.3.1). 
+ru: Предпочтительными названиями ИЮПАК для полностью ненасыщенных моноциклических углеводородов являются названия 
+соответствующих циклоалкаполиенов (см. P-31.1.3.1).
+
+en: Benzene is the retained name for <$C6H6$>; the name [6]annulene is not recommended. 
+ru: Бензол — сохраненное название для <$C6H6$>; название [6]аннулен не рекомендуется.
+
+en: In the numbering of annulenes, the locant ‘1’ is placed at any carbon atom in structures having an even number of 
+carbon atoms; in annulenes having an odd number of carbon atoms, the locant ‘1’ is assigned to the carbon atom 
+bearing the indicated hydrogen (see P-14.7). In cycloalkapolyene structures, the locant ‘1’ is always assigned to a 
+carbon atom of a double bond. 
+ru: В нумерации аннуленов локант «1» ставится у любого атома углерода в структурах с четным числом атомов углерода; 
+в аннуленах с нечетным числом атомов углерода локант «1» присваивается атому углерода, несущему указанный водород 
+(см. P-14.7). В структурах циклоалкаполиенов локант «1» всегда присваивается атому углерода двойной связи.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\@n(2,-30)|@n(3,30)`//@n(4,90,.4)`\@n(5,150)`||@n(6,-150)/@n(1,-90,.4)
+$>
+
+en: benzene (PIN; retained name)  <br>
+(not [6]annulene) 
+ru: бензол (PIN; сохраненное название) <br>
+(не [6]аннулен)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\@n(2,-30)|@n(3,30)`//@n(4,90,.4)`\@n(5,90,.5)`//@n(6,90,.4)`\@n(7,150)`||@n(8,-150)/@n(9,-90,.4)\\@n(10,-90,.55)/@n(1,-90,.4)
+$>
+
+en: [10]annulene  <br>
+cyclodeca-1,3,5,7,9-pentaene (PIN, P-25.3.2.1.1)
+ru: [10]аннулен <br>
+циклодека-1,3,5,7,9-пентаен (PIN, Р-25.3.2.1.1)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_p@n(1,-60)_pp@n(2,0)_p@n(3,60)_pp@n(4,85,.5)`/@n(5,90,.4)`\\`|0@n(10,-95,.6)<_qq@n(9,-120)_q@n(8,180)_qq@n(7,120)_q@n(6,95,.5)>/@n(11,-90,.5)\\@n(12,-85,.6)
+$>
+
+en: [12]annulene  <br>
+cyclododeca-1,3,5,7,9,11-hexaene (PIN, P-31.1.3.1)
+ru: [12]аннулен <br>
+циклододека-1,3,5,7,9,11-гексен (ПИН, Р-31.1.3.1)
+
+@cell
+<div class="flex-row">
+<div>
+*: <$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(4,60,.4)_q7@n(3,30)_qq7@n(2,-20)_q7@n(1,-90,.4)_q7@n(7,-160)_qq7@n(6,150)_q7@n(5,120,.4)
+$>
+
+*: **(I)**
+</div>
+<div>
+*: <$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(3,60,.4)_q7@n(2,30)_qq7@n(1,-20)_q7@n(7,-90,.4)_q7@n(6,-160)_qq7@n(5,150)_q7@n(4,120,.4)
+$>
+
+*: **(II)**
+</div>
+</div>
+
+en: **(I)** 1_H_-[7]annulene  <br>
+**(II)** cyclohepta-1,3,5-triene (PIN, P-31.1.3.1) 
+ru: **(I)** 1_H_-[7]аннулен <br>
+**(II)** циклогепта-1,3,5-триен (PIN, P-31.1.3.1)
+
+@cell
+<div class="flex-row">
+<div>
+*: <$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_p@n(1,-60)_p@n(2,0)_pp@n(3,60)_p@n(4,90,.5)`//@n(5,90)`\@n(6,90,.5)`//@n(7,90)`\@n(8,150)`||@n(9,-150)/@n(10,-90)\\@n(11,-90,.6)/@n(12,-90)\\@n(13,-85,.6)
+$>
+
+*: **(I)**
+</div>
+<div>
+*: <$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_p@n(13,-60)_p@n(1,0)_pp@n(2,60)_p@n(3,90,.5)`//@n(4,90)`\@n(5,90,.5)`//@n(6,90)`\@n(7,150)`||@n(8,-150)/@n(9,-90)\\@n(10,-90,.6)/@n(11,-90)\\@n(12,-85,.6)
+$>
+
+*: **(II)**
+</div>
+</div>
+
+en: **(I)** 1_H_-[13]annulene  <br>
+**(II)** cyclotrideca-1,3,5,7,9,11-hexaene (PIN, P-31.1.3.1)
+ru: **(I)** 1_H_-[13]аннулен <br>
+**(II)** циклотридека-1,3,5,7,9,11-гексаен (PIN, P-31.1.3.1)
+
+@End
+
+#P-22.1.3 
+en: Parent hydrocarbons having retained names
+ru: Исходные углеводороды, сохранившие названия
+
+en: Toluene, xylene, and mesitylene are specific parent hydrides that are composed of two components, one cyclic and the 
+other acyclic and saturated. These names are retained due to a long and well established tradition. Toluene and xylene 
+are preferred IUPAC names, but are not freely substitutable; toluene is substitutable under certain conditions, but only 
+for general nomenclature (see P-15.1.8 for a general substitution rules for retained names). 
+ru: Толуол, ксилол и мезитилен — это особые исходные гидриды, состоящие из двух компонентов: одного циклического и другого 
+ациклического и насыщенного. Эти названия сохраняются благодаря давней и хорошо устоявшейся традиции. Толуол и ксилол — 
+предпочтительные названия ИЮПАК, но они не являются свободно заменяемыми; толуол заменяем при определенных условиях, но 
+только для общей номенклатуры (см. P-15.1.8 для общих правил замены для сохраненных названий).
+
+en: Mesitylene is a retained name in general nomenclature only and cannot be substituted.
+ru: Мезитилен — это сохраненное название только в общей номенклатуре и не может быть заменено.
+
+en: The names cumene and cymene are not retained. 
+ru: Названия кумол и цимол не сохранены.
+// кумол http://charchem.org/ru/subst-ref/?id=372
+// цимол http://charchem.org/ru/subst-ref/?id=4831
+
+@p .framed
+en: In the 1993 Guide (ref. 2) these parent hydrides were retained but only limited substitution was allowed. 
+ru: В Руководстве 1993 г. (ссылка 2) эти исходные гидриды были сохранены, но допускалась лишь ограниченная замена.
+
+@Examples 2 --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n([alpha],-90,.6)|@n(1,-30)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/
+$>
+
+@cell
+en: toluene (PIN)  <br>
+(no substitution; for general nomenclature  <br>
+substitution is permitted only by groups listed in P-15.1.8.2.2) 
+ru: толуол (PIN) <br>
+(без замены; для общей номенклатуры <br>
+замена разрешена только группами, перечисленными в P-15.1.8.2.2)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|@n(1,-40)\|@n(3,30)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/\@n(2,-90)/CH3
+$>
+
+@cell
+en: xylene (1,2-, 1,3-, and 1,4-isomers, PINs)  <br>
+(no substitution)  <br>
+_o_-, _m_-, and _p_-xylene
+ru: ксилол (1,2-, 1,3- и 1,4-изомеры, PIN) <br>
+(без замены) <br>
+_o_-, _m_- и _p_-ксилол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|@n(1,-40)\\@n(2,-30)|@n(3,90)<\CH3>`//@n(4,90)`\@n(5,90)<`/H3C>`||@n(6,-150)/
+$>
+
+@cell
+en: mesitylene (no substitution)  <br>
+1,3,5-trimethylbenzene (PIN) 
+ru: мезитилен (без замены) <br>
+1,3,5-триметилбензол (PIN)
+
+@End
+
+
+
+#P-22.2 
+en: Heteromonocyclic parent hydrides 
+ru: Гетеромоноциклические исходные гидриды
+
+@Content
+
+#P-22.2.1 
+en: Retained names of heteromonocycles 
+ru: Сохранённые названия гетеромоноциклов
+
+en: Retained names for ‘mancude’ heteromonocycles and their chalcogen analogues are listed in Table 2.2. 
+ru: Сохранённые названия для гетеромоноциклов «mancude» и их халькогенных аналогов приведены в таблице 2.2.
+
+@p .left-offset
+en: **Note**: The term ‘mancude’ is an acronym for MAximum number of NonCUmulative DoublE bonds. 
+ru: **Примечание**: Термин «mancude» является аббревиатурой от МАКСИМАЛЬНОЕ количество некумулятивных двойных связей.
+
+en: The name ‘pyran’ is modified by functional replacement nomenclature to generate names for chalcogen analogues. 
+ru: Название «пиран» изменено с помощью функциональной замещающей номенклатуры для генерации названий аналогов халькогена.
+
+en: Retained names for saturated heteromonocycles are given in Table 2.3. 
+ru: Сохранённые названия насыщенных гетеромоноциклов приведены в таблице 2.3.
+
+@Table 2.2 
+en: Retained names of mancude heteromonocyclic parent hydrides
+ru: Сохраненные названия манкудных гетеромоноциклических исходных гидридов
+
+@td; colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,0)_qO@n(1,-90,.6)_q_qq
+$>
+
+en: furan (PIN) 
+ru: фуран (PIN) 
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-N@n(3,25,.6)_qq@n(2,-10)_qN<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: imidazole (1_H_-isomer shown;  <br>
+the PIN is 1_H_-imidazole) 
+ru: имидазол (показан 1_H_-изомер; <br>
+PIN — 1_H_-имидазол)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-N@n(3,25,.6)_qq@n(2,-10)_qO@n(1,-90,.6)_q_qq
+$>
+
+en: oxazole  <br>
+1,3-oxazole (PIN) <br>
+thiazole (S instead of O) <br>
+1,3-thiazole (PIN)  <br>
+selenazole (Se instead of O)  <br>
+1,3-selenazole (PIN)  <br>
+tellurazole (Te instead of O)  <br>
+1,3-tellurazole (PIN) 
+ru: оксазол <br>
+1,3-оксазол (PIN) <br>
+тиазол (S вместо O) <br>
+1,3-тиазол (PIN) <br>
+селеназол (Se вместо O) <br>
+1,3-селеназол (PIN) <br>
+теллуразол (Te вместо O) <br>
+1,3-теллуразол (PIN)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qqN@n(2,-10,.5)_qO@n(1,-90,.6)_q_qq
+$>
+
+en: isoxazole  <br>
+1,2-oxazole (PIN)  <br>
+isothiazole (S instead of O)  <br>
+1,2-thiazole (PIN)  <br>
+isoselenazole (Se instead of O)  <br>
+1,2-selenazole (PIN)  <br>
+isotellurazole (Te instead of O)  <br>
+1,2-tellurazole (PIN) 
+ru: изоксазол <br>
+1,2-оксазол (PIN) <br>
+изотиазол (S вместо O) <br>
+1,2-тиазол (PIN) <br>
+изоселеназол (Se вместо O) <br>
+1,2-селеназол (PIN) <br>
+изотеллуразол (Te вместо O) <br>
+1,2-теллуразол (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|`//`\`||/
+$>
+
+en: pyran (2_H_-isomer shown; <br> 
+the PIN is 2_H_-pyran) <br>
+thiopyran (S instead of O) (2_H_-isomer shown;  <br>
+the PIN is 2_H_-thiopyran) <br>
+selenopyran (Se instead of O) (2_H_-isomer shown; <br>
+the PIN is 2_H_-selenopyran) <br>
+telluropyran (Te instead of O) (2_H_-isomer shown;  <br>
+the PIN is 2_H_-telluropyran)
+ru: пиран (показан 2_H_-изомер; <br>
+PIN — 2_H_-пиран) <br>
+тиопиран (S вместо O) (показан 2_H_-изомер; <br>
+PIN — 2_H_-тиопиран) <br>
+селенопиран (Se вместо O) (показан 2_H_-изомер; <br>
+PIN — 2_H_-селенопиран) <br>
+теллуропиран (Te вместо O) (показан 2_H_-изомер; <br>
+PIN — 2_H_-теллуропиран)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\@n(2,-30)|`//N@n(4,90,.6)`\`||/
+$>
+
+en: pyrazine (PIN) 
+ru: пиразин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,30)_qqN@n(2,-30,.6)_qN<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: pyrazole (1_H_-isomer shown;  <br>
+the PIN is 1_H_-pyrazole) 
+ru: пиразол (показан 1_H_-изомер; <br>
+PIN — 1_H_-пиразол)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\N@n(2,-30,.6)|`//`\`||/
+$>
+
+en: pyridazine (PIN)
+ru: пиридазин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\@n(2,-30)|`//`\`||/
+$>
+
+en: pyridine (PIN)
+ru: пиридин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\@n(2,-30)|N@n(3,30,.6)`//`\`||/
+$>
+
+en: pyrimidine (PIN) 
+ru: пиримидин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qN@n(1,90,.6)<_(y-.5)H>_q_qq
+$>
+
+en: pyrrole (1_H_-isomer shown;  <br>
+the PIN is 1_H_-pyrrole) 
+ru: пиррол (показан 1_H_-изомер; <br>
+PIN-код — 1_H_-пиррол)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qSe@n(1,-90,.6)_q_qq
+$>
+
+en: selenophene (PIN)
+ru: селенофен (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qTe@n(1,-90,.6)_q_qq
+$>
+
+en: tellurophene (PIN)
+ru: теллурофен (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qS@n(1,-90,.6)_q_qq
+$>
+
+en: thiophene (PIN) 
+ru: тиофен (PIN)
+
+@EndTable
+
+@Table 2.3 
+en: Retained names of saturated heteromonocyclic parent hydrides 
+ru: Сохраненные названия насыщенных гетеромоноциклических исходных гидридов
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(3,90,.6)_q@n(2,-20)_qO@n(1,-90,.6)_q_q
+$>
+
+en: oxazolidine  <br>
+1,3-oxazolidine (PIN) <br>
+thiazolidine (S instead of O)  <br>
+1,3-thiazolidine (PIN) <br>
+selenazolidine (Se instead of O) <br>
+1,3-selenazolidine (PIN) <br>
+tellurazolidine (Te instead of O) <br>
+1,3-tellurazolidine (PIN) 
+ru: оксазолидин <br>
+1,3-оксазолидин (PIN) <br>
+тиазолидин (S вместо O) <br>
+1,3-тиазолидин (PIN) <br>
+селеназолидин (Se вместо O) <br>
+1,3-селеназолидин (PIN) <br>
+теллуразолидин (Te вместо O) <br>
+1,3-теллуразолидин (PIN)
+
+@td;
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qNH@n(2,-70,.7)_qO@n(1,-90,.6)_q_q
+$>
+
+en: isoxazolidine  <br>
+1,2-oxazolidine (PIN) <br>
+isothiazolidine (S instead of O) <br>
+1,2-thiazolidine (PIN) <br>
+isoselenazolidine (Se instead of O)  <br>
+1,2-selenazolidine (PIN) <br>
+isotellurazolidine (Te instead of O)  <br>
+1,2-tellurazolidine (PIN)
+ru: изоксазолидин <br>
+1,2-оксазолидин (PIN) <br>
+изотиазолидин (S вместо O) <br>
+1,2-тиазолидин (PIN) <br>
+изоселеназолидин (Se вместо O) <br>
+1,2-селеназолидин (PIN) <br>
+изотеллуразолидин (Te вместо O) <br>
+1,2-теллуразолидин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q@n(2,-20)_qN<_(y-.5)H>@n(1,90,.6)_q_q
+$>
+
+en: pyrrolidine (PIN)
+ru: пирролидин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|`/N<_(y.5)H>@n(4,-90,.6)`\`|/
+$>
+
+en: morpholine (PIN) <br>
+thiomorpholine (S instead of O) (PIN)  <br>
+selenomorpholine (Se instead of O) (PIN)  <br>
+telluromorpholine (Te instead of O) (PIN)
+ru: морфолин (PIN) <br>
+тиоморфолин (S вместо O) (PIN) <br>
+селеноморфолин (Se вместо O) (PIN) <br>
+теллуроморфолин (Te вместо O) (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qNH@n(2,-80,.7)_qN<_(y-.5)H>@n(1,90,.6)_q_q
+$>
+
+en: pyrazolidine (PIN) 
+ru: пиразолидин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(3,75,.7)_q@n(2,-20)_qN<_(y-.5)H>@n(1,90,.6)_q_q
+$>
+
+en: imidazolidine (PIN) 
+ru: имидазолидин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.6)\@n(2,-30)|`/`\`|/
+$>
+
+en: piperidine (PIN)
+ru: пиперидин (PIN)
+
+@td colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.6)\|`/N<_(y.5)H>@n(4,-90,.6)`\`|/
+$>
+
+en: piperazine (PIN)
+ru: пиперазин (PIN)
+
+@EndTable
+
+#P-22.2.2 
+en: Heteromonocyclic parent hydrides with 3-10 membered rings (Hantzsch-Widman names) 
+ru: Гетеромоноциклические исходные гидриды с 3-10-членными кольцами (названия Ганча-Видмана)
+
+en: Heteromonocyclic parent hydrides with no more than ten ring members and containing one or more heteroatoms are 
+named by using the extended Hantzsch-Widman system (ref. 21), a modification of the method published in the 1979 
+recommendations (ref. 1) that removes the need for many of the explanatory footnotes and comments. Homogeneous 
+heteromonocyclic ring names are preselected (see P-12.2). The recommendations in the 1979 recommendations 
+continue to be used in CAS fused ring names. 
+ru: Гетеромоноциклические исходные гидриды с не более чем десятью членами кольца и содержащие один или более гетероатомов, 
+именуются с использованием расширенной системы Ганча-Видмана (ссылка 21), модификации метода, опубликованного 
+в рекомендациях 1979 года (ссылка 1), которая устраняет необходимость во многих пояснительных сносках и комментариях. 
+Однородные гетеромоноциклические названия колец выбираются заранее (см. P-12.2). Рекомендации в рекомендациях 1979 года 
+продолжают использоваться в названиях конденсированных колец CAS.
+
+@p .framed
+en: The elements aluminium, gallium, indium, and thallium are now included in the recommended Hantzsch-Widman 
+system and mercury has been deleted.
+ru: Элементы алюминий, галлий, индий и таллий теперь включены в рекомендуемую систему Ганча-Видмана, 
+а ртуть исключена.
+
+#P-22.2.2.1
+en: Constructing and numbering Hantzsch-Widman names
+ru: Построение и нумерация названий Ганча-Видмана
+
+#P-22.2.2.1.1+ 
+en: Hantzsch-Widman names are formed by combining skeletal replacement (‘a’) prefix(es) for the 
+heteroatom(s) (Table 2.4) with a stem indicating the size of the ring and the degree of hydrogenation (Table 2.5). The 
+final ‘a’ vowel between ‘a’ prefixes and between the ‘a’ prefix and the stem are elided. Unsaturated compounds are 
+those having the maximum number of noncumulative double bonds (mancude compounds) and at least one double 
+bond. The presence of a single heteroatom determines the numbering in a monocyclic compound; the heteroatom has 
+the locant ‘1’ and the numbering usually proceeds clockwise, when unsubstituted. 
+ru: Названия Ганча-Видмана образуются путем объединения скелетного замещающего префикса (‘a’) для гетероатома (гетероатомов) 
+(таблица 2.4) с основой, указывающей размер кольца и степень гидрирования (таблица 2.5). Конечная гласная ‘a’ 
+между префиксами ‘a’ и между префиксом ‘a’ и основой опускается. Ненасыщенные соединения — это те, которые имеют 
+максимальное количество некумулятивных двойных связей (соединений mancude) и по крайней мере одну двойную связь. 
+Наличие одного гетероатома определяет нумерацию в моноциклическом соединении; гетероатом имеет локант ‘1’, и нумерация 
+обычно продолжается по часовой стрелке, если он незамещен.
+
+en: Hantzsch-Widman names, except for azine and oxine, are preferred IUPAC names for both the unsaturated and 
+saturated compounds. Azine must not be used for pyridine because of its long-established use as a class name for  
+=N-N= compounds (see P-68.3.1.2.3). Oxine must not be used for pyran because it has been used as a trivial name for 
+quinolin-8-ol. 
+ru: Названия Ганча-Видмана, за исключением азина и оксина, являются предпочтительными названиями ИЮПАК как для 
+ненасыщенных, так и для насыщенных соединений. Азин не должен использоваться для пиридина из-за его давнего использования 
+в качестве названия класса для соединений =N-N= (см. P-68.3.1.2.3). Оксин не должен использоваться для пирана, 
+поскольку он использовался как тривиальное название для хинолин-8-ола.
+
+en: Hantzsch-Widman names are preselected names for homogeneous heteromonocycles other than hydrocarbons (see  
+P-22.2.5).
+ru: Названия Ганча-Видмана — это предварительно выбранные названия для однородных гетеромоноциклов, отличных от 
+углеводородов (см. P-22.2.5).
+
+@p .framed
+en: The final ‘e’ in Hantzsch-Widman names is required in preferred IUPAC names; it is still optional in general 
+nomenclature. In the 1979 Rules (ref. 1), the final ‘e’ of a Hantzsch-Widman name was omitted when there was no 
+nitrogen in the ring; in the 1993 Guide (ref. 2) this omission was made optional. 
+ru: Конечное «e» в названиях Ганча-Видмана требуется в предпочтительных названиях ИЮПАК; оно все еще необязательно 
+в общей номенклатуре. В Правилах 1979 г. (ссылка 1) конечное «e» в названиях Ганча-Видмана опускалось, когда в кольце 
+не было азота; в Руководстве 1993 г. (ссылка 2) это упущение стало необязательным.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(4,60)_q7@n(3,20)_qq7@n(2,-10)_q7S@n(1,-90,.6)_q7@n(7,-170)_qq7@n(6,160)_q7@n(5,120)
+$>
+
+en: thiepine (PIN) 
+ru: тиепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-O@n(1,-40,.6)_p8@n(2,-20)_p8@n(3,20)_p8@n(4,70)_p8@n(5,110)_p8@n(6,160)_p8@n(7,-160)_p8@n(8,-110)
+$>
+
+en: oxocane (PIN) 
+ru: оксокан (PIN)
+
+@End
+
+@Table 2.4 
+en: Hantzsch-Widman system prefixes (in decreasing order of seniority) 
+ru: Префиксы системы Ганча-Видмана (в порядке убывания старшинства)
+
+@th
+en: Element
+ru: Элемент
+
+@th
+en: Bonding Number  <br>
+(Valence)
+ru: Число связей <br>
+(Валентность)
+
+@th
+en: Prefix
+ru: Префикс
+
+@th .empty-column
+
+@th
+en: Element
+ru: Элемент
+
+@th
+en: Bonding Number  <br>
+(Valence)
+ru: Число связей <br>
+(Валентность)
+
+@th
+en: Prefix
+ru: Префикс
+
+@td
+en: fluorine 
+ru: фтор
+
+@td
+1 
+
+@td
+en: fluora
+ru: фтора
+
+@td
+
+@td
+en: antimony 
+ru: сурьма
+
+@td
+3 
+
+@td
+en: stiba 
+ru: стиба
+
+@td
+en: chlorine 
+ru: хлор
+
+@td
+1 
+
+@td
+en: chlora  
+ru: хлора
+
+@td
+
+@td
+en: bismuth 
+ru: висмут
+
+@td
+3 
+
+@td
+en: bisma
+ru: висма
+
+@td
+en: bromine 
+ru: бром
+
+@td
+1 
+
+@td
+en: broma
+ru: брома
+
+@td
+
+@td
+en: silicon 
+ru: кремний
+
+@td
+4 
+
+@td
+en: sila 
+ru: сила
+
+@td
+en: iodine
+ru: иод
+
+@td
+1 
+
+@td
+en: iod
+ru: иода
+
+@td
+
+@td
+en: germanium 
+ru: германий
+
+@td
+4 
+
+@td
+en: germa
+ru: герма
+
+@td
+en: oxygen 
+ru: кислород
+
+@td
+2 
+
+@td
+en: oxa  
+ru: окса
+
+@td
+
+@td
+en: tin 
+ru: олово
+
+@td
+4 
+
+@td
+en: stanna
+ru: станна
+
+@td
+en: sulfur 
+ru: сера
+
+@td
+2 
+
+@td
+en: thia  
+ru: тиа
+
+@td
+
+@td
+en: lead 
+ru: свинец
+
+@td
+4 
+
+@td
+en: plumba 
+ru: плюмба
+
+@td
+en: selenium 
+ru: селен
+
+@td
+2 
+
+@td
+en: selena  
+ru: селена
+
+@td
+
+@td
+en: boron 
+ru: бор
+
+@td
+3 
+
+@td
+en: bora 
+ru: бора
+
+@td
+en: tellurium 
+ru: теллур
+
+@td
+2 
+
+@td
+en: tellura
+ru: теллура
+
+@td
+
+@td
+en: aluminium 
+ru: алюминий
+
+@td
+3 
+
+@td
+en: aluma^{1} (not alumina) 
+ru: алюма^{1} (не алюмина)
+
+@td
+en: nitrogen 
+ru: азот
+
+@td
+3 
+
+@td
+en: aza  
+ru: аза
+
+@td
+
+@td
+en: gallium 
+ru: галлий
+
+@td
+3 
+
+@td
+en: galla
+ru: галла
+
+@td
+en: phosphorus 
+ru: фосфор
+
+@td
+3 
+
+@td
+en: phospha  
+ru: фосфа
+
+@td
+
+@td
+en: indium 
+ru: индий
+
+@td
+3 
+
+@td
+en: indiga^{1} (not inda)
+ru: индига^{1} (не инда)
+
+@td
+en: arsenic 
+ru: мышьяк
+
+@td
+3 
+
+@td
+en: arsa  
+ru: арса
+
+@td
+
+@td
+en: thallium 
+ru: таллий
+
+@td
+3
+
+@td
+en: thalla 
+ru: талла
+
+@EndTable
+
+@p .centred
+en: ^{1} Compare with Table 1.5
+ru: ^{1} Сравните с таблицей 1.5
+
+@Table 2.5 
+en: Hantzsch-Widman system stems
+ru: Основы системы Ганча-Видмана
+
+@th
+en: Ring Size
+ru: Размер кольца
+
+@th
+en: Unsaturated
+ru: Ненасыщенные
+
+@th
+en: Saturated
+ru: Насыщенные
+
+@th .empty-column
+
+@th
+en: Ring Size
+ru: Размер кольца
+
+@th
+en: Unsaturated
+ru: Ненасыщенные
+
+@th
+en: Saturated
+ru: Насыщенные
+
+@td
+3 
+
+@td
+en: irene/irine^{1} 
+ru: ирен/ирин^{1}
+// оксирен / азирин
+
+@td
+en: irane/iridine^{2}
+ru: иран/иридин^{2}
+
+@td  
+
+@td
+7
+
+@td
+en: epine 
+ru: епин
+
+@td
+en: epane
+ru: епан
+// оксадитиепан
+
+@td
+4 
+
+@td
+ete
+// на глаз не получается перевести
+
+@td
+en: etane/etidine^{2}
+ru: етан/етидин^{2}
+// оксетан, азетидин
+
+@td
+
+@td  
+8 
+
+@td
+en: ocine 
+ru: оцин
+// диазоцин
+
+@td
+ocane 
+
+@td
+5 
+
+@td
+en: ole 
+ru: ол
+// тиазол, фосфол
+
+@td
+en: olane/olidine^{2}
+ru: олан/олидин^{2}
+// диоксолан 
+
+@td  
+
+@td
+9 
+
+@td
+onine 
+
+@td
+onane
+
+@td
+6A (O, S ,Se, Te, Bi) 
+
+@td
+ine 
+
+@td
+ane
+
+@td 
+
+@td
+10 
+
+@td
+ecine 
+
+@td
+ecane
+
+@td
+6B (N, Si, Ge, Sn, Pb)  
+
+@td
+ine 
+
+@td
+en: inane  
+ru: инан
+// гексасилинан
+
+@td
+
+@td colspan=3
+
+@td
+6C (F, Cl, Br, I, P, As,  <br>
+Sb, B, Al, Ga, In, Tl) 
+
+@td
+en: inine 
+ru: инин
+// трифосфинин, трифосфатриборинин
+
+@td
+en: inane
+ru: инан
+// оксарсинан, трифосфатриборинан
+
+@td
+
+@td colspan=3
+
+@EndTable
+
+@p .centred
+en: ^{1} See P-22.2.2.1.5.1
+ru: ^{1} См. P-22.2.2.1.5.1
+
+@p .centred
+en: ^{2} See P-22.2.2.1.5.2
+ru: ^{2} См. P-22.2.2.1.5.2
+
+#P-22.2.2.1.2+ 
+en: A multiplicity of the same heteroatom is indicated by a multiplying prefix ‘di’, ‘tri’, ‘tetra’, etc., placed 
+before the appropriate ‘a’ term. The final letter ‘a’ of a multiplying prefix is elided before a vowel, e.g., tetrazole, not 
+tetraazole. Lowest possible locants are assigned to heteroatoms, locant ‘1’ being assigned to one of the heteroatoms. 
+Locants are cited at the front of the name, i.e., before the skeletal replacement (‘a’) term and any preceding numerical 
+prefixes. 
+ru: Множественность одного и того же гетероатома обозначается умножающим префиксом «ди», «три», «тетра» и т. д., 
+помещенным перед соответствующим термином «а». Последняя буква «а» умножающего префикса опускается перед гласной, 
+например, тетразол, а не тетраазол. Гетероатомам присваиваются самые низкие возможные локанты, локант «1» присваивается 
+одному из гетероатомов.
+Локанты указываются в начале имени, т. е. перед термином скелетной замены («а») и любыми предшествующими числовыми префиксами.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-N@n(1,-40,.6)_pp8@n(2,-20)_p8@n(3,20)_pp8@n(4,70)_p8N@n(5,130,.6)_pp8@n(6,160)_p8@n(7,-160)_pp8@n(8,-110)
+$>
+
+en: 1,5-diazocine (PIN) 
+ru: 1,5-диазоцин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-O@n(3,30,.6)_q@n(2,-20)_qO@n(1,-90,.6)_q@n(5,-160)_q@n(4,150)
+$>
+
+en: 1,3-dioxolane (PIN) 
+ru: 1,3-диоксолан (PIN)
+
+@End
+
+#P-22.2.2.1.3+
+en: If two or more kinds of heteroatoms occur in the same name, their order of citation follows the sequence: 
+F, Cl, Br, I, O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, Tl. The locant ‘1’ is given to a heteroatom that 
+occurs first in the seniority sequence used for citation of the skeletal replacement (‘a’) prefixes. The numbering is then 
+chosen to give lowest locants to heteroatoms considered as a set in ascending numerical order. Locants are cited at the 
+front of the name, in the order of citation of the skeletal replacement (‘a’) prefixes. 
+ru: Если в одном и том же имени встречаются два или более видов гетероатомов, то порядок их цитирования соответствует 
+последовательности: F, Cl, Br, I, O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, Tl. Локант «1» 
+присваивается гетероатому, который встречается первым в последовательности старшинства, используемой для цитирования 
+префиксов замены скелета («a»). Затем нумерация выбирается так, чтобы дать самые низкие локанты гетероатомам, 
+рассматриваемым как набор, в порядке возрастания номеров. Локанты цитируются в начале имени в порядке цитирования 
+префиксов замены скелета («a»).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-N@n(3,30,.6)_qq@n(2,-20)_qS@n(1,-90,.6)_q@n(5,-160)_qq@n(4,150)
+$>
+
+en: 1,3-thiazole (PIN)
+ru: 1,3-тиазол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,30)_qS@n(2,-20,.6)_qO@n(1,-90,.6)_q@n(5,-160)_q@n(4,150)
+$>
+
+en: 1,2-oxathiolane (PIN)
+ru: 1,2-оксатиолан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(4,60)_q7@n(3,30)_q7S@n(2,-20,.5)_q7O@n(1,-90,.6)_q7@n(7,-160)_q7S@n(6,150,.5)_q7@n(5,120)
+$>
+
+en: 1,2,6-oxadithiepane (PIN)  <br>
+(not 1,3,7-oxadithiepane;  <br>
+the locant set ‘1,2,6’ is lower than ‘1,3,7’) 
+ru: 1,2,6-оксадитиепан (PIN) <br>
+(не 1,3,7-оксадитиепан; <br>
+локантный набор «1,2,6» меньше, чем «1,3,7»)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(4,60)_q7@n(3,30)_q7NH@n(2,-80,.6)_q7O@n(1,-90,.6)_q7@n(7,-160)_q7O@n(6,150,.5)_q7@n(5,120)
+$>
+
+en: 1,6,2-dioxazepane (PIN)  <br>
+(not 1,3,4-dioxazepane;  <br>
+not 1,3,7-dioxazepane;  <br>
+not 1,6,5-dioxazepane;  <br>
+the locant set ‘1,2,6’ is lower than ‘1,3,4’, ‘1,3,7’, or ‘1,5,6’) 
+ru: 1,6,2-диоксазепан (PIN) <br>
+(не 1,3,4-диоксазепан; <br>
+не 1,3,7-диоксазепан; <br>
+не 1,6,5-диоксазепан; <br>
+локантный набор «1,2,6» меньше, чем «1,3,4», «1,3,7» или «1,5,6»)
+// Пока непонятно, почему в названии 1,6,2. А для сравнения используется 1,2,6
+
+@End
+
+en: If there is a further choice, lowest locants are assigned to heteroatoms in the order that they appear in the seniority 
+sequence (see Table 2.4). 
+ru: Если есть дальнейший выбор, самые низкие локанты присваиваются гетероатомам в том порядке, в котором они появляются 
+в последовательности старшинства (см. Таблицу 2.4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,30)_qqN@n(2,-20,.5)_qO@n(1,-90,.6)_qP@n(5,-160,.5)_qq@n(4,150)
+$>
+
+en: 1,2,5-oxazaphosphole (PIN)  <br>
+(not 1,5,2-oxazaphosphole;  <br>
+N has priority over P for lowest locant) 
+ru: 1,2,5-оксазафосфол (PIN) <br>
+(не 1,5,2-оксазафосфол; <br>
+N имеет приоритет над P для самого низкого локанта)
+
+@End
+
+#P-22.2.2.1.4 
+en: Indicated hydrogen 
+ru: Указанный водород
+
+en: After the maximum number of noncumulative double bonds has been assigned to the ring structure, any ring atom with 
+a bonding number of three or higher connected to adjacent ring atoms by single bonds only, and carrying one or more 
+hydrogen atoms, is designated by indicated hydrogen (see P-14.7). If there is a choice, such ring atoms are assigned low 
+locants. 
+ru: После того, как максимальное число некумулятивных двойных связей было назначено кольцевой структуре, любой 
+кольцевой атом с числом связей три или выше, соединенный с соседними кольцевыми атомами только одинарными связями и 
+несущий один или несколько атомов водорода, обозначается как указанный водород (см. P-14.7). Если есть выбор, таким 
+кольцевым атомам назначаются меньшие локанты.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(4,60)_q7@n(3,20)_qq7@n(2,-20)_q7N<_(y-.5)H>@n(1,-30,.55)_q7@n(7,-160)_qq7@n(6,160)_q7@n(5,120)
+$>
+
+en: 1_H_-azepine (PIN) 
+ru: 1_H_-азепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,30)_qq@n(2,-20)_qP<_(y-.5)H>@n(1,90,.6)_q@n(5,-160)_qq@n(4,150)
+$>
+
+en: 1_H_-phosphole (PIN) 
+ru: 1_H_-фосфол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_qO@n(3,-20,.5)_q@n(2,-90)_qO@n(1,-160,.5)_q
+$>
+
+en: 2_H_-1,3-dioxole (PIN) 
+ru: 2_H_-1,3-диоксол (PIN)
+
+@End
+
+#P-22.2.2.1.5 
+en: Selecting Hantzsch-Widman names for 3-, 4-, or 5-membered rings 
+ru: Выбор названий Ганча-Видмана для 3-, 4- или 5-членных колец
+
+en: As shown in Table 2.5, for mancude three-membered rings and saturated three-, four-, and five-membered rings two 
+stems are recommended. They are used as follows to generate preferred IUPAC names:
+ru: Как показано в Таблице 2.5, для манкудных трехчленных колец и насыщенных трех-, четырех- и пятичленных колец 
+рекомендуются две основы. Они используются следующим образом для создания предпочтительных названий ИЮПАК:
+
+#P-22.2.2.1.5.1+
+en: The stem ‘irine’ is used in place of ‘irene’ for rings only containing nitrogen heteroatoms; otherwise the 
+stem ‘irene’ is used.
+ru: Основа «irine» используется вместо «irene» для колец, содержащих только гетероатомы азота; в противном случае 
+используется основа «irene».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(2,15)_q3N<_(y-.5)H>@n(1,-30,.55)_q3@n(3,165)
+$>
+
+en: 1_H_-azirine (PIN)
+ru: 1_H_-азирин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(2,15)_q3O@n(1,-90,.6)_q3@n(3,165)
+$>
+
+en: oxirene (PIN)
+ru: оксирен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=N@n(2,15,.5)_q3O@n(1,-90,.6)_q3@n(3,165)
+$>
+
+en: oxazirene (PIN)
+ru: оксазирен (PIN)
+
+@End
+
+#P-22.2.2.1.5.2+
+en: The stems ‘iridine’, ‘etidine’, and ‘olidine’ are used when nitrogen atoms are present in the ring; 
+otherwise the ‘ane’ stems are used.
+ru: Основы «иридин», «этидин» и «олидин» используются, когда в кольце присутствуют атомы азота; 
+в противном случае используются основы «ан».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-45,.5)|@n(2,45)`-@n(3,135)`|@n(4,-135)-
+$>
+
+en: oxetane (PIN)
+ru: оксетан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH@n(1,-90,.6)|@n(2,45)`-@n(3,135)`|@n(4,-135)-
+$>
+
+en: azetidine (PIN)
+ru: азетидин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,30)_qPH@n(2,-80,.6)_qO@n(1,-90,.6)_q@n(5,-160)_q@n(4,150)
+$>
+
+en: 1,2-oxaphospholane (PIN) 
+ru: 1,2-диоксафосфолан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(3,80,.6)_qS@n(2,-30,.5)_qO@n(1,-90,.6)_q@n(5,-160)_q@n(4,150)
+$>
+
+en: 1,2,3-oxathiazolidine (PIN) 
+ru: 1,2,3-оксатиазолидин (PIN)
+
+@End
+
+#P-22.2.2.1.6
+en: Selecting Hantzsch-Widman names for six-membered rings
+ru: Выбор названий Ганча-Видмана для шестичленных колец
+
+en: The stem for six-membered rings depends on the least senior heteroatom in the ring, i.e., the heteroatom whose name 
+directly precedes the stem. Heteroatoms are divided into three groups, A, B, and C, each corresponding to a stem for the 
+unsaturated and for the saturated compound (Table 2.5). The stem is selected in accordance with the group to which the 
+least senior heteroatom belongs.
+ru: Основа шестичленных колец зависит от наименее старшего гетероатома в кольце, то есть гетероатома, имя которого 
+непосредственно предшествует основе. Гетероатомы делятся на три группы, A, B и C, каждая из которых соответствует 
+основе для ненасыщенного и для насыщенного соединения (таблица 2.5). Основа выбирается в соответствии с группой, 
+к которой принадлежит наименее старший гетероатом.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)||@n(3,30)`/O@n(4,90,.6)`\@n(5,150)`||@n(6,-150)/
+$>
+
+en: 1,4-dioxine (PIN) 
+ru: 1,4-диоксин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+S@n(1,-90,.6)\@n(2,-30)|Se@n(3,90,.6)`/@n(4,90)`\@n(5,150)`|@n(6,-150)/
+$>
+
+en: 1,3-thiaselenane (PIN) 
+ru: 1,3-тиаселенан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\@n(2,-30)|N@n(3,60,.6)`//@n(4,90)`\N@n(5,120,.6)`||@n(6,-150)/
+$>
+
+en: 1,3,5-triazine (PIN)
+ru: 1,3,5-триазин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|NH@n(3,80,.6)`/@n(4,90)`\@n(5,150)`|@n(6,-150)/
+$>
+
+en: 1,3-oxazinane (PIN) 
+ru: 1,3-оксазинан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+P@n(1,-90,.6)\\@n(2,-30)|P@n(3,60,.6)`//@n(4,90)`\P@n(5,120,.6)`||@n(6,-150)/
+$>
+
+en: 1,3,5-triphosphinine (PIN) 
+ru: 1,3,5-трифосфинин (ПИН)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|As@n(3,80,.6)`/@n(4,90)`\@n(5,150)`|@n(6,-150)/
+$>
+
+en: 1,3-oxarsinane (PIN)
+ru: 1,3-оксарсинан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H2_(y.5)Si@n(1,90,.6)\SiH2@n(2,160)|SiH2@n(3,-160)`/Si<_(y.5)H2>@n(4,-90,.6)`\H2Si@n(5,-20)`|H2Si@n(6,20)/
+$>
+
+en: hexasilinane (preselected name; see P-12.2) 
+ru: гексасилинан (предварительно выбранное название; см. P-12.2)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+P@n(1,-90,.6)\\B@n(2,-30)|P@n(3,30)`//B@n(4,90,.6)`\P@n(5,150)`||B@n(6,-150)/
+$>
+
+en: 1,3,5,2,4,6-triphosphatriborinine  <br>
+( preselected name; see P-12.2) 
+ru: 1,3,5,2,4,6-трифосфатриборинин <br>
+(предварительно выбранное название; см. P-12.2)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H_(y.5)P@n(1,90,.6)\BH@n(2,160)|PH@n(3,-160)`/B<_(y.5)H>@n(4,-90,.6)`\HP@n(5,-20)`|HB@n(6,20)/
+$>
+
+en: 1,3,5,2,4,6-triphosphatriborinane (preselected name; see P-12.2) 
+ru: 1,3,5,2,4,6-трифосфатриборинан (предварительно выбранное название; см. P-12.2)
+
+@End
+
+#P-22.2.2.1.7 
+en: Omission of locants 
+ru: Пропуск локантов
+
+en: All locants are omitted for parent Hantzsch-Widman names if there is only one heteroatom or if there is no ambiguity if 
+locants are omitted. 
+ru: Все локанты опускаются для исходных названий Ганча-Видмана, если имеется только один гетероатом или если 
+нет двусмысленности, если локанты опущены.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(4,60)_q7@n(3,30)_qq7@n(2,-20)_q7S@n(1,-90,.6)_q7@n(7,-160)_qq7@n(6,150)_q7@n(5,120)
+$>
+
+en: thiepine <br>
+(not 1-thiepine) 
+ru: тиепин <br>
+(не 1-тиепин)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N--N@n(3,60)_qqN@n(2,-20)_qN<_(y-.5)H>@n(1,90)_q@n(5,-160,.3)_qq@n(6,120)
+$>
+
+en: 1_H_-tetrazole <br>
+(not 1_H_-1,2,3,4-tetrazole)
+ru: 1_H_-тетразол <br>
+(не 1_H_-1,2,3,4-тетразол)
+
+@End
+
+#P-22.2.3  
+en: Heteromonocyclic parent hydrides named by skeletal replacement (‘a’) nomenclature 
+ru: Гетеромоноциклические исходные гидриды, названные по номенклатуре скелетных замен («a»).
+
+en: Mancude and saturated heteromonocyclic compounds with up to and including ten ring members are named by the 
+extended Hantzsch-Widman system (see P-22.2.2). For monocyclic rings with eleven and more ring members, skeletal 
+replacement (‘a’) nomenclature (see P-15.4) is used for the fully saturated or fully unsaturated compounds 
+([n]annulenes). 
+ru: Манкудные и насыщенные гетеромоноциклические соединения с числом членов кольца до десяти включительно называются 
+по расширенной системе Ганча-Видмана (см. P-22.2.2). Для моноциклических колец с одиннадцатью и более членами кольца 
+для полностью насыщенных или полностью ненасыщенных соединений ([n]аннулены) используется номенклатура 
+скелетного замещения («a») (см. P-15.4).
+
+#P-22.2.3.1+
+en: Skeletal replacement (‘a’) names are formed by placing skeletal replacement (‘a’) prefixes (see Table 2.4) in 
+front of the name of the corresponding cycloalkane or annulene, and, when more than one heteroatom is present, in the 
+following decreasing seniority order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > 
+B > Al > Ga > In > Tl. For numbering, see P-22.2.3.2. The selection of preferred IUPAC names is discussed in P-52.2.3.
+ru: Названия скелетных замещающих («а») соединений путем размещения префиксов скелетных замещающих («а») соединений 
+(см. Таблицу 2.4) перед названием соответствующего циклоалкана или аннулена, и, если присутствует более одного гетероатома, 
+в следующем порядке убывания старшинства: 
+F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl. 
+Для нумерации см. P-22.2.3.2. Выбор условий, названных ИЮПАК, обсуждается в P-52.2.3.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pS@n(1,-90,.6)_p_p_p`/`\`|0<_q_q_q_q>/\
+$> 
+
+en: thiacyclododecane (PIN) 
+ru: тиациклододекан (PIN)
+
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-30,.5)|@n(2,30)`//`\`//`\`//r`\`||/\\/\\/@n(14,-90)\\
+$>
+
+en: 1-azacyclotetradeca-1,3,5,7,9,11,13-heptaene (PIN)  <br>
+aza[14]annulene 
+ru: 1-азациклотетрадека-1,3,5,7,9,11,13-гептаен (PIN) <br>
+аза[14]аннулен
+
+@End
+
+#P-22.2.3.2 
+en: Numbering
+ru: Нумерация
+
+#P-22.2.3.2.1+ 
+en: When a single heteroatom is present in the ring, it is assigned the locant ‘1’, which is omitted in the name, 
+unless a locant for an indicated hydrogen atom is present. Numbering usually proceeds clockwise, unless substituted. 
+Low locants are assigned first to the heteroatom and then to unsaturated sites (see P-31.1.3.2). When required, locants 
+for indicated hydrogen atoms are assigned in accordance with P-14.7 
+ru: Когда в кольце присутствует один гетероатом, ему присваивается локант «1», который опускается в названии, 
+если только не присутствует локант для указанного атома водорода. Нумерация обычно идет по часовой стрелке, 
+если только не замещено.
+Меньшие локанты присваиваются сначала гетероатому, а затем ненасыщенным участкам (см. P-31.1.3.2). При необходимости 
+локанты для указанных атомов водорода присваиваются в соответствии с P-14.7
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_p7_pp7_p7_pp7_p7_pp7/O@n(1,-90,.6)\@n(2,-30)||`/`\\
+$>
+
+en: 1-oxacycloundeca-2,4,6,8,10-pentaene (PIN)  <br>
+oxa[11]annulene
+ru: 1-оксациклоундека-2,4,6,8,10-пентаен (PIN) <br>
+окса[11]аннулен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pp_pNH@n(1,180,.5)_p@n(2,60)_pp`/`\\`/`\\`|//\//\
+$>
+
+en: 1-azacyclotrideca-2,4,6,8,10,12-hexaene (PIN)  <br>
+1_H_-1-aza[13]annulene 
+ru: 1-азациклотридека-2,4,6,8,10,12-гексаен (PIN) <br>
+1_H_-1-аза[13]аннулен
+
+@End
+
+#P-22.2.3.2.2+
+en: When the same kind of heteroatom occurs more than once, the direction of numbering is chosen to give the 
+lower locants to the heteroatoms as a set.
+ru: Если один и тот же тип гетероатома встречается более одного раза, направление нумерации выбирается таким образом, 
+чтобы дать меньшие локанты гетероатомам как набору.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pS@n(1,-90,.6)_p@n(2,0)_p_p`/S@n(5,90,.6)`\`|0<_q_q_q_q>/\@n(12,-80,.6)
+$>
+
+en: 1,5-dithiacyclododecane (PIN)  <br>
+(not 1,9-dithiacyclododecane) 
+ru: 1,5-дитиациклододекан (PIN) <br>
+(не 1,9-дитиациклододекан)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_p_pH2Si@n(8,0,.55)_p_p/\/@n(13,-90)\SiH2@n(1,160,.55)|SiH2@n(2,-160,.55)`/`\`/Si<_(y.5)H>@n(5,-90,.6)`\
+$>
+
+en: 1,2,5,8-tetrasilacyclotridecane (PIN)  <br>
+(other locant sets are: ‘1,2,8,11’, ‘1,4,7,8’, ‘1,4,5,11’, and ‘1,4,10,11’,  <br>
+none of which are lower than ‘1,2,5,8’) 
+ru: 1,2,5,8-тетрасилациклотридекан (PIN) <br>
+(другие наборы локантов: «1,2,8,11», «1,4,7,8», «1,4,5,11» и «1,4,10,11», <br>
+ни один из которых не меньше «1,2,5,8»)
+
+@End
+
+#P-22.2.3.2.3+
+en: When heteroatoms of different kinds are present, the locant ‘1’ is given to the heteroatom first cited in the 
+order of seniority given above (see P-22.2.3.1). The direction of numbering is then chosen to give lower locants to the 
+heteroatoms as a set without regard to the kind of heteroatom, and then, if necessary, according to the order of seniority 
+above (see P-22.2.3.1). Low locants are assigned first to the heteroatoms and then to unsaturated sites (see  
+P-31.1.3.2). When required, locants for indicated hydrogen atoms are assigned in accordance with P-14.7. 
+ru: Когда присутствуют гетероатомы разных видов, локант «1» дается гетероатому, указанному первым в порядке старшинства, 
+указанном выше (см. P-22.2.3.1). Затем направление нумерации выбирается так, чтобы дать меньшие локанты гетероатомам 
+как набору без учета вида гетероатома, а затем, при необходимости, в соответствии с порядком старшинства, указанным выше 
+(см. P-22.2.3.1). Меньшие локанты сначала назначаются гетероатомам, а затем ненасыщенным участкам (см. P-31.1.3.2). 
+При необходимости локанты для указанных атомов водорода назначаются в соответствии с P-14.7.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pS@n(1,-90,.6)_p@n(2)_p_p`/Se@n(5,90,.6)`\`|0<_q_q_q_q>/\@n(12,-80,.5)
+$>
+
+en: 1-thia-5-selenacyclododecane (PIN) 
+ru: 1-тиа-5-селенациклододекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pO@n(1,-90,.6)_pNH@n(2,180,.6)_p@n(3,50)_pp@n(4,90)`/@n(5,90)`\\@n(6,90)`|0@n(10,-100,.6)<_qq@n(9,-130)_q@n(8,180)_qq@n(7,130)_q>/@n(11,-90)\\@n(12,-80,.5)$>
+
+en: 1-oxa-2-azacyclododeca-3,5,7,9,11-pentaene (PIN)  <br>
+2_H_-1-oxa-2-aza[12]annulene
+ru: 1-окса-2-азациклододека-3,5,7,9,11-пентаен (PIN) <br>
+2_H_-1-окса-2-аза[12]аннулен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2_(y.5)Si@n(11,90,.6)\/\/O@n(1,90,.6)\NH@n(2,150)|`/`\`/`\`/`\`|/
+$>
+
+en: 1-oxa-2-aza-11-silacyclotetradecane (PIN)
+ru: 1-окса-2-аза-11-силациклотетрадекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pp@n(13,-60)_pO@n(1,0)_p@n(2,60)_pp@n(3,90)`/Se@n(4,-90,.5)`\@n(5,90)`//@n(6,90)`\@n(7,150)`||@n(8,-150)/@n(9,-90)\\@n(10,-90,.6)/N<_(y-.5)H>@n(11,90,.6)\@n(12,-90,.6)
+$>
+
+en: 1-oxa-4-selena-11-azacyclotrideca-2,5,7,9,12-pentaene (PIN)  <br>
+11_H_-1-oxa-4-selena-11-aza[13]annulene
+ru: 1-окса-4-селена-11-азациклотридека-2,5,7,9,12-пентаен (PIN) <br>
+11_H_-1-окса-4-селена-11-аза[13]аннулен
+
+@End
+
+
+#P-22.2.4 
+en: Heteromonocycles with eleven or more members with the maximum number of noncumulative double bonds 
+ru: Гетеромоноциклы с одиннадцатью или более членами с максимальным числом некумулятивных двойных связей
+
+en: Names of heteromonocyclic parent components with more than ten ring members are discussed in this subsection. They 
+are used to generate names of preferred IUPAC names of fused ring systems; they have also been used as names for the 
+heteromonocycle in general nomenclature as an alternative to cycloalkapolyene names that are preferred IUPAC names 
+for the heteromonocycles.
+ru: В этом подразделе обсуждаются названия гетеромоноциклических исходных компонентов с более чем десятью членами кольца. 
+Они используются для создания названий предпочтительных названий ИЮПАК конденсированных кольцевых систем; они также 
+использовались в качестве названий для гетеромоноцикла в общей номенклатуре в качестве альтернативы названиям 
+циклоалкаполиенов, которые являются предпочтительными названиями ИЮПАК для гетеромоноциклов.
+
+en: A heteromonocyclic parent component having more than ten ring members and the maximum number of noncumulative 
+double bonds (mancude) is named by changing the ending ‘ane’ of the name corresponding to the saturated 
+heteromonocycle (see P-22.2.3) to ‘ine’. Locants are cited at the front of the name, in the order of citation of the 
+corresponding skeletal replacement (‘a’) prefixes. Indicated hydrogen atoms are designated as required. In 
+organometallic nomenclature, a modified skeletal replacement (‘a’) nomenclature is allowed in smaller rings to create 
+metallacycle parent hydrides (see P-69.4).
+ru: Гетеромоноциклический исходный компонент, имеющий более десяти членов кольца и максимальное количество некумулятивных 
+двойных связей (mancude), называется путем изменения окончания «ane» имени, соответствующего насыщенному гетеромоноциклу 
+(см. P-22.2.3), на «ine». Локанты указываются в начале имени в порядке указания соответствующих префиксов замены 
+скелета («a»). Указанные атомы водорода обозначаются по мере необходимости. В металлоорганической номенклатуре допускается 
+измененная номенклатура замены скелета («a») в меньших кольцах для создания родительских гидридов металлацикла (см. P-69.4).
+
+en: For examples of fusion compounds including this type of heteromonocyclic component, see P-25.2.2.4, P-25.3.6.1 and 
+P-25.3.7.1. 
+ru: Примеры соединений слияния, включающих этот тип гетеромоноциклического компонента, см. в P-25.2.2.4, P-25.3.6.1 
+и P-25.3.7.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-90,.5)/@n(3,-90)\@n(4,-30)|@n(5,30)`/@n(6,90)`\@n(7,90,.5)`/O@n(8,90,.6)`\@n(9,90,.5)`/@n(10,90)`\@n(11,90,.5)`/@n(12,90)`\@n(13,150,.5)`|@n(14,-150,.5)/@n(15,-90)\@n(16,-90,.5)/@n(17,-90)\@n(18,-90,.5)/
+$>
+
+en: 1,8-dioxacyclooctadecane (PIN) 
+ru: 1,8-диоксациклооктадекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(R)O@n(1,-90,.6)\@n(2,-90,.5)//@n(3,-90)\@n(4,-30)||@n(5,30)`/@n(6,90)`\\@n(7,90,.5)`/O@n(8,90,.6)`\@n(9,90,.5)`//@n(10,90)`\@n(11,90,.5)`//@n(12,90)`\@n(13,150,.5)`||@n(14,-150,.5)/@n(15,-90)\\@n(16,-90,.5)/@n(17,-90)\\@n(18,-90,.5)/
+$>
+
+en: 1,8-dioxacyclooctadecine  <br>
+1,8-dioxacyclooctadeca-2,4,6,9,11,13,15,17-octaene (PIN) 
+ru: 1,8-диоксациклооктадецин <br>
+1,8-диоксациклооктадека-2,4,6,9,11,13,15,17-октаен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|@n(3)`/N<_(y.5)H>@n(4,-90,.6)`\@n(5,90,.5)`/@n(6,90)`\@n(7,90,.5)`/N<_(y.5)H>@n(8,-90,.6)`\@n(9,150)`|@n(10,-150,.5)/N<_(y-.5)H>@n(11,90,.6)\@n(12,-90,.55)/@n(13,-90)\@n(14,-90,.55)/
+$>
+
+en: 1-oxa-4,8,11-triazacyclotetradecane (PIN)
+ru: 1-окса-4,8,11-триазациклотетрадекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(R)O@n(1,-90,.6)\@n(2,-30)|@n(3)`//N@n(4,90,.6)`\@n(5,90,.5)`//@n(6,90)`\@n(7,90,.5)`//N@n(8,90,.6)`\@n(9,150)`||@n(10,-150,.5)/N@n(11,-90,.6)\\@n(12,-90,.55)/@n(13,-90)\\@n(14,-90,.55)/
+$>
+
+en: 2_H_-1,4,8,11-oxatriazacyclotetradecine  <br>
+1-oxa-4,8,11-triazacyclotetradeca-3,5,7,9,11,13- hexaene (PIN) 
+ru: 2_H_-1,4,8,11-оксатриазациклотетрадецин <br>
+1-окса-4,8,11-триазациклотетрадека-3,5,7,9,11,13-гексаен (PIN)
+
+@End
+
+#P-22.2.5 
+en: Homogeneous monocyclic parent hydrides other than boron hydrides 
+ru: Однородные моноциклические исходные гидриды, отличные от гидридов бора
+
+en: A saturated heteromonocycle consisting of identical heteroatoms can be named by adding the prefix ‘cyclo’ to the name 
+of the saturated unbranched chain that has the same number of identical atoms. For alternative methods, see the 
+Hantzsch-Widman extended system described in P-22.2.2 for rings with 3 through 10 members and skeletal 
+replacement (‘a’) nomenclature described in P-22.2.3. For the names that are preselected (see P-12.2) but used to 
+generate preferred IUPAC names for organic derivatives, see P-52.1.5. 
+ru: Насыщенный гетеромоноцикл, состоящий из идентичных гетероатомов, может быть назван путем добавления префикса «цикло» 
+к названию насыщенной неразветвленной цепи, которая имеет то же число идентичных атомов. Для альтернативных методов 
+см. расширенную систему Ганча-Видмана, описанную в P-22.2.2 для колец с 3–10 членами и номенклатуру скелетной 
+замены («a»), описанную в P-22.2.3. Для названий, которые выбраны заранее (см. P-12.2), но используются для генерации 
+предпочтительных названий ИЮПАК для органических производных, см. P-52.1.5.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(4,90)--NH@n(3,90)_qNH@n(2,-80)_qN<_(y-.5)H>@n(1,90)_qHN@n(5,-100)_q
+$>
+
+en: cyclopentaazane  <br>
+pentazolidine  <br>
+(preselected name; see P-22.2.2.1.5) 
+ru: циклопентаазан <br>
+пентазолидин <br>
+(предварительно выбранное название; см. P-22.2.2.1.5)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2_(y.5)Ge@n(1,90)$L(1.3)\GeH2@n(2,160)|GeH2@n(3,-160)`/Ge<_(y.5)H2>@n(4,-90)`\H2Ge@n(5,-20)`|H2Ge@n(6,20)/
+$>
+
+en: cyclohexagermane  <br>
+hexagerminane  <br>
+(preselected name; see P-12.2) 
+ru: циклогексагерман <br>
+гексагермин <br>
+(предварительно выбранное имя; см. P-12.2)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(30)@:sv(s)Si<_(y&s.5)H2>@(-)@n(1,90)\SiH2@n(2,160,.5)|SiH2@n(3,-160,.5)`/@sv()`-@sv()`-@sv()`-@sv()`\H2Si`|H2Si/@sv(-)-@sv(-)-@sv(-)@n(12,90)_#1
+$>
+
+en: cyclododecasilane  <br>
+dodecasilacyclododecane  <br>
+(preselected name; see P-12.2) 
+ru: циклододекасилан <br>
+додекасилациклододекан <br>
+(предварительно выбранное имя; см. P-12.2)
+
+@End
+
+%P-22.2.6 
+en: Heteromonocyclic parent hydrides composed of repeating heterounits 
+ru: Гетеромоноциклические исходные гидриды, состоящие из повторяющихся гетерозвеньев.
+
+#P-22.2.6 
+en: Heteromonocyclic parent hydrides composed of repeating units [(ab)_{_n_}cyclic hydrides]. 
+ru: Гетеромоноциклические исходные гидриды, состоящие из повторяющихся звеньев [(ab)_{_n_}циклические гидриды].
+
+en: Names may be constructed by citing successively the prefix ‘cyclo’, a multiplying affix (‘di’, ‘tri’, ‘tetra’, etc.) 
+indicating the number of each element in the ring, the skeletal replacement (‘a’) terms for the atoms of the repeated unit 
+first cited in the order Tl > In > Ga > Al > Pb > Sn > Ge > Si > Bi > Sb> As > P > N > Te > Se > S> O, and the ending 
+‘ane’. The terminal letter of a skeletal replacement (‘a’) term is elided when followed by a vowel; the terminal letter of 
+a multiplying affix is not elided even when the ‘a’ term begins with a vowel. Numbering starts at one of the skeletal 
+atoms of the element cited last in the name and proceeds continuously around the ring. For alternative methods, see  
+P-22.2.2 for Hantzsch-Widman names and P-22.2.3 for monocycles with more than ten ring members. For the 
+preselected names (see P-12.2) used to generate the preferred IUPAC names for organic derivatives of these 
+heteromonocyclic hydrides, see P-52.1.5.2.
+ru: Названия могут быть составлены путем последовательного указания префикса «цикло», множительного аффикса («ди», «три», 
+«тетра» и т. д.), указывающего номер каждого элемента в кольце, терминов скелетной замены («а») для атомов повторяющейся 
+единицы, указанной первой в порядке Tl > In > Ga > Al > Pb > Sn > Ge > Si > Bi > Sb > As > P > N > Te > Se > S > O, 
+и окончания «ане». Конечная буква термина скелетной замены («а») опускается, если за ней следует гласная; конечная буква 
+множительного аффикса не опускается, даже если термин «а» начинается с гласной. Нумерация начинается с одного из 
+скелетных атомов элемента, указанного последним в названии, и продолжается непрерывно по кольцу. 
+Для альтернативных методов см. P-22.2.2 для названий Ганча-Видмана и P-22.2.3 для моноциклов с более чем десятью 
+членами кольца. Для предварительно выбранных названий (см. P-12.2), используемых для создания предпочтительных названий 
+ИЮПАК для органических производных этих гетеромоноциклических гидридов, см. P-52.1.5.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)Ge<_(y.5)H2>@n(4,-100)`--O@n(5,-60)_p8H2Ge@n(6,-15)`|O@n(7,25,.5)_p8Ge<_(y-.5)H2>@n(8,60)_p8O@n(1,100)_p8GeH2@n(2,150)_p8O@n(3,-160,.5)_p8
+$>
+
+en: cyclotetragermoxane  <br>
+1,3,5,7,2,4,6,8-tetroxatetragermocane  <br>
+(preselected name, see P-12.2) 
+ru: циклотетрагермоксан <br>
+1,3,5,7,2,4,6,8-тетроксатетрагермокан <br>
+(предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H_(y.5)P@n(1,90)\BH@n(2,160,.5)|PH@n(3,-160,.5)`/B<_(y.5)H>@n(4,-90)`\HP@n(5,-20)`|HB@n(6,20,.5)/
+$>
+
+en: cyclotriboraphosphane  <br>
+1,3,5,2,4,6-triphosphatriborinane  <br>
+(preselected name, see P-12.2) 
+ru: циклотриборафосфан <br>
+1,3,5,2,4,6-трифосфаттриборинан <br>
+(предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)$L(1.2)O@n(1,90)\SiH2@n(2,150,.5)|O@n(3,-150,.5)`/@:sv(s)Si<_(y&s.5)H2>@()@n(4,-90)`-O`-@sv()`-O`-@sv()`\O`|H2Si/O-@sv(-)-O-@sv(-)@n(14,90)_#1
+$>
+
+en: cycloheptasiloxane  <br>
+1,3,5,7,9,11,13-heptaoxa-2,4,6,8,10,12,14-heptasilacyclotetradecane  <br>
+(preselected name, see P-12.2, P-22.2.3.2.3) 
+ru: циклогептасилоксан <br>
+1,3,5,7,9,11,13-гептаокса-2,4,6,8,10,12,14-гептасилациклотетрадекан <br>
+(предварительно выбранное название, см. P-12.2, P-22.2.3.2.3)
+
+@End
+
+#P-22.2.7 
+en: Heteromonocyclic parent hydrides having heteroatoms with nonstandard bonding numbers 
+ru: Гетеромоноциклические исходные гидриды, имеющие гетероатомы с нестандартными числами связей.
+
+#P-22.2.7.1+
+en: The λ-convention is used to denote heteroatoms with nonstandard bonding numbers in heteromonocycles 
+(see P-14.1). The symbol λ^{_n_}, where _n_ is the bonding number, is cited immediately after the locant denoting the 
+heteroatom with the nonstandard bonding number. The indicated hydrogen symbol _H_, if required to denote saturated 
+skeletal atoms, is cited at the front of the complete name with the appropriate locant(s).
+ru: λ-соглашение используется для обозначения гетероатомов с нестандартными связевыми числами в гетеромоноциклах 
+(см. P-14.1). Символ λ^{_n_}, где _n_ — связевой номер, приводится сразу после локанта, обозначающего гетероатом 
+с нестандартным связевым числом. Указанный символ водорода _H_, если требуется для обозначения насыщенных скелетных атомов, 
+приводится в начале полного названия с соответствующим локантом(ами).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq_qS<_(y-.5)H2>@n(1,90)_q_qq
+$>
+
+en: 1_H_-1λ^{4}-thiophene (PIN) 
+ru: 1_H_-1λ^{4}-тиофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,50)_q@n(2,-10)_qqS<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: 3_H_-1λ^{4}-thiophene (PIN)
+ru: 3_H_-1λ^{4}-тиофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)I@n(1,90,.6)\@n(2,-30)|`/`\`|/
+$>
+
+en: 1λ^{3}-iodinane (PIN) 
+ru: 1λ^{3}-йодинан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qI<_(y-.5)H3>@n(1,90,.6)_q_qq
+$>
+
+en: 1_H_-1λ^{5}-iodole (PIN) 
+ru: 1_H_-1λ^{5}-иодол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-PH2@n(3,90,.6)_qq@n(2,-20)_qO@n(1,-90,.6)_q@n(5,-160)_qq@n(4,120)
+$>
+
+en: 1,3λ^{5}-oxaphosphole (PIN) 
+ru: 1,3λ^{5}-оксафосфол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)S@n(1,90,.6)\\@n(2,-30)|N@n(3,30,.6)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/
+$>
+
+en: 1λ^{4},3-thiazine (PIN) 
+ru: 1λ^{4},3-тиазин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/S<_(y.5)H2>@n(4,-90,.6)`\`/`\`/`\`|/\/\/
+$>
+
+en: 1-oxa-4λ^{4}-thiacyclotetradecane (PIN)
+ru: 1-окса-4λ^{4}-тиациклотетрадекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0@n(6,100,.5)_p@n(7,120)_pH2S@n(8,0,.45)_p@n(9,-120)_p@n(10,-100,.55)/@n(11,-90)\@n(12,-80,.55)|0S@n(4,90,.6)<`/@n(5,90)`\>_q@n(3,60)_q@n(2,0)_qO@n(1,-90,.6)_q
+$>
+
+en: 1-oxa-4,8λ^{4}-dithiacyclododecane (PIN) 
+ru: 1-окса-4,8λ^{4}-дитиациклододекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_q7@n(3,30)_qq7@n(2,-20)_q7S<_(y-.5)H2>@n(1,90,.6)_q7_qq7_q7
+$>
+
+en: 1_H_-1λ^{4}-thiepine (PIN)
+ru: 1_H_-1λ^{4}-тиепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_q7SH@n(3,170,.5)_qq7@n(2,-20)_q7S<_(y-.5)H2>@n(1,90,.6)_q7_qq7_q7
+$>
+
+en: 1_H_-1λ^{4},3λ^{4}-dithiepine (PIN)  <br>
+[the (<$–SH2–$>) group, which includes an indicated hydrogen, is preferred for the lowest locant] 
+ru: 1_H_-1λ^{4},3λ^{4}-дитиепин (PIN) <br>
+[группа (<$–SH2–$>), включающая указанный водород, предпочтительна для наименьшего локанта]
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3_(y.5)S@n(1,90,.6)\\@n(2,140,.5)|`//`\`||/
+$>
+
+en: 1λ^{6}-thiopyran (PIN) <br>
+(this heteromonocycle has the maximum number of double bonds and one double bond at every position;  <br>
+hence, no indicated hydrogen is cited for the sulfur atom)
+ru: 1λ^{6}-тиопиран (PIN) <br>
+(этот гетеромоноцикл имеет максимальное количество двойных связей и одну двойную связь в каждой позиции; <br>
+поэтому для атома серы не указан водород)
+
+@End
+
+#P-22.2.7.2+ 
+en: If a further choice is needed between two or more of the same skeletal atom with different bonding numbers, 
+the lower locant is assigned in order of the decreasing value of the bonding number, i.e., λ^{6} is selected over λ^{4} 
+(see also P-21.2.4). 
+ru: Если необходим дальнейший выбор между двумя или более одинаковыми скелетными атомами с разными связевыми числами, 
+то назначается меньший локант в порядке убывания значения числа связей, т. е. λ^{6} выбирается вместо λ^{4} 
+(см. также P-21.2.4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.2)S@n(3,-140,.5)_q@n(2,150,.5)_qqS<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: 1λ^{4},3-dithiole (PIN)
+ru: 1λ^{4},3-дитиол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.3)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/S<_(y.5)H2>@n(4,-90,.6)`\@n(5,90,.5)`/`\`/`\`|/\S@n(12,-90,.6)/\@n(14,-90,.6)/
+$>
+
+en: 1-oxa-4λ^{4},12-dithiacyclotetradecane (PIN)
+ru: 1-окса-4λ^{4},12-дитиациклотетрадекан (PIN)
+
+@End

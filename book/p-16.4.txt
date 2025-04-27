@@ -1,0 +1,924 @@
+#P-16.4 
+en: Other numerical terms 
+ru: Другие числовые термины
+
+#P-16.4.1+
+en: The numerical prefixes ‘bi’, ‘ter’, ‘quater’, etc. are used mainly in naming ring assemblies (see P-28). 
+ru: Цифровые префиксы «би», «тер», «кватер» и т. д. используются в основном при наименовании кольцевых сборок (см. P-28).
+
+@Examples
+
+@cell
+en: 1,1′-biphenyl (PIN, P-28.2.1) 
+ru: 1,1′-бифенил (PIN, P-28.2.1)
+
+@cell
+en: 1^{2},2^{2}:2^{6},3^{2}:3^{6},4^{2}-quaterpyridine (PIN, P-28.3.1) 
+ru: 1^{2},2^{2}:2^{6},3^{2}:3^{6},4^{2}-кватерпиридин (PIN, P-28.3.1)
+
+@End
+
+#P-16.4.2+
+en: The prefix ‘mono’ is usually omitted in names of organic compounds. However, it is used to indicate 
+that only one characteristic group of a parent structure has been modified. The ending ‘kis’ is never associated 
+with ‘mono’.
+ru: Префикс «моно» обычно опускается в названиях органических соединений. Однако он используется для указания на то, 
+что была изменена только одна характерная группа исходной структуры. Окончание «кис» никогда не ассоциируется с «моно».
+
+@Examples
+
+@cell
+en: monoperoxyphthalic acid (P-65.1.4.2) <br>
+2-carbonoperoxoylbenzoic acid (PIN; see P-65.1.4.2) 
+ru: монопероксифталевая кислота (P-65.1.4.2) <br>
+2-карбонопероксоилбензойная кислота (PIN; см. P-65.1.4.2)
+// В оригинале видимо по-ошибке эти названия выглядят как отдельные. Но они означают одно вещество
+// https://pubchem.ncbi.nlm.nih.gov/compound/75329
+
+@cell
+en: carbon monoxide (PIN; see P-13.3.5)
+ru: монооксид углерода (PIN; см. P-13.3.5)
+
+@End
+
+#P-16.4.3+
+en: The term ‘sesqui’ is used to mean one and a half times as great. It is not used in IUPAC names as a 
+numerical prefix, but may be found as a general descriptive term, for example ‘sesquisiloxanes’.
+ru: Термин «sesqui» используется для обозначения в полтора раза больше. Он не используется в названиях ИЮПАК как 
+числовой префикс, но может быть найден как общий описательный термин, например «sesquisiloxanes».
+
+
+
+#P-16.5 
+en: Enclosing marks 
+ru: Заключительные знаки
+
+en: Parentheses, ( ), (also called ‘curves’ or ‘round brackets’), brackets, [ ], (also called ‘square brackets’), and braces 
+{ }, (also called ‘curly brackets’) are used in chemical nomenclature to set off parts of a name dealing with specific 
+structural features in order to convey the structure of a compound as clearly as possible. It is important to note 
+that although they are used in the same way in names of organic and inorganic compounds, they are not used in 
+the same way in inorganic formulas.
+ru: Скобки, ( ), (также называемые «круглыми скобками»), квадратные скобки, [ ], и фигурные скобки { }, используются 
+в химической номенклатуре для выделения частей названия, относящихся к определенным структурным особенностям, 
+чтобы как можно яснее передать структуру соединения. Важно отметить, что хотя они используются одинаково в названиях 
+органических и неорганических соединений, они не используются одинаково в неорганических формулах.
+
+en: Enclosing marks must not be omitted from preferred IUPAC names. In general nomenclature, when there is no 
+possible ambiguity, enclosing marks may be omitted to simplify a name. 
+ru: Включающие знаки не должны быть опущены из предпочтительных названий ИЮПАК. В общей номенклатуре, когда нет никакой 
+возможной двусмысленности, включающие знаки могут быть опущены для упрощения названия.
+
+@Content
+
+#P-16.5.1
+en: Parentheses (also called curves or round brackets)
+ru: Скобки (также называемые круглыми скобками)
+
+#P-16.5.1.1+
+en: Parentheses are used around compound (see P-29.1.2) and complex (see P-29.1.3) prefixes; after the 
+multiplicative prefixes ‘bis’, ‘tris’, etc.; to enclose a multiplied parent compound consisting of a parent hydride 
+and a substituent suffix or a multiplied substituent prefix even though preceded by a basic numerical prefix, such 
+as ‘di’, ‘tri’, etc. 
+ru: Скобки используются вокруг составных (см. P-29.1.2) и комплексных (см. P-29.1.3) префиксов; после мультипликативных 
+префиксов «бис», «трис» и т. д.; для заключения умноженного родительского соединения, состоящего из родительского гидрида 
+и суффикса заместителя или умноженного префикса заместителя, даже если ему предшествует основной числовой префикс, 
+такой как «ди», «три» и т. д.
+
+@Examples
+
+@cell
+<$ Cl-CH2-SiH3 $>
+
+en: (chloromethyl)silane [PIN; <br>
+the name chloro(methyl)silane would describe the structure <% f %>] 
+ru: (хлорметил)силан [PIN; <br>
+название хлор(метил)силан описывало бы структуру <% f %>]
+%f: <$Cl-SiH2-CH3$>
+
+@cell
+<$ (HO-CH2-CH2-O)2CH-COOH $>
+
+en: bis(2-hydroxyethoxy)acetic acid (PIN)
+ru: бис(2-гидроксиэтокси)уксусная кислота (PIN)
+
+@cell
+<$ CH3-[CH2]9{}/`|/<`|[CH2]9-CH3>\|<`/`\>\{}[CH2]9-CH3 $>
+
+en: 1,3,5-tri(decyl)cycohexane (PIN) <br>
+(not 1,3,5-tris(decyl)cyclohexane) 
+ru: 1,3,5-три(децил)циклогексан (PIN) <br>
+(не 1,3,5-трис(децил)циклогексан)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-110)/-\@n(4,-70)<`/`-`\>-CH2_(h){}-@n(4',-110)/-\@n(1',-70)<`/`-`\>-COOH
+$>
+
+en: 4,4′-methylenedi(cyclohexane-1-carboxylic acid) (PIN)
+ru: 4,4′-метиленди(циклогексан-1-карбоновая кислота) (PIN)
+
+@cell
+<$ H{{{S/O}}}C-CH2-CH2-C{{{O/S}}}H $>
+
+en: butanebis(thioic acid) (PIN)
+ru: бутанбис(тиовая кислота) (PIN)
+
+@cell
+<$ {}–CH-[CH2]12-CH2-O-CH2-[CH2]12-CH2–{} $>
+
+en: oxydi(tetradecane-14,1-diyl) (preferred prefix; <br>
+note the order of the substituent locants used in multiplicative nomenclature)
+ru: оксиди(тетрадекан-14,1-диил) (предпочтительный префикс; <br>
+обратите внимание на порядок заместителей, используемых в мультипликативной номенклатуре)
+
+@cell
+<$
+@:n(n,a,L:0.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-[CH2]11-CH2_(h){}-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-CH2-[CH2]11-CH3
+$>
+
+en: 1,4-di(tridecyl)benzene (PIN) 
+ru: 1,4-ди(тридецил)бензол (PIN)
+
+@End
+
+#P-16.5.1.2+
+en: Parentheses are used around simple substituent prefixes (see P-29.1) to separate locants of the same 
+type referring to different structural elements, even though locants referring to a particular structural feature 
+may not be explicitly cited. This is recommended for clarity since locants assigned to free valences were 
+previously placed in front of the name, for example, 2-naphthyl.
+ru: Скобки используются вокруг простых замещающих префиксов (см. P-29.1) для разделения локантов одного типа, 
+относящихся к разным структурным элементам, даже если локанты, относящихся к конкретной структурной особенности, 
+могут не быть явно указаны. Это рекомендуется для ясности, поскольку локанты, отнесенные к свободным валентностям, 
+ранее размещались перед именем, например, 2-нафтил.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/`\\`|//\|`|/\\@n(2,-90)_(A-30)CH2@n(2,-90,.6)-COOH
+$>
+
+en: (naphthalen-2-yl)acetic acid (PIN) <br>
+(the locant ‘2’ for acetic acid is not cited, see P-14.3.4.6) <br>
+naphthalene-2-acetic acid 
+ru: (нафталин-2-ил)уксусная кислота (PIN) <br>
+(местоположение «2» для уксусной кислоты не указано, см. P-14.3.4.6) <br>
+нафталин-2-уксусная кислота
+
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\N/=\-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-CONH2
+$>
+
+en: 4-(pyridin-4-yl)benzamide (PIN) <br>
+[former name 4-(4-pyridinyl)benzamide] <br>
+4-(4-pyridyl)benzamide
+ru: 4-(пиридин-4-ил)бензамид (PIN) <br>
+[прежнее название 4-(4-пиридинил)бензамид] <br>
+4-(4-пиридил)бензамид
+
+@cell
+<$ |`//`\`/`\\`|//\|`|/\\_(A-30)N=N-/=\`//`-`\\ $>
+
+en: (naphthalen-2-yl)(phenyl)diazene (PIN; see P-68.3.1.3.2.2) <br>
+(2-naphthyl)phenyldiazene 
+ru: (нафталин-2-ил)(фенил)диазен (PIN; см. P-68.3.1.3.2.2) <br>
+(2-нафтил)фенилдиазен
+
+@cell
+<$ `-_qq_qN<_(y.5)H>_q<_qq>_(a54)N:a_(y.5)H; `-_qq<_(a54)#a>_qO_q_qq $>
+
+en: _N_-(furan-2-yl)-1_H_-pyrrol-2-amine (PIN) <br>
+(furan-2-yl)(1_H_-pyrrol-2-yl)amine <br>
+(2-furyl)(pyrrol-2-yl)amine
+ru: _N_-(фуран-2-ил)-1_H_-пиррол-2-амин (PIN) <br>
+(фуран-2-ил)(1_H_-пиррол-2-ил)амин <br>
+(2-фурил)(пиррол-2-ил)амин
+
+@End
+
+
+#P-16.5.1.3+
+en: Parentheses are placed also around prefixes denoting simple substituent groups qualified by locants.
+ru: Скобки заключаются также вокруг префиксов, обозначающих простые замещающие группы, определяемые локантами.
+
+#P-16.5.1.3.1+
+en: For mononuclear parent hydrides with two or more substituents the first cited substituent never has 
+enclosing marks unless it includes a locant. The second and further substituents are each enclosed with parentheses even 
+for simple substituents. When the simple substituent groups are accompanied by multiplicative prefixes such as ‘di’ and 
+‘tri’, the multiplicative prefixes are not included in the parentheses.
+ru: Для одноядерных исходных гидридов с двумя или более заместителями первый указанный заместитель никогда не имеет 
+охватывающих знаков, если только он не включает локант. Второй и последующие заместители заключаются в скобки даже для 
+простых заместителей. Когда простые замещающие группы сопровождаются мультипликативными префиксами, такими как «ди» и «три», 
+мультипликативные префиксы не включаются в скобки.
+
+@Examples
+
+@cell
+<$ CH3-Si<|CH2-CH3><-CH2-CH2-CH3>`|CH2-CH2-CH2-CH3 $>
+
+en: butyl(ethyl)(methyl)(propyl)silane (PIN)
+ru: бутил(этил)(метил)(пропил)силан (PIN)
+
+@cell
+<$ CH3-SiH2Cl $>
+
+en: chloro(methyl)silane (PIN)
+ru: хлор(метил)силан (PIN)
+
+@cell
+<$ CH3-P<`|CH2-CH3>-CH2-CH2-CH3 $>
+
+en: ethyl(methyl)(propyl)phosphane (PIN)
+ru: этил(метил)(пропил)фосфан (PIN)
+
+@cell
+<$ CH3-P<`|CH_(h)(CH3)2>--CH2-CH3 $>
+
+en: ethyl(methyl)(propan-2-yl)phosphane (PIN) <br>
+ethyl(isopropyl)(methyl)phosphane 
+ru: этил(метил)(пропан-2-ил)фосфан (PIN) <br>
+этил(изопропил)(метил)фосфан
+
+@cell
+<$ ClCH2-SiH2-CH3 $>
+
+en: (chloromethyl)(methyl)silane (PIN; P-68.2.6.1)
+ru: (хлорметил)(метил)силан (PIN; P-68.2.6.1)
+
+@cell
+<$ BrCH2-SiH2-CH2Cl $>
+
+en: (bromomethyl)(chloromethyl)silane (PIN; P-68.2.6.1)
+ru: (бромметил)(хлорметил)силан (PIN; P-68.2.6.1)
+
+@cell
+<$ CH3-CH2-P<`|CH3>-CH3 $>
+
+en: ethyldi(methyl)phosphane (PIN)
+ru: этилди(метил)фосфан (PIN)
+
+@cell
+<$ CH3-CH<|CH3>-SiH<`|CH2-CH3>-CH<|CH3>-CH3 $>
+
+en: ethyldi(propan-2-yl)silane (PIN) <br>
+ethyldi(isopropyl)silane
+ru: этилди(пропан-2-ил)силан (PIN) <br>
+этилди(изопропил)силан
+
+@cell
+<$ CH3-CH2-CH2-Si<`|CH2-CH3><|CH3>-COOH $>
+
+en: ethyl(methyl)(propyl)silanecarboxylic acid (PIN) 
+ru: этил(метил)(пропил)силанкарбоновая кислота (PIN)
+
+@cell
+<$ `//`-`\\/=\-P`|O|<|CH3>-OH $>
+
+en: methyl(phenyl)phosphinic acid (PIN)
+ru: метил(фенил)фосфиновая кислота (PIN)
+
+@cell
+<$ |`//`\`||/\\_(A-30)CH<-OH>`|_(a-30)_p3_p3 $>
+
+en: cyclopropyl(phenyl)methanol (PIN) 
+ru: циклопропил(фенил)метанол (PIN)
+
+@End
+
+#P-16.5.1.3.2+
+en: Simple substituents of a parent where only one possible position can be substituted do not require locants. 
+Enclosing marks are used with second and subsequent simple substituents (see P-16.5.1.3.1). In some cases, such as 
+acetic acid, alkyl substituents are not allowed as the resulting compound requires a different parent structure. Locants 
+are required for related compounds where additional substitutable positions are available, for example acetamide.
+ru: Простые заместители родителя, где только одна возможная позиция может быть замещена, не требуют локантов. 
+Ограничивающие знаки используются со вторыми и последующими простыми заместителями (см. P-16.5.1.3.1). В некоторых случаях, 
+таких как уксусная кислота, алкильные заместители не допускаются, поскольку полученное соединение требует другой 
+родительской структуры. Локанты требуются для родственных соединений, где доступны дополнительные замещаемые позиции, 
+например, ацетамид.
+
+@Examples
+
+@cell
+<$ `//`-`\\/=\-C<`|Br><|NO2>-COOH $>
+
+en: bromo(nitro)(phenyl)acetic acid (PIN) 
+ru: бром(нитро)(фенил)уксусная кислота (PIN)
+
+@cell
+<$ $slope(45)H3C\C\CO-O-CH2-CH3; CH3-CH2_(h){}/#C/CO-O-CH2-CH3 $>
+
+en: diethyl ethyl(methyl)propanedioate
+ru: диэтилэтил(метил)пропандиоат
+
+@cell
+<$ Br\CH<`/Cl>-COOH $>
+
+en: bromo(chloro)acetic acid (PIN)
+ru: бром(хлор)уксусная кислота (PIN)
+
+@cell
+<$ F\CH<`/_(a30)_q3_q3>-CN $>
+
+en: cyclopropyl(fluoro)acetonitrile (PIN)
+ru: циклопропил(фтор)ацетонитрил (PIN)
+
+@End
+
+#P-16.5.1.4 +
+en: Parentheses are placed around substituent groups including the name of a parent hydride in order to 
+avoid any confusion from having two parent hydrides in a substitutive name.
+ru: Круглые скобки ставятся вокруг замещающих групп, включая название исходного гидрида, чтобы избежать путаницы 
+из-за наличия двух исходных гидридов в замещающем названии.
+
+@p .framed
+en: This is a change from the 1993 Guide (ref. 2) to facilitate name interpretation in names as such as 
+cyclohexanecarbonyl, in that they, even though they are simple prefixes, could give the illusion that two parent 
+hydrides are present.
+ru: Это изменение по сравнению с Руководством 1993 г. (ссылка 2) призвано облегчить интерпретацию таких названий, 
+как циклогексанкарбонил, поскольку они, хотя и являются простыми префиксами, могут создавать иллюзию присутствия двух 
+исходных гидридов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\-CO_(h){}-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-C{{{O/S}}}H
+$>
+
+en: 4-(cyclohexanecarbonyl)benzene-1-carbothioic acid (PIN)
+ru: 4-(циклогексанкарбонил)бензол-1-тиокарбоновая кислота (PIN)
+
+@cell
+<$ `//`-`\\/=\-S<//O>$slope(70)$L(1.2)\CH:a`/$L()$slope(60)S<\\O>`-`\\`-`//\=/; #a-COOH $>
+
+en: di(benzenesulfinyl)acetic acid (PIN)
+ru: ди(бензолсульфинил)уксусная кислота (PIN)
+
+@End
+
+#P-16.5.1.5+
+en: Parentheses are placed around a prefix denoting simple hydrocarbyl substituents adjacent to the 
+term ‘amine’ in naming amines using ‘amine’ as the parent structure, when several different substituent groups 
+are present. This requirement is necessary to insure the specificity of this kind of amine name and to distinguish 
+them from older names. Other enclosing marks are used as needed.
+ru: Скобки ставятся вокруг префикса, обозначающего простые гидрокарбильные заместители, смежные с термином «амин» 
+при именовании аминов с использованием «амина» в качестве исходной структуры, когда присутствуют несколько различных 
+групп заместителей. Это требование необходимо для обеспечения специфичности этого вида названия амина и для отличия их 
+от более старых названий. Другие ограждающие знаки используются по мере необходимости.
+
+@Examples
+
+@cell
+en: (2-chloroethyl)(propyl)amine (P-62.2.2.1) <br>
+_N_-(2-chloroethyl)propan-1-amine (PIN)
+ru: (2-хлорэтил)(пропил)амин (P-62.2.2.1) <br>
+_N_-(2-хлорэтил)пропан-1-амин (PIN)
+
+@cell
+en: butyl(ethyl)(propyl)amine (P-62.2.2.1) <br>
+_N_-ethyl-N-propylbutan-1-amine (PIN) 
+ru: бутил(этил)(пропил)амин (P-62.2.2.1) <br>
+_N_-этил-N-пропилбутан-1-амин (PIN)
+
+@cell
+en: butyl(ethyl)(methyl)amine (P-62.2.2.1) <br>
+_N_-ethyl-N-methylbutan-1-amine (PIN) 
+ru: бутил(этил)(метил)амин (P-62.2.2.1) <br>
+_N_-этил-N-метилбутан-1-амин (PIN)
+
+@End
+
+#P-16.5.1.6+
+en: Parentheses are used to isolate a second locant of a compound locant, around locants denoting ring 
+numbering in phane nomenclature, and to enclose fullerene identifiers.
+ru: Скобки используются для выделения второго локанта составного локанта, вокруг локантов, обозначающих нумерацию колец 
+в номенклатуре фантомов, и для заключения идентификаторов фуллеренов.
+
+@Examples
+
+@cell
+en: bicyclo[8.5.1]hexadeca-1(15),10-diene (PIN, P-31.1.1.1) 
+ru: бицикло[8.5.1]гексадека-1(15),10-диен (PIN, P-31.1.1.1)
+
+@cell
+en: 1(1,3),4(1,4)-dibenzenacycloheptaphane (PIN, P-26.4.2.2) 
+ru: 1(1,3),4(1,4)-дибензонациклогептафан (PIN, P-26.4.2.2)
+
+@cell
+en: (C_{60}-_I__{h})[5,6]fullerene (PIN, P-27.2.2)
+ru: (C_{60}-_I__{h})[5,6]фуллерен (PIN, P-27.2.2)
+
+@End
+
+#P-16.5.1.7+
+en: Parentheses are used to enclose ‘added indicated hydrogen’ and its locant, stereodescriptors such as 
+‘_E_’, ‘_Z_’, ‘_R_’, ‘_S_’, etc., and descriptors for isotopically substituted compounds.
+ru: Скобки используются для заключения «добавленного указанного водорода» и его местоположения, стереодескрипторов, 
+таких как «_E_», «_Z_», «_R_», «_S_» и т. д., а также дескрипторов для изотопно замещенных соединений.
+
+@Examples
+
+@cell
+en: phosphinin-2(1_H_)-one (PIN, P-14.7.2) 
+ru: фосфинин-2(1_H_)-он (PIN, P-14.7.2)
+
+@cell
+en: (2_E_)-but-2-ene (PIN, P-93.4.2.1.1) 
+ru: (2_E_)-бут-2-ен (PIN, Р-93.4.2.1.1)
+
+@cell
+en: (^{13}C)methane (PIN, P-82.2.1) 
+ru: (^{13}C)метан (PIN, P-82.2.1) 
+
+@End
+
+#P-16.5.1.8+
+en: Parentheses are used to clarify a modification made by functional replacement prefixes.
+ru: Скобки используются для пояснения модификации, вносимой функциональными заменяющими префиксами.
+
+@Examples
+
+@cell
+<$ H3C-CS_(x1.2)/=\<`//`-`\\>-COOH $>
+
+en: 4-(thioacetyl)benzoic acid <br>
+4-(ethanethioyl)benzoic acid (PIN, P-65.1.5.1) 
+ru: 4-(тиоацетил)бензойная кислота <br>
+4-(этантиоил)бензойная кислота (PIN, P-65.1.5.1)
+// В справочниках вещество не найдено
+
+@End
+
+#P-16.5.1.9+
+en: Parentheses (or other enclosing marks if parentheses are already present) are placed around a 
+parent structure including the prefix ‘di’ or ‘bis’ before multiparent systems (P-25.3.7.1) substituted by one 
+substituent group only cited as suffix.
+ru: Скобки (или другие ограждающие знаки, если скобки уже присутствуют) помещаются вокруг родительской структуры, 
+включая префикс «ди» или «бис» перед многородительскими системами (P-25.3.7.1), замещенными одной замещающей группой, 
+указанной только как суффикс.
+
+@Examples
+
+@cell
+en: [benzo[1,2-_c_:3,4-_c_′]bis([1,2,5]oxadiazole)]-4-carboxylic acid (PIN; P-65.1.2.2.2) 
+ru: [бензо[1,2-_c_:3,4-_c_′]бис([1,2,5]оксадиазол)]-4-карбоновая кислота (PIN; P-65.1.2.2.2)
+
+@cell
+en: (benzo[1,2:4,5]di[7]annulene)-2-carbonitrile (PIN; P-66.5.1.1.3) 
+ru: (бензо[1,2:4,5]ди[7]аннулен)-2-карбонитрил (PIN; P-66.5.1.1.3)
+
+@End
+
+#P-16.5.1.10+
+en: Parentheses are used to enclose terms modified by the numerical prefixes ‘bis’, ‘tris’, ‘tetrakis’, etc., 
+discussed in P-16.3.6.
+ru: Скобки используются для заключения терминов, модифицированных числовыми префиксами «бис», «трис», «тетракис» и т. д., 
+обсуждаемыми в P-16.3.6.
+
+@Examples
+
+@cell
+en: disilylmethyl (preferred prefix; see P-68.2.5) <br>
+bis(silanyl)methyl 
+ru: дисилилметил (предпочтительный префикс; см. P-68.2.5) <br>
+бис(силанил)метил
+
+@End
+
+#P-16.5.1.11+
+en: Parentheses are used to enclose groups attached to a chain in linear formulas.
+ru: Скобки используются для заключения групп, присоединенных к цепи в линейных формулах.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH@n(2)(SH)-CH3@n(1)
+$>
+
+en: propane-2-thiol (PIN) 
+ru: пропан-2-тиол (PIN)
+
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3)(OH)-CO@n(2)-CH3@n(1)
+$>
+
+en: 3-hydroxybutan-2-one (PIN) 
+ru: 3-гидроксибутан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-[CH2:a]2-C@n(2)(CH3)2-CH3@n(1); #a@n(3-4,-65,.7)
+$>
+
+en: 2,2-dimethylpentane (PIN) 
+ru: 2,2-диметилпентан (PIN)
+
+@End
+
+#P-16.5.1.12
+en: Parentheses are used to enclose multiple dots and charges in radical ion structures.
+ru: Скобки используются для заключения нескольких точек и зарядов в структурах ион-радикалов.
+
+@Examples
+
+@cell
+<$ "["C6H5-C6H5"]^{(2•)(2-)}" $>
+
+en: [1,1′-biphenyl]dielide (PIN) <br>
+biphenyl diradical <br>
+dianion biphenyl diradical ion(2–) 
+ru: [1,1′-бифенил]диелид (PIN) <br>
+бифенил дирадикал <br>
+дианион бифенил дирадикал ион(2–)
+
+@End
+
+#P-16.5.2
+en: Brackets (also called square brackets)
+ru: Квадратные скобки
+
+#P-16.5.2.1+
+en: Brackets enclose descriptors denoting fusion sites in fused ring systems and enclose numbers 
+denoting the length of bridges and chains connecting spiro atoms in names of polyalicyclic ring systems 
+constructed according to von Baeyer methods. They also enclose ring assembly names when these are followed 
+by a principal group suffix or a cumulative suffix and enclose names of components in von Baeyer spiro names. 
+ru: В квадратные скобки заключают дескрипторы, обозначающие места слияния в конденсированных кольцевых системах, 
+и заключают числа, обозначающие длину мостиков и цепочек, соединяющих спироатомы в названиях полиалициклических кольцевых 
+систем, построенных по методам фон Байера. Они также заключают названия кольцевых сборок, когда за ними следует суффикс 
+главной группы или кумулятивный суффикс, и заключают названия компонентов в спиро-названиях фон Байера.
+
+@Examples
+
+@cell
+en: naphtho[2,1-_a_]azulene (PIN, P-25.3.1.3) 
+ru: нафто[2,1-_а_]азулен (PIN, P-25.3.1.3)
+
+@cell
+en: bicyclo[3.2.1]octane (PIN, P-23.2.2) 
+ru: бицикло[3.2.1]октан (PIN, P-23.2.2)
+
+@cell
+en: spiro[4.5]decane (PIN, P-24.2.1) 
+ru: спиро[4.5]декан (PIN, P-24.2.1)
+
+@cell
+en: [2,2′-bipyridin]-5-yl (preferred prefix, P-29.3.5) 
+ru: [2,2′-бипиридин]-5-ил (предпочтительный префикс, P-29.3.5)
+
+@cell
+en: spiro[cyclohexane-1,1′-indene] (PIN, P-24.5.1) 
+ru: спиро[циклогексан-1,1′-инден] (PIN, P-24.5.1)
+
+@End
+
+#P-16.5.2.2+
+en: Brackets enclose locants that describe structural features of components, such as double bonds in 
+bridges and heteroatoms of component rings in names of fused ring systems.
+ru: В квадратных скобках указаны локанты, описывающие структурные особенности компонентов, такие как двойные связи 
+в мостиках и гетероатомы входящих в состав колец в названиях конденсированных кольцевых систем.
+
+@Examples
+
+@cell
+en: 6,7-(epiprop[1]en[1]yl[3]ylidene)benzo[_a_]cyclohepta[_e_][8]annulene (PIN, P-25.4.3.4.2) 
+ru: 6,7-(эпипроп[1]ен[1]ил[3]илиден)бензо[_a_]циклогепта[_e_][8]аннулен (PIN, P-25.4.3.4.2)
+
+@cell
+en: 5_H_-pyrido[2,3-_d_][1,2]oxazine [PIN, P-25.3.2.4 (d)]
+ru: 5_H_-пиридо[2,3-_d_][1,2]оксазин [PIN, P-25.3.2.4 (d)]
+
+@End
+
+#P-16.5.2.3
+en: Brackets enclose the numerals that describe ring size in annulenes and fullerenes.
+ru: В скобках указаны цифры, описывающие размер кольца в аннуленах и фуллеренах.
+
+@Examples
+
+@cell
+en: [10]annulene (P-22.1.2) <br>
+cyclodeca-1,3,5,7,9-pentaene (PIN) 
+ru: [10]аннулен (P-22.1.2) <br>
+циклодека-1,3,5,7,9-пентаен (PIN)
+
+@cell
+en: (C60-Ih)[5,6]fullerene (PIN, P-27.2.2)
+ru: (C_{60}-_I__{h})[5,6]фуллерен (PIN, P-27.2.2)
+
+@End
+
+#P-16.5.2.4+
+en: Brackets enclose substituent prefixes in which parentheses have already been used.
+ru: В квадратные скобки заключаются замещающие префиксы, в которых скобки уже использовались.
+
+@Examples
+
+@cell
+en: 4-[(hydroxyselanyl)methyl]benzoic acid (PIN, P-63.4.2.2) 
+ru: 4-[(гидроксиселанил)метил]бензойная кислота (PIN, P-63.4.2.2)
+
+@End
+
+#P-16.5.2.5+
+en: Brackets are used to enclose descriptors for isotopically labeled compounds.
+ru: Квадратные скобки используются для заключения описаний изотопно-меченых соединений.
+
+@Examples
+
+@cell
+en: [^{13}C]methane (PIN, P-83.1.2.1) 
+ru: [^{13}C]метан (PIN, P-83.1.2.1) 
+
+@End
+
+#P-16.5.2.6+
+en: Brackets are employed in formulae to indicate repetition of a group in a chain.
+ru: Квадратные скобки используются в формулах для обозначения повторения группы в цепочке.
+
+@Examples
+
+@cell
+<$ CH3-[CH2]68-CH3 $>
+
+en: heptacontane (PIN, P-21.2.1)
+ru: гептаконтан (PIN, P-21.2.1)
+
+@End
+
+#P-16.5.3
+en: Braces (also called curly brackets)
+ru: Фигурные скобки
+
+#P-16.5.3.1+
+en: Braces are used to enclose substituent prefixes in which brackets and parentheses have already been 
+used. 
+ru: Фигурные скобки используются для заключения в замещающие префиксы, в которых уже использовались квадратные и 
+круглые скобки.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2-CH2@n(2)-CH2-O-CH@n(1,90)<`|CH3>-O-CH2@n(2)-CH2-O-CH@n(2,90)<`|CH3@n(3)>-C@n(1)%N
+$>
+
+en: 2-{2-[1-(2-aminoethoxy)ethoxy]ethoxy}propanenitrile (PIN)
+ru: 2-{2-[1-(2-аминоэтокси)этокси]этокси}пропаннитрил (PIN)
+
+@End
+
+#P-16.5.4
+en: Multiple types of enclosing marks
+ru: Несколько типов скобок
+
+en: When multiple types of enclosing marks are required, the nesting order is as follows: {[({[( )]})]}, etc. as 
+illustrated in Fig.1.3. It must be noted, however, that the presence of square brackets and/or parentheses that 
+are an integral part of the name of a parent structure does not affect the nesting order given here.
+ru: Когда требуются несколько типов скобок, порядок вложения следующий: {[({[( )]})]} и т. д., 
+как показано на рис. 1.3. Однако следует отметить, что наличие квадратных скобок и/или круглых скобок, которые являются 
+неотъемлемой частью имени исходной структуры, не влияет на порядок вложения, указанный здесь.
+
+<div class="flex-column">
+
+*: <$
+N%%C-/=\(*`//`-`\\*)-/=\(*`//`-`\\*)-O_(x1.2)$padding(0.2,0.1,0)[CH2]5_(x2.5)O:c0--CO_(x1.5)CH(*@:bz()_(x1.4)/=\(*`//`-`\\*)--COOH@():f*)_(y2.2)CH2:e0@bz();
+$color(brown)#1_(x-0.5,y%h:.5,N0){}:o_(y6.5);
+@:ar(n,r,h,x,y:%h)#&r_(x&x,y&y,N0)_(y&h)_(y%d:-0.4)_(x#o;-1,<)"&n"_(x#o,>)@(a,O,1.4,-0.5);
+@ar(b,O,2.4,0.4);
+@ar(c,c0,3.4,-0.4);
+@ar(d,c0,4.4,0.6);
+@ar(e,e0,3.3,1.2);
+@ar(f,f,7,1.8,0)
+$>
+
+en: (a) = 4′-cyano[1,1′-biphenyl]-4-yl <br>
+(b) = (4′-cyano[1,1′-biphenyl]-4-yl)oxy <br>
+(c) = 5-[(4′-cyano[1,1′-biphenyl]-4-yl)oxy]pentyl <br>
+(d) = {5-[(4′-cyano[1,1′-biphenyl]-4-yl)oxy]pentyl}oxy <br>
+(e) = 3-({5-[(4′-cyano[1,1′-biphenyl]-4-yl)oxy]pentyl}oxy)-3-oxopropane-1,2-diyl <br>
+(f) = 4,4′-[3-({5-[(4′-cyano[1,1′-biphenyl]-4-yl)oxy]pentyl}oxy)-3-oxopropane-1,2-diyl]dibenzoic acid (PIN) 
+ru: (a) = 4′-циано[1,1′-бифенил]-4-ил <br>
+(b) = (4′-циано[1,1′-бифенил]-4-ил)окси <br>
+(c) = 5-[(4′-циано[1,1′-бифенил]-4-ил)окси]пентил <br>
+(d) = {5-[(4′-циано[1,1′-бифенил]-4-ил)окси]пентил}окси <br>
+(e) = 3-({5-[(4′-циано[1,1′-бифенил]-4-ил)окси]пентил}окси)-3-оксопропан-1,2-диил <br>
+(f) = 4,4′-[3-({5-[(4′-циано[1,1′-бифенил]-4-ил)окси]пентил}окси)-3-оксопропан-1,2-диил]дибензойная кислота (ПИН)
+
+</div>
+
+@Fig. 1.3
+en: Nesting order of enclosing marks
+ru: Порядок вложения скобок
+
+@Examples
+
+@cell
+<$
+HOOC-CH2-N@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@(N',90)-CH2-CH2-N:N2@n(N,90)-CH2@n(2,-60)-COOH;
+HO-CH2-CH2$L(1.3)|#N; #N2`|CH2@n(2')$L()-COOH
+$>
+
+en: 2,2′-({2-[(carboxymethyl)(2-hydroxyethyl)amino]ethyl}azanediyl)diacetic acid <br>
+_N_-(carboxymethyl)-_N_′-(2-hydroxyethyl)-_N_,_N_′-(ethane-1,2-diyl)diglycine
+ru: 2,2′-({2-[(карбоксиметил)(2-гидроксиэтил)амино]этил}азандиил)диуксусная кислота <br>
+_N_-(карбоксиметил)-_N_′-(2-гидроксиэтил)-_N_,_N_′-(этан-1,2-диил)диглицин
+
+@End
+
+#P-16.5.4.1+
+en: The presence of square brackets and/or parentheses that are an integral part of the name of a parent structure 
+may affect the nesting order as described below.
+ru: Наличие квадратных скобок и/или круглых скобок, являющихся неотъемлемой частью имени родительской структуры, 
+может повлиять на порядок вложения, как описано ниже.
+
+#P-16.5.4.1.1+
+en: In determining the nesting order in a name the parentheses of added indicated hydrogen atoms are ignored.
+ru: При определении порядка вложения в имени скобки указанных добавленных атомов водорода игнорируются.
+
+@Examples
+
+@cell
+en: 1-(3,4-dihydroquinolin-1(2H)-yl)ethan-1-one (PIN, P-64.3.2)
+ru: 1-(3,4-дигидрохинолин-1(2H)-ил)этан-1-он (PIN, P-64.3.2)
+// В оригинале ссылка на P-64.3.210, но такого раздела нет
+// После P-64.3.2 идёт уже P-64.4
+// Указанное вещество есть в разделе P-64.3.2
+
+@End
+
+#P-16.5.4.1.2+
+en: In determining the nesting order in a name the square brackets of ring fusion, spiro fusion, ring assembly, 
+or the extended von Baeyer names are ignored.
+ru: При определении порядка вложения в имени квадратные скобки кольцевого слияния, спирослияния, кольцевой сборки 
+или расширенных имен фон Байера игнорируются.
+
+@Examples
+
+@cell
+en: (7,7-dimethyl-2-oxobicyclo[2.2.1]heptan-1-yl)methanesufonic acid (PIN, P-14.8.1) 
+ru: (7,7-диметил-2-оксобицикло[2.2.1]гептан-1-ил)метансульфоновая кислота (PIN, P-14.8.1)
+
+@cell
+en: 10,10′-[[1,1′-biphenyl]-4,4′-diylbis(oxy)]di(decanoic acid) (PIN, P-15.3.2.1) 
+ru: 10,10′-[[1,1′-бифенил]-4,4′-диилбис(окси)]ди(декановая кислота) (PIN, P-15.3.2.1)
+
+@cell
+en: trispiro{1-oxaspiro[2.3]hexane-2,3′:4,3′′:5,3′′′-tris(tetracyclo[3.2.0.02,7.04,6]heptane)} (PIN, P-24.7.4.1) 
+ru: триспиро{1-оксаспиро[2.3]гексан-2,3′:4,3′′:5,3′′′-трис(тетрацикло[3.2.0.0^{2,7}.0^{4,6}]гептан)} (PIN, P-24.7.4.1)
+// В оригинале здесь ошибки в названии. В частности, лишний символ ]. Правильный вариант взят из указанного раздела P-24.7.4.1
+
+@cell
+en: _N_-(dibenzo[_b_,_d_]furan-1-yl)acetamide (PIN, P-66.1.1.4.3) 
+ru: _N_-(дибензо[_b_,_d_]фуран-1-ил)ацетамид (PIN, P-66.1.1.4.3)
+
+@End
+
+#P-16.5.4.1.3+
+en: In determining the nesting order in a name the parentheses used to indicate compound locants, phane 
+amplification locants, stereochemistry, specific isotopic substitution, or coordination with multicenter bonding are taken 
+into consideration.
+ru: При определении порядка вложения в названии учитываются скобки, используемые для указания локантов соединений, 
+локантов амплификации фанеров, стереохимии, специфического изотопного замещения или координации с многоцентровым связыванием.
+
+@Examples
+
+@cell
+en: 2-[bicyclo[6.6.1]pentadeca-8(15)-en-1-yl]ethan-1-ol (PIN) 
+ru: 2-[бицикло[6.6.1]пентадека-8(15)-ен-1-ил]этан-1-ол (PIN)
+
+@cell
+en: trimethyl[12_H_-1(6)-pyrana-3,5(1,4),7(1)-tribenzenaheptaphan-74-yl]silane (PIN) (P-44.1.2.1) 
+ru: триметил[12_H_-1(6)-пирана-3,5(1,4),7(1)-трибензолагептафан-74-ил]силан (PIN) (P-44.1.2.1)
+
+@cell
+en: [1(1′)_E_,3_E_,3′_E_]-3,3′-diethylidene-1,1′-bi(cyclobutylidene) (PIN, P-93.5.1.4.2.1) 
+ru: [1(1′)_E_,3_E_,3'_E_]-3,3′-диэтилиден-1,1′-би(циклобутилиден) (PIN, P-93.5.1.4.2.1)
+// Здесь тоже ошибка в оригинале. Не закрыта первая квадратная скобка.
+// Правильное название взято из раздела P-93.5.1.4.2.1
+
+@cell
+en: [1(44)_E_,2_S_,26_R_]-bicyclo[24.20.1]heptatetraconta-1(46),44,45-trien-2-ol (PIN, P-93.5.2.3) 
+ru: [1(44)_E_,2_S_,26_R_]-бицикло[24.20.1]гептатетраконта-1(46),44,45-триен-2-ол (PIN, P-93.5.2.3)
+
+@cell
+en: 10-{[(3_S_)-1-phosphabicyclo[2.2.2]octan-3-yl]methyl}-10_H_-phenoxazine (PIN) 
+ru: 10-{[(3_S_)-1-фосфабицикло[2.2.2]октан-3-ил]метил}-10_H_-феноксазин (PIN)
+
+@cell
+en: (3_S_)-2-[(2_S_)-2-{[(1_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid (PIN) 
+ru: (3_S_)-2-[(2_S_)-2-{[(1_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил]амино}пропаноил]-1,2,3,4-тетрагидроизохинолин-3-карбоновая кислота (PIN)
+
+@cell
+en: 1,2-di[(^{13}C)methyl]benzene (PIN, P-82.2.1) 
+ru: 1,2-ди[(^{13}C)метил]бензол (PIN, P-82.2.1)
+
+@cell
+en: 3-[ethyl(2-^{34}S)trisulfanyl]propanoic acid (PIN, P-82.6.3.2) 
+ru: 3-[этил(2-^{34}S)трисульфанил]пропановая кислота (PIN, P-82.6.3.2)
+
+@cell
+en: [(2,3,5,6-η)-bicyclo[2.2.1]hepta-2,5-diene]tricarbonyliron (P-69.2.4) 
+ru: [(2,3,5,6-η)-бицикло[2.2.1]гепта-2,5-диен]трикарбонилирон (P-69.2.4)
+
+@cell
+en: {μ-[2(1-3,3a,8a-η):1(4-6-η)]azulene}-(pentacarbonyl-1κ^{3}C,2κ^{2}C)diiron(Fe—Fe) (P-69.2.5)
+ru: {μ-[2(1-3,3a,8a-η):1(4-6-η)]азулен}-(пентакарбонил-1κ^{3}C,2κ^{2}C)дижелезо(Fe—Fe) (P-69.2.5)
+
+@End
+
+#P-16.5.4.1.4+
+en: In determining the nesting order where square brackets are used for an isotopically labelled compound, by 
+convention, parenthesis are used.
+ru: При определении порядка вложения, где для изотопно-меченого соединения используются квадратные скобки, 
+по соглашению используются круглые скобки.
+
+@Examples
+
+@cell
+en: 1-(amino[^{14}C]methyl)cyclopentan-1-ol (PIN, P-83.1.2.1)
+ru: 1-(амино[^{14}C]метил)циклопентан-1-ол (PIN, P-83.1.2.1)
+
+@End
+
+#P-16.5.4.1.5+
+en: When the nesting order given in P-16.5.4 results in consecutive enclosing marks of the same level, the next 
+level of enclosing mark is used. For example the following name formed by the application of the nesting order rules 
+given above results in the appearance of consecutive parentheses twice.
+ru: Когда порядок вложения, указанный в P-16.5.4, приводит к последовательным охватывающим знакам того же уровня, 
+используется следующий уровень охватывающего знака. Например, следующее имя, образованное путем применения правил порядка 
+вложения, указанных выше, приводит к появлению последовательных скобок дважды.
+
+@Examples --
+
+@cell
+en: 2-{2-[(1-ethoxy-1-oxo-4-phenylbutan-2-yl)amino]propanoyl}-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid 
+(without stereochemistry) <br>
+(3_S_)-2-[(2_S_)-2-{[(2_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid (with stereochemistry) 
+ru: 2-{2-[(1-этокси-1-оксо-4-фенилбутан-2-ил)амино]пропаноил}-1,2,3,4-тетрагидроизохинолин-3-карбоновая кислота
+(без стереохимии) <br>
+(3_S_)-2-[(2_S_)-2-{[(2_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил]амино}пропаноил]-1,2,3,4-тетрагидроизохинолин-3-карбоновая кислота (со стереохимией)
+
+@cell
+en: With this example the stereochemistry needs to be inserted at three positions. Insertion of the third one into the name 
+without stereochemistry results in two opening parenthesis next to each other. Hence to clarify the brackets these need 
+to be adjusted as shown by the second name. 
+ru: В этом примере стереохимия должна быть вставлена ​​в три позиции. Вставка третьей в имя без стереохимии приводит к 
+появлению двух открывающихся скобок рядом друг с другом. Поэтому для ясности скобок их необходимо отрегулировать, 
+как показано во втором имени.
+
+@End
+
+en: **Explanation**: The order of insertion of stereochemistry for 2-{2-[(1-ethoxy-1-oxo-4-phenylbutan-2-yl)amino]propanoyl}-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid is as shown below. 
+ru: **Объяснение**: Порядок вставки стереохимии для 2-{2-[(1-этокси-1-оксо-4-фенилбутан-2-ил)амино]пропаноил}-1,2,3,4-тетрагидроизохинолин-3-карбоновой кислоты показан ниже.
+
+en: **Stage 1** insert stereochemistry at the inner most position:
+ru: **Этап 1** вставьте стереохимию в самое внутреннее положение:
+
+en: 2-{2-{[(2_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl}-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid 
+ru: 2-{2-{[(2_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил]амино}пропаноил}-1,2,3,4-тетрагидроизохинолин-3-карбоновая кислота
+
+en: The substituent (2_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl requires square brackets to surround it hence subsequent 
+enclosing marks need to be adjusted.  
+ru: Заместитель (2_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил требует заключения его в квадратные скобки, поэтому последующие 
+ограничивающие знаки необходимо скорректировать.
+
+en: **Stage 2** insert stereochemistry at the next position:
+ru: **Этап 2** вставьте стереохимию в следующую позицию:
+
+en: 2-[(2_S_)-2-{[(2_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxylic 
+acid 
+ru: 2-[(2_S_)-2-{[(2_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил]амино}пропаноил]-1,2,3,4-тетрагидроизохинолин-3-карбоновая
+кислота
+
+en: The substituent (2_S_)-2-{[(2_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl has a parenthesis on the left and 
+brace on the right so to make clear it requires square brackets around it. 
+ru: Заместитель (2_S_)-2-{[(2_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил]амино}пропаноил имеет скобку слева и фигурную скобку 
+справа, поэтому для ясности его необходимо заключить в квадратные скобки.
+
+en: **Stage 3** insert stereochemistry at the third position:
+ru: **Этап 3** вставьте стереохимию в третью позицию:
+
+en: (3_S_)-2-[(2_S_)-2-{[(2_S_)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid 
+ru: (3_S_)-2-[(2_S_)-2-{[(2_S_)-1-этокси-1-оксо-4-фенилбутан-2-ил]амино}пропаноил]-1,2,3,4-тетрагидроизохинолин-3-карбоновая кислота
+
+@p .framed
+en: This procedure is a change to alleviate the situation that can happen when one follows precisely the nesting order 
+given above and it is necessary to insert independent enclosing marks to accommodate other factors, such as 
+stereodescriptors, that two or more enclosing marks of the same type might line up consecutively resulting in 
+confusion. 
+ru: Эта процедура представляет собой изменение, призванное облегчить ситуацию, которая может возникнуть, когда кто-то 
+точно следует порядку вложения, указанному выше, и необходимо вставить независимые охватывающие знаки для учета других 
+факторов, таких как стереодескрипторы, когда два или более охватывающих знака одного и того же типа могут выстроиться 
+последовательно, что приведет к путанице.

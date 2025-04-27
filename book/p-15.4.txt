@@ -2,10 +2,646 @@
 en: Skeletal replacement (‘a’) nomenclature 
 ru: Номенклатура скелетных замещений (‘a’)
 
-#P-15.5 
-en: Functional replacement nomenclature  
-ru: Функциональная номенклатура замены
+#P-15.4.0
+en: Introduction.
+ru: Введение.
 
-#P-15.6 
-en: Conjunctive nomenclature 
-ru: Конъюнктивная номенклатура
+en: Skeletal replacement (‘a’) nomenclature is a subset of replacement nomenclature that also includes functional 
+replacement nomenclature (see P-13.2). Functional replacement nomenclature is discussed in P-15.5. Just as 
+functional replacement is considered a nomenclature, skeletal replacement is also considered a nomenclature. 
+ru: Номенклатура скелетной замены (‘a’) является подмножеством номенклатуры замены, которая также включает функциональную
+номенклатуру замены (см. P-13.2). Функциональная номенклатура замены обсуждается в P-15.5. Так же, как
+функциональная замена считается номенклатурой, скелетная замена также считается номенклатурой.
+
+en:  In the nomenclature of organic compounds, skeletal replacement based on the replacement of carbon atoms by 
+other atoms included in the general scope of the nomenclature of organic compounds is described under the title 
+of  skeletal  replacement (‘a’) nomenclature, because the heteroatoms replacing carbon atoms are denoted by 
+nondetachable prefixes ending in ‘a’. Skeletal replacement (‘a’) nomenclature also includes replacement of boron 
+atoms by other atoms, including carbon (see P-68.1.1.3.1), and the replacement of heteroatoms by other atoms, 
+including  carbon,  to  modify  fundamental  structures  of  natural  products  as  described  in P-101.4.  Skeletal 
+replacement denoted by methods other than ‘a’ prefixes is described for the replacement of nitrogen atoms by 
+phosphorus and arsenic atoms in certain heterocycles (see Table 2.9) and oxygen atoms by sulfur, selenium, and 
+tellurium atoms in other specific heterocycles (see Table 2.8). 
+ru: В номенклатуре органических соединений скелетное замещение, основанное на замене атомов углерода другими атомами, 
+включенными в общую сферу номенклатуры органических соединений, описывается под названием скелетной замены (‘a’) 
+номенклатуры, поскольку гетероатомы, заменяющие атомы углерода, обозначаются неотделяемыми префиксами, оканчивающимися 
+на ‘a’. Скелетная замена (‘a’) номенклатура также включает замену атомов бора другими атомами, включая углерод 
+(см. P-68.1.1.3.1), и замену гетероатомов другими атомами, включая углерод, для изменения фундаментальных структур 
+природных продуктов, как описано в P-101.4. Скелетное замещение, обозначенное методами, отличными от префиксов ‘a’, 
+описывается для замены атомов азота атомами фосфора и мышьяка в определенных гетероциклах (см. Таблицу 2.9) и атомов 
+кислорода атомами серы, селена и теллура в других конкретных гетероциклах (см. Таблицу 2.8).
+
+en: This section deals primarily with skeletal replacement in hydrocarbon parent hydrides. Skeletal replacement 
+(‘a’) nomenclature is used in two ways: 
+ru: В этом разделе в первую очередь рассматривается скелетное замещение в исходных гидридах углеводородов. 
+Номенклатура скелетного замещения (‘a’) используется двумя способами:
+
+@List
+
+@item
+en: to generate names for heterocyclic parent hydrides by replacing carbon atoms in corresponding cyclic 
+hydrocarbons; and
+ru: генерировать названия для гетероциклических родительских гидридов путем замены атомов углерода в соответствующих 
+циклических углеводородах; и
+
+@item
+en: to generate simpler names for heteroacyclic structures than those formed by following the principles of 
+substitutive nomenclature, for example, in naming polyamines, polyethers, etc., by replacing carbon atoms in 
+corresponding acyclic hydrocarbons. 
+ru: для создания более простых названий для гетероациклических структур, чем те, которые образованы путем следования 
+принципам заместительной номенклатуры, например, при наименовании полиаминов, полиэфиров и т. д., путем замены атомов 
+углерода в соответствующих ациклических углеводородах.
+
+@End
+
+@p .framed
+en: In previous recommendations, a heteroacyclic chain had to be terminated by carbon atoms (Rule R-2.2.3.1 in 
+the 1993 Guide); but in these recommendations a heterocyclic chain now may terminate on any of the following 
+heteroatoms: P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, Tl, and C (see P-15.4.3.1). 
+ru: В предыдущих рекомендациях гетероциклическая цепь должна была заканчиваться атомами углерода (Правило R-2.2.3.1 
+в Руководстве 1993 г.); но в этих рекомендациях гетероциклическая цепь теперь может заканчиваться любым из следующих 
+гетероатомов: P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, Tl и C (см. P-15.4.3.1).
+
+en: The selection of preferred IUPAC names involving skeletal replacement (‘a’) nomenclature is discussed in P-51.4. 
+ru: Выбор предпочтительных названий ИЮПАК, включающих номенклатуру скелетного замещения («а»), обсуждается в P-51.4.
+
+#P-15.4.1
+en: General rules
+ru: Общие правила
+
+#P-15.4.1.1+
+en: Nondetachable prefixes, called ‘a’ prefixes, are used to designate the replacing skeletal atoms with their 
+standard bonding number. Those related to these recommendations are listed in Table 1.5. 
+ru: Неотделяемые префиксы, называемые префиксами «a», используются для обозначения заменяющих скелетных атомов с их 
+стандартным числом связей. Те, которые связаны с этими рекомендациями, перечислены в Таблице 1.5.
+
+@Table 1.5 
+en: Skeletal replacement (‘a’) prefixes 
+ru: Префиксы замены скелета (‘a’)
+
+@th
+en: Standard Bonding Numbers 
+ru: Стандартное число связей
+
+@th colspan=2
+3
+
+@th colspan=2
+4
+
+@th colspan=2
+3
+
+@th colspan=2
+2
+
+@th colspan=2
+1
+
+// Русские названия пока не проверены
+
+@td
+
+@td
+B
+
+@td
+en: bora
+ru: бора
+
+@td
+C
+
+@td
+en: carba
+ru: карба
+
+@td
+N
+
+@td
+en: aza
+ru: аза
+
+@td
+O
+
+@td
+en: oxa
+ru: окса
+
+@td
+F
+
+@td
+en: fluora
+ru: фтора
+
+@td
+
+@td
+Al
+
+@td
+en: alumina
+ru: алюмина
+
+@td
+Si
+
+@td
+en: sila
+ru: сила
+
+@td
+P
+
+@td
+en: phospha
+ru: фосфа
+
+@td
+S
+
+@td
+en: thia
+ru: тиа
+
+@td
+Cl
+
+@td
+ru: chlora
+en: хлора
+
+@td
+
+@td
+Ga
+
+@td
+en: galla
+ru: галла
+
+@td
+Ge
+
+@td
+en: germa
+ru: герма
+
+@td
+As
+
+@td
+en: arsa
+ru: арса
+
+@td
+Se
+
+@td
+ru: selena
+en: селена
+
+@td
+Br
+
+@td
+en: broma
+ru: брома
+
+@td
+
+@td
+In 
+
+@td
+en: inda 
+ru: инда
+
+@td
+Sn 
+
+@td
+en: stanna 
+ru: станна
+
+@td
+Sb 
+
+@td
+en: stiba 
+ru: стиба
+
+@td
+Te 
+
+@td
+en: tellura 
+ru: теллура
+
+@td
+I 
+
+@td
+en: ioda
+ru: иода
+
+@td
+
+@td
+Tl 
+
+@td
+en: thalla 
+ru: талла
+
+@td
+Pb 
+
+@td
+en: plumba 
+ru: плюмба
+
+@td
+Bi 
+
+@td
+en: bisma 
+ru: висма
+
+@td
+Po 
+
+@td
+en: polona
+ru: полона 
+
+@td
+At 
+
+@td
+en: astata
+ru: астата 
+
+@EndTable
+
+#P-15.4.1.2+
+en: For naming and numbering purposes, the following decreasing order of element seniority is followed: <% list %> 
+(see Appendix 1). Once a structure modified by skeletal replacement (‘a’) prefixes has been named and numbered, it is 
+considered to be a new parent hydride. As locants assigned to heteroatoms are essential, all locants must be cited as 
+defined in P-14.3.3. 
+ru: Для целей наименования и нумерации используется следующий порядок убывания старшинства элементов: <% list %>
+(см. Приложение 1). После того, как структура, измененная скелетными заменяющими префиксами («a»), была названа и 
+пронумерована, она считается новым родительским гидридом. Поскольку локанты, назначенные гетероатомам, являются 
+существенными, все локанты должны быть указаны, как определено в P-14.3.3.
+%list: F > Cl > Br > I >At > O > S > Se > Te > Po > N > P > As > Sb > Bi > C > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+#P-15.4.1.3+ 
+en: The symbol λ^{_n_} is used to describe heteroatoms having nonstandard bonding numbers (P-14.1.3). In names, it 
+is placed immediately after the locant (without an intervening hyphen) denoting the heteroatom.
+ru: Символ λ^{_n_} используется для описания гетероатомов с нестандартными связевыми числами (P-14.1.3). 
+В названиях он ставится сразу после локанта (без промежуточного дефиса), обозначающего гетероатом.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:0.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`-`/\-PH3@n(6,90,.6)/; |_p_p#1_p@n(1,-90)_p@n(2,-45)
+$>
+
+en: 6λ^{5}-phosphaspiro[4.5]decane (PIN) 
+ru: 6λ^{5}-фосфаспиро[4.5]декан (PIN)
+
+@End
+
+#P-15.4.1.4+
+en: Anionic and cationic skeletal replacement (‘a’) prefixes used to designate anionic and cationic heteroatoms 
+are derived from the neutral prefixes given in Table 1.5. These skeletal replacement prefixes are all preselected. 
+ru: Анионные и катионные скелетные замещающие префиксы (‘a’), используемые для обозначения анионных и катионных 
+гетероатомов, получены из нейтральных префиксов, приведенных в Таблице 1.5. Все эти скелетные замещающие префиксы 
+выбраны заранее.
+
+@Examples 3
+
+@cell
+<$ {}-P^-# -{} $>
+
+en: phosphanida
+ru: фосфанида
+
+@cell
+<$ {}--B^-<|{}><`|{}>-{} $>
+
+en: boranuida
+ru: борануида
+
+@cell
+<$ |S^-<_(A10)><`/>`\ $>
+
+en: sulfanuida <br>
+λ^{4}-sulfanida 
+ru: сульфануида <br>
+λ^{4}-сульфанида
+
+@cell
+<$ {}-N^+<-{}> $>
+
+en: azanylia
+ru: азанила
+
+@cell
+// Формула в оригинале отсутствует. Взята из P-73.4
+<$ -I^+<-> $>
+
+en: iodonia
+ru: иодониа
+
+@cell
+en: <% a %> or <% b %>
+ru: <% a %> или <% b %>
+%a: <$ |S^+<`/>\ $>
+%b: <$ -S^+= $>
+
+en: thionia
+ru: тиониа
+
+@End
+
+en: The selection of preferred IUPAC names involving ionic skeletal replacement (‘a’) prefixes is fully discussed in 
+P-72.4 and P-73.4. 
+ru: Выбор предпочтительных названий ИЮПАК, включающих префиксы с заменой ионного скелета («а»), подробно обсуждается 
+в P-72.4 и P-73.4.
+
+#P-15.4.2
+en: Skeletal replacement (‘a’) nomenclature is applied in three ways in naming heterocyclic parent hydrides. 
+ru: Номенклатура скелетного замещения («а») применяется тремя способами при наименовании гетероциклических исходных гидридов.
+
+#P-15.4.2.1+
+en: Skeletal replacement (‘a’) nomenclature is applied simply in the generation of individual heteromonocyclic 
+parent hydrides (see P-22.2.3), heterocyclic von Baeyer parent hydrides (see P-23.3), heterocyclic spiro parent hydrides 
+composed of only monocyclic rings (see P-24.2.4.1), and fullerenes (see P-27.5). These heterocyclic compounds are 
+used as identical parent structures in multiplicative nomenclature, but not as components in fusion nomenclature or ring 
+assemblies. 
+ru: Номенклатура скелетной замены (‘a’) применяется просто при создании отдельных гетеромоноциклических исходных 
+гидридов (см. P-22.2.3), гетероциклических родительских гидридов фон Байера (см. P-23.3), гетероциклических спиро-исходных 
+гидридов, состоящих только из моноциклических колец (см. P-24.2.4.1), и фуллеренов (см. P-27.5). 
+Эти гетероциклические соединения используются как идентичные исходные структуры в мультипликативной номенклатуре, 
+но не как компоненты в номенклатуре слияния или кольцевых сборках.
+
+#P-15.4.2.2+
+en: When individual heterocycles are components of heterocyclic spiro ring systems not covered in 
+P-15.4.2.1 above [see P-24.3.4, P-24.4.3 (in part), and P-24.5.2 (in part)], heterocyclic phane systems (see P-26.5.2), or 
+heterocyclic ring assemblies (see P-28.4), skeletal replacement (‘a’) nomenclature is applied in a two-step procedure. 
+First the structure is named as a total or partial hydrocarbon system. Then skeletal replacement (‘a’) prefixes are added 
+and cited at the front of the name. Names formed by this method are used as identical parent structures in multiplicative 
+nomenclature. 
+ru: Когда отдельные гетероциклы являются компонентами гетероциклических спирокольцевых систем, не охваченных в P-15.4.2.1 
+выше [см. P-24.3.4, P-24.4.3 (частично) и P-24.5.2 (частично)], гетероциклических фановых систем (см. P-26.5.2) или 
+гетероциклических кольцевых сборок (см. P-28.4), номенклатура скелетного замещения («a») применяется в двухэтапной процедуре. 
+Сначала структура называется как полная или частичная углеводородная система. Затем добавляются префиксы скелетного 
+замещения («a») и приводятся в начале названия. Названия, образованные этим методом, используются как идентичные исходные 
+структуры в мультипликативной номенклатуре.
+
+#P-15.4.2.3+
+en: Heteromonocyclic mancude components named by skeletal replacement (‘a’) nomenclature are modified 
+when used as component rings in fusion nomenclature [see P-25.2.2.1, P-25.2.2.4 (in part), and P-25.3.2.1.2] 
+ru: Гетеромоноциклические компоненты mancude, названные по номенклатуре скелетного замещения («a»), модифицируются при 
+использовании в качестве колец компонентов в номенклатуре слияния [см. P-25.2.2.1, P-25.2.2.4 (частично) и P-25.3.2.1.2]
+
+#P-15.4.3
+en: Skeletal replacement (‘a’) nomenclature for acyclic parent hydrides 
+ru: Номенклатура скелетной замены (‘a’) для ациклических исходных гидридов
+
+#P-15.4.3.1+
+en: Skeletal replacement names are formed by placing skeletal replacement (‘a’) prefixes in front of the name of 
+the unbranched parent structure in accord with their seniority order given in P-15.4.1.2. Multiplicative prefixes ‘di’, 
+‘tri’, ‘tetra’, etc, indicate a multiplicity of identical heteroatoms, and locants are used to designate their positions. The 
+chain must be terminated by a C atom or one of the following heteroatoms: P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, 
+or Tl. 
+ru: Названия скелетных замен образуются путем размещения префиксов скелетных замен («a») перед названием неразветвленной 
+исходной структуры в соответствии с порядком их старшинства, указанным в P-15.4.1.2. Мультипликативные префиксы «ди», 
+«три», «тетра» и т. д. указывают на множественность идентичных гетероатомов, а локанты используются для обозначения их 
+позиций. Цепь должна заканчиваться атомом C или одним из следующих гетероатомов: 
+P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In или Tl.
+
+@p .framed
+en: Termination of a hetero acyclic chain by P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, or Tl is a change from earlier 
+recommendations where the chain could only be terminated by carbon atoms. 
+ru: Обрыв гетероациклической цепи с помощью P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In или Tl является изменением 
+по сравнению с предыдущими рекомендациями, согласно которым цепь могла быть завершена только атомами углерода.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-O@n(2)-CH2@n(3)-S@n(4)-S@n(5)-CH2@n(6)-CH2@n(7)-O@n(8)-CH2@n(9)-CH2@n(10)-Se@n(11)-CH3@n(12)
+$>
+
+en: 2,8-dioxa-4,5-dithia-11-selenadodecane (PIN) 
+ru: 2,8-диокса-4,5-дитиа-11-селенадодекан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+H3Si@n(1)-O@n(2)-CH2-S@n(4)-SiH3@n(5)
+$>
+
+en: 2-oxa-4-thia-1,5-disilapentane (PIN)
+ru: 2-окса-4-тиа-1,5-дисилапентан (PIN)
+
+@End
+
+#P-15.4.3.2
+en: Numbering of heteroacyclic parent hydrides
+ru: Нумерация гетероациклических исходных гидридов
+
+#P-15.4.3.2.1+
+en: Unbranched chains are numbered continuously from one end to the other so as to give a lower set of 
+locants to heteroatoms considered together as a set without regard to kind, and then, if there is a choice, to heteroatoms 
+cited first in the seniority order given in P-15.4.1.2. 
+ru: Неразветвленные цепи нумеруются непрерывно от одного конца к другому, чтобы дать меньший набор локантов гетероатомам, 
+рассматриваемым вместе как набор без учета вида, а затем, если есть выбор, гетероатомам, указанным первыми в порядке 
+старшинства, приведенном в P-15.4.1.2.
+
+@p .framed
+en: In these recommendations, skeletal replacement (‘a’) nomenclature generates new acyclic parent hydrides whose 
+numbering is fixed, as it is for rings and ring systems; this is a major modification to Rule C-0.6 (ref. 1). Then 
+suffixes, endings, and prefixes are added in accordance with this fixed numbering. 
+ru: В этих рекомендациях скелетная замена (‘a’) номенклатура генерирует новые ациклические исходные гидриды, 
+нумерация которых фиксирована, как и для колец и кольцевых систем; это является серьезным изменением Правила 
+C-0.6 (ссылка 1). Затем суффиксы, окончания и префиксы добавляются в соответствии с этой фиксированной нумерацией.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH3@n(10)
+$>
+
+en: 8-thia-2,4,6-trisiladecane (PIN) <br>
+(the locant set ‘2,4,6,8’ is lower than ‘3,5,7,9’; see P-14.3.5) 
+ru: 8-тиа-2,4,6-трисиладекан (PIN) <br>
+(локантный набор «2,4,6,8» меньше, чем «3,5,7,9»; см. P-14.3.5)
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(9)-SiH2@n(8)-CH2@n(7)-SiH2@n(6)-CH2@n(5)-SiH2@n(4)-CH2@n(3)-O@n(2)-CH3@n(1)
+$>
+
+en: 2-oxa-4,6,8-trisilanonane (PIN) <br>
+(the heteroatom locant sets, ‘2,4,6,8‘, are identical; <br>
+therefore, the low locant is given to ‘O’ over ‘Si’; see Appendix 1)
+ru: 2-окса-4,6,8-трисиланонан (PIN) <br>
+(наборы локантов гетероатомов, ‘2,4,6,8‘, идентичны; <br>
+поэтому наименьшим локантом является ‘O’, по сравнению с ‘Si’; см. Приложение 1)
+
+@End
+
+#P-15.4.3.2.2+
+en: Free valences of substituent groups receive locants according to the fixed numbering of the heterochain. 
+ru: Свободные валентности замещающих групп получают локанты в соответствии с фиксированной нумерацией гетероцепи.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH2@n(9)-CH2@n(10)-{}
+$>
+
+en: 2,4,6,8-tetrasiladecan-10-yl (preferred prefix) <br>
+[**Note** the use of ‘decan-10-yl’ not ‘dec-10-yl’; see P-29.3.2.2]
+ru: 2,4,6,8-тетрасиладекан-10-ил (предпочтительный префикс) <br>
+[**Примечание** используется «декан-10-ил», а не «дек-10-ил»; см. P-29.3.2.2]
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH@n(5,90)<`|{}>-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH2@n(9)-CH3@n(10)
+$>
+
+en: 2,4,6,8-tetrasiladecan-5-yl (preferred prefix) 
+ru: 2,4,6,8-тетрасиладекан-5-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:0.7)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH2@n(9)-CH2@n(10)-CH2@n(11)-{}
+$>
+
+en: 2,4,6,8-tetrasilaundecan-11-yl (preferred prefix) 
+ru: 2,4,6,8-тетрасилаундекан-11-ил (предпочтительный префикс)
+
+@End
+
+#P-15.4.3.2.3+
+en: Characteristic groups cited as suffixes are given locants in accordance with the fixed numbering of the 
+heterochain. 
+ru: Характерным группам, указанным в качестве суффиксов, присваиваются локанты в соответствии с фиксированной 
+нумерацией гетероцепи.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(9)-SiH2@n(8)-CH2@n(7)-SiH2@n(6)-CH2@n(5)-SiH2@n(4)-CH2@n(3)-SiH2@n(2)-COOH@n(1)
+$>
+
+en: 2,4,6,8-tetrasilanonan-1-oic acid (PIN) <br>
+(locant 1 is not omitted, in accordance with P-15.4.3.2.1) 
+ru: 2,4,6,8-тетрасиланонан-1-овая кислота (PIN) <br>
+(локант 1 не пропущен, в соответствии с P-15.4.3.2.1)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH2@n(9)-CH2@n(10)-OH
+$>
+
+en: 2,4,6,8-tetrasiladecan-10-ol (PIN) 
+ru: 2,4,6,8-тетрасиладекан-10-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH2@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH2@n(9)-COOH@n(10)
+$>
+
+en: 2,4,6,8-tetrasiladecan-10-oic acid (PIN) 
+ru: 2,4,6,8-тетрасиладекан-10-овая кислота (PIN)
+
+@End
+
+#P-15.4.3.2.4+
+en: Double and triple bonds are given locants in accordance with the fixed numbering of the heterochain, and, 
+if there is a choice, according to the general priorities for multiple bonds (see P-31.1.2.2.2). 
+ru: Двойным и тройным связям присваиваются локанты в соответствии с фиксированной нумерацией гетероцепи, а при наличии 
+выбора — в соответствии с общими приоритетами для кратных связей (см. P-31.1.2.2.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH@n(9)=CH2@n(10)
+$>
+
+en: 2,4,6,8-tetrasiladec-9-ene (PIN)
+ru: 2,4,6,8-тетрасиладек-9-ен (PIN)
+
+@End
+
+#P-15.4.3.2.5
+en: Heteroatoms with nonstandard valences
+ru: Гетероатомы с нестандартными валентностями
+
+#(a)
+en: A nonstandard bonding number of a neutral skeletal heteroatom in a parent hydride is indicated by the symbol λ^{_n_}, 
+where ‘_n_’ is the bonding number following the appropriate locant (see P-14.1.3). 
+ru: Нестандартное число связей нейтрального скелетного гетероатома в исходном гидриде обозначается символом λ^{_n_}, 
+где «_n_» — число связей, следующее за соответствующим локантом (см. P-14.1.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-O@n(2)-CH2@n(3)-CH2@n(4)-O@n(5)-CH2@n(6)-CH2@n(7)-O@n(8)-CH2@n(9)-CH2@n(10)-SH2@n(11)-CH3@n(12)
+$>
+
+en: 2,5,8-trioxa-11λ^{4}-thiadodecane (PIN) <br>
+(‘O’ is preferred to ‘S’ for low locant; see Appendix 1) 
+ru: 2,5,8-триокса-11λ^{4}-тиадодекан (PIN) <br>
+(‘O’ предпочтительнее, чем ‘S’ для меньшего локанта; см. Приложение 1)
+
+@End
+
+#(b) 
+en: When there is a choice, low locants are assigned to heteroatoms having a higher bonding number.
+ru: При наличии выбора меньшие локанты присваиваются гетероатомам с большим числом связей.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:0.6)(*_(A&a,L&L,N0)$itemColor1(gray)"&n"*)@;
+CH3@n(1)-SH2@n(2)-CH2@n(3)-CH2@n(4)-S@n(5)-CH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH2@n(10)-S@n(11)-CH3@n(12)
+$>
+
+en: 2λ^{4},5,8,11-tetrathiadodecane (PIN) 
+ru: 2λ^{4},5,8,11-тетратиадодекан (PIN)
+
+@End
+
+#P-15.4.3.3+
+en: The use of anionic and cationic skeletal replacement (‘a’) prefixes is fully discussed in P-72.4 and P-73.4, 
+respectively.
+ru: Использование анионного и катионного скелетного замещения («a») префиксов подробно обсуждается в P-72.4 и P-73.4 
+соответственно. 

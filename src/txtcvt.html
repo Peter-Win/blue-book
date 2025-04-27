@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Text converter</title>
+  <script>
+    window.addEventListener("load", () => {
+      document.getElementById("inbox").addEventListener("input", (e) => {
+        let v = e.currentTarget.value.trim().replaceAll("!", " ").replace(/([A-Za-z\d′‘\)\];])G/g, "$1-").replaceAll("P\"", "P-");
+        const ex = /^P-(\d+|1#)(\.\d+)*/.exec(v);
+        let hd = "";
+        if (ex) {
+          hd = ex[0];
+          v = v.replace(hd, "");
+          hd = "#" + hd + "\n";
+        }
+        console.log(ex);
+        v = "en: " + v;
+        const r1 = v.replaceAll("  ", " ").replaceAll("\n ", "\n");
+        const er1 = document.getElementById("result1");
+        er1.value = hd + r1;
+        er1.focus();
+        er1.select();
+        document.getElementById("result2").value = r1.replace(/\s\s/g, " ");
+      });
+    })
+  </script>
+  <style>
+    textarea { width: 90%;}
+  </style>
+</head>
+<body>
+  <div>
+    К сожалению, часть текста исходной документации содержит лишние символы.
+    Здесь их можно удалить.
+  </div>
+  <div>
+    <textarea id="inbox" rows="10" placeholder="Текст вставлять сюда" autofocus></textarea>
+  </div>
+  <div>
+    <textarea id="result1" rows="10"></textarea>
+  </div>
+  <div>
+    <textarea id="result2" rows="4"></textarea>
+  </div>
+</body>
+</html>

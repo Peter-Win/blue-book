@@ -1,0 +1,415 @@
+#P-16.6 
+en: Italicization 
+ru: Курсив
+
+en: Italicizing marks letters that are not involved in the primary stage of alphanumerical ordering. In manuscripts, 
+italics are conventionally indicated by underlining when an italic font is not available. 
+ru: Курсивом помечаются буквы, которые не участвуют в первичной стадии алфавитно-цифрового упорядочения. В рукописях 
+курсив обычно обозначается подчеркиванием, когда курсивный шрифт недоступен.
+
+#P-16.6.1+
+en: Lower case italic letters are used in descriptors for fusion sites in names of fused ring systems.
+ru: Строчные курсивные буквы используются в дескрипторах мест слияния в названиях систем слитых колец.
+
+@Examples
+
+@cell
+en: selenopheno[2,3-_b_]selenophene (PIN, P-25.3.1.3)
+ru: селенофено[2,3-_b_]селенофен (PIN, P-25.3.1.3)
+
+@End
+
+en: The letters _o_, _m_, and _p_ have been used in place of ortho, meta, and para, respectively, to designate the 1,2-, 1,3-, 
+and 1,4- isomers of disubstituted benzene. This usage is strongly discouraged and is not used in preferred IUPAC 
+names.
+ru: Буквы _o_, _m_ и _p_ использовались вместо орто, мета и пара соответственно для обозначения 1,2-, 1,3- и 1,4-изомеров 
+дизамещенного бензола. Такое использование настоятельно не рекомендуется и не используется в предпочтительных названиях ИЮПАК.
+
+@Examples
+
+@cell
+en: _o_-xylene (P-22.1.3) <br>
+1,2-xylene (PIN) <br>
+1,2-dimethylbenzene 
+ru: _o_-ксилол (P-22.1.3) <br>
+1,2-ксилол (PIN) <br>
+1,2-диметилбензол
+
+@End
+
+#P-16.6.2+
+en: Italicized elements symbols, such as _O_, _N_, _As_, are locants indicating attachment of a substituent to these 
+heteroatoms
+ru: Выделенные курсивом символы элементов, такие как _O_, _N_, _As_, являются локантами, указывающими на 
+присоединение заместителя к этим гетероатомам
+
+@Examples
+
+@cell
+en: _N_,_N_-diethylethanamine (PIN, P-62.2.2.1) 
+ru: _N_,_N_-диэтилэтанамин (PIN, P-62.2.2.1)
+
+@cell
+en: _O_-ethyl hexaneselenoate (PIN, P-65.6.3.3.7.1)
+ru: _O_-этилгексанселеноат (PIN, P-65.6.3.3.7.1)
+
+@End
+
+#P-16.6.3+
+en: The italic element symbol H denotes indicated or added hydrogen.
+ru: Курсивный символ элемента H обозначает указанный или добавленный водород.
+
+@Examples
+
+@cell
+en: 1_H_-azepine (PIN, P-22.2.2.1.4) 
+ru: 1_H_-азепин (PIN, P-22.2.2.1.4)
+
+@cell
+en: quinolin-2(1_H_)-one (PIN, P-64.3.1) 
+ru: хинолин-2(1_H_)-он (PIN, P-64.3.1)
+
+@End
+
+#P-16.6.4+
+en: Italic terms, syllables, and capital Roman letters are used in some structural descriptors and 
+stereodescriptors, such as ‘_cis_’, ‘_trans_’, ‘_R_’, ‘_S_’, ‘_E_’, ‘_Z_’, ‘_r_’, ‘_s_’, ‘_c_’, ‘_t_’, and ‘_retro_’.
+ru: Курсивные термины, слоги и заглавные латинские буквы используются в некоторых структурных дескрипторах и 
+стереодескрипторах, таких как «_cis_», «_trans_», «_R_», «_S_», «_E_», «_Z_», «_r_», «_s_», «_c_», «_t_» и «_retro_».
+
+@Examples
+
+@cell
+en: ‘_tert_’, but not ‘iso’ (P-29.6.3) 
+ru: «_tert_», но не «iso» (P-29.6.3)
+
+@cell
+en: ‘_E_’ and ‘_Z_’ (P-93.4.2.1.1); ‘_cis_’, and ‘_trans_’ (P-93.4.2.1.1); ‘_r_’, ‘_c_’, and ‘_t_’ (P-93.5.1.3); 
+ru: «_E_» и «_Z_» (P-93.4.2.1.1); «_цис_» и «_транс_» (P-93.4.2.1.1); «_r_», «_c_» и «_t_» (P-93.5.1.3);
+
+@cell
+en: ‘_R_’ and ‘_S_’ (P-93.1.1), ‘_R*_’ (spoken R-star), ‘_S*_’ (spoken S-star), ‘_r_’, ‘_s_’, (P-93.5.1.1), ‘_rel_’ (P-93.1.2.1) 
+ru: ‘_R_’ и ‘_S_’ (P-93.1.1), ‘_R*_’ (произносится R-звезда), ‘_S*_’ (произносится S-звезда), ‘_r_’, ‘_s_’, (P-93.5.1.1), ‘_rel_’ (P-93.1.2.1)
+
+@cell
+en: ‘_meso_’ (P-102.5.6.5.2), ‘_ambo_’ (P-93.1.4), ‘_rac_’ (P-93.1.3) 
+ru: ‘_meso_’ (P-102.5.6.5.2), ‘_ambo_’ (P-93.1.4), ‘_rac_’ (P-93.1.3)
+
+@cell
+en: ‘_M_’ and ‘_P_’, ‘_R__{a}’ and ‘_S__{a}’, ‘_R__{p}’ and ‘_S__{p}’ (P-93.4.2.2 and P-93.5.5.1) 
+ru: «_M_» и «_P_», «_R__{a}» и «_S__{a}», «_R__{p}» и «_S__{p}» (P-93.4.2.2 и P-93.5.5.1)
+
+@cell
+en: ‘_TPY_-3’, ‘_TS_-3’, ‘_SS_-4’, ‘_TBPY_’, ‘_SPY_’, and ‘_OC_’ (P-93.3) 
+ru: «_TPY_-3», «_TS_-3», «_SS_-4», «_TBPY_», «_SPY_» и «_OC_» (P-93.3)
+
+@cell
+en: ‘_retro_’, but not ‘abeo’, ‘apo’, ‘cyclo’, ‘de’, ‘des’, ‘homo’, ‘nor’ or ‘seco’ (P-101.3.1 through P-101.3.7)
+ru: «_ретро_», но не «абео», «апо», «цикло», «де», «дес», «гомо», «нор» или «секо» (P-101.3.1 – P-101.3.7)
+
+@End
+
+
+#P-16.7 
+en: Elision of vowels 
+ru: Удаление гласных (для английского языка)
+
+#P-16.7.1+
+en: Vowels are systematically elided as follows: 
+ru: Гласные систематически опускаются следующим образом:
+
+#(a)
+en: the terminal letter ‘e’ in names of parent hydrides or endings ‘ene’ and ‘yne’ when followed by a suffix or ‘en’ 
+ending beginning with ‘a’, ‘e’, ‘i’, ‘o’, ‘u’, or ‘y’; 
+en: конечная буква «e» в названиях исходных гидридов или окончания «ene» и «yne», когда за ними следует суффикс 
+или окончание «en», начинающееся с «a», «e», «i», «o», «u» или «y»;
+
+@Examples
+
+@cell
+en: pentanal (PIN, P-66.6.1.1.1) 
+ru: пентаналь (PIN, P-66.6.1.1.1)
+
+@cell
+en: cyclopentadec-1-en-4-yne (PIN, P-31.1.3.1) 
+ru: циклопентадек-1-ен-4-ин (PIN, P-31.1.3.1)
+
+@cell
+en: methanium (PIN, P-73.1.1.2) 
+ru: метаниум (PIN, P-73.1.1.2)
+
+@cell
+en: butan-2-one (PIN, P-64.2.2.1) 
+ru: бутан-2-он (PIN, P-64.2.2.1)
+
+@cell
+en: tetramethylboranuide (PIN, P-72.3) 
+ru: тетраметилборануид (PIN, P-72.3)
+
+@cell
+en: sulfanyl (preselected prefix, P-29.3.1) 
+ru: сульфанил (предварительно выбранный префикс, P-29.3.1)
+
+@End
+
+#(b)
+en: in Hantzsch-Widman names, the final letter ‘a’ of an ‘a’ prefix when followed by a vowel; 
+ru: в именах Ганча-Видмана, последняя буква «а» префикса «а», за которой следует гласная;
+
+@Examples
+
+@cell
+en: 1,3-thiazole (PIN, P-22.2.2.1.3) <br>
+(not 1,3-thiaazaole) 
+en: 1,3-тиазол (PIN, P-22.2.2.1.3) <br>
+(не 1,3-тиаазаол)
+
+@cell
+en: 1,6,2-dioxazepane (PIN, P-22.2.2.1.3) <br>
+(not 1,6,2-dioxaazaepane) 
+ru: 1,6,2-диоксазепан (PIN, P-22.2.2.1.3) <br>
+(не 1,6,2-диоксаазепан)
+
+@End
+
+#(c)
+en: the terminal letter ‘a’ in the names of numerical multiplicative prefixes when followed by a suffix beginning 
+with ‘a’ or ‘o’; 
+ru: конечная буква «а» в названиях числовых мультипликативных префиксов, когда за ней следует суффикс,
+начинающийся с «а» или «о»;
+
+@Examples
+
+@cell
+en: [1,1′-biphenyl]-3,3′,4,4′-tetramine (PIN, P-62.2.4.1.2) <br>
+(not [1,1′-biphenyl]-3,3′,4,4′-tetraamine) 
+ru: [1,1′-бифенил]-3,3′,4,4′-тетрамин (PIN, P-62.2.4.1.2) <br>
+(не [1,1′-бифенил]-3,3′,4,4′-тетраамин)
+
+@cell
+en: benzenehexol (PIN, P-63.1.2) <br>
+(not benzenehexaol) 
+ru: бензолгексол (PIN, P-63.1.2) <br>
+(не бензолгексаол)
+
+@End
+
+#(d)
+en: the terminal letter ‘a’ of an element ‘a’ prefix in ‘a(ba)_{_n_}’ repeating unit names when followed by a vowel; 
+ru: конечная буква «a» элемента-префикса «a» в повторяющихся названиях единиц «a(ba)_{_n_}», когда за ней следует гласная;
+
+@Examples
+
+@cell
+en: disiloxane (preselected name, P-21.2.3.1) <br>
+(not disilaoxane) 
+ru: дисилоксан (предварительно выбранное название, P-21.2.3.1) <br>
+(не дисилаоксан)
+
+@cell
+en: tetrastannoxane (preselected name, P-21.2.3.1) <br>
+(not tetrastannaoxane) 
+ru: тетрастанноксан (предварительно выбранное название, P-21.2.3.1) <br>
+(не тетрастаннаоксан)
+
+@End
+
+#(e)
+en: the terminal letter ‘o’ of a functional replacement infix when followed by a vowel;
+ru: конечная буква «о» функционального замещающего инфикса, когда за ней следует гласная;
+
+@Examples
+
+@cell
+en: _N_,_P_-diphenylphosphonochloridimidic acid (PIN, P-67.1.2.4.1.1) <br>
+(not _N_,_P_-diphenylphosphonochloridoimidic acid) 
+ru: _N_,_P_-дифенилфосфонохлоридимидная кислота (PIN, P-67.1.2.4.1.1) <br>
+(не _N_,_P_-дифенилфосфонохлоридоимидная кислота)
+
+@End
+
+#(f)
+en: the terminal letter ‘o’ of ‘benzo’ in names of ‘benzoheterocycles’ formed by fusion of a benzene ring to a 
+heteromonocycle whose name begins with a vowel [an exception to P-16.7.2 (g)].
+ru: конечная буква «о» в слове «бензо» в названиях «бензогетероциклов», образованных путем слияния бензольного кольца с гетеромоноциклом, 
+название которого начинается с гласной [исключение из P-16.7.2 (g)].
+
+@Examples --
+
+@cell
+en: 3-benzoxepine (PIN, P-25.2.2.4) 
+ru: 3-бензоксепин (PIN, P-25.2.2.4)
+
+@cell
+en: 4_H_-3,1-benzoxazine (PIN, P-25.2.2.4) 
+ru: 4_H_-3,1-бензоксазин (PIN, P-25.2.2.4)
+
+@End
+
+#P-16.7.2+
+en: There is no elision of terminal vowels in the following cases: 
+ru: Выпадение конечных гласных не происходит в следующих случаях:
+
+#(a)
+en: in conjunctive names; 
+ru: в конъюктивных именах;
+
+@Examples
+
+@cell
+en: benzeneacetic acid (P-15.6.1.1) <br>
+[phenylacetic acid (PIN)] 
+ru: бензолуксусная кислота (P-15.6.1.1) <br>
+[фенилуксусная кислота (PIN)]
+
+@End
+
+#(b)
+en: from replacement or numerical multiplicative prefixes in skeletal replacement (‘a’) nomenclature;
+ru: от замещающих или числовых мультипликативных префиксов в номенклатуре скелетных замещающих (‘a’);
+
+@Examples
+
+@cell
+en: 2,4,6,8-tetrasilaundecan-11-yl (preferred prefix, P-15.4.3.2.2) 
+ru: 2,4,6,8-тетрасилаундекан-11-ил (предпочтительный префикс, P-15.4.3.2.2)
+
+@End
+
+#(c)
+en: from multiplicative prefixes in homogeneous acyclic parent hydrides other than hydrocarbons and boron hydrides; 
+ru: от мультипликативных префиксов в однородных ациклических исходных гидридах, отличных от углеводородов и бороводородов;
+
+@Examples
+
+@cell
+en: nonaazane (P-21.2.2) <br>
+(not nonazane)
+ru: нонаазан (P-21.2.2) <br>
+(не ноназан)
+
+@End
+
+#(d)
+en: from numerical multiplicative prefixes in multiplicative parent compounds; 
+ru: от числовых мультипликативных префиксов в мультипликативных исходных соединениях;
+
+@Examples
+
+@cell
+en: 2,2′,2′′,2′′′-(ethane-1,2-diyldinitrilo)tetraacetic acid <br>
+_N_,_N_′-(ethane-1,2-diyl)bis[N-(carboxymethyl)glycine]
+// в оригинале ошибка - не закрытая квадратная скобка
+// Скобка поставлена по аналогии с близким соединением
+// https://pubchem.ncbi.nlm.nih.gov/substance/368497371
+ru: 2,2′,2′′,2′′′-(этан-1,2-диилдинитрило)тетрауксусная кислота <br>
+_N_,_N_′-(этан-1,2-диил)бис[N-(карбоксиметил)глицин]
+
+@End
+
+#(e)
+en: from numerical multiplicative prefixes before substituent prefix names; 
+ru: от числовых мультипликативных префиксов до замещающих префиксных имен;
+
+@Examples
+
+@cell
+en: 5,6,7,8-tetraiodo-1,2,3,4-tetrahydroanthracene-9-carboxylic acid (PIN, see P-65.1.2.4) 
+ru: 5,6,7,8-тетрайодо-1,2,3,4-тетрагидроантрацен-9-карбоновая кислота (PIN, см. P-65.1.2.4)
+
+@End
+
+#(f)
+en: from component prefixes of compound (see P-29.1.2) and complex (see P-29.1.3) prefixes before following 
+prefixes beginning with a vowel; 
+ru: от составных префиксов сложных (см. P-29.1.2) и сложных (см. P-29.1.3) префиксов перед следующими префиксами, 
+начинающимися с гласной;
+// Пока не очень понятна разница между compound и complex
+
+@Examples
+
+@cell
+en: chloroamino (preselected name, P-35.3.1) 
+ru: хлорамино (предварительно выбранное название, P-35.3.1)
+
+@cell
+en: aminooxy (preselected name, P-68.3.1.1.1.5)
+ru: аминоокси (предварительно выбранное имя, P-68.3.1.1.1.5)
+
+@End
+
+#(g)
+en: from prefixes designating attached components in fusion nomenclature; for example, the terminal letter ‘o’ of 
+acenaphtho, benzo, perylo, phenanthro, and the terminal letter ‘a’ of anthra, cyclopropa, cyclobuta, are not elided 
+before a vowel [see P-16.7.1 (f) for an exception involving ‘benzo’]. 
+ru: от префиксов, обозначающих присоединенные компоненты в номенклатуре слияния; например, конечная буква «о» в словах 
+acenaphtho, benzo, perylo, phenanthro и конечная буква «а» в словах anthra, cyclopropa, cyclobuta не опускаются перед 
+гласной [см. P-16.7.1 (f) для исключения, включающего «benzo»].
+
+@p .framed
+en: This recommendation is in accordance with P-25.3.1.3 and Rule R-2.4.1.1 of the 1993 Guide (ref. 2) that abrogated 
+the elision recommended by Rule A-21.4 in the 1979 edition (ref. 1).
+ru: Эта рекомендация соответствует P-25.3.1.3 и правилу R-2.4.1.1 Руководства 1993 г. (ссылка 2), которое отменило 
+исключение, рекомендованное правилом A-21.4 в издании 1979 г. (ссылка 1).
+
+@Examples
+
+@cell
+en: cyclopropa[_de_]anthracene (PIN, P-25.3.8.1) 
+ru: циклопропа[_de_]антрацен (PIN, P-25.3.8.1)
+
+@cell
+en: naphtho[1,2-_a_]azulene (PIN, P-25.3.1.3) 
+ru: нафто[1,2-_a_]азулен (PIN, P-25.3.1.3)
+
+@End
+
+
+
+#P-16.8 
+en: Addition of vowels 
+ru: Добавление гласных
+
+#P-16.8.1+
+en: For euphonic reasons, in functional replacement nomenclature the vowel ‘o’ is inserted between 
+consonants.
+ru: В целях благозвучия в номенклатуре функциональных замен гласная «о» вставляется между согласными.
+
+@Examples
+
+@cell
+en: ethanesulfonodiimidic acid (PIN, P-65.3.1.4) <br>
+(not ethanesulfondiimidic acid) 
+ru: этансульфондиимидовая кислота (PIN, P-65.3.1.4) <br>
+(не этансульфондиимидовая кислота)
+// Похоже, что это правила не для русского языка
+
+@cell
+en: phenylphosphononitridic acid (PIN, P-67.1.2.4.1.1) <br>
+(not phenylphosphonnitridic acid) 
+ru: фенилфосфононитридная кислота (PIN, P-67.1.2.4.1.1) <br>
+(не фенилфосфононитридная кислота)
+
+@End
+
+#P-16.8.2+
+en: For euphonic reasons, the letter ‘a’ is inserted between the root of the name for polyenes, polyynes, and 
+polyenynes, and the numerical multiplicative prefix ‘di’, ‘tri’, etc., preceding the ending ‘ene’ or ‘yne’.
+ru: Для улучшения звучания буква «а» вставляется между корнем названия полиенов, полиинов и полиенинов и числовым 
+мультипликативным префиксом «ди», «три» и т. д., предшествующим окончанию «ен» или «ин».
+
+@Examples
+
+@cell
+en: buta-1,3-diene (PIN, P-31.1.1.2) <br>
+(not but-1,3-diene) 
+ru: бута-1,3-диен (PIN, P-31.1.1.2) <br>
+(не но-1,3-диен)
+
+@cell
+en: hexa-1,3-dien-5-yne (PIN, P-31.1.2.2.1) <br>
+(not hex-1,3-dien-5-yne) 
+ru: гекса-1,3-диен-5-ин (PIN, P-31.1.2.2.1) <br>
+(не гекс-1,3-диен-5-ин)
+
+@End
