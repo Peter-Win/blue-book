@@ -1,0 +1,579 @@
+#P-24 
+en: Spiro ring systems 
+ru: Спиросоединения
+
+@Content
+
+#P-24.0
+en: Introduction 
+ru: Введение
+
+en: This Section is based on the recent publication ‘Extension and Revision of the Nomenclature for Spiro Compounds, 
+IUPAC Recommendations1999’ (ref. 8). It supersedes Rules A-41, A-43, B-10, and B-12 in the 1979 
+Recommendations (ref. 1) and Rule R-2.4.3 in the 1993 Recommendations (ref. 2). The alternative methods given by 
+Rules A-42 and B-11 in the 1979 recommendations (ref. 1) have been abandoned. 
+ru: Этот раздел основан на недавней публикации «Расширение и пересмотр номенклатуры спиросоединений, Рекомендации 
+ИЮПАК 1999» (ссылка 8). Он заменяет Правила A-41, A-43, B-10 и B-12 в Рекомендациях 1979 года (ссылка 1) и 
+Правило R-2.4.3 в Рекомендациях 1993 года (ссылка 2). Альтернативные методы, приведенные в Правилах A-42 и B-11 в 
+Рекомендациях 1979 года (ссылка 1), были отменены.
+
+en: Section P-24.5.2 takes into account appropriate modifications to Section SP-4.1 of the 1999 publication (ref. 8). Also in 
+P-24.5.3, P-24.6, P-24.7 and P-24.8.4 some modifications on the usage of brackets have been made to SP-4, SP-5 and 
+SP-7 of the 1999 publication (ref. 8). 
+ru: Раздел P-24.5.2 учитывает соответствующие изменения в разделе SP-4.1 публикации 1999 года (ссылка 8). 
+Также в P-24.5.3, P-24.6, P-24.7 и P-24.8.4 были внесены некоторые изменения в использование скобок в SP-4, SP-5 
+и SP-7 публикации 1999 года (ссылка 8).
+
+en: The spiro ring systems consisting only of monocyclic rings in this Section are saturated systems; for unsaturated 
+systems, see Section P-31.1.5.1. 
+ru: Системы спироколец, состоящие только из моноциклических колец в этом разделе, являются насыщенными системами; 
+для ненасыщенных систем см. раздел P-31.1.5.1.
+
+en: For naming substituent groups see Sections P-29 and P-32.1.3. 
+ru: Для наименования замещающих групп см. разделы P-29 и P-32.1.3.
+
+#P-24.1
+en: Definitions 
+ru: Определения
+// Есть русскоязычные источники
+// https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F
+
+en: A ‘spiro union’ is a linkage between two rings that consists of a single atom common to both rings. A ‘free spiro union’ 
+is a linkage that constitutes the only direct union between the two rings. 
+ru: «Спиросочление» — это связь между двумя кольцами, которая состоит из одного атома, общего для обоих колец. 
+«Свободное спиросочление» — это связь, которая представляет собой единственное прямое соединение между двумя кольцами.
+// В русском источнике есть такие описания: 
+//  "спиросоединение с тремя циклами соединёнными через один спироатом"
+//  "гетероцикл спиросочленённый с карбоциклом"
+// В общем, из разных вариантов я выбрал spiro union = спиросочление
+
+@Examples --
+
+@cell
+<$ $slope(60)`/`-`\/-\/-\`/`-`\ $>
+
+en: a free spiro union
+ru: свободное спиросочление
+
+@cell
+<$ `/`\`|/\|_q_q_q_q_p_p_p_p $>
+
+en: a non-free spiro union
+ru: несвободное спиросочление
+
+@End
+
+en: The common atom is designated as the ‘spiro atom’. According to the number of spiro atoms present, compounds are 
+distinguished as monospiro, dispiro, trispiro, etc., ring systems. The following recommendations apply only to the 
+naming of parent hydrides containing free spiro unions. For naming spiro compounds with non-free spiro unions, see 
+nomenclature of fused systems (see P-25 and ref. 8). 
+ru: Общий атом обозначается как «спироатом». В зависимости от числа присутствующих спироатомов соединения различаются 
+как моноспиро, диспиро, триспиро и т. д. кольцевые системы. Следующие рекомендации применимы только к наименованию 
+исходных гидридов, содержащих свободные спиросоединения. Для наименования спиросоединений с несвободными 
+спиросоединениями см. номенклатуру конденсированных систем (см. P-25 и ссылку 8).
+
+en: Spirofusion is the creation of one, and only one, common atom between two rings or ring systems, each ring or ring 
+system contributing one, and only one, atom to the spiro ring system. It is analogous to the ortho- or ortho- and peri
+fusion that creates common bonds between mancude rings or ring systems. Traditionally, ortho- or ortho- and peri
+fusion has been called ‘fusion’, with no reference to its specific type of fusion. To avoid any ambiguity, the term ‘spiro’ 
+must always be specified when added to the term ‘fusion’. 
+ru: Спирослияние — это создание одного и только одного общего атома между двумя кольцами или кольцевыми системами, 
+причем каждое кольцо или кольцевая система вносит один и только один атом в спирокольцевую систему. Это аналогично 
+_орто_- или _орто_- и _пери_-слиянию, которое создает общие связи между кольцами или кольцевыми системами mancude. 
+Традиционно _орто_- или _орто_- и _пери_-слияние называется «слиянием» без указания конкретного типа слияния. 
+Чтобы избежать какой-либо двусмысленности, термин «спиро» всегда должен быть указан при добавлении к термину «слияние».
+// Пока что хорошего перевода для Spirofusion не найдено.
+
+#P-24.2
+en: Spiro ring systems with only monocyclic ring components  
+ru: Системы спироциклов, содержащие только моноциклические кольцевые компоненты
+
+@Content
+
+#P-24.2.0 
+en: Introduction 
+ru: Введение
+
+en: This Section is concerned only with saturated spiro ring systems that consist only of monocyclic rings. For unsaturated 
+alicyclic spiro ring systems, see Section P-31.1.5. 
+ru: В этом разделе рассматриваются только насыщенные спирокольцевые системы, состоящие только из моноциклических колец. 
+Для ненасыщенных алициклических спирокольцевых систем см. раздел P-31.1.5.
+
+#P-24.2.1
+en: Monospiro alicyclic ring systems  
+ru: Моноспироалициклические кольцевые системы
+
+en: Monospiro parent hydrides consisting of two saturated cycloalkane rings are named by placing the nondetachable prefix 
+‘spiro’ before the name of the unbranched acyclic hydrocarbon with the same total number of skeletal atoms. The 
+number of skeletal atoms linked to the spiro atom in each ring is indicated by arabic numbers separated by a full stop, 
+cited in ascending order and enclosed in square brackets; this descriptor (called in these recommendations the ‘von 
+Baeyer spiro descriptor’) is placed between the spiro prefix and the name of the acyclic alkane. Numbering starts in the 
+smaller ring, if one is smaller, at a ring atom next to the spiro atom and proceeds first around that ring, then through the 
+spiro atom and around the second ring. 
+ru: Моноспиро-исходные гидриды, состоящие из двух насыщенных циклоалкановых колец, именуются путем помещения 
+неотделяемой приставки «спиро» перед названием неразветвленного ациклического углеводорода с тем же общим числом 
+скелетных атомов. Число скелетных атомов, связанных со спироатомом в каждом кольце, указывается арабскими цифрами, 
+разделенными точкой, указанными в порядке возрастания и заключенными в квадратные скобки; этот дескриптор 
+(называемый в настоящих рекомендациях «спиродескриптором фон Байера») помещается между спиро-префиксом и названием 
+ациклического алкана. Нумерация начинается с меньшего кольца, если оно меньше, с кольцевого атома рядом со спироатомом и 
+продолжается сначала вокруг этого кольца, затем через спироатом и вокруг второго кольца.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(6,60)`-@n(7,120)`\@n(8,180)/@n(9,-120)-@n(10,-80)\_(a-114)@n(1,-90)_p@n(2,-40)_p@n(3,40)_p@n(4,90)_p@n(5,85,.6)
+$>
+
+en: spiro[4.5]decane (PIN)
+ru: спиро[4.5]декан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(7,120)_q@n(6,90)_q:n5_q@n(9,-90)_q@n(8,-120);
+|@n(3,60)_p@n(4,90)_p#n5@n(5,90,.6)_p@n(1,-90)_p@n(2,-60)
+$>
+
+en: spiro[4.4]nonane (PIN) 
+ru: спиро[4.4]нонан (PIN) 
+
+@End
+
+#P-24.2.2
+en: Linear polyspiro alicyclic ring systems  
+ru: Линейные полиспироалициклические кольцевые системы
+
+en: Polyspiro parent hydrides consisting of unbranched assemblies of three or more saturated cycloalkane rings are named 
+using the nondetachable prefixes ‘dispiro’, ‘trispiro’, etc., according to the number of spiro atoms present, cited in front 
+of the name of the acyclic hydrocarbon that has the same number of skeletal atoms. The von Baeyer spiro descriptor 
+indicates the number of carbon atoms linking the spiro atoms by arabic numbers that are cited in order, starting at the 
+smaller terminal ring if one is smaller, and proceeding consecutively, always by the shorter path, to the other terminal 
+ring through each spiro atom and then back to the first spiro atom; the numbers are separated by full stops and enclosed 
+in square brackets. The compound is numbered in the order in which the numbers of the von Baeyer spiro descriptor are 
+cited, including spiro atoms when encountered for the first time. Each time a spiro atom is reached for the second time 
+its locant, which has already been assigned, is cited as a superscript number to the number of the preceding linking 
+atoms. 
+ru: Исходные гидриды полиспиро, состоящие из неразветвленных ансамблей трех или более насыщенных циклоалкановых колец, 
+называются с использованием неотделимых префиксов «диспиро», «триспиро» и т. д. в зависимости от количества присутствующих 
+спироатомов, указанных перед названием ациклического углеводорода, имеющего такое же количество скелетных атомов. 
+Спиродескриптор фон Байера указывает число атомов углерода, связывающих спироатомы, арабскими цифрами, которые указаны 
+по порядку, начиная с меньшего терминального кольца, если одно из них меньше, и продолжая последовательно, всегда по 
+более короткому пути, к другому терминальному кольцу через каждый спироатом и затем обратно к первому спироатому; 
+номера разделены точками и заключены в квадратные скобки. Соединение нумеруется в том порядке, в котором указаны номера 
+спиродескриптора фон Байера, включая спироатомы, если они встречаются впервые. Каждый раз, когда спироатом достигается 
+во второй раз, его локант, который уже был назначен, указывается как надстрочный номер к числу предшествующих 
+связывающих атомов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A135)@n(8,90)_p4@n(9,180)_p4@n(10,-90)_p4/@n(11,-120)-@n(12,-60)\<`/@n(5,60)`-@n(6,120)`\@n(7,0)>@n(4,180)_(A-45)@n(1,-90)_p4@n(2,0)_p4@n(3,90)_p4$>
+
+en: dispiro[3.2.3^{7}.2^{4}]dodecane (PIN) 
+ru: диспиро[3.2.3^{7}.2^{4}]додекан (PIN) 
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A135)@n(7,90)_p4@n(8,180)_p4@n(9,-90)_p4/@n(10,-120)-@n(11,-60)\<`/@n(4,60)`-@n(5,120)`\@n(6,0)>@n(3,180)_(A-30)@n(1,-90)_p3@n(2,0)_p3
+$>
+
+en: dispiro[2.2.3^{6}.2^{3}]undecane (PIN)
+ru: диспиро[2.2.3^{6}.2^{3}]ундекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(11,-100)|@n(10,100)_q3<_q3>/@n(12,-110)-@n(13,-80)\<`/@n(7,70)`-@n(8,110)`\@n(9,0)>\@n(5,110)-@n(4,70)/@n(3,180)<`\@n(15,-70)`-@n(14,-100)`/@n(6,0)>_(A30)@n(2,100)_q3@n(1,-100)_q3
+$>
+
+en: trispiro[2.2.2.2^{9}.2^{6}.2^{3}]pentadecane (PIN) 
+ru: триспиро[2.2.2.2^{9}.2^{6}.2^{3}]пентадекан (PIN) 
+
+@End
+
+en: The use of superscript numbers was introduced in the publication ‘Extension and Revision of the Nomenclature for 
+Spiro Compounds and IUPAC Recommendations 1999’ (ref. 8). Even though they are not needed in dispiro 
+compounds, their use in branched spiro systems is essential for deriving unambiguous names; therefore, it is 
+recommended that they be used to name all polyspiro compounds, especially when IUPAC preferred names are 
+required. 
+ru: Использование надстрочных цифр было введено в публикации «Расширение и пересмотр номенклатуры спиросоединений и 
+рекомендаций ИЮПАК 1999 г.» (ссылка 8). Несмотря на то, что они не нужны в диспиросоединениях, их использование в 
+разветвленных спиросистемах необходимо для получения однозначных названий; поэтому рекомендуется использовать их для 
+наименования всех полиспиросоединений, особенно когда требуются предпочтительные названия ИЮПАК.
+
+#P-24.2.2.1+ 
+en: If there is a choice of numbers for the spiro descriptor, the smaller numbers are selected because low locants 
+must be allocated to spiro atoms. 
+ru: Если есть возможность выбора чисел для спиродескриптора, выбираются меньшие числа, поскольку спироатомам должны 
+быть отведены низкие локанты.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(8,70)`-@n(9,110)_p@n(10,-160)_p@n(11,-90)_p:n7@n(7,150)_p;
+@n(13,-80)`-@n(12,-110)_q#n7_q@n(6,90)_q:n5_q;
+@n(3,70)`-@n(4,110)_p#n5@n(5,30)_p@n(1,-90)_p@n(2,-20)_p
+$>
+
+en: dispiro[4.1.4^{7}.2^{5}]tridecane (PIN) <br>
+correct 
+ru: диспиро[4.1.4^{7}.2^{5}]тридекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не
+
+<div class="flex-column">
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(12,70)`-@n(11,110)_p@n(10,-160)_p@n(9,-90)_p:n7@n(8,150)_p;
+@n(6,-80)`-@n(7,-110)_q#n7_q@n(13,90)_q:n5_q;
+@n(3,70)`-@n(4,110)_p#n5@n(5,30)_p@n(1,-90)_p@n(2,-20)_p
+$>
+
+en: dispiro[4.2.4^{8}.1^{5}]tridecane <br>
+incorrect 
+ru: диспиро[4.2.4^{8}.1^{5}]тридекан <br>
+неправильно 
+
+</div>
+</div>
+
+@cell colspan=2
+en: **Explanation**: In the correct name, the number set ‘4,1’ is lower than ‘4,2’ and/or the spiro atom locant set 5,7 is smaller 
+than 5,8.
+ru: **Пояснение**: В правильном названии числовой набор «4,1» меньше, чем «4,2» и/или спироатомный набор локантов 5,7 
+меньше, чем 5,8.
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(10,80)_(A180)@n(11,100)_p9@n(12,150)_p9@n(13,180)_p9@n(14,-150)_p9@n(15,-90)_p9@n(16,-80)_p9@n(8,160)<_p9@n(9,50,.4)_p9>#
+_(a-124)@n(17,-80,.4)_p@n(18,-70,.4)_p<_p@n(7,80,.4)_p>#
+_(a-114)@n(1,-90)_p6@n(2,-30)_p6@n(3,30,.4)_p6@n(4,90)_p6@n(5,130,.4)_p6@n(6,20,.4)
+$>
+
+en: dispiro[5.1.8^{8}.2^{6}]octadecane (PIN) <br>
+correct
+ru: диспиро[5.1.8^{8}.2^{6}]октадекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не
+
+<div class="flex-column">
+<$ 
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(11,80)_(A180)@n(12,100)_p9@n(13,150)_p9@n(14,180)_p9@n(15,-150)_p9@n(16,-90)_p9@n(17,-80)_p9@n(9,160)<_p9@n(10,70,.4)_p9>#
+_(a-124)@n(8,-80,.4)_p@n(7,-70,.4)_p<_p@n(18,80,.4)_p>#
+_(a-114)@n(1,-90)_p6@n(2,-30)_p6@n(3,30,.4)_p6@n(4,90)_p6@n(5,130,.4)_p6@n(6,20,.4)
+$>
+
+en: dispiro[5.2.8^{9}.1^{6}]octadecane  <br>
+incorrect
+ru: диспиро[5.2.8^{9}.1^{6}]октадекан <br>
+неправильно
+
+</div>
+</div>
+
+@cell colspan=2
+en: **Explanation**: In the correct name, the number set ‘5,1’ is lower than ‘5,2’ and/or the spiro atom locant set 6,8 is smaller 
+than 6,9.
+ru: **Пояснение**: В правильном названии числовой ряд «5,1» меньше, чем «5,2» и/или спироатомный ряд локантов 6,8 меньше, 
+чем 6,9.
+
+@End
+
+#P-24.2.2.2+
+en: If there is still a choice of numbering, the numbers of the von Baeyer descriptors are considered in the 
+sequence of the order of their citation. The name is selected with lower numbers at the first point of difference. 
+ru: Если все же есть возможность выбора нумерации, то номера дескрипторов фон Байера рассматриваются в порядке их 
+цитирования. Имя выбирается с меньшими номерами в первой точке различия.
+
+@Examples 2 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(16,120)`|@n(3,30)<_(a-94.3)@n(1,150)_p3@n(2,-90)_p3>_p7@n(4,-100)_p7_p7@n(6,180)<_p7@n(14,45)_p7_p7>/@n(7,-100)-\@n(9,180)<`/@n(13,50)`-`\>_(A30)_q3@n(10,-45)_q3
+$>
+// Есть подозрение, что вместо локанта 13 должен быть 12
+
+en: trispiro[2.2.2.2^{9}.2^{6}.3^{3}]hexadecane (PIN) <br>
+correct
+ru: триспиро[2.2.2.2^{9}.2^{6}.3^{3}]гексадекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не
+
+<div class="flex-column">
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(12,120)`|@n(9,30)<_(a-94.3)@n(11,150)_p3@n(10,-90)_p3>_p7@n(8,-100)_p7@n(7,-80)_p7@n(6,0)<_p7@n(14,45)_p7_p7>/-\@n(3,180)<`/@n(4,50)`-`\>_(A30)@n(2,50)_q3@n(1,-45)_q3
+$>
+
+en: trispiro[2.2.2.2^{9}.3^{6}.2^{3}]hexadecane <br>
+incorrect 
+ru: триспиро[2.2.2.2^{9}.3^{6}.2^{3}]гексадекан <br>
+неправильно
+
+</div>
+</div>
+
+@cell colspan=2
+en: **Explanation**: In the correct name, the number set ‘<%good%>’ is lower than ‘<%bad%>’. 
+ru: **Пояснение**: В правильном названии числовой ряд «<%good%>» меньше, чем «<%bad%>».
+%good: 2,2,2,2^{9},2^{6},3^{3}
+%bad: 2,2,2,2^{9},3^{6},2^{3}
+
+@End
+
+
+#P-24.2.3
+en: Branched polyspiro alicyclic ring systems 
+ru: Разветвленные полиспироалициклические кольцевые системы
+
+en: Branched polyspiro hydrocarbons composed only of cycloalkane rings are named using ‘dispiro’, ‘trispiro’, etc. before 
+the name of the acyclic hydrocarbon corresponding to the total number of skeletal atoms present. The von Baeyer spiro 
+descriptor indicates the number of skeletal atoms linking the spiro atoms by arabic numbers that are cited in order, 
+starting at the smallest terminal ring, if one is smallest, proceeding consecutively to succeeding terminal rings through 
+each spiro atom, always by the shortest path, and then back to the first spiro atom; the numbers are separated by full 
+stops and enclosed in square brackets. The compound is numbered in the order in which the numbers of the spiro von 
+Baeyer descriptor are cited, including spiro atoms when encountered for the first time. Each time a spiro atom is 
+reached for the second time its locant is cited as a superscript number to the preceding number of linking atoms. 
+ru: Разветвленные полиспироуглеводороды, состоящие только из циклоалкановых колец, именуются с использованием «диспиро», 
+«триспиро» и т. д. перед названием ациклического углеводорода, соответствующего общему числу присутствующих скелетных атомов. 
+Спиродескриптор фон Байера указывает число скелетных атомов, связывающих спироатомы, арабскими цифрами, которые приводятся 
+по порядку, начиная с наименьшего терминального кольца, если оно наименьшее, последовательно переходя к последующим 
+терминальным кольцам через каждый спироатом, всегда по кратчайшему пути, а затем обратно к первому спироатому; числа 
+разделяются точками и заключаются в квадратные скобки. Соединение нумеруется в том порядке, в котором приводятся номера 
+спиродескриптора фон Байера, включая спироатомы, когда они встречаются впервые. Каждый раз, когда спироатом достигается 
+во второй раз, его локант приводится как надстрочный номер к предыдущему числу связывающих атомов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(9,80)`-_p9@n(11,-30,.5)<_(a-100)@n(12,90)_p3_p3>_p9@n(14,180,.5)_p9@n(15,-120)_p9@n(3,90)<_(a-100)@n(1,-150)_p3@n(2,-30)_p3>_p9@n(4,-50)_p9_p9@n(6,-150)<_p9>_(a-100)@n(7,-30)_p3@n(8,90)_p3
+$>
+
+en: trispiro[2.2.2^{6}.2.2^{11}.2^{3}]pentadecane (PIN)  <br>
+(the importance of superscripts is illustrated by this example and the third example in P-24.2.2;  <br>
+without the superscripts these different compounds would have identical names) 
+ru: триспиро[2.2.2^{6}.2.2^{11}.2^{3}]пентадекан (PIN) <br>
+(важность верхних индексов проиллюстрирована этим примером и третьим примером в P-24.2.2; <br>
+без верхних индексов эти разные соединения имели бы одинаковые названия)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)$L(1.2)@n(17,-100)-@n(18,-80)`/`/@n(13,60,.5)`/@n(14,90)`\@n(15,-150,.5)-c-@n(12,-60,.5)-@n(4,60)-@n(3,-60)-@n(1,-30)`/@n(2,90)`\`\@n(19,0,.5)`\@n(20,-100)-@n(21,-80)`/`/`/`/`/@n(10,90)`\@n(11,180)-@n(9,60)-@n(6,-60)-@n(7,0)`/@n(8,90)`\`\@n(5,0)`\`\@n(16,180,.6)`\
+$>
+
+en: nonaspiro[<%fb%>]henicosane (PIN)
+ru: нонаспиро[<%fb%>]генэйкозан (PIN)
+%fb:2.0.0.0.2^{6}.0.2^{9}.0^{5}.0.0.2^{13}.0.2^{16}.0^{12}.0^{4}.0.2^{19}.0^{3}
+
+@End
+
+#P-24.2.3.1+ 
+en: If there is a choice for numbering, lowest locants are assigned to the spiro atoms. 
+ru: Если есть возможность выбора нумерации, наименьшие локанты присваиваются спироатомам.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(45)-|`-@n(6,110)`|@n(5,-120)`-@n(4,-60)<|`-@n(2,110)`|@n(1,-110)->_p@n(14,-160)_p@n(10,-10,.7)</@n(11,0)`\`/\>_p@n(9,0)_p
+$>
+
+en: trispiro[3.0.3^{5}.1.3^{10}.1^{4}]tetradecane (PIN) <br>
+correct 
+ru: триспиро[3.0.3^{5}.1.3^{10}.1^{4}]тетрадекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не
+
+<div class="flex-column">
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(45)-@n(7,0)|`-`|@n(6,-120)`-@n(10,-50,.5)<|@n(11,70)`-`|->_p@n(14,-160)_p@n(4,-10,.5)</`\@n(2,-90)`/@n(1,180,.3)\>_p_p
+$>
+
+en: trispiro[3.1.3^{6}.0.3^{10}.1^{4}]tetradecane <br>
+incorrect
+ru: триспиро[3.1.3^{6}.0.3^{10}.1^{4}]тетрадекан <br>
+неправильно
+
+</div>
+</div>
+
+@cell colspan=2
+en: **Explanation**: In the correct name, the number set of the descriptor ‘3,0’ is lower than ‘3,1’ and/or the spiro atom locant 
+set ‘4,5,10’ is lower than ‘4,6,10’.
+ru: **Пояснение**: В правильном названии числовой набор дескриптора «3,0» меньше, чем «3,1» и/или набор спироатомных 
+локантов «4,5,10» меньше, чем «4,6,10».
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)|@n(12,150,.5)_q9@n(9,-60)<|@n(10,90)_p3_p3>_q9_q9@n(7,30)_q9<_q9_q9@n(17,-80)_q9@n(14,60)<_q9>`|_q3@n(15,180,.5)_q3>@n(6,0)/-@n(20,-60)\@n(3,180)<`/@n(4,60)`-`\>_(A30)@n(2,60)_q3@n(1,-60)_q3
+$>
+
+en: tetraspiro[<%fb%>]icosane (PIN) <br>
+correct 
+ru: тетраспиро[<%fb%>]эйкозан (PIN) <br>
+правильно
+%fb:2.2.2.2^{9}.2.2^{14}.2^{6}.2^{3}
+
+@cell
+
+<div class="flex-column">
+<div class="flex-row">
+en: not
+ru: не
+
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)|@n(20,150,.5)_q9@n(3,-60)<|@n(1,90)_p3@n(2,170)_p3>_q9@n(4,-100)_q9_q9<_q9@n(14,-50)_q9_q9@n(16,60)<_q9>`|@n(17,-30,.5)_q3_q3>@n(6,180)/-@n(12,-60)\@n(9,180)<`/`-@n(7,120)`\>_(A30)@n(10,60)_q3_q3
+$>
+
+</div>
+en: tetraspiro[<%fb%>]icosane <br>
+incorrect 
+ru: тетраспиро[<%fb%>]эйкозан  <br>
+неправильно
+%fb:2.2.2.2^{9}.2^{6}.2.2^{16}.2^{3}
+
+</div>
+
+@cell
+
+@cell
+
+<div class="flex-column">
+<div class="flex-row">
+en: not
+ru: не
+
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)|@n(4,150)_q9@n(3,-60)<|@n(1,90)_p3@n(2,170)_p3>_q9@n(20,80)_q9_q9<_q9_q9@n(9,-80)_q9@n(6,60)<_q9>`|_q3@n(7,180)_q3>@n(11,180,.5)/@n(12,-110)-\@n(14,180,.6)<`/@n(17,70)`-`\>_(A30)_q3@n(15,-30,.5)_q3$>
+
+</div>
+en: tetraspiro[<%fb%>]icosane <br>
+incorrect 
+ru: тетраспиро[<%fb%>]эйкозан  <br>
+неправильно
+%fb:2.2.2^{6}.2.2.2^{14}.2^{11}.2^{3}
+
+</div>
+
+@cell colspan=2
+en: **Explanation**: In the correct name, the spiro locant set ‘3,6,9,14’ is lower than ‘3,6,9,16’ or ‘3,6,11,14’
+ru: **Пояснение**: В правильном названии спиролокантный набор «3,6,9,14» ниже, чем «3,6,9,16» или «3,6,11,14»
+
+@End
+
+#P-24.2.3.2+
+en: If there is still a choice of numbering, the numbers of the von Baeyer descriptor are considered in their order 
+of citation. The correct name has the lower numbers at first point of difference. 
+ru: Если все еще есть выбор нумерации, номера дескриптора фон Байера рассматриваются в порядке их цитирования. 
+Правильное название имеет меньшие номера в первой точке различия.
+
+@Examples 2 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|<_(a84)_q3@n(11,90)_q3>@n(10,-30,.5)_q@n(9,80)_q:n8_q@n(16,-80)_q@n(13,30,.5)_(a84)_q3@n(14,180,.5)_q3;
+$slope(60)#n8/-@n(18,-80)\@n(3,180)_(A30)@n(2,20)_q3@n(1,-30)_q3`/@n(4,-120)|@n(6,90)_q3@n(5,0)_q3`-@n(7,110)`\@n(8,0)
+$>
+
+en: pentaspiro[<%fb%>]octadecane (PIN) <br>
+correct
+ru: пентаспиро[<%fb%>]октадекан (PIN) <br>
+правильно
+%fb:2.0.2^{4}.1.1.2^{10}.0.2^{13}.1^{8}.2^{3}
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не
+
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|<_(a84)@n(2,180)_q3@n(1,90)_q3>@n(3,-30)_q@n(18,80)_q:n8_q@n(7,-80)_q@n(4,30)_(a84)_q3@n(5,180)_q3;
+$slope(60)#n8/-@n(16,-80)\@n(13,180,.6)_(A30)@n(14,20)_q3_q3`/@n(10,-130,.5)|@n(11,90)_q3_q3`-@n(9,110)`\@n(8,0)
+$>
+
+</div>
+en: pentaspiro[<%fb%>]octadecane <br>
+incorrect 
+ru: пентаспиро[<%fb%>]октадекан <br>
+неправильно
+%fb:2.0.2^{4}.1.1.2^{10}.0.2^{13}.2^{8}.1^{3}
+
+@cell colspan=2
+en: **Explanation**: In the correct name, the PIN, the number sequence of the descriptor ‘2,0,2,1,1,2,0,2,1,2’ is lower than the 
+number sequence ‘2,0,2,1,1,2,0,2,2,1’ for the incorrect name; at the ninth position, the number ‘1’ is lower than ‘2’ 
+ru: **Пояснение**: В правильном имени, PIN, числовая последовательность дескриптора «2,0,2,1,1,2,0,2,1,2» 
+меньше числовой последовательности «2,0,2,1,1,2,0,2,2,1» для неправильного имени; на девятой позиции цифра «1» меньше, чем «2»
+
+@End
+
+
+#P-24.2.4
+en: Heterocyclic spiro ring systems 
+ru: Гетероциклические спирокольцевые системы
+
+
+
+#P-24.3
+en: Monospiro ring systems containing two identical polycyclic ring components 
+ru: Моноспирокольцевые системы, содержащие два идентичных полициклических кольцевых компонента
+
+#P-24.4
+en: Three identical polycyclic ring components spirofused together 
+ru: Три идентичных полициклических кольцевых компонента, спиросплавленные вместе
+
+#P-24.5
+en: Monospiro ring systems with different ring components at least one of which is a polycyclic ring system 
+ru: Моноспирокольцевые системы с различными кольцевыми компонентами, по крайней мере один из которых является полициклической кольцевой системой
+
+#P-24.6
+en: Unbranched polyspiro ring systems with different ring components, one being a polycyclic ring system 
+ru: Неразветвленные полиспирокольцевые системы с различными кольцевыми компонентами, один из которых представляет собой полициклическую кольцевую систему
+
+#P-24.7
+en: Branched polyspiro ring systems 
+ru: Разветвленные полиспирокольцевые системы
+
+#P-24.8
+en: Spiro ring systems containing atoms with nonstandard bonding numbers 
+ru: Системы спироколец, содержащие атомы с нестандартными числами связей

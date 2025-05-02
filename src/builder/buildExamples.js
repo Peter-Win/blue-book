@@ -2,9 +2,13 @@ const { translate } = require("../dictionary")
 const { drawTag } = require("charchem2/dist/utils/xml/drawTag");
 
 const buildExamples = (part, locale, text, ctx, buildPart) => {
-  const {cols, noTitle, extCls} = part;
+  const {cols, specTitle, extCls} = part;
   let title = text || "";
-  if (!title && !noTitle) {
+  if (specTitle === "none") {
+    title = "";
+  } else if (specTitle === "single") {
+    title = translate("Example", locale);
+  } else if (!title) {
     const key = part.cells.length === 1 ? "Example" : "Examples";
     title = translate(key, locale);
   }

@@ -13,7 +13,7 @@ const buildChunks = (chunks, params, doc) => {
 }
 
 const buildLocalChunks = (locs, locale, params, ctx) => {
-  return buildChunks(locs[locale] ?? locs["*"], params, ctx)
+  return buildChunks(locs[locale] ?? locs["*"] ?? locs.en, params, ctx)
 }
 
 const buildChunk = (chunk, params, ctx) => {

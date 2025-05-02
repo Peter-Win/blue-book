@@ -241,11 +241,16 @@ const parseExamples = (reader) => {
   const part = onLocalParagraph("examples", reader);
   const sCols = params.find(p => /^\d+$/.test(p));
   const noTitle = params.find(p => p === "--");
+  const single = params.find(p => p === "single");
   const extCls = params.find(p => /^\.[-a-z\d]+$/.test(p));
 
   part.cells = [];
   part.cols = +sCols || 1;
-  part.noTitle = !!noTitle;
+  if (noTitle) {
+    part.specTitle = "none";
+  } else if (single) {
+    part.specTitle = "single";
+  }
   if (extCls) part.extCls = extCls.slice(1);
   addPartToDocument(reader.ctx.doc, part);
 

@@ -22,10 +22,10 @@
 // multiple bonds. Its use is very limited in systematic nomenclature of organic compounds. 
 
 
-const rxHeaderId = /P-(\d+|1#)(\.\d+)*/;
+const rxHeaderId = /[^S]P-(\d+|1#)(\.\d+)*/;
 
 // Могут быть ссылки с подпунктами P-14.4 (g)
-const rxPartReference = /P-(\d+|1#)(\.\d+)*(\s\([a-z]\))?/;
+const rxPartReference = /[^S]P-(\d+|1#)(\.\d+)*(\s\([a-z]\))?/;
 
 const splitHeaderId = (headerId) => {
   const parts = headerId.slice(2).split(".");

@@ -1,0 +1,19 @@
+#P-25 
+en: Fused and bridged fused ring systems 
+ru: Системы конденсированных и мостиковых конденсированных колец
+
+#P-26 
+en: Phane nomenclature 
+ru: Номенклатура Phane
+
+#P-27 
+en: Fullerenes 
+ru: Фуллерены
+
+#P-28 
+en: Ring assemblies 
+ru: Кольцевые сборки
+
+#P-29 
+en: Prefixes denoting substituent groups derived from parent hydrides 
+ru: Префиксы, обозначающие замещающие группы, полученные из исходных гидридов

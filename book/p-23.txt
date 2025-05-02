@@ -2,26 +2,1327 @@
 en: Polyalicyclic parent hydrides (extended von Baeyer system) 
 ru: Полиалициклические исходные гидриды (расширенная система фон Байера)
 
-#P-24 
-en: Spiro ring systems 
-ru: Спиросоединения
+@Content
 
-#P-25 
-en: Fused and bridged fused ring systems 
-ru: Системы конденсированных и мостиковых конденсированных колец
+#P-23.0 
+en: Introduction 
+ru: Введение
 
-#P-26 
-en: Phane nomenclature 
-ru: Номенклатура Phane
+en: This section is based on the recent publication “Extension and Revision of the von Baeyer system for naming polycyclic 
+compounds (including bicyclic compounds) (IUPAC Recommendations 1999)” (ref. 7). It supersedes Rules A-31,  
+A-32, and B-14 in the 1979 Recommendations (ref. 1) and Rule R-2.4.2 in the 1993 Recommendations (ref. 2). No 
+modifications to the 1999 publication have been made in this Section. 
+ru: Этот раздел основан на недавней публикации «Расширение и пересмотр системы фон Байера для наименования полициклических 
+соединений (включая бициклические соединения) (Рекомендации ИЮПАК 1999 г.)» (ссылка 7). Он заменяет Правила A-31, A-32 
+и B-14 в Рекомендациях 1979 г. (ссылка 1) и Правило R-2.4.2 в Рекомендациях 1993 г. (ссылка 2). 
+В этом разделе не было внесено никаких изменений в публикацию 1999 г.
 
-#P-27 
-en: Fullerenes 
-ru: Фуллерены
+en: This Section deals only with saturated polyalicyclic ring systems named by the von Baeyer system; for unsaturated 
+systems, see Section P-31.1.4. For naming substituent groups derived from saturated polyalicyclic ring systems, see 
+Section P-29. 
+ru: В этом разделе рассматриваются только насыщенные полиалициклические кольцевые системы, названные по системе фон Байера; 
+для ненасыщенных систем см. раздел P-31.1.4. Для наименования замещающих групп, полученных из насыщенных полиалициклических 
+кольцевых систем, см. раздел P-29.
 
-#P-28 
-en: Ring assemblies 
-ru: Кольцевые сборки
+#P-23.1 
+en: Definitions and terminology 
+ru: Определения и терминология
+// К сожалению, не удалось найти аналогов в русскоязычных источниках. Поэтому перевод терминов скорее всего неудачный.
 
-#P-29 
-en: Prefixes denoting substituent groups derived from parent hydrides 
-ru: Префиксы, обозначающие замещающие группы, полученные из исходных гидридов
+#P-23.1.1+ 
+en: A ‘bridgehead’ is any skeletal atom of the ring system that is bonded to three or more skeletal atoms 
+(excluding hydrogen). 
+ru: «Предмостье» — это любой скелетный атом кольцевой системы, связанный с тремя или более скелетными атомами 
+(исключая водород).
+// Основной вариант передода bridgehead - плацдарм. Обычно используется в военной тематике.
+// Но в данном контексте явно неуместно.
+// Есть другой вариант - предмостье, который больше соответствует теме. 
+// Хотя скорее всего, есть какой-то специальный термин. Но найти его поиском не получилось.
+
+#P-23.1.2+ 
+en: A ‘bridge’ is an unbranched chain of atoms or an atom or a valence bond connecting two bridgeheads.
+ru: «Мост» — это неразветвленная цепочка атомов или атом или валентная связь, соединяющая два мостика.
+
+#P-23.1.3+ 
+en: The ‘main ring’ is the ring system that includes as many skeletal atoms of the polycyclic system as possible. 
+ru: «Главное кольцо» — это кольцевая система, включающая в себя максимально возможное количество скелетных атомов 
+полициклической системы.
+
+#P-23.1.4+
+en: The ‘main bridge’ is the bridge included in a bicyclic system and the first selected bridge in a polycyclic 
+system. 
+ru: «Главный мост» — это мост, входящий в бициклическую систему, и первый выбранный мост в полициклической системе.
+
+#P-23.1.5+ 
+en: Two bridgeheads are selected as ‘main bridgeheads’. These two bridgeheads are included in the main ring and 
+connected by the main bridge.
+ru: Два предмостья выбраны в качестве «главных предмостий». Эти два предмостья включены в главное кольцо 
+и соединены главным мостиком.
+
+#P-23.1.6+ 
+en: A ‘secondary bridge’ is any bridge not included in the main ring or the main bridge. 
+ru: «Вторичный мост» — это любой мост, не входящий в основное кольцо или основной мост.
+
+#P-23.1.7+ 
+en: An ‘independent secondary bridge’ links bridgeheads which are part of the main ring or main bridge. 
+ru: «Независимый вторичный мост» связывает предмостья, являющиеся частью главного кольца или главного моста.
+
+#P-23.1.8+ 
+en: A ‘dependent secondary bridge’ links at least one bridgehead that is part of a secondary bridge. 
+ru: «Зависимый вторичный мост» связывает по крайней мере одно предмостье, являющееся частью вторичного моста.
+
+#P-23.1.9+ 
+en: A ‘polycyclic system’ contains a number of rings equal to the minimum number of scissions required to 
+convert the system into an acyclic skeleton. The number of rings is indicated by the nondetachable prefix ‘bicyclo’ (not 
+dicyclo), ‘tricyclo’, ‘tetracyclo’, etc. 
+ru: «Полициклическая система» содержит число колец, равное минимальному числу разрывов, необходимых для превращения 
+системы в ациклический скелет. Число колец обозначается неотделяемой приставкой «бицикло» (не дицикло), «трицикло», 
+«тетрацикло» и т. д.
+
+#P-23.2 
+en: Naming and numbering of von Baeyer hydrocarbons 
+ru: Наименование и нумерация углеводородов по Байеру
+
+@Content
+
+#P-23.2.1 
+en: Selection of the main ring 
+ru: Выбор основного кольца
+
+en: The main ring of a polycyclic hydrocarbon ring system is selected so as to include as many skeletal atoms of the 
+structure as possible. The main ring is shown as bold lines in subsections P-23.2.1 through P-23.2.6. 
+ru: Главное кольцо полициклической углеводородной кольцевой системы выбирается таким образом, чтобы включить как можно 
+больше скелетных атомов структуры. Главное кольцо показано жирными линиями в подразделах P-23.2.1 — P-23.2.6.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)c:n4@n(4,-45)$color(gray)_(A160,W2)@n(3,-150)$color()_(A110)c:n2@n(2,150)_(A-20)@n(1,-40,.5)<_(x.3,y-2.8,w1)@n(7,-90)_(w1)#n4>_(A20)<_(w1)#n2>@n(6,30)_(A-70)@n(5,0)_#1
+$>
+
+en: a six-membered main ring
+ru: шестичленное главное кольцо
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+c@n(6,150)_(y-1.2,W2)c@n(7,-150)_(P7)c:n1@n(1,-110)_(P7)@n(2,-60)_(P7)c:n3@n(3,0)_(P7)@n(4,60)_(P7)@n(5,110)<_(P7)>_(y#n3,x.5,W0)@n(8,180,.4)_#n1
+$>
+
+en: a seven-membered main ring
+ru: семичленное главное кольцо
+
+@End
+
+#P-23.2.2 
+en: Naming bicyclic alicyclic hydrocarbons 
+ru: Наименование бициклических алициклических углеводородов
+
+en: Saturated homogeneous bicyclic hydrocarbons having two or more atoms in common are named by prefixing ‘bicyclo’ 
+to the name of the acyclic hydrocarbon having the same total number of skeletal atoms. The numbers of skeletal atoms 
+in each of the two segments connecting the main bridgeheads and in the main bridge are given by arabic numbers cited 
+in descending numerical order, separated by full stops, and enclosed in square brackets.
+ru: Насыщенные гомогенные бициклические углеводороды, имеющие два или более общих атома, называются путем добавления 
+префикса «бицикло» к названию ациклического углеводорода, имеющего то же общее число скелетных атомов. 
+Количество скелетных атомов в каждом из двух сегментов, соединяющих главные мостики, и в главном мостике указываются 
+арабскими цифрами, указанными в порядке убывания, разделенными точками и заключенными в квадратные скобки.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y-1.2,W2)c_(P7)c:n1_(P7)_(P7)c:n3_(P7)_(P7)<_(P7)>_(y#n3,x.5,W0)_#n1
+$>
+
+en: bicyclo[3.2.1]octane (PIN) 
+ru: бицикло[3.2.1]октан (PIN)
+
+@End
+
+#P-23.2.3 
+en: Numbering bicyclic alicyclic hydrocarbons 
+ru: Нумерация бициклических алициклических углеводородов
+
+en: The bicyclic ring system is numbered starting with one of the bridgeheads and proceeding first along the longer 
+segment of the main ring to the second bridgehead, then back to the first bridgehead along the unnumbered segment of 
+the main ring. Numbering is completed by numbering the main bridge beginning with the atom next to the first 
+bridgehead. 
+ru: Бициклическая кольцевая система нумеруется, начиная с одного из предмостий и продолжая сначала вдоль более длинного 
+сегмента главного кольца до второго предмостья, затем обратно к первому предмостью по ненумерованному сегменту главного 
+кольца. Нумерация завершается нумерацией главного мостика, начиная с атома, следующего за первым предмостьем.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+c@n(6,150)_(y-1.2,W2)c@n(7,-150)_(P7)c:n1@n(1,-110)_(P7)@n(2,-60)_(P7)c:n3@n(3,0)_(P7)@n(4,60)_(P7)@n(5,110)<_(P7)>_(y#n3,x.5,W0)@n(8,180,.4)_#n1
+$>
+
+en: bicyclo[3.2.1]octane (PIN) 
+ru: бицикло[3.2.1]октан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A180,W2)@n(7,100)_(P8)@n(8,135)_(P8)@n(9,-135)_(P8)@n(10,-100)_(P8)@n(1,-90)_(A0)@n(2,-80)_(P8)@n(3,-45)_(P8)@n(4,45)_(P8)@n(5,80)_(P8)@n(6,90)_(P8,W0)@n(12,-10)_(P8)@n(11,10)_(P8)
+$>
+
+en: bicyclo[4.4.2]dodecane (PIN)
+ru: бицикло[4.4.2]додекан (PIN)
+
+@End
+
+#P-23.2.4
+en: Selection of the main bridge 
+ru: Выбор главного моста
+
+en: In a polycyclic ring system there is more than one bridge connecting atoms of the main ring and/or the main bridge. In 
+the tricyclic ring below, the main ring is shown in solid bold lines, and the main bridge, shown in the dashed lines, is 
+the bridge that includes as many of the atoms as possible that are not included in the main ring. Bridges other than the 
+main bridge are called ‘secondary bridges’, appearing below as a normal solid line. 
+ru: В полициклической кольцевой системе имеется более одного мостика, соединяющего атомы основного кольца и/или основного 
+мостика. В трициклическом кольце ниже основное кольцо показано сплошными жирными линиями, а основной мостик, показанный 
+пунктирными линиями, — это мостик, включающий максимально возможное количество атомов, не входящих в основное кольцо. 
+Мосты, отличные от основного мостика, называются «вторичными мостиками» и показаны ниже в виде обычной сплошной линии.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)_(A150,W2)_(P-6)_(P-6)_(x-.5,y#1;-1,W0,H)_(H)#1_(A30,W2)_(A30)_(A150)<_p3>_(A150)
+$>
+
+@End
+
+#P-23.2.5
+en: Naming and numbering tricyclic alicyclic hydrocarbons 
+ru: Наименование и нумерация трициклических алициклических углеводородов
+
+#P-23.2.5.1+ 
+en: Tricyclic hydrocarbons having an independent secondary bridge are named on the basis of a bicyclic system 
+described in P-23.2.2. Rings not described by the bicyclic system are defined by citing the number of atoms in the 
+independent secondary bridge as an arabic number. The locants of the two attachment points of the independent 
+secondary bridge to the main ring are cited as a pair of superscript arabic numbers (lower number is cited first) 
+separated by a comma. 
+ru: Трициклические углеводороды, имеющие независимый вторичный мостик, названы на основе бициклической системы, 
+описанной в P-23.2.2. Кольца, не описанные бициклической системой, определяются указанием числа атомов в независимом 
+вторичном мостике в виде арабского числа. Локанты двух точек присоединения независимого вторичного мостика к основному 
+кольцу указываются в виде пары надстрочных арабских цифр (меньший номер указывается первым), разделенных запятой.
+
+en: The name of the tricyclic system is then constructed by citing: 
+ru: Название трициклической системы затем строится путем цитирования:
+
+@List
+
+@item
+en:  the prefix ‘tricyclo’, in place of ‘bicyclo’, indicating the presence of three rings in the polyalicyclic system; 
+ru: приставка «трицикло» вместо «бицикло», указывающая на наличие трех колец в полиалициклической системе;
+
+@item
+en: numbers indicating the bridge lengths, starting with the two branches of the main ring (shown as a bold line in the 
+structures below), followed by the main bridge (shown in dotted bold lines in the structures below), and the 
+secondary bridge (with superscript locants separated by commas indicating its points of attachment to the main 
+ring), all separated by full stops and placed in brackets, for example [2.2.1.0^{2,6}]; 
+ru: числа, указывающие длину мостов, начиная с двух ветвей главного кольца (показано жирной линией в структурах ниже), 
+за которыми следует главный мост (показан жирными пунктирными линиями в структурах ниже) и вторичный мост (с надстрочными 
+индексами, разделенными запятыми, указывающими его точки крепления к главному кольцу), все они разделены точками и 
+заключены в скобки, например [2.2.1.0^{2,6}];
+
+@item
+en:  the name of the acyclic hydrocarbon having the same total number of skeletal atoms. 
+ru: название ациклического углеводорода, имеющего такое же общее число атомов скелета.
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)c:n4@n(4,-45)$color(gray)_(A160,W2)@n(3,-150)$color()_(A110)c:n2@n(2,150)_(A-20)@n(1,-40,.5)<_(x.3,y-2.8,w1,H)@n(7,-90)_(w1,H)#n4>_(A20)<_(w1)#n2>@n(6,30)_(A-70)@n(5,0)_#1
+$>
+
+en: tricyclo[2.2.1.0^{2,6}]heptane (PIN)
+ru: трицикло[2.2.1.0^{2,6}]гептан (PIN)
+
+@End
+
+#P-23.2.5.2+ 
+en: Numbering the secondary bridge
+ru: Нумерация вторичного моста
+
+en: After the main ring and main bridge have been numbered, the independent secondary bridge is numbered continuing 
+from the higher numbered bridgehead of the main ring.  
+ru: После того, как основное кольцо и основной мост пронумерованы, независимый вторичный мост нумеруется, продолжая 
+от предмостья с более высоким номером основного кольца.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(1,-120)_(A-60,W2)@n(2,-120)_(A0)_(A60)_(A0)_(A60)_(A120)_(A180)_(A120)_(A180)@n(10,120)_(A-120)@n(11,130)_(A180)@n(12,130)_(A-120)_(A-60)@n(14,-130)_(A0)-h@n(15,130,.6)\h@n(16,180,.6)`/h@n(17,-130)`-h`\@n(18)/
+$>
+
+en: tricyclo[9.3.3.1^{1,11}]octadecane (PIN) 
+ru: трицикло[9.3.3.1^{1,11}]октадекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(75)$L(1.4)@n(1,-120)_(A0,W2)@n(2,-60)<\:n12>_(P8)@n(3,-30)_(P8)@n(4,30)_(P8)@n(5,60)<`\@n(11,20)/#n12@n(12,-160,.6)>_(A180)@n(6,120)<`\h:n10>_(P8)@n(7,150)_(P8)@n(8,-150)_(P8)\h@n(9,-160)`/h#n10@n(10,20)
+$>
+
+en: tricyclo[4.2.2.22,5]dodecane (PIN)  <br>
+[the secondary bridge is numbered starting from bridgehead 5,  <br>
+the higher (than 2) numbered bridgehead] 
+ru: трицикло[4.2.2.22,5]додекан (PIN) <br>
+[вторичный мост нумеруется, начиная с предмостья 5, <br>
+более высокий (чем 2) пронумерованное предмостье]
+
+@End
+
+
+#P-23.2.6
+en: Naming and numbering polyalicyclic hydrocarbons 
+ru: Наименование и нумерация полиалициклических углеводородов
+
+en: Polycyclic analogues of saturated bi- and tricyclic ring systems (P-23.2.3 and P-23.2.5) are named as described in the 
+following subsections. Independent and dependent secondary bridges are considered here. Rules for numbering all 
+secondary bridges and for naming all polyalicyclic systems are described; their application follows those described for 
+naming and numbering bicyclic systems as described in P-23.2.1 through P-23.2.4 above. An additional rule is 
+necessary to select the main bridge and the secondary bridges.
+ru: Полициклические аналоги насыщенных би- и трициклических кольцевых систем (P-23.2.3 и P-23.2.5) названы, как описано 
+в следующих подразделах. Здесь рассматриваются независимые и зависимые вторичные мостики. Описаны правила нумерации всех 
+вторичных мостиков и наименования всех полиалициклических систем; их применение следует правилам, описанным для наименования 
+и нумерации бициклических систем, как описано в P-23.2.1 — P-23.2.4 выше. Для выбора главного мостика и вторичных 
+мостиков необходимо дополнительное правило.
+
+#P-23.2.6.1 
+en: Naming polycyclic alicyclic hydrocarbons
+ru: Наименование полициклических алициклических углеводородов
+
+en: Rings not designated by the bicyclic system described above (P-23.2.2) are defined by citing the number of atoms in 
+each secondary bridge as an arabic number. The locants of the two attachment points of each secondary bridge to the 
+main ring are cited as a pair of superscript arabic numbers (lower first) separated by a comma. The numbers indicating 
+independent secondary bridges (bridges that connect atoms of the bicyclic system) are cited in decreasing order. The 
+procedure for construction of names is given in the following subsections. 
+ru: Кольца, не обозначенные бициклической системой, описанной выше (P-23.2.2), определяются путем указания числа атомов 
+в каждом вторичном мостике в виде арабского числа. Локанты двух точек присоединения каждого вторичного мостика к основному 
+кольцу указываются в виде пары надстрочных арабских чисел (сначала нижнее), разделенных запятой. Числа, указывающие на 
+независимые вторичные мостики (мосты, соединяющие атомы бициклической системы), указываются в порядке убывания. 
+Процедура построения названий приведена в следующих подразделах.
+
+#P-23.2.6.1.1+
+en: The prefixes ‘tricyclo’, ‘tetracyclo’, etc., in place of vbicyclo’, indicate the number of rings in the 
+polyalicyclic system. The number of rings is equal to the number of bond cuts necessary to transform the polycyclic 
+system into an acyclic skeleton, unbranched or branched. 
+ru: Префиксы «трицикло», «тетрацикло» и т. д. вместо «бицикло» указывают на количество колец в полиалициклической системе. 
+Количество колец равно количеству разрезов связей, необходимых для преобразования полициклической системы в 
+ациклический скелет, неразветвленный или разветвленный.
+
+#P-23.2.6.1.2+
+en: The number of atoms in each bridge additional to the main bridge, i.e., the secondary bridges, is indicated 
+by arabic numbers separated by full stops and cited in decreasing numerical order following those describing the 
+bicyclic system, except as provided by P-23.2.6.1.3. The location of each secondary bridge is indicated by the arabic 
+number locants of the bicyclic structure already numbered; these locants are cited as superscripts to the arabic number 
+denoting its length (number of atoms) and separated by a comma. The assemblage of arabic numbers denoting the 
+length of bridges with superscript numbers, if necessary, is commonly called the ‘von Baeyer descriptor’ and is 
+enclosed in brackets. 
+ru: Число атомов в каждом мостике, дополнительном к основному мостику, т. е. вторичные мостики, указываются арабскими цифрами, 
+разделенными точками, и приводятся в порядке убывания номеров после тех, которые описывают бициклическую систему, 
+за исключением случаев, предусмотренных в P-23.2.6.1.3. Расположение каждого вторичного мостика указывается арабскими цифрами 
+локантов бициклической структуры, уже пронумерованной; эти локанты указываются как верхние индексы к арабскому числу, 
+обозначающему его длину (число атомов), и разделяются запятой. Совокупность арабских цифр, обозначающих длину мостиков 
+с верхними индексами, если необходимо, обычно называется «дескриптором фон Байера» и заключается в скобки.
+
+#P-23.2.6.1.3+
+en: Independent secondary bridges are cited before dependent secondary bridges. The numbers indicating 
+dependent secondary bridges are cited in decreasing order (the third example in P-23.2.6.3 illustrates this order of 
+citation).
+ru: Независимые вторичные мосты цитируются перед зависимыми вторичными мостами. Цифры, указывающие на зависимые 
+вторичные мосты, цитируются в порядке убывания (третий пример в P-23.2.6.3 иллюстрирует этот порядок цитирования).
+
+#P-23.2.6.1.4+
+en: The name is terminated by the name of the alkane representing the total number of ring atoms; this number 
+corresponds to the sum of the arabic numbers in the numerical descriptor enclosed by brackets plus two (for the two 
+main bridgehead atoms); for example, in the name ‘bicyclo[2.2.1.0^{2,6}]heptane’ for the following structure, the total 
+number of ring atoms, 7, equals the sum of the primary numbers in the descriptor, [2 + 2 + 1 + 0], + 2. 
+ru: Название заканчивается названием алкана, представляющим общее число атомов кольца; это число соответствует сумме 
+арабских цифр в числовом дескрипторе, заключенном в скобки, плюс два (для двух основных атомов мостика); например, 
+в названии «бицикло[2.2.1.0^{2,6}]гептан» для следующей структуры общее число атомов кольца, 7, равно сумме основных 
+чисел в дескрипторе, [2 + 2 + 1 + 0], + 2.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)c:n4@n(4,-45)$color(gray)_(A160,W2)@n(3,-150)$color()_(A110)c:n2@n(2,150)_(A-20)@n(1,-40,.5)<_(x.3,y-2.8,w1,H)@n(7,-90)_(w1,H)#n4>_(A20)<_(w1)#n2>@n(6,30)_(A-70)@n(5,0)_#1
+$>
+
+@End
+
+#P-23.2.6.2 
+en: Selection of the main bridge and secondary bridges
+ru: Выбор главного моста и второстепенных мостов
+
+en: There are often a number of choices to be made in the selection of the main bridge and the secondary bridges. To make 
+such choices, the following criteria are applied in order until a decision can be made. 
+ru: Часто приходится делать несколько выборов при выборе главного моста и второстепенных мостов. Чтобы сделать такой выбор, 
+применяются следующие критерии по порядку, пока не будет принято решение.
+
+en: **Note**: Numberings shown in the examples below follow the rules given in P-23.2.6.3.
+ru: **Примечание**: Нумерация, показанная в примерах ниже, соответствует правилам, приведенным в P-23.2.6.3.
+
+#P-23.2.6.2.1+ 
+en: The main ring must be divided as symmetrically as possible by the main bridge, which, as directed in  
+P-23.2.4, includes as many of the atoms not included in the main ring as possible. 
+ru: Главное кольцо должно быть разделено как можно более симметрично главным мостиком, который, как указано в P-23.2.4, 
+включает в себя как можно больше атомов, не входящих в главное кольцо.
+
+@Examples 2
+en: Example:
+ru: Пример:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(1,-90)_(A-7.7,W2):n2@n(2,-90)_(A30)@n(3,-20)_(A90)@n(4,30)_(A150)<_(x%d:.5,y#-1;n2,w0)@n(11,180,.5)_(w0)#n2>@n(5,90)_(A-172.3)@n(6,90)_(A180)@n(7,120)_(A-120)@n(8,180)_(A-60)@n(9,-120)_(A0)\h@n(10,180,.6)`/h
+$>
+
+en: tricyclo[4.3.1.1^{2,5}]undecane (PIN) <br>
+correct 
+ru: трицикло[4.3.1.1^{2,5}]ундекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$ 
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(2,-90)_(A-7.7,W2):n2@n(1,-90)_(A30)@n(9,-20)_(A90)@n(8,30)_(A150)<_(x%d:.5,y#-1;n2,w0,H)@n(10,180,.5)_(w0,H)#n2>@n(7,90)_(A-172.3)@n(6,90)_(A180)@n(5,120)_(A-120)@n(4,180)_(A-60)@n(3,-120)_(A0)\@n(11,180,.6)`/ 
+$>
+
+</div>
+
+en: tricyclo[5.2.1.1^{2,6}]undecane  <br>
+incorrect 
+ru: трицикло[5.2.1.1^{2,6}]ундекан <br>
+неправильно
+
+@End
+
+en: **Explanation**: Two bridges of 4 and 3 atoms divide the main ring more symmetrically than two bridges of 5 and 2 
+atoms. 
+ru: **Объяснение**: Два мостика из 4 и 3 атомов делят главное кольцо более симметрично, чем два мостика из 5 и 2 атомов.
+
+#P-23.2.6.2.2+
+en: If there is a choice for independent secondary bridges, the first cited must be as long as possible. Then, if 
+relevant, the second must be as long as possible, etc. 
+ru: Если есть возможность выбора независимых вторичных мостов, то первый из указанных должен быть максимально длинным. 
+Затем, если это уместно, второй должен быть максимально длинным и т. д.
+
+@Examples 2
+en: Example:
+ru: Пример:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)c:n1@n(1,-90)_(A0,W2):n2@n(2,-90)_(A15)@n(3,-30)_(A70):n4_(A30)_(A90)_(A150):n7_(A110)@n(8,30)_(A165):n9@n(9,90)_(A180):n10@n(10,90)_(A-165)@n(11,150,.5)_(A-110)_(A-150)_(A-90)_(A-30)_(A-70)_(A-15)#
+_(x-%a:.7,y#1;n4;n4,W0,H)@n(17,-10,.6)_(x%b:.9,y#n4,H)_(A150,H)_(A90,H)_(A30,H)_(x-%b,y#n7;n7;n10,H)@n(22,-110,.45)_(H)#n10;
+#n9_(A-105)@n(23,30,.6)_(a92)@n(24,-150,.5)_q@n(25,160,.5)_q@n(26,-30,.5)<_q@n(28,0,.55)_q>_(a54)@n(27,0,.5)_#n2
+$>
+
+en: tetracyclo[8.6.6.5^{2,9}.1^{23,26}]octacosane (PIN) <br>
+correct 
+ru: тетрацикло[8.6.6.5^{2,9}.1^{23,26}]октакозан (PIN) <br>
+верно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)c:n1@n(1,-90)_(A0,W2):n2@n(2,-90)_(A15)@n(3,-30)_(A70):n4_(A30)_(A90)_(A150):n7_(A110)@n(8,30)_(A165):n9@n(9,90)_(A180):n10@n(10,90)_(A-165)@n(11,150,.5)_(A-110)_(A-150)_(A-90)_(A-30)_(A-70)_(A-15)#
+_(x-%a:.7,y#1;n4;n4,W0,H)@n(17,-10,.6)_(x%b:.9,y#n4,H)_(A150,H)_(A90,H)_(A30,H)_(x-%b,y#n7;n7;n10,H)@n(22,-110,.45)_(H)#n10;
+#n9_(A-105)@n(23,30,.6)_(a92)@n(27,-150,.5)_q@n(28,160,.5)_q@n(25,-30,.5)<_q@n(24,0,.55)_q>_(a54)@n(26,0,.5)_#n2
+$>
+
+</div>
+en: tetracyclo[8.6.6.4^{2,9}.2^{23,25}]octacosane  <br>
+incorrect
+ru: тетрацикло[8.6.6.4^{2,9}.2^{23,25}]октакозан <br>
+неправильно
+
+@End
+
+en: **Explanation**: The five-atom independent bridge between positions 2 and 9 of the main ring is longer than the four
+atom independent bridge between positions 2 and 9. 
+ru: **Объяснение**: Пятиатомный независимый мостик между позициями 2 и 9 основного кольца длиннее, чем четырехатомный 
+независимый мостик между позициями 2 и 9.
+
+#P-23.2.6.2.3+
+en: The number of dependent secondary bridges is to be kept to a minimum.
+ru: Количество зависимых вторичных мостов должно быть сведено к минимуму.
+
+@Examples 2
+en: Example:
+ru: Пример:
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(1,-90)_(A0,W2)@n(2,-90)_(P4)@n(3,180,.4)_(A0)@n(4,0)<`|@n(13,-40,.6)`->_(P4)@n(5,40)_(P4)@n(6,90)<`|>_(a0)@n(7,90)_(a0)@n(8,140)_(A-110)@n(9,180)_(A-70)@n(10,-140,.6)_#1`/h@n(11,30)|h@n(12,-30)\h
+$>
+
+en: tetracyclo[5.3.2.1^{2,4}.0^{3,6}]tridecane (PIN) <br>
+correct 
+ru: тетрацикло[5.3.2.1^{2,4}.0^{3,6}]тридекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(1,-90)_(A0,W2)@n(2,-90)_(A0)@n(3,-60)_(P4)@n(4,0)_(a0)@n(5,40)_(P4)@n(6,90)<`|@n(13,180)<->`|>_(a0)@n(7,90)_(a0)@n(8,140)_(A-110)@n(9,180)_(A-70)@n(10,-140,.6)_#1`/h@n(11,30)|h@n(12,-30)\h
+$>
+
+</div>
+en: tetracyclo[5.3.2.1^{2,4}.0^{6,13}]tridecane <br>
+incorrect 
+ru: тетрацикло[5.3.2.1^{2,4}.0^{6,13}]тридекан <br>
+неправильно
+
+@End
+
+en: **Explanation**: There are no dependent bridges in the correct structure; there is dependent bridge in the incorrect 
+structure, between 6 and 13. 
+ru: **Объяснение**: В правильной структуре нет зависимых мостов; в неправильной структуре есть зависимый мост между 6 и 13.
+
+#P-23.2.6.2.4+
+en: The superscript locants for the secondary bridges must be as low as possible when considered as a set in 
+ascending numerical order, the decision being made at the first point of difference.
+ru: Верхние индексы локантов для вторичных мостов должны быть как можно меньше, если рассматривать их как набор 
+в порядке возрастания номеров, решение принимается в первой точке различия.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(1,-90)_(A0,W2)@n(2,-90)_(P4)@n(3,180,.4)_(A0)@n(4,0)<`|@n(13,-40,.6)`->_(P4)@n(5,40)_(P4)@n(6,90)<`|>_(a0)@n(7,90)_(a0)@n(8,140)_(A-110)@n(9,180)_(A-70)@n(10,-140,.6)_#1`/h@n(11,30)|h@n(12,-30)\h
+$>
+
+en: tetracyclo[5.3.2.1^{2,4}.0^{3,6}]tridecane (PIN) <br>
+correct 
+ru: тетрацикло[5.3.2.1^{2,4}.0^{3,6}]тридекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(1,-90)_(A0,W2)@n(2,-90)_(A0)@n(3,-60)_(P4)@n(4,0)_(P4)@n(5,180)<`|>_(P-4)@n(6,90)<-@n(13,60)`|>_(P4)@n(7,90)_(a0)@n(8,140)_(A-110)@n(9,180)_(A-70)@n(10,-140,.6)_#1`/h@n(11,30)|h@n(12,-30)\h
+$>
+
+</div>
+en: tetracyclo[5.3.2.1^{4,6}.0^{2,5}]tridecane <br>
+incorrect  
+ru: тетрацикло[5.3.2.1^{4,6}.0^{2,5}]тридекан <br>
+неправильно
+
+@cell colspan=2
+en: **Explanation**: The locant set ‘2,3,4,6’ is lower than ‘2,4,5,6’; see P-14.3.5.
+ru: **Пояснение**: Множество локантов «2,3,4,6» меньше, чем «2,4,5,6»; см. P-14.3.5.
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(11,-90)-@n(3,-90)<_(P,W2)@n(2,-160)_(P):n1@n(1,150)_(P)@n(12,-15,.6)_(P)>_(P9)@n(4,-30)_(P9)@n(5,10)_(P9)@n(6,50)_(P9)<_(x.5,y#-1;n1,w0,H)@n(13,180,.6)_(w0,H)#n1>@n(7,90)_(P9)@n(8,130)_(P9)@n(9,170)_(P9)@n(10,-150,.6)_(P9)
+$>
+
+en: tricyclo[5.5.1.0^{3,11}]tridecane  <br>
+correct
+ru: трицикло[5.5.1.0^{3,11}]тридекан <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(5,-90)-@n(9,-90)<_(P,W2)@n(8,-160)_(P):n1@n(7,-90)_(P)@n(6,-20)_(P)>_(P9)@n(10,-30)_(P9)@n(11,10)_(P9)@n(12,50)_(P9)<_(x.5,y#-1;n1,w0,H)@n(13,180,.6)_(w0,H)#n1>@n(1,90)_(P9)@n(2,130)_(P9)@n(3,170)_(P9)@n(4,-150)_(P9)
+$>
+
+</div>
+en: tricyclo[5.5.1.0^{5,9}]tridecane <br>
+incorrect 
+ru: трицикло[5.5.1.0^{5,9}]тридекан <br>
+неправильно
+
+@cell colspan=2
+en: **Explanation**: The locant set ‘3,11’ is lower than ‘5,9’; see P-14.3.5. 
+ru: **Пояснение**: Множество локантов «3,11» меньше, чем «5,9»; см. P-14.3.5.
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)_(A0,W2):n5@n(5,90)_q@n(12,170)_q@n(1,-90)<_(A-20)@n(2,-90)_(P6)@n(3,-10,.4)_(P5)@n(4,60)_#n5><_qh@n(11,10)_qh>_(A-148)@n(10,-90)_(P-7)@n(9,-120)_(P-7)@n(8,160)_(P-7)@n(7,100)_#1@n(6,90)
+$>
+
+en: tricyclo[4.4.1.1^{1,5}]dodecane (PIN) <br>
+correct 
+ru: трицикло[4.4.1.1^{1,5}]додекан (PIN) <br>
+правильный
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)_(A0,W2):n5@n(7,90)_q@n(12,170)_q@n(1,-90)<_(A-20)@n(10,-90)_(P6)@n(9,-10,.4)_(P5)@n(8,60)_#n5><_qh@n(11,10)_qh>_(A-148)@n(2,-90)_(P-7)@n(3,-120)_(P-7)@n(4,160)_(P-7)@n(5,100)_#1@n(6,90)
+$>
+
+</div>
+en: tricyclo[4.4.1.1^{1,7}]dodecane <br>
+incorrect 
+ru: трицикло[4.4.1.1^{1,7}]додекан <br>
+неправильный
+
+@cell colspan=2
+en: **Explanation**: The locant set ‘1,5’ is lower than ‘1,7’; see P-14.3.5. 
+ru: **Пояснение**: Множество локантов «1,5» ниже, чем «1,7»; см. P-14.3.5.
+
+@End
+
+#P-23.2.6.2.5+ 
+en: The superscript locants shall be as low as possible when considered in the sequence of their order of 
+citation in the name. 
+ru: Надстрочные индексы должны быть как можно меньше, если рассматривать их в порядке цитирования в названии.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)_(A180,W2)@n(9,120)_(P6)@n(10,180)_(P6)@n(11,-120)_(P6)@n(12,-120,.6)_(a-40):n1@n(1,-100)_(a%b:37):n2@n(2,-80)_(a%b)@n(3,-60)_(a%b)@n(4,0)_(a%b)@n(5,60)_(a%b):n6<_(x.6,y#n2;n6;n6,W0)@n(16,-160)_(y#n2;n2;n6)@n(17,160)_#n2>@n(6,80)_(a%b,w2):n7<_(x.65,y#n1;n7;n7,W0,H)@n(14,-160)_(y#n1;n1;n7,H)@n(13,160)_(H)#n1>@n(7,100)_(w2)#1@n(8,110)/@n(15,180,.6)`\
+$>
+
+en: tetracyclo[5.5.2.2^{2,6}.1^{8,12}]heptadecane (PIN) <br>
+correct 
+ru: тетрацикло[5.5.2.2^{2,6}.1^{8,12}]гептадекан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)_(A180,W2)@n(5,120)_(P6)@n(4,180)_(P6)@n(3,-120)_(P6)@n(2,-120)_(a-40):n1@n(1,-100)_(a%b:37):n2@n(12,-80)_(a%b)@n(11,-60)_(a%b)@n(10,0)_(a%b)@n(9,60)_(a%b):n6<_(x.6,y#n2;n6;n6,W0)@n(16,-160)_(y#n2;n2;n6)@n(15,160)_#n2>@n(8,80)_(a%b,w2):n7<_(x.65,y#n1;n7;n7,W0,H)@n(14,-160)_(y#n1;n1;n7,H)@n(13,160)_(H)#n1>@n(7,100)_(w2)#1@n(6,110)/@n(17,180,.6)`\
+$>
+
+</div>
+en: tetracyclo[5.5.2.2^{8,12}.1^{2,6}]heptadecane <br>
+incorrect 
+ru: тетрацикло[5.5.2.2^{8,12}.1^{2,6}]гептадекан <br>
+неправильно
+
+@cell colspan=2
+en: **Explanation**: The locant sequence ‘2,6,8,12’ is lower than ‘8,12,2,6’; see P-14.3.5.
+ru: **Пояснение**: Последовательность локантов «2,6,8,12» меньше, чем «8,12,2,6»; см. P-14.3.5.
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+c:n7@n(7,120)$color(gray)_(x-%x1:.4,y-%y1:3,W2):n8@n(8,-140)_(x%x2:1.1,y-%y2:.5):n1@n(1,-90)_(x%x2,y%y2):n2@n(2,-40)_(x-%x1,y%y1)$color()@n(3,60)<_(x%x3:.8,y%y3:-1.8):n4@n(4,20)>-#n7_(x-%x3,y%y3)@n(6,160)<|#n8>_(x#n1,y-.4)@n(5,90)<|h#n1>_#n4|#n2
+$>
+
+en: pentacyclo[3.3.0.0^{2,4}.0^{3,7}.0^{6,8}]octane (PIN) <br>
+correct 
+ru: пентацикло[3.3.0.0^{2,4}.0^{3,7}.0^{6,8}]октан (PIN) <br>
+правильно
+
+@cell
+
+<div class="flex-row">
+en: not
+ru: не 
+
+*: <$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+c:n7@n(1,120)$color(gray)_(x-%x1:.4,y-%y1:3,W2):n8@n(2,-140)_(x%x2:1.1,y-%y2:.5):n1@n(3,-90)_(x%x2,y%y2):n2@n(4,-40)_(x-%x1,y%y1)$color()@n(5,60)<_(x%x3:.8,y%y3:-1.8):n4@n(6,20)>-h#n7_(x-%x3,y%y3)@n(8,160)<|#n8>_(x#n1,y-.4)@n(7,90)<|#n1>_#n4|#n2
+$>
+
+</div>
+en: pentacyclo[3.3.0.0^{2,8}.0^{3,7}.0^{4,6}]octane  <br>
+incorrect 
+ru: пентацикло[3.3.0.0^{2,8}.0^{3,7}.0^{4,6}]октан <br>
+неправильно
+
+@cell colspan=2
+en: **Explanation**: The locant sequence ‘2,4,3,7,6,8’ is lower than ‘2,8,3,7,4,6’; see P-14.3.5
+ru: **Пояснение**: Последовательность локантов «2,4,3,7,6,8» меньше, чем «2,8,3,7,4,6»; см. P-14.3.5
+
+@End
+
+#P-23.2.6.3 
+en: Numbering of secondary bridges
+ru: Нумерация вторичных мостиков
+
+en: After numbering the main ring and main bridge, independent secondary bridges are numbered before dependent 
+secondary bridges; the numbering continues from the highest number of the main ring and main bridge. Each secondary 
+bridge is numbered in turn starting with the independent secondary bridge linked to the highest numbered bridgehead 
+atom of the main ring, then the independent secondary bridge linked to the next highest bridgehead atom, and so on. 
+Each atom of a secondary bridge is numbered starting with the atom next to the higher numbered bridgehead. 
+ru: После нумерации основного кольца и основного моста независимые вторичные мосты нумеруются до зависимых вторичных мостов; 
+нумерация продолжается с самого большого номера основного кольца и основного моста. Каждый вторичный мост нумеруется 
+по очереди, начиная с независимого вторичного моста, связанного с атомом предмостья с самым большим номером основного кольца, 
+затем независимого вторичного моста, связанного со следующим по величине атомом предмостья, и так далее.
+Каждый атом вторичного моста нумеруется, начиная с атома, следующего за атомом предмостья с более высоким номером.
+
+en: **Note**: Rule A-32.23 in the 1979 Recommendations (ref. 1) and Rule R-2.4.2.2 in the l993 Recommendations (ref. 2) 
+have been replaced by this Rule. 
+ru: **Примечание**: Правило A-32.23 в Рекомендациях 1979 г. (ссылка 1) и Правило R-2.4.2.2 в Рекомендациях 1993 г. 
+(ссылка 2) были заменены этим Правилом.
+
+@Examples
+
+@cell
+
+<div class="flex-row">
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(2,-90)_(A180,W2)@n(1,-90)_(a0)@n(10,-90)_(A150)_(A90)@n(8,150)_(A30)@n(7,90)</@n(14,-160)`|@n(13,160)`\>_(A0)@n(6,90)</h@n(12,-160)`|h@n(11,160)`\h>_(A0)@n(5,90)</@n(15,-160)`|@n(16,160)`\>_(x2,y-.5)_(A-90)@n(3,-30)_#1
+$>
+
+en: not
+ru: не 
+
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(2,-90)_(A180,W2)@n(1,-90)_(a0)@n(10,-90)_(A150)_(A90)@n(8,150)_(A30)@n(7,90)</@n(16,-160)`|@n(15,160)`\>_(A0)@n(6,90)</h@n(12,-160)`|h@n(11,160)`\h>_(A0)@n(5,90)</@n(13,-160)`|@n(14,160)`\>_(x2,y-.5)_(A-90)@n(3,-30)_#1
+$>
+
+</div>
+en: tetracyclo[4.4.2.2^{2,5}.2^{7,10}]hexadecane (PIN) 
+ru: тетрацикло[4.4.2.2^{2,5}.2^{7,10}]гексадекан (PIN)
+
+@cell
+en: **Explanation**: The first secondary bridge to be numbered is linked to bridgehead 10. 
+ru: **Пояснение**: Первый вторичный мост, который необходимо пронумеровать, связан с предмостьем 10.
+
+@cell
+
+<div class="flex-row">
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)c:n3@n(3,-60)_(A180,W2):n2@n(2,-90)_(a0):n1@n(1,-90)_(A165):n11@n(11,-100)_(A165)_(A90)@n(9,150)_(A15):n8@n(8,100)<_(x.65,y#n11;n8,w0)@n(14,180,.6)_(w0)#n11>_(A15)@n(7,100)</h@n(13,-160,.6)`|h@n(12,160,.6)`\h>_(A0)@n(6,90)</@n(15,-160,.6)`|@n(16,160,.6)`\>_(A0):n5_(x.6,y#n3;n5)_#n3
+$>
+
+en: not
+ru: не 
+
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)c:n3@n(3,-60)_(A180,W2):n2@n(2,-90)_(a0):n1@n(1,-90)_(A165):n11@n(11,-100)_(A165)_(A90)@n(9,150)_(A15):n8@n(8,100)<_(x.65,y#n11;n8,w0)@n(16,180,.6)_(w0)#n11>_(A15)@n(7,100)</h@n(13,-160,.6)`|h@n(12,160,.6)`\h>_(A0)@n(6,90)</@n(14,-160,.6)`|@n(15,160,.6)`\>_(A0):n5_(x.6,y#n3;n5)_#n3
+$>
+
+</div>
+en: tetracyclo[5.4.2.2^{2,6}.1^{8,11}]hexadecane (PIN)  <br>
+(the first secondary bridged to be numbered is linked to bridgehead 11) 
+ru: тетрацикло[5.4.2.2^{2,6}.1^{8,11}]гексадекан (PIN) <br>
+(первый вторичный мостик, который нужно пронумеровать, связан с предмостьем 11)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)c:n1@n(1,-80,.6)_(A-30,W2):n2@n(2,-90)_(P6):n3@n(3,-100,.6)_(P-4)@n(4,-120)_(P6)_(P6)_(P6):n7@n(7,0)_(P-6)@n(8,0)_(P6)_(P6)_(P6):n11@n(11,110,.7)<_(y#n7,w0):n25@n(25,180,.4)<|#n3>_(x#n25;n7,y%d:-.5,w0)@n(24,-90,.4)\#n7>_(P-4):n12@n(12,90)<_(x-.7,y#n7,w0)@n(23,0)/#n2>_(P6)@n(13,75,.7)<_(y#n7,w0):n21@n(21,145,.5)/h#n1>_(P-4)@n(14,60)_(P6)_(P6)_(P6):n17@n(17,180,.7)<_(x#n17;n21,y%d,w0,H)@n(22,-90,.4)\h#n21>_(P-6)@n(18,180)_(P6)_(P6)@n(20,-60)_(P6)
+$>
+
+en: hexacyclo[15.3.2.2^{3,7}.1^{2,12}.0^{13,21}.0^{11,25}]pentacosane <br>
+(the dependent secondary bridge between atoms numbered 11 and 25 is cited last;  <br>
+in the numeric descriptor, the numbers ‘15, 3, and 2’ describe the basic bicyclic system;  <br>
+the numbers 2^{3,7},1^{2,12}, and 0^{13,21} correspond to the three independent secondary bridges; <br>
+the number 0^{11,25} corresponds to the dependent secondary bridge) <br>
+octadecahydro-6,13-methano-2,14:7,9-dipropanodicyclohepta[_a_,_e_][8]annulene (PIN)  <br>
+(see P-25.4.3.4.2) <br>
+[not octadecahydro-7,14-methano-4,6:8,10-dipropanodicyclohepta[_a_,_d_][8]annulene;  <br>
+in the correct name a greater number of rings of the fusion ring system to be bridged are in a horizontal row,  <br>
+3 versus 2; see P-25.3.2.3.3 (a) and P-44.2.2.2.3 (b)] 
+ru: гексацикло[15.3.2.2^{3,7}.1^{2,12}.0^{13,21}.0^{11,25}]пентакозана <br>
+(зависимый вторичный мостик между атомами с номерами 11 и 25 указан последним; <br>
+в числовом дескрипторе числа «15, 3 и 2» описывают базовую бициклическую систему; <br>
+числа 2^{3,7},1^{2,12} и 0^{13,21} соответствуют трем независимым вторичным мостикам; <br>
+число 0^{11,25} соответствует зависимому вторичному мостику) <br>
+октадекагидро-6,13-метано-2,14:7,9-дипропанодициклогепта[_a_,_e_][8]аннулен (PIN) <br>
+(см. P-25.4.3.4.2) <br>
+[не октадекагидро-7,14-метано-4,6:8,10-дипропанодициклогепта[_a_,_d_][8]аннулен; <br>
+в правильном названии большее количество колец системы слияния колец, которые должны быть соединены мостиком, находятся в горизонтальном ряду, <br>
+3 против 2; см. P-25.3.2.3.3 (a) и P-44.2.2.2.3 (b)]
+
+@cell
+
+<div class="flex-row">
+<div class="flex-column">
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)c:n8@n(8,0,.6)_(A45,W2)@n(9,-30,.4)_(P8)_(P8)_(P8)_(P8):n13@n(13,100,.6)_(A150)@n(14,90)_(P6):n15@n(15,100,.6)_(P-7)@n(16,100)_(P7)_(P7):n18@n(18,150,.6)_(x-1,y#1):n19@n(19,180,.7);
+#1_(A-45)_(P-8)_(P-8)_(P-8)@n(4,-120)_(P-8):n3@n(3,-100,.6)_(A-150)@n(2,-90)_(P-6):n1@n(1,-90)_(P7)@n(22,-90)_(P-7)@n(21,-100)_(P-7)@n(20,-150,.6)<|#n18>_#n19;
+#n15_(A-90,W0,H)@n(26,-20)_(A-170,H):n25@n(25,120); #n1|h@n(23,20)_(A170,H)@n(24,-120)|h#n25;
+#n3_(y#1;n3,x-%d:.65)@n(29,0,.6)_(y#1,x%d):n28@n(28,180,.6)<_(y#n28;n13,x-%d)@n(30,0,.6)_#n13>_(x#n28;1,y-.5)@n(27,-70,.4)_#1
+$>
+
+en: **(I)** <br> 
+correct
+ru: **(I)** <br> 
+правильно
+
+</div>
+
+en: not
+ru: не 
+
+<div class="flex-column">
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)c:n8@n(8,0,.6)_(A45,W2)@n(9,-30,.4)_(P8)_(P8)_(P8)_(P8):n13@n(13,100,.6)_(A150)@n(14,90)_(P6):n15@n(15,100,.6)_(P-7)@n(16,100)_(P7)_(P7):n18@n(18,150,.6)_(x-1,y#1):n19@n(19,180,.7);
+#1_(A-45)_(P-8)_(P-8)_(P-8)@n(4,-120)_(P-8):n3@n(3,-100,.6)_(A-150)@n(2,-90)_(P-6):n1@n(1,-90)_(P7)@n(22,-90)_(P-7)@n(21,-100)_(P-7)@n(20,-150,.6)<|#n18>_#n19;
+#n15_(A-90,W0,H)@n(26,-20)_(A-170,H):n25@n(25,120); #n1|h@n(23,20)_(A170,H)@n(24,-120)|h#n25;
+#n3_(y#1;n3,x-%d:.65)@n(29,0,.6)_(y#1,x%d):n28@n(28,180,.6)<_(y#n28;n13,x-%d)@n(27,0,.6)_#n13>_(x#n28;1,y-.5)@n(30,-70,.4)_#1
+$>
+
+en: **(II)** <br>
+incorrect
+ru: **(II)** <br>
+неправильно
+
+</div>
+</div>
+
+en: **(I)** pentacyclo[13.7.4.3^{3,8}.0^{18,20}.1^{13,28}]triacontane (PIN) <br>
+**(II)** pentacyclo[13.7.4.3^{3,13}.0^{18,20}.1^{8,28}]triacontane 
+ru: **(I)** пентацикло[13.7.4.3^{3,8}.0^{18,20}.1^{13,28}]триаконтан (PIN) <br>
+**(II)** пентацикло[13.7.4.3^{3,13}.0^{18,20}.1^{8,28}]триаконтан
+
+@cell
+en: **Explanation**: In the correct name **(I)**, the PIN, the independent bridge is numbered before the dependent bridge; locant 
+sequence ‘3,8,18,20,13,28’ is lower than ‘3,13,18,20,8,28’ (see P-14.3.5). 
+ru: **Пояснение**: В правильном названии **(I)**, PIN, независимый мост пронумерован перед зависимым мостом; 
+последовательность локантов «3,8,18,20,13,28» меньше, чем «3,13,18,20,8,28» (см. P-14.3.5).
+
+@End
+
+
+#P-23.2.6.4+
+en: If there is a further choice for numbering the secondary bridges, the following criteria are considered in order 
+until a decision can be made. 
+ru: Если есть дальнейший выбор для нумерации вторичных мостов, следующие критерии рассматриваются по порядку, 
+пока не будет принято решение.
+
+#P-23.2.6.4.1+
+en: Lower locants are used for the atoms of the bridge linked to the higher numbered bridgehead. 
+ru: Меньшие локанты используются для атомов мостика, связанного с мостиком с более высоким номером.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3):n2@n(2,-100)_(A-30,W2):n3@n(3,-90,.4)_(P6)@n(4,-30,.4)_(P6)_(P6):n6@n(6,80)`\@n(17,100)`|_(A180):n1@n(1,-90)_(A165)@n(11,-120)_(A120)_(A60)@n(9,120)_(A20):n8@n(8,90)_(A0)@n(7,70)_#n6;
+#n3_(A60,w0):n16@n(16,-160,.7); #n6_(A-120,w0)@n(15,20,.7)/#n16;
+#n1_(x%d:-.65,y#n1;n1;n8,W0,H)@n(12,-20,.7)_(x1.2,y#n1;n8,H):n13;
+#n8_(x%d,y#n8;n8;n1,H)@n(14,20,.7)_(H)#n13
+$>
+
+en: tetracyclo[6.3.3.2^{3,6}.1^{2,6}]heptadecane (PIN)  <br>
+(locants 15 and 16 are assigned to bridge linked to bridgehead atom 3 not 2)
+ru: тетрацикло[6.3.3.2^{3,6}.1^{2,6}]гептадекан (PIN) <br>
+(локанты 15 и 16 назначены мостику, связанному с атомом предмостья 3, а не 2)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3):n4@n(4,-60)_(A-175,W2):n3@n(3,-90)_(A180):n2@n(2,-90)_(A160):n1@n(1,-90)_(A170)@n(11,-120)_(A120)_(A60)@n(9,120)_(A15):n8@n(8,90)_(A0)@n(7,90)_(A-40):n6@n(6,70)_(y-.4,x#n4)_#n4;
+#n1_(x-.6,y#n1;n1;n8,W0,H)@n(12,-20,.7)_(x%x1:1.2,y#n1;n8,H)_(x-%x1,y#n1;n8;n8,H)@n(14,20,.7)_(H)#n8;
+#n3_(x.65,y#n3;n6)@n(15,180,.6)_#n6;
+#n2_(A110,L1)@n(17,-10)_(a-30,L1)@n(16,-30)_#n6
+$>
+
+en: tetracyclo[6.3.3.2^{2,6}.1^{3,6}]heptadecane (PIN)  <br>
+(the locant 15 is assigned to the bridge linked to bridgehead atom 3 not 2) 
+ru: тетрацикло[6.3.3.2^{2,6}.1^{3,6}]гептадекан (PIN) <br>
+(местоположение 15 присвоено мостику, связанному с атомом предмостья 3, а не 2)
+
+@End
+
+#P-23.2.6.4.2+
+en: Longer bridges are numbered before shorter bridges. 
+ru: Более длинные мосты нумеруются раньше более коротких.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3):n7@n(7,100)_(A180,W2)_(P6)_(P6)@n(4,-120)_(P6):n3@n(3,-100)_(A-46)@n(2,-120)_(a%a:34):n1@n(1,-80)_(a%a)@n(13,-45)_(a%a)_(a%a)_(a%a)@n(10,45)_(a%a):n9@n(9,80)_(a%a)@n(8,120)_#n7;
+c:n18_(A-160,W0)#n3_(A60)@n(19,180,.6)_(A120)_(A-20)@n(17,80)_#n18@n(18,-80);
+#n1_(x%d:.7,y#n1;n1;n1;n9,H)@n(14,180,.6)_(x-%d,y#n1;n9,H)_(x%d,y#n1;n9;n9;n9,H)@n(16,180,.6)_(H)#n9
+$>
+
+en: tetracyclo[7.4.3.2^{3,7}.1^{3,7}]nonadecane (PIN)  <br>
+(the two-atom bridge between bridgehead atoms 3 and 7 is numbered before  <br>
+the one-atom bridge between the same two bridgehead atoms). 
+ru: тетрацикло[7.4.3.2^{3,7}.1^{3,7}]нонадекан (PIN) <br>
+(двухатомный мостик между атомами предмостий 3 и 7 пронумерован раньше, чем <br>
+одноатомный мостик между теми же двумя атомами предмостий).
+
+@End
+
+#P-23.3 
+en: Heterogeneous heterocyclic von Baeyer parent hydrides 
+ru: Гетерогенные гетероциклические исходные гидриды фон Байера
+
+#P-23.3.1+ 
+en: The only general method to name heterogeneous heterocyclic von Baeyer systems is skeletal replacement (‘a’) 
+nomenclature. The replacement (‘a’) prefixes denoting the heteroatoms are placed in front of the name of the 
+corresponding hydrocarbon named according to P-23.2, cited in the order: <% order %>. Numbering is determined first by the fixed numbering of the 
+hydrocarbon system. 
+ru: Единственным общим методом для наименования гетерогенных гетероциклических систем фон Байера является скелетная 
+заместительная (‘a’) номенклатура. Замещающие (‘a’) префиксы, обозначающие гетероатомы, помещаются перед названием 
+соответствующего углеводорода, названного в соответствии с P-23.2, приведенным в следующем порядке: <% order %>. 
+Нумерация определяется в первую очередь фиксированной нумерацией углеводородной системы.
+%order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi >Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|_p7:n1@n(1,-100)_p7@n(2,-60)_p7O@n(3,180,.5)_p7_p7<_p7>_(x.4,y#-1;n1)_#n1
+$>
+
+en: 3-oxabicyclo[3.2.1]octane (PIN)  
+ru: 3-оксабицикло[3.2.1]октан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(1,-90)\Se@n(2,-90,.6)|`/_(x.4,y#1;-1)_#1`/|\
+$>
+
+en: 2-selenabicyclo[2.2.1]heptane (PIN) 
+ru: 2-селенабицикло[2.2.1]гептан (PIN)
+
+@End
+
+#P-23.3.2+ 
+en: When there is a choice for numbering, the following criteria are applied in order until a decision can be made. 
+ru: При выборе нумерации применяются следующие критерии по порядку, пока не будет принято решение.
+
+#P-23.3.2.1+ 
+en: Low locants are assigned to the heteroatoms considered together as a set compared in increasing numerical 
+order. The preferred numbering is the lowest set at the first point of difference. 
+ru: Меньшие локанты присваиваются гетероатомам, рассматриваемым вместе как набор, сравниваемый в порядке возрастания 
+номеров. Предпочтительная нумерация — наименьший набор в первой точке различия.
+
+@Examples 2
+en: Example:
+ru: Пример:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(1,-90)`/|O@n(6,150,.5)\@n(5,90)_(x1.5)_(x.5,y#1;-1)O@n(3,-50,.6)_(x-.5,y#1)@n(2,-60)_#1\O@n(8,150,.5)|`/
+$>
+
+en: 3,6,8-trioxabicyclo[3.2.2]nonane (PIN) <br>
+correct 
+ru: 3,6,8-триоксабицикло[3.2.2]нонан (PIN) <br>
+правильно
+
+@cell
+<div class="flex-row">
+
+en: not
+ru: не
+
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)@n(1,-90)`/@n(8,-150)|O@n(9,150,.5)\@n(5,90)_(x1.5)_(x.5,y#1;-1)O@n(3,-50,.6)_(x-.5,y#1)@n(2,-60)_#1\O@n(7,150,.5)|`/
+$>
+
+</div>
+
+en: 3,7,9-trioxabicyclo[3.2.2]nonane <br>
+incorrect 
+ru: 3,7,9-триоксабицикло[3.2.2]нонан <br>
+неправильно
+
+@cell colspan=2
+en: **Explanation**: The locant set ‘3,6,8’ is lower than ‘3,7,9’ (see P-14.3.5) 
+ru: **Пояснение**: Множество локантов «3,6,8» меньше, чем «3,7,9» (см. P-14.3.5)
+
+@End
+
+#P-23.3.2.2+ 
+en: If there is still a choice, low locants are assigned in accord with the decreasing seniority order of heteroatoms <% order %>.
+ru: Если выбор все еще есть, то нижние локанты назначаются в соответствии с убывающим порядком старшинства гетероатомов <% order %>.
+%order: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`|_p7:n1@n(1,-100)_p7O@n(2,-60,.6)_p7_p7S@n(4,60,.6)_p7:n5@n(5,100)<_p7>_(x.5,y#n1;n5)@n(8,180)_#n1
+$>
+
+en: 2-oxa-4-thiabicyclo[3.2.1]octane (PIN)
+ru: 2-окса-4-тиабицикло[3.2.1]октан (PIN)
+
+@End
+
+#P-23.4 
+en: Homogeneous heterocyclic von Baeyer parent hydrides 
+ru: Однородные гетероциклические исходные гидриды фон Байера
+
+en: Heterocyclic von Baeyer systems composed entirely of the same heteroatom are named: 
+ru: Гетероциклические системы фон Байера, состоящие полностью из одного и того же гетероатома, называются:
+
+@List
+
+@item
+en: as described for bi- and polycyclic hydrocarbons in P-23.2 using the name of the acyclic parent hydride that has 
+the same total number of skeletal atoms; or 
+ru: как описано для би- и полициклических углеводородов в P-23.2, используя название ациклического исходного гидрида, 
+который имеет такое же общее число атомов скелета; или
+
+@item
+en:  by skeletal replacement nomenclature using the replacement (‘a’) prefixes described in  P-22.2.5, in which the 
+total number of heteroatoms is indicated by a numerical term.
+ru: по номенклатуре скелетных замен с использованием префиксов замены («a»), описанных в P-22.2.5, в которых общее 
+количество гетероатомов указывается числовым термином.
+
+@End
+
+en: In either method it is not necessary to give the location of the heteroatoms because all positions are modified by the 
+same heteroatom. For the preselected names (see P-12.2) that are used to generate PIN names for organic derivatives 
+see P-52.1.5.
+ru: В любом из методов нет необходимости указывать местоположение гетероатомов, поскольку все позиции модифицируются 
+одним и тем же гетероатомом. Для предварительно выбранных имен (см. P-12.2), которые используются для генерации имен PIN 
+для органических производных, см. P-52.1.5.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH:n1@n(1,-90)_(x1.4)SiH2@n(2,-90)_p8SiH2_p8SiH2_p8SiH2_p8SiH:n6@n(6,90)_p8H2Si@n(7,-20)_p8H2Si@n(8,20)_p8_(x.8,y#n1;n6)SiH2@n(9,180,.5)_#n6
+$>
+
+en: (a) bicyclo[4.2.1]nonasilane (preselected name; see P-12.2) <br>
+(b) nonasilabicyclo[4.2.1]nonane 
+ru: (a) бицикло[4.2.1]нонасилан (предварительно выбранное название; см. P-12.2) <br>
+(b) нонасилабицикло[4.2.1]нонан
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)$slope(60)SiH2@n(10,-90)_(x%d:2.2)SiH@n(1,-90)_(x%d)SiH@n(2,-90)_(x%d)SiH2@n(3,-90)\SiH2`/SiH2_(x-%d)SiH@n(6,90)@:b(n)</SiH2@n(&n,180,.7)`\>@(12)_(x-%d)SiH@n(7,90)@b(11)_(x-%d)SiH2@n(8,90)`\H2Si/
+$>
+
+en: (a) tricyclo[5.3.1.1^{2,6}]dodecasilane (preselected name; see P-12.2) <br>
+(b) dodecasilatricyclo[5.3.1.1^{2,6}]dodecane 
+ru: (a) трицикло[5.3.1.1^{2,6}]додекасилан (предварительно выбранное название; см. P-12.2) <br>
+(b) додекасилатрицикло[5.3.1.1^{2,6}]додекан
+
+@End
+
+#P-23.5 
+en: Heterogeneous heterocyclic von Baeyer parent hydrides composed of alternating heteroatoms 
+ru: Гетерогенные гетероциклические исходные гидриды фон Байера, состоящие из чередующихся гетероатомов
+
+#P-23.5.1+
+en: Heterogeneous von Baeyer systems composed of alternating skeletal heteroatoms may be named in two ways: 
+ru: Гетерогенные системы фон Байера, состоящие из чередующихся скелетных гетероатомов, могут быть названы двумя способами:
+
+en: (a) by citing a nondetachable prefix ‘bicyclo’, ‘tricyclo’, etc. before a von Baeyer descriptor (see  
+P-23.2.2, P-23.2.5, and P-23.2.6) enclosed in square brackets and then, successively:
+ru: (a) путем указания неотделяемой приставки «бицикло», «трицикло» и т. д. перед дескриптором фон Байера 
+(см. P-23.2.2, P-23.2.5 и P-23.2.6), заключенной в квадратные скобки, а затем последовательно:
+
+@List 1
+
+@item
+en: a multiplying prefix, ‘di’, ‘tri’, etc., denoting the number of heteroatoms that are first cited as replacement (‘a’) 
+terms; 
+ru: умножающий префикс, «ди», «три» и т. д., обозначающий число гетероатомов, которые впервые упоминаются как 
+заменяющие («а») термины;
+
+@item
+en:  the sketetal replacement (‘a’) terms denoting the heteroatoms of the system in the reverse order of the 
+recommended seniority for ‘a’ prefixes (for example, Si before O; see P-23.3.1); 
+ru: термины скелетной замены («a»), обозначающие гетероатомы системы в порядке, обратном рекомендуемому старшинству 
+для префиксов «a» (например, Si перед O; см. P-23.3.1);
+
+@item
+en: the ending ‘ane’. 
+ru: окончание «ane».
+
+@End
+
+en: Numbering is the same as for the corresponding hydrocarbon (see P-23.2.3 and P-23.2.6.3); 
+ru: Нумерация такая же, как для соответствующего углеводорода (см. P-23.2.3 и P-23.2.6.3);
+
+en: (b) by applying normal skeletal replacement (‘a’) nomenclature to the corresponding hydrocarbon.
+ru: (b) путем применения нормальной скелетной заместительной номенклатуры («а») к соответствующему углеводороду.
+
+en: For the preselected names (see P-12.2) that are used to generate PIN names for organic derivatives see P-52.1.6.2. 
+ru: Для предварительно выбранных имен (см. P-12.2), которые используются для генерации имен PIN для органических производных, см. P-52.1.6.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H@n(1,-90)_(y.5)Si--O@n(2,-60)\SiH2@n(3,180)`/O@n(4,60)`--Si<_(y.5)H@n(5,90)>`--O@n(6,120)`\H2Si@n(7,0,.5)/O@n(8,-120)--`/O@n(9,0,.5)\
+$>
+
+en: (a) bicyclo[3.3.1]tetrasiloxane (preselected name; see P-12.2)  <br>
+(b) 2,4,6,8,9-pentaoxa-1,3,5,7-tetrasilabicyclo[3.3.1]nonane 
+ru: (a) бицикло[3.3.1]тетрасилоксан (предварительно выбранное название; см. P-12.2) <br>
+(b) 2,4,6,8,9-пентаокса-1,3,5,7-тетрасилабицикло[3.3.1]нонан
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)S@n(2,-90)_(A22.5)SiH:n1@n(1,-90)_p8S:c@n(8,0,.5)_p8SiH@n(7,90)<_(x-%d:.8,y#c)S@n(9,0,.4)_#n1>_p8S@n(6,90)_p8HSi:n5@n(5,90)_p8S@n(4,180,.5)_p8HSi@n(3,-90)<_p8>_(x%d,y#c)S@n(10,180)_#n5
+$>
+
+en: (a) tricyclo[5.1.1.1^{3,5}]tetrasilathiane (preselected name; see P-12.2)  <br>
+(b) 2,4,6,8,9,10-hexathia-1,3,5,7-tetrasilatricyclo[5.1.1.1^{3,5}]decane 
+ru: (a) трицикло[5.1.1.1^{3,5}]тетрасилатиан (предварительно выбранное название; см. P-12.2) <br>
+(b) 2,4,6,8,9,10-гексатия-1,3,5,7-тетрасилатрицикло[5.1.1.1^{3,5}]декан
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(2)HSi@n(7,-90)/O@n(10,-90)\SiH@n(3,-90)|O@n(4,60)`/Si<_(y.5)H@n(5,90)>`\O@n(6,120)`|$L(1)\O@n(8,120)\Si<_(y-.5)H>@n(1,30,.5)<|O@n(9,-150,.5)|>/O@n(2,60)/
+$>
+
+en: (a) tricyclo[3.3.1.1^{3,7}]tetrasiloxane (preselected name; see P-12.2)  <br>
+(b) 2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.1^{3,7}]decane 
+ru: (a) трицикло[3.3.1.1^{3,7}]тетрасилоксан (предварительно выбранное название; см. P-12.2) <br>
+(b) 2,4,6,8,9,10-гексаокса-1,3,5,7-тетрасилатрицикло[3.3.1.1^{3,7}]декан
+
+@End
+
+#P-23.5.2+
+en: The prefixes ‘_Si_-’ or ‘_N_-’ preceded by the italic number ‘1’ are used when necessary to specify the atom at the 
+bridgehead that is to have the locant ‘1’. Names are identified as (a) and (b) according to the two methods described in 
+P-23.5.1.
+ru: Префиксы ‘_Si_-’ или ‘_N_-’, которым предшествует курсивная цифра ‘1’, используются, когда необходимо указать атом 
+в предмостье, который должен иметь локант ‘1’. Имена идентифицируются как (a) и (b) в соответствии с двумя методами, 
+описанными в P-23.5.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)$slope(60)H2Si@n(8,-90)_(x%d:2.2)N@n(1,-90)_(x%d)SiH:n2@n(2,-90)\NH:c@n(3,180,.45)`/SiH@n(4,90)<_(x-%a:1.2,y#c)HN@n(10)_#n2>_(x-%d)N@n(6,90)<`\H2Si@n(8,0,.5)/>_(x-%d)H2Si@n(6,90)`\HN@n(7,0,.5)/
+$>
+
+en: (a) _1N_-tricyclo[3.3.1.1^{2,4}]pentasilazane (preselected name; see P-12.2)  <br>
+(b) 1,3,5,7,10-pentaaza-2,4,6,8,9-pentasilatricyclo[3.3.1.1^{2,4}]decane 
+ru: (a) _1N_-трицикло[3.3.1.1^{2,4}]пентасилазан (заранее выбранное название; см. P-12.2) <br>
+(b) 1,3,5,7,10-пентааза-2,4,6,8,9-пентасилатрицикло[3.3.1.1^{2,4}]декан
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)$slope(60)HN@n(8,-90)`/H2Si:c@n(7,0)\HN_(x%x:2.2)Si<_(y.5)H@n(5,90)>_(x%x)N:n4@n(4,90)_(x%d:1,y#c)SiH2@n(3,-90)_(x-%d,y#1)N@n(2,-90)<_(x-%d,y#c)H2Si@n(10,0,.7)_#n4>_(x-%x)Si<_(y-.5)H@n(1,-90)><_(x-%x)>`/HN@n(9,100)\
+$>
+
+en: (a) _1Si_-tricyclo[3.3.1.1^{2,4}]pentasilazane (preselected name; see P-12.2)  <br>
+(b) 2,4,6,8,9-pentaaza-1,3,5,7,10-pentasilatricyclo[3.3.1.1^{2,4}]decane 
+ru: (a) _1Si_-трицикло[3.3.1.1^{2,4}]пентасилазан (заранее выбранное название; см. P-12.2) <br>
+(b) 2,4,6,8,9-пентааза-1,3,5,7,10-пентасилатрицикло[3.3.1.1^{2,4}]декан
+
+@End
+
+#P-23.5.3 
+en: Silasesquioxanes, silasesquithianes, etc. 
+ru: Силасесквиоксаны, силасесквитианы и т.д.
+
+en: Compounds in which each silicon atom is linked to three oxygen atoms and in which every atom of oxygen is linked to 
+two silicon atoms are named generically silasesquioxanes. Similarly, when the oxygen atoms are replaced by S, Se, Te, 
+or N atoms, the compounds are generically called silasesquithianes, silasesquiazanes, and so forth. They are named by 
+the method described in P-23.5.1 (a). Silasesquioxanes have the general formula <%f1%>. The names 
+tetrasilasesquioxanes (n = 2), hexasilasesquioxanes (n = 3), etc., are class names indicating <%f2%> where E = O; and 
+similarly when E = S, Se, Te, or N. Silasesquiazanes have the general formula <%f3%>. 
+ru: Соединения, в которых каждый атом кремния связан с тремя атомами кислорода и в которых каждый атом кислорода связан 
+с двумя атомами кремния, называются в общем силасесквиоксанами. Аналогично, когда атомы кислорода заменяются атомами 
+S, Se, Te или N, соединения называются в общем силасесквитианами, силасесквиазанами и т. д. Они называются по методу, 
+описанному в P-23.5.1 (a). Силасесквиоксаны имеют общую формулу <%f1%>. Названия тетрасиласесквиоксаны (n = 2), 
+гексасалисасесквиоксаны (n = 3) и т. д. являются названиями классов, указывающими <%f2%>, где E = O; и аналогично, 
+когда E = S, Se, Te или N. Силасесквиазаны имеют общую формулу <%f3%>.
+%f1: <$ Si'2n'H'2n'O'3n' $>
+%f2: <$ Si'2n'H'2n'{E}'3n' $>
+%f3: <$ Si'2n'H'5n'N'3n' $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)HSi@n(1,-100)\O@n(2,-50)|HSi@n(3,-50)<|O@n(14,50)`/HSi:n11@n(11,100)>--O:c@n(4,-90)--SiH@n(5,-130)<`|O@n(6,-140)/SiH:n7@n(7,-90)>|O@n(15,130)\SiH:n9@n(9,80);
+#1_(y-%d:.8,x#c)O@n(13,-90)_#n7_(x%d,y#c)O@n(8,0)_#n9_(x#c,y%d)O@n(10,90)_#n11_(x-%d,y#c)O@n(12,180)_#1
+$>
+
+en: tetracyclo[5.5.1.1^{3,11}.1^{5,9}]hexasiloxane (a hexasilasesquioxane) <br>
+(preselected name; see P-12.2)  <br>
+2,4,6,8,10,12,13,14,15-nonaoxa-1,3,5,7,9,11-hexasilatetracyclo[5.5.1.1^{3,11}.1^{5,9}]pentadecane 
+ru: тетрацикло[5.5.1.1^{3,11}.1^{5,9}]гексасилоксан (гексасиласесквиоксан) <br>
+(предварительно выбранное название; см. P-12.2) <br>
+2,4,6,8,10,12,13,14,15-нонаокса-1,3,5,7,9,11-гексасилатетрацикло[5.5.1.1^{3,11}.1^{5,9}]пентадекан
+
+@End
+
+
+#P-23.6 
+en: Heterocyclic polyalicyclic parent hydrides having heteroatoms with nonstandard bonding numbers
+ru: Гетероциклические полиалициклические исходные гидриды, имеющие гетероатомы с нестандартными числами связей
+
+#P-23.6.1+
+en: The λ-convention, characterized by the symbol λ^{_n_}, where ‘_n_’ is the bonding number of the heteroatom, is used 
+to identify heteroatoms with nonstandard bonding numbers (see P-14.1). The symbol is placed before the appropriate 
+‘a’ prefix. 
+ru: λ-конвенция, характеризуемая символом λ^{_n_}, где ‘_n_’ — число связей гетероатома, используется для идентификации 
+гетероатомов с нестандартными числами связей (см. P-14.1). Символ помещается перед соответствующим префиксом ‘a’.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|_p7:n1@n(1,-90)_p7@n(2,-70)_p7SH2@n(3,180)_p7_p7<_p7>_(x.5,y#-1;n1)_#n1
+$>
+
+en: 3λ^{4}-thiabicyclo[3.2.1]octane (PIN) 
+ru: 3λ^{4}-тиабицикло[3.2.1]октан (PIN)
+
+@End
+
+#P-23.6.2+
+en: When there is a choice for numbering, low locants are assigned to heteroatoms with nonstandard bonding 
+numbers expressed by the λ^{_n_} symbol in order of decreasing numerical value of the bonding number; for example, in the 
+case of arsenic, the lower locant is given to a λ^{5} arsenic atom. 
+ru: При наличии выбора нумерации нижние локанты присваиваются гетероатомам с нестандартными числами связей, 
+выраженными символом λ^{_n_}, в порядке убывания числового значения связевого числа; например, в случае мышьяка 
+меньший локант присваивается атому мышьяка λ^{5}.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`/|\_(x.5,y#-1;1)_#1@n(1,-90,.4)\AsH3@n(2,-90)|AsH@n(3)@n(3,90)`/
+$>
+
+en: 2λ^{5},3-diarsabicyclo[2.2.1]heptane (PIN) 
+ru: 2λ^{5},3-диарсабицикло[2.2.1]гептан (PIN)
+
+@End
+
+
+#P-23.7 
+en: Retained names for von Baeyer parent hydrides
+ru: Сохраненные названия исходных гидридов фон Байера
+
+en: The retained names adamantane and cubane are used in general nomenclature and as preferred IUPAC names. The 
+name quinuclidine is retained for general nomenclature only (see Table 2.6). The name prismane is no longer 
+recommended. 
+ru: Сохраненные названия адамантан и кубан используются в общей номенклатуре и в качестве предпочтительных названий ИЮПАК. 
+Название хинуклидин сохранено только для общей номенклатуры (см. Таблицу 2.6). 
+Название призман больше не рекомендуется.
+
+@Table 2.6 
+en: Retained names for von Baeyer parent hydrides
+ru: Сохраненные названия исходных гидридов фон Байера
+
+@td;
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.6)$slope(%a:20)$color(gray)@n(7,-160)\$L(%s:1.4)@n(10,-90,.5)/:n3@n(3,0)$color()`|@n(2,-60)$L(%L)`\:n1@n(1,-90)$L(%s)`/@n(8,-120)|_(A120)@n(6,150)/@n(5,90)<`|@n(9,30)_#n1>$L(%L)\@n(4,30)_#n3
+$>
+
+en: adamantane (PIN)  <br>
+tricyclo[3.3.1.13,7]decane
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)$slope(20)$L(%s:1.5)@n(3,150)/@n(4,-140,.5)$L(%L:1.8)<`|>\@n(5,30)$color()$L(%s)`/@n(2,90)$L(%L)`\`|$L(%s)@n(8,-150)/@n(7,-100)$L(%L)\@n(6,-30)<|>$L(%s)`/@n(1,50)$L(%L)<|>`\
+$>
+
+en: cubane (PIN)  <br>
+pentacyclo[4.2.0.02,5.03,8.04,7]octane 
+ru: кубан (PIN) <br>
+пентацикло[4.2.0.02,5.03,8.04,7]октан
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)N@n(1,-90,.6)\@n(2,-30)|`/@n(4,90)<_(A-120):n8>`\@n(5,150)`|/_(A60)@n(7,-160,.6)_#8@n(8,20,.6)
+$>
+
+en: quinuclidine  <br>
+1-azabicyclo[2.2.2]octane (PIN)
+ru: хинуклидин <br>
+1-азабицикло[2.2.2]октан (PIN)
+// http://charchem.org/ru/subst-ref/?id=6723
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)@n(5,150)\@n(4,60)_(A-45,L%L:1.6)@n(3,30)$color(gray)_#1$color()`|:n6@n(6,-150)\@n(1,-90,.5)<|>_(A-45,L%L)@n(2,-30)<|>_#n6
+$>
+
+en: tetracyclo[2.2.0.0^{2,6}.0^{3,5}]hexane (PIN)  <br>
+(not prismane) 
+ru: тетрацикло[2.2.0.0^{2,6}.0^{3,5}]гексан (PIN) <br>
+(не призман)
+
+@EndTable
+
