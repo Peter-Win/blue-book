@@ -5,6 +5,7 @@ const createDocument = () => {
     blocks: [],
     headersMap: {}, // headerId => block
     shortHeadersMap: {},
+    formulasCount: 0,
   }
 }
 

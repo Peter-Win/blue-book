@@ -339,10 +339,10 @@ const onLocalParagraph = (type, reader) => {
     params: {},
   }
   Object.entries(locDict).forEach(([key, val]) => {
-    res.loc[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1));
+    res.loc[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1), reader.ctx.doc);
   })
   Object.entries(params).forEach(([key, val]) => {
-    res.params[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1));
+    res.params[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1), reader.ctx.doc);
   });
   return res;
 }
@@ -418,7 +418,7 @@ const replaceSingle = (chunks, pos, pattern, result) => {
   return false;
 }
 
-const makeChunksFromLine = (line, onError) => {
+const makeChunksFromLine = (line, onError, doc) => {
   const chunks = [{
     type: "text",
     content: line,
@@ -428,7 +428,10 @@ const makeChunksFromLine = (line, onError) => {
   while (i < chunks.length) {
     const chunk = chunks[i];
     if (chunk.type === "text") {
-      if (onPair(chunks, i, "<$", "$>", "formula")) continue;
+      if (onPair(chunks, i, "<$", "$>", "formula")) {
+        doc.formulasCount++;
+        continue;
+      }
       if (onPair(chunks, i, "<%", "%>", (name) => ({
         type: "param",
         content: name,

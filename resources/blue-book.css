@@ -138,3 +138,7 @@ a.wrong-part {
 .empty-column {
   min-width: 4rem;
 }
+
+.bottom-space {
+  margin-bottom: 1rem;
+}

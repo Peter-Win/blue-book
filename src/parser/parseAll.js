@@ -13,6 +13,8 @@ const parseAll = async (mainFolder, doc) => {
 
   // Create links to headers
   linkBlocks(doc.blocks, doc);
+
+  console.log("Formulas count: ", doc.formulasCount)
 }
 
 const linkBlocks = (blocks, doc) => {
@@ -53,9 +55,12 @@ const linkChunks = (chunks, doc) => {
       const {content} = chunk;
       const res = rxPartReference.exec(content);
       if (res) {
-        const hdrId = res[0];
-        const left = content.slice(0, res.index);
-        const right = content.slice(res.index + hdrId.length);
+        let hdrId = res[0];
+        // Таки сложности потому что кроме конструкций P-xxx есть SP-xxx, которые не являются ссылками
+        const ofs = hdrId.indexOf("P");
+        hdrId = hdrId.slice(ofs);
+        const left = content.slice(0, res.index+ofs);
+        const right = content.slice(res.index + ofs + hdrId.length);
         chunks.splice(i-1, 1, {
           type: "text",
           content: left,
