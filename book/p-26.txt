@@ -1,7 +1,3 @@
-#P-25 
-en: Fused and bridged fused ring systems 
-ru: Системы конденсированных и мостиковых конденсированных колец
-
 #P-26 
 en: Phane nomenclature 
 ru: Номенклатура Phane

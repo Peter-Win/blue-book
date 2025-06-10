@@ -12,7 +12,7 @@ const { drawTag } = require("charchem2/dist/utils/xml/drawTag");
  */
 const buildBlock = (block, locale, ctx) => {
   const {headerId, refId, inline, loc, params} = block.header;
-  const text = buildChunks(loc[locale], params, ctx);
+  const text = buildChunks(loc[locale] ?? loc.en, params, ctx);
   const parts = splitHeaderId(headerId);
   const level = Math.min(parts.length, 6);
   const tag = inline ? "p" : `h${level}`;

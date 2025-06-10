@@ -5,6 +5,8 @@ const buildList = (part, locale, ctx, buildPart) => {
   let cssType = "lower-latin";
   if (part.nums === "1") {
     cssType = "decimal";
+  } else if (part.nums === "*") {
+    cssType = "disc";
   }
   const style = `list-style: ${cssType};`;
   let res = drawTag("ul", {style}) + `\n`;

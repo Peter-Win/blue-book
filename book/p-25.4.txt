@@ -1,0 +1,19 @@
+#P-25.4
+en: Bridged fused ring systems 
+ru: Системы мостиковых конденсированных колец
+
+#P-25.5
+en: Limitations of fusion nomenclature: three components ortho- and peri-fused together 
+ru: Ограничения номенклатуры слияния: три компонента орто- и пери-слиты вместе
+
+#P-25.6
+en: Fused ring systems with skeletal atoms with nonstandard bonding numbers 
+ru: Конденсированные кольцевые системы со скелетными атомами с нестандартными числами связей
+
+#P-25.7
+en: Double bonds, indicated hydrogen, and the δ-convention 
+ru: Двойные связи, обозначенные водородом, и δ-конвенция
+
+#P-25.8
+en: Parent components in decreasing order of seniority (partial lists) 
+ru: Родительские компоненты в порядке убывания старшинства (частичные списки)

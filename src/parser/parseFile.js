@@ -84,11 +84,9 @@ const onTopLevelCmd = (reader) => {
     parseFig(reader, resFig[1]);
     return;
   }
-  if (/^@p(\s|$)/.test(curLine)) {
-    const part = onLocalParagraph("p", reader);
+  if (isParagraph(curLine)) {
+    const part = onParagraph(reader, curLine);
     addPartToDocument(reader.ctx.doc, part);
-    const clsRes = /\s\.([-a-z\d]+)(\s|$)/.exec(curLine);
-    if (clsRes) part.cls = clsRes[1];
     return;
   }
   if (/^@Content/.test(curLine)) {
@@ -113,6 +111,14 @@ const onTopLevelCmd = (reader) => {
   const part = onLocalParagraph("div", reader);
   addPartToDocument(reader.ctx.doc, part);
   // reader.error("Unrecognized construction", 0);
+}
+
+const isParagraph = (curLine) => /^@p(\s|$)/.test(curLine);
+const onParagraph = (reader, curLine) => {
+    const part = onLocalParagraph("p", reader);
+    const clsRes = /\s\.([-a-z\d]+)(\s|$)/.exec(curLine);
+    if (clsRes) part.cls = clsRes[1];
+    return part;
 }
 
 const onShortHeader = (reader) => {
@@ -230,6 +236,7 @@ const parseList = (reader) => {
       part.items.push(curItem);
       continue;
     }
+    reader.goPrevLine();
     const itemPart = onLocalParagraph("p", reader);
     curItem.push(itemPart);
   }
@@ -276,9 +283,15 @@ const parseExamples = (reader) => {
     if (htmlPart) {
       curCell.p.push(htmlPart);
       continue;
-    }  
-    if (!cellBegin) reader.goPrevLine();
-    const cellItem = onLocalParagraph("p", reader);
+    } 
+    const firstLine = cellBegin ? reader.readLine() : line;
+    let cellItem;
+    if (isParagraph(firstLine)) {
+      cellItem = onParagraph(reader, firstLine);
+    } else {
+      reader.goPrevLine();
+      cellItem = onLocalParagraph("p", reader);
+    }
     curCell.p.push(cellItem);
     cellBegin = false;
   }

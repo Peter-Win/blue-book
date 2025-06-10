@@ -1,0 +1,1552 @@
+#P-25 
+en: Fused and bridged fused ring systems 
+ru: Системы конденсированных и мостиковых конденсированных колец
+
+@Content
+
+#P-25.0
+en: Introduction 
+ru: Введение
+
+en: This section is based on the document entitled ‘Nomenclature of Fused and Bridged Fused Ring Systems, IUPAC 
+Recommendations 1998’ (ref. 4). 
+ru: Этот раздел основан на документе под названием «Номенклатура конденсированных и мостиковых конденсированных 
+кольцевых систем, Рекомендации ИЮПАК 1998 г.» (ссылка 4).
+
+en: In nomenclature, fusion is the operation that creates a common bond between two rings, each ring contributing one 
+bond and the two atoms directly attached to the bond. This type of fusion is called _ortho_- or _ortho_- and _peri_-fusion if 
+two adjacent bonds are involved. Atoms common to two or more rings are termed ‘fusion’ atoms. The term fusion is 
+also used to describe the operation creating a common atom between two rings or ring systems, each contributing one 
+atom. This type of fusion is called spirofusion (see P-24.1). Traditionally, _ortho_- and _ortho_- and _peri_-fusion were 
+simply called fusion and the resulting polycyclic systems were referred to as fused ring systems or fused ring 
+compounds. The term ‘spirofusion’ is new in nomenclature, and to avoid ambiguity ‘fusion’ should not be used without 
+the prefix ‘spiro’ when ‘spirofusion’ is intended. 
+ru: В номенклатуре слияние — это операция, которая создает общую связь между двумя кольцами, каждое кольцо вносит свой 
+вклад в одну связь, а два атома непосредственно присоединены к связи. Этот тип слияния называется _орто_- или 
+_орто_- и _пери_-слиянием, если задействованы две соседние связи. Атомы, общие для двух или более колец, называются 
+атомами «слияния». Термин «слияние» также используется для описания операции создания общего атома между двумя кольцами 
+или кольцевыми системами, каждое из которых вносит свой вклад в один атом. Этот тип слияния называется спирослиянием 
+(см. P-24.1). Традиционно _орто_- и _орто_- и _пери_-слияние назывались просто слиянием, а полученные полициклические 
+системы назывались системами с конденсированными кольцами или соединениями с конденсированными кольцами. Термин 
+«спирослияние» является новым в номенклатуре, и во избежание двусмысленности «слияние» не следует использовать без 
+префикса «спиро», когда подразумевается «спирослияние».
+
+@Examples 5 --
+
+@cell
+<$ CH|CH`//`\`||/\\ $>
+
+@cell
++
+
+@cell
+<$ HC||HC\//`|`\\`/ $>
+
+@cell
+-->
+
+@cell
+<$ C|C`//`\`||/\\/\\|`//`\ $>
+
+@cell
+en: benzene (PIN)
+ru: бензол (PIN)
+
+@cell
+
+@cell
+en: benzene (PIN)
+ru: бензол (PIN)
+
+@cell
+
+@cell
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell colspan=5
+en: **Explanation**: Naphthalene results from the fusion (_ortho_-fusion) of two benzene rings (one bond and two atoms in 
+common). 
+ru: **Пояснение**: Нафталин получается в результате слияния (_орто_-слияния) двух бензольных колец 
+(одна связь и два общих атома).
+
+@cell
+<$ C`-`\\/=\CH`//\CH`//`-`\\/ $>
+
+@cell
++
+
+@cell
+<$ HC=\`//`-HC`\\HC/ $>
+
+@cell
+-->
+
+@cell
+<$ C`/C\C`//`-`\\/-`-`\//-\\-\\`/CH2`- $>
+
+@cell
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+
+@cell
+en: benzene (PIN)
+ru: бензол (PIN)
+
+@cell
+
+@cell
+en: 1_H_-phenalene (PIN) 
+ru: 1_H_-фенален (PIN)
+
+@cell colspan=5
+en: **Explanation**: 1_H_-Phenalene results from the _ortho_- and _peri_-fusion of a naphthalene ring system and a benzene ring 
+(two bonds and three atoms in common). 
+ru: **Пояснение**: 1_H_-Фенален получается в результате _орто_- и _пери_-слияния кольцевой системы нафталина и бензольного 
+кольца (две связи и три общих атома).
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq_qCH2@n(1,110)_q
+$>
+
+@cell
++
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_pH2C@n(1,-70)_p_pp_p//\||`/`\\
+$>
+
+@cell
+-->
+
+@cell
+<$
+`//`\`||/\\|_q_qq_q<_q>_(a0)_pp_p|<_p>\\/`||`\`//
+$>
+
+@cell
+en: 1_H_-indene (PIN)
+ru: 1_H_-инден (PIN)
+
+@cell
+
+@cell
+en: 1_H_-indene (PIN) 
+ru: 1_H_-инден (PIN)
+
+@cell
+
+@cell
+en: 1,1′-spirobi[indene] (PIN) 
+ru: 1,1'-спироби[инден] (ПИН)
+
+@cell colspan=5
+en: **Explanation**: Spirobi[indene] results from the spirofusion of two indene ring systems (one atom in common) 
+ru: **Пояснение**: Спироби[инден] получается в результате спирослияния двух инденовых кольцевых систем (один общий атом)
+
+@End
+
+en: This section deals with fused (_ortho_- and _ortho_- and _peri_-fused) ring systems and bridged fused (_ortho_- and _ortho_- and 
+_peri_-fused) ring systems. Spirofusion is described in Section P-24. This section is intended only as an introduction to 
+the vast field of fusion nomenclature discussed in the document entitled ‘Nomenclature of Fused and Bridged Fused 
+Ring Systems’ (ref. 4). The principles presented herein use rather simple examples; for more complex ring systems the 
+publication noted above or the ‘Ring Systems Handbook’, published by the Chemical Abstracts Service (ref. 22), 
+should be consulted. Changes from previous rules are highlighted. 
+ru: В этом разделе рассматриваются конденсированные (_орто_- и _орто_- и _пери_-конденсированные) кольцевые системы и 
+мостиковые конденсированные (_орто_ и _орто_- и _пери_-конденсированные) кольцевые системы. Спирослияние описано в 
+разделе P-24. Этот раздел предназначен только как введение в обширную область номенклатуры слияния, обсуждаемую в документе 
+под названием «Номенклатура конденсированных и мостиковых конденсированных кольцевых систем» (ссылка 4). Принципы, 
+представленные здесь, используют довольно простые примеры; для более сложных кольцевых систем следует обратиться к 
+публикации, указанной выше, или к «Справочнику по кольцевым системам», опубликованному Chemical Abstracts Service 
+(ссылка 22). Изменения по сравнению с предыдущими правилами выделены.
+
+#P-25.1
+en: Names of hydrocarbon parent ring components 
+ru: Названия компонентов углеводородного родительского кольца
+
+@Content
+
+#P-25.1.1
+en: Retained names for hydrocarbons used for parent ring components and as attached ring components 
+ru: Сохраненные названия углеводородов, используемых для компонентов исходного кольца и в качестве присоединенных компонентов кольца
+
+en: Retained names (also called trivial names) for polycyclic hydrocarbons are listed in Table 2.7, in decreasing order of 
+seniority for being chosen as parent components in fusion nomenclature. Their numbering is indicated as the result of 
+the application of the specific criteria used to number fused ring systems described in Section P-25.3.3. 
+ru: Сохраненные названия (также называемые тривиальными названиями) для полициклических углеводородов перечислены в 
+Таблице 2.7 в порядке убывания старшинства для выбора в качестве родительских компонентов в номенклатуре слияния. 
+Их нумерация указана как результат применения конкретных критериев, используемых для нумерации конденсированных 
+кольцевых систем, описанных в Разделе P-25.3.3.
+
+@Table 2.7 
+en: Retained names for hydrocarbon parent ring components in descending order of seniority 
+ru: Сохраненные названия компонентов углеводородного исходного кольца в порядке убывания старшинства
+
+en: (the senority order is indicated by the number preceding the name;
+the lower the number the higher the senority) 
+ru: (порядок старшинства обозначается числом, предшествующим имени;
+чем меньше число, тем выше старшинство)
+
+@td;
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)/@n(1,-90)\\@n(2,-30)|@n(2a,-30,.5)\\@n(3,-30)|@n(4,30)`//@n(4a,30,.5)|@n(5,30)`//@n(6,90)`\@n(6a,90,.5)`|@n(6a^1,20,.6)//l<\>@n(4a^1,-20,.6)`|@n(2a^1,20,.6)</>`\\l@n(14a^1,-20,.7)`|@n(14a,-90,.6)`\\@n(14,-90)`/@n(13a,-90,.6)|@n(13a^1,-20,.8)\\r</>@n(13a^2,20,.7)|@n(6a^2,-20,.6)<\>`//r@n(7a^1,30,.7)|<\@n(7,90)//>@n(7a,90,.6)`//@n(8,90)`\@n(9,150)`||/@n(9a^1,100,.7)<\>`||r</>@n(11a^1,-90,.6)`\@n(11a,-150,.7)<`/@n(11,-150,.5)||@n(10,150,.5)\@n(9a,150,.5)>`||@n(12,-150,.5)/@n(13,-90)\\
+$>
+
+en: (1) ovalene (PIN)
+ru: (1) овале́н (PIN)
+// http://charchem.org/ru/subst-ref/?id=406
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)`\\@n(12,-90)`/@n(11,-150,.5)||@n(10,150,.5)\@n(9,90)//`|@n(12a,-90,.5)/@n(12b,-150,.8)\@n(7a',150,.6)|<`//@n(8,90)`\@n(8a,90,.5)>@n(7a,90,.6)\@n(7,90)//@n(6,30)`|@n(5a,30,.6)`\@n(5a',-30,.6)`/c/`|@n(13a',160,.8)`\<`/@n(13,-150,.5)||>@n(13a,-150,.7)`||@n(14,-150,.5)/@n(15,-90)\\@n(15a,-90,.6)/@n(16,-90)\\@n(16a,-90,.6)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\<`|>@n(4a,90,.5)`//@n(4b,30,.5)<|@n(5,30)`//>`\@n(4b',-30,.7)`/rc/`|
+$>
+
+en: (2) pyranthrene (PIN)
+ru: (2) пирантрен (PIN)
+// http://charchem.org/ru/subst-ref/?id=6724
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)/@n(1,-90)\\@n(2,-30)|@n(2a,-30,.5)\\@n(3,-30)|@n(4,30)`//@n(4a,30,.5)|@n(5,30)`//@n(6,90)`\@n(6a,90,.6)`//@n(7,90)`\@n(8,150)`||@n(8a,150,.6)`\@n(9,150)`||@n(10,-150,.5)/@n(10a,-150,.8)`||@n(11,-150,.5)/@n(12,-90)\\@n(12a,-90,.6)|@n(12a^1,-30,.8)\\r</>@n(2a^1,20,.7)|@n(4a^1,-20,.7)<\>`//r@n(6a^1,20,.7)<|>`\<`/>@n(8a^1,-165,.55)`||r<`\>@n(10a^1,150,.9)/
+$>
+
+en: (3) coronene (PIN) 
+ru: (3) коронен (PIN)
+// http://charchem.org/ru/subst-ref/?id=256
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)`\\@n(1,180)/@n(2,-120)=@n(3,-60)\@n(3a,-60,.5)`/r@n(3a^1,0,.7)\_(a-%a:81.4707)`|r$slope(30)/@n(4,-90)\\@n(5,-30)|@n(6,30)`//@n(7,90)`\@n(7a,80,.5)`|@n(3b,-90,.5)_(a-%b:68.5292)$slope(60)`/`-@n(14c,-170,.8)`/@n(14b,-130,.7)\@n(7c^1,170,.66)`/_(a%a)`|l$slope(30)`\@n(14,-90)`//@n(13,-150,.5)|@n(12,159,.5)\\@n(11,90)/@n(10b,90,.5)`|@n(14a,-90,.5)_(a%b)$slope(60)\-/@n(7b,40,.5)`/@n(7c,0,.5)\@n(8,0)`//@n(9,60)`-@n(10,120)`\\@n(10a,120,.7)
+$>
+
+en: (4) rubicene (PIN) 
+ru: (4) рубицен (PIN)
+// http://charchem.org/ru/subst-ref/?id=6725
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`||@n(3,-30)`\@n(2,-90)`//@n(1,-150)|\l`\@n(12b,-140,.8)`/@n(12a,-90,.5)`\\@n(12,-90)`/@n(11,-150,.5)||@n(10,150,.5)\@n(9a,150,.5)||@n(9,150)\@n(8,90)//@n(7,30)`|`\l<`|><`/>@n(6b^1,-25,.7)\@n(6b,40,.55)/`|@n(3a^1,20,.7)/@n(3a,-30,.6)\@n(4,-30)||@n(5,30)`/@n(6,90)`\\@n(6a,80,.5)
+$>
+
+en: (5) perylene (PIN)
+ru: (5) перилен (PIN)
+// http://charchem.org/ru/subst-ref/?id=6726
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`\\@n(12,-90)`/@n(11,-150,.5)||@n(10,150,.5)\@n(9,90)//`|@n(12a,-90,.5)/@n(12b,-145,.8)\/\@n(6,90)//@n(5,30)`|/@n(4,30)`||@n(3,-30)`\@n(2,-90)`//@n(1,-150)|\@n(4a,30,.5)`\@n(14b,-145,.8)`/|@n(6a,90)`|@n(14a,-90,.5)`\@n(14,-90)`//@n(13,-150,.5)|\@n(6b,30,.5)|@n(7,30)`//@n(8,90)`\@n(8a,90,.5)
+$>
+
+en: (6) picene (PIN)
+ru: (6) пицен	(PIN)
+// http://charchem.org/ru/subst-ref/?id=6727
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`/@n(8,90)`\\@n(9,150)`|@n(10,-150,.5)//@n(11,-90)\|@n(7a,90,.5)_qq7@n(7,90)_q7:a_q7:b_qq7r:c_q7@n(12,-100)_qq7@n(11a,-100,.6);
+#b@n(3a^1,55,.7)-@n(3a,0,.6)<\@n(4,0)`//@n(5,60)`-@n(6,120)`\\#a@n(6a,120,.6)>//@n(3)`\@n(2,-60)`=@n(1,-120)`/#c@n(12a,-130,.6)
+$>
+
+en: (7) pleiadene (PIN) 
+// русский вариант не найден. Наиболее вероятно - Плеяден. 
+// http://charchem.org/ru/subst-ref/?id=6728
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|`//@n(7,90)`\@n(8,150)`||@n(9,-150)/@n(10,-90)\\@n(10a,-90,.5)/\l`\@n(10b,-140,.7)`|@n(11,-150,.5)//@n(12,-90)\@n(12a,-90,.6)|r`|/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(4a,90)`/@n(4b,30,.5)|@n(5,30)`//@n(6,90)`\@n(6a,90,.5)
+$>
+
+en: (8) chrysene (PIN) 
+ru: (8) хризен (PIN)
+// http://charchem.org/ru/subst-ref/?id=4416
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|\l`\@n(3a^1,-150,.65)`/`\l\@n(5a^1,20,.6)|@n(5a,90,.5)`//@n(6,90)`\@n(7,160)`||@n(8,-150)/@n(8a,-150,.6)`|@n(9,-150)//@n(10,-90)\@n(10a,-90,.6)//@n(1,-90)\@n(2,-30)||@n(3,30)`/@n(3a,30,.6)|@n(4,30)`//@n(5,90)`\
+$>
+
+en: (9) pyrene (PIN) 
+ru: (9) пирен	(PIN)
+// http://charchem.org/ru/subst-ref/?id=251
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(7,90)`\\@n(8,150)`|@n(9,-150)//@n(10,-90)\||@n(6b,90,.5)_(a-68.5292)_(a%a:-81.4707)@n(3a^1,60,.6)_qq6r@n(10b,-130,.6)<_(a%a)@n(10a,-90,.5)>/@n(1,-120)=@n(2,-60)\@n(3,0)`//<`->@n(3a,0,.6)\@n(4,0)`//@n(5,60)`-@n(6,120)`\\@n(6a,120,.5)
+$>
+
+en: (10) fluoranthene (PIN)  
+ru: (10) флуорантен (PIN)
+// http://charchem.org/ru/subst-ref/?id=6729
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(4a,90,.5)`//@n(10,90)`\@n(10a,90,.6)`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\<|>@n(8a,-90,.5)/@n(9,-90)\\<|>@n(9a,-90,.5)
+$>
+
+en: (11) anthracene (PIN)  <br>
+(special numbering)
+ru: (11) антрацен (PIN) <br>
+(специальная нумерация)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//@n(8,90)`\@n(7,150)`||@n(6,-150)/@n(5,-90)\\@n(4b,-90,.5)/@n(4a,-140,.5)`|@n(4,-150)//@n(3,-90)\@n(2,-30)||@n(1,30)`/`\r\@n(10a,30,.7)|@n(10,30)`//@n(9,90)`\@n(8a,90,.5)
+$>
+
+en: (12) phenanthrene (PIN)  <br>
+(special numbering) 
+ru: (12) фенантрен (PIN) <br>
+(специальная нумерация)
+// http://charchem.org/ru/subst-ref/?id=798
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|`\`|@n(1,-150)/@n(2,-90)\\@n(3)|@n(3a,-30,.5)\\@n(4,-30)|@n(5,30)`//@n(6,90)`\@n(6a,90,.5)`//@n(7,90)`\@n(8,150)`||@n(9,-150)/@n(9a,-150,.6)\@n(3a^1,25,.6)/
+$>
+
+en: (13) phenalene  <br>
+(1_H_-isomer shown; the PIN is 1_H_-phenalene)
+ru: (13) фенален <br>
+(показан 1_H_-изомер; PIN — 1_H_-фенален)
+// http://charchem.org/ru/subst-ref/?id=716
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_qqr<_p6@n(1,-90)_pp6@n(2,-20)_p6@n(3,60)_pp6@n(4,110)_p6@n(4a,100,.5)>@n(9a,-60,.5)_q@n(9,-90)_q_qqr@n(4b,80,.5)_p6@n(5,50)_pp6@n(6,120)_p6@n(7,-160)_pp6@n(8,-90)_p6@n(8a,-120,.5)
+$>
+
+en: (14) fluorene  <br>
+(9_H_-isomer shown; the PIN is 9_H_-fluorene) 
+ru: (14) флуорен <br>
+(показан 9_H_-изомер; PIN — 9_H_-флуорен)
+// http://charchem.org/ru/subst-ref/?id=715
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\@n(8,-90)`//|<_pp@n(5,90)_p@n(6,180)_pp@n(7,-90)_p@n(7a,-100,.5)>@n(4a,100,.5)\@n(4,90)//`|@n(8a,-80,.5)_pp@n(1,-90)_p@n(2,0)_pp@n(3,90)_p@n(3a,80,.5)
+$>
+
+en: (15) _s_-indacene (PIN) 
+ru: (15) _s_-индацен (PIN)
+// http://charchem.org/ru/subst-ref/?id=712
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_pp@n(6,120)_p@n(7,180)_pp@n(8,-120)_p@n(8a,-100,.5)//@n(8b,-140,.6)\<_qq@n(3,0)_q@n(2,-70)_qq@n(1,-120)_q>@n(3a,30,.5)|@n(4,30)`//@n(5,90)`\@n(5a,100,.5)
+$>
+
+en: (16) _as_-indacene (PIN) 
+ru: (16) _as_-индацен (PIN)
+// http://charchem.org/ru/subst-ref/?id=711
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_qq@n(3,70)_q@n(2,0)_qq@n(1,-70)_q>@n(3a,80,.5)_p7@n(4,80)_pp7@n(5,150)_p7@n(6,180)_pp7@n(7,-150)_p7@n(8,-80)_pp7@n(8a,-80,.5)
+$>
+
+en: (17) azulene (PIN) 
+ru: (17) азулен (PIN)
+// http://charchem.org/ru/subst-ref/?id=370
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\@n(8a,-90,.5)|@n(4a,90,.5)
+$>
+
+en: (18) naphthalene (PIN)
+ru: (18) нафталин	(PIN)
+// http://charchem.org/ru/subst-ref/?id=252
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(4,90)`\\@n(5,150)`|@n(6,-150)//@n(7,-90)\||@n(3a,80,.5)_q@n(3,70)_qq@n(2,0)_q@n(1,-70)_q@n(7a,-80,.5)
+$>
+
+en: (19) indene  <br>
+(1_H_-isomer shown; the PIN is 1_H_-indene) 
+ru: (19) инден <br>
+(показан 1_H_-изомер; PIN — 1_H_-инден)
+// http://charchem.org/ru/subst-ref/?id=679
+
+@EndTable
+
+
+#P-25.1.2
+en: Systematically named hydrocarbon parent components
+ru: Систематически названные исходные углеводородные компоненты
+
+@Content
+
+en: Names for some hydrocarbon parent components having the maximum number of noncumulative double bonds (called 
+mancude ring systems) and having at least two rings of five or more ring members are systematically formed using a 
+prefix and an ending or term representing the nature and arrangement of the component rings. Rules for numbering are 
+described in Section P-25.3.3. 
+ru: Названия некоторых исходных углеводородных компонентов, имеющих максимальное количество некумулятивных двойных 
+связей (называемых кольцевыми системами mancude) и имеющих по крайней мере два кольца из пяти или более членов кольца, 
+систематически образуются с использованием префикса и окончания или термина, представляющего природу и расположение 
+колец компонента. Правила нумерации описаны в разделе P-25.3.3.
+
+%P-25.1.2.1
+en: Polyacenes  
+ru: Полиацены
+
+#P-25.1.2.1+
+en: Polyacenes. A hydrocarbon parent component consisting of four or more _ortho_-fused benzene rings in a 
+straight linear arrangement is named by citing a numerical prefix (‘tetra’, ‘penta’, etc.) denoting the number of rings 
+followed by the ending ‘acene’ (derived from the retained name anthr**acene**) with elision of a letter ‘a’.
+ru: Полиацены. Углеводородный исходный компонент, состоящий из четырех или более орто-конденсированных бензольных колец 
+в прямолинейном расположении, называется путем указания числового префикса («тетра», «пента» и т. д.), 
+обозначающего количество колец, за которым следует окончание «ацен» (происходящее от сохраненного названия антр**ацен**) 
+с опусканием буквы «а».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|`\\`/||\//\//\//\//`|@n(2,-30)`\\@n(1,-90)`/<|>`\\`/<|>`\\`/
+$>
+
+en: tetracene (PIN)  <br>
+(formerly naphthacene) 
+ru: тетрацен (PIN) <br>
+(ранее нафтацен)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||@:c(n1,n2)\//<`|&n2`\\&n1`/>@()@c()@c()@c()@c(@n(1,-90),@n(2,-30))
+$>
+
+en: pentacene (PIN)
+ru: пентацен (PIN)
+
+@End
+
+%P-25.1.2.2
+en: Polyaphenes  
+ru: Полиафены
+
+#P-25.1.2.2+
+en: Polyaphenes. A hydrocarbon parent component consisting of _n_ _ortho_- fused benzene rings (_n_ > 3) forming 
+two straight linear arrangements of (_n_ + 1)/2 rings (if _n_ is odd) or _n_/2 and (_n_/2) + 1 rings (if _n_ is even) with a common 
+benzene ring and that make a formal angle of 120° with each other is named by citing the numerical prefix (‘tetra’, 
+‘penta’, etc.) denoting the total number of benzene rings followed by the ending ‘phene’ (derived from **phen**anthrene). 
+ru: Полиафены. Углеводородный исходный компонент, состоящий из _n_ _орто_-конденсированных бензольных колец (_n_ > 3), 
+образующих два прямых линейных соединения из (_n_ + 1)/2 колец (если _n_ нечетное) или _n_/2 и (_n_/2) + 1 колец 
+(если _n_ четное) с общим бензольным кольцом и образующих формальный угол 120° друг с другом, называется путем указания 
+числового префикса («тетра», «пента» и т. д.), обозначающего общее число бензольных колец, за которым следует окончание 
+«фен» (происходит от **фен**антрена).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)`\`|@n(1,-150)//@n(2,-90)\<\0{}:lt>||`/||`/`\\:mr<`|//>`/:ml`\\`/`\`//|:lb\\/`|r|\//<`|>\:rb1//:rb`|;
+#lb_(y1.5,N0){}_(x#rb;lb,<)"(n+1)/2 `rings`"_(x#rb1;rb,>);
+#rb1\0_(p-1;lt,<)"(n"<_(h)"+1)/2 `rings`">_(>)#lt;
+#ml_(pml;mr){}_(A-120,L.4,N0){}_(a0,L2.5,<)"`common ring`"
+$>
+
+en: pentaphene (_n_ = 5) (PIN)
+ru: пентафен (_n_ = 5) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)`\`|@n(1,-150)//@n(2,-90)\<\0{}:lt>||`/||`/`\\:mr<`|//>`/:ml`\\`/`\`//`\`//|:lb\\/<`|>\\/`|r|\//<`|>\:rb1//:rb`|;
+#lb_(y1.5,N0){}_(x#rb;lb,<)"n/2 + 1 `rings`"_(x#rb1;rb,>);
+#rb1\0_(p-1;lt,<)"n"<_(h)"/2 `rings`">_(>)#lt;
+#ml_(pml;mr){}_(A-120,L.4,N0){}_(a0,L2.5,<)"`common ring`"
+$>
+// Ошибка в оригинале. Заменено (n+1)/2 на n/2
+
+en: hexaphene (_n_ = 6) (PIN)
+ru: гексафен (_n_ = 6) (PIN)
+
+@End
+
+%P-25.1.2.3
+en: Polyalenes  
+ru: Полиалены
+
+#P-25.1.2.3+
+en: Polyalenes. A hydrocarbon parent component consisting of two identical _ortho_-fused monocyclic 
+hydrocarbon rings is named by citing the numerical prefix (‘penta’, ‘hepta’, etc.) that denotes the number of carbon 
+atoms in each ring followed by the ending ‘alene’ (derived from naphthalene) with elision of a letter ‘a’. The name 
+naphthalene is retained. 
+ru: Полиалены. Углеводородный исходный компонент, состоящий из двух идентичных _орто_-конденсированных моноциклических 
+углеводородных колец, называется путем указания числового префикса («пента», «гепта» и т. д.), который обозначает число 
+атомов углерода в каждом кольце, за которым следует окончание «ален» (производное от нафталина) с вычеркиванием буквы «а». 
+Название нафталин сохраняется.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qq_q@n(2,0)_qq@n(1,-90)_q|0_p_pp_p_pp
+$>
+
+en: pentalene (PIN)
+ru: пентален (PIN)
+// http://charchem.org/ru/subst-ref/?id=678
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q8=_q8_qq8_q8@n(2,-60)`=@n(1,-120)_q8|0_pp8`-_pp8`|_pp8-_pp8
+$>
+
+en: octalene (PIN)
+ru: октален	(PIN)
+// http://charchem.org/ru/subst-ref/?id=6730
+
+@End
+
+%P-25.1.2.4
+en: Polyphenylenes  
+ru: Полифенилены
+
+#P-25.1.2.4+
+en: Polyphenylenes. A hydrocarbon parent component consisting of a monocyclic hydrocarbon with an even 
+number of carbon atoms and benzene rings _ortho_-fused to alternate sides is named by citing a numerical prefix (‘tri’, 
+‘tetra’, etc.) denoting the number of benzene rings followed by the term ‘phenylene’. The traditional name biphenylene 
+is retained. 
+ru: Полифенилены. Углеводородный исходный компонент, состоящий из моноциклического углеводорода с четным числом атомов 
+углерода и бензольных колец, _орто_-конденсированных с чередующимися сторонами, называется путем указания числового префикса 
+(«три», «тетра» и т. д.), обозначающего число бензольных колец, за которым следует термин «фенилен». Традиционное название 
+бифенилен сохраняется.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)`/`\\`|//\||-`||<`->/@n(1,-90)\\@n(2,-30)|`//`\
+$>
+
+en: biphenylene (PIN)  <br>
+(not diphenylene) 
+ru: бифенилен (PIN) <br>
+(не дифенилен)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\`|@n(1,-150)//@n(2,-90)\||`/|\||`/`\\`|/r`/`\`/`\\`|//\|r`|/
+$>
+
+en: triphenylene (PIN)
+ru: трифенилен	(PIN)
+// http://charchem.org/ru/subst-ref/?id=407
+
+@End
+
+%P-25.1.2.5
+en: Polynaphthylenes  
+ru: Полинафтилены
+
+#P-25.1.2.5+
+en: Polynaphthylenes. A hydrocarbon parent component that consists of a monocyclic hydrocarbon with an even 
+number of carbon atoms _ortho_-fused on alternate sides to the 2,3-positions of naphthalene rings is named by citing a 
+numerical prefix (‘tri’, ‘tetra’, etc.) denoting the number of naphthalene rings followed by the term ‘naphthylene’. The 
+series begins with three naphthalene rings, trinaphthylene. The first member of the series, which would be 
+dinaphthylene, is named as a fused hydrocarbon, i.e., dibenzo[_b_,_h_]biphenylene, and thus is not considered as a parent 
+component. 
+ru: Полинафтилены. Углеводородный материнский компонент, состоящий из моноциклического углеводорода с четным 
+числом атомов углерода, _орто_-конденсированных поочередно с 2,3-положениями нафталиновых колец, называется путем указания 
+числового префикса («три», «тетра» и т. д.), обозначающего число нафталиновых колец, за которым следует термин «нафтилен». 
+Серия начинается с трех нафталиновых колец, тринафтилен. Первый член серии, который будет динафтиленом, называется 
+конденсированным углеводородом, т. е. дибензо[_b_,_h_]бифениленом, и, таким образом, не рассматривается как материнский 
+компонент.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\|\\/`||<`\`//>-||l<`->\//`|<`\\`/>/@n(1,-90)\\@n(2,-30)|`//`\
+$>
+
+en: dibenzo[_b_,_h_]biphenylene (PIN)  <br>
+(not dinaphthylene) 
+ru: дибензо[_b_,_h_]бифенилен (PIN) <br>
+(не динафтилен)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\|\\/`||r<`\`//>/\/`||/`||`\@n(2,-90)`//@n(1,-150)|<\>`//|\|`/|\\|\\/`||`\<`/>`||`\`/`\
+$>
+
+en: trinaphthylene (PIN) 
+ru: тринафтилен (PIN)
+
+@End
+
+%P-25.1.2.6
+en: Polyhelicenes  
+ru: Полигелицены
+
+#P-25.1.2.6+
+en: Polyhelicenes. A hydrocarbon parent component of six or more rings that consists of a benzene ring _ortho_-
+fused to the 3,4-position of phenanthrene and further benzene rings fused in a similar way is named by citing a 
+numerical prefix (‘hexa’, ‘hepta’, etc.) denoting the total number of benzene rings forming a helical arrangement 
+followed by the term ‘helicene’. 
+ru: Полигелицены. Углеводородный материнский компонент из шести или более колец, состоящий из бензольного кольца, 
+_орто_-конденсированного с 3,4-положением фенантрена, и дополнительных бензольных колец, конденсированных аналогичным 
+образом, называется путем указания числового префикса («гекса», «гепта» и т. д.), обозначающего общее число бензольных 
+колец, образующих спиральную структуру, за которым следует термин «гелицен».
+
+en: **Note**: The definition, orientation, and numbering of polyhelicenes was changed in the comprehensive fused ring 
+nomenclature document ‘Nomenclature of Fused and Bridged Fused Ring Systems’ (ref. 4). The series begins with six 
+rings and not five rings as indicated in the 1993 Guide (R-2.4.1.3.6 in ref. 2) and in the Glossary of Class Names (ref. 
+23). The new orientation and numbering are presented in Section P-25.3.3.1.1. 
+ru: **Примечание**: Определение, ориентация и нумерация полигелиценов были изменены в документе по комплексной номенклатуре 
+конденсированных колец «Номенклатура конденсированных и мостиковых конденсированных кольцевых систем» (ссылка 4). Серия 
+начинается с шести колец, а не с пяти, как указано в Руководстве 1993 года (R-2.4.1.3.6 в ссылке 2) и в Глоссарии названий 
+классов (ссылка 23). Новая ориентация и нумерация представлены в разделе P-25.3.3.1.1.
+
+@Examples 2 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%s:1.2)`/$L(%n:1.4)@n(16a,15,.65)|@n(16b,-40,.7)\\r@n(16c,-90,.55)/@n(16d,-145,.8)`||r$L(%s)@n(16e,160,.65)<`\:n1@n(1,-20,.5)>$L(%n)/#
+<@n(4a,-30,.6)`|@n(4,-30)`\\@n(3,-90)$L(%s)`/@n(2,20,.5)||#n1>$L(%n)\\@n(5,-30)|@n(6,30)`//@n(6a,30,.5)<`\>|@n(7,30)`//@n(8,90)`\@n(8a,90,.5)<`|>#
+`//@n(9,90)`\@n(10,150,.5)`||@n(10a,160,.7)</>`\@n(11,160,.5)`||@n(12,-160,.5)/@n(12a,-160,.75)\l`\`|@n(13,-150,.5)//@n(14,-90)$L(%s)\@n(15,160,.7)||#1@n(16,-150,.7)
+$>
+
+en: hexahelicene (PIN)  <br>
+(new orientation and numbering)
+ru: гексагелицен (PIN) <br>
+(новая ориентация и нумерация)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%s:1.2)|@n(12a,-40,.7)$L(%n:1.4)\\r@n(12b,-90,.5)/@n(12c,-150,.7)`||r@n(12d,150,.75)`\@n(12e,90,.5)<$L(%s)`//:n13>$L(%n)`|#
+<`\\@n(16,-90)`/@n(15,-150,.5)$L(%s)||@n(14,-30,.7)_#n13@n(13,-100,.6)>@n(16a,-90,.6)#
+$L(%n)/@n(1,-90)\\@n(2,-30)|@n(2a,-30,.6)<`/>\\@n(3,-30)|@n(4,30)`//@n(4a,30,.5)<`\>|@n(5,30)`//@n(6,90)`\<`|>@n(6a,90,.5)#
+`//@n(7,90)`\@n(8,150)`||</>@n(8a,150,.6)`\@n(9,150)`||@n(10,-150,.5)$L(%s)/@n(11,100,.6)\\#1@n(12,150,.7)
+$>
+
+en: **Note**: Orientation and numbering no longer recommended;  <br>
+but still in use by CAS for the ring system having the name  <br>
+phenanthro[3,4-_c_]phenanthrene, ref. 22
+ru: **Примечание**: Ориентация и нумерация больше не рекомендуются; <br>
+но все еще используются CAS для кольцевой системы, имеющей название <br>
+фенантро[3,4-_c_]фенантрен, ссылка 22
+
+@End
+
+%P-25.1.2.7
+en: Ace...ylenes
+ru: Аце....илены
+
+#P-25.1.2.7+
+en: Ace....ylenes. A hydrocarbon parent component that consists of a five-membered ring _ortho_- and _peri_-fused 
+to naphthalene, anthracene, or phenanthrene is named by adding the prefix ‘ace’ to the retained name and changing the 
+ending ‘alene’, ‘acene’, or ‘ene’, respectively, to ‘ylene’. 
+ru: Аце....илены. Углеводородный исходный компонент, состоящий из пятичленного кольца, _орто_- и _пери_-конденсированного 
+с нафталином, антраценом или фенантреном, называют, добавляя префикс «аце» к сохраненному названию и изменяя окончание 
+«ален», «ацен» или «ен» соответственно на «илен».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(2,-30)_(a68.5292)`/`\<_#1@n(1,-150)>`//|\\/`|c|\//`|`\\
+$>
+
+en: acenaphthylene (PIN) 
+ru: аценафтилен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(2,-30)_(a68.5292)@n(2a,-30,.6)`/`\<_#1@n(1,-150)>`//`\`//|\\/<`|>\\/`|c|\//`|`\\
+$>
+
+en: aceanthrylene (PIN) 
+ru: ацеантрилен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/@n(3a,-20,.5)_(a81.4707)_(a68.5292,N2)_#1`//`\`/`\\`|//\|`|/\`\`|@n(1,-150)//@n(2,-90)\@n(3,-30)||
+$>
+
+en: acephenanthrylene (PIN) 
+ru: ацефенантрилен (PIN)
+
+@End
+
+#P-25.2
+en: Names of heterocyclic parent ring components 
+ru: Названия гетероциклических компонентов родительского кольца
+
+@Content
+
+%P-25.2.1
+en: Retained names used for parent components and as attached components 
+ru: Сохраненные имена, используемые для родительских компонентов и как присоединенные компоненты
+
+#P-25.2.1+
+en: Retained names for heterocycles (also called trivial names) with the maximum number of noncumulative 
+double bonds (called mancude ring systems) used for parent components and as attached components are given in  
+Table 2.8. 
+ru: Сохраненные названия гетероциклов (также называемые тривиальными названиями) с максимальным числом некумулятивных 
+двойных связей (называемых кольцевыми системами mancude), используемые для родительских компонентов и в качестве 
+присоединенных компонентов, приведены в таблице 2.8.
+
+en: Ring systems are arranged in decreasing order of seniority for parent compounds in accordance with the seniority order 
+described in Section P-25.3.2.4 and exemplified in Section P-25.8.1. 
+ru: Кольцевые системы расположены в порядке убывания старшинства для родительских соединений в соответствии с порядком 
+старшинства, описанным в разделе P-25.3.2.4 и проиллюстрированным в разделе P-25.8.1.
+
+en: Skeletal replacement (‘a’) nomenclature (see P-15.4), as described in Section P-25.5.4, is used to replace O by S, Se, 
+and Te of chromene, isochromene, and xanthene (PIN) to generate names for chalcogen analogues of these ring systems 
+(see Table 2.8). Some names listed in Table 2.8 can be modified by a system of replacement specific to some nitrogen
+containing compounds, in which N is replaced by As or P. The modified names are listed in Table 2.9; the modifiable 
+compounds are marked by the symbol * in Table 2.8. Rules for numbering are described in Section P-25.3.3. 
+ru: Номенклатура скелетной замены (‘a’) (см. P-15.4), описанная в разделе P-25.5.4, используется для замены O на 
+S, Se и Te в хромене, изохромене и ксантене (PIN) для создания названий аналогов халькогенов этих кольцевых систем 
+(см. таблицу 2.8). Некоторые названия, перечисленные в таблице 2.8, могут быть изменены с помощью системы замены, 
+специфичной для некоторых азотсодержащих соединений, в которых N заменен на As или P. Измененные названия перечислены 
+в таблице 2.9; изменяемые соединения отмечены символом * в таблице 2.8. Правила нумерации описаны в разделе P-25.3.3.
+
+@Table 2.8
+en: Retained names of heterocyclic parent ring components in descending order of seniority 
+ru: Сохраненные названия компонентов гетероциклического родительского кольца в порядке убывания старшинства
+
+en: (the seniority order is indicated by the number preceding the name; the lower the number, the higher the seniority; <br>
+names denoted by the symbol * are further modified as shown in Table 2.9) 
+ru: (порядок старшинства указывается числом, предшествующим имени; чем меньше число, тем выше старшинство; <br>
+имена, обозначенные символом *, дополнительно изменяются, как показано в таблице 2.9)
+
+@td;
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/@n(1,-90)\\@n(2,-30)|@n(3,)`//@n(4,90)`\@n(4a,90,.5)`//N@n(5,90,.6)`\`//@n(6,90)`\@n(7,150)`||@n(8,-150)/@n(9,-90)\\<|@n(5a,90,.5)>@n(9a,150,.6)/N@n(10,-90,.6)\\@n(10a,-90,.6)
+$>
+
+en: (1) phenazine (PIN)
+ru: (1) феназин (PIN)
+// http://charchem.org/ru/subst-ref/?id=6710
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|N@n(1,-150,.5)//@n(2,-90)\@n(3,-30)||@n(4,30)`/@n(4a,30,.5)|@n(5,30)`//@n(6,90)`\`/N@n(7,90,.6)`\\@n(8,150)`|@n(9,-150)//@n(10,-90)\<||l@n(6a,90,.5)>@n(10a,-90,.6)/@n(10b,-25,.7)\\r
+$>
+
+en: (2) phenanthroline  <br>
+1,7-isomer shown; the PIN is 1,7-phenanthroline;  <br>
+other isomers are: 1,8-; 1,9-; 1,10-; 2,7-; 2,8-; 2,9-; 3,7-; 3,8-; 4,7-
+ru: (2) фенантролин <br>
+Показан 1,7-изомер; PIN — 1,7-фенантролин; <br>
+Другие изомеры: 1,8-; 1,9-; 1,10-; 2,7-; 2,8-; 2,9-; 3,7-; 3,8-; 4,7-
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|`\`|HN@n(1,30,.5)/@n(2,-90)\\N@n(3,-30,.5)|`/l@n(3a^1,-80,.55)/@n(3a,-20,.6)\@n(4,-30)||@n(5,30)`/@n(6,90)`\\@n(6a,90,.6)`/@n(7,90)`\\@n(8,150)`|@n(9,-150)//@n(9a,-150,.6)
+$>
+
+en: (3) perimidine (1_H_-isomer shown; the PIN is 1_H_-perimidine) 
+ru: (3) перимидин (показан 1_H_-изомер; PIN — 1_H_-перимидин)
+// http://charchem.org/ru/subst-ref/?id=6731
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\@n(2,-30)|@n(3)`//@n(4,90)`\@n(4a,90,.6)`//N@n(10,90,.6)`\@n(10a,90,.6)`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\@n(8a,-90,.6)<|>/@n(9,-90)\\@n(9a,-90,.6)|
+$>
+
+en: (4) acridine^{*} (PIN)  <br>
+(special numbering) 
+ru: (4) акридин^{*} (PIN) <br>
+(специальная нумерация)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//@n(7,90)`\@n(8,150)`||@n(9,-150)/@n(10,-90)\\@n(10a,-90,.6)/@n(10b,-35,.75)\l/@n(4,30)`||@n(3,-30)`\@n(2,-90)`//@n(1,-150)|\@n(4a,30,.5)|N@n(5,30,.6)`//@n(6,90)`\@n(6a,90,.5)
+$>
+
+en: (5) phenanthridine^{*} (PIN)
+ru: (5) фенантридин^{*} (PIN)
+// http://charchem.org/ru/subst-ref/?id=6732
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_qr_p6@n(1,-80)_pp6@n(2,-10)_p6@n(3,40)_pp6@n(4,100)_p6@n(4a,100,.5)_p6@n(9a,-80,.5)_qN<_(y-.5)H>@n(9,90,.6)_q@n(8a,-100,.5)_qqr@n(4b,80,.5)_p6@n(5,80)_pp6@n(6,140)_p6@n(7,170)_pp6@n(8,-110)_p6
+$>
+
+en: (6) carbazole  <br>
+(special numbering; 9_H_-isomer shown; the PIN is 9_H_-carbazole) 
+ru: (6) карбазол <br>
+(специальная нумерация; показан 9_H_-изомер; PIN — 9_H_-карбазол)
+// http://charchem.org/ru/subst-ref/?id=1357
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/N@n(1,-90,.6)\\@n(2,-30)|N@n(3,30,.6)`//@n(4,90)`\`|@n(8a,-90,.6)`\\N@n(8,-90,.6)`/@n(7,-150)||@n(6,150)\N@n(5,90,.6)//@n(4a,90,.6)
+$>
+
+en: (7) pteridine (PIN)  
+ru: (7) птеридин (PIN)
+// http://charchem.org/ru/subst-ref/?id=2060
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/N@n(1,-90,.6)\\N@n(2,-30,.6)|@n(3,30)`//@n(4,90)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\@n(5,90)//@n(4a,90,.6)
+$>
+
+en: (8) cinnoline (PIN) 
+ru: (8) циннолин (PIN)
+// http://charchem.org/ru/subst-ref/?id=6733
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/N@n(1,-90,.6)\\@n(2,-30)|N@n(3,30,.6)`//@n(4,90)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\@n(5,90)//@n(4a,90,.6)
+$>
+
+en: (9) quinazoline (PIN)  
+ru: (9) хиназолин (PIN)
+// http://charchem.org/ru/subst-ref/?id=2043
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/N@n(1,-90,.6)\\@n(2,-30)|@n(3,30)`//N@n(4,90,.6)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\@n(5,90)//@n(4a,90,.6)
+$>
+
+en: (10) quinoxaline (PIN) 
+ru: (10) хиноксалин (PIN)
+// http://charchem.org/ru/subst-ref/?id=5857
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/N@n(1,-90,.6)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\N@n(5,90,.6)//@n(4a,90,.6)
+$>
+
+en: (11) naphthyridine  <br>
+(1,5-isomer shown; the PIN is 1,5-naphthyridine;  <br>
+other isomers are 1,6-; 1,7-; 1,8-; 2,6-; 2,7-)
+ru: (11) нафтиридин <br>
+(показан 1,5-изомер; PIN — 1,5-нафтиридин; <br>
+другие изомеры — 1,6-; 1,7-; 1,8-; 2,6-; 2,7-)
+// http://charchem.org/ru/subst-ref/?id=6734
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\N@n(2,-30,.6)|N@n(3,30,.6)`//@n(4,90)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\@n(5,90)//@n(4a,90,.6)
+$>
+
+en: (12) phthalazine (PIN)  
+ru: (12) фталазин (PIN)
+// http://charchem.org/ru/subst-ref/?id=6735
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/N@n(1,-90,.6)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\@n(5,90)//@n(4a,90,.6)
+$>
+
+en: (13) quinoline*† (PIN)
+ru: (13) хинолин*† (PIN)
+// http://charchem.org/ru/subst-ref/?id=2313
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\N@n(2,-30,.6)|@n(3,30)`//@n(4,90)`\`|@n(8a,-90,.6)`\\@n(8,-90)`/@n(7,-150)||@n(6,150)\@n(5,90)//@n(4a,90,.6)
+$>
+
+en: (14) isoquinoline*† (PIN)  
+ru: (14) изохинолин*† (PIN)
+// http://charchem.org/ru/subst-ref/?id=6736
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)//@n(1,-90)\@n(2,-30)||@n(3,30)`/@n(4,90)`\N`|@n(9a,-90,.6)`\@n(9,-90)`//@n(8,-150)|@n(7,150)\\@n(6,90)/@n(5,90,.6)
+$>
+
+en: (15) quinolizine*†  <br>
+(4_H_-isomer shown; the PIN is 4_H_-quinolizine) 
+ru: (15) хинолизин*† <br>
+(показан 4_H_-изомер; PIN — 4_H_-хинолизин) 
+// http://charchem.org/ru/subst-ref/?id=6737
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)\N@n(3,90,.6)//@n(2,30)`|N@n(1,-30,.5)`\\@n(6,-90)`/@n(5,-95,.5)||@n(4,95,.5)_pN@n(9,100,.6)_pp@n(8,180)_pN<_(y-.5)H>@n(7,80,.6)_p
+$>
+
+en: (16) purine  <br>
+(special numbering, 7_H_-isomer shown; the PIN is 7_H_-purine)
+ru: (16) пурин <br>
+(специальная нумерация, показан 7_H_-изомер; PIN — 7_H_-пурин)
+// http://charchem.org/ru/subst-ref/?id=154
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/@n(7,-90)\\|@n(3a,80,.5)_q@n(3,80)_qqN@n(2,0,.5)_qN<_(y-.5)H>@n(1,100,.6)_q@n(7a,-80,.5)
+$>
+
+en: (17) indazole  <br>
+(1_H_-isomer shown; the PIN is 1_H_-indazole) 
+ru: (17) индазол <br>
+(показан 1_H_-изомер; PIN — 1_H_-индазол)
+// http://charchem.org/ru/subst-ref/?id=6738
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/@n(7,-90)\\|@n(3a,80,.5)_q@n(3,80)_qq@n(2,0)_qN<_(y-.5)H>@n(1,100,.6)_q@n(7a,-80,.5)
+$>
+
+en: (18) indole*  <br>
+(1_H_-isomer shown; the PIN is 1_H_-indole) 
+ru: (18) индол* <br>
+(показан 1_H_-изомер; PIN — 1_H_-индол)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(4,90)`\\@n(5,150)`|@n(6,-150)//@n(7,-90)\|@n(3a,80,.5)_qq@n(3,80)_qNH@n(2,180,.5)_q@n(1,-80)_qq@n(7a,-80,.5)
+$>
+
+en: (19) isoindole*  <br>
+(2_H_-isomer shown; the PIN is 2_H_-isoindole)
+ru: (19) изоиндол* <br>
+(показан 2_H_-изомер; PIN — 2_H_-изоиндол)
+// http://charchem.org/ru/subst-ref/?id=6739
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(4,90,.6)`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\|_q@n(3,80)_qq@n(2,0)_q@n(1,-80)_qq@n(8a,-80,.5)
+$>
+
+en: (20) indolizine* (PIN) 
+ru: (20) индолизин* (PIN)
+// http://charchem.org/ru/subst-ref/?id=6740
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|N@n(4,90,.6)<_p@n(5,120)_pp@n(6,180)_p@n(7,-120)_pp>_q@n(3,60)_qq@n(2,0)_q@n(1,-60)_q@n(7a,-90,.5)
+$>
+
+en: (21) pyrrolizine (1_H_-isomer shown; the PIN is 1_H_-pyrrolizine) 
+// ru: (21) пирролизин (показан 1_H_-изомер; PIN — 1_H_-пирролизин)
+// Не найдено русскоязычное название
+// Пирролизин — это другое вещество — нестандартная протеиногенная аминокислота - Pyrrolysine - отличается только y вместо i.
+// http://charchem.org/ru/subst-ref/?id=6741
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(4a,90,.6)`/O@n(10,90,.6)`\@n(10a,90,.6)`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\|r`|@n(8a,-90,.6)/@n(9,-90)\|l`|@n(9a,-90,.6)
+$>
+
+en: (22) xanthene <br>
+(special numbering; 9_H_-isomer shown; the PIN is 9_H_-xanthene) <br>
+thioxanthene (S instead of O)  <br>
+(special numbering; 9_H_-isomer shown; the PIN is 9_H_-thioxanthene) <br>
+selenoxanthene (Se instead of O)  <br>
+(special numbering; 9_H_-isomer shown; the PIN is 9_H_-selenoxanthene)  <br>
+telluroxanthene (Te instead of O)  <br>
+(special numbering; 9_H_-isomer shown; the PIN is 9_H_-telluroxanthene) 
+ru: (22) ксантен <br>
+(специальная нумерация; показан 9_H_-изомер; PIN — 9_H_-ксантен) <br>
+тиоксантен (S вместо O) <br>
+(специальная нумерация; показан 9_H_-изомер; PIN — 9_H_-тиоксантен) <br>
+селеноксантен (Se вместо O) <br>
+(специальная нумерация; показан 9_H_-изомер; PIN — 9_H_-селеноксантен) <br>
+теллуроксантен (Te вместо O) <br>
+(специальная нумерация; показан 9_H_-изомер; PIN — 9_H_-теллуроксантен)
+// http://charchem.org/ru/subst-ref/?id=6742
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\||@n(4a,90,.5)\@n(4,90)//@n(3,30)`|@n(2,-30)`\O@n(1,-90,.6)`/@n(8a,-90,.5)
+$>
+
+en: (23) chromene  <br>
+(2_H_-isomer shown) <br>
+1-benzopyran  <br>
+(2_H_-isomer shown; the PIN is 2_H_-1-benzopyran)  <br>
+thiochromene (S instead of O)  <br>
+(2_H_-isomer shown)  <br>
+1-benzothiopyran (S instead of O)  <br>
+2_H_-isomer shown; the PIN is 2_H_-1-benzothiopyran <br>
+selenochromene (Se instead of O)  <br>
+(2_H_-isomer shown)  <br>
+1-benzoselenopyran (Se instead of O)  <br>
+(2_H_-isomer shown; the PIN is 2_H_-1-benzoselenopyran) <br>
+tellurochromene (Te instead of O)  <br>
+(2_H_-isomer shown)  <br>
+1-benzotelluropyran (Te instead of O)  <br>
+(2_H_-isomer shown; the PIN is 2_H_-1-benzotelluropyran)
+ru: (23) хромен <br>
+(показан 2_H_-изомер) <br>
+1-бензопиран <br>
+(показан 2_H_-изомер; PIN — 2_H_-1-бензопиран) <br>
+тиохромен (S вместо O) <br>
+(показан 2_H_-изомер) <br>
+1-бензотиопиран (S вместо O) <br>
+показан 2_H_-изомер; PIN — 2_H_-1-бензотиопиран <br>
+селенохромен (Se вместо O) <br>
+(показан 2_H_-изомер) <br>
+1-бензоселенопиран (Se вместо O) <br>
+(показан 2_H_-изомер; PIN — 2_H_-1-бензоселенопиран) <br>
+теллурохромен (Te вместо O) <br>
+(показан 2_H_-изомер) <br>
+1-бензотеллуропиран (Te вместо O) <br>
+(показан 2_H_-изомер; PIN — 2_H_-1-бензотеллуропиран)
+// http://charchem.org/ru/subst-ref/?id=6743
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\||@n(4a,90,.5)\@n(4,90)//@n(3,30)`|O@n(2,-30,.5)`\@n(1,-90)`/@n(8a,-90,.5)
+$>
+
+en: (24) isochromene  <br>
+(1_H_-isomer shown) <br>
+2-benzopyran  <br>
+(1_H_-isomer shown; the PIN is 1_H_-2-benzopyran)  <br>
+isothiochromene (S instead of O)  <br>
+(1_H_-isomer shown)  <br>
+2-benzothiopyran (S instead of O)  <br>
+(1_H_-isomer shown; the PIN is 1_H_-2-benzothiopyran)  <br>
+isoselenochromene (Se instead of O)  <br>
+(1_H_-isomer shown)  <br>
+2-benzoselenopyran (Se instead of O)  <br>
+(1_H_-isomer shown; the PIN is 1_H_-2-benzoselenopyran)  <br>
+isotellurochromene (Te instead of O)  <br>
+(1_H_-isomer shown)  <br>
+2-benzotelluropyran (Te instead of O)  <br>
+(1_H_-isomer shown; the PIN is 1_H_-2-benzotelluropyran)  
+ru: (24) изохромен <br>
+(показан 1_H_-изомер) <br>
+2-бензопиран <br>
+(показан 1_H_-изомер; PIN — 1_H_-2-бензопиран) <br>
+изотиохромен (S вместо O) <br>
+(показан 1_H_-изомер) <br>
+2-бензотиопиран (S вместо O) <br>
+(показан 1_H_-изомер; PIN — 1_H_-2-бензотиопиран) <br>
+изоселенохромен (Se вместо O) <br>
+(показан 1_H_-изомер) <br>
+2-бензоселенопиран (Se вместо O) <br>
+(показан 1_H_-изомер; PIN — 1_H_-2-бензоселенопиран) <br>
+изотеллурохромен (Te вместо O) <br>
+(показан 1_H_-изомер) <br>
+2-бензотеллуропиран (Te вместо O) <br>
+(показан 1_H_-изомер; PIN — 1_H_-2-бензотеллуропиран)
+// http://charchem.org/ru/subst-ref/?id=6744
+
+@EndTable
+
+@p .centred
+en: † In CAS index nomenclature, quinolizine precedes quinoline and isoquinoline in seniority. 
+ru: † В номенклатуре индекса CAS хинолизин по старшинству предшествует хинолину и изохинолину.
+
+@Table 2.9
+en: Names for nitrogenous parent components modified by phosphorus and arsenic replacement 
+ru: Названия азотистых исходных компонентов, модифицированных заменой фосфора и мышьяка
+
+en: (For the seniority of the phosphorus and arsenic ring systems see P-25.3.2.4 and P-25.8.1) <br>
+In the following names, arsenic or phosphorus atoms replace nitrogen atoms
+ru: (О старшинстве фосфорных и мышьяковых кольцевых систем см. P-25.3.2.4 и P-25.8.1) <br>
+В следующих названиях атомы мышьяка или фосфора заменяют атомы азота
+
+@th
+en: Nitrogen  <br>
+ring system
+ru: Азот <br>
+кольцевая система
+
+@th
+en: Arsenic  <br>
+ring system
+ru: Мышьяк <br>
+кольцевая система
+
+@th
+en: Phosphorus  <br>
+ring system
+ru: Фосфор <br>
+кольцевая система
+
+@td
+en: acridine (PIN)
+ru: акридин (PIN)
+
+@td
+en: acridarsine (PIN)*
+ru: акридарсин (PIN)*
+
+@td
+en: acridophosphine (PIN)*
+ru: акридофосфин (PIN)*
+
+@td
+en: indole (PIN)
+ru: индол (PIN)
+
+@td
+en: arsindole (PIN) 
+ru: арсиндол (PIN)
+
+@td
+en: phosphindole (PIN)
+ru: фосфиндол (PIN)
+
+@td
+en: indolizine (PIN)
+ru: индолизин (PIN)
+
+@td
+en: arsindolizine (PIN) 
+ru: арсиндолизин (PIN)
+
+@td
+en: phosphindolizine (PIN) 
+ru: фосфиндолизин (PIN)
+
+@td
+en: isoindole (PIN) 
+ru: изоиндол (PIN)
+
+@td
+en: isoarsindole (PIN) 
+ru: изоарсиндол (PIN)
+
+@td
+en: isophosphindole (PIN)
+ru: изофосфиндол (PIN)
+
+@td
+en: isoquinoline (PIN) †
+ru: изохинолин (PIN) †
+
+@td
+en: isoarsinoline (PIN)
+ru: изоарсинолин (PIN)
+
+@td
+en: isophosphinoline (PIN) 
+ru: изофосфинолин (PIN)
+
+@td
+en: phenanthridine (PIN) 
+ru: фенантридин (PIN)
+
+@td
+en: arsanthridine (PIN)
+ru: арсантридин (PIN)
+
+@td
+en: phosphanthridine (PIN)
+ru: фосфантридин (PIN)
+
+@td
+en: quinoline (PIN) †
+ru: хинолин (ПИН) †
+
+@td
+en: arsinoline (PIN) 
+ru: арсинолин (PIN)
+
+@td
+en: phosphinoline (PIN) 
+ru: фосфинолин (PIN)
+
+@td
+en: quinolizine (PIN) †
+ru: хинолизин (PIN) †
+
+@td
+en: arsinolizine (PIN)
+ru: арсинолизин (PIN)
+
+@td
+en: phosphinolizine (PIN)
+ru: фосфинолизин (PIN)
+
+@EndTable
+
+@p .centred
+en: * Numbered systematically, not as acridine. 
+ru: * Нумеруется систематически, а не как акридин.
+
+@p .centred
+en: † In CAS index nomenclature, quinolizine precedes quinoline and isoquinoline in seniority.
+ru: † В номенклатуре индекса CAS хинолизин по старшинству предшествует хинолину и изохинолину.
+
+#P-25.2.2
+en: Names formed systematically using endings and prefixes used for parent components and attached components 
+ru: Имена, образованные систематически с использованием окончаний и префиксов, используемых для родительских компонентов и присоединенных компонентов
+
+@Content
+
+#P-25.2.2.1
+en: Heteromonocyclic parent components 
+ru: Гетеромоноциклические исходные компоненты
+
+#P-25.2.2.1.1+
+en: Heteromonocyclic rings with three through ten ring members having the maximum number of 
+noncumulative double bonds (called mancude ring systems) are used as parent components as well as attached 
+components. Retained names are given in Table 2.2. Hantzsch-Widman names are discussed in P-22.2.2. 
+ru: Гетеромоноциклические кольца с тремя-десятью членами кольца, имеющие максимальное количество некумулятивных двойных 
+связей (называемые mancude кольцевыми системами), используются в качестве родительских компонентов, а также присоединенных 
+компонентов. Сохраненные названия приведены в Таблице 2.2. Названия Ганча-Видмана обсуждаются в P-22.2.2.
+
+#P-25.2.2.1.2+
+en: Names of heteromonocyclic parent components with more than ten ring members used in fusion 
+nomenclature are discussed in this subsection; they are used only in fusion nomenclature (see also P-22.2.4). The 
+preferred IUPAC names for such rings are ‘polyene’ names (see P-22.2.4). 
+ru: В этом подразделе обсуждаются названия гетеромоноциклических исходных компонентов с более чем десятью членами кольца, 
+используемые в номенклатуре слияния; они используются только в номенклатуре слияния (см. также P-22.2.4). 
+Предпочтительными названиями ИЮПАК для таких колец являются названия «полиенов» (см. P-22.2.4).
+
+en: A heteromonocyclic parent component having more than ten members and the maximum number of noncumulative 
+double bonds (a mancude ring system) may be named by changing the ending ‘ane’ of the corresponding saturated 
+heteromonocycle (see P-22.2.4) to ‘ine’. Their locants are cited in front of the name following indicated hydrogen, if 
+any, in the order of the appearance of the corresponding replacement (‘a’) prefixes in the name. 
+ru: Гетеромоноциклический исходный компонент, имеющий более десяти членов и максимальное число некумулятивных двойных 
+связей (система колец mancude), может быть назван путем изменения окончания «ane» соответствующего насыщенного 
+гетеромоноцикла (см. P-22.2.4) на «ine». Их локанты указываются перед названием после указанного водорода, если 
+таковой имеется, в порядке появления соответствующих заменяющих («a») префиксов в названии.
+
+en: For examples of fusion compounds including this type of heteromonocyclic parent component, see P-25.2.2.4. 
+ru: Примеры соединений слияния, включающих этот тип гетеромоноциклического исходного компонента, см. в P-25.2.2.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)O@n(1,-90,.6)\@n(2,-90,.5)//@n(3,-90)\@n(4,-30)||@n(5,30)`/@n(6,90)`\\@n(7,90,.5)`/O@n(8,90,.6)`\@n(9,90,.5)`//@n(10,90)`\@n(11,90,.55)`//@n(12,90)`\@n(13,150,.5)`||@n(14,-150,.5)/@n(15,-90)\\@n(16,-90,.55)/@n(17,-90)\\@n(18,-90,.55)/
+$>
+
+en: 1,8-dioxacyclooctadecine  <br>
+1,8-dioxacyclooctadeca-2,4,6,9,11,13,15,17-octaene (PIN) 
+ru: 1,8-диоксациклооктадецин <br>
+1,8-диоксациклооктадека-2,4,6,9,11,13,15,17-октаен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`//N@n(4,90,.6)`\@n(5,90,.5)`//@n(6,90)`\@n(7,90,.5)`//N@n(8,90,.6)`\@n(9,150)`||@n(10,-150,.5)/N@n(11,-90,.6)\\@n(12,-90,.6)/@n(13,-90)\\@n(14,-90,.6)/
+$>
+
+en: 2_H_-1,4,8,11-oxatriazacyclotetradecine  <br>
+1-oxa-4,8,11-triazacyclotetradeca-3,5,7,9,11,13-hexaene (PIN) 
+ru: 2_H_-1,4,8,11-оксатриазациклотетрадецин <br>
+1-окса-4,8,11-триазациклотетрадека-3,5,7,9,11,13-гексаен (PIN)
+
+@End
+
+#P-25.2.2.2
+en: Heteranthrene components 
+ru: Компоненты Гетерантрена
+
+en: A heterotricyclic parent component consisting of two benzene rings fused to a 1,4-dihetera-benzene in which the 
+heteroatoms are the same is named by attaching the appropriate ‘a’ prefix to the ending ‘anthrene’ (derived from 
+anthracene), with elision of a letter ‘a’. The allowed heteroatoms are O, S, Se, Te, P, As, Si, and B. When the 
+heteroatoms are nitrogen atoms, the component is named ‘phenazine’ (a retained name). The numbering is standard, as 
+shown. Rules for numbering are described in Section P-25.3.3. 
+ru: Гетеротрициклический исходный компонент, состоящий из двух бензольных колец, слитых с 1,4-дигетерабензолом, 
+в котором гетероатомы одинаковы, называют, присоединяя соответствующий префикс «a» к окончанию «antrene» 
+(производному от anthracene), с опусканием буквы «a». Разрешенными гетероатомами являются O, S, Se, Te, P, As, Si и B. 
+Когда гетероатомами являются атомы азота, компонент называют «феназин» (сохраненное название). Нумерация стандартная, 
+как показано. Правила нумерации описаны в разделе P-25.3.3.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//@n(9,-90)\||@n(5a,90,.5)\{X}@n(5,90,.6)/\@n(4,90)//@n(3,30)`|@n(2,-30)`\\@n(1,-90)`/|l@n(4a,90,.5)`|@n(10a,-90,.55)`\{X}@n(10,-90,.6)`/@n(9a,-90,.55)
+$>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//@n(6,90)`\@n(7,150)`||@n(8,-150)/@n(9,-90)\\|@n(5a,90,.55)\{X}@n(5,90,.6)//\@n(4,90)//@n(3,30)`|@n(2,-30)`\\@n(1,-90)`/<|@n(4a,90,.55)>@n(10a,-90,.6)`\\{X}@n(10,-90,.6)`/@n(9a,-90,.55)
+$>
+
+@cell
+en: X = O oxanthrene (PIN) <br>
+X = S thianthrene (PIN) <br>
+X = Se selenanthrene (PIN) <br>
+X = Te telluranthrene (PIN)
+ru: X = O оксантрен (PIN) <br>
+X = S тиантрен (PIN) <br>
+X = Se селенантрен (PIN) <br>
+X = Te теллурантрен (PIN)
+
+@cell
+en: X = N phenazine (PIN) <br> 
+(a retained name) <br>
+X = P phosphanthrene (PIN) <br>
+X = As arsanthrene (PIN) <br>
+X = B boranthrene (PIN) <br>
+X = SiH silanthrene (PIN)
+ru: X = N феназин (PIN) <br>
+(сохраненное название) <br>
+X = P фосфантрен (PIN) <br>
+X = As арсантрен (PIN) <br>
+X = B борантрен (PIN) <br>
+X = SiH силантрен (PIN)
+
+@End
+
+#P-25.2.2.3
+en: Pheno...ine components 
+ru: Фено...ин-компоненты
+
+en: A heterotricyclic parent component consisting of two benzene rings fused to a 1,4-dihetera-benzene in which the 
+heteroatoms are different is named by adding the prefix ‘pheno’ (derived from **phen**anthrene) to the appropriate 
+Hantzsch-Widman name (see P-22.2.2), eliding the ‘o’ before a following vowel. Numbering is standard and depends 
+on the nature of the heteroatoms. Rules for numbering are described in Section P-25.3.3.
+ru: Гетеротрициклический исходный компонент, состоящий из двух бензольных колец, слитых с 1,4-дигетеробензолом, 
+в котором гетероатомы различны, именуется путем добавления префикса «фено» (производного от **фен**антрена) к соответствующему 
+названию Ганча-Видмана (см. P-22.2.2), опуская «о» перед следующей гласной. Нумерация стандартная и зависит от природы 
+гетероатомов. Правила нумерации описаны в разделе P-25.3.3.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//@n(9,-90)\||@n(5a,90,.55)\{X}@n(5,90,.6)/\@n(4,90)//@n(3)`|@n(2,-30)`\\@n(1,-90)`/|l@n(4a,90,.55)`|@n(10a,-90,.6)`\N<_(y-.5)H>@n(10,90,.6)`/@n(9a,-90,.6)
+$>
+
+en: X = O phenoxazine (10_H_-isomer shown; the PIN is 10_H_-phenoxazine) <br>
+X = S phenothiazine (10_H_-isomer shown; the PIN is 10_H_-phenothiazine) <br>
+X = Se phenoselenazine (10_H_-isomer shown; the PIN is 10_H_-phenoselenazine) <br>
+X = Te phenotellurazine (10_H_-isomer shown; the PIN is 10_H_-phenotellurazine) 
+ru: X = O феноксазин (показан 10_H_-изомер; PIN — 10_H_-феноксазин) <br>
+X = S фенотиазин (показан 10_H_-изомер; PIN — 10_H_-фенотиазин) <br>
+X = Se феноселеназин (показан 10_H_-изомер; PIN — 10_H_-феноселеназин) <br>
+X = Te фенотеллуразин (показан 10_H_-изомер; PIN — 10_H_-фенотеллуразин)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(4a,90,.55)`//N@n(5,90,.6)`\@n(5a,90,.55)`//@n(6,90)`\@n(7,150)`||@n(8,-150)/@n(9,-90)\\<|>@n(9a,-90,.6)/{X}@n(10,-90,.6)\\@n(10a,-90,.6)|
+$>
+
+en: X = P phenazaphosphinine (PIN)  <br>
+phenophosphazine (see refs. 2, 4) <br>
+X = As phenazarsinine (PIN)  <br>
+phenarsazine (see refs. 2, 4)
+ru: X = P феназафосфинин (PIN) <br>
+фенофосфазин (см. ссылки 2, 4) <br>
+X = As феназарзинин (PIN) <br>
+фенарсазин (см. ссылки 2, 4)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\`/O@n(5,90,.6)`\`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//@n(9,-90)\|r@n(5a,90,.6)`|@n(9a,-90,.6)/{X}@n(10,-90,.6)\@n(10a,-90,.6)||@n(4a,90,.6)
+$>
+
+en: X = S phenoxathiine (PIN) <br>
+X = Se phenoxaselenine (PIN) <br>
+X = Te phenoxatellurine (PIN) <br>
+X = PH phenoxaphosphinine (PIN, 10_H_-isomer shown)  <br>
+phenoxaphosphine (10_H_-isomer shown) <br>
+X = AsH phenoxarsinine (PIN, 10_H_-isomer shown)  <br>
+phenoxarsine (10_H_-isomer shown) <br>
+X = SbH phenoxastibinine (PIN, 10_H_-isomer shown)  <br>
+phenoxantimonine (10_H_-isomer shown) <br>
+X = AsH; and S instead of O phenothiarsinine (PIN, 10_H_-isomer shown) <br>
+phenothiarsine (10_H_-isomer shown)  
+ru: X = S феноксатиин (PIN) <br>
+X = Se феноксаселенин (PIN) <br>
+X = Te феноксателлурин (PIN) <br>
+X = PH феноксафосфинин (PIN, показан 10_H_-изомер) <br>
+феноксафосфин (показан 10_H_-изомер) <br>
+X = AsH феноксарсинин (PIN, показан 10_H_-изомер) <br>
+феноксарсин (показан 10_H_-изомер) <br>
+X = SbH феноксастибинин (PIN, показан 10_H_-изомер) <br>
+феноксантимонин (показан 10_H_-изомер) <br>
+X = AsH; и S вместо O фенотиарсинина (PIN, показан 10_H_-изомер) <br>
+фенотиарсин (показан 10_H_-изомер)
+
+@End
+
+#P-25.2.2.4
+en: Heteromonocyclic components fused to a benzene ring 
+ru: Гетеромоноциклические компоненты, конденсированные с бензольным кольцом
+
+en: If the initial identified preferred components for naming a fused ring system include an isolated benzo component (i.e. 
+not forming part of a component with a retained name such as quinoline or anthracene) _ortho_-fused to a 
+heteromonocyclic component of five or more members, these two components are treated together as a one-component 
+unit (a benzoheterocycle). See P-25.3.5 for the use of benzoheterocycles in fusion nomenclature and limitations on its 
+use. It is named by placing the locant(s) indicating the position(s) of the heteroatom(s) at the front of the name 
+consisting of the fusion prefix ‘benzo’ followed by a retained name, a Hantzsch-Widman systematic name, or a name 
+formed by skeletal replacement (‘a’) nomenclature as described in P-25.2.2.1.2. The locants cited correspond to the full 
+bicyclic structure. As in Hantzsch-Widman names, locants are placed in the order corresponding to the order of citation 
+of the heteroatoms in the heterocyclic component. The locant ‘1’ is always assigned to the atom of the heterocyclic 
+component next to a fusion atom. Heteroatoms are allocated lowest locants as a set, without regard to kind; if there is a 
+choice, lowest locants are assigned in accordance with the seniority of the ‘a’ prefixes (see Table 2.4). In general 
+nomenclature locants may be omitted when the name is unambiguous; for preferred IUPAC names locants must be 
+cited. The letter ‘o’ of the ‘benzo’ prefix is elided when followed by a vowel. Indicated hydrogen is placed at the front 
+of the name, when required. 
+ru: Если изначально идентифицированные предпочтительные компоненты для наименования конденсированной кольцевой системы 
+включают изолированный бензокомпонент (т.е. не образующий часть компонента с сохраненным названием, такого как хинолин 
+или антрацен), _орто_-слитый с гетеромоноциклическим компонентом из пяти или более членов, эти два компонента 
+рассматриваются вместе как однокомпонентная единица (бензогетероцикл). См. P-25.3.5 для использования бензогетероциклов 
+в номенклатуре слияния и ограничений на ее использование. Она называется путем размещения локантов, указывающих 
+положение(я) гетероатома(ов) в передней части названия, состоящего из префикса слияния «бензо», за которым следует 
+сохраненное название, систематическое название Ганча-Видмана или название, образованное номенклатурой скелетной 
+замены («a»), как описано в P-25.2.2.1.2. Приведенные локанты соответствуют полной бициклической структуре. 
+Как и в названиях Ганча-Видмана, локанты располагаются в порядке, соответствующем порядку цитирования гетероатомов 
+в гетероциклическом компоненте. Локант «1» всегда присваивается атому гетероциклического компонента, следующему за атомом 
+слияния. Гетероатомам присваиваются наименьшие локанты как набор, независимо от вида; если есть выбор, наименьшие 
+локанты назначаются в соответствии со старшинством префиксов «a» (см. Таблицу 2.4). В общей номенклатуре локанты могут 
+быть опущены, если название однозначно; для предпочтительных названий ИЮПАК локанты должны быть указаны. 
+Буква «o» префикса «benzo» опускается, если за ней следует гласная. Указанный водород помещается в начале названия, 
+когда это необходимо.
+
+en: ‘Benzo names’ offer several advantages. They are simpler in the sense that they do not require fusion descriptors. 
+However, their primary advantage is in their use as components of fusion names; they provide a larger portion of 
+structure and remove one full level of locants in the construction of names for larger heterocyclic fused ring systems.
+ru: «Имена бензо» предлагают несколько преимуществ. Они проще в том смысле, что не требуют дескрипторов слияния.
+Однако их основное преимущество заключается в их использовании в качестве компонентов имен слияния; они предоставляют 
+большую часть структуры и удаляют один полный уровень локантов при построении имен для более крупных гетероциклических 
+конденсированных кольцевых систем.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q7_qq7_q7O@n(3,0,.5)_q7_qq7@n(1,-100)_q7
+$>
+
+en: 3-benzoxepine (PIN)  <br>
+benzo[_d_]oxepine 
+ru: 3-бензоксепин (PIN) <br>
+бензо[_d_]оксепин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|\@n(4,90)/O@n(3,30,.6)`|@n(2,-30)`\\N@n(1,-90,.6)`/
+$>
+
+en: 4_H_-3,1-benzoxazine (PIN)  <br>
+4_H_-benzo[_d_][1,3]oxazine
+ru: 4_H_-3,1-бензоксазин (PIN) <br>
+4_H_-бензо[_d_][1,3]оксазин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq@n(2,0)_qO@n(1,-80,.6)_q
+$>
+
+en: 1-benzofuran (PIN)  <br>
+benzofuran 
+ru: 1-бензофуран (ПИН) <br>
+бензофуран
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\|_qq_qO@n(2,0,.5)_q@n(1,-90)_qq
+$>
+
+en: 2-benzofuran (PIN)  <br>
+isobenzofuran  <br>
+benzo[_c_]furan
+ru: 2-бензофуран (PIN) <br>
+изобензофуран <br>
+бензо[_c_]фуран
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)|`//`\`||/\\/@n(1,-90)\\/\\/O@n(5,-90,.6)\//\||`/`\\`/O@n(12,90,.6)`\`//`\`//`\
+$>
+
+en: 5,12-benzodioxacyclooctadecine (PIN)  <br>
+benzo[_m_][1,8]dioxacyclooctadecine 
+ru: 5,12-бензодиоксациклооктадецин (PIN) <br>
+бензо[_m_][1,8]диоксациклооктадецин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(1,-90)\|0<`//`\>_q7_qq7_q7_qq7_q7N@n(3,-100,.6)_qq7
+$>
+
+en: 1_H_-3-benzazacycloundecine (PIN)  <br>
+1_H_-benzo[_h_][1]azacycloundecine  <br>
+1_H_-3-benzoazacycloundecine
+ru: 1_H_-3-бензазациклоундецин (PIN) <br>
+1_H_-бензо[_h_][1]азациклоундецин <br>
+1_H_-3-бензоазациклоундецин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\\`|//\//@n(1,-90)\S@n(2,-90,.6)/\\_(A0)N||@n(6,30)_(A180)`//`\O@n(9,90,.6)`/@n(10,90)`\\
+$>
+
+en: 9,2,5-benzoxathiaazacyclododecine (PIN)  <br>
+(not 2,9,6-benzoxathiaazacyclododecine; the locant set 2,5,9 is lower than 2,6,9)  <br>
+benzo[_j_][1,8,5]oxathiaazacyclododecine 
+ru: 9,2,5-бензоксатиазациклододецин (PIN) <br>
+(не 2,9,6-бензоксатиазациклододецин; набор локантов 2,5,9 меньше, чем 2,6,9) <br>
+бензо[_j_][1,8,5]оксатиазациклододецин
+
+@End
