@@ -2,6 +2,40 @@
 en: Bridged fused ring systems 
 ru: Системы мостиковых конденсированных колец
 
+en: This Section is based on the publication ‘Nomenclature of Fused and Bridged Fused Ring Systems’ (ref. 4). Sections  
+P-25.4.2.1.2, P-25.4.2.1.4 and P-25.4.2.2.1 contain modifications to Section FR-8.3 of the 1998 publication (ref. 4). No 
+other modifications have been made to the 1998 publication. 
+ru: Этот раздел основан на публикации «Номенклатура систем с конденсированными и мостиковыми конденсированными кольцами» 
+(ссылка 4). Разделы P-25.4.2.1.2, P-25.4.2.1.4 и P-25.4.2.2.1 содержат изменения в разделе FR-8.3 публикации 1998 года 
+(ссылка 4). Никаких других изменений в публикацию 1998 года не вносилось.
+
+@Content
+
+#P-25.4.1
+en: Definitions and terminology 
+ru: Определения и терминология
+
+#P-25.4.2
+en: Names of bridges 
+ru: Названия мостов
+
+#P-25.4.3
+en: Naming bridged fused ring systems 
+ru: Наименование мостиковых конденсированных кольцевых систем
+
+#P-25.4.4
+en: Numbering bridge atoms 
+ru: Нумерация мостиковых атомов
+
+#P-25.4.5
+en: Order for numbering of bridges 
+ru: Порядок нумерации мостиков
+
+
+
+
+
+
 #P-25.5
 en: Limitations of fusion nomenclature: three components ortho- and peri-fused together 
 ru: Ограничения номенклатуры слияния: три компонента орто- и пери-слиты вместе

@@ -1,0 +1,583 @@
+#P-25.3.5
+en: Heteromonocyclics fused to a benzene ring 
+ru: Гетеромоноциклы, конденсированные с бензольным кольцом
+
+en: Heterobicyclic compounds consisting of a heteromonocycle fused to a benzene ring in which the benzene ring is not 
+part of a system having a retained name such as quinoline or naphthalene are treated as a single component unit (a 
+‘benzoheterocycle’, see P-25.2.2.4). They may be treated as a parent component or an attached component depending 
+on the order of seniority described in P-25.3.2.4. However, this approach is not used if it disrupts a multiparent system 
+(see P-25.3.5.3, below) or the use of multiplicative prefixes (see P-25.3.6.1, below).
+ru: Гетеробициклические соединения, состоящие из гетеромоноцикла, конденсированного с бензольным кольцом, в котором 
+бензольное кольцо не является частью системы, имеющей сохраненное название, такой как хинолин или нафталин, 
+рассматриваются как однокомпонентная единица («бензогетероцикл», см. P-25.2.2.4). Они могут рассматриваться как 
+родительский компонент или присоединенный компонент в зависимости от порядка старшинства, описанного в P-25.3.2.4. 
+Однако этот подход не используется, если он нарушает многородительскую систему (см. P-25.3.5.3, ниже) или 
+использование мультипликативных префиксов (см. P-25.3.6.1, ниже).
+
+#P-25.3.5.1+
+en: A benzoheterocycle as a parent component  
+ru: Бензогетероцикл как исходный компонент
+
+@Examples
+
+@cell
+<$
+|_p_pp_pS_p//\|<`/`\\>_qq_qS_qN_qq
+$>
+
+en: thieno[3,2-_f_][2,1]benzothiazole (PIN)  <br>
+(2,1-benzothiazole is senior to 1-benzothiophene) 
+ru: тиено[3,2-_f_][2,1]бензотиазол (PIN) <br>
+(2,1-бензотиазол старше 1-бензотиофена)
+
+@End
+
+#P-25.3.5.2+
+en: A more senior component as parent component
+ru: Более старший компонент как исходный компонент
+
+@Examples
+
+@cell
+<$ |`//N`\`||/\\/\\|<`//`\>\//`|<`\\`/>_pO_pN_pp_p $>
+
+en: [1,2]benzoxazolo[6,5-_g_]quinoline (PIN)  <br>
+(quinoline is senior to 1,2-benzoxazole) 
+ru: [1,2]бензоксазоло[6,5-_g_]хинолин (PIN) <br>
+(хинолин старше 1,2-бензоксазола)
+
+@End
+
+#P-25.3.5.3+
+en: A multiparent name is preferred to a fused ring system, when there is a choice. 
+ru: Мультиисходное название предпочтительнее, чем система слитных колец, когда есть выбор.
+
+@Examples
+
+@cell
+<$ |_pp_pO_p_pp/\\|<`//`\>_q_qq_qO_q $>
+
+en: benzo[1,2-_b_:4,5-_c_′]difuran (PIN)  <br>
+(not furo[3,4-_f_][1]benzofuran;  <br>
+a multiparent name is preferred to a two-component fused name)
+ru: бензо[1,2-_b_:4,5-_c_′]дифуран (PIN) <br>
+(не фуро[3,4-_f_][1]бензофуран; <br>
+мультиисходное название предпочтительнее двухкомпонентного слитого названия)
+
+@End
+
+#P-25.3.5.4+
+en: Retained names are senior to names of benzoheterocycles. 
+ru: Сохраненные названия имеют приоритет над названиями бензогетероциклов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//N`\`||/\\/\\|<`//`\>\N<_(y.5)H>@n(4,-90,.6)/`||`\S@n(1,-90,.6)`/
+$>
+
+en: 4_H_-[1,4]thiazino[2,3-_g_]quinoline (PIN)  <br>
+(the retained name quinoline must be used)
+ru: 4_H_-[1,4]тиазино[2,3-_g_]хинолин (PIN) <br>
+(необходимо использовать сохраненное название хинолин)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\N`/||\//`|_p@n(10,-80)_p_p<_p>_qq6_q6_qq6_q6<_qq6>_p@n(1,-100)_pp_pO_p
+$>
+
+en: 10_H_-furo[3′,2′:4,5]indeno[2,1-_b_]pyridine (PIN)  <br>
+(not 10_H_-[1]benzofuro[5′,4′:3,4]cyclopenta[1,2-_b_]pyridine;  <br>
+pyridine is senior to furan; indene, as a retained name, must be used)
+ru: 10_H_-фуро[3′,2′:4,5]индено[2,1-_b_]пиридин (PIN) <br>
+(не 10_H_-[1]бензофуро[5′,4′:3,4]циклопента[1,2-_b_]пиридин; <br>
+пиридин старше фурана; инден, как сохраненное название, должен быть использован)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\/`||`\`//|`/|r`/`\\`|//\|\@n(6,90)/O`|
+$>
+
+en: 6_H_-dibenzo[_b_,_d_]pyran (PIN)  <br>
+(not 6_H_-benzo[_c_][1]benzopyran;  <br>
+not 6_H_-benzo[_c_][2]benzopyran)  <br>
+6_H_-benzo[_c_]chromene
+ru: 6_H_-дибензо[_b_,_d_]пиран (PIN) <br>
+(не 6_H_-бензо[_c_][1]бензопиран; <br>
+не 6_H_-бензо[_c_][2]бензопиран) <br>
+6_H_-бензо[_c_]хромен
+
+@End
+
+#P-25.3.6
+en: Identical attached components 
+ru: Идентичные присоединенные компоненты
+
+#P-25.3.6.1+
+en: Two or more components that are identical and both fused to a parent component are indicated by the use of 
+multiplying prefixes (‘di’, ‘tri’, etc. or ‘bis’, ‘tris’, etc.). If a complete set of locants is used for first-order attached 
+components fused to the parent component, they are cited together separated by a colon. If abbreviated sets of locants 
+are used, the letters are separated by a comma. If complete sets of locants are used for second-order attached 
+components fused to a first-order attached component, or for higher-order cases, the locants are cited together separated 
+by a semicolon. If abbreviated sets are used, they are separated by a colon. To distinguish between two or more 
+components of the same order, the locants of the second component are primed (or double primed if the first is primed, 
+etc.), the third double primed, and so on. 
+ru: Два или более идентичных компонента, оба слитые с родительским компонентом, обозначаются с помощью умножающих 
+префиксов («di», «tri» и т. д. или «bis», «tris» и т. д.). Если для присоединенных компонентов первого порядка, слитых 
+с исходным компонентом, используется полный набор локантов, они приводятся вместе и разделяются двоеточием. 
+Если используются сокращенные наборы локантов, буквы разделяются запятой. Если для присоединенных компонентов второго порядка, 
+слитых с присоединенным компонентом первого порядка, используются полные наборы локантов, или для случаев более 
+высокого порядка, локанты приводятся вместе и разделяются точкой с запятой. Если используются сокращенные наборы, 
+они разделяются двоеточием. Чтобы различать два или более компонентов одного порядка, локанты второго компонента 
+обозначаются штрихом (или двойным штрихом, если один штрих уже использован и т. д.), 
+третий обозначайтся двойным штрихом и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|@n(e,-65,.7)@n(4',-140,.5)_pp_pO_p_pp@n(3',140,.6)/\\|@n(b,-120,.7)<`//N`\>@n(3,-30)_q_qq_qO_q@n(2,30)
+$>
+
+en: difuro[3,2-_b_:3′,4′-_e_]pyridine (PIN) 
+ru: дифуро[3,2-_b_:3',4'-_e_]пиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\`//|\\/`|@n(c,60,.6)_pp7_p7@n(e,170,.6)<_q6_qq6_q6_qq6_q6>_pp7_p7O_p7_pp7
+$>
+
+en: dibenzo[_c_,_e_]oxepine (PIN) 
+ru: дибензо[_c_,_e_]оксепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|0O@n(8,90,.6)_q8_qq8_q8O@n(5,30,.5)`|_q8l_p6@n(1,-150)_pp6@n(2,-80)_p6_pp6_p6_p6`-O@n(24,-100,.6)_q8$dblAlign(L)`\\`/O@n(21,-90,.6)`\`//`\O@n(18,-90,.6)`/`\\`/||\@n(14,90)//<`|>\O@n(13,90,.6)/\\/O@n(10,90,.6)\/
+$>
+
+en: 9_H_-dibenzo[_g_,_p_][1,3,6,9,12,15,18]heptaoxacycloicosine (PIN)
+ru: 9_H_-дибензо[_g_,_p_][1,3,6,9,12,15,18]гептаоксациклокозин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/\\-//`\`-@n(5,-70,.5)_pp8@n(6,-40,.5)`|<`\`//|\\/>@n(7,20,.5)_pp8_p8@n(1,110,.5)_p8@n(2,150)<|_pp8@n(4,-110,.5)>_qq_qO_q_qq@n(c,5,.6)
+$>
+
+en: dibenzo[4,5:6,7]cycloocta[1,2-_c_]furan (PIN) 
+ru: дибензо[4,5:6,7]циклоокта[1,2-_c_]фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-<_qN_qq_qN_qq@n(d,-30,.7)>@n(2,120,.5)_pp7_p7<_q_qq_qS_q@n(3,170,.5)>@n(4,-140,.5)_pp7_p7_pp7r@n(7,0,.5)<_p7@n(1,60,.5)>_q_qq_qS_q@n(6,-30,.5)
+$>
+
+en: dithieno[2′,3′:3,4;2′′,3′′:6,7]cyclohepta[1,2-_d_]imidazole (PIN) 
+ru: дитиено[2',3':3,4;2'',3'':6,7]циклогепта[1,2-_d_]имидазол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|_qq_q_qq_q@n(b,-60,.6)\\N/@n(e,-120,.7)`|<`\\`/>@n(1,20)_p7_pp7r<_q6_qq6_q6_qq6_q6@n(7,80,.5)>@n(6,120,.5)_p7_pp7@n(4,-120,.5)_p7@n(3,-70,.5)<_pp7@n(2,-20,.5)>_q6_qq6_q6_qq6_q6
+$>
+
+en: cyclopenta[_b_]dibenzo[3,4:6,7]cyclohepta[1,2-_e_]pyridine (PIN)
+ru: циклопента[_b_]дибензо[3,4:6,7]циклогепта[1,2-_e_]пиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_pO_p@n(9,180)_pO_p//\@n(5',150,.5)|<`/`\\>@n(6',-150)@n(f,-65,.6)\\/`|l/@n(c,125,.6)_(a%a:81.4707)_(a%b:68.5292,N2)N_(a%b)`|@n(5,-90,.5)`\@n(d,70,.6)<`//>@n(6,-30)`|//\<||@n(4,-150,.5)>_qO_q@n(2,-70)_qO_q
+$>
+
+en: 2_H_,9_H_-bis([1,3]benzodioxolo)[4,5,6-_cd_:5′,6′-_f_]indole (PIN) 
+ru: 2_H_,9_H_-бис([1,3]бензодиоксол)[4,5,6-_cd_:5',6'-_f_]индол (PIN)
+
+@End
+
+#P-25.3.6.2+
+en: Additional components attached to a system with a multiplicative prefix. 
+ru: Дополнительные компоненты, присоединенные к системе с мультипликативным префиксом.
+
+en: Fusion of a higher-order attached component to a system named with a multiplicative prefix requires each set of 
+attached components to be specified separately.
+ru: Слияние присоединенного компонента более высокого порядка с системой, названной с мультипликативным префиксом, 
+требует отдельного указания каждого набора присоединенных компонентов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|@n(b,-60,.6)@n(3,-145,.5)_pp_pO_p_pp@n(4,145,.5)/\\|@n(e,-120,.6)<`//N`\>@n(3,-30)_q@n(4,-120)_qr_pO_p_pp_p@n(3',10,.55)_p@n(2',53,.6)@n(5,180,.5)_qO_q@n(2,30)
+$>
+
+en: furo[3,4-_b_]furo[3′,2′:4,5]furo[2,3-_e_]pyridine (PIN) 
+ru: фуро[3,4-_b_]фуро[3′,2′:4,5]фуро[2,3-_e_]пиридин (PIN)
+
+@End
+
+#P-25.3.6.3+
+en: Identical components with identical fusion locants. 
+ru: Идентичные компоненты с идентичными местами соединения.
+
+en: Two or more groups of identical components (including identical fusion locants between these components) fused to 
+another component, are indicated by the use of the multiplying prefixes ‘bis’, ‘tris’, etc., and the group of components is 
+cited within parentheses. 
+ru: Две или более групп идентичных компонентов (включая идентичные точки слияния между этими компонентами), слитых 
+с другим компонентом, обозначаются с помощью умножающих префиксов «бис», «трис» и т. д., а группа компонентов указывается 
+в скобках.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`//N`\`||N/\\@n(5'',150,.7)|@n(4'',-155,.5)@n(5',-30,.5)_qN_qq@n(2',180,.5)_q@n(3',120,.5)<_q@n(4',40)>@n(e,20,.7)_pp6_p6@n(c,150,.7)<_p6N_pp6N_p6>@n(2,-130,.5)_qqN_q@n(5,80,.5)_qqr@n(4,10,.45)<_q@n(3,-60,.5)>@n(5',-110,.5)_p6_pp6N_p6_pp6N_p6@n(4',-150,.55)
+$>
+
+en: bis(pyrimido[5′,4′:4,5]pyrrolo)[2,3-_c_:3′,2′-_e_]pyridazine (PIN) 
+ru: бис(пиримидо[5',4':4,5]пирроло)[2,3-_c_:3',2'-_e_]пиридазин (PIN)
+
+@End
+
+
+#P-25.3.7
+en: Multiparent ring systems 
+ru: Мультиисходные кольцевые системы
+
+en: Multiple occurrences of the parent component in a multiparent system is indicated by the use of multiplying prefixes, 
+‘di’, ‘tri’, etc., or ‘bis’, ‘tris’, etc. To distinguish between the parent components, the second has primed locants, the 
+third double primed, etc. 
+ru: Многократное появление родительского компонента в мультиисходной системе обозначается использованием умножающих префиксов, 
+«ди», «три» и т. д., или «бис», «трис» и т. д. Чтобы различать родительские компоненты, второй имеет штрихованные локанты, 
+третий — двойной штрих и т. д.
+
+en: Two or more nonoverlapping locations for parent components that are _ortho_- or _ortho_- and _peri_-fused to the same first
+order interparent component are treated as a multiparent system and given a multiparent name. Similarly a system with 
+three, five, seven, etc. interparent components is treated as an extended multiparent system. Each pair of second- or 
+higher-order interparent components must be identical. 
+ru: Два или более неперекрывающихся расположения исходных компонентов, которые _орто_- или _орто_- и _пери_-слиты 
+с одним и тем же компонентом первого порядка interparent, рассматриваются как мультиисходная система и получают 
+имя multiparent. Аналогично система с тремя, пятью, семью и т. д. компонентами interparent рассматривается как 
+расширенная мультиисходная система. Каждая пара компонентов interparent второго или более высокого порядка должна 
+быть идентична.
+
+#P-25.3.7.1
+en: Multiparent systems with one interparent component 
+ru: Мультиисходные системы с одним интерродительским компонентом
+
+en: Multiple occurrences of the parent component in a multiparent system are indicated by the use of a multiplying prefix 
+(‘di’, ‘tri’, etc., or ‘bis’, ‘tris’, etc.). To distinguish between the parent components, the second parent component has 
+primed letters, the third double primed, etc.; the sets of locants are separated by a colon.
+ru: Множественные появления исходного компонента в мультиисходной системе обозначаются использованием умножающего префикса 
+(«ди», «три» и т. д. или «бис», «трис» и т. д.). Для различения исходных компонентов второй исходный компонент имеет 
+буквы со штрихом, третий — с двойным штрихом и т. д.; наборы локантов разделяются двоеточием.
+
+@p .framed
+en: The use of enclosing parentheses following ‘bis’, ‘tris’, etc. indicating multiple occurrences of a parent component in 
+these recommendations is a change from the recommendations in the 1998 publication on fusion nomenclature (ref. 4). 
+ru: Использование закрывающих скобок после «bis», «tris» и т. д., указывающих на многократное появление исходного компонента 
+в этих рекомендациях, является изменением по сравнению с рекомендациями в публикации 1998 года по номенклатуре слияний 
+(ссылка 4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_pN_pp_p_pp/\\|@n(f,-120,.6)<`/`\\>@n(2,-40,.5)\\/@n(4,-150)`|<`\\`/@n(1,30)>@n(5,140,.5)@n(g',50,.6)/\<||`/`\\>_q_qq_qN_qq
+$>
+
+en: benzo[1,2-_f_:4,5-_g_′]diindole (PIN) 
+ru: бензо[1,2-_f_:4,5-_g_']дииндол (PIN)
+
+@cell
+<$ $L(1.1)|_p7_pp7_p7_pp7_p7_pp7/\\|<`/`\\>_qq7_q7_qq7_q7_qq7_q7 $>
+
+en: benzo[1,2:4,5]di[7]annulene (PIN) 
+ru: бензо[1,2:4,5]ди[7]аннулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_pp7_p7_pp7_p7_pp7_p7//\<_q7_qq7_q7_qq7_q7@n(1,180)_q7>||`/<`\>_qq7_q7_qq7_q7_qq7_q7
+$>
+
+en: 1_H_-benzo[1,2:3,4:5,6]tri[7]annulene (PIN) 
+ru: 1_H_-бензо[1,2:3,4:5,6]три[7]аннулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\N@n(20,-90,.6)`//|\\/`|_pp8-</`\\`-@n(2,-120)`//N@n(1,180,.5)\>_pp8r/O@n(6,-90,.6)\//r\O@n(9,-30,.6)|`//`\O@n(12,90,.6)`/`\\_(A135)O@n(15,70,.6)`-_pp8
+$>
+
+en: [1,4,7,10]tetraoxacyclohexadecino[13,12-_b_:14,15-_b_′]dipyridine (PIN) 
+ru: [1,4,7,10]тетраоксациклогексадецино[13,12-_b_:14,15-_b_′]дипиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)=_q_qq:n2@n(2,90,.5)_q@n(1,10)<_q@n(5,-50,.6)><_(a74)O_(a%h:56)_pp6_p6S_#n2@n(b,180,.6)>#
+_(a34)S_(a-%h)_qq6_q6O_#1@n(b',-150,.6)
+$>
+
+en: cyclopenta[1,2-_b_:5,1-_b_′]bis([1,4]oxathiine) (PIN) 
+ru: циклопента[1,2-_b_:5,1-_b_']бис([1,4]оксатиин) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|_qq_qO_q_qq@n(c',-120,.6)@n(2,-30)\//:a`|@n(b,60,.6)/@n(c,120,.6)\\l@n(d,175,.7)<_(a89,L1.3)O_#a>@n(5,-70,.5)/`||`\`//<|>`\`//|\`\`/@n(1,30)
+$>
+
+en: phenanthro[4,5-_bcd_:1,2-_c_′]difuran (PIN) 
+ru: фенантро[4,5-_bcd_:1,2-_c_′]дифуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ar1()<_(a90,L.4,N0){}_m(x.5,y.4)_m(x.6,y-.4)_(x-0.1,y-.6,<){}>@;
+@:ar2()<_(a100,L.4,N0){}_m(x-.1,y.6)_m(x.5,y.4)_(x.5,y-.4,>){}>@;
+$L(1.1)-_qq@n(2,160,.5)@n(b,-115,.7)_q@n(1,90)<_(a%a:69.51)O@ar2()_(a%b:40.97)_(a%a,N2)_(a%a)S_(a%b)>@n(b',170,.6)_q@n(3,20,.5)<_qq>_(a%a)S@ar1()_(a%b)_(a%a,N2)_(a%a)O_(a%b)
+$>
+
+en: cyclopenta[1,2-_b_:1,5-_b_′]bis([1,4]oxathiine) (PIN)
+ru: циклопента[1,2-_b_:1,5-_b_′]бис([1,4]оксатиин) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(4,-30)_ppN_pO_pN_pp@n(c',120,.6)@n(3,30)/@n(2,90)\<|`//`\>@n(1,150)@n(c,-120,.7)_qqN_qO_qN_qq
+$>
+
+en: benzo[1,2-_c_:3,4-_c_′]bis([1,2,5]oxadiazole) (PIN) 
+ru: бензо[1,2-_c_:3,4-_c_′]бис([1,2,5]оксадиазол) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`-_pp_pO_p_pp@n(b',-110,.7)@n(5,-20)_qO_q@n(2,-160)_qqr@n(3,120)<`-@n(4,60)>_pO_p_pp_p@n(b,-70,.7)
+$>
+
+en: furo[3,2-_b_:4,5-_b_′]difuran (PIN, a multiparent name) <br>
+[not difuro[3,2-_b_:2′,3′-_d_]furan (a multiplicative prefix name);  <br>
+the multiparent method applies to situations in which there are three identical fused rings  <br>
+or ring systems according to the principle that a maximum of parent components is preferred  <br>
+to a maximum of attached components] 
+ru: фуро[3,2-_b_:4,5-_b_′]дифуран (PIN, мультиисходное название) <br>
+[не дифуро[3,2-_b_:2′,3′-_d_]фуран (мультипликативное префиксное имя); <br>
+мультиисходный метод применяется к ситуациям, в которых есть три идентичных конденсированных кольца <br> 
+или кольцевых системы в соответствии с принципом, что максимум исходных компонентов предпочтительнее <br>
+максимума присоединенных компонентов]
+
+@End
+
+#P-25.3.7.2
+en: Additional attached components
+ru: Дополнительные присоединенные компоненты
+
+en: When two (or more) possible parent components are separated by an odd number of interparent components and these 
+are ordered symmetrically with respect to their component rings (but not necessarily with their fusion locants), the 
+whole system is treated as a multiparent system. Names are formed by extending P-25.3.7.1 in two ways as follows: 
+ru: Когда два (или более) возможных исходных компонента разделены нечетным числом интерродительских компонентов и они 
+упорядочены симметрично относительно их компонентных колец (но не обязательно с их локантами слияния), вся система 
+рассматривается как мультиисходная система. Имена формируются путем расширения P-25.3.7.1 двумя способами 
+следующим образом:
+
+#(a)
+en: Second- and higher-order interparent components are named using the multiplying prefixes ‘di’, ‘tri’, etc., or ‘bis’, 
+‘tris’, etc. Appropriate locants are assigned to interparent components, unprimed and primed for first-order interparent 
+components, double primed for second-order interparent components, tripled primed for third-order interparent 
+components, and so on. 
+ru: Компоненты второго и более высокого порядка, входящие в состав исходных компонентов, именуются с использованием 
+умножающих префиксов «ди», «три» и т. д. или «бис», «трис» и т. д. Соответствующие локанты назначаются компонентам, 
+входящим в состав исходных компонентов первого порядка, без штриха и со штрихом, для компонентов, входящих в состав 
+исходных компонентов первого порядка — с двойным штрихом, для компонентов, входящих в состав исходных компонентов 
+третьего порядка — с тройным штрихом и т. д.
+
+#(b)
+en: When symmetry permits grouping of interparent components and parent components, such groups can be formed 
+and cited as such using the multiplying prefixes ‘bis’, ‘tris’, etc. to denote groups that are enclosed within parentheses. 
+Unprimed locants only are used within such groupings. 
+ru: Когда симметрия допускает группировку interparent компонентов и исходных компонентов, такие группы могут быть 
+сформированы и указаны как таковые с использованием умножающих префиксов «бис», «трис» и т. д. для обозначения групп, 
+заключенных в скобки. В таких группировках используются только нештрихованные локанты.
+
+en: For the method used in generating preferred IUPAC names, see P-52.2.4.3. 
+ru: Метод, используемый при создании предпочтительных названий ИЮПАК, см. в P-52.2.4.3.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@n(c',-115,.8)_pp_pO_p_pp@n(2',45,.5)-@n(3',135,.5)||l@n(4',-135,.5)<`-@n(1',-45,.5)>@n(5'',-20,.6)\//@n(1'',-160,.6)`|@n(2'',145,.6)<`\\`/@n(4'',20,.6)>@n(4,45,.5)-@n(1,135,.5)||l@n(2,-135,.5)<`-@n(3,-45,.5)>_q_qq_qO_q@n(b,55,.8)
+$>
+
+en: benzo[1′′,2′′:3,4;4′′,5′′:3′,4′]dicyclobuta[1,2-_b_:1′,2′-_c_′]difuran (PIN) 
+ru: бензо[1′′,2′′:3,4;4′′,5′′:3′,4′]дициклобута[1,2-_b_:1′,2′-_c_′]дифуран (PIN) 
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@n(c',-115,.8)_pp_pO_p_pp@n(2',45,.5)-@n(3',135,.5)||l@n(4',-135,.5)<`-@n(1',-45,.5)>@n(5'',-20,.6)\//@n(1'',-160,.6)`|@n(2'',145,.6)<`\\`/@n(4'',20,.6)>@n(4,45,.5)-@n(1,135,.5)|@n(2,-135,.5)<`-@n(3,-45,.5)>_qq_qO_q_qq@n(c,60,.7)
+$>
+
+en: benzo[1′′,2′′:3,4;4′′,5′′:3′,4′]bis(cyclobuta[1,2-_c_]furan)
+ru: бензо[1'',2'':3,4;4'',5'':3',4']бис(циклобута[1,2-_c_]фуран)
+
+@End
+
+#P-25.3.8
+en: Omission of locants in fusion descriptors 
+ru: Пропуск локантов в дескрипторах слияния
+
+#P-25.3.8.1+
+en: In preferred IUPAC names and in general nomenclature, numerical and/or letter locants are omitted in fused 
+ring systems with only first-order monocyclic attached hydrocarbon components, ‘benzo’, and those described in  
+P-25.3.2.2.1; the omission is also recommended when the fused ring system is made of two monocyclic hydrocarbons.
+ru: В предпочтительных названиях ИЮПАК и в общей номенклатуре цифровые и/или буквенные локанты опускаются в конденсированных 
+кольцевых системах, содержащих только моноциклические присоединенные углеводородные компоненты первого порядка, «бензо», 
+и тех, которые описаны в P-25.3.2.2.1; пропуск также рекомендуется, когда конденсированная кольцевая система состоит из 
+двух моноциклических углеводородов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/\\|<`//`\>\//`|<`\\`/>/\\l@n(a,-170,.7)<|`//`\>/`||`\`//|
+$>
+
+en: benzo[_a_]tetracene (PIN) 
+ru: бензо[_a_]тетрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r_q_qq_q@n(1,-80)_q|_p8_pp8_p8_pp8_p8_pp8_p8
+$>
+
+en: 1_H_-cyclopenta[8]annulene (PIN) 
+ru: 1_H_-циклопента[8]аннулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/:a\\@n(e,180,.7)|<`//`\>\//@n(a,-170,.7)`|`\\<_#a>`/@n(d,0,.6)
+$>
+
+en: cyclopropa[_de_]anthracene (PIN) 
+ru: циклопропа[_de_]антрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(g,-60,.7)`/`\\`|//\//\||l<`/`\\>\//`|`\\N@n(a,60,.6)`/
+$>
+
+en: benzo[_g_]quinoline (PIN)
+ru: бензо[_g_]хинолин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`/`\\`|//\//\@n(3,150,.5)||@n(2,-150,.5)<`/`\\>@n(d,-60,.6)_qN_qqN_qN<_(y-.5)H@n(1,-90,.6)>@n(a,80,.55)_q
+$>
+
+en: 1_H_-naphtho[2,3-_d_][1,2,3]triazole (PIN)  <br>
+(not 1_H_-naphtho[2,3][1,2,3]triazole) 
+ru: 1_H_-нафто[2,3-_d_][1,2,3]триазол (PIN) <br>
+(не 1_H_-нафто[2,3][1,2,3]триазол)
+
+@End
+
+#P-25.3.8.2+
+en: Locants are also omitted for the fusion of a terminal monocyclic attached hydrocarbon component.
+ru: Локанты также опускаются для слияния терминального моноциклического присоединенного углеводородного компонента.
+
+@Examples
+
+@cell
+<$
+\//`|N`\\`/||_p_p<_ppN_p>_q_qq_q_qq
+$>
+
+en: cyclopenta[4,5]pyrrolo[2,3-_c_]pyridine (PIN) 
+ru: циклопента[4,5]пирроло[2,3-_c_]пиридин (PIN)
+
+@End
+
+#P-25.3.8.3+
+en: When locants are required for the fusion of a second-order or higher-order component then all locants for 
+linking components must be cited. 
+ru: Если для слияния компонента второго или более высокого порядка требуются локанты, то необходимо указать все локанты 
+для связывания компонентов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@n(3',-140,.5)_pp_pO_p_pp@n(4',135,.6)@n(6,30,.5)/N\\@n(2,150,.5)|@n(3,-150,.5)<`//N`\@n(5,-30,.5)>@n(c,-65,.75)\//`|N`\\N`/
+$>
+
+en: furo[3′,4′:5,6]pyrazino[2,3-_c_]pyridazine (PIN) 
+ru: фуро[3',4':5,6]пиразино[2,3-_c_]пиридазин (PIN)
+
+@End
+
+#P-25.3.8.4+
+en: The numerical locants of peripheral fusion carbon atoms of a component are omitted with an _ortho_- and 
+_ortho_- and _peri_-fused system. 
+ru: Числовые локанты периферических атомов углерода слияния компонента опускаются в _орто_- 
+и _орто_- и _пери_-слитых системах.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(1,-150)`/@n(e,0,.6)|@n(f,-60,.6)@n(8,-140,.5)`//`\`||/\r`\`|//\@n(2,150)@n(d,60,.6)//\||N`/`\r\|`//`\
+$>
+
+en: naphtho[2,1,8-_def_]quinoline (PIN) 
+ru: нафто[2,1,8-_def_]хинолин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)\N@n(c,-175,.7)|@n(b,-130,.55)`//N`\`|l`\`//|\\/`|/@n(6,-30,.5)`||/\\|<`/@n(5,30,.5)>\\|`//`\@n(4,-30)
+$>
+
+en: quinolizino[4,5,6-_bc_]quinazoline (PIN) 
+ru: хинолизино[4,5,6-_bc_]хиназолин (PIN)
+
+@End
+
+en: Both terminal fusion atom locants for _ortho_-fusion must be cited even if one is a fusion atom.  
+ru: Оба терминальных местоположения атомов слияния для _орто_-слияния должны быть указаны, 
+даже если один из них является атомом слияния.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)`|@n(8a,30,.6)/@n(1,90)\||`/`\\`/`\\`|//\`|N_pp3@n(b,173,.75)
+$>
+
+en: naphtho[1,8a-_b_]azirine (PIN)
+ru: нафто[1,8a-_b_]азирин (PIN)
+
+@End
