@@ -1,4 +1,6 @@
 // Нужен какой-то баннер для русского языка о том, что перевод не точный.
+// Ошибки:
+// https://iupac.qmul.ac.uk/bibliog/BBerrors.html
 
 #P-0
 en: Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.
