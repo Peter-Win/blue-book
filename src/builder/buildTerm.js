@@ -1,0 +1,19 @@
+/**
+ * 
+ * @param {string} code 
+ * @param {Record<string, string>} dict 
+ * @returns {string}
+ */
+const buildTerm = (code, dict) => {
+  const key = code.toLowerCase().replace(/\s+/g, " ")
+  if (key in dict) {
+    let term = dict[key];
+    if (/[A-Z]/.test(code[0])) {
+      term = term.slice(0, 1).toUpperCase() + term.slice(1);
+    }
+    return `<em class="term">${term}</em>`;
+  }
+  return `<span style="color: orange">${code}</span>`;
+}
+
+module.exports = {buildTerm}

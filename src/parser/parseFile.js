@@ -449,6 +449,8 @@ const makeChunksFromLine = (line, onError, doc) => {
         type: "param",
         content: name,
       }))) continue;
+      if (onPair(chunks, i, "&(", ")", onTherm)) continue;
+      if (onPair(chunks, i, "<+", "+>", "ringsDef")) continue;
       if (onPair(chunks, i, "**", "**", "b")) continue;
       if (onPair(chunks, i, "_{", "}", "sub")) continue;
       if (onPair(chunks, i, "^{", "}", "sup")) continue;
@@ -467,6 +469,13 @@ const makeChunksFromLine = (line, onError, doc) => {
     i++;
   }
   return chunks.filter(chunk => !!chunk.content);
+}
+
+const onTherm = (content) => {
+  return {
+    type: "term",
+    content,
+  }
 }
 
 module.exports = {parseFile};

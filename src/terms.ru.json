@@ -1,0 +1,60 @@
+{
+  "bridged fused ring system": "система мостиковых конденсированных колец",
+  "bridged fused ring system|*": "системы мостиковых конденсированных колец",
+  "bridged fused ring system|ro*": "систем мостиковых конденсированных колец",
+  "bridged fused ring system|da*": "системам мостиковых конденсированных колец",
+  "bridged fused ring system|vi*": "системы мостиковых конденсированных колец",
+  "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
+  "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
+
+  "fusion atom": "атом слияния",
+  "fusion atom|*": "атомы слияния",
+  "fusion atom|ro*": "атомов слияния",
+
+  "fusion name": "название слияния",
+  "fusion name|*": "названия слияния",
+  "fusion name|ro*": "названий слияния",
+
+  "fusion nomenclature": "номенклатура слияния",
+  "fusion nomenclature|ro": "номенклатуры слияния",
+  "fusion nomenclature|da": "номенклатуре слияния",
+  "fusion nomenclature|vi": "номенклатура слияния",
+  "fusion nomenclature|tv": "номенклатурой слияния",
+  "fusion nomenclature|pr": "номенклатуре слияния",
+
+  "indicated hydrogen": "указанный водород",
+  "indicated hydrogen|ro": "указанного водорода",
+  "indicated hydrogen|da": "указанному водороду",
+  "indicated hydrogen|vi": "указанный водород",
+  "indicated hydrogen|tv": "указанным водородом",
+  "indicated hydrogen|pr": "указанном водороде",
+
+  "indicated hydrogen atom|*": "атомы указанного водорода",
+
+  "parent component": "исходный компонент",
+  "parent component|ro": "исходного компонента",
+  "parent component|da": "исходному компоненту",
+  "parent component|vi": "исходный компонент",
+  "parent component|tv": "исходным компонентом",
+  "parent component|pr": "исходном компоненте",
+  "parent component|*": "исходные компоненты",
+  "parent component|ro*": "исходных компонентов",
+  "parent component|da*": "исходным компонентам",
+  "parent component|vi*": "исходные компоненты",
+  "parent component|tv*": "исходными компонентами",
+  "parent component|pr*": "исходных компонентах",
+
+  "parent heterocycle": "исходный гетероцикл",
+  "parent heterocycle|*": "исходные гетероциклы",
+  "parent heterocycle|vi*": "исходные гетероциклы",
+
+  "ring assembly": "кольцевая сборка",
+  "ring assembly|*": "кольцевые сборки",
+  "ring assembly|ro*": "кольцевых сборок",
+
+  "spiro atom": "спироатом",
+  "spiro atom|*": "спироатомы",
+  "spiro atom|ro*": "спироатомов",
+  
+  "zzz": ""
+}

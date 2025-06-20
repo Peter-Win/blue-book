@@ -1,0 +1,768 @@
+#P-25.8
+en: Parent components in decreasing order of seniority (partial lists) 
+ru: &(Parent component|*) в порядке убывания старшинства (частичные списки)
+
+en: In this subsection rings and ring systems are listed in decreasing order of seniority for selection as a parent component. 
+The first list contains heterocyclic parent components, the second hydrocarbon parent components. 
+ru: В этом подразделе кольца и кольцевые системы перечислены в порядке убывания старшинства для выбора в качестве 
+&(parent component|ro).
+Первый список содержит гетероциклические &(parent component|vi*), второй — углеводородные &(parent component|vi*).
+
+#P-25.8.1
+en: Partial list of heterocyclic parent components in decreasing order of seniority 
+ru: Частичный список гетероциклических &(parent component|ro*) в порядке убывания старшинства
+
+en: The following list contains parent heterocycles arranged in decreasing order of seniority for selection as the parent 
+component for fusion names. Ring systems containing Hg as given in ref. 4 are not included in these recommendations. 
+ru: Следующий список содержит &(parent heterocycle|vi*), расположенные в порядке убывания старшинства для выбора в 
+качестве &(parent component|ro) для &(fusion name|ro*). 
+Кольцевые системы, содержащие Hg, как указано в ссылке 4, не включены в эти рекомендации.
+
+en: The parent heterocycles are arranged by ring analysis, i.e., in decreasing order of number rings, ring size, and in 
+accordance with the priority given to heteroatoms, <%atoms%>. 
+ru: &(Parent heterocycle|*) расположены по анализу колец, т. е. в порядке убывания числа колец, размера кольца и в 
+соответствии с приоритетом, отданным гетероатомам <%atoms%>.
+%atoms: N, O, S, Se
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N<_(y-.6)H>@n(10,90,.6)\|l\//`|@n(2,-30)`\\@n(1,-90)`/|`/O@n(5,90,.6)`\`|l`\`//|\\/`|/
+$>
+
+en: 10_H_-phenoxazine 
+ru: 10_H_-феноксазин
+
+@End
+
+en: **Note 1**: Indicated hydrogen atoms are not shown in this kind of listing.  
+ru: **Примечание 1**: &(Indicated hydrogen atom|*) не показаны в этом виде списка.
+
+en: **Note 2**: The seniority order given below is used to select parent components in fusion nomenclature. 
+ru: **Примечание 2**: Приведенный ниже порядок старшинства используется для выбора &(parent component|ro*) 
+в &(fusion nomenclature|pr).
+
+en: **Note 3**: In the order of seniority used by CAS quinolizine precedes quinoline and isoquinoline; and indolizine preceeds 
+indole and isoindole. 
+ru: **Примечание 3**: В порядке старшинства, используемом CAS, хинолизин предшествует хинолину и изохинолину; 
+а индолизин предшествует индолу и изоиндолу.
+
+<div class="two-col-list">
+
+en: phenoxazine
+ru: феноксазин
+// http://charchem.org/ru/subst-ref/?langs=*&id=6745
+
+*: <+ C4NO-C6-C6 +>
+
+en: phenothiazine
+ru: фенотиазин 
+// http://charchem.org/ru/subst-ref/?langs=*&id=4450
+
+*: <+ C4NS-C6-C6 +>
+
+en: phenoselenazine
+ru: феноселеназин
+
+*: <+ C4NSe-C6-C6 +>
+
+en: phenotellurazine
+ru: фенотеллуразин
+
+*: <+ C4NTe-C6-C6 +>
+
+en: phenazaphosphinine
+ru: феназафосфинин
+
+*: <+ C4NP-C6-C6 +>
+
+en: phenazarsinine
+ru: феназарзинин
+
+*: <+ C4NAs-C6-C6 +>
+
+en: phenazine
+ru: феназин
+// http://charchem.org/ru/subst-ref/?langs=*&id=6710
+
+*: <+ C4N2-C6-C6 +>
+
+en: phenanthroline
+ru: фенантролин 
+
+<div class="two-col-list">
+
+*: <+ C5N-C5N-C6 +>
+
+en: (in accordance with the positions of nitrogen  
+atoms, in decreasing order of seniority: <%list%>) 
+ru: (в соответствии с расположением атомов азота, в порядке убывания старшинства: <%list%>)
+%list: 1,7; 1,8; 1,9; 1,10; 2,7; 2,8; 2,9; 3,7; 3,8; 4,7
+
+</div>
+
+en: perimidine
+ru: перимидин
+// http://charchem.org/ru/subst-ref/?id=6731&langMode=all&langs=%2A
+
+*: <+ C4N2-C6-C6 +>
+
+en: acridine
+ru: акридин 
+// http://charchem.org/ru/subst-ref/?id=4565&langMode=all&langs=%2A
+
+*: <+ C5N-C6-C6 +>
+
+en: phenanthridine
+ru: фенантридин
+// http://charchem.org/ru/subst-ref/?id=6732&langMode=all&langs=%2A
+
+*: <+ C5N-C6-C6 +>
+
+en: carbazole
+ru: карбазол
+// http://charchem.org/ru/subst-ref/?id=1357&langMode=all&langs=%2A
+
+*: <+ C4N-C6-C6 +>
+
+en: pteridine
+ru: птеридин
+// http://charchem.org/ru/subst-ref/?id=2060&langMode=all&langs=%2A
+
+*: <+ C4N2-C4N2 +>
+
+en: cinnoline
+ru: циннолин
+// http://charchem.org/ru/subst-ref/?id=6733&langMode=all&langs=%2A
+
+*: <+ C4N2-C6 +>
+
+en: quinazoline
+ru: хиназолин
+// http://charchem.org/ru/subst-ref/?id=2043&langMode=all&langs=%2A
+
+*: <+ C4N2-C6 +>
+
+en: quinoxaline
+ru: хиноксалин
+// http://charchem.org/ru/subst-ref/?id=5857&langMode=all&langs=%2A
+
+*: <+ C4N2-C6 +>
+
+en: 1,5-naphthyridine
+ru: 1,5-нафтиридин
+// http://charchem.org/ru/subst-ref/?id=6734&langMode=all&langs=%2A
+
+*: <+ C5N-C5N +>
+
+en: 1,6-naphthyridine
+ru: 1,6-нафтиридин
+
+*: <+ C5N-C5N +>
+
+en: 1,7-naphthyridine
+ru: 1,7-нафтиридин
+
+*: <+ C5N-C5N +>
+
+en: 1,8-naphthyridine
+ru: 1,8-нафтиридин
+
+*: <+ C5N-C5N +>
+
+en: phthalazine
+ru: фталазин
+// http://charchem.org/ru/subst-ref/?id=6735&langMode=all&langs=%2A
+
+*: <+ C5N-C6 +>
+
+en: 2,6-naphthyridine
+ru: 2,6-нафтиридин
+
+*: <+ C5N-C5N +>
+
+en: 2,7-naphthyridine
+ru: 2,7-нафтиридин
+
+*: <+ C5N-C5N +>
+
+en: quinoline
+ru: хинолин
+// http://charchem.org/ru/subst-ref/?id=2313&langMode=all&langs=%2A
+
+*: <+ C5N-C6 +>
+
+en: isoquinoline
+ru: изохинолин
+// http://charchem.org/ru/subst-ref/?id=6736&langMode=all&langs=%2A
+
+*: <+ C5N-C6 +>
+
+en: quinolizine
+ru: хинолизин
+// http://charchem.org/ru/subst-ref/?id=6737&langMode=all&langs=%2A
+
+*: <+ C5N-C5N +>
+
+en: purine
+ru: пурин
+// http://charchem.org/ru/subst-ref/?id=154&langMode=all&langs=%2A
+
+*: <+ C3N2-C4N2 +>
+
+en: indazole
+ru: индазол
+// http://charchem.org/ru/subst-ref/?id=6738&langMode=all&langs=%2A
+
+*: <+ C3N2-C6 +>
+
+en: indole
+ru: индол 
+// http://charchem.org/ru/subst-ref/?id=3137&langMode=all&langs=%2A
+
+*: <+ C4N-C6 +>
+
+en: isoindole
+ru: изоиндол
+// http://charchem.org/ru/subst-ref/?id=6739&langMode=all&langs=%2A
+
+*: <+ C4N-C6 +>
+
+en: indolizine
+ru: индолизин
+// http://charchem.org/ru/subst-ref/?id=6740&langMode=all&langs=%2A
+
+*: <+ C4N-C5N +>
+
+en: pyrrolizine
+// ru: НЕ пирролизин, т.к. это аминокислота, а не гетероцикл - Pyrrolysine. отличие в одной букве Y - pyrrolYsine
+// http://charchem.org/ru/subst-ref/?id=6741&langMode=all&langs=%2A
+
+*: <+ C4N-C4N +>
+
+@p .colspan2
+en: Seven-membered heterocyclic rings or larger with at least one nitrogen atom, for example azepine
+ru: Семичленные гетероциклические кольца или больше с по крайней мере одним атомом азота, например азепин
+
+@p .colspan2
+en: Six-membered heterocyclic rings with at least three heteroatoms including at least one nitrogen atom, for example 
+1,3,5-oxadiazine
+ru: Шестичленные гетероциклические кольца с по крайней мере тремя гетероатомами, включая по крайней мере один атом азота, 
+например 1,3,5-оксадиазин <br>
+
+@p .colspan2
+en: Six-membered heterocyclic rings with at least one nitrogen atom and a different heteroatom, for example 1,2-thiazine
+ru: Шестичленные гетероциклические кольца с по крайней мере одним атомом азота и другим гетероатомом, например 1,2-тиазин
+
+en: pyridazine
+ru: пиридазин
+// http://charchem.org/ru/subst-ref/?id=688&langMode=all&langs=%2A
+
+*: <+ C4N2 +>
+
+en: pyrimidine
+ru: пиримидин
+// http://charchem.org/ru/subst-ref/?id=158&langMode=all&langs=%2A
+
+*: <+ C4N2 +>
+
+en: pyrazine
+ru: пиразин
+// http://charchem.org/ru/subst-ref/?id=689&langMode=all&langs=%2A
+
+*: <+ C4N2 +>
+
+en: pyridine
+ru: пиридин
+// http://charchem.org/ru/subst-ref/?id=29&langMode=all&langs=%2A
+
+*: <+ C5N +>
+
+@p .colspan2
+en: Five-membered heterocyclic rings with at least three heteroatoms, including at least one nitrogen atom, for example 
+1,2,5-oxadiazole (formerly called furazan) 
+ru: Пятичленные гетероциклические кольца с по крайней мере тремя гетероатомами, включая по крайней мере один атом азота, 
+например 1,2,5-оксадиазол (ранее назывался фуразан)
+
+@p .colspan2
+en: Five-membered heterocyclic rings with one nitrogen atom and a different heteroatom, for example 1,2-oxazole
+ru: Пятичленные гетероциклические кольца с одним атомом азота и другим гетероатомом, например 1,2-оксазол
+
+en: pyrazole
+ru: пиразол 
+// http://charchem.org/ru/subst-ref/?id=1901&langMode=all&langs=%2A
+
+*: <+ C3N2 +>
+
+en: imidazole
+ru: имидазол
+// http://charchem.org/ru/subst-ref/?id=1900&langMode=all&langs=%2A
+
+*: <+ C3N2 +>
+
+en: pyrrole
+ru: пиррол 
+// http://charchem.org/ru/subst-ref/?id=47&langMode=all&langs=%2A
+
+*: <+ C4N +>
+
+@p .colspan2
+en: Four- or three-membered heterocyclic rings with at least one nitrogen atom, for example azirene
+ru: Пятичленные гетероциклические кольца с одним атомом азота и другим гетероатомом, например 1,2-оксазол
+
+@p .colspan2
+en: Heterocyclic ring with halogen atom, but no nitrogen atom, for example 1λ^{3}-1,2-iodoxole
+ru: Гетероциклическое кольцо с атомом галогена, но без атома азота, например 1λ^{3}-1,2-иодоксол
+
+en: phenoxathiine
+ru: феноксатиин
+// http://charchem.org/ru/subst-ref/?id=6747
+
+*: <+ C4OS-C6-C6 +>
+
+en: phenoxaselenine
+ru: феноксаселенин
+
+*: <+ C4OSe-C6-C6 +>
+
+en: phenoxatellurine
+ru: феноксателлурин
+
+*: <+ C4OTe-C6-C6 +>
+
+en: phenoxaphosphinine
+ru: феноксафосфинин
+
+*: <+ C4OP-C6-C6 +>
+
+en: phenoxarsinine
+ru: феноксарсинин
+
+*: <+ C4OAs-C6-C6 +>
+
+en: phenoxastibinine
+ru: феноксастибинин
+
+*: <+ C4OSb-C6-C6 +>
+
+en: oxanthrene
+ru: оксантрен
+
+*: <+ C4O2-C6-C6 +>
+
+en: xanthene
+ru: ксантен
+// http://charchem.org/ru/subst-ref/?id=6742&langMode=&langs=
+
+*: <+ C5O-C6-C6 +>
+
+en: 1-benzopyran 
+ru: 1-бензопиран	
+// http://charchem.org/ru/subst-ref/?id=6748
+
+*: <+ C5O-C6 +>
+
+en: 2-benzopyran 
+ru: 2-бензопиран	
+
+*: <+ C5O-C6 +>
+
+@p .colspan2
+en: Seven-membered heterocyclic ring or larger with at least one oxygen atom (no nitrogen atom), for example oxepine 
+ru: Семичленное гетероциклическое кольцо или больше, по крайней мере с одним атомом кислорода (без атома азота), 
+например, оксепин
+
+@p .colspan2
+en: Six-membered heterocyclic ring with two or more heteroatoms, at least one of which is oxygen, for example  
+1,4-dioxine
+ru: Шестичленное гетероциклическое кольцо с двумя или более гетероатомами, по крайней мере один из которых является 
+кислородом, например 1,4-диоксин
+
+en: pyran
+ru: пиран
+
+*: <+ C5O +>
+
+@p .colspan2
+en: Five-membered heterocyclic ring with two or more heteroatoms, one of which is oxygen (no nitrogen atom), for 
+example 1,3-dioxole 
+ru: Пятичленный гетероцикл с двумя или более гетероатомами, один из которых — кислород (без атома азота), 
+например, 1,3-диоксол
+
+en: furan
+ru: фуран
+// http://charchem.org/ru/subst-ref/?langs=*&id=48
+
+*: <+ C4O +>
+
+@p .colspan2
+en: Four- or three-membered heterocyclic ring with at least one oxygen atom (no nitrogen atom), for example oxirene 
+ru: Четырех- или трехчленное гетероциклическое кольцо с по крайней мере одним атомом кислорода (без атома азота), 
+например оксирен
+
+en: phenothiarsinine
+ru: фенотиарсинин
+
+*: <+ C4SAs-C6-C6 +>
+
+en: thianthrene
+ru: тиантрен
+// http://charchem.org/ru/subst-ref/?id=6749
+
+*: <+ C4S2-C6-C6 +>
+
+en: thioxanthene
+ru: тиоксантен
+// http://charchem.org/ru/subst-ref/?id=6750
+
+*: <+ C4S-C6-C6 +>
+
+en: 1-benzothiopyran
+ru: 1-бензотиопиран
+
+*: <+ C5S-C6 +>
+
+en: 2-benzothiopyran
+ru: 2-бензотиопиран
+
+*: <+ C5S-C6 +>
+
+@p .colspan2
+en: Heteromonocyclic ring with at least one sulfur atom (no N or O atoms), for example thiopyran, <%s%> 
+ru: Гетеромоноциклическое кольцо с по крайней мере одним атомом серы (без атомов N или O), например, тиопиран, <%s%>
+%s: <+ C5S +>
+
+en: thiophene
+ru: тиофен
+// http://charchem.org/ru/subst-ref/?langs=*&id=49
+
+*: <+ C4S +>
+
+en: selenanthrene
+ru: селенантрен
+
+*: <+ C4Se2-C6-C6 +>
+
+en: selenoxanthene
+ru: селеноксантен
+
+*: <+ C5Se-C6-C6 +>
+
+en: 1-benzoselenopyran
+ru: 1-бензоселенопиран
+
+*: <+ C5Se-C6 +>
+
+en: 2-benzoselenopyran
+ru: 2-бензоселенопиран
+
+*: <+ C5Se-C6 +>
+
+@p .colspan2
+en: Heteromonocyclic ring with at least one selenium atom (no N, O or S atoms), for example selenopyran, <%s%> 
+ru: Гетеромоноциклическое кольцо по крайней мере с одним атомом селена (без атомов N, O или S), например селенопиран, <%s%>
+%s: <+ C5Se +>
+
+en: selenophene
+ru: селенофен	
+// http://charchem.org/ru/subst-ref/?langs=*&id=6720
+
+*: <+ C4Se +>
+
+en: telluranthrene
+ru: теллурантрен
+
+*: <+ C4Te2-C6-C6 +>
+
+en: telluroxanthene
+ru: теллуроксантен
+
+*: <+ C5Te-C6-C6 +>
+
+en: 1-benzotelluropyran
+ru: 1-бензотеллуропиран
+
+*: <+ C5Te-C6 +>
+
+en: 2-benzotelluropyran
+ru: 2-бензотеллуропиран
+
+*: <+ C5Te-C6 +>
+
+@p .colspan2
+en: Heteromonocyclic ring with at least one tellurium atom (no N, O, S, or Se atoms), for example telluropyran, <%s%>
+ru: Гетеромоноциклическое кольцо по крайней мере с одним атомом теллура (без атомов N, O, S или Se), 
+например, теллуропиран, <%s%>
+%s: <+ C5Te +>
+
+en: tellurophene
+ru: теллурофен
+// http://charchem.org/ru/subst-ref/?langs=*&id=6721
+
+*: <+ C4Te +>
+
+en: phosphanthrene
+ru: фосфантрен
+
+*: <+ C4P2-C6 +>
+
+en: acridophosphine
+ru: акридофосфин
+
+*: <+ C5P-C6-C6 +>
+
+en: phosphanthridine
+ru: фосфантридин
+
+*: <+ C5P-C6-C6 +>
+
+en: phosphinoline
+ru: фосфинолин
+
+*: <+ C5P-C6-C6 +>
+
+en: isophosphinoline
+ru: изофосфинолин
+
+*: <+ C5P-C6 +>
+
+en: phosphinolizine
+ru: фосфинолизин
+
+*: <+ C5P-C6 +>
+
+en: phosphindole
+ru: фосфиндол
+
+*: <+ C4P-C6 +>
+
+en: isophosphindole
+ru: изофосфиндол
+
+*: <+ C4P-C6 +>
+
+en: phosphindolizine
+ru: фосфиндолизин
+
+*: <+ C4P-C5P +>
+
+@p .colspan2
+en: Heteromonocyclic ring with at least one phosphorus atom (no N, O, S, Se, or Te atoms) 
+ru: Гетеромоноциклическое кольцо с по крайней мере одним атомом фосфора (без атомов N, O, S, Se или Te)
+
+en: arsanthrene
+ru: арсантрен
+
+*: <+ C4As2-C6 +>
+
+en: acridarsine
+ru: акридарсин
+
+*: <+ C5As-C6-C6 +>
+
+en: arsanthridine
+ru: арсантридин
+
+*: <+ C5As-C6-C6 +>
+
+en: arsinoline
+ru: арсинолин
+
+*: <+ C5As-C6-C6 +>
+
+en: isoarsinoline
+ru: изоарсинолин
+
+*: <+ C5As-C6 +>
+
+en: arsinolizine
+ru: арсинолизин
+
+*: <+ C5As-C6 +>
+
+en: arsindole
+ru: арсиндол
+
+*: <+ C4As-C6 +>
+
+en: isoarsindole
+ru: изоарсиндол
+
+*: <+ C4As-C6 +>
+
+en: arsindolizine
+ru: арсиндолизин
+
+*: <+ C4As-C5As +>
+
+@p .colspan2
+en: Heteromonocyclic ring with at least one arsenic atom, and Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In, and Tl as possible 
+heteroatoms.
+ru: Гетеромоноциклическое кольцо по крайней мере с одним атомом мышьяка и Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In и Tl 
+в качестве возможных гетероатомов.
+
+en: silanthrene
+ru: силантрен
+
+*: <+ C4Si2-C6-C6 +>
+
+en: boranthrene
+ru: борантрен
+
+*: <+ C4B2-C6-C6 +>
+
+</div>
+
+#P-25.8.2
+en: Partial list of hydrocarbon parent components in decreasing order of seniority 
+ru: Частичный список углеводородных &(parent component|ro*) в порядке убывания старшинства
+
+en: Parent components are arranged: 
+ru: &(Parent component|*) сортируются следующим образом:
+
+@List 1
+
+@item
+en: in decreasing order of number of rings;
+ru: в порядке убывания количества колец;
+
+@item
+en: in decreasing order of ring size; 
+ru: в порядке убывания размера кольца;
+
+@item
+en: in decreasing order of senior orientation; 
+ru: в порядке убывания ствршинства ориентации;
+
+@item
+en: for aceanthrylene and acephenanthrylene, in increasing order of fusion atom locants; 
+ru: для ацеантрилена и ацефенантрилена, в порядке возрастания локантов &(fusion atom|ro*);
+
+@item
+en: in the order of seniority used by CAS the indacenes precede biphenylene.
+ru: в порядке старшинства, используемом CAS, индацены предшествуют бифенилену.
+
+@End
+
+<div class="two-col-list">
+
+en: ovalene
+ru: овален
+// http://charchem.org/ru/subst-ref/?langs=*&id=406
+
+*: <+ C6C6C6C6C6C6C6C6C6C6 +>
+
+en: octaphenylene
+ru: октафенилен	
+// http://charchem.org/ru/subst-ref/?id=6751
+
+*: <+ C16C6C6C6C6C6C6C6C6 +>
+
+en: tetranaphthylene
+ru: тетранафтилен	
+// http://charchem.org/ru/subst-ref/?id=6752
+
+*: <+ C8C6C6C6C6C6C6C6C6 +>
+
+en: nonacene
+ru: нонацен
+// http://charchem.org/ru/subst-ref/?id=5386&langs=%2A
+
+*: <+ C6C6C6C6C6C6C6C6C6 +>
+
+en: nonaphene
+ru: нонафен
+// http://charchem.org/ru/subst-ref/?id=6753
+
+*: <+ C6C6C6C6C6C6C6C6C6 +>
+
+en: nonahelicene
+ru: нонахелицен	
+// http://charchem.org/ru/subst-ref/?id=6754
+
+*: <+ C6C6C6C6C6C6C6C6C6 +>
+
+en: octacene
+ru: октацен	
+
+*: <+ C6C6C6C6C6C6C6C6 +>
+
+en: octaphene
+ru: октафен	
+// http://charchem.org/ru/subst-ref/?id=6755
+
+*: <+ C6C6C6C6C6C6C6C6 +>
+
+en: pyranthrene
+ru: пирантрен
+// http://charchem.org/ru/subst-ref/?langs=*&id=6724
+
+*: <+ C6C6C6C6C6C6C6C6 +>
+
+en: octahelicene
+ru: октахелицен
+// http://charchem.org/ru/subst-ref/?id=6756
+
+*: <+ C6C6C6-C6C6C6C6C6 +>
+
+en: hexaphenylene
+ru: гексафенилен 
+
+*: <+ C12C6C6C6C6C6C6 +>
+
+en: heptacene
+ru: гептацен
+
+*: <+ C6C6C6C6C6C6C6 +>
+
+en: heptaphene
+ru: гептафен
+// http://charchem.org/ru/subst-ref/?id=6758
+
+*: <+ C6C6C6C6C6C6C6 +>
+
+en: trinaphthylene
+ru: тринафтилен
+// http://charchem.org/ru/subst-ref/?id=6759
+
+*: <+ C6C6C6C6C6C6C6 +>
+
+en: coronene
+ru: коронен
+// http://charchem.org/ru/subst-ref/?langs=*&id=256
+
+*: <+ C6C6C6C6C6C6C6 +>
+
+en: heptahelicene
+ru: гептахелицен
+// http://charchem.org/ru/subst-ref/?id=6760
+
+*: <+ C6C6C6C6C6C6C6 +>
+
+en: rubicene
+ru: рубицен
+// http://charchem.org/ru/subst-ref/?langs=*&id=6725
+
+*: <+ C6C6C6C6C6C5C5 +>
+
+en: hexacene
+ru: гексацен
+// http://charchem.org/ru/subst-ref/?langs=*&id=5229
+
+*: <+ C6C6C6C6C6C6 +>
+
+en: hexaphene
+ru: гексафен	
+// http://charchem.org/ru/subst-ref/?id=6761
+
+*: <+ C6C6C6C6C6C6 +>
+
+en: hexahelicene
+ru: гексахелицен
+// http://charchem.org/ru/subst-ref/?id=6762
+
+*: <+ C6C6C6C6C6C6 +>
+
+</div>

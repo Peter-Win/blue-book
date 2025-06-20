@@ -1,5 +1,6 @@
 const { ChemSys } = require("charchem2");
 const { drawTag } = require("charchem2/dist/utils/xml/drawTag");
+const { buildTerm } = require("./buildTerm");
 
 /**
  * 
@@ -48,6 +49,12 @@ const buildChunk = (chunk, params, ctx) => {
       attrs["class"] = "wrong-part";
     }
     return drawTag("a", attrs) + content + `</a>`;
+  }
+  if (type === "term") {
+    return buildTerm(content, ctx.terms);
+  }
+  if (type === "ringsDef") {
+    return content.replace(/\d+/g, c => `<sub>${c}</sub>`);
   }
 
   return `<strong style="color: red">${type}</strong>`;

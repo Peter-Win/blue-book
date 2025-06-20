@@ -142,3 +142,24 @@ a.wrong-part {
 .bottom-space {
   margin-bottom: 1rem;
 }
+
+.term {
+  text-decoration: underline dotted #CCC;
+  font-style: normal;
+}
+
+.two-col-list {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 2em;
+  row-gap: 0.2em;
+}
+
+.two-col-list > * {
+  margin: 0;
+  padding: 0;
+}
+
+.colspan2 {
+  grid-column: span 2;
+}
