@@ -1,4 +1,27 @@
 {
+
+  "amplification": "амплификация",
+  "amplification|ro": "амплификации",
+  "amplification|tv": "амплификацией",
+
+  "amplification prefix": "префикс амплификации",
+  "amplification prefix|ro": "префикса амплификации",
+  "amplification prefix|tv": "префиксом амплификации",
+  "amplification prefix|*": "префиксы амплификации",
+  "amplification prefix|ro*": "префиксов амплификации",
+  "amplification prefix|tv*": "префиксами амплификации",
+
+  "attachment atom": "атом прикрепления",
+  "attachment atom|*": "атомы прикрепления",
+  "attachment atom|tv*": "атомами прикрепления",
+
+  "attachment locant": "локант прикрепления",
+  "attachment locant|ro": "локанта прикрепления",
+  "attachment locant|da": "локанту прикрепления",
+  "attachment locant|*": "локанты прикрепления",
+  "attachment locant|ro*": "локантов прикрепления",
+  "attachment locant|tv*": "локантами прикрепления",
+
   "bridged fused ring system": "система мостиковых конденсированных колец",
   "bridged fused ring system|*": "системы мостиковых конденсированных колец",
   "bridged fused ring system|ro*": "систем мостиковых конденсированных колец",
@@ -6,6 +29,14 @@
   "bridged fused ring system|vi*": "системы мостиковых конденсированных колец",
   "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
+
+  "cyclophane": "циклофан",
+  "cyclophane|*": "циклофаны",
+  "cyclophane|ro*": "циклофанов",
+
+  "fused ring system": "конденсированная кольцевая система",
+  "fused ring system|tv": "конденсированной кольцевой системой",
+
 
   "fusion atom": "атом слияния",
   "fusion atom|*": "атомы слияния",
@@ -48,9 +79,81 @@
   "parent heterocycle|*": "исходные гетероциклы",
   "parent heterocycle|vi*": "исходные гетероциклы",
 
+  "parent hydride": "исходный гидрид",
+  "parent hydride|ro": "исходного гидрида",
+  "parent hydride|*": "исходные гидриды",
+  "parent hydride|ro*": "исходных гидридов",
+
+  "parent name": "исходное имя",
+  "parent name|ro": "исходного имени",
+  "parent name|da": "исходному имени",
+
+  "parent structure": "исходная структура",
+  "parent structure|*": "исходные структура",
+
+  "parent skeleton": "исходный скелет",
+  "parent skeleton|ro": "исходного скелета",
+
+  "phane": "фан",
+  "phane|*": "фаны",
+  "phane|ro*": "фанов",
+
+  "phane name": "название фан",
+  "phane name|ro": "названия фан",
+  "phane name|*": "названия фан",
+  "phane name|ro*": "названий фан",
+
+  "phane nomenclature": "номенклатура фан",
+  "phane nomenclature|ro": "номенклатуры фан",
+  "phane nomenclature|da": "номенклатуре фан",
+  "phane nomenclature|vi": "номенклатуру фан",
+  "phane nomenclature|tv": "номенклатурой фан",
+  "phane nomenclature|pr": "номенклатуре фан",
+
+  "phane parent hydride": "исходный гидрид фан",
+  "phane parent hydride|ro": "исходного гидрида фан",
+  "phane parent hydride|tv": "исходным гидридом фан",
+  "phane parent hydride|pr": "исходном гидриде фан",
+  "phane parent hydride|*": "исходные гидриды фан",
+  "phane parent hydride|ro*": "исходных гидридов фан",
+
+  "phane parent graph": "исходный граф фан",
+  "phane parent graph|ro": "исходного графа фан",
+  "phane parent graph|tv": "исходным графом фан",
+  "phane parent graph|pr": "исходном графе фан",
+
+  "phane parent name": "название исходного фан",
+  "phane parent name|ro": "названия исходного фан",
+  "phane parent name|tv": "названием исходного фан",
+  "phane parent name|pr": "названии исходного фан",
+  "phane parent name|*": "названия исходного фан",
+  "phane parent name|ro*": "названий исходного фан",
+  "phane parent name|tv*": "названиями исходного фан",
+  "phane parent name|pr*": "названиях исходного фан",
+
+  "phane parent skeleton": "исходный скелет фан",
+  "phane parent skeleton|ro": "исходного скелета фан",
+  "phane parent skeleton|tv": "исходным скелетом фан",
+  "phane parent skeleton|pr": "исходном скелете фан",
+  "phane parent skeleton|*": "исходные скелеты фан",
+  "phane parent skeleton|ro*": "исходных скелетов фан",
+
+  "phane replacement": "замена фан",
+  "phane replacement|tv": "заменой фан",
+
+  "phane skeleton": "скелет фановой структуры",
+  "phane skeleton|ro": "скелета фановой структуры",
+  "phane skeleton|*": "скелеты фановых структур",
+  "phane skeleton|ro*": "скелетов фановых структур",
+
+  "phane system": "система фан",
+
   "ring assembly": "кольцевая сборка",
   "ring assembly|*": "кольцевые сборки",
   "ring assembly|ro*": "кольцевых сборок",
+
+  "skeletal replacement a": "скелетное замещения (‘a’)",
+  "skeletal replacement a|ro": "скелетного замещения (‘a’)",
 
   "spiro atom": "спироатом",
   "spiro atom|*": "спироатомы",

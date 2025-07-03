@@ -13,7 +13,7 @@ const buildTerm = (code, dict) => {
     }
     return `<em class="term">${term}</em>`;
   }
-  return `<span style="color: orange">${code}</span>`;
+  return `<span style="color: #F0C; font-weight: bold">${code}</span>`;
 }
 
 module.exports = {buildTerm}

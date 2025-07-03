@@ -1,15 +1,1657 @@
 #P-26 
 en: Phane nomenclature 
-ru: Номенклатура Phane
+ru: &(Phane nomenclature)
 
-#P-27 
-en: Fullerenes 
-ru: Фуллерены
+@Content
 
-#P-28 
-en: Ring assemblies 
-ru: Кольцевые сборки
+#P-26.0
+en: Introduction 
+ru: Введение
 
-#P-29 
-en: Prefixes denoting substituent groups derived from parent hydrides 
-ru: Префиксы, обозначающие замещающие группы, полученные из исходных гидридов
+en: This section is based on the publication ‘Phane nomenclature, Part I. Phane parent names’ (ref. 5) and this new edition 
+contains no modifications or changes to the recommendations contained therein except a change in the usage of 
+brackets for heterocyclic amplificants which require locants.  
+ru: Этот раздел основан на публикации «Phane nomenclature, Part I. Phane parent names» (ссылка 5), и это 
+новое издание не содержит никаких изменений или модификаций рекомендаций, содержащихся в нем, за исключением изменения 
+в использовании скобок для гетероциклических амплификатов, для которых требуются локанты.
+
+en: When a phane system contains a heterocyclic amplificant with locants, they are enclosed in brackets (see P-26.4.2.2, 
+example 1 and P-26.5.1, example 2). 
+ru: Если &(phane system) содержит гетероциклический амплификант с локантами, они заключаются в скобки (см. P-26.4.2.2, 
+пример 1 и P-26.5.1, пример 2).
+
+en: Phane nomenclature is specific to cyclic or acyclic compounds composed of rings or ring systems directly linked to 
+each other or linked by atoms or chains. 
+ru: &(Phane nomenclature) специфична для циклических или ациклических соединений, состоящих из колец или кольцевых систем, 
+непосредственно связанных друг с другом или связанных атомами или цепями.
+
+en: Cyclophanes are recognized as a class of compounds (refs. 19, 23). The term originally applied to compounds having 
+two 1,4-phenylene groups held face to face by <%cn%> bridges (ref. 23). It now designates compounds having: 
+ru: &(Cyclophane|*) признаны классом соединений (ссылки 19, 23). Термин первоначально применялся к соединениям, имеющим 
+две 1,4-фениленовые группы, удерживаемые лицом к лицу мостиками <%cn%> (ссылка 23). Теперь он обозначает соединения, имеющие:
+%cn: <$ –[CH2]'n'– $>
+
+@List
+
+@item
+en:  saturated and/or mancude rings or ring systems, or assemblies of saturated and/or mancude rings or ring systems 
+and; 
+ru: насыщенные и/или укороченные кольца или кольцевые системы, или сборки насыщенных и/или укороченных колец или 
+кольцевых систем и;
+
+@item
+en:  atoms and/or saturated or unsaturated chains as alternate components of a large ring. 
+ru: атомы и/или насыщенные или ненасыщенные цепи как альтернативные компоненты большого кольца.
+
+@End
+
+en: Phane nomenclature is used to name cyclophanes and has been extended to linear compounds (for the use of phane 
+nomenclature in the generation of preferred IUPAC names see P-52.2.5). 
+ru: &(Phane nomenclature) используется для наименования &(cyclophane|ro*) и была распространена на линейные соединения 
+(об использовании &(phane nomenclature|ro) при создании предпочтительных названий ИЮПАК см. P-52.2.5).
+
+#P-26.1
+en: Concepts and terminology 
+ru: Концепции и терминология
+
+en: Definitions of terms that will be encountered in the construction of phane names are given below. These terms refer to 
+types of operations, to the components of phane names, and to details of structures involved in the operations. 
+ru: Определения терминов, которые будут встречаться при построении &(phane name|ro*), приведены ниже. Эти термины 
+относятся к типам операций, к компонентам &(phane name|ro*) и к деталям структур, участвующих в операциях.
+
+#P-26.1.1
+en: Simplification and amplification 
+ru: Упрощение и &(amplification)
+
+en: The fundamental operations of phane nomenclature are illustrated in Fig. 2.1. The operation proceeding from left to 
+right is called simplification; the reverse operation is called amplification, or phane replacement. 
+The simplification operation illustrates the initial step in the process of constructing a phane name, namely, the 
+replacement of nomenclaturally significant segments of a complex cyclic structure by single atom symbols, called 
+superatoms, thus producing a simplified skeleton that can more easily be named. The phane parent hydride name is then 
+formed from the name of the simplified skeleton and those of the cyclic components (called amplificants) that were 
+simplified to superatoms. In contrast to other bonds associated with the amplificant, the bonds marked by arrows in Fig. 
+2.1 do not disappear in the simplification or amplification operations.
+ru: Основные операции &(phane nomenclature|ro) показаны на рис. 2.1. Операция, выполняемая слева направо, называется 
+упрощением; обратная операция называется &(amplification|tv) или &(phane replacement|tv). Операция упрощения иллюстрирует 
+начальный шаг в процессе построения &(phane name|ro), а именно замену номенклатурно значимых сегментов сложной циклической 
+структуры на символы отдельных атомов, называемые суператомами, таким образом создавая упрощенный скелет, который легче 
+назвать. Затем название &(phane parent hydride|ro) формируется из имени упрощенного скелета и тех циклических компонентов 
+(называемых амплификантами), которые были упрощены до суператомов. В отличие от других связей, связанных с амплификантом, 
+связи, отмеченные стрелками на рис. 2.1, не исчезают при операциях упрощения или &(amplification|ro).
+
+@Examples 3 --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor(blue)"&t">@;
+@:na()<_(a-180,L.6,N0){}_(a90,L.4,N0){}_(a0,L1.5,<)>@;
+$L(%L:1.2)$slope(60)/@n(2,60)-@n(3,120)\@n(4,180)<`/@n(5,-120)`-@n(6,-60)`\@n(1,0)@bt(4,120,%L)>$slope(30)\@na()@bt(5)|@bt(6)_(a60,L%d:1.35)@na()|@n(4,-150)`/@n(5,-90)`\@n(6,-30)`|@n(1,30)</@n(2,90)\@n(3,150)@bt(1,120,%L)>_(a-60,L%d)@na()@bt(2)`|@bt(3)/#1@na()
+$>
+
+en: phane parent skeleton  <br>
+graph A
+ru: &(phane parent skeleton)  <br>
+граф A
+
+@cell
+en: simplification
+ru: упрощение
+
+<div class="">
+
+<div class="arrow-right"></div>
+
+<div class="arrow-right" style="transform: rotate(180deg)"></div>
+
+en: amplification
+ru: &(amplification)
+
+</div>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:na()<_(a-180,L.6,N0){}_(a90,L.4,N0){}_(a0,L1.5,<)>@;
+|@n(6,30)`/{●}@n(1,90,.6)@na()`\@n(2,150)@na()`|@n(3,-150)/{●}@n(4,-90,.6)@na()\@n(5,-30)@na()
+$>
+
+en: simplified skeleton <br>
+graph B 
+ru: упрощённый скелет <br>
+граф B
+
+@End
+
+@Fig. 2.1
+en: Phane nomenclature conversion diagram 
+ru: Диаграмма преобразования &(phane nomenclature|ro)
+
+#P-26.1.2
+en: Simplified skeleton of the phane parent hydride, simplified phane parent graph, simplified skeletal name, and 
+skeletal locants. 
+ru: Упрощенный скелет &(phane parent hydride|ro), упрощенный &(phane parent graph), упрощенное название скелета 
+и локанты скелета.
+
+en: Graph B in Fig. 2.1 at which simplication ends and amplification starts is called the simplified skeleton of the phane 
+parent hydride, or simply the simplified skeleton, and is represented by a simplified phane parent graph. Its name is the 
+simplified skeletal name. A simplified skeletal name implies a specific skeletal numbering; its locants are the skeletal 
+locants, which become the primary locants for the phane parent hydride. In Fig. 2.1, the skeletal locants are denoted by 
+large numbers; they are the same in the simplified skeleton and in the phane parent skeleton.
+ru: Граф B на рис. 2.1, на котором заканчивается упрощение и начинается &(amplification), называется упрощенным скелетом 
+&(phane parent hydride|ro) или просто упрощенным скелетом и представлен упрощенным &(phane parent graph|tv). 
+Его название — упрощенное скелетное название. Упрощенное скелетное название подразумевает определенную скелетную нумерацию; 
+его локанты — скелетные локанты, которые становятся первичными локантами для &(phane parent hydride|ro). 
+На рис. 2.1 скелетные локанты обозначены большими числами; они одинаковы в упрощенном скелете и в &(phane parent skeleton|pr).
+
+#P-26.1.3
+en: Superatom and superatom locants
+ru: Суператом и локанты суператома
+
+en: The ‘atoms’ of the simplified skeleton shown by the symbol ● in positions ‘1’ and ‘4’ in graph B in Fig. 2.1 that appear 
+on simplification and disappear in amplification are called superatoms. Their locants are called superatom locants. 
+ru: «Атомы» упрощенного скелета, показанные символом ● в позициях «1» и «4» на графе B на рис. 2.1, которые появляются 
+при упрощении и исчезают при &(amplification|ro), называются суператомами. Их локанты называются локантами суператомов.
+
+#P-26.1.4
+en: Amplificant, amplification prefix, and amplificant locants. 
+ru: Амплификант, &(amplification prefix) и локанты амплификанта.
+
+en: A multiatomic unit (a ring or a ring system) of structure replacing a superatom in the amplification operation is called 
+an amplificant; the six-membered rings in Graph A are amplificants. They are expressed in a phane parent name by 
+amplification prefixes. Each such prefix implies a specific numbering of the amplificant; the respective locants are 
+called amplificant locants and are shown as the smaller numbers in Graph A. 
+ru: Многоатомная единица (кольцо или кольцевая система) структуры, заменяющая суператом в операции &(amplification|ro), 
+называется амплификантом; шестичленные кольца в графе A являются амплификантами. Они выражаются в &(phane parent name|pr) 
+с помощью &(amplification prefix|ro*). Каждый такой префикс подразумевает определенную нумерацию амплификанта; 
+соответствующие локанты называются локантами амплификанта и показаны в графе A как меньшие числа.
+
+#P-26.1.5
+en: Attachment atoms and attachment locants. 
+ru: &(Attachment atom|*) и &(attachment locant|*).
+
+en: The atoms of an amplificant to which the bonds marked by arrows in Fig. 2.1 are attached are called attachment atoms 
+and their locants are attachment locants. In Graph A in Fig. 2.1, amplificant locants ‘1’ and ‘4’ are the attachment 
+locants of the upper ring and amplificant locants ‘1’ and ‘3’ are the attachment locants of the lower ring. 
+ru: Атомы амплификанта, к которым присоединены связи, отмеченные стрелками на рис. 2.1, называются &(attachment atom|tv*), 
+а их локанты — &(attachment locant|tv*). В графе A на рис. 2.1 локанты амплификанта «1» и «4» являются &(attachment 
+locant|tv*) верхнего кольца, а локанты амплификанта «1» и «3» являются &(attachment locant|tv*) нижнего кольца.
+
+#P-26.1.6
+en: Phane parent skeleton, phane parent name, and phane parent hydrides
+ru: &(Phane parent skeleton), &(phane parent name) и &(phane parent hydride|*).
+
+en: The skeletal graph at the start of the simplification operation or resulting from an amplification operation is called a 
+phane parent skeleton. Correspondingly, the combination of the simplified skeletal name, amplification prefixes, and 
+the appropriate superatom and attachment locants, is called a phane parent name. The term parent implies that it can be 
+combined with names for other components derived from the operations of systematic nomenclature of organic 
+chemistry, such as substituent prefixes, hydrogenation prefixes and endings, and characteristic group suffixes. In the 
+absence of such other components, the compound is a phane parent hydride, which means that the name implies the 
+order (valence) of all bonds of the skeletal parent and thus the number of hydrogen atoms attached to each of the 
+skeletal atoms. 
+ru: Скелетный граф в начале операции упрощения или полученный в результате операции &(amplification|ro) называется 
+&(phane parent skeleton|tv). Соответственно, комбинация упрощенного скелетного названия, префиксов &(amplification|ro) 
+и соответствующих суператома и &(attachment locant|ro*) называется &(phane parent name|tv). 
+Термин исходный подразумевает, что его можно комбинировать с именами других компонентов, полученных из операций 
+систематической номенклатуры органической химии, такими как префиксы заместителей, префиксы и окончания гидрирования 
+и характерные суффиксы групп. При отсутствии таких других компонентов соединение является &(phane parent hydride|tv), 
+что означает, что имя подразумевает порядок (валентность) всех связей скелетного родителя и, таким образом, количество 
+атомов водорода, присоединенных к каждому из атомов скелета.
+
+#P-26.2
+en: Components of phane parent names 
+ru: Компоненты &(phane parent name|ro*)
+
+@Content
+
+#P-26.2.1
+en: Simplified skeletal names 
+ru: Упрощенные скелетные названия
+
+en: A simplified skeletal name consists of the term ‘phane’ preceded by a prefix denoting the structure of the simplified 
+skeleton; this name is a parent for amplification but for no other operation. The simplification operation must be done in 
+such a way that the amplificants can be expressed by amplification prefixes (see P-26.2.2). 
+ru: Упрощенное скелетное имя состоит из термина «&(phane)», которому предшествует префикс, обозначающий структуру 
+упрощенного скелета; это имя является исходным для &(amplification|ro), но не для какой-либо другой операции. 
+Операция упрощения должна быть выполнена таким образом, чтобы амплификанты могли быть выражены 
+&(amplification prefix|tv*)  (см. P-26.2.2).
+
+en: A bond order of one is assumed for all bonds expressed by a simplified skeletal name. Atoms not identified by 
+superatoms represent, by convention, carbon atoms with a bonding number (valence) of four in accordance with the 
+principles of nomenclature of organic compounds. 
+ru: Для всех связей, выраженных упрощенным скелетным названием, предполагается порядок связи один. 
+Атомы, не являющиеся суператомами, представляют, по соглашению, атомы углерода с числом связей (валентностью), 
+равным четырем, в соответствии с принципами номенклатуры органических соединений.
+
+en: Superatoms of a simplified skeletal name are assigned the lowest locants or the lowest set of locants, consistent with the 
+numbering of the skeletal class to which it belongs. The lowest set of locants is the one that has the locant with the 
+lowest numerical value at the first point of difference, when the sets are compared term by term in order of increasing 
+value (see P-14.3.5).  
+ru: Суператомам упрощенного скелетного имени назначаются наименьшие локанты или наименьший набор локантов, 
+соответствующий нумерации скелетного класса, к которому он принадлежит. Наименьший набор локантов — это тот, который 
+имеет локант с наименьшим числовым значением в первой точке различия, когда наборы сравниваются почленно в порядке 
+возрастания значения (см. P-14.3.5).
+
+en: Four types of simplified skeletal structures are described below, unbranched acyclic (P-26.2.1.1), monocyclic  
+(P-26.2.1.2), polycyclic von Baeyer (P-26.2.1.3), and spiro (P-26.2.1.4). 
+ru: Ниже описаны четыре типа упрощенных скелетных структур: неразветвленная ациклическая (P-26.2.1.1), моноциклическая 
+(P-26.2.1.2), полициклическая фон Байера (P-26.2.1.3) и спиро (P-26.2.1.4).
+
+en: Names of simplified skeletons consist of, in order, a prefix (‘cyclo’, ‘bicyclo’, ‘spiro’, etc.) indicating the type of 
+structure, a numerical term ‘di’, ‘tri’, ‘tetra’, etc. indicating the number of nodes (including those designating 
+superatoms), and the term phane. No prefix is used to name linear phanes. The nodes are numbered in accordance with 
+the recommended numbering for each type of structure, as indicated in Chapter P-2. Superatoms are given the lowest 
+possible locants. 
+ru: Названия упрощенных скелетов состоят из, по порядку, префикса («цикло», «бицикло», «спиро» и т. д.), указывающего 
+тип структуры, числового термина «ди», «три», «тетра» и т. д., указывающего количество узлов (включая те, которые 
+обозначают суператомы), и термина &(phane). Для наименования линейных &(phane|ro*) префикс не используется. 
+Узлы нумеруются в соответствии с рекомендуемой нумерацией для каждого типа структуры, как указано в Главе P-2. 
+Суператомам присваиваются наименьшие возможные локанты.
+
+#P-26.2.1.1
+en: Unbranched acyclic simplified skeletal structures
+ru: Неразветвленные ациклические упрощенные скелетные структуры
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1){●}@n(1,90,.6)/@n(2)\{●}@n(3,90,.6)/@n(4)\@n(5)/{●}@n(6,90,.6)\@n(7)/@n(8)\{●}@n(9,90,.6)
+$>
+
+en: ● = superatom <br>
+nonaphane <br>
+(see P-26.4.1.2 and the first example of P-26.5.1) 
+ru: ● = суператом <br>
+нона&(phane) <br>
+(см. P-26.4.1.2 и первый пример P-26.5.1)
+
+@End
+
+#P-26.2.1.2
+en: Monocyclic simplified skeletal structures 
+ru: Моноциклические упрощенные скелетные структуры
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-{●}@n(4,80,.6)_q7@n(3,20)_q7@n(2,-30)_q7{●}@n(1,-90,.6)_q7@n(7,-150)_q7@n(6,160)_q7@n(5,100)
+$>
+
+en: ● = superatom <br>
+cycloheptaphane  <br>
+(see the first example of P-26.4.1.4;  <br>
+the second example of P-26.4.2.2;  <br>
+and the first example of P-26.4.3.3)
+ru: ● = суператом <br>
+циклогепта&(phane) <br>
+(см. первый пример P-26.4.1.4; <br>
+второй пример P-26.4.2.2; <br>
+и первый пример P-26.4.3.3)
+
+@End
+
+#P-26.2.1.3
+en: Polyalicyclic (von Baeyer) simplified skeletal structures 
+ru: Полиалициклические (фон Байер) упрощенные скелетные структуры
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1){●}@n(1,-90,.6)|{●}@n(8,90,.6)<_p7@n(9,60)`-@n(10,120)_p8@n(11,150,.5)`|{●}@n(12,-150,.7)_p8@n(13,-120)-@n(14,-60)_p8>_q8@n(7,120)-@n(6,60)_q8@n(5,30)`|{●}@n(4,-30,.6)_q8@n(3,-60)`-@n(2,-120)_q8
+$>
+
+en: ● = superatom  <br>
+bicyclo[6.6.0]tetradecaphane  <br>
+(see the third example of P-26.4.2.2) 
+ru: ● = суператом <br>
+бицикло[6.6.0]тетрадека&(phane) <br>
+(см. третий пример P-26.4.2.2)
+
+@End
+
+#P-26.2.1.4
+en: Spiro simplified skeletal structures
+ru: Спиро упрощенные скелетные структуры
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1){●}/@n(1,-110)-@n(2,-70)\{●}@n(3,0,.6)`/@n(4,70)`-@n(5,110)`\_(a-127.5)@n(7,60)_p8{●}@n(8,90,.6)_p8@n(9,120)_p8@n(10,180,.5)_p8@n(11,-120,.5)_p8@n(12,-90)_p8@n(13,-80)_p8@n(6,90,.6)
+$>
+
+en: ● = superatom  <br>
+spiro[5.7]tridecaphane  <br>
+(see the second example of P-26.4.2.4) 
+ru: ● = суператом <br>
+спиро[5.7]тридека&(phane) <br>
+(см. второй пример P-26.4.2.4)
+
+@End
+
+#P-26.2.2
+en: Amplification prefixes 
+ru: &(Amplification prefix|*)
+
+#P-26.2.2.1
+en: Naming amplification prefixes
+ru: Именование &(amplification prefix|ro*)
+
+en: Names of amplificant prefixes are those of allowed rings or ring systems (see P-26.2.2.2.1) modified by changing the 
+final letter ‘e’ to ‘a’, or adding the letter ‘a’ when no final letter ‘e’ is present. 
+ru: Имена префиксов амплификантов — это имена разрешенных колец или систем колец (см. P-26.2.2.2.1), измененные путем 
+замены конечной буквы «e» на «a» или добавления буквы «a», если конечная буква «e» отсутствует.
+
+@Examples 2 .left-aligned-cells
+
+@cell
+en: pyrrole (PIN)
+ru: пиррол (PIN)
+
+@cell
+en: pyrrola (preferred prefix)
+ru: пиррола (предпочтительный префикс)
+
+@cell
+en: furan (PIN)
+ru: фуран (PIN)
+
+@cell
+en: furana (preferred prefix) 
+ru: фурана (предпочтительный префикс) 
+
+@cell
+en: pyran (PIN) 
+ru: пиран (PIN) 
+
+@cell
+en: pyrana (preferred prefix)
+ru: пирана (предпочтительный префикс) 
+
+@cell
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+en: naphthalena (preferred prefix) 
+ru: нафталина (предпочтительный префикс) 
+
+@cell
+en: anthracene (PIN) 
+ru: антрацен (PIN) 
+
+@cell
+en: anthracena (preferred prefix) 
+ru: антрацена (предпочтительный префикс)
+
+@End
+
+#P-26.2.2.2
+en: Parent hydride names for deriving amplification prefixes
+ru: Названия &(parent hydride|ro*) для получения &(amplification prefix|ro*)
+
+#P-26.2.2.2.1
+en: Allowed parent hydrides 
+ru: Разрешенные &(parent hydride|*)
+
+en: An amplification prefix can be derived from monocyclic rings and polycyclic ring systems having the maximum 
+number of noncumulative double bonds (mancude), bridged fused ring systems, saturated monocyclic rings, saturated 
+bicycloalkanes and polycycloalkanes (von Baeyer hydrocarbons), and spiro alkanes. In addition stereoparents are 
+allowed, such as ‘gonane’ or ‘morphinan’ (see Chapter P-10). Numbering of the parent is retained. 
+ru: &(Amplification prefix) может быть получен из моноциклических колец и полициклических кольцевых систем, имеющих 
+максимальное количество некумулятивных двойных связей (mancude), мостиковых конденсированных кольцевых систем, 
+насыщенных моноциклических колец, насыщенных бициклоалканов и полициклоалканов (углеводороды фон Байера) и спироалканов. 
+Кроме того, разрешены стереородители, такие как «гонан» или «морфинан» (см. главу P-10). Нумерация родителя сохраняется.
+
+#P-26.2.2.2.2
+en: Disallowed names of parent hydrides 
+ru: Запрещенные имена &(parent hydride|ro*)
+
+#(a)
+en: the following parent hydride names are not allowed: 
+ru: следующие имена &(parent hydride|ro*) не допускаются:
+
+@List 1
+
+@item
+en: spirobi names such as ‘1,1′-spirobi[indene]’ (PIN); 
+ru: названия спироби, такие как «1,1′-спироби[инден]» (PIN);
+
+@item
+en: spiro ring systems with at least one fused ring system or polycycloalkane ring system, such as 
+‘spiro[[1,3]dioxolane-2,1′-indene]’ (PIN) and ‘spiro[bicyclo[2.2.2]octane-2,1′-cyclohexane]’ (PIN)  
+ru: спирокольцевые системы с по крайней мере одной &(fused ring system|tv) или полициклоалкановой кольцевой системой, 
+например, «спиро[[1,3]диоксолан-2,1′-инден]» (PIN) и «спиро[бицикло[2.2.2]октан-2,1′-циклогексан]» (PIN)
+
+@item
+en: ring assembly names, such as ‘1,1′-biphenyl’ (PIN). 
+ru: названия &(ring assembly|ro*), такие как «1,1′-бифенил» (PIN).
+
+@End
+
+#(b)
+en: modified parent hydride names (the corresponding modifications are made once the phane parent hydride has been 
+fully constructed): 
+ru: измененные названия &(parent hydride|ro*) (соответствующие изменения вносятся после того, как &(parent hydride) 
+полностью построен):
+
+@List 1
+
+@item
+en: by ’hydro’ prefixes, such as ‘9,10-dihydroanthracene’ (PIN); 
+ru: по префиксам «гидро», таким как «9,10-дигидроантрацен» (PIN);
+
+@item
+en: by ‘-ene’ or ‘-yne’ endings, such as ‘cyclohexene’ (PIN);
+ru: окончаниями «-ен» или «-ин», например «циклогексен» (PIN);
+
+@item
+en: by skeletal replacement (‘a’) terms, such as ‘1-azabicyclo[3.2.1]octane’ (PIN);
+ru: терминами &(skeletal replacement a|ro), такими как «1-азабицикло[3.2.1]октан» (PIN);
+
+@item
+en: by suffixes, such as ‘cyclohexanecarboxylic acid’ (PIN) and ‘cyclohexanone’ (PIN); 
+ru: по суффиксам, таким как «циклогексанкарбоновая кислота» (PIN) и «циклогексанон» (PIN);
+
+@item
+en: by substitutive prefixes, such as ‘ethylbenzene’ (PIN). 
+ru: заменяющими префиксами, такими как «этилбензол» (PIN).
+
+@End
+
+#(c)
+en: functional parent structures having retained names, such as ‘benzoic acid’ (PIN) and ‘aniline’ (PIN). 
+ru: функциональные &(parent structure|*), имеющие сохраненные названия, такие как «бензойная кислота» (PIN) и «анилин» (PIN).
+
+#(d)
+en: names of cyclic compounds formed by functional class nomenclature, such as ‘benzyl chloride’. 
+ru: названия циклических соединений, образованные по номенклатуре функциональных классов, например, «бензилхлорид».
+
+#(e)
+en: partially hydrogenated parent hydride names having retained names, such as ‘indane’ and ‘chromane’. 
+ru: частично гидрогенизированные названия &(parent hydride|ro*), имеющие сохраненные названия, такие как «индан» и «хроман».
+
+#P-26.2.2.3
+en: Order of citation of amplification prefixes 
+ru: Порядок цитирования &(amplification prefix|ro*)
+
+en: Amplification prefixes are cited in a name in decreasing order of their ring seniority (see P-44.2). 
+ru: &(Amplification prefix|*) указываются в названии в порядке убывания их старшинства в кольце (см. P-44.2).
+
+#P-26.2.3
+en: Multiple identical amplificants
+ru: Несколько идентичных амплификантов
+
+en: Amplificants occurring more than once in a parent phane skeleton are expressed by use of an appropriate multiplicative 
+term, either ‘di’, ‘tri’, etc. or ‘bis’, ‘tris’, etc. It is not necessary that the identical amplification prefixes have also 
+identical locants.
+ru: Амплификанты, встречающиеся более одного раза в &(phane parent skeleton|pr), выражаются с помощью соответствующего 
+мультипликативного термина, либо «ди», «три» и т. д., либо «бис», «трис» и т. д. Необязательно, чтобы идентичные 
+&(amplification prefix|*) имели также идентичные локанты.
+
+#P-26.2.3.1+
+en: The multiplying prefixes ‘di’, ‘tri’, ‘tetra’, etc. are used in front of simple amplification prefixes, for example 
+dibenzena, tripyridina. 
+ru: Умножающие приставки «ди», «три», «тетра» и т. д. используются перед простыми &(amplification prefix|tv*), например, 
+дибензена, трипиридина.
+
+#P-26.2.3.2+
+en: The multiplying prefixes ‘bis’, ‘tris’, ‘tetrakis’, etc. are used before an amplification prefix when it begins 
+with a multiplying prefix as in ‘bicyclo[2.2.1]heptane’ (PIN), ‘1,3-dioxole’ (PIN); or it begins with a name component 
+that could be preceded by a multiplying prefix indicating a multiple occurrence of that name component, as in  
+‘1,4-oxazine’ (PIN), ‘2-benzoxepine’ (PIN), and ‘1,4- methanonaphthalene’ (PIN). 
+ru: Умножающие префиксы «бис», «трис», «тетракис» и т. д. используются перед &(amplification prefix|ro), когда он начинается 
+с умножающего префикса, как в «бицикло[2.2.1]гептан» (PIN), «1,3-диоксол» (PIN); или он начинается с компонента имени, 
+которому может предшествовать умножающий префикс, указывающий на многократное появление этого компонента имени, как 
+в «1,4-оксазин» (PIN), «2-бензоксепин» (PIN) и «1,4-метанонафталин» (PIN).
+
+#P-26.3
+en: Superatom locants and amplificant attachment locants 
+ru: Локанты суператомов и локанты прикрепления амплификаторов
+
+en: After the simplified skeletal name and the amplification prefix names have been determined, the phane parent hydride 
+name is completed by adding the locants for the superatoms and the attachment locants. These locants are cited before 
+an amplification prefix; the superatom locant is cited first followed by the attachment locants enclosed in parentheses. 
+ru: После того, как упрощенное скелетное название и имена &(amplification prefix|ro*) определены, название 
+&(phane parent hydride|ro) завершается добавлением локантов для суператомов и &(attachment locant|ro*). 
+Эти локанты цитируются перед &(amplification prefix|tv); локант суператома цитируется первым, за ним следуют 
+&(attachment locant|*), заключенные в скобки.
+
+#P-26.3.1
+en: Superatom locants
+ru: Локанты суператомов
+
+en: Superatom locants are assigned the lowest locants of the simplified skeleton consistent with the numbering of the class 
+to which it belongs. An amplification prefix preceded by a multiplicative term indicating the presence of like 
+amplificants requires the appropriate number of superatom locants, which are cited in ascending numerical order. 
+ru: Локантам суператома присваиваются наименьшие локанты упрощенного скелета в соответствии с нумерацией класса, к 
+которому он принадлежит. &(Amplification prefix), которому предшествует мультипликативный термин, указывающий на наличие 
+подобных амплификантов, требует соответствующего количества локантов суператома, которые приводятся в порядке 
+возрастания номеров.
+
+en: When like amplificants also have identical attachment locants, their attachment locants are arranged in ascending 
+numerical order of the first cited superatom locant. 
+ru: Когда подобные усилители также имеют идентичные &(attachment locant|*), их &(attachment locant|*) располагаются в 
+порядке возрастания номеров первого упомянутого локанта суператома.
+
+#P-26.3.2
+en: Attachment locants
+ru: &(Attachment locant|*)
+
+en: The locants in parentheses in a phane parent hydride name are the attachment locants of the amplificant whose position 
+in the phane parent skeleton is specified by the preceding superatom locant. The specific order of the attachment locants 
+in the set describes precisely how their respective amplificant is attached to the rest of the phane parent skeleton. 
+Amplificants retain the locants of the cyclic parent hydride from which they are derived. 
+ru: Локанты в скобках в названии &(phane parent hydride|ro) являются &(attachment locant|tv*) амплификанта, положение 
+которого в &(phane parent skeleton|pr) определяется предшествующим локантом суператома. Конкретный порядок 
+&(attachment locant|ro*) в наборе точно описывает, как их соответствующий амплификант прикреплен к остальной части 
+&(phane parent skeleton|ro).
+Амплификанты сохраняют локанты циклического &(parent hydride|ro), из которого они получены.
+
+#P-26.3.2.1+
+en: Identical attachment locant sets for multiple identical amplificants are cited only once in a name; they follow 
+the set of superatom locants corresponding to the identical amplificants. 
+ru: Идентичные наборы &(attachment locant|ro*) для нескольких идентичных амплификантов цитируются в названии только 
+один раз; они следуют за набором локантов суператомов, соответствующих идентичным амплификантам.
+
+@Examples
+
+@cell
+en: 1,4(1,4)-dibenzenacyclohexaphane (PIN) <br>
+[not 1(1,4),4(1,4)-dibenzenacyclohexaphane; <br>
+see second example of P-26.4.1.4] 
+ru: 1,4(1,4)-дибензонациклогекса&(phane) (PIN) <br>
+[не 1(1,4),4(1,4)-дибензонациклогекса&(phane); <br>
+см. второй пример P-26.4.1.4]
+
+@End
+
+#P-26.3.2.2+
+en: The locants in an attachment locant set are arranged so that of any two locants the one cited first is adjacent 
+to the lower locant of the phane parent skeleton.
+ru: Локанты в наборе &(attachment locant|ro*) располагаются таким образом, что из любых двух локантов тот, который указан 
+первым, примыкает к меньшему локанту &(phane parent skeleton|ro).
+
+@Examples
+
+@cell
+en: 1(1,3),4(1,4)-dibenzenacycloheptaphane (PIN)  <br>
+[not 1(1,4),4(1,3)-dibenzenacycloheptaphane;  <br>
+see second example of P-26.4.2.2] 
+ru: 1(1,3),4(1,4)-дибензонациклогепта&(phane) (PIN) <br>
+[не 1(1,4),4(1,3)-дибензонациклогепта&(phane); <br>
+см. второй пример P-26.4.2.2]
+
+@End
+
+#P-26.4
+en: Numbering of phane parent hydrides 
+ru: Нумерация исходных гидридов фановых атомов
+
+en: The following rules are used for numbering phane parent hydrides. These rules are hierarchical; that is, each particular 
+rule is applied only to alternatives not eliminated by preceding rules. 
+ru: Для нумерации &(phane parent hydride|ro*) используются следующие правила. Эти правила иерархичны; то есть каждое 
+конкретное правило применяется только к альтернативам, не исключенным предыдущими правилами.
+
+#P-26.4.1
+en: Numbering of phane parent skeletons and amplificants 
+ru: Нумерация &(phane parent skeleton|ro*) и амплификантов
+
+#P-26.4.1.1+
+en: The numbering of a  is first determined by the rules governing the appropriate skeletal 
+class to which it belongs. When because of skeletal symmetry, these rules leave alternatives, the numbering that gives 
+the lowest set of locants for the superatoms is selected. The lowest set of locants is the one that has the lowest numerical 
+value at the first point of difference, when the sets are compared term by term in increasing numerical value, as defined 
+in P-14.3.5. 
+ru: Нумерация &(phane parent skeleton|ro) сначала определяется правилами, управляющими соответствующим скелетным классом, 
+к которому он принадлежит. Когда из-за скелетной симметрии эти правила оставляют альтернативы, выбирается нумерация, 
+которая дает наименьший набор локантов для суператомов. Наименьший набор локантов — это тот, который имеет наименьшее 
+числовое значение в первой точке различия, когда наборы сравниваются почленно в порядке возрастания числового значения, 
+как определено в P-14.3.5.
+
+#P-26.4.1.2+
+en: Numbering of an amplificant is determined primarily by the numbering rules that apply to the parent name 
+from which the amplification prefix is derived. When there is a choice, the general rule of lowest locants is used, as 
+described in the preceding rule. 
+ru: Нумерация амплификанта определяется в первую очередь правилами нумерации, которые применяются к &(parent name|da), 
+от которого получен &(amplification prefix). Когда есть выбор, используется общее правило меньших локантов, как описано 
+в предыдущем правиле.
+
+en: These two rules, P-26.4.1.1 and P-26.4.1.2, are illustrated by the following examples. 
+ru: Эти два правила, P-26.4.1.1 и P-26.4.1.2, иллюстрируются следующими примерами.
+
+@Examples 2
+
+@cell colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)`//`-`\\N@n(1,0,.5)/@n(2,60,.5)=N\@n(4,180,.5)@bt(1,120,%L)-CH2@bt(2,-90,.6)_(h){}-/=N@n(1,120,.55)\@n(2,-170,.5)<`//`-`\\@n(5,-10,.5)>@bt(3,120,%L)-#
+CH2@bt(4,-90,.6)-CH2@bt(5,-90,.6)_(h){}-/=N@n(1,120,.6)\@n(2,-170,.5)<`//`-`\\@n(5,-10,.5)@bt(6,120,%L)>#
+-CH2@bt(7,-90,.6)-CH2@bt(8,-90,.6)_(h){}-/=\`//N@n(1,-120,.55)`-@n(2,-50,.5)`\\@n(3,-10,.5)@bt(9,120,%L)
+$>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1){●}/@n(2,90)\{●}@n(3,90,.6)/@n(4,90)\@n(5,90)/{●}@n(6,90,.6)\@n(7,90)/@n(8,90)\{●}@n(9,90,.6)
+$>
+
+*: 26.4.1a
+
+@cell
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 1(4)-pyrimidina-3,6(5,2),9(3)-tripyridinanonaphane (PIN) <br>
+[not 9(4)-pyrimidina-1(3),4,7(2,5)-tripyridinanonaphane;  <br>
+the superatom locant set of the PIN, ‘1,3,6,9’, is lower than ‘1,4,7,9’, see P-26.2.1.1 and P-26.4.1.1] <br>
+[not 1(4)-pyrimidina-3,6(2,5),9(3)-tripyridinanonaphane;  <br>
+the first locant of the pyridine attachment locant set, ‘(2,5)’, is not the locant adjacent to the lower locant of the 
+simplified skeleton, see P-26.3.2.2]  <br>
+[not 1(4)-pyrimidina-3(5,2),6(5,2),9(3)-tripyridinanonaphane;  <br>
+the identical attachment locant sets ‘(5,2)’ are not contracted as ‘3,6(5,2)’, see P-26.3.2.1]  <br>
+[not 1(4)-pyrimidina-3,6(3,6),9(3)-tripyridinanonaphane;  <br>
+the attachment locant set ‘(5,2)’ of the pyridine amplificant in the PIN, written in the ascending numerical order ‘(2,5)’ 
+for comparison, is lower than the set ‘(3,6)’, see P-26.4.1.2]
+ru: 1(4)-пиримидина-3,6(5,2),9(3)-трипиридинанона&(phane) (PIN) <br>
+[не 9(4)-пиримидина-1(3),4,7(2,5)-трипиридинанона&(phane); <br>
+набор локантов суператомов PIN, «1,3,6,9», меньше, чем «1,4,7,9», см. P-26.2.1.1 и P-26.4.1.1] <br>
+[не 1(4)-пиримидина-3,6(2,5),9(3)-трипиридинанона&(phane); <br>
+первый локант набора локантов присоединения пиридина, «(2,5)», не является локантом, смежным с нижним <br>
+локантом упрощенного скелета, см. P-26.3.2.2] <br>
+[не 1(4)-пиримидина-3(5,2),6(5,2),9(3)-трипиридинанона&(phane); <br>
+идентичные наборы локантов присоединения «(5,2)» не сокращаются как «3,6(5,2)», см. P-26.3.2.1] <br>
+[не 1(4)-пиримидина-3,6(3,6),9(3)-трипиридинанона&(phane); <br>
+набор локантов присоединения «(5,2)» пиридинового амплификанта в PIN, записанный в порядке <br>
+возрастания номеров «(2,5)» для сравнения, меньше набора «(3,6)», см. P-26.4.1.2]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)\`/N@n(1,-110,.6)`-`\/-@n(3,120)@bt(1,120,%L)/@bt(2,-60)-/=N@n(1,110,.6)\@n(2,-170)<`//`-`\\@n(5,-10,.5)@bt(3,120,%L)>-@bt(4,-60)\@bt(5,-60)`/\`//\`//`-`\\/<->`\\@n(1,-1,.50)</=@n(3,100,.5)@bt(6,120,%L)>`-@bt(7,-120)`/@bt(8,-60)`-@bt(9,-60)`\
+$>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|0_q{●}@n(1,-110,.6)_q@n(9,180)_q@n(8,110)_q@n(7,90)\{●}@n(6,90,.6)/@n(5,30)`|@n(4,-30)`\{●}@n(3,-90,.6)`/@n(2,-90)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 3(5,2)-pyridina-1(3,1)-piperidina-6(3,1)-naphthalenacyclononaphane (PIN)  <br>
+[not 1(5,2)-pyridina-3(3,1)-piperidina-7(3,1)-naphthalenacyclononaphane  <br>
+nor 7(5,2)-pyridina-5(1,3)-piperidina-1(3,1)-naphthalenacyclononaphane;  <br>
+the superatom locant set of the PIN, ‘1,3,6’, is lower than the locant set ‘1,3,7’ or ‘1,5,7’  
+in either of the other names. see P-26.4.1.1]  <br>
+[not 3(2,5)-pyridina-1(1,3)-piperidina-6(1,3)-naphthalenacyclononaphane;  <br>
+the first locant of each the attachment locant sets ‘(2,5)’, ‘(1,3)’, and ‘(1,3)’  <br>
+for the pyridine, piperidine, and naphthalene amplificants, respectively,
+is not the locant adjacent to the lower locant of the simplified parent skeleton, see P-26.3.2.2] 
+ru: 3(5,2)-пиридина-1(3,1)-пиперидина-6(3,1)-нафталинациклонона&(phane) (PIN) <br>
+[не 1(5,2)-пиридина-3(3,1)-пиперидина-7(3,1)-нафталинациклонона&(phane) <br>
+ни 7(5,2)-пиридина-5(1,3)-пиперидина-1(3,1)-нафталинациклонона&(phane); <br>
+локантный набор суператомов PIN, «1,3,6», меньше локантного набора «1,3,7» или «1,5,7»
+в любом из других названий. см. P-26.4.1.1] <br>
+[не 3(2,5)-пиридина-1(1,3)-пиперидина-6(1,3)-нафталинациклонона&(phane); <br>
+первый локант каждого набора локантов присоединения «(2,5)», «(1,3)» и «(1,3)» <br>
+для пиридинового, пиперидинового и нафталинового усилителей соответственно <br>
+не является локантом, смежным с нижним локантом упрощенного &(parent skeleton|ro), см. P-26.3.2.2]
+
+@End
+
+#P-26.4.1.3+
+en: Amplification of symmetrical simplified phane skeletons with at least two superatoms representing different 
+amplificants results in the loss of symmetry and creates numbering alternatives. In such cases, the lower available 
+superatom locant is assigned to an amplificant that appears earlier in the seniority of rings and ring systems (see  
+P-44.2). The application of this procedure may require a sequence of steps. First, the lowest available superatom 
+locant(s) is (are) assigned to the amplificants appearing first in the seniority order. Then, the same procedure is applied 
+successively to assign remaining superatom locants to the rest of the amplificants.
+ru: &(Amplification) симметричных упрощенных &(phane skeleton|ro*) с по крайней мере двумя суператомами, представляющими 
+различные амплификанты, приводит к потере симметрии и создает альтернативы нумерации. В таких случаях наименьший 
+доступный локант суператома назначается амплификанту, который появляется раньше в порядке старшинства колец и 
+кольцевых систем (см. P-44.2). Применение этой процедуры может потребовать последовательности шагов. 
+Сначала наименьший доступный локант(ы) суператома назначается амплификантам, появляющимся первыми в порядке старшинства. 
+Затем та же процедура применяется последовательно для назначения оставшихся локантов суператома остальным усилителям.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(60)`/@bt(2)`-@bt(3)`\`-`\`-`/`-`\\/=\`/\=/`\@bt(4,-120,%L)/@n(4,70,.5)<=\`//@n(1,-130,.5)>`\@bt(5)/@bt(6)-/-/`\\`-`//\-@bt(7,-120,%L)\@n(4,-170,.5)<`//`-`\\@n(1,-10,.5)>-@bt(8)\@bt(9)`/\`/\N@n(1,-80,.6)=/`\\@n(4,110,.5)`-`/@bt(1,-120,%L)`-@n(8,-60,.5)`\\/=@n(5,110,.5)
+$>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-0@n(9,-10)_q@n(8,-20)_q{●}@n(7,-90,.6)_q@n(6,-160)_q@n(5,-170)`/{●}@n(4,180,.5)\@n(3,120)-@n(2,60)/{●}@n(1,0,.5)`\
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 1(8,5)-quinolina-4(1,4)-phenanthrena-7(1,4)-naphthalenacyclononaphane (PIN)  <br>
+[not 1(8,5)-quinolina-4(1,4)-naphthalena-7(4,1)-phenanthrenacyclononaphane;  <br>
+the senior amplificant is quinoline (see P-44.2) and must receive the lowest superatom locant ‘1’;  <br>
+the phenanthrene amplificant is second in seniority (see P-44.2) and therefore must  <br>
+be given the second lowest superatom locant ‘4’, see P-26.2.2.3] <br>
+[not 1(8,5)-quinolina-4(4,1)-phenanthrena-7(1,4)-naphthalenacyclononaphane;  <br>
+the attachment locants of the phenanthrene amplificant,‘(4,1)’, are not correctly cited; the first locant of the  <br>
+attachment locant set is not the locant adjacent to the lower locant of the simplified parent skeleton, ‘3’, see P-26.3.2.2] 
+ru: 1(8,5)-хинолина-4(1,4)-фенантрена-7(1,4)-нафталинациклонона&(phane) (PIN) <br>
+[не 1(8,5)-хинолина-4(1,4)-нафталина-7(4,1)-фенантренациклонона&(phane); <br>
+старший амплификант — хинолин (см. P-44.2) и должен получить самый низкий локант суператома «1»; <br>
+фенантреновый амплификант — второй по старшинству (см. P-44.2) и, следовательно, должен получить <br>
+второй наименьший локант суператома «4», см. P-26.2.2.3] <br>
+[не 1(8,5)-хинолина-4(4,1)-фенантрена-7(1,4)-нафталинациклонона&(phane); <br>
+&(attachment locant|*) амплификанта фенантрена, «(4,1)», указаны неверно; первый локант набора &(attachment locant|ro*) <br>
+не является локантом, смежным с нижним локантом упрощенного &(parent skeleton|ro), «3», см. P-26.3.2.2]
+
+@cell colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(60)`//`-`\\/=\@n(1,-170,.5)@bt(1,120,%L)-CH2@bt(2)_(h){}-/N=\@n(5,-170,.5)<`//`-`\\@n(2,-10,.5)@bt(3,120,%L)>-CH2@bt(4)_(h){}-/=\@n(4,-170,.5)<`//`-`\\@n(1,-10,.5)@bt(5,120,%L)>-CH2@bt(6)_(h){}-/=\`//`-`\\@n(1,-10,.5)@bt(7,120,%L)
+$>
+
+@cell colspan=2
+
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; @:n1(n){●}@n(&n,-90,.6)@;
+$L(1.1)@n1(1)/@n(2)\@n1(3)/@n(4)\@n1(5)/@n(6)\@n1(7)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+
+@cell colspan=2
+en: 3(2,5)-pyridina-1,7(1),5(1,4)-tribenzenaheptaphane (PIN)  <br>
+[not 5(5,2)-pyridina-1,7(1),3(1,4)-tribenzenaheptaphane;  <br>
+the locant ‘3’ for the pyridine amplificant in the PIN is lower than ‘5’, see P-26.3.1] 
+ru: 3(2,5)-пиридина-1,7(1),5(1,4)-трибензолагепта&(phane) (PIN) <br>
+[не 5(5,2)-пиридина-1,7(1),3(1,4)-трибензолагепта&(phane); <br>
+локант «3» для пиридинового амплификанта в PIN меньше, чем «5», см. P-26.3.1]
+
+@End
+
+#P-26.4.1.4+
+en: When, because of symmetry, these rules leave a choice, an amplificant is numbered in such a way that the 
+lower attachment locant is adjacent to the lower locant of the phane parent skeleton. 
+ru: Когда из-за симметрии эти правила оставляют выбор, амплификант нумеруется таким образом, чтобы меньший 
+&(attachment locant) был смежным с меньшим локантом &(phane parent skeleton|ro).
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`\@bt(6)`|@bt(7)/`||/\\|<`//`\@n(7,-30,.5)>\@n(1,-110,.5)//@n(2,-130,.5)<`|`\\`/@bt(1,-125,%L)>\@bt(2)|@bt(3)`/$slope(60)`//`-`\\<_#1@bt(5)>@n(4,-10,.5)/=\@n(1,-170,.5)@bt(4,120,%L)$>
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+-{●}@n(4,50,.5)_q7@n(3,10)_q7@n(2,-30)_q7{●}@n(1,-90,.6)_q7@n(7,-150)_q7@n(6,170)_q7@n(5,130)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 1(2,7)-naphthalena-4(1,4)-benzenacycloheptaphane (PIN)  <br>
+[the lowest locant set for the superatoms in the phane parent skeleton for the PIN is ‘1,4’;  <br>
+therefore the senior amplificant, naphthalene (see P-44.2) must be assigned the  <br>
+superatom locant ‘1’, see P-26.4.1.2 and P-26.4.1.1] <br>
+[not 1(2,7)-naphthalena-4(4,1)-benzenacycloheptaphane,  <br>
+nor 1(7,2)-naphthalena-4(4,1)-benzenacycloheptaphane;  <br>
+the correct citation for the attachment locant sets, ‘(1,4)’ for benzene and ‘(2,7)’ for the  <br>
+naphthalene amplificant in the PIN, places the lower attachment locant adjacent to  <br>
+the lower locant of the simplified parent skeleton (see P-26.3.2.2)] 
+ru: 1(2,7)-нафталина-4(1,4)-бензонациклогепта&(phane) (PIN) <br>
+[наименьший набор локантов для суператомов в &(phane parent skeleton|pr) для PIN — «1,4»; <br>
+поэтому старшему амплификанту, нафталину (см. P-44.2), <br>
+должен быть назначен локант суператома «1», см. P-26.4.1.2 и P-26.4.1.1] <br>
+[не 1(2,7)-нафталина-4(4,1)-бензонациклогепта&(phane), <br>
+и не 1(7,2)-нафталина-4(4,1)-бензонациклогепта&(phane); <br>
+правильная ссылка на наборы &(attachment locant|ro*), «(1,4)» для бензола и «(2,7)» для <br>
+амплификанта нафталина в PIN, помещает наименьший &(attachment locant) рядом с меньшим <br>
+локантом упрощенного &(parent skeleton|ro) (см. P-26.3.2.2)]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)-$slope(60)/=\@n(4,-170,.5)<`//`-`\\@n(1,-10,.5)@bt(1,120,%L)>-@bt(6)_(y3)@bt(5)`-`//`-`\\@n(1,-10,.5)</=\@n(4,-170,.5)@bt(4,120,%L)>`-@bt(3)_#1@bt(2)
+$>
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+{●}@n(1,-90,.6)\@n(6,-30)|@n(5,30)`/{●}@n(4,90,.6)`\@n(3,150)`|@n(2,-150)/
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 1,4(1,4)-dibenzenacyclohexaphane (PIN)
+ru: 1,4(1,4)-дибензонациклогекса&(phane) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)\@bt(2)|@bt(3)`/||`/`\\`|<//r\@n(1,140,.5)@bt(4,120,%L)>@n(3,40,.5)`\@bt(5)`|@bt(6)/\//l@n(1,-140,.5)`|`\\`/||@n(3,-40,.5)@bt(1,-120,%L)
+$>
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+{●}@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/{●}@n(4,90,.6)`\@n(5,150)`|@n(6,-150)/
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 1,4(1,3)-dibenzenacyclohexaphane (PIN)
+ru: 1,4(1,4)-дибензонациклогекса&(phane) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)/`||/\\|<`//r`\@bt(1,120,%L)@n(3,-40,.5)>@n(1,-140,.5)\@bt(2,-75)#
+$slope(60)\-\\`/`=<`\//r@n(1,60,.5)@bt(3,120,%L)>@n(3,-70,.5)`/@bt(4,-75)#
+$slope(30)`/|`//`\`||</\\r@n(1,140,.5)@bt(5,120,%L)>@n(3,30,.5)`\@bt(6,-75)#
+$slope(60)`\`-`\\/=<\`//@bt(7,120,%L)@n(1,-120,.5)>@n(3,110,.5)/@bt(8,-75)
+$>
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+{●}@n(1,-90,.6)_(A22.5)@n(2,-45)_p8{●}@n(3,0,.55)_p8@n(4,45)_p8{●}@n(5,90,.6)_p8@n(6,135)_p8{●}@n(7,180,.55)_p8@n(8,-135)_p8
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 1,3,5,7(1,3)-tetrabenzenacyclooctaphane (PIN)
+ru: 1,3,5,7(1,3)-тетрабензоциклоокта&(phane) (PIN)
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`\`=`/\\-//@n(1,-170,.5)@bt(1,-120,%L)-CH2@bt(2,-90,.6)_(h){}-:a;
+`-_pp#a@n(2,10,.5)_pO@bt(3,124,1)_p@n(5,170)<_pp>-CH2@bt(4,-90,.6)_(h){}-/=\<`//`-`\\@n(1,-10,.5)@bt(5,120,%L)>@n(4,-170,.5)-CH2@bt(6,-90,.6)_(h){}-/=\`//`-`\\@n(1,-10,.5)@bt(7,120,%L)
+$>
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(1.1)@:nx(n){●}@n(&n,-90,.6)@(1)/@n(2)\@nx(3)/@n(4)\@nx(5)/@n(6)\@nx(7)
+$>
+
+@cell
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+@cell colspan=2
+en: 3(2,5)-furana-1,7(1),5(1,4)-tribenzenaheptaphane (PIN)  <br>
+[not 3(5,2)-furana-1,7(1),5(1,4)-tribenzenaheptaphane;  <br>
+for superatom **3** the lower attachment locant is not adjacent <br> 
+to the lower-numbered atom **2** of the simplified skeleton] 
+ru: 3(2,5)-фурана-1,7(1),5(1,4)-трибензолагепта&(phane) (PIN) <br>
+[не 3(5,2)-фурана-1,7(1),5(1,4)-трибензолагепта&(phane); <br>
+для суператома **3** меньший &(attachment locant) не соседствует с  <br>
+атомом с меньшим номером **2** упрощенного скелета]
+
+@End
+
+#P-26.4.2
+en: Numbering of simplified phane skeletons with respect to amplificant numbering. 
+ru: Нумерация упрощенных &(phane skeleton|ro*) относительно нумерации амплификанта.
+
+en: Numbering alternatives are found in symmetrical simplified skeletons when amplification by a single unsymmetrical 
+amplificant or by identical amplificants having different attachment locants removes the symmetry. Choice among such 
+alternatives is made according to the following rules. 
+ru: Альтернативы нумерации встречаются в симметричных упрощенных скелетах, когда &(amplification) одним несимметричным 
+амплификантом или идентичными амплификантами, имеющими разные &(attachment locant|*), удаляет симметрию. 
+Выбор среди таких альтернатив осуществляется в соответствии со следующими правилами.
+
+#P-26.4.2.1+
+en: When a single amplificant is unsymmetrical, the lower locant of the phane parent skeleton must be adjacent 
+to the lower attachment locant of the amplificant. 
+ru: Если один амплификант несимметричен, меньший локант &(phane parent skeleton|ro) должен примыкать к меньшему 
+&(attachment locant|da) амплификанта.
+
+@Examples
+
+@cell
+<div class="flex-row">
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(1.1)`//`-`\\/-@bt(1,0,.9)/r`/\_(a-81.4707)`||r<_(a-68.5292)`\@n(1,100,.5)`=@n(2,70,.5)`/:a@n(3,-10)\\>#
+/<\\@n(9,140,.5)|@n(8,-150,.5)`//@n(7,-100,.5)`\>@n(10,100,.6)#
+`|@bt(9,45)_(A-165)@bt(8,100,.5)_(a55)@bt(7,67)_q8@bt(6,67)_q8@bt(5,67)_q8@bt(4,130)_p7@bt(3,75)_q5@bt(2,55)_#a
+$>
+
+*: **(I)**
+
+</div>
+
+en: not
+ru: не
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(1.1)`//`-`\\/-@bt(1,0,.9)/r`/\_(a-81.4707)`||r<_(a-68.5292)`\@n(1,100,.5)`=@n(2,60,.5)`/:a@n(3,-10)\\>#
+/<\\@n(9,140,.5)|@n(8,-150,.5)`//@n(7,-100,.5)`\>@n(10,100,.6)#
+`|@bt(2,45)_(A-165)@bt(3,100,.5)_(a55)@bt(4,67)_q8@bt(5,67)_q8@bt(6,67)_q8@bt(7,130)_p7@bt(8,75)_q5@bt(9,35)_#a
+$>
+
+*: **(II)**
+
+</div>
+</div>
+
+@cell
+<div class="flex-row">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+-@n(6,-60)_p9@n(7,-40)_p9@n(8,0)_p9@n(9,40)_p9{●}@n(1,90,.6)_p9@n(2,140)_p9@n(3,180)_p9@n(4,-140)_p9@n(5,-120)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+
+@cell
+en: 1(3,10)-fluoranthenacyclononaphane **(I)** (PIN)  <br>
+[not 1(10,3)-fluoranthenacyclononaphane **(II)**;  <br>
+the lower amplificant locant ‘3’ must be adjacent to the lower simplified parent skeletal locant ‘2’] 
+ru: 1(3,10)-флуорантенациклонона&(phane) **(I)** (PIN) <br>
+[не 1(10,3)-флуорантенациклонона&(phane) **(II)**; <br>
+меньший локант амплификанта ‘3’ должен быть смежным с меньшим локантом ‘2’ упрощенного &(parent skeleton|ro)]
+
+@End
+
+#P-26.4.2.2+
+en: When two amplificants can be given the lower of two superatom locants, the lower locant is assigned to the 
+superatom representing the amplificant with the lower set of attachment locants. When necessary, this procedure is 
+applied to other amplificants in accordance with their order of seniority until two or more identical amplificants have 
+different attachment locants (see last example). 
+ru: Когда двум амплификантам можно присвоить меньший из двух локантов суператома, меньший локант присваивается суператому, 
+представляющему амплификант с меньшим набором &(attachment locant|ro*). При необходимости эта процедура применяется 
+к другим амплификантам в соответствии с их порядком старшинства до тех пор, пока два или более идентичных амплификанта 
+не получат разные &(attachment locant|*) (см. последний пример).
+
+@Examples
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)`-|`//N@n(1,-90,.6)`\`||@n(5,30,.5)</@bt(7,120,1)\\@n(3,140,.5)>`\@bt(8,-120)`/|N@n(1,-150,.55)`//|`//@bt(9,120,%L)`\`||/<\>`||@n(4,30)</\\@n(2,150,.5)>#
+`-@bt(10)`\@bt(11)/@bt(12,-120,.6)`\@bt(13)/@bt(14)-#
+`||N@n(1,30,.5)/\r/`||`\@bt(1,-120,%L)`//|\|@n(4,-140,.5)<`//r`\@n(2,-20,.5)>\@bt(2,-120,.5)/`||/@bt(3,120,%L)\\N@n(1,150,.5)|@n(2,-150,.5)<`//r`\@n(4,-20,.5)>-@bt(4):e;
+O@n(1,-130,.5)`|N_qq<_(a54)#e>@n(3,80)_q@bt(5,-126,1.1)_qq@n(5,-60,.45)<_q>_#1@bt(6)
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(1.1){●}@n(1,-90,.6)\@n(2,-90,.5)/{●}@n(3,-90,.6)\@n(4,-90,.5)/{●}@n(5,-90,.6)\@n(6,-30)|{●}@n(7,30,.55)`/@n(8,90)`\{●}@n(9,90,.6)`/@n(10,90)`\@n(11,90,.6)`/@n(12,90)`\@n(13,150,.5)`|@n(14,-150,.6)/
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+@cell
+en: 1(4,2),9(2,4)-diquinolina-3(4,2),7(3,5)-dipyridina-5(3,5)- [1,2]oxazolacyclotetradecaphane (PIN)  <br>
+{not 1(2,4),9(4,2)-diquinolina-3(5,3),7(2,4)-dipyridina-5(3,5)-[1,2]oxazolacyclotetradecaphane;  <br>
+the attachment locant set for the senior quinoline amplificants; ‘4,2’ and ‘2,4’, respectively,  <br>
+when compared in ascending numerical order are the same, but  <br>
+when the attachment locant sets for the pyridine amplificants, ‘(4,2)’ and ‘(5,3)’,  <br>
+respectively, are compared in ascending numerical order, ‘(2,4)’ and ‘(3,5)’, respectively,  <br>
+the former is lower and therefore in the PIN the attachment locant set ‘(4,2)’  <br>
+is associated with the superatom with the lower locant ‘3’ (see P-26.3.2.2)} 
+ru: 1(4,2),9(2,4)-дихинолина-3(4,2),7(3,5)-дипиридина-5(3,5)- [1,2]оксазолациклотетрадека&(phane) (PIN) <br>
+{не 1(2,4),9(4,2)-дихинолина-3(5,3),7(2,4)-дипиридина-5(3,5)-[1,2]оксазолациклотетрадека&(phane); <br>
+набор &(attachment locant|ro*) для старших хинолиновых амплификантов; «4,2» и «2,4», соответственно, 
+при сравнении в порядке возрастания чисел одинаковы, но когда наборы локантов присоединения для пиридиновых усилителей, 
+«(4,2)» и «(5,3)», соответственно, сравниваются в порядке возрастания чисел, «(2,4)» и «(3,5)», соответственно, 
+первый оказывается меньше, и поэтому в PIN набор локантов присоединения «(4,2)» связан с суператомом с 
+меньшим локантом «3» (см. P-26.3.2.2)}
+
+en: **Note**: The use of brackets in the name of the third amplificant is a change from PHI-3.2 of ref. 5. 
+ru: **Примечание**: Использование скобок в названии третьего амплификанта является изменением по сравнению с PHI-3.2 ссылки 5.
+
+@cell
+
+<div class="flex-row">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\@n(4,-10,.5)</=\@n(1,-170,.5)@bt(4,120,%L)/@bt(3,60)_(y-1.7):a>#
+_(A-158)@bt(5,-67)_p8@bt(6,-67)_p8@bt(7,-67)_p8`||/@bt(1,120,%L)\\|@n(1,-140,.5)<`//r`\@n(3,-20,.5)>\#a@bt(2,-60)
+$>
+
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)-{●}@n(4,60,.5)_q7@n(3,20)_q7@n(2,-40)_q7{●}@n(1,-90,.6)_q7@n(7,-140)_q7@n(6,-160)_q7@n(5,120)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+@cell
+en: 1(1,3),4(1,4)-dibenzenacycloheptaphane (PIN)  <br>
+[not 1(1,4),4(1,3)-dibenzenacycloheptaphane;  <br>
+the lower attachment locant set ‘(1,3)’ is not associated with the superatom having the lower locant]  <br>
+[not 1(1,3),4(4,1)-dibenzenacycloheptaphane;  <br>
+in the attachment locant set ‘(4,1)’, the first locant is  <br>
+not the one adjacent to the lower locant of the simplified parent skeleton, see P-26.3.2.2] 
+ru: 1(1,3),4(1,4)-дибензонациклогепта&(phane) (PIN) <br>
+[не 1(1,4),4(1,3)-дибензонациклогепта&(phane); <br>
+меньший набор &(attachment locant|ro) «(1,3)» не связан с суператомом, имеющим меньший локант] <br>
+[не 1(1,3),4(4,1)-дибензонациклогепта&(phane); <br>
+в наборе &(attachment locant|ro*) «(4,1)» первый локант не является <br>
+соседним с меньшим локантом упрощенного &(parent skeleton|ro), см. P-26.3.2.2]
+
+@cell
+
+<div class="flex-row">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`\`||@n(5,30,.5)<`\@bt(14,60)`/:L>/@bt(1,120,%L)\\@n(1,130,.5)</@bt(2)\:R>|`//@n(3,-100,.5)|\||r@n(3,-150,.5)#
+<_(A45)@bt(7,67)-@bt(6,67)_q8@bt(5,67)`|`\`||r/<_#R@bt(3,60)>@n(5,110,.5)\\|N@n(1,-140,.5)`//@n(2,-100,.5)@bt(4,120,%L)>#
+`/`\\@n(5,-30,.5)<`|//@n(1,80,.5)@bt(8,120,%L)>_(A135)@bt(9,-67)`-@bt(10,-67)_p8@bt(11,-67)`|`-`\\N@n(1,-20,.45)/=@n(5,120,.5)<_#L@bt(13,-80,.5)>\`//r@n(3,-120,.5)@bt(12,120,%L)
+$>
+
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}@n(1,-90,.6)|{●}@n(8,90,.6)<_q8@n(7,120)-@n(6,60)_q8@n(5,30)`|{●}@n(4,-30,.6)_q8@n(3,-60)`-@n(2,-120)_q8>_p8@n(9,60)`-@n(10,120)_p8@n(11,150,.45)`|{●}@n(12,-150,.7)_p8@n(13,-120)-@n(14,-70)_p8
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+@cell
+en: 4(5,2),12(3,5)-dipyridina-1,8(1,3,5)-dibenzenabicyclo[6.6.0]tetradecaphane (PIN) <br> 
+[not 4(3,5),12(2,5)-dipyridina-1,8(1,3,5)dibenzenabicyclo[6.6.0]tetradecaphane;  <br>
+for the pyridine amplificants the attachment locant set ‘(5,2)’, when compared in ascending numerical order,  <br>
+that is, ‘(2,5)’, is lower than ‘(3,5)’; therefore in the PIN, the pyridine amplificant  <br>
+with the locant set ‘(5,2)’ must be associated with the lower superatom locant, ‘4’] 
+ru: 4(5,2),12(3,5)-дипиридина-1,8(1,3,5)-дибензонабицикло[6.6.0]тетрадека&(phane) (PIN) <br>
+[не 4(3,5),12(2,5)-дипиридина-1,8(1,3,5)дибензонабицикло[6.6.0]тетрадека&(phane); <br>
+для пиридиновых амплификантов набор &(attachment locant|ro*) «(5,2)», при сравнении в порядке возрастания номеров, 
+то есть «(2,5)», меньше, чем «(3,5)»; поэтому в PIN пиридиновый амплификант с набором локантов «(5,2)» 
+должен быть связан с меньшим локантом суператома, «4»]
+
+@cell
+
+<div class="flex-row">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)\||r:L@n(2,-150)`/N@n(1,-80,.6)`\\`|//@n(4,70,.5)@bt(1,120,1)`|@bt(2,-67)_p8@bt(3,-67)-/=N@n(1,110,.55)\@n(2,-170)<`//`-`\\@n(5,-20,.5)@bt(4,120,%L)>-@bt(5,-67)_p8@bt(6,-67)|`//lN@n(1,30,.5)|:R@n(6,-30,.5)\\/`||`\@n(2,80,.5)@bt(7,-120,%L);
+#L_(y.6,x#L;L;R)@bt(9,90)_(x#L;R;R)@bt(8,70)_#R
+$>
+
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)-@n(8,60)_q9{●}@n(7,30,.55)_q9@n(6,-10)_q9@n(5,-40)_q9{●}@n(4,-90,.6)_q9@n(3,-140)_q9@n(2,-170)_q9{●}@n(1,150,.55)_q9@n(9,120)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+@cell
+en: 1(4,2), 4(5,2),7(2,6)-tripyridinacyclononaphane (PIN)  <br>
+[the attachment locant sets ‘(2,4)’, ‘(2,5)’, and ‘(2,6)’ must be assigned to superatoms ‘1’, ‘4’,  
+and ‘7’, respectively; the arrangement of the locants in each set is governed by P-26.3.2.2] 
+ru: 1(4,2), 4(5,2),7(2,6)-трипиридинациклонона&(phane) (PIN) <br>
+[наборы локантов присоединения ‘(2,4)’, ‘(2,5)’ и ‘(2,6)’ должны быть назначены суператомам ‘1’, ‘4’ <br>
+и ‘7’ соответственно; расположение локантов в каждом наборе регулируется P-26.3.2.2]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\/=\@n(1,-170,.5)@bt(1,120,%L)-CH2@bt(2)_(h){}-/N=\@n(5,-170,.5)<`//`-`\\@n(2,-10,.5)@bt(3,120,%L)>-CH2@bt(4)_(h){}-||\@bt(5,-120,%L)//`|@n(6,140,.5)<`\\N`/@n(2,30,.5)>-CH2@bt(6)_(h){}-/=\@bt(7,120,%L)`//`-`\\@n(1,-10,.5)
+$>
+
+@cell
+
+<div class="flex-row">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)@:nx(n){●}@n(&n,-90,.6)@(1)/@n(2)\@nx(3)/@n(4)\@nx(5)/@n(6)\@nx(7)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+
+@cell
+en: 3(2,5),5(2,6)-dipyridina-1,7(1)-dibenzenaheptaphane (PIN)  <br>
+[not 3(6,2),5(5,2)-dipyridina-1,7(1)-dibenzenaheptaphane;  <br>
+the attachment locants ‘2,5’ and ‘2,6’ of the pyridine amplificants  <br>
+must be assigned to superatoms ‘3’ and ‘5’, respectively (see P-26.3.2)]  
+ru: 3(2,5),5(2,6)-дипиридина-1,7(1)-дибензонагепта&(phane) (PIN) <br>
+[не 3(6,2),5(5,2)-дипиридина-1,7(1)-дибензонагепта&(phane); <br>
+&(attachment locant|*) «2,5» и «2,6» пиридиновых амплификантов должны быть <br>
+назначены суператомам «3» и «5» соответственно (см. P-26.3.2)]
+
+@End
+
+
+#P-26.4.2.3+
+en: If, after the application of P-26.4.2.2, a choice is still necessary and a single unsymmetrical amplificant 
+remains, P-26.4.2.1 is applied to the single unsymmetrical amplificant. 
+ru: Если после применения P-26.4.2.2 выбор все еще необходим и остается один несимметричный амплификант, 
+P-26.4.2.1 применяется к одному несимметричному амплификанту.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\@bt(1,120,%L)/=\@n(1,-170,.5)@:ch(n)-CH2@bt(&n)_(h){}-@(2)/N=\@n(5,-170,.5)<`//`-`\\@n(2,-10,.5)@bt(3,120,%L)>@ch(4):a;
+`-_pp#a@n(2,10,.5)_pO@bt(5,125,1)_p@n(5,170,.5)<_pp>@ch(6)||\//`|@n(6,140,.5)<`\\N@bt(7,-120,%L)`/@n(2,30,.5)>@ch(8)/=\@bt(9,120,%L)`//`-`\\@n(1,-10,.5)
+$>
+
+@cell
+
+<div class="flex-row">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)@:nx(n){●}@n(&n,-90,.6)@(1)/@n(2)\@nx(3)/@n(4)\@nx(5)/@n(6)\@nx(7)/@n(8)\@nx(9)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+
+@cell
+en: 3(2,5),7(2,6)-dipyridina-5(2,5)-furana-1,9(1)-dibenzenanonaphane (PIN)  <br>
+[not 3(2,5),7(2,6)-dipyridina-5(5,2)-furana-1,9(1)-dibenzenanonaphane;  <br>
+the first locant of the attachment locant set ‘5,2’ is not the locant adjacent  <br>
+to the lower locant of the simplified parent skeleton, ‘4’ (see P-26.3.2.2)] 
+ru: 3(2,5),7(2,6)-дипиридина-5(2,5)-фурана-1,9(1)-дибензонанона&(phane) (PIN) <br>
+[не 3(2,5),7(2,6)-дипиридина-5(5,2)-фурана-1,9(1)-дибензонанона&(phane); <br>
+первый локант набора &(attachment locant|ro*) «5,2» не является локантом, смежным <br>
+с меньшим локантом упрощенного &(parent skeleton|ro), «4» (см. P-26.3.2.2)]
+
+@cell
+
+<div class="two-col-grid">
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)$slope(60)`|`-N@n(1,-60,.5)`\\/=@n(4,120,.5)<\@bt(3,120,%L)`//@n(2,-120,.5)>/@bt(2,-120)`\`-`//`-`\\@bt(1,120,%L)/=<\>/N@n(1,70,.6)=@n(2,120,.5)<\`//@n(4,-120,.5)>#
+$slope(30)`|@bt(14)/@bt(13)\@bt(12,-120,.6)/@bt(11)\@bt(10)|#
+$slope(60)=/=\@bt(9,120,%L)`//`-<`\>`//N@n(1,-110,.6)`-@n(2,-60,.5)<`\\r/@n(4,60,.5)>`/@bt(8,-120)\=N@n(1,110,.6)\`//`-@n(4,-60,.5)<`\\r@bt(7,120,%L)/@n(2,60,.5)>|@bt(6)_(A150):a;
+N@n(2,-60,.55)--O@n(1,-130,.55)_q#a@n(5,160)_qq@bt(5,-125,.8)_q@n(3,10,.4)<_qq>_#1@bt(4)
+$>
+
+<div class="flex-row">
+
+en: not
+ru: не
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)$slope(60)`|`-N@n(1,-60,.5)`\\/=@n(4,120,.5)<\@bt(7,120,%L)`//@n(2,-120,.5)>/@bt(8,-120)`\`-`//`-`\\@bt(9,120,%L)/=<\>/N@n(1,70,.6)=@n(2,120,.5)<\`//@n(4,-120,.5)>#
+$slope(30)`|@bt(10)/@bt(11)\@bt(12,-120,.6)/@bt(13)\@bt(14)|#
+$slope(60)=/=\@bt(1,120,%L)`//`-<`\>`//N@n(1,-110,.6)`-@n(2,-60,.5)<`\\r/@n(4,60,.5)>`/@bt(2,-120)\=N@n(1,110,.6)\`//`-@n(4,-60,.5)<`\\r@bt(3,120,%L)/@n(2,60,.5)>|@bt(4)_(A150):a;
+N@n(2,-60,.55)--O@n(1,-130,.55)_q#a@n(5,160)_qq@bt(5,-125,.8)_q@n(3,10,.4)<_qq>_#1@bt(6)
+$>
+
+</div>
+
+*: **(I)**
+
+*: **(II)**
+
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1)$slope(60)-0_q@n(11,0)_q@n(12,-90)_q@n(13,180,.5)_q@n(14,-170,.6)`/{●}@n(1,180,.6)\@n(2,180,.5)-0</{●}@n(9,0,.5)`\@n(10,-10,.6)>@n(8,0,.5)_p7{●}@n(7,0,.6)_p7@n(6,30)_p7{●}@n(5,90,.6)_p7@n(4,150)_p7{●}@n(3,180,.6)_p7
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+*: **(I)**
+
+</div>
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1)$slope(60)-0_q@n(13,0)_q@n(12,-90)_q@n(11,180,.5)_q@n(10,-170,.6)`/{●}@n(9,180,.6)\@n(8,180,.5)-0</{●}@n(1,0,.5)`\@n(14,-10,.6)>@n(2,0,.5)_p7{●}@n(3,0,.6)_p7@n(4,30)_p7{●}@n(5,90,.6)_p7@n(6,150)_p7{●}@n(7,180,.6)_p7$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+*: **(II)**
+
+</div>
+</div>
+
+en: 1(4,2),9(2,4)-diquinolina-3,7(4,2)-dipyridina-5(3,5)-[1,2]oxazolacyclotetradecaphane **(I)** (PIN)  <br>
+[not 1(2,4),9(4,2)-diquinolina-3,7(2,4)-dipyridina-5(5,3)-[1,2]oxazolacyclotetradecaphane **(II)**;  <br>
+each of the identical pairs of amplificants, quinolina and pyridina,  <br>
+have identical attachment locants, ‘(2,4)’ and ‘(2,4)’, respectively;  <br>
+the single unsymmetrical amplificant, 1,2-oxazola, remains to which P-26.4.2.1 applies;  
+its lower attachment locant ‘3’ must be adjacent to the  
+lower locant of the simplified parent skeleton, ‘4’] 
+ru: 1(4,2),9(2,4)-дихинолина-3,7(4,2)-дипиридина-5(3,5)-[1,2]оксазолациклотетрадека&(phane) **(I)** (PIN) <br>
+[не 1(2,4),9(4,2)-дихинолина-3,7(2,4)-дипиридина-5(5,3)-[1,2]оксазолациклотетрадека&(phane) **(II)**; <br>
+каждая из идентичных пар амплификантов, хинолина и пиридина, имеет идентичные <br>
+&(attachment locant|*), «(2,4)» и «(2,4)» соответственно; <br>
+остается единственный несимметричный амплификант, 1,2-оксазола, к которому применяется P-26.4.2.1; <br>
+его меньший &(attachment locant) «3» должен быть смежным с меньшим локантом упрощенного &(parent skeleton|ro), «4»]
+
+@End
+
+#P-26.4.2.4+
+en: When two numberings for a simplified phane skeleton are still possible, the selected numbering is that which 
+gives the lower locant set when attachment locants of all amplificants, as they appear in the name, are compared in the 
+increasing order of their corresponding superatom locants. 
+ru: Когда две нумерации для упрощенного &(phane skeleton|ro) все еще возможны, выбранной нумерацией является та, 
+которая дает меньший набор локантов, когда &(attachment locant|*) всех амплификантов, как они указаны в названии, 
+сравниваются в порядке возрастания их соответствующих локантов суператомов.
+
+@Examples
+
+@cell
+
+<div class="two-col-grid">
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(60)`//`-`\\@bt(1,120,%L)@n(5,-10,.5)/=N@n(1,110,.6)\@n(2,-170)-@bt(2)\@bt(3)`/`=l`/\\l@n(2,-60)<-N@n(1,-100,.6)//@bt(4,-120,%L)`\@n(5,110,.5)>`/@bt(5)`-@bt(6)`\//l`\`=l<@n(2,60,.5)`/N@n(1,.5)@bt(7,-120,%L)\\-@n(5,-120,.5)>`\@bt(8)/@bt(9)-
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)-@n(8,60)_q9{●}@n(7,30,.6)_q9@n(6,-10)_q9@n(5,-40)_q9{●}@n(4,-90,.6)_q9@n(3,-140)_q9@n(2,-170)_q9{●}@n(1,150,.6)_q9@n(9,120)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+en: 1(2,5),4,7(5,2)-tripyridinacyclononaphane (PIN)  <br>
+[not 1(5,2),4,7(2,5)-tripyridinacyclononaphane;  <br>
+when compared in the order of increasing value of the corresponding superatoms,  <br>
+the amplificant locant set ‘(2,5)(5,2)(5,2)’ in the PIN is lower than ‘(5,2)(2,5)(2,5)’]
+ru: 1(2,5),4,7(5,2)-трипиридинациклонона&(phane) (PIN) <br>
+[не 1(5,2),4,7(2,5)-трипиридинациклонона&(phane); <br>
+при сравнении в порядке возрастания значения соответствующих суператомов, <br>
+набор локантов амплификанта ‘(2,5)(5,2)(5,2)’ в PIN меньше, чем ‘(5,2)(2,5)(2,5)’]
+
+@cell
+
+<div class="two-col-grid">
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`/@bt(7)`\`//`\`||/@n(3,100,.5)@bt(8,120,%L)<\\r|@n(1,-125,.5)>`|@bt(9)/@bt(10)\@bt(11,-120,.6)/@bt(12)\@bt(13,,.5)|`//l|@n(3,-40)\\@bt(6,-120,%L)/\:a@n(5,-100,.5)//`|`\\@n(8,100,.5)<`/|l`|`\@n(1,70,.5)>#
+_(A-30,-70)@bt(1)-@bt(2,-70)_(A30)`/@n(2,30,.5)||l@n(1,-20,.5)\|l`|/<`|`\\@n(3,100,.5)>\\/@bt(3,120,%L)\\|`//`\<`|>`//@n(9,-90,.5)`\@n(10,-40,.6)#
+$L(1.2)_(A170)@bt(4)_(A-160)@bt(5)_#a
+$>
+
+*: **(I)**
+
+</div>
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}/@n(1,-110)-@n(2,-60)\{●}@n(3,0,.5)`/@n(4,60)`-@n(5,110)`\@n(6,90,.7)_(a-127.5)@n(7,70)_p8{●}@n(8,90,.6)_p8@n(9,120)_p8@n(10,180,.6)_p8@n(11,-130,.5)_p8@n(12,-90)_p8@n(13,-70)_p8
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`/@bt(7)`\`//`\`||/@n(3,100,.5)@bt(8,120,%L)<\\r|@n(1,-125,.5)>`|@bt(9)/@bt(10)\@bt(11,-120,.6)/@bt(12)\@bt(13,,.5)|`//l|@n(3,-40)\\@bt(6,-120,%L)/\:a@n(5,-100,.5)//`|`\\@n(8,100,.5)<`/|l`|`\@n(1,70,.5)>#
+_(A-30,-70)@bt(5)-@bt(4,-70)_(A30)`/@n(2,30,.5)||l@n(1,-20,.5)\|l`|/<`|`\\@n(3,100,.5)>\\/@bt(3,120,%L)\\|`//`\<`|>`//@n(9,-90,.5)`\@n(10,-40,.6)#
+$L(1.2)_(A170)@bt(2)_(A-160)@bt(1)_#a
+$>
+
+*: **(II)**
+
+</div>
+<div>
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}/@n(5,-110)-@n(4,-60)\{●}@n(3,0,.5)`/@n(2,60)`-@n(1,110)`\@n(6,90,.7)_(a-127.5)@n(7,70)_p8{●}@n(8,90,.6)_p8@n(9,120)_p8@n(10,180,.6)_p8@n(11,-130,.5)_p8@n(12,-90)_p8@n(13,-70)_p8
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+en: 3(3,10)-phenanthrena-6(8,5,3,1)-naphthalena-8(1,3)-benzenaspiro[5.7]tridecaphane **(I)** (PIN) <br>
+[not 3(10,3)-phenanthrena-6(5,8,3,1)-naphthalena-8(1,3)-benzenaspiro[5.7]tridecaphane **(II)**;  <br>
+the set of attachment locants ‘(3,10)(8,5,3,1)(1,3)’ in the PIN cited for comparison  <br>
+in the order of the increasing value of their corresponding superatom locants,  <br>
+is lower than the corresponding set of attachment locants, ‘(10,3)(5,8,3,1)(1,3)’]
+ru: 3(3,10)-фенантрена-6(8,5,3,1)-нафталина-8(1,3)-бензоспиро[5.7]тридека&(phane) **(I)** (PIN) <br>
+[не 3(10,3)-фенантрена-6(5,8,3,1)-нафталина-8(1,3)-бензоспиро[5.7]тридека&(phane) **(II)**; <br>
+набор &(attachment locant|ro*) ‘(3,10)(8,5,3,1)(1,3)’ в PIN, приведенном для сравнения <br>
+в порядке возрастания значения соответствующих им локантов суператома, <br>
+меньше соответствующего набора &(attachment locant|ro*) ‘(10,3)(5,8,3,1)(1,3)’]
+
+@cell
+
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\@bt(1,120,%L)/=\@n(1,-160,.5)@:mh(n)-CH2@bt(&n)_(h){}-@(2)/N=\@n(5,-160,.5)@bt(3,120,%L)<`//`-`\\@n(2,-20,.5)>@mh(4)/N=\@n(5,-160,.5)@bt(5,120,%L)<`//`-`\\@n(2,-20,.5)>@mh(6)/=N\@n(2,-160,.5)@bt(7,120,%L)<`//`-`\\@n(5,-20,.5)>@mh(8)/=\@bt(9,120,%L)`//`-`\\@n(1,-20,.5)
+$>
+
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)@:nx(n){●}@n(&n,-90,.6)@(1)/@n(2)\@nx(3)/@n(4,-90)\@nx(5)/@n(6)\@nx(7)/@n(8)\@nx(9)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+
+en: 3,5(2,5),7(5,2)-tripyridina-1,9(1)-dibenzenanonaphane (PIN)  <br>
+[not 3(2,5),5,7(5,2)-tripyridina-1,9(1)-dibenzenanonaphane;  <br>
+the attachment locants set ‘(2,5)(2,5)(5,2)’ in the PIN, compared  <br>
+in the order of the increasing value of their corresponding superatom locants,  <br>
+is lower than the corresponding set of attachment locants,‘(2,5)(5,2)(5,2)’]  
+ru: 3,5(2,5),7(5,2)-трипиридина-1,9(1)-дибензонанона&(phane) (PIN) <br>
+[не 3(2,5),5,7(5,2)-трипиридина-1,9(1)-дибензонанона&(phane); <br>
+набор &(attachment locant|ro*) ‘(2,5)(2,5)(5,2)’ в PIN, сравниваемый в порядке <br>
+возрастания значения соответствующих им локантов суператома, меньше соответствующего <br>
+набора &(attachment locant|ro*) ‘(2,5)(5,2)(5,2)’]
+
+@End
+
+#P-26.4.3
+en: Numbering of phane parent hydrides
+ru: Нумерация &(phane parent hydride|ro*)
+
+#P-26.4.3.1+
+en: In a phane parent hydride, the locants for atoms that do not belong to amplificants are the locants of the 
+simplified skeleton. However, locants for the atoms of the amplificants must be distinguished from the arabic number 
+locants of the simplified skeleton. Thus, locants for amplificant atoms are constructed by citing the actual locants of the 
+amplificant as superscripts to the locant of the superatom that represents the amplificant in the simplified skeleton.
+ru: В &(phane parent hydride|pr) локанты для атомов, которые не принадлежат амплификантам, являются локантами упрощенного
+скелета. Однако локанты для атомов амплификантов следует отличать от арабских числовых локантов упрощенного скелета. 
+Таким образом, локанты для атомов амплификантов строятся путем указания фактических локантов амплификанта в качестве 
+верхних индексов к локанту суператома, представляющего амплификант в упрощенном скелете.
+
+#P-26.4.3.2+
+en: In a substituted phane parent hydride name, a series of composite locants based on the superatom locant 
+must not be contracted. As is the rule for citing locants in front of detachable prefixes, there must be a number of 
+locants corresponding to the multiplying prefix, ‘di’, ‘tri’, etc. in front of the prefix. 
+ru: В замещенном названии &(phane parent hydride|ro) серии составных локантов, основанных на локанте суператома, 
+не должны сокращаться. Как и правило для цитирования локантов перед отделяемыми префиксами, должно быть несколько локантов, 
+соответствующих множительному префиксу, «ди», «три» и т. д. перед префиксом.
+
+#P-26.4.3.3+
+en: The seniority of a composite locant is determined first on the basis of its primary locants, i.e., the locants of 
+the phane parent skeleton, and, if these locants are identical, on the basis of the complete composite locant itself, i.e., 
+the primary locant and its superscripts. 
+ru: Старшинство составного локанта определяется сначала на основе его первичных локантов, т. е. локантов 
+&(phane parent skeleton|ro), и, если эти локанты идентичны, на основе самого полного составного локанта, т. е. 
+первичного локанта и его верхних индексов.
+
+@Examples --
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)`//r@bt(1,120,%L)`\@n(3,-30,.5)<_(x-%L):a>`||@n(4,30,.5)<`\Cl>/@n(5,90)<`|Cl>\\@n(6,150,.5)</Cl>|@n(1,-150,.5)#
+_(A30,L1.5)@bt(2)|<-Cl><_(a-30)Cl>@bt(3,10,.6)_(A150)#
+@n(1,-170,.5)`//<\Cl>@n(2,-120,.5)`-@n(3,-60,.5)<`/Cl>`\\@n(4,-10,.5)@bt(4,120,%L)</=r\>#
+_(x#a):b@bt(5)_(x-.8,y#a;b)@bt(6)_#a@bt(7)
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)|@n(3,30)_p7{●}@n(4,80,.6)_p7@n(5,120)_p7@n(6,180)_p7@n(7,-120)_p7{●}@n(1,-80,.6)_p7@n(2,-30)
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+en: 1^{4},1^{5},1^{6},3,3,4^{2},4^{3}-heptachloro-1(1,3),4(1,4)-dibenzenacycloheptaphane (PIN)  <br>
+[not 1^{4,5,6},3,3,4^{2,3}-heptachloro-1(1,3),4(1,4)-dibenzenacycloheptaphane;  <br>
+superscript locants denoting positions on amplificants are not contracted (see P-26.4.3.2)]  <br>
+[not 1^{2},1^{3},2,2,4^{4},4^{5},4^{6}-heptachloro-1(1,4),4(1,3)-dibenzenacycloheptaphane;  <br>
+the amplificant with the lower attachment locant set  <br>
+is not assigned to the superatom with the lowest locant (see P-26.4.2.2)] 
+ru: 1^{4},1^{5},1^{6},3,3,4^{2},4^{3}-гептахлор-1(1,3),4(1,4)-дибензонациклогепта&(phane) (PIN) <br>
+[не 1^{4,5,6},3,3,4^{2,3}-гептахлор-1(1,3),4(1,4)-дибензонациклогепта&(phane); <br>
+надстрочные локанты, обозначающие позиции на амплификантах, не сокращаются (см. P-26.4.3.2)] <br>
+[не 1^{2},1^{3},2,2,4^{4},4^{5},4^{6}-гептахлор-1(1,4),4(1,3)-дибензонациклогепта&(phane); <br>
+амплификант с меньшим набором &(attachment locant|ro*) не назначается суператому с с наименьшим локантом (см. P-26.4.2.2)]
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$dblAlign(r)`//`\@n(3,-20)`||@n(4,20)<`\Cl>/@n(5,90)@bt(1,120,%L)<`|Cl>\\@n(6,140)</Cl>|@n(1,-160)\@bt(2)|@bt(3)`/||@n(6,-160)<\Cl>`/`\\@n(4,-30)<`/Cl>`|@n(3,30)<//@bt(4,120,%L)\@n(1,160)>`\@bt(5)`|@bt(6)/
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/{●}@n(4,90,.6)`\@n(5,150)`|@n(6,-150)/
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+en: 1^{4},1^{5},1^{6},4^{4},4^{6}-pentachloro-1,4(1,3)-dibenzenacyclohexaphane (PIN)  <br>
+[not 1^{4},1^{6},4^{4},4^{5},4^{6}-pentachloro-1,4(1,3)-dibenzenacyclohexaphane;  <br>
+the primary locant set ‘1,1,1,4,4’ is lower than the locant set ‘1,1,4,4,4’] 
+ru: 1^{4},1^{5},1^{6},4^{4},4^{6}-пентахлор-1,4(1,3)-дибензонациклогекса&(phane) (PIN) <br>
+[не 1^{4},1^{6},4^{4},4^{5},4^{6}-пентахлор-1,4(1,3)-дибензонациклогекса&(phane); <br>
+первичный набор локантов «1,1,1,4,4» меньше, чем набор локантов «1,1,4,4,4»]
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$dblAlign(r)`//@bt(1,120,%L)`\@n(3,-20)`||@n(4,20)<`\Cl>/@n(5,90)<`|Cl>\\|@n(1,-140)\@bt(2)|@bt(3)`/||@n(6,-160)<\Cl>`/@bt(4,120,%L)`\\@n(4,-30)<`/Cl>`|@n(3,30)<//\@n(1,160)>`\@bt(5)`|@bt(6)/
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/{●}@n(4,90,.6)`\@n(5,150)`|@n(6,-150)/
+$>
+
+en: simplified skeleton <br>
+● = superatom
+ru: упрощенный скелет <br>
+● = суператом
+
+</div>
+</div>
+
+en: 1^{4},1^{5},4^{4},4^{6}-tetrachloro-1,4(1,3)-dibenzenacyclohexaphane (PIN)  <br>
+[not 1^{4},1^{6},4^{4},4^{5}-tetrachloro-1,4(1,3)-dibenzenacyclohexaphane; <br>
+the primary locant sets ‘1,1,4,4’ are identical  <br>
+but the composite locant set in the PIN, ‘1^{4},1^{5},4^{4},4^{6}’, is lower than ‘1^{4},1^{6},4^{4},4^{5}’ ] 
+ru: 1^{4},1^{5},4^{4},4^{6}-тетрахлор-1,4(1,3)-дибензонациклогекса&(phane) (PIN) <br>
+[не 1^{4},1^{6},4^{4},4^{5}-тетрахлор-1,4(1,3)-дибензонациклогекса&(phane); <br>
+первичные наборы локантов «1,1,4,4» идентичны, но составной <br>
+набор локантов в PIN, «1^{4},1^{5},4^{4},4^{6}», ниже, чем «1^{4},1^{6},4^{4},4^{5}» ]
+
+@End
+
+#P-26.4.3.4+
+en: Indicated hydrogen, when present in amplificants, is placed before the phane parent hydride name and 
+preceded by the appropriate composite locant(s). 
+ru: &(Indicated hydrogen), если он присутствует в амплификантах, помещается перед названием &(phane parent hydride|ro) 
+и ему предшествует соответствующий составной локант(ы).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)$dblAlign(r)`/`\@n(5,-30)`||/O@n(1,90,.55)@bt(1,120,%L)\||@n(3,-150)\@bt(2)|@bt(3)`/||`/@bt(4,120,%L)`\\`|@n(3,30)<//\@n(1,150)>`\@bt(5)`|@bt(6)/
+$>
+
+en: 1^{4}_H_-1(3,5)-pyrana-4(1,3)-benzenacyclohexaphane (PIN)
+ru: 1^{4}_H_-1(3,5)-пирана-4(1,3)-бензонациклогекса&(phane) (PIN)
+
+@End
+
+
+#P-26.5
+en: Skeletal replacement (‘a’) nomenclature in phane nomenclature 
+ru: Номенклатура &(skeletal replacement a|ro) в &(phane nomenclature|pr)
+
+#P-26.6
+en: Other aspects of phane nomenclature
+ru: Другие аспекты &(phane nomenclature|ro)

@@ -10,6 +10,8 @@ body {
   color: var(--text-color);
 }
 
+h2, h3 { text-transform: uppercase; }
+
 h4, h5, h6 {
   font-size: 1.1rem;
   margin: 0.6rem 0;
@@ -146,19 +148,27 @@ a.wrong-part {
 .term {
   text-decoration: underline dotted #CCC;
   font-style: normal;
+  color: #007;
 }
 
-.two-col-list {
+.two-col-list, .two-col-grid {
   display: grid;
-  grid-template-columns: auto 1fr;
   column-gap: 2em;
   row-gap: 0.2em;
+
+  & > * {
+    margin: 0;
+    padding: 0;
+  }
+}
+.two-col-list {
+  grid-template-columns: auto 1fr;
+}
+.two-col-grid {
+  grid-template-columns: auto auto;
+  display: inline-grid;
 }
 
-.two-col-list > * {
-  margin: 0;
-  padding: 0;
-}
 
 .colspan2 {
   grid-column: span 2;
