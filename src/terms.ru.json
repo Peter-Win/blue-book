@@ -53,6 +53,9 @@
   "fusion nomenclature|tv": "номенклатурой слияния",
   "fusion nomenclature|pr": "номенклатуре слияния",
 
+  "heterophane parent hydride": "исходный гидрид гетерофана",
+  "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
+
   "indicated hydrogen": "указанный водород",
   "indicated hydrogen|ro": "указанного водорода",
   "indicated hydrogen|da": "указанному водороду",
@@ -88,11 +91,16 @@
   "parent name|ro": "исходного имени",
   "parent name|da": "исходному имени",
 
+  "parent phane hydrocarbon": "исходный фановый углеводород",
+  "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
+  "parent phane hydrocarbon|da": "исходному фановому углеводороду",
+
   "parent structure": "исходная структура",
   "parent structure|*": "исходные структура",
 
   "parent skeleton": "исходный скелет",
   "parent skeleton|ro": "исходного скелета",
+  "parent skeleton|pr": "исходном скелете",
 
   "phane": "фан",
   "phane|*": "фаны",
@@ -102,6 +110,7 @@
   "phane name|ro": "названия фан",
   "phane name|*": "названия фан",
   "phane name|ro*": "названий фан",
+  "phane name|pr*": "названиях фан",
 
   "phane nomenclature": "номенклатура фан",
   "phane nomenclature|ro": "номенклатуры фан",
@@ -116,6 +125,7 @@
   "phane parent hydride|pr": "исходном гидриде фан",
   "phane parent hydride|*": "исходные гидриды фан",
   "phane parent hydride|ro*": "исходных гидридов фан",
+  "phane parent hydride|da*": "исходным гидридам фан",
 
   "phane parent graph": "исходный граф фан",
   "phane parent graph|ro": "исходного графа фан",
@@ -147,6 +157,11 @@
   "phane skeleton|ro*": "скелетов фановых структур",
 
   "phane system": "система фан",
+
+  "replacement a prefix": "префикс замещения (‘a’)",
+  "replacement a prefix|*": "префиксы замещения (‘a’)",
+  "replacement a prefix|ro*": "префиксов замещения (‘a’)",
+  "replacement a prefix|da*": "префиксам замещения (‘a’)",
 
   "ring assembly": "кольцевая сборка",
   "ring assembly|*": "кольцевые сборки",

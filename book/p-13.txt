@@ -70,10 +70,11 @@ ru: Операция замены включает в себя обмен одн
 #P-13.2.1.1+ 
 en: By replacement (‘a’) prefixes representing the element being introduced. This type of replacement is called 
 ‘skeletal replacement’. The most common type of replacement in the nomenclature of organic compounds is 
-replacement of carbon atoms by one or more of the following elements: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb.
-ru: По замене (‘a’) префиксов, представляющих вводимый элемент. Этот тип замены называется ‘скелетной заменой’. 
+replacement of carbon atoms by one or more of the following elements: <%list%>.
+ru: По &(replacement a prefix|da*), представляющим вводимый элемент. Этот тип замены называется ‘скелетной заменой’. 
 Наиболее распространенным типом замены в номенклатуре органических соединений является замена атомов углерода 
-одним или несколькими из следующих элементов: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb.
+одним или несколькими из следующих элементов: <%list%>.
+%list: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb
 
 @Examples
 
@@ -89,7 +90,7 @@ ru: циклотетрадекан (PIN)
 en: silacyclotetradecane (PIN) <br>
 [replacement (‘a’) prefix = ‘sila’] 
 ru: силациклотетрадекан (PIN) <br>
-[замена (‘a’) префикс = ‘сила’]
+[&(replacement a prefix) = ‘сила’]
 
 @cell
 <$ //_(a-%pa:81.4707)_(a-%pb:68.5292,N2)_(a-%pb)\|<_(a%pa,N2)_(a%pb)_(a%pb,N2)>_(a-%pa)_(a-%pb,N2)_(a-%pb) $>
@@ -103,7 +104,7 @@ ru: циклопента[_cd_]пентален (PIN)
 en: 1,2,3,4,5,6-hexaazacyclopenta[_cd_]pentalene (PIN) <br>
 [replacement (‘a’) prefix = ‘aza’] 
 ru: 1,2,3,4,5,6-гексаазациклопента[_cd_]пентален (PIN) <br>
-[замена (‘a’) префикс = ‘аза’]
+[&(replacement a prefix) = ‘аза’]
 
 @End
 
@@ -129,7 +130,7 @@ $>
 en: 1-carba-nido-pentaborane(5) (PIN) <br>
 [replacement (‘a’) prefix = ‘carba’; carbon replacing boron; see P-68.1.1.2.1] 
 ru: 1-карба-нидо-пентаборан(5) (PIN) <br>
-[замена (‘a’) префикс = ‘карба’; углерод заменяет бор; см. P-68.1.1.2.1]
+[&(replacement a prefix) = ‘карба’; углерод заменяет бор; см. P-68.1.1.2.1]
 
 @cell
 <$
@@ -140,7 +141,7 @@ $>
 en: (4βH)-4-carbayohimban <br>
 [replacement (‘a’) prefix = ‘carba’; carbon replacing nitrogen; see P-101.4] 
 ru: (4βH)-4-карбайохимбан <br>
-[замена (‘a’) префикс = ‘карба’; углерод заменяет азот; см. P-101.4]
+[&(replacement a prefix) = ‘карба’; углерод заменяет азот; см. P-101.4]
 // Yohimban: http://charchem.org/en/subst-ref/?id=6696
 
 @End

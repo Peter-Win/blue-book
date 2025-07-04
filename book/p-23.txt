@@ -918,7 +918,7 @@ nomenclature. The replacement (‘a’) prefixes denoting the heteroatoms are pl
 corresponding hydrocarbon named according to P-23.2, cited in the order: <% order %>. Numbering is determined first by the fixed numbering of the 
 hydrocarbon system. 
 ru: Единственным общим методом для наименования гетерогенных гетероциклических систем фон Байера является скелетная 
-заместительная (‘a’) номенклатура. Замещающие (‘a’) префиксы, обозначающие гетероатомы, помещаются перед названием 
+заместительная (‘a’) номенклатура. &(Replacement a prefix|*), обозначающие гетероатомы, помещаются перед названием 
 соответствующего углеводорода, названного в соответствии с P-23.2, приведенным в следующем порядке: <% order %>. 
 Нумерация определяется в первую очередь фиксированной нумерацией углеводородной системы.
 %order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi >Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
@@ -1030,7 +1030,7 @@ ru: как описано для би- и полициклических угл�
 @item
 en:  by skeletal replacement nomenclature using the replacement (‘a’) prefixes described in  P-22.2.5, in which the 
 total number of heteroatoms is indicated by a numerical term.
-ru: по номенклатуре скелетных замен с использованием префиксов замены («a»), описанных в P-22.2.5, в которых общее 
+ru: по номенклатуре скелетных замен с использованием &(replacement a prefix|ro*), описанных в P-22.2.5, в которых общее 
 количество гетероатомов указывается числовым термином.
 
 @End

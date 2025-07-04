@@ -1529,7 +1529,7 @@ ru: 3,3′-диоксаспиро[бицикло[2.2.2]октан-2,6′-биц�
 @cell
 en: **Explanation:** spiro fusion is preferred to replacement (‘a’) prefixes for low locants and the locant set 2,6′ in the PIN **(I)** 
 is lower than 3,6′ in **(II)**. 
-ru: **Пояснение:** спирослияние предпочтительнее замены префиксов («a») для низких локантов, а набор локантов 2,6′ 
+ru: **Пояснение:** спирослияние предпочтительнее &(replacement a prefix|ro*) для меньших локантов, а набор локантов 2,6′ 
 в PIN **(I)** меньше, чем 3,6′ в **(II)**.
 
 @End

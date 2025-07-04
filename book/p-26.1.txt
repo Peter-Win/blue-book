@@ -1646,12 +1646,3 @@ en: 1^{4}_H_-1(3,5)-pyrana-4(1,3)-benzenacyclohexaphane (PIN)
 ru: 1^{4}_H_-1(3,5)-пирана-4(1,3)-бензонациклогекса&(phane) (PIN)
 
 @End
-
-
-#P-26.5
-en: Skeletal replacement (‘a’) nomenclature in phane nomenclature 
-ru: Номенклатура &(skeletal replacement a|ro) в &(phane nomenclature|pr)
-
-#P-26.6
-en: Other aspects of phane nomenclature
-ru: Другие аспекты &(phane nomenclature|ro)
