@@ -592,6 +592,7 @@ en: Heterogenous acyclic parent hydrides
 ru: Гетерогенные ациклические исходные гидриды
 
 // @Content К сожалению, пока нет конструкции, чтобы текст в содержании и непосредственно в заголовке был разный
+// TODO: уже есть 
 
 #P-21.2.3.1+
 en: Heterogeneous parent hydrides composed of alternating heteroatoms, i.e., [a(ba)_{_n_} hydrides], excluding 

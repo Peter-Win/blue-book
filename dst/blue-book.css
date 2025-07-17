@@ -173,3 +173,8 @@ a.wrong-part {
 .colspan2 {
   grid-column: span 2;
 }
+
+/* для уменьшения абстрактных элементов */
+.small-abs i {
+  font-size: 80%;
+}
