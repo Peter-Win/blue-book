@@ -11,6 +11,11 @@
   "amplification prefix|ro*": "префиксов амплификации",
   "amplification prefix|tv*": "префиксами амплификации",
 
+  "assembly": "сборка",
+  "assembly|pr": "сборке",
+  "assembly|*": "сборки",
+  "assembly|tv*": "сборками",
+
   "attachment atom": "атом прикрепления",
   "attachment atom|*": "атомы прикрепления",
   "attachment atom|tv*": "атомами прикрепления",
@@ -36,6 +41,9 @@
 
   "fused ring system": "конденсированная кольцевая система",
   "fused ring system|tv": "конденсированной кольцевой системой",
+
+  "fused system": "конденсированная система",
+  "fused system|*": "конденсированные системы",
 
 
   "fusion atom": "атом слияния",
@@ -158,7 +166,8 @@
   "phane skeleton|*": "скелеты фановых структур",
   "phane skeleton|ro*": "скелетов фановых структур",
 
-  "phane system": "система фан",
+  "phane system": "фановая система",
+  "phane system|*": "фановые системы",
 
   "replacement a prefix": "префикс замещения (‘a’)",
   "replacement a prefix|*": "префиксы замещения (‘a’)",
@@ -166,6 +175,7 @@
   "replacement a prefix|da*": "префиксам замещения (‘a’)",
 
   "ring assembly": "кольцевая сборка",
+  "ring assembly|tv": "кольцевыми сборками",
   "ring assembly|*": "кольцевые сборки",
   "ring assembly|ro*": "кольцевых сборок",
 

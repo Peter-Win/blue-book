@@ -1,0 +1,3 @@
+#P-29 
+en: Prefixes denoting substituent groups derived from parent hydrides 
+ru: Префиксы, обозначающие замещающие группы, полученные из &(parent hydride|ro*)
