@@ -1,3 +1,32 @@
 #P-29 
 en: Prefixes denoting substituent groups derived from parent hydrides 
 ru: Префиксы, обозначающие замещающие группы, полученные из &(parent hydride|ro*)
+
+@Content
+
+#P-29.0
+en: Introduction 
+ru: Введение
+
+#P-29.1
+en: Definitions 
+ru: Определения
+
+#P-29.2
+en: General methodology for naming substituent groups 
+ru: Общая методология наименования замещающих групп
+
+#P-29.3
+en: Systematic names for simple substituent prefixes derived from saturated parent hydrides 
+ru: Систематические названия простых заместителей-префиксов, полученных от насыщенных &(parent hydride|ro*)
+
+#P-29.4
+en: Compound substituent groups  
+
+#P-29.5
+en: Complex substituent groups 
+ru: Сложные замещающие группы
+
+#P-29.6
+en: Retained names for prefixes of simple substituent groups derived from the parent hydrides described in Chapter P-2 
+ru: Сохраненные названия для префиксов простых замещающих групп, полученных из исходных гидридов, описанных в главе P-2

@@ -741,7 +741,7 @@ ru: бис
 
 @cell
 en: quinque
-ru: квинки
+ru: &(quinque)
 
 @cell
 8

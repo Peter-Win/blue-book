@@ -11,9 +11,13 @@
   "amplification prefix|ro*": "префиксов амплификации",
   "amplification prefix|tv*": "префиксами амплификации",
 
+  "assembly|comment": "по тексту сочетается с прилагательными в женском роде",
   "assembly": "сборка",
+  "assembly|ro": "сборки",
+  "assembly|vi": "сборку",
   "assembly|pr": "сборке",
   "assembly|*": "сборки",
+  "assembly|ro*": "сборок",
   "assembly|tv*": "сборками",
 
   "attachment atom": "атом прикрепления",
@@ -35,6 +39,9 @@
   "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
 
+  "citation": "цитирование",
+  "citing": "цитирование",
+
   "cyclophane": "циклофан",
   "cyclophane|*": "циклофаны",
   "cyclophane|ro*": "циклофанов",
@@ -44,6 +51,7 @@
 
   "fused system": "конденсированная система",
   "fused system|*": "конденсированные системы",
+  "fused system|ro*": "конденсированных систем",
 
 
   "fusion atom": "атом слияния",
@@ -169,12 +177,15 @@
   "phane system": "фановая система",
   "phane system|*": "фановые системы",
 
+  "quinque": "квинки",
+
   "replacement a prefix": "префикс замещения (‘a’)",
   "replacement a prefix|*": "префиксы замещения (‘a’)",
   "replacement a prefix|ro*": "префиксов замещения (‘a’)",
   "replacement a prefix|da*": "префиксам замещения (‘a’)",
 
   "ring assembly": "кольцевая сборка",
+  "ring assembly|ro": "кольцевой сборки",
   "ring assembly|tv": "кольцевыми сборками",
   "ring assembly|*": "кольцевые сборки",
   "ring assembly|ro*": "кольцевых сборок",
