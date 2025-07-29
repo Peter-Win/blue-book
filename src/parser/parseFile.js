@@ -132,7 +132,7 @@ const onHeader = (reader) => {
   const headerLine = reader.readLine();
   const h = onLocalParagraph("header", reader);
   h.headerId = headerLine.slice(1).trim();
-  if (/^\([a-z]\)/.test(h.headerId)) {
+  if (/^\([a-z\d]\)/.test(h.headerId)) {
     h.inline = true;
     h.refId = `${reader.prevHeaderId} ${h.headerId}`;
   } else {

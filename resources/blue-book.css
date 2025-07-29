@@ -34,6 +34,8 @@ h4, h5, h6 {
 .std-table-box.left-aligned {
   align-items: flex-start;
 }
+.std-table-box.cells-align-top td {vertical-align: top;}
+
 .std-table-title {
   font-weight: bold;
   text-align: center;

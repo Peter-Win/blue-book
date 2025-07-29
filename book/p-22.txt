@@ -252,11 +252,11 @@ en: Retained names of heteromonocycles
 ru: Сохранённые названия гетеромоноциклов
 
 en: Retained names for ‘mancude’ heteromonocycles and their chalcogen analogues are listed in Table 2.2. 
-ru: Сохранённые названия для гетеромоноциклов «mancude» и их халькогенных аналогов приведены в таблице 2.2.
+ru: Сохранённые названия для гетеромоноциклов «&(mancude)» и их халькогенных аналогов приведены в таблице 2.2.
 
 @p .left-offset
 en: **Note**: The term ‘mancude’ is an acronym for MAximum number of NonCUmulative DoublE bonds. 
-ru: **Примечание**: Термин «mancude» является аббревиатурой от МАКСИМАЛЬНОЕ количество некумулятивных двойных связей.
+ru: **Примечание**: Термин «&(mancude)» является аббревиатурой от МАксимальное количество НеКумулятивных Двойных связей.
 
 en: The name ‘pyran’ is modified by functional replacement nomenclature to generate names for chalcogen analogues. 
 ru: Название «пиран» изменено с помощью функциональной замещающей номенклатуры для генерации названий аналогов халькогена.
@@ -266,7 +266,7 @@ ru: Сохранённые названия насыщенных гетером�
 
 @Table 2.2 
 en: Retained names of mancude heteromonocyclic parent hydrides
-ru: Сохраненные названия манкудных гетеромоноциклических исходных гидридов
+ru: Сохраненные названия &(mancude)-гетеромоноциклических исходных гидридов
 
 @td; colspan=2
 <$

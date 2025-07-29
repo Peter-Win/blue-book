@@ -40,7 +40,24 @@
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
 
   "citation": "цитирование",
+  "cite": "цитировать",
+  "cited": "цитируется",
+  "cited|*": "цитируются",
   "citing": "цитирование",
+
+  "compound [substituent group]": "составная",
+  "compound [substituent group]|ro": "составной",
+  "compound [substituent group]|da": "составной",
+  "compound [substituent group]|ro*": "составных",
+  "compound [substituent group]|*": "составные",
+  "compound catenated substituent group": "составная катенированная замещающая группа",
+  "compound catenated substituent group|*": "составные катенированные замещающие группы",
+  "compound substituent group": "составная замещающая группа",
+  "compound substituent group|ro": "составной замещающей группы",
+  "compound substituent group|*": "составные замещающие группы",
+  "compound substituent group|ro*": "составных замещающих групп",
+
+  "concatenated [substituent group]|*": "сцепленные",
 
   "cyclophane": "циклофан",
   "cyclophane|*": "циклофаны",
@@ -55,6 +72,7 @@
 
 
   "fusion atom": "атом слияния",
+  "fusion atom|pr": "атоме слияния",
   "fusion atom|*": "атомы слияния",
   "fusion atom|ro*": "атомов слияния",
 
@@ -81,6 +99,9 @@
 
   "indicated hydrogen atom|*": "атомы указанного водорода",
 
+  "mancude:comment": "МАксимальное количество НеКумулятивных Двойных связей",
+  "mancude": "манкуд",
+
   "parent component": "исходный компонент",
   "parent component|ro": "исходного компонента",
   "parent component|da": "исходному компоненту",
@@ -100,6 +121,8 @@
 
   "parent hydride": "исходный гидрид",
   "parent hydride|ro": "исходного гидрида",
+  "parent hydride|da": "исходному гидриду",
+  "parent hydride|tv": "исходным гидридом",
   "parent hydride|*": "исходные гидриды",
   "parent hydride|ro*": "исходных гидридов",
   "parent hydride|da*": "исходным гидридам",
@@ -176,6 +199,7 @@
 
   "phane system": "фановая система",
   "phane system|*": "фановые системы",
+  "phane system|ro*": "фановых систем",
 
   "quinque": "квинки",
 
@@ -196,6 +220,19 @@
   "spiro atom": "спироатом",
   "spiro atom|*": "спироатомы",
   "spiro atom|ro*": "спироатомов",
-  
+
+  "subsidiary parent|f": "вторичная исходная",
+  "subsidiary parent|f,tv": "вторичной исходной",
+
+  "substituent group": "замещающая группа",
+  "substituent group|ro": "замещающей группы",
+  "substituent group|da": "замещающей группе",
+  "substituent group|vi": "замещающую группу",
+  "substituent group|tv": "замещающей группой",
+  "substituent group|pr": "замещающей группе",
+  "substituent group|*": "замещающие группы",
+  "substituent group|ro*": "замещающих групп",
+  "substituent group|tv*": "замещающими группами",
+
   "zzz": ""
 }
