@@ -1447,8 +1447,8 @@ ru: (1) гетероатомы в цепях теперь считаются ч�
 
 en: (2) hydro/dehydro prefixes are now classified as detachable prefixes but are not included in the category of 
 alphabetized detachable prefixes; they are cited directly before the name of the parent hydride [see item (e) below].
-ru: (2) префиксы гидро/дегидро теперь классифицируются как отделяемые префиксы, но не включены в категорию 
-алфавитно-упорядоченных отделяемых префиксов; они указываются непосредственно перед названием исходного гидрида 
+ru: (2) префиксы гидро/дегидро теперь классифицируются как &(detachable [prefix]|*) префиксы, но не включены в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) префиксов; они указываются непосредственно перед названием &(parent hydride|ro) 
 [см. пункт (e) ниже].
 
 </div>
@@ -1501,7 +1501,7 @@ ru: 1-гермациклотетрадекан-3-карбонитрил (PIN)
 #(b)
 en: indicated hydrogen for unsubstituted compounds; a higher locant may be needed at another position to 
 accommodate a substituent suffix in accordance with structural feature (d);
-ru: указан водород для незамещенных соединений; более высокий локант может потребоваться в другом положении 
+ru: &(indicated hydrogen) для незамещенных соединений; больший локант может потребоваться в другом положении 
 для размещения суффикса заместителя в соответствии со структурной особенностью (d);
 
 @Examples

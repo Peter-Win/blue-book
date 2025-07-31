@@ -1830,8 +1830,227 @@ ru: 2-адамантил (также 1-изомер) <br>
 трицикло<%L%>декан-2-ил
 %L:[3.3.1.1^{3,7}]
 
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//@n(10,90)`\`//`\`||/\\<|>/@n(9,-90)\\<|>/@n(1,-90)\\@n(2,-90)/@w()
+$>
+
+en: 2-anthryl (also 1- and 9-isomers)  <br>
+anthracen-2-yl (preferred prefix) 
+ru: 2-антрил (также 1- и 9-изомеры) <br>
+антрацен-2-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_pp_pO@n(1,-90,.6)_p_pp@n(3,-10)_(a-54)@w()
+$>
+
+en: 3-furyl (also 2-isomer)  <br>
+furan-3-yl (also 2-isomer; preferred prefixes) 
+ru: 3-фурил (также 2-изомер) <br>
+фуран-3-ил (также 2-изомер; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||@n(7,140)<`\@w()>/\\/@n(1,-90)\\N@n(2,-30,.5)|`//`\
+$>
+
+en: 7-isoquinolyl (also 1-, 3-, 4-, 5-, 6- and 8-isomers)  <br>
+isoquinolin-7-yl (also 1-, 3-, 4-, 5-, 6- and 8-isomers; preferred prefixes)
+ru: 7-изохинолил (также 1-, 3-, 4-, 5-, 6- и 8-изомеры) <br>
+изохинолин-7-ил (также 1-, 3-, 4-, 5-, 6- и 8-изомеры; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(1,-90)\\@n(2,30)</@w()>|`//`\
+$>
+
+en: 2-naphthyl (also 1-isomer)  <br>
+naphthalen-2-yl (also 1-isomer; preferred prefixes) 
+ru: 2-нафтил (также 1-изомер) <br>
+нафталин-2-ил (также 1-изомер; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|//`|`\\`/||<\>`/`\\`/||@n(2,150)\@n(1,90)//<`|>\@n(10,90)//@n(9,90)\@w()
+$>
+
+en: 9-phenanthryl (also 1-, 2-, 3- and 4-isomers)  <br>
+phenanthren-9-yl (also 1-, 2-, 3- and 4-isomers; preferred prefixes) 
+ru: 9-фенантрил (также 1-, 2-, 3- и 4-изомеры) <br>
+фенантрен-9-ил (также 1-, 2-, 3- и 4-изомеры; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\`|/N<_(y-.5)H>@n(1,90,.6)\@n(2,30)/@w()
+$>
+
+en: 2-piperidyl (also 1-, 3- and 4-isomers)  <br>
+piperidin-2-yl (also 1-, 3- and 4-isomers; preferred prefixes) 
+ru: 2-пиперидил (также 1-, 3- и 4-изомеры) <br>
+пиперидин-2-ил (также 1-, 3- и 4-изомеры; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N@n(1,-90,.6)\\@n(2,30)/@w()
+$>
+
+en: 2-pyridyl (also 3- and 4-isomers)  <br>
+pyridin-2-yl (also 3- and 4-isomers; preferred prefixes)
+ru: 2-пиридил (также 3- и 4-изомеры) <br>
+пиридин-2-ил (также 3- и 4-изомеры; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N@n(1,-90,.6)\\@n(2,30)</@w()>|`//`\
+$>
+
+en: 2-quinolyl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+quinolin-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes) 
+ru: 2-хинолил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+хинолин-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq<_(a54)@w()>_qS_q_qq
+$>
+
+en: 2-thienyl (also 3-isomer)  <br>
+thiophen-2-yl (also 3-isomer; preferred prefixes) 
+ru: 2-тиенил (также 3-изомер) <br>
+тиофен-2-ил (также 3-изомер; предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\@n(p,180)/@n(m,-120)=</CH3>@n(o,0)\-@w()
+$>
+
+en: _o_-tolyl (also _m_- and _p_-isomers; no substitution allowed)  <br>
+2-methylphenyl (also 3- and 4-isomers; preferred prefixes) 
+ru: _o_-толил (также _m_- и _p_-изомеры; замещение не допускается) <br>
+2-метилфенил (также 3- и 4-изомеры; предпочтительные префиксы)
+
 @End
 
 #P-29.6.3
 en: Retained prefixes no longer recommended as approved prefixes. 
 ru: Сохраненные префиксы больше не рекомендуются в качестве утвержденных префиксов.
+
+en: Trivial, common, and traditional prefixes have always been an integral part of organic nomenclature. However, as 
+systematic nomenclature develops and becomes widely used, many of these prefixes fall by the wayside. Accordingly, 
+each set of IUPAC recommendations contains fewer of these traditional prefixes. These recommendations are no 
+different. The following prefixes were still contained in the 1993 recommendations (ref. 2) but are NOT recommended 
+in these recommendations; their systematic prefixes based on these recommendations are given as ‘preferred prefixes’. 
+ru: Тривиальные, распространённые и традиционные префиксы всегда были неотъемлемой частью органической номенклатуры. 
+Однако по мере развития и широкого использования систематической номенклатуры многие из этих префиксов уходят на второй план. 
+Соответственно, каждый набор рекомендаций ИЮПАК содержит всё меньше этих традиционных префиксов. Эти рекомендации ничем не 
+отличаются. Следующие префиксы всё ещё присутствовали в рекомендациях 1993 года (ссылка 2), но НЕ рекомендуются в 
+настоящих рекомендациях; их систематические префиксы, основанные на этих рекомендациях, указаны как «предпочтительные префиксы».
+
+@Examples
+
+@cell
+<$ C6H5-CH2-CH2–{} $>
+
+en: 2-phenylethyl (preferred prefix) <br>
+(not phenethyl)  
+ru: 2-фенилэтил (предпочтительный префикс) <br>
+(не фенетил)
+
+@cell
+<$ (C6H5)2CH–{} $>
+
+en: diphenylmethyl (preferred prefix) <br>
+(not benzhydryl)  
+ru: дифенилметил (предпочтительный префикс) <br>
+(не бензгидрил)
+
+@cell
+<$ (CH3)2CH-CH2–{} $>
+
+en: 2-methylpropyl (preferred prefix) <br>
+(not isobutyl) 
+ru: 2-метилпропил (предпочтительный префикс) <br>
+(не изобутил)
+
+@cell
+<$ CH3-CH2-CH(CH3)– $>
+
+en: butan-2-yl (preferred prefix)  <br>
+1-methylpropyl <br>
+(not _sec_-butyl) 
+ru: бутан-2-ил (предпочтительный префикс) <br>
+1-метилпропил <br>
+(не _втор_-бутил)
+
+@cell
+<$ (CH3)2CH-CH2-CH2–{} $>
+
+en: 3-methylbutyl (preferred prefix) <br>
+(not isopentyl)  
+ru: 3-метилбутил (предпочтительный префикс) <br>
+(не изопентил)
+
+@cell
+<$ CH3-CH2-C(CH3)2–{} $> 
+
+en: 2-methylbutan-2-yl (preferred prefix)  <br>
+1,1-dimethylpropyl <br>
+(not tert-pentyl)  
+ru: 2-метилбутан-2-ил (предпочтительный префикс) <br>
+1,1-диметилпропил <br>
+(не трет-пентил)
+
+@cell
+<$ (CH3)3C-CH2–{} $> 
+
+en: 2,2-dimethylpropyl (preferred prefix) <br>
+(not neopentyl) 
+ru: 2,2-диметилпропил (предпочтительный префикс) <br>
+(не неопентил)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_pp_pO@n(1,-90,.6)_p@n(2,40)<_pp>_(a-54)CH2-{}
+$>
+
+en: (furan-2-yl)methyl (preferred prefix) <br>
+[not furfuryl (2-isomer only)] 
+ru: (фуран-2-ил)метил (предпочтительный префикс) <br>
+[не фурфурил (только 2-изомер)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_pp_pS@n(1,-90,.6)_p@n(2,40)<_pp>_(a-54)CH2-{}
+$>
+
+en: (thiophen-2-yl)methyl (preferred prefix)  <br>
+2-thienylmethyl <br>
+[not thenyl (2-isomer only)] 
+ru: (тиофен-2-ил)метил (предпочтительный префикс) <br>
+2-тиенилметил <br>
+[не тенил (только 2-изомер)]
+
+@End

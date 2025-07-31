@@ -202,7 +202,7 @@ ru: **Сцепленная замещающая группа**. Сложная �
 
 en: **Detachable prefix**. A substituent prefix cited before the name of a parent structure and, with the exception of 
 hydro/dehydro prefixes, subject to alphabetization, for example amino, methyl, and silyl. 
-ru: **Отделяемый префикс**. Заместительный префикс, приводимый перед названием исходной структуры и, 
+ru: **&(Detachable [prefix]) префикс**. Заместительный префикс, приводимый перед названием исходной структуры и, 
 за исключением гидро/дегидро префиксов, подлежащий алфавитному упорядочению, например, амино, метил и силил.
 
 en: **Functional class nomenclature**. A system in which the principal characteristic group is expressed as a class term, such 
@@ -299,7 +299,7 @@ ru: **Мультипликативная номенклатура**. Систе�
 
 en: **Nondetachable prefix**. A structure modifying prefix cited before the name of a parent structure and after alphabetized 
 detachable prefixes and the detachable prefixes hydro and/or dehydro prefixes, for example bicyclo, spiro, aza, and nor. 
-ru: **Неотделяемый префикс**. Префикс, изменяющий структуру, который приводится перед названием родительской структуры 
+ru: **&(Nondetachable [prefix]) префикс**. Префикс, изменяющий структуру, который приводится перед названием родительской структуры 
 и после алфавитно отщепляемых префиксов и отщепляемых префиксов гидро и/или дегидро, например, бицикло, спиро, аза и нор.
 
 en: **Parent component**. The parent component of a fused ring system is the ring or ring system having the highest seniority 

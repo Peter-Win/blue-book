@@ -180,3 +180,5 @@ a.wrong-part {
 .small-abs i {
   font-size: 80%;
 }
+
+.has-inline-formula svg {margin-bottom: -0.5em;}

@@ -449,9 +449,9 @@ const makeChunksFromLine = (line, onError, doc) => {
         type: "param",
         content: name,
       }))) continue;
+      if (onPair(chunks, i, "**", "**", "b")) continue;
       if (onPair(chunks, i, "&(", ")", onTherm)) continue;
       if (onPair(chunks, i, "<+", "+>", "ringsDef")) continue;
-      if (onPair(chunks, i, "**", "**", "b")) continue;
       if (onPair(chunks, i, "_{", "}", "sub")) continue;
       if (onPair(chunks, i, "^{", "}", "sup")) continue;
       if (onPair(chunks, i, "_", "_", "i")) continue;
@@ -465,6 +465,13 @@ const makeChunksFromLine = (line, onError, doc) => {
         ];
         onPair(chunk.content, 0, "_", "_", "i");
       }
+    } else if (chunk.type==="b" && typeof chunk.content === "string") {
+      // Пока костыль, который предполагает, что термин занимает всё содержимое тега b
+      // const res = /^&\((.*)\)$/.exec(chunk.content);
+      // if (res) {
+      //   chunk.content = [onTherm(res[1])]
+      // }
+      chunk.content = makeChunksFromLine(chunk.content, onError, doc);
     }
     i++;
   }

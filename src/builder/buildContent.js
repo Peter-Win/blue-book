@@ -15,6 +15,21 @@ const buildContent = (part, locale, ctx) => {
       const id = block.header.headerId;
       return id !== headerId && isNearHeader(splitedBase.slice(0,-1), id);
     };
+  } else if (/^\+\d+(\.\d+)*$/.test(mode)) {
+    const startPartId = "P-"+mode.slice(1);
+    const srcPieces = splitHeaderId(startPartId);
+    const srcLast = +srcPieces[srcPieces.length-1];
+    isIncluded = block => {
+      const id = block.header.headerId;
+      const dstPieces = splitHeaderId(id);
+      if (srcPieces.slice(0,-1).join() === dstPieces.slice(0,-1).join()) {
+        const dstLast = +dstPieces[srcPieces.length-1];
+        if (dstLast >= srcLast) {
+          return true;
+        }
+      }
+      return false;
+    }
   }
 
   const list = doc.blocks.filter(isIncluded);

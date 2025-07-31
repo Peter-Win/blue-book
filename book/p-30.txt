@@ -1,0 +1,322 @@
+#P-3
+en: Characteristic (functional) and substituent groups
+ru: &(Characteristic [group]|*) (функциональные) и &(substituent group|*)
+
+@Content
+
+#P-30
+en: Introduction 
+ru: Введение
+
+en: The prefixes and/or suffixes attached to a parent name specify a particular molecular structure and usually represent 
+**substituents** of various types, which are considered to take the place of hydrogen atoms of the parent hydride or parent 
+structure. It has been customary to regard such substituents as **characteristic** (or **functional**) when the link between 
+substituent and parent is not a carbon-carbon bond, for example, <$–OH$>, <$=O$>, and <$–NH2$>, but exceptions are recognized, 
+such as <$–COOH$> and <$–CN$>. It seems appropriate to retain the general view of **functionality** as implying the presence of 
+heteroatoms, but it would not be helpful to attempt to define precisely the limits of application of the term. 
+ru: Префиксы и/или суффиксы, присоединяемые к &(parent name|da), указывают на конкретную молекулярную структуру 
+и обычно представляют собой **&(substituent|*)** различных типов, которые, как считается, занимают место атомов водорода 
+&(parent hydride) или исходной структуры. Обычно такие &(substituent|*) считаются **&(characteristic [group]|tv*)** 
+(или **функциональными**), если связь между &(substituent|tv) и исходным соединением не является углерод-углеродной связью, 
+например, <$–OH$>, <$=O$> и <$–NH2$>, но существуют исключения, такие как <$–COOH$> и <$–CN$>. Представляется целесообразным 
+сохранить общее представление о **функциональности** как о наличии гетероатомов, но было бы нецелесообразно пытаться точно определить 
+границы применения этого термина.
+
+en: Carbon-carbon unsaturation in acyclic and alicyclic compounds is regarded by IUPAC as a special type of functionality 
+and is therefore treated here in Chapter P-3 rather than in Chapter P-2 (Parent Hydrides). Its presence here and that of 
+the hydrogenation of parent hydrides having the maximum number of noncumulative double bonds (mancude parent 
+hydrides) is logical for nomenclature, as the unsaturation in acyclic and alicyclic parent hydrides expressed by endings 
+and the saturation of mancude parent hydrides by hydro-dehydro prefixes are essentially equivalent. 
+ru: Углерод-углеродная ненасыщенность в ациклических и алициклических соединениях рассматривается ИЮПАК как особый тип 
+функциональности и поэтому рассматривается здесь в главе P-3, а не в главе P-2 (&(Parent Hydride|*)). Её наличие здесь, 
+а также наличие гидрирования &(parent hydride|ro*) с максимальным числом некумулятивных двойных связей 
+(&(mancude)-&(parent hydride|*)) логично с точки зрения номенклатуры, поскольку ненасыщенность в ациклических и алициклических 
+&(parent hydride|pr*), выраженная окончаниями, и насыщенность &(mancude)-&(parent hydride|ro*) гидро-дегидро префиксами, 
+по сути, эквивалентны.
+
+en: This Chapter also deals with **functional parent compounds**, i.e., structures that may be treated as parent structures, 
+having substitutable hydrogen atoms, but possessing characteristics normally associated with functionality, e.g. acetic 
+acid, <%ac%>, and phosphonic acid, <%p%>. Functional parent compounds must be distinguished from 
+compounds having a characteristic group systematically introduced as a suffix attached to a parent hydride, for example 
+butanoic acid and ethanol. The latter compounds may be called ‘functionalized parent hydrides’, though strictly 
+speaking, **ions** and **radicals** do not fall within the concept of functionality as described above; an ionic center or a 
+radical center is treated like a function and expressed in the same way as characteristic groups, i.e., by suffixes and 
+prefixes. This treatment is introduced in this Chapter and Chapter P-7. 
+ru: В этой главе также рассматриваются **функциональные &(parent compound|*)**, то есть структуры, которые можно рассматривать 
+как &(parent|*), имеющие замещаемые атомы водорода, но обладающие характеристиками, обычно связанными с функциональностью, 
+например, уксусная кислота, <%ac%>, и фосфоновая кислота, <%p%>. Функциональные &(parent compound|*) следует отличать от 
+соединений, имеющих &(characteristic group|vi), систематически вводимую в виде суффикса, присоединённого к &(parent hydride|da), 
+например, масляная кислота и этанол. Последние соединения можно назвать «функционализированными &(parent hydride|tv*)», 
+хотя, строго говоря, **ионы** и **радикалы** не подпадают под понятие функциональности, описанное выше; 
+ионный центр или радикальный центр рассматривается как функция и выражается так же, как &(characteristic group|*), 
+то есть суффиксами и префиксами. Этот подход представлен в этой главе и главе P-7.
+%ac: <$ CH3-COOH $>
+%p: <$ HP(O)(OH)2 $>
+
+en: Any group may be expressed in a name either as a suffix or as a prefix. As prefixes, they are detachable 
+(alphabetizable), as are the prefixes derived from parent hydrides discussed in section P-14.5.
+ru: Любая группа может быть представлена в названии как суффиксом, так и префиксом. Как префиксы, они являются отделяемыми 
+(размещаемыми по алфавиту), как и префиксы, образованные от &(parent hydride|ro*), обсуждаемых в разделе P-14.5.
+
+#P-31
+en: Modification of the degree of hydrogenation of parent hydrides 
+ru: Изменение степени гидрирования &(parent hydride|ro*)
+
+@Content
+
+#P-31.0
+en: Introduction 
+ru: Введение
+
+en: Parent hydrides are divided into two groups, fully saturated or fully unsaturated. Fully unsaturated cyclic parent 
+hydrides are, by convention, defined as having the maximum number of noncumulative double bonds, also called 
+‘mancude’ compounds (an acronym for MAximum number of NonCUmulated DoublE bonds). Thus a degree of 
+hydrogenation different from those denoting these two groups must be expressed by an additive or subtractive operation 
+corresponding to the addition or the subtraction of hydrogen atoms. Specific rules are devised for compounds having 
+saturated and unsaturated parts, such as cyclophanes, spiro compounds, etc. 
+ru: &(Parent hydride|*) делятся на две группы: полностью насыщенные и полностью ненасыщенные. Полностью ненасыщенные 
+циклические &(parent hydride|*), как правило, определяются как соединения с максимальным числом некумулятивных двойных связей, 
+также называемые «&(mancude)» (аббревиатура от МАксимальное число НеКУмклятивных Двойных связей). Таким образом, 
+степень гидрирования, отличная от той, которая обозначает эти две группы, должна быть выражена аддитивной или субтрактивной 
+операцией, соответствующей добавлению или вычитанию атомов водорода. Для соединений с насыщенными и ненасыщенными частями, 
+таких как &(cyclophane|*), спиросоединения и т. д., разработаны особые правила.
+
+en: The state of hydrogenation of parent hydrides is modified in two ways: (a) by a subtractive operation (subtraction of 
+two or more hydrogen atoms) denoted by the ‘ene’ and ‘yne’ endings or by the prefix ‘dehydro’; or (b) by an additive 
+operation (addition of two or more hydrogen atoms) denoted by the prefix ‘hydro’. 
+ru: Состояние гидрирования исходных &(parent hydride|ro*) двумя способами: (а) с помощью субтрактивной операции 
+(вычитание двух или более атомов водорода), обозначаемой окончаниями «ен» и «ин» или префиксом «дегидро»; 
+или (б) с помощью аддитивной операции (присоединение двух или более атомов водорода), обозначаемой префиксом «гидро».
+
+@p .framed
+en: In these recommendations, the prefixes ‘hydro’ and ‘dehydro’ are detachable, but are not included in the category of 
+alphabetized detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2). This is a change from the 
+recommendations in earlier editions (ref. 1, 2). When along with the endings ‘ene’ and ‘yne’ they are used to modify 
+parent hydrides, they are regulated by the principle of lowest locants, in accord with the numbering of the parent 
+hydride and after priority has been given to indicated hydrogen, added indicated hydrogen, and suffixes, when 
+present, as specified in the general rules for numbering (P-14.4). 
+ru: В настоящих рекомендациях префиксы «гидро» и «дегидро» являются &(detachable [prefix]|tv*), но не включены в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) приставок (см. P-14.4; см. также P-15.1.5.2, P-31.2, P-58.2). 
+Это изменение по сравнению с рекомендациями в более ранних изданиях (ссылки 1, 2). Когда они используются вместе с 
+окончаниями «ен» и «ин» для модификации &(parent hydride|ro*), они регулируются по принципу наименьшего места в соответствии 
+с нумерацией &(parent hydride|ro) и после того, как приоритет будет отдан &(indicated hydrogen|da), добавленному 
+&(indicated hydrogen|da) и суффиксам, если они есть, как указано в общих правилах нумерации (P-14.4).
+
+#P-31.1
+en: The endings ‘ene’ and ‘yne’ 
+ru: Окончания «ен» и «ин»
+
+#P-31.1.1
+en: General methodology
+ru: Общая методология
+
+#P-31.1.1.1+
+en: The presence of one or more double or triple bonds in an otherwise saturated parent hydride [except for 
+parents with Hantzsch-Widman names (see P-22.2.2.1.1), or retained names denoting partial hydrogenation as indicated 
+later (see P-31.2.3.3.1)] is denoted by changing the ending ‘ane’ of the name of a saturated parent hydride to ‘ene’ or 
+‘yne’. Locants as low as possible are given to multiple bonds as a set, even though this may at times give ‘yne’ endings 
+lower locants than ‘ene’ endings. If a choice remains, preference for low locants is given to the double bonds. In names, 
+the ending ‘ene’ always precedes ‘yne’, with elision of the final letter ‘e’ in ‘ene’. Only the lower locant for a multiple 
+bond is cited, except when the numerical difference between the two locants is greater than one, in which case the 
+higher locant is enclosed in parentheses. 
+ru: Наличие одной или нескольких двойных или тройных связей в ином насыщенном &(parent hydride|pr) [за исключением 
+случаев с названиями Ганча-Видмана (см. P-22.2.2.1.1) или сохраненных названий, обозначающих частичное гидрирование, как 
+указано далее (см. P-31.2.3.3.1)] обозначается изменением окончания «ан» в названии насыщенного исходного гидрида на «ен» или «ин». 
+Кратным связям как набору присваиваются как можно меньшие локанты, хотя иногда это может давать окончания «ин» меньшим 
+локантам, чем окончания «ен». Если остается выбор, предпочтение отдается меньшим локантам двойных связей. В названиях 
+окончание «ен» всегда предшествует «ин», с опусканием последней буквы «е» в «ен». Указывается только меньший локант для 
+кратной связи, за исключением случаев, когда численная разница между двумя локантами больше единицы. В этом случае больший локант 
+заключается в скобки.
+
+en: Exceptionally, the endings ‘ene‘ and ‘yne‘ can be added to the ending ‘ane’ in spiro compounds (see SP-2.4, ref. 8), 
+phane nomenclature (see PhII-5.3.1, ref. 6), and ring assemblies (see P-31.1.7 in this book).
+ru: В исключительных случаях окончания «ен» и «ин» могут быть добавлены к окончанию «ан» в спиросоединениях (см. SP-2.4, ссылка 8), 
+&(phane nomenclature|pr) (см. PhII-5.3.1, ссылка 6) и &(ring assembly|pr*) (см. P-31.1.7 в этой книге).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: but-1-ene (PIN) 
+ru: бут-1-ен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(1)%C@n(2)-CH3@n(3)
+$>
+
+en: propyne (PIN) 
+ru: пропин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(1)%C@n(2)-CH@n(3)=CH@n(4)-CH3@n(5)
+$>
+
+en: pent-3-en-1-yne (PIN)
+ru: пент-3-ен-1-ин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-C@n(4)%CH@n(5)
+$>
+
+en: pent-1-en-4-yne (PIN)  
+ru: пент-1-ен-4-ин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(22)_(A-67.5)@n(16,0)_q8</_(A30,L%a:1.1)/N<_(y-.5)H>@n(4,90,.6)_(A30,L%a):a>@n(1,-90)_qq8l@n(15,-90)_q8_q8_q8_q8@n(11,90)_q8@n(10,100,.5)\_(A-30,L%a)\_(A-30,L%a)_#a
+$>
+
+en: 4-azabicyclo[8.5.1]hexadec-1(15)-ene (PIN)  
+ru: 4-азабицикло[8.5.1]гексадек-1(15)-ен (PIN)
+
+@End
+
+#P-31.1.1.2+
+en: The multiplying prefixes ‘di’, ‘tri’, etc., are placed before endings denoting unsaturation to indicate the 
+number of multiple bonds of each kind, as required, for example, ‘diene’ and ‘triyne’. For euphonic reasons, when the 
+endings ‘ene’ and ‘yne’ are preceded by a multiplying prefix and a locant the letter ‘a’ is inserted. There is no elision of 
+the final letter ‘a’ of a multiplying prefix before ‘ene’ or ‘yne’, for example, ‘tetraene’ and ‘pentayne’.
+ru: Умножающие префиксы «ди», «три» и т. д. ставятся перед окончаниями, обозначающими ненасыщенность, чтобы указать количество 
+кратных связей каждого типа, например, «диен» и «триин». Из соображений благозвучия, когда окончаниям «ен» и «ин» предшествуют 
+умножающая приставка и локант, добавляется буква «а». Выпадение последней буквы «а» умножающей приставки перед «ен» или «ин» 
+не допускается, например, «тетраен» и «пентаин».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3)=CH2@n(4)
+$>
+
+en: buta-1,3-diene (PIN) 
+ru: бута-1,3-диен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3)=CH@n(4)-CH@n(5)=CH@n(6)-CH@n(7)=CH@n(8)-CH3@n(9)
+$>
+
+en: nona-1,3,5,7-tetraene (PIN)
+ru: нона-1,3,5,7-тетраен (PIN)
+
+@End
+
+#P-31.1.1.3+
+en: The method of P-31.1.1 is applicable to the following saturated hydrocarbon parent hydrides and to the 
+corresponding hydrides modified by skeletal replacement (‘a’) nomenclature that are described in Chapter P-2:
+ru: Метод P-31.1.1 применим к следующим насыщенным углеводородным &(parent hydride|da*) и к соответствующим гидридам, 
+модифицированным при помощи номенклатуры &(skeletal replacement a|ro), которая описана в главе P-2:
+
+@Content +31.1.2
+
+en: This method is not used to modify Hantzsch-Widman names for saturated heterocyclic compounds or for totally or 
+partially hydrogenated mancude compounds having retained names, i.e., imidazolidine, morpholine, piperazine, 
+piperidine, pyrazolidine, pyrrolidine (see Table 2.3), quinuclidine (see Table 2.6), and also indane, chromane, 
+isochromane, their chalcogen analogues, and indoline, isoindoline (see Table 3.1). When necessary, the corresponding 
+mancude compounds are modified by using prefixes ‘hydro’ or ‘dehydro’, as indicated in P-31.2, below. 
+ru: Этот метод не применяется для модификации названий по Ганчу-Видману для насыщенных гетероциклических соединений, 
+а также для полностью или частично гидрированных соединений с сохраненными названиями, например, имидазолидин, морфолин, 
+пиперазин, пиперидин, пиразолидин, пирролидин (см. табл. 2.3), хинуклидин (см. табл. 2.6), а также индан, хроман, изохроман, 
+их халькогенные аналоги, индолин, изоиндолин (см. табл. 3.1). При необходимости соответствующие &(mancude)-соединения 
+модифицируются добавлением префиксов «гидро» или «дегидро», как указано в P-31.2 ниже.
+
+#P-31.1.2
+en: Acyclic parent hydrides 
+ru: Ациклические &(parent hydride|*)
+
+#P-31.1.2.1
+en: Retained names
+ru: Сохранённые имена
+
+en: The name acetylene is retained for the compound <%ac%>. It is the preferred IUPAC name, but substitution of any kind 
+is not allowed; however, in general nomenclature, substitution is allowed, for example fluoroacetylene [fluoroethyne 
+(PIN)], but not by alkyl groups or any other group that extends the carbon chain, nor by characteristic groups expressed 
+by suffixes.
+ru: Название «ацетилен» сохранено для соединения <%ac%>. Это предпочтительное название по ИЮПАК, но любые замены не допускаются; 
+однако в общей номенклатуре допускается замещение, например, фторацетилен [фторэтин (PIN)], но не алкильными группами или 
+любыми другими группами, удлиняющими углеродную цепь, а также &(characteristic group|tv*), обозначенными суффиксами.
+%ac: <$HC≡CH$>
+
+en: The name allene, for <%f%>, is retained for general nomenclature only; substitution is allowed, but not by alkyl 
+or any other group that extends the carbon chain, nor characteristic groups expressed by suffixes. The systematic name, 
+propa-1,2-diene, is the preferred IUPAC name. 
+ru: Название «аллен» для <%f%> сохранено только для общей номенклатуры; допускается замена, но не алкильной или любой 
+другой группой, удлиняющей углеродную цепь, а также характерными группами, обозначенными суффиксами. Систематическое название, 
+пропа-1,2-диен, является предпочтительным названием по ИЮПАК.
+%f: <$ CH2=C=CH2 $>
+
+en: The name isoprene, for <%f%>, is retained but only for general nomenclature; no substitution of any 
+kind is allowed. The systematic name, 2-methylbuta-1,3-diene, is the preferred IUPAC name. 
+ru: Название изопрен для <%f%> сохранено, но только для общей номенклатуры; никакие замены не допускаются. Систематическое 
+название, 2-метилбута-1,3-диен, является предпочтительным наименованием по ИЮПАК.
+%f: <$ CH2=C(CH3)-CH=CH2 $>
+
+@p .has-inline-formula
+en: The name formazan, for <%f%>, is retained and is a preferred IUPAC name fully substitutable by suffixes and prefixes. 
+ru: Название формазан для <%f%> сохранено и является предпочтительным названием ИЮПАК, полностью заменяемым суффиксами и префиксами.
+%f: <$ HN@n(1)=N@n(2)-CH@n(3)=N@n(4)-NH2@n(5) $>
+
+en: The name carbodiimide, for <%f%>, is retained but only for general nomenclature; no substitution of any kind is 
+allowed. The systematic name, methanediimine, is the preferred IUPAC name.
+ru: Название карбодиимид для <%f%> сохранено, но только для общей номенклатуры; никакие замены не допускаются. 
+Систематическое название, метандиимин, является предпочтительным названием по ИЮПАК.
+%f:<$HN=C=NH$>
+
+#P-31.1.3
+en: Monocyclic parent hydrides 
+ru: Моноциклические &(parent hydride|*)
+
+#P-31.1.4
+en: Bi- and polycyclic von Baeyer parent hydrides 
+ru: Би- и полициклические &(parent hydride|*) фон Байера
+
+#P-31.1.5
+en: Spiro compounds 
+ru: Спиросоединения
+
+#P-31.1.6
+en: Phane parent hydrides 
+ru: &(Phane parent hydride|*)
+
+#P-31.1.7
+en: Ring assemblies of unsaturated components 
+ru: &(Ring assembly|*) ненасыщенных компонентов
+
+
+#P-31.2
+en: Substituent groups modified by the prefix ‘hydro’ and ‘dehydro’ 
+ru: &(Substituent group|*), модифицированные префиксом «гидро» и «дегидро»
+
+
+
+
+
+
+#P-32
+en: Substituent prefixes for substituents derived from parent hydrides with a modified degree of hydrogenation 
+ru: &(Substituent prefix) для &(substituent|ro*), полученных из &(parent hydride|ro*) с измененной степенью гидрирования
+
+#P-33
+en: Suffixes 
+ru: Суффиксы
+
+#P-34
+en: Functional parent compounds 
+ru: Функциональные &(parent compound|*)
+
+#P-35
+en: Prefixes corresponding to characteristic groups 
+ru: Префиксы, соответствующие &(characteristic group|da*)

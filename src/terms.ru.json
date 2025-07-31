@@ -39,6 +39,15 @@
   "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
 
+  "characteristic [group]": "характеристическая",
+  "characteristic [group]|*": "характеристические",
+  "characteristic [group]|tv*": "характеристическими",
+  "characteristic group": "характеристическая группа",
+  "characteristic group|vi": "характеристическую группу",
+  "characteristic group|*": "характеристические группы",
+  "characteristic group|da*": "характеристическим группам",
+  "characteristic group|tv*": "характеристическими группами",
+
   "citation": "цитирование",
   "cite": "цитировать",
   "cited": "цитируется",
@@ -62,6 +71,13 @@
   "cyclophane": "циклофан",
   "cyclophane|*": "циклофаны",
   "cyclophane|ro*": "циклофанов",
+
+  "detachable [prefix]": "отделяемый",
+  "detachable [prefix]|ro": "отделяемого",
+  "detachable [prefix]|tv": "отделяемым",
+  "detachable [prefix]|*": "отделяемые",
+  "detachable [prefix]|ro*": "отделяемых",
+  "detachable [prefix]|tv*": "отделяемыми",
 
   "fused ring system": "конденсированная кольцевая система",
   "fused ring system|tv": "конденсированной кольцевой системой",
@@ -102,6 +118,10 @@
   "mancude:comment": "МАксимальное количество НеКумулятивных Двойных связей",
   "mancude": "манкуд",
 
+  "nondetachable [prefix]": "неотделяемый",
+
+  "parent|*": "исходные",
+
   "parent component": "исходный компонент",
   "parent component|ro": "исходного компонента",
   "parent component|da": "исходному компоненту",
@@ -115,6 +135,9 @@
   "parent component|tv*": "исходными компонентами",
   "parent component|pr*": "исходных компонентах",
 
+  "parent compound": "исходное соединение",
+  "parent compound|*": "исходные соединения",
+
   "parent heterocycle": "исходный гетероцикл",
   "parent heterocycle|*": "исходные гетероциклы",
   "parent heterocycle|vi*": "исходные гетероциклы",
@@ -123,9 +146,12 @@
   "parent hydride|ro": "исходного гидрида",
   "parent hydride|da": "исходному гидриду",
   "parent hydride|tv": "исходным гидридом",
+  "parent hydride|pr": "исходном гидриде",
   "parent hydride|*": "исходные гидриды",
   "parent hydride|ro*": "исходных гидридов",
   "parent hydride|da*": "исходным гидридам",
+  "parent hydride|tv*": "исходными гидридами",
+  "parent hydride|pr*": "исходных гидридах",
 
   "parent name": "исходное имя",
   "parent name|ro": "исходного имени",
@@ -213,6 +239,7 @@
   "ring assembly|tv": "кольцевыми сборками",
   "ring assembly|*": "кольцевые сборки",
   "ring assembly|ro*": "кольцевых сборок",
+  "ring assembly|pr*": "кольцевых сборках",
 
   "skeletal replacement a": "скелетное замещения (‘a’)",
   "skeletal replacement a|ro": "скелетного замещения (‘a’)",
@@ -224,6 +251,11 @@
   "subsidiary parent|f": "вторичная исходная",
   "subsidiary parent|f,tv": "вторичной исходной",
 
+  "substituent": "заместитель",
+  "substituent|tv": "заместителем",
+  "substituent|*": "заместители",
+  "substituent|ro*": "заместителей",
+
   "substituent group": "замещающая группа",
   "substituent group|ro": "замещающей группы",
   "substituent group|da": "замещающей группе",
@@ -233,6 +265,9 @@
   "substituent group|*": "замещающие группы",
   "substituent group|ro*": "замещающих групп",
   "substituent group|tv*": "замещающими группами",
+
+  "substituent prefix": "префикс-заместитель",
+  "substituent prefix|*": "префиксы-заместители",
 
   "zzz": ""
 }
