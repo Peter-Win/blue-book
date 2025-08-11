@@ -54,6 +54,12 @@
   "cited|*": "цитируются",
   "citing": "цитирование",
 
+  "compound locant": "составной локант",
+  "compound locant|few": "составных локанта",
+  "compound locant|da": "составному локанту",
+  "compound locant|*": "составные локанты",
+  "compound locant|ro*": "составных локантов",
+
   "compound [substituent group]": "составная",
   "compound [substituent group]|ro": "составной",
   "compound [substituent group]|da": "составной",
@@ -65,6 +71,11 @@
   "compound substituent group|ro": "составной замещающей группы",
   "compound substituent group|*": "составные замещающие группы",
   "compound substituent group|ro*": "составных замещающих групп",
+
+  "composite locant": "композитный локант",
+  "composite locant|tv": "композитным локантом",
+  "composite locant|*": "композитные локанты",
+  "composite locant|tv*": "композитными локантами",
 
   "concatenated [substituent group]|*": "сцепленные",
 
@@ -105,6 +116,8 @@
 
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
+
+  "icos": "эйкоз",
 
   "indicated hydrogen": "указанный водород",
   "indicated hydrogen|ro": "указанного водорода",
@@ -222,6 +235,7 @@
   "phane skeleton|ro": "скелета фановой структуры",
   "phane skeleton|*": "скелеты фановых структур",
   "phane skeleton|ro*": "скелетов фановых структур",
+  "phane skeleton|pr*": "скелетах фановых структур",
 
   "phane system": "фановая система",
   "phane system|*": "фановые системы",

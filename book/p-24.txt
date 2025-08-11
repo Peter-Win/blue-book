@@ -446,7 +446,7 @@ $>
 
 en: tetraspiro[<%fb%>]icosane (PIN) <br>
 correct 
-ru: тетраспиро[<%fb%>]эйкозан (PIN) <br>
+ru: тетраспиро[<%fb%>]&(icosa)н (PIN) <br>
 правильно
 %fb:2.2.2.2^{9}.2.2^{14}.2^{6}.2^{3}
 

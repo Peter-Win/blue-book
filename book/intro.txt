@@ -6,6 +6,8 @@
 en: Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.
 ru: Номенклатура органической химии. Рекомендации ИЮПАК и предпочтительные названия 2013.
 
+@Content ^
+
 #P-01
 en: PREFACE
 ru: ПРЕДИСЛОВИЕ
@@ -180,11 +182,11 @@ a primary number identifying each amplificant and a superscript number expressin
 for example 1^1 and 1^2. In ring assemblies, composite locants consist of an arabic primary number, identifying each ring 
 system, and an arabic superscript number expressing the numbering of the ring or ring system itself, for example 1^1 and 
 1^2.
-ru: **Составной локант**. Локант, состоящий из двух или более частей. 
-В номенклатуре фанов составные локанты состоят из первичного числа, идентифицирующего каждый усилитель, 
-и надстрочного числа, выражающего локант самого усилителя, например, 1^1 и 1^2. 
-В кольцевых сборках составные локанты состоят из арабского первичного числа, идентифицирующего каждую кольцевую систему, 
-и арабского надстрочного числа, выражающего нумерацию кольца или самой кольцевой системы, например, 1^1 и 1^2. 
+ru: **&(Composite locant)**. Локант, состоящий из двух или более частей. 
+В &(phane nomenclature|pr) &(composite locant|*) состоят из первичного числа, идентифицирующего каждый амплификант, 
+и надстрочного числа, выражающего локант самого амплификанта, например, 1^{1} и 1^{2}. 
+В &(ring assembly|pr*) &(composite locant|*) состоят из арабского первичного числа, идентифицирующего каждую кольцевую систему, 
+и арабского надстрочного числа, выражающего нумерацию кольца или самой кольцевой системы, например, 1^{1} и 1^{2}. 
 
 en: **Compound substituent group**. A substituent group consisting of two parts, 
 (1) a simple substituent group (the parent substituent group); 

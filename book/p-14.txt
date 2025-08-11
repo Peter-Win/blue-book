@@ -317,7 +317,7 @@ ru: ди, до
 
 @td
 en: icosa
-ru: эйкоза
+ru: &(icos)а
 // https://en.wikipedia.org/wiki/Icosane  -> Эйкозан
 
 @td
@@ -619,7 +619,7 @@ ru: тетрадека
 
 @cell
 en: henicosa
-ru: генэйкоза
+ru: ген&(icos)а
 
 @cell
 22
@@ -829,7 +829,7 @@ included in these recommendations. They are used in phane nomenclature to indica
 P-26.4.3); for numbering in ring assemblies (see P-28.3); to denote interior positions in fused ring systems (see  
 P-25.3.3.3); and in von Baeyer descriptors for spiro ring systems (see P-24.2.2). They are also used in steroid (ref. 16 
 and P-101.7.1.1), tetrapyrrole (ref. 17), and amino acid and peptide nomnclature (ref. 18 and P-103.2.1). 
-ru: Составные локанты, например, 3^{2}, 2a^{1}, _N_^{2′} и _O_^{3}, были разработаны в последние годы для различных целей 
+ru: &(Composite locant|*), например, 3^{2}, 2a^{1}, _N_^{2′} и _O_^{3}, были разработаны в последние годы для различных целей 
 и включены в эти рекомендации. Они используются в номенклатуре фан для указания позиций в амплификантах (см. P-26.4.3); 
 для нумерации в кольцевых сборках (см. P-28.3); для обозначения внутренних позиций в конденсированных кольцевых 
 системах (см. P-25.3.3.3); и в дескрипторах фон Байера для спирокольцевых систем (см. P-24.2.2). Они также используются 

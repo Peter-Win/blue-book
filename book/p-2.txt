@@ -499,7 +499,7 @@ $>
 
 en: icosane (PIN)  <br>
 (the Beilstein and CAS index name is ‘eicosane’)
-ru: икозан (PIN) <br>
+ru: &(icos)ан (PIN) <br>
 (название индекса Бейльштейна и CAS — «эйкозан»)
 
 @cell
