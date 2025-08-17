@@ -1,0 +1,15 @@
+#P-32
+en: Substituent prefixes for substituents derived from parent hydrides with a modified degree of hydrogenation 
+ru: &(Substituent prefix) для &(substituent|ro*), полученных из &(parent hydride|ro*) с измененной степенью гидрирования
+
+#P-33
+en: Suffixes 
+ru: Суффиксы
+
+#P-34
+en: Functional parent compounds 
+ru: Функциональные &(parent compound|*)
+
+#P-35
+en: Prefixes corresponding to characteristic groups 
+ru: Префиксы, соответствующие &(characteristic group|da*)

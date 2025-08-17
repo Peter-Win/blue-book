@@ -27,7 +27,7 @@ fullerenes) that are directly joined to each other by single or double bonds are
 of such direct ring junctions is one less than the number of cyclic systems involved. 
 ru: Две или более циклические системы (отдельные кольца или &(fused system|*), алициклические системы фон Байера, спиросистемы, 
 &(phane system|*), фуллерены), которые непосредственно соединены друг с другом одинарными или двойными связями, называются 
-«&(ring assembly|tv)», если число таких прямых соединений колец на единицу меньше числа вовлеченных циклических систем.
+«&(ring assembly|tv)», если число таких прямых &(ring junction|ro*) на единицу меньше числа вовлеченных циклических систем.
 
 @Examples --
 

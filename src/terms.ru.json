@@ -31,6 +31,9 @@
   "attachment locant|ro*": "локантов прикрепления",
   "attachment locant|tv*": "локантами прикрепления",
 
+  "benzyne|comment": "Речь о веществе https://www.chemspider.com/Chemical-Structure.109690.html - Имеет краткое англ название benzyne, но русскоязычного аналога не найдено",
+  "benzyne": "benzyne",
+
   "bridged fused ring system": "система мостиковых конденсированных колец",
   "bridged fused ring system|*": "системы мостиковых конденсированных колец",
   "bridged fused ring system|ro*": "систем мостиковых конденсированных колец",
@@ -103,6 +106,11 @@
   "fusion atom|*": "атомы слияния",
   "fusion atom|ro*": "атомов слияния",
 
+  "fusion component": "компонент слияния",
+  "fusion component|*": "компоненты слияния",
+  "fusion component|ro*": "компонентов слияния",
+
+
   "fusion name": "название слияния",
   "fusion name|*": "названия слияния",
   "fusion name|ro*": "названий слияния",
@@ -132,6 +140,7 @@
   "mancude": "манкуд",
 
   "nondetachable [prefix]": "неотделяемый",
+  "nondetachable [prefix]|tv*": "неотделяемыми",
 
   "parent|*": "исходные",
 
@@ -186,6 +195,9 @@
   "phane|*": "фаны",
   "phane|ro*": "фанов",
 
+  "phane compound": "фан-соединение",
+  "phane compound|*": "фан-соединения",
+
   "phane name": "название фан",
   "phane name|ro": "названия фан",
   "phane name|*": "названия фан",
@@ -237,6 +249,10 @@
   "phane skeleton|ro*": "скелетов фановых структур",
   "phane skeleton|pr*": "скелетах фановых структур",
 
+  "phane structure": "фановая структура",
+  "phane structure|da": "фановой структуре",
+  "phane structure|*": "фановые структуры",
+
   "phane system": "фановая система",
   "phane system|*": "фановые системы",
   "phane system|ro*": "фановых систем",
@@ -248,12 +264,28 @@
   "replacement a prefix|ro*": "префиксов замещения (‘a’)",
   "replacement a prefix|da*": "префиксам замещения (‘a’)",
 
+  "retained name": "сохранённое название",
+  "retained name|*": "сохранённые названия",
+  "retained name|tv*": "сохранёнными названиями",
+
+  "[ring] assembly|comment": "часто имеет прилагательные, которые сейчас в женском роде. Если изменить на 'ансамбль', то нужно исправлять",
+  "[ring] assembly": "сборка",
+  "[ring] assembly|ro": "сборки",
+  "[ring] assembly|tv": "сборкой",
+  "[ring] assembly|pr": "сборке",
+  "[ring] assembly|*": "сборки",
+  "[ring] assembly|da*": "сборкам",
+  "[ring] assembly|pr*": "сборках",
   "ring assembly": "кольцевая сборка",
   "ring assembly|ro": "кольцевой сборки",
   "ring assembly|tv": "кольцевыми сборками",
   "ring assembly|*": "кольцевые сборки",
   "ring assembly|ro*": "кольцевых сборок",
   "ring assembly|pr*": "кольцевых сборках",
+
+  "ring junction": "место соединения колец",
+  "ring junction|ro*": "мест соединений колец",
+  "ring junction|da*": "местам соединений колец",
 
   "skeletal replacement a": "скелетное замещения (‘a’)",
   "skeletal replacement a|ro": "скелетного замещения (‘a’)",
@@ -282,6 +314,8 @@
 
   "substituent prefix": "префикс-заместитель",
   "substituent prefix|*": "префиксы-заместители",
+
+  "substitutive nomenclature": "заместительная номенклатура",
 
   "zzz": ""
 }

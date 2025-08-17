@@ -1,0 +1,907 @@
+#P-31.2
+en: Substituent groups modified by the prefix ‘hydro’ and ‘dehydro’ 
+ru: &(Substituent group|*), модифицированные префиксом «гидро» и «дегидро»
+
+@Content
+
+%P-31.2.1
+en: The prefixes ‘hydro/dehydro’
+ru: Префиксы «гидро/дегидро»
+
+#P-31.2.1+
+en: The prefixes ‘hydro/dehydro’ are used to indicate addition and subtraction, respectively, of hydrogen atoms to 
+or from mancude compounds. ‘Hydro’ and ‘dehydro’ prefixes are detachable prefixes but are not included in those 
+prefixes that are cited in alphanumerical order. Thus, in names, they are cited immediately at the front of the name of 
+the parent hydride, after alphabetized prefixes and before nondetachable prefixes. 
+ru: Префиксы «гидро/дегидро» используются для обозначения присоединения и вычитания атомов водорода из &(mancude)-соединений. 
+Префиксы «гидро» и «дегидро» являются отделяемыми, но не входят в число префиксов, указанных в алфавитном порядке. 
+Поэтому в названиях они указываются непосредственно перед названием исходного гидрида, после префиксов в алфавитном порядке 
+и перед неотделяемыми префиксами.
+
+@p .framed
+en: This is a change from previous recommendations. In these recommendations the prefixes ‘hydro’ and ‘dehydro’ are 
+detachable but not alphabetized with other substituent prefixes. In names, they are cited immediately before the 
+name of the parent hydride, after alphabetized prefixes and before nondetachable prefixes. 
+ru: Это изменение по сравнению с предыдущими рекомендациями. В этих рекомендациях префиксы «гидро» и «дегидро» отделяются, 
+но не располагаются в алфавитном порядке вместе с другими замещающими префиксами. В названиях они указываются непосредственно 
+перед названием &(parent hydride|ro), после алфавитных префиксов и перед неотделяемыми префиксами.
+
+en: The starting point and direction of numbering of a compound are chosen so as to give lowest locants to fixed numbering 
+of a polycyclic ring system, as in naphthalene, quinoline, etc., then to heteroatoms in heterocycles, and then to indicated 
+hydrogen, when present, in accordance with the methodology described in P-14.4 for the construction of substitutive 
+names. 
+ru: Начальная точка и направление нумерации соединения выбираются таким образом, чтобы меньшие локанты соответствовали 
+фиксированной нумерации полициклической кольцевой системы, как в нафталине, хинолине и т. д., 
+затем гетероатомам в гетероциклах, а затем &(indicated hydrogen|da), если он присутствует, в соответствии с методологией, 
+описанной в P-14.4 для построения замещающих названий.
+
+#P-31.2.2
+en: General methodology
+ru: Общая методология
+
+en: ‘Hydro’ and ‘dehydro’ prefixes are associated with hydrogenation and dehydrogenation, respectively, of a double bond; 
+thus, multiplying prefixes of even values, as ‘di’, ‘tetra’, etc. are used to indicate the saturation of double bond(s), for 
+example ‘dihydro’, ‘tetrahydro’; or creation of double (or triple) bonds, as ‘didehydro’, etc.. In names, they are placed 
+immediately at the front of the name of the parent hydride and in front of any nondetachable prefixes. Indicated 
+hydrogen atoms have priority over ‘hydro‘ prefixes for low locants. If indicated hydrogen atoms are present in a name, 
+the ‘hydro‘ prefixes precede them. 
+ru: Префиксы «гидро» и «дегидро» связаны с гидрированием и дегидрированием двойной связи соответственно;
+Таким образом, умножающие префиксы чётных значений, такие как «ди», «тетра» и т. д., используются для обозначения насыщенности 
+двойной связи (связей), например, «дигидро», «тетрагидро»; или образования двойных (или тройных) связей, например, 
+«дидегидро» и т. д. В названиях они размещаются непосредственно перед названием &(parent hydride|ro) и перед любыми 
+&(nondetachable [prefix]|tv*) префиксами. Атомы &(indicated hydrogen|ro) имеют приоритет перед префиксами «гидро» для 
+меньших локантов. Если в названии присутствуют атомы &(indicated hydrogen|ro), префиксы «гидро» предшествуют им.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\@n(1',-90)`/`\\`/||\//<`|>\/@n(3',30)`|@n(2',-60)-\-//`\`=`/@n(1,-100)\`/\\-//`\
+$>
+
+en: <%a%>-tetrahydro-1,2′-binaphthalene (PIN)
+ru: <%a%>-тетрагидро-1,2′-бинафталин (PIN)
+%a:1′,2′,3′,4′
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(4,60)_q7@n(3,20)_q7@n(2,-30)_qq7N@n(1,-90,.6)_q7_qq7_q7@n(5,120)
+$>
+
+en: 4,5-dihydro-3_H_-azepine (PIN) 
+ru: 4,5-дигидро-3_H_-азепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_q@n(2,-20)_qN@n(1,-90,.6)_qq@n(5,-160)_q@n(4,120)
+$>
+
+en: 3,4-dihydro-2_H_-pyrrole (PIN) 
+ru: 3,4-дигидро-2_Н_-пиррол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)\\\@n(2,-30)|`//`\`||/@n(1,-90)
+$>
+
+en: 1,2-didehydrobenzene (PIN, see P-31.2.4.1)  <br>
+cyclohex-1,3-dien-5-yne  <br>
+(not benzyne) 
+ru: 1,2-дидегидробензол (PIN, см. P-31.2.4.1) <br>
+циклогекс-1,3-диен-5-ин <br>
+(не &(benzyne))
+
+@End
+
+#P-31.2.3
+en: The prefix ‘hydro’ 
+ru: Префикс «гидро»
+
+#P-31.2.3.1+
+en: ‘Hydro’ prefixes are used to modify the degree of hydrogenation of monocyclic mancude compounds having 
+retained or systematic names, except for the hydro derivatives of benzene, for which the traditional names 
+‘cyclohexene’ and ‘cyclohexadiene’ are the preferred IUPAC names. 
+ru: Префиксы «гидро» используются для модификации степени гидрирования моноциклических углеводородных соединений, 
+имеющих сохраненные или систематические названия, за исключением гидропроизводных бензола, для которых традиционные 
+названия «циклогексен» и «циклогексадиен» являются предпочтительными названиями ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\@n(2,-30)|@n(3,30)`/@n(4,90)`\\@n(5,150)`|@n(6,-150)/@n(1,-90)
+$>
+
+en: cyclohexa-1,4-diene (PIN)  <br>
+(not 1,4-dihydrobenzene) 
+en: циклогекса-1,4-диен (PIN) <br>
+(не 1,4-дигидробензол)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\@n(2,-30)|`/`\`|/@n(1,-90)
+$>
+
+en: cyclohexene (PIN)  <br>
+(not 1,2,3,4-tetrahydrobenzene) 
+ru: циклогексен (PIN) <br>
+(не 1,2,3,4-тетрагидробензол)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.6)\@n(2,-30)|`//`\``||/
+$>
+
+en: 1,2-dihydropyridine (PIN) 
+ru: 1,2-дигидропиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(4,90,.6)_q7@n(3,20)_qq7@n(2,-30)_q7S@n(1,-90,.6)_q7@n(7,-150)_q7@n(6,160)_q7@n(5,120)
+$>
+
+en: 4,5,6,7-tetrahydro-1,4-thiazepine (PIN)
+ru: 4,5,6,7-тетрагидро-1,4-тиазепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq7_q7@n(2,-30)_q7N<_(y-.5)H>@n(1,90,.6)_q7@n(7,-150)_q7_qq7
+$>
+
+en: 2,7-dihydro-1_H_-azepine (PIN) 
+ru: 2,7-дигидро-1_H_-азепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_q@n(2,-20)_qP<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: 2,3-dihydro-1_H_-phosphole (PIN)
+ru: 2,3-дигидро-1_H_-фосфол (PIN)
+
+@End
+
+#P-31.2.3.2
+en: Names of saturated heteromonocyclic compounds 
+ru: Названия насыщенных гетеромоноциклических соединений
+
+en: Preferred IUPAC names of saturated heteromonocyclic compounds are either Hantzsch-Widman names described in P
+22.2.2.1.1 or retained names described in Table 2.3. Names of saturated rings derived by using hydro prefixes from 
+Hantzsch-Widman names, retained names modified by adding the maximum of hydro prefixes, or ‘cyclo’ names 
+described in P-22.2.5 are not preferred IUPAC names, but they may be used in general nomenclature. 
+ru: Предпочтительными названиями ИЮПАК для насыщенных гетеромоноциклических соединений являются названия Ганча-Видмана, 
+описанные в P-22.2.2.1.1, или сохранённые названия, описанные в таблице 2.3. Названия насыщенных циклов, полученные 
+с использованием гидропрефиксов из названий Ганча-Видмана, сохранённые названия, модифицированные добавлением максимального 
+количества гидропрефиксов, или «цикло»-названия, описанные в P-22.2.5, не являются предпочтительными названиями ИЮПАК, 
+но могут использоваться в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qP<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: 1_H_-phosphole (PIN) 
+ru: 1_H_-фосфол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q@n(2,-20)_qP<_(y-.5)H>@n(1,90,.6)_q_q
+$>
+
+en: phospholane (PIN)  <br>
+tetrahydro-1_H_-phosphole
+ru: фосфолан (PIN) <br>
+тетрагидро-1_H_-фосфол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)Si@n(1,90,.6)\\@n(2,-30)|`//`\`||/
+$>
+
+en: siline (PIN) 
+ru: силин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2_(y.5)Si@n(1,90,.6)\@n(2,-30)|`/`\`|/
+$>
+
+en: silinane (PIN)  <br>
+hexahydrosiline
+ru: силинан (PIN) <br>
+гексагидросилин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq_qO@n(1,-90,.6)_q_qq
+$>
+
+en: furan (PIN)
+ru: фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q_qO@n(1,-90,.6)_q_q
+$>
+
+en: oxolane (PIN)  <br>
+tetrahydrofuran 
+ru: оксолан (PIN) <br>
+тетрагидрофуран
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\|`//`\`||/
+$>
+
+en: pyridine (PIN) 
+ru: пиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.6)\|`/`\`|/
+$>
+
+en: piperidine (PIN)  <br>
+hexahydropyridine 
+ru: пиперидин (PIN) <br>
+гексагидропиридин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\|`//`\`||/
+$>
+
+en: 2_H_-pyran (PIN) 
+ru: 2_H_-пиран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)\@n(2,-30)|`/`\`|/
+$>
+
+en: oxane (PIN) <br> 
+tetrahydropyran
+ru: оксан (PIN) <br>
+тетрагидропиран
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=N@n(4,60,.6)_q7_qq7_q7S@n(1,-90,.6)_q7_qq7_q7
+$>
+
+en: 1,4-thiazepine (PIN) 
+ru: 1,4-тиазепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(4,90,.5)_q7_q7_q7S@n(1,-90,.6)_q7_q7_q7
+$>
+
+en: 1,4-thiazepane (PIN)  <br>
+hexahydro-1,4-thiazepine
+ru: 1,4-тиазепан (PIN) <br>
+гексагидро-1,4-тиазепин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)HN@n(4,-60,.6)--NH@n(3,-120,.6)_qNH@n(2,160,.5)_qN<_(y-.5)H>@n(1,90,.6)_qHN@n(5,20,.5)_q
+$>
+
+en: cyclopentaazane  <br>
+pentazolidine (preselected name;  <br>
+see P-12.1; P-22.2.2.1.5.2; P-22.2.5)  
+ru: циклопентаазан <br>
+пентазолидин (предварительно выбранное название; <br>
+см. P-12.1; P-22.2.2.1.5.2; P-22.2.5)
+
+@End
+
+#P-31.2.3.3
+en: Saturation of double bonds in polycyclic mancude compounds
+ru: Насыщенность двойных связей в полициклических &(mancude)-соединениях
+
+@Content
+
+#P-31.2.3.3.1
+en: Retained names of partially saturated polycyclic mancude compounds 
+ru: Сохранённые названия частично насыщенных полициклических &(mancude)-компонентов
+
+en: Names listed in Table 3.1 are retained names that are not used as preferred IUPAC names. They are, however 
+acceptable in general nomenclature with full substitution, including characteristic groups expressed as suffixes, but not 
+as fusion components nor as amplificants in Phane Nomenclature. 
+ru: Названия, перечисленные в таблице 3.1, являются &(retained name|tv*) и не используются в качестве предпочтительных названий 
+ИЮПАК. Тем не менее, они приемлемы в общей номенклатуре с полной заменой, включая &(characteristic group|*), выраженные суффиксами, 
+но не в качестве &(fusion component|ro*) и не амплификантов в &(Phane nomenclature|pr).
+
+@Table 3.1 
+en: Retained names of partially saturated polycyclic parent hydrides 
+ru: &(Retained name|*) частично насыщенных полициклических &(parent hydride|ro*)
+
+@td;
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||r_q@n(3,70)_q@n(2,0)_q@n(1,-70)_q@n(7a,-80)`\@n(7,-90)`//@n(6,-150)|@n(5,150)\\@n(4,90)/@n(3a,80)
+$>
+
+en: indane  <br>
+(formerly indan)  <br>
+2,3-dihydro-1_H_-indene (PIN)
+ru: индан <br>
+(ранее индан) <br>
+2,3-дигидро-1_H_-инден (PIN)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||r_q@n(3,70)_q@n(2,0)_qN<_(y-.5)H>@n(1,110,.6)_q@n(7a,-80)`\@n(7,-90)`//@n(6,-150)|@n(5,150)\\@n(4,90)/@n(3a,80)
+$>
+
+en: 1_H_-indoline  <br>
+2,3-dihydro-1_H_-indole (PIN)
+ru: 1_H_-индолин <br>
+2,3-дигидро-1_H_-индол (PIN)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||r_q@n(3,70)_qNH@n(2,180,.5)_q@n(1,-70)_q@n(7a,-80)`\@n(7,-90)`//@n(6,-150)|@n(5,150)\\@n(4,90)/@n(3a,80)
+$>
+
+en: 2_H_-isoindoline  <br>
+2,3-dihydro-1_H_-isoindole (PIN) 
+ru: 2_H_-изоиндолин <br>
+2,3-дигидро-1_H_-изоиндол (PIN)
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\@n(8a,-90,.5)/O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/@n(4,90)`\@n(4a,90,.5)
+$>
+
+en: chromane  <br>
+3,4-dihydro-2_H_-1-benzopyran (PIN)  <br>
+3,4-dihydro-2_H_-chromene 
+ru: хроман <br>
+3,4-дигидро-2_H_-1-бензопиран (PIN) <br>
+3,4-дигидро-2_H_-хромен
+
+en: thiochromane (S instead of O)  <br>
+3,4-dihydro-2_H_-1-benzothiopyran (PIN)  <br>
+3,4-dihydro-2_H_-thiochromene 
+ru: тиохроман (S вместо O) <br>
+3,4-дигидро-2_H_-1-бензотиопиран (PIN) <br>
+3,4-дигидро-2_H_-тиохромен
+
+en: selenochromane (Se instead of O)  <br>
+3,4-dihydro-2_H_-1-benzoselenopyran (PIN)  <br>
+3,4-dihydro-2_H_-selenochromene 
+ru: селенохроман (Se вместо O) <br>
+3,4-дигидро-2_H_-1-бензоселенопиран (PIN) <br>
+3,4-дигидро-2_H_-селенохромен
+
+en: tellurochromane (Te instead of O)  <br>
+3,4-dihydro-2H-1-benzotelluropyran (PIN)  <br>
+3,4-dihydro-2H-tellurochromene 
+ru: теллурохроман (Te вместо O) <br>
+3,4-дигидро-2_H_-1-бензотеллуропиран (PIN) <br>
+3,4-дигидро-2_H_-теллурохромен
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\@n(8a,-90,.5)/@n(1,-90)\O@n(2,-30,.6)|@n(3,30)`/@n(4,90)`\@n(4a,90,.5)
+$>
+
+en: isochromane  <br>
+3,4-dihydro-1_H_-2-benzopyran (PIN)  <br>
+3,4-dihydro-1_H_-isochromene  
+ru: изохроман <br>
+3,4-дигидро-1_H_-2-бензопиран (PIN) <br>
+3,4-дигидро-1_H_-изохромен
+
+en: isothiochromane (S instead of O)  <br>
+3,4-dihydro-1_H_-2-benzothiopyran (PIN)  <br>
+3,4-dihydro-1_H_-isothiochromene  
+ru: изотиохроман (S вместо O) <br>
+3,4-дигидро-1_H_-2-бензотиопиран (PIN) <br>
+3,4-дигидро-1_H_-изотиохромен
+
+en: isoselenochromane (Se instead of O)  <br>
+3,4-dihydro-1_H_-2-benzoselenopyran (PIN)  <br>
+3,4-dihydro-1_H_-isoselenochromene  
+ru: изоселенохроман (Se вместо O) <br>
+3,4-дигидро-1_H_-2-бензоселенопиран (PIN) <br>
+3,4-дигидро-1_H_-изоселенохромен
+
+en: isotellurochromane (Te instead of O)  <br>
+3,4-dihydro-1_H_-2-benzotelluropyran (PIN)  <br>
+3,4-dihydro-1_H_-isotellurochromene 
+ru: изотеллурохроман (Te вместо O) <br>
+3,4-дигидро-1_H_-2-бензотеллуропиран (PIN) <br>
+3,4-дигидро-1_H_-изотеллурохромен
+
+@EndTable
+
+#P-31.2.3.3.2
+en: Polycyclic mancude compounds  
+ru: Полициклические &(mancude)-соединения
+
+en: The degree of hydrogenation of partially or fully saturated individual mancude ring systems, carbocyclic or 
+heterocyclic, is given by ‘hydro’ prefixes, in accordance with the general methodology described in P-31.2.2. Total 
+hydrogenation is indicated by the appropriate multiplicative prefixes indicating the total number of hydrogen atoms 
+attached, but locants are omitted (see P-14.3.4.5). 
+ru: Степень гидрирования частично или полностью насыщенных индивидуальных &(mancude)-кольцевых систем, карбоциклических 
+или гетероциклических, указывается префиксом «гидро» в соответствии с общей методологией, описанной в P-31.2.2. 
+Полное гидрирование указывается соответствующими мультипликативными префиксами, указывающими общее число присоединенных 
+атомов водорода, но локанты опускаются (см. P-14.3.4.5).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(1,-90)\||`/@n(4,90)`\
+$>
+
+en: 1,4-dihydronaphthalene (PIN)
+ru: 1,4-дигидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||l_p7@n(5,60)_p7@n(6,150)_p7@n(7,180)_p7_pp7_p7/@n(1,-90)\\|`//@n(4,90)`\
+$>
+
+en: 6,7-dihydro-5_H_-benzo[7]annulene (PIN) 
+ru: 6,7-дигидро-5_H_-бензо[7]аннулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\`|/\/@n(1,-90)\@n(2,-30)|`/`\
+$>
+
+en: decahydronaphthalene (PIN) 
+ru: декагидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1,-90)\@n(2,-30)|`/`\`|`\`/|<\/>`/`\`|/\
+$>
+
+en: tetradecahydroanthracene (PIN)
+ru: тетрадекагидроантрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_q8:rb`|_q8<_p7@n(1,-120)_p7@n(2,-90)_p7@n(3,-50)_p7:rm@n(4,-10)_p7@n(5,60)_p7>`-<_(p-1;2)CH2@n(15,150,.6)_#2@n(7,50)>@n(14,-120)_q8|<_q8>#
+_p7@n(9,70)_p7:l@n(10,170,.5)_p7@n(11,180,.5)_p7@n(12,-120,.5)_p7@n(13,-90)_p7;
+#rb@n(6,80)_(A20)CH2@n(19,90,.6)_(a%a:-45)CH2@n(20,50,.8)_(a%a)CH2@n(21,-60,.7)_#rm;
+#l_(A82)$L(1.2)CH2@n(16,120,.7)_(a%a)CH2@n(17,90,.6)_(a%a)CH2@n(18,60,.7)_#1@n(8,60)
+$>
+
+en: octadecahydro-7,14-methano-4,6:8,10-dipropanodicyclohepta[_a_,_d_][8]annulene (PIN)  <br>
+hexacyclo[<%a%>]pentacosane (see P-23.2.6.3) 
+ru: октадекагидро-7,14-метано-4,6:8,10-дипропанодициклогепта[_a_,_d_][8]аннулен (PIN) <br>
+гексацикло[<%a%>]пентакозан (см. P-23.2.6.3)
+%a:15.3.2.2^{3,7}.1^{2,12}.0^{13,21}.0^{11,25}
+
+@End
+
+#P-31.2.3.3.3
+en: Spiro compounds 
+ru: Спиросоединения
+
+en: Spiro compounds including mancude components are modified in accordance with the general methodology described 
+in P-31.2.2.
+ru: Спиросоединения, включающие &(mancude)-компоненты, модифицируются в соответствии с общей методологией, описанной в P-31.2.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\N<_(y-.5)H>@n(1',90,.6)`/`\@n(8',-90)`/@n(7',-150)|@n(6',150)\@n(5',90)/<`|@n(8'a,-90,.5)>@n(4'a,90,.5)\N@n(4',90,.6)//@n(3',30)`|@n(2',140,.5)#
+_(a114)N<_(y.5)H>@n(3,-100,.6)_q@n(2,0)_qN<_(y-.5)H>@n(1,100,.6)_q@n(5,50)_q@n(4,-30)
+$>
+
+en: <%a%>-hexahydro-1′_H_-spiro[imidazolidine-4,2′-quinoxaline] (PIN)
+ru: <%a%>-гексагидро-1′_H_-спиро[имидазолидин-4,2′-хиноксалин] (PIN)
+%a:4′a,5′,6′,7′,8′,8′a
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(4,90)`\@n(5,150)`|//\||r_q_q@n(2,180)<_qO@n(1,-80,.6)_q>\-/`\`=@n(2',-120)`/@n(1',0)
+$>
+
+en: 4,5-dihydro-3_H_-spiro[[1]benzofuran-2,1′-cyclohexan]-2′-ene (PIN) 
+ru: 4,5-дигидро-3_H_-спиро[[1]бензофуран-2,1′-циклогексан]-2′-ен (PIN)
+
+@End
+
+#P-31.2.3.3.4
+en: Phane compounds 
+ru: &(Phane compound|*)
+
+en: When the name of an amplificant implies the presence of a maximum number of noncumulated double bonds, other 
+states of hydrogenation are indicated by use of the prefix ‘hydro’. This method is applied as follows (see ref. 6, PhII-5.1 
+and PhII-5.2):
+ru: Если название амплификанта подразумевает наличие максимального количества некумулятивных двойных связей, другие 
+состояния гидрирования обозначаются приставкой «гидро». Этот метод применяется следующим образом (см. ссылку 6, PhII-5.1 и PhII-5.2):
+
+#(1)
+en: ‘Hydro’ prefixes are used to modify mancude heteromonocycles having retained names or named in accordance 
+with the extended Hantzsch-Widman system. However, names for the fully saturated heteromonocycles that have 
+retained names or Hantzsch-Widman names are preferred to those expressed by ‘hydro’ prefixes, for example, 
+oxolane and piperidine are preferred to tetrahydrofuran and hexahydropyridine, respectively. 
+ru: Префиксы «гидро» используются для модификации укороченных гетеромоноциклов, сохранивших свои названия или названных 
+в соответствии с расширенной системой Ганча-Видмана. Однако названия полностью насыщенных гетеромоноциклов, включающие
+&(retained name|*) или названия по Ганчу-Видману, предпочтительнее названий, выраженных префиксами «гидро», например, 
+оксолан и пиперидин предпочтительнее тетрагидрофурана и гексагидропиридина соответственно.
+
+#(2)
+en:  ‘Hydro’ prefixes are used to indicate all modifications of the degree of unsaturation of carbocyclic or heterocyclic 
+mancude parent hydrides, except for benzene. Retained names of partially hydrogenated parent hydrides, such as 
+indane and chromane (see P-31.2.3.3.1), are not recommended as amplificants in phane nomenclature. 
+ru: Префиксы «гидро» используются для обозначения всех модификаций степени ненасыщенности карбоциклических или 
+гетероциклических &(mancude)-&(parent hydride|ro*), за исключением бензола. &(Retained name|*) частично гидрированных 
+&(parent hydride|ro*), таких как индан и хроман (см. P-31.2.3.3.1), не рекомендуются в качестве амплификантов в 
+&(phane nomenclature|pr).
+
+@Examples
+
+@cell
+<$
+@:bt(t,a:67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.2)`|@n(6,30)/@n(5,90)\/@n(4,90)\@n(3,150)|:r@n(2,-150)`/@n(1,-90)@bt(1,120,%L)`\<`|@n(4a,30)>@n(8a,-150,.5)`/@n(8,-90)`\@n(7,-30)#
+_(A135)@bt(8)|@bt(7)_q8@bt(6)_(x.9)/=\@n(1,-170,.5)@bt(5,120,%L)<`//`-`\\@n(4,-10,.5)>_(x#r)@bt(4)_(a-45)@bt(3)`|@bt(2)_#r
+$>
+
+en: <%a%>-decahydro-1(2,7)-naphthalena-5(1,4)-benzenacyclooctaphane (PIN)
+ru: <%a%>-декагидро-1(2,7)-нафталина-5(1,4)-бензонациклоокта&(phane) (PIN)
+%a:1^{1},1^{2},1^{3},1^{4},1^{4a},1^{5},1^{6},1^{7},1^{8},1^{8a}
+
+@cell
+<$
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)$slope(60)\NH@n(1,180)`/@n(6,-110,.5)`=`\@n(4,0)@bt(1,120,%L)/=@n(2,110,.5)/@bt(2)-@bt(3,-70)\@bt(4,-150,.7)/@bt(5,-50)-@bt(6)\#
+=\@bt(7,120,%L)`//`-@n(6,-50)<`\\N@n(1,0)/@n(2,70,.5)>`/@bt(8)`-@bt(9,-90)`\@bt(10,-150,.8)`/@bt(11,-30)`-@bt(12)`\
+$>
+
+en: <%a%>-dihydro-1,7(2,6)-dipyridinacyclododecaphane (PIN)
+ru: <%a%>-дигидро-1,7(2,6)-дипиридинациклододека&(phane) (PIN)
+%a:1^{1},1^{4}
+
+@End
+
+#P-31.2.3.3.5
+en: Ring assemblies
+ru: &(Ring assembly|*)
+
+en: The degree of hydrogenation of ring assemblies composed of mancude components is given by ‘hydro’ prefixes, in 
+accordance with the general methodology described in P-31.2.2. Since assemblies are considered as parent hydrides, the 
+degree of hydrogenation of the different components can be modified, to a certain extent, in a way that is not allowed 
+for the individual components. This is the case of assemblies composed of monocyclic components, in which the names 
+are different for the mancude and the saturated component. Thus, assemblies composed of monocyclic components and 
+those composed of ring system components are treated differently.
+ru: Степень гидрирования &(ring assembly|ro*), состоящих из &(mancude)-компонентов, указывается префиксами «гидро» 
+в соответствии с общей методологией, описанной в P-31.2.2. Поскольку &([ring] assembly|*) рассматриваются как &(parent hydride|*), 
+степень гидрирования различных компонентов может быть изменена в определённой степени способом, который не допускается для 
+отдельных компонентов. Это относится к &([ring] assembly|da*), состоящим из моноциклических компонентов, в которых 
+названия &(mancude)- и насыщенного компонента различны. Таким образом, &([ring] assembly|*), состоящие из моноциклических 
+компонентов, и &([ring] assembly|*), состоящие из компонентов кольцевой системы, рассматриваются по-разному.
+
+@Content
+
+#P-31.2.3.3.5.1
+en: Ring assemblies composed of monocyclic components  
+ru: &(Ring assembly|*), состоящие из моноциклических компонентов
+
+#(a)
+en: Ring assemblies composed of monocyclic mancude or saturated hydrocarbons. Low locants are  assigned to ‘hydro’ 
+prefixes in accordance with the fixed numbering of each assembly. In  biphenyl and polyphenyl assemblies, one 
+benzene ring must remain in the assembly; otherwise,  the starting parent hydride is the saturated assembly and the 
+ending ‘ene’ is used to denote  unsaturation (see P-31.1.7). Furthermore, when a modified ring assembly of two 
+rings consists  of a benzene ring and a cyclohexane ring substitutive nomenclature is preferred (see P-54.3). 
+ru: &(Ring assembly|*), состоящие из моноциклических &(mancude)- или насыщенных углеводородов. Меньшие локанты присваиваются 
+префиксам «гидро» в соответствии с фиксированной нумерацией каждой &([ring] assembly|ro). В бифенильных и полифенильных 
+&([ring] assembly|pr*) одно бензольное кольцо должно оставаться в &([ring] assembly|pr); в противном случае исходный 
+&(parent hydride) является насыщенной &([ring] assembly|tv), а окончание «ен» используется для обозначения ненасыщенности 
+(см. P-31.1.7). Кроме того, когда модифицированая &(ring assembly) из двух колец состоит из бензольного и циклогексанового 
+колец, предпочтительна &(substitutive nomenclature) (см. P-54.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\//-\\@n(1',-60)-@n(1,-120)/@n(2,-120)-@n(3,-60)\`//`-`\\
+$>
+
+en: 2,3-dihydro-1,1′-biphenyl (PIN) (numbering shown)  <br>
+(cyclohexa-1,3-dien-1-yl)benzene
+ru: 2,3-дигидро-1,1′-бифенил (PIN) (нумерация указана) <br>
+(циклогекса-1,3-диен-1-ил)бензол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\//-\\@n(1',-60)-@n(1,-120)/@n(2,-120)-@n(3,-60)\@n(4,0)`/@n(5,60)`-@n(6,120)`\
+$>
+
+en: cyclohexylbenzene (PIN)  <br>
+1,2,3,4,5,6-hexahydro-1,1′-biphenyl (numbering shown) 
+ru: циклогексилбензол (PIN) <br>
+1,2,3,4,5,6-гексагидро-1,1′-бифенил (нумерация указана)
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`/`=`\@bt(3,120,%L)//-\\@n(1,170)-/@n(3,60)-@n(2,120)\@n(1,-170)<`//`-`\\@n(4,-10)@bt(2)>-//@n(6,60)-@n(5,120)\@n(4,-170)`//@n(3,-120)`-@n(2,-60)`\@n(1,10)@bt(1)
+$>
+
+en: 12,15,22,23-tetrahydro-11,21:24,31-terphenyl (PIN)  <br>
+2,2′,3′,5-tetrahydro-1,1′:4′,1′′-terphenyl  <br>
+[4-(cyclohexa-1,4-dien-1-yl)cyclohexa-1,3-dien-1-yl]benzene  <br>
+(substitutive name) 
+ru: 12,15,22,23-тетрагидро-11,21:24,31-терфенил (PIN) <br>
+2,2′,3′,5-тетрагидро-1,1′:4′,1′′-терфенил <br>
+[4-(циклогекса-1,4-диен-1-ил)циклогекса-1,3-диен-1-ил]бензол <br>
+(замещающее название)
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1)`//`-`\\@bt(6)/=\@n(1,-170)-@n(4,0)/-\@n(1,180)<`/`-`\@bt(5)>-@n(4,0)/-\@n(1,180)<`/`-`\@bt(4)>-@n(4,-10)/=\@n(1,-170)<`//`-`\\@bt(3)>-#
+@n(4)/-\@n(1,180)<`/`-`\@bt(2)>-@n(1,0)/-\`/`-`\@bt(1)
+$>
+
+en: <%a%>-tetracosahydro-<%b%>-sexiphenyl (PIN)  <br>
+<%c%>-tetracosahydro-<%d%>-sexiphenyl  <br>
+4-[4-([1,1′-bi(cyclohexan)]-4-yl)phenyl]-4′-phenyl-1,1′-bi(cyclohexane) (substitutive name) <br>
+{not 1-(<%e%>-dodecahydro[<%f%>-terphenyl]-1^{4}-yl)-4-([1,1′-bi(cyclohexan)]-4-yl)benzene (substitutive name)}  <br>
+**Note**: According to P-52.2.5.1, seven nodes are required for a phane name. 
+ru: <%a%>-тетракозагидро-<%b%>-сексифенил (PIN) <br>
+<%c%>-тетракозагидро-<%d%>-сексифенил <br>
+4-[4-([1,1′-би(циклогексан)]-4-ил)фенил]-4′-фенил-1,1′-би(циклогексан) (замещающее название) <br>
+{не 1-(<%e%>-додекагидро[<%f%>-терфенил]-1^{4}-ил)-4-([1,1′-би(циклогексан)]-4-ил)бензол (замещающее название)} <br>
+**Примечание**: Согласно P-52.2.5.1, для &(phane name|ro) требуется семь узлов.
+%a:1^{1},1^{2},1^{3},1^{4},1^{5},1^{6},2^{1},2^{2},2^{3},2^{4},2^{5},2^{6},4^{1},4^{2},4^{3},4^{4},4^{5},4^{6},5^{1},5^{2},5^{3},5^{4},5^{5},5^{6}
+%b:1^{1},2^{1}:2^{4},3^{1}:3^{4},4^{1}:4^{4},5^{1}:5^{4},6^{1}
+%c:1,1′,1′′′,1′′′ ′,2,2′,2′′′,2′′′ ′,3,3′,3′′′,3′′′ ′,4,4′,4′′′,4′′′ ′,5,5′,5′′′,5′′′ ′,6,6′,6′′′,6′′′ ′
+%d:1,1′:4′,1′′:4′′,1′′′:4′′′ ′1′′′ ′:4′′′ ′,1′′′ ′′
+%e:2^{1},2^{2},2^{3},2^{4},2^{5},2^{6},3^{1},3^{2},3^{3},3^{4},3^{5},3^{6}
+%f:1^{1},2^{1}:2^{4},3^{1}
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)@:c(n,m,l:1,r:4)_(A-60)_(a60,N&m)_p6@n(&r,-170,.45)<_(a60,N&m)_p6_(a60,N&m)@bt(&n)@n(&l,-10,.45)>@(1,2,l:,r:1)-#
+@c(2)-@c(3)-@c(4,2)-@c(5)-@c(6)-@c(7,r:)
+$>
+
+en: 1(1),4(1,4)-dibenzena-2,3,5,6(1,4),7(1)-pentacyclohexanaheptaphane (PIN; numbering shown) <br> 
+4-[4-(4′-phenyl[1,1′-bi(cyclohexan)]-4-yl)phenyl]-11,21:24,31-tercyclohexane (substitutive name)  <br>
+4-[4-(4′-phenyl[1,1-bi(cyclohexan)]-4-yl)pheny]-1,1′:4′,1′′-tercyclohexane (substitutive name)
+ru: 1(1),4(1,4)-дибензола-2,3,5,6(1,4),7(1)-пентациклогексангептафан (PIN; нумерация указана) <br>
+4-[4-(4′-фенил[1,1′-би(циклогексан)]-4-ил)фенил]-11,21:24,31-терциклогексан (замещающее название) <br>
+4-[4-(4′-фенил[1,1-би(циклогексан)]-4-ил)фенил]-1,1′:4′,1′′-терциклогексан (замещающее название)
+
+@End
+
+#(b)
+en: Ring assemblies composed of heteromonocycles. Low locants are assigned to junctions between  rings, then to 
+indicated hydrogen, if any, and finally to ‘hydro’ prefixes. 
+ru: &(Ring assembly|*), состоящие из гетеромоноциклов. Меньшие локанты присваиваются соединениям между кольцами, 
+затем &(indicated hydrogen|da), если он есть, и, наконец, префиксам «гидро».
+
+@Examples
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`//@n(3,-120)`-@n(4,-60)`\\@n(5,0)@bt(1)/@n(6,60)-NH@n(1,110,.6)\@n(2,180)-#
+/@n(4,60)-@n(5,120)\@n(6,180)<`//N@n(1,-120,.5)`-@n(2,-60)`\\@n(3,0)@bt(2)>#
+-//@n(3,60)-@n(2,120)\N@n(1,180)`//@n(6,-120)`-@n(5,-60)`\@n(4)@bt(3)
+$>
+
+en: <%a%>-hexahydro-<%b%>-terpyridine (PIN)  <br>
+1,2′′,4′,5′,5′′,6-hexahydro-2,3′:6′,4′′-terpyridine
+ru: <%a%>-гексагидро-<%b%>-терпиридин (PIN) <br>
+1,2′′,4′,5′,5′′,6-гексагидро-2,3′:6′,4′′-терпиридин
+%a:1^{1},1^{6},2^{4},2^{5},3^{2},3^{5}
+%b:1^{2},2^{3}:2^{6},3^{4}
+
+@cell
+<$
+@:bt(t,a:110,L:1.25)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)-@n(4,120)_p7@n(3,180)<_pp7@n(2,-150)_p7N<_(y.5)H>@n(1,-90,.6)_p7@n(7,-30)_pp7@n(6,0)@bt(3)_p7@n(5,60)>-:a;
+-@n(3,120)_pp7@n(2,170)<_p7NH@n(1,-150,.5)_p7@n(7,-90)_pp7@n(6,-40,.45)_p7#a@n(5,0)@bt(2)_p7@n(4,60)>-:b;
+HN@n(1,60,.6)-@n(7,120)_pp7@n(6,170)_p7@n(5,-150)_p7@n(4,-90)_p7@n(3,-30)_pp7#b@n(2,0)@bt(1)_p7
+$>
+
+en: <%a%>-hexahydro-<%b%>-terazepine (PIN)  <br>
+<%c%>-hexahydro-<%d%>-terazepine
+ru: <%a%>-гексагидро-<%b%>-теразепин (PIN) <br>
+<%c%>-гексагидро-<%d%>-теразепин
+%a:1^{4},1^{5},2^{4},2^{5},3^{4},3^{5}
+%b:1^{1}_H_,2^{1}_H_,3^{1}_H_-1^{2},2^{2}:2^{5},3^{3}
+%c:4,4′,4′′,5,5′,5′′
+%d:1_H_,1′_H_,1′′_H_-2,2′:5′,3′′
+
+@End
+
+#P-31.2.3.3.5.2
+en: Ring assemblies composed of polycyclic compounds 
+ru: &(Ring assembly|*), состоящие из полициклических соединений
+
+en: Low locants are assigned to the junctions between components, then to indicated hydrogen atoms, if any, and finally to 
+‘hydro’ prefixes. 
+ru: Меньшие локанты присваиваются соединениям между компонентами, затем атомам &(indicated hydrogen|ro), если таковые имеются, 
+и, наконец, префиксам «гидро».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\@n(1,-90)`/|r`/`\\`|//\|\@n(4,90)/@n(3,60)`||@n(2,-80)-@n(2',-100)|@n(3',100,.45)\@n(4',90)//\//`|`\\`/<|>`\\@n(1',-90)`/
+$>
+
+en: 1,2′,3′,4-tetrahydro-2,2′-binaphthalene (PIN) 
+ru: 1,2′,3′,4-тетрагидро-2,2′-бинафталин (PIN)
+
+@cell
+<$
+@:bt(t,a:120,L:1.1)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`//`\`||@n(2,30)/N@n(1,90,.6)\\<|>/@n(8,90)@bt(3)\@n(7,150)_(A0)#
+/N@n(1,90,.6)\\/@bt(2)@n(8,90)\@n(7,150)<|`//`\<`|>`//`\`||@n(2,30)>_(A0)#
+/N@n(1,90,.6)\\/@bt(1)@n(8,90)\@n(7,150)|`//`\<`|>`//`\`||@n(2,30)
+$>
+
+en: <%a%>-hexahydro-<%b%>-terquinoline (PIN)  <br>
+<%c%>-hexahydro-<%d%>-terquinoline 
+ru: <%a%>-гексагидро-<%b%>-терхинолин (PIN) <br>
+<%c%>-гексагидро-<%d%>-терхинолин
+%a:1^{7},1^{8},2^{7},2^{8},3^{7},3^{8}
+%b:1^{2},2^{7}:2^{2},3^{7}
+%c:7,7′,7′′,8,8′,8′′
+%d:2,7′:2′,7′′
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(4,90)`\@n(5,150)`|@n(6,-150)/@n(7,-90)\|@n(3a,80,.5)_q@n(3,70)_qq<_qN<_(y-.5)H>@n(1,-10,.5)_q@n(7a,-80,.5)>@n(2,-60)-#
+_(a54,N2)@n(3',110)_q_q<_qN<_(y-.5)H>@n(1',70,.55)_q@n(2',-110)>@n(7'a,-100,.5)/@n(7',-90)\@n(6',-30)|@n(5',30)`/@n(4',90)`\@n(3'a,100,.5)
+$>
+
+en: <%a%>-dodecahydro-1_H_,1′_H_-2,2′-biindole (PIN)
+ru: <%a%>-додекагидро-1_H_,1′_H_-2,2′-бииндол (PIN)
+%a:3a,3′a,4,4′,5,5′,6,6′,7,7′,7a,7′a
+
+@End
+
+#P-31.2.4
+en: The prefix ‘dehydro’ 
+ru: Префикс «дегидро»
+
+#P-31.2.4.1+
+en: The subtractive prefix ‘dehydro’ is used to denote the removal of hydrogen atoms and the formation of 
+multiple bonds. Its use is very limited in systematic nomenclature of organic compounds. Applied to benzene, it leads to 
+the name ‘1,2-didehydrobenzene’, the preferred IUPAC name, rather than ‘benzyne’ that was formerly used. Applied to 
+annulenes, it leads to didehydro[_n_]annulenes that are not used in preferred IUPAC names, but are acceptable for use in 
+general nomenclature.
+ru: Субтрактивный префикс «дегидро» используется для обозначения удаления атомов водорода и образования кратных связей. 
+Его применение в систематической номенклатуре органических соединений весьма ограничено. Применительно к бензолу он приводит 
+к названию «1,2-дидегидробензол», предпочтительному названию по ИЮПАК, а не «&(benzyne)», которое использовалось ранее. 
+Применительно к аннуленам он приводит к дидегидро[_n_]аннуленам, которые не используются в предпочтительных названиях по ИЮПАК, 
+но приемлемы для использования в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)H\/@n(1,-90)\\\@n(2,-30)|<\H>`//<|H>`\<`/H>`||
+$>
+
+en: 1,2-didehydrobenzene (PIN)  <br>
+cyclohexa-1,3-dien-5-yne  <br>
+(formerly called ‘benzyne’) 
+ru: 1,2-дидегидробензол (PIN) <br>
+циклогекса-1,3-диен-5-ин <br>
+(ранее назывался «&(benzyne)»)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-C@n(1,-90,.6)%%C@n(2,-90,.6)-_pp8|_pp8`-`=m`-_pp8`|_pp8
+$>
+
+en: 1,2-didehydro[12]annulene  <br>
+cyclododeca-1,3,5,7,9-pentaen-11-yne (PIN)
+ru: 1,2-дидегидро[12]аннулен <br>
+циклододека-1,3,5,7,9-пентаен-11-ин (PIN)
+
+@End
+
+#P-31.2.4.2+
+en: The ‘dehydro’ prefix is more widely used in natural product nomenclature in order to preserve 
+semisystematic names of stereoparents (see P-101.6). It is also used in the nomenclature of carbohydrates (ref. 27). 
+ru: Префикс «дегидро» чаще используется в номенклатуре природных продуктов для сохранения полусистематических названий 
+стереородителей (см. P-101.6). Он также используется в номенклатуре углеводов (ссылка 27).
+
+#P-31.2.4.3+
+en: The use of the ‘dehydro’ prefix is not recommended to denote double bond unsaturation in heterocyclic rings 
+having Hantzsch-Widman names. Names are formed preferably by using the ‘hydro’ prefix, as shown in the following 
+examples. 
+ru: Не рекомендуется использовать префикс «дегидро» для обозначения ненасыщенности двойной связи в гетероциклических 
+кольцах с названиями по Ганчу-Видману. Названия предпочтительно образуются с использованием префикса «гидро», как показано 
+в следующих примерах.
+
+@Examples 3 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-100,.6)-@n(2,-70)_p8@n(3,-30)|@n(4,30)_p8@n(5,70)_p8@n(6,110)_pp8@n(7,160)`|@n(8,-160)_pp8
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-100,.6)-@n(8,-70)_p8@n(7,-30)|@n(6,30)_p8@n(5,70)_p8@n(4,110)_pp8@n(3,160)`|@n(2,-160)_pp8
+$>
+
+@cell
+en: 2,3,4,5-tetrahydroazocine (PIN)
+ru: 2,3,4,5-тетрагидроазоцин (PIN)
+
+@cell
+
+@cell
+en: 1,2,3,4-tetradehydroazocane
+ru: 1,2,3,4-тетрадегидроазокан
+
+@End

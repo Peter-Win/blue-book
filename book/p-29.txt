@@ -1075,7 +1075,7 @@ described in P-28.5. Low locants are assigned to ring junctions, then to free va
 ru: Названия &(ring assembly|ro*), состоящих из двух идентичных колец или кольцевых систем, образуются, как описано в 
 разделе P-28.2, а названия, полученные из &(ring assembly|ro*), состоящих из трёх-шести идентичных колец или кольцевых систем, 
 описаны в разделе P-28.3. &(Ring assembly|*), состоящие более чем из шести колец или кольцевых ансамблей, называются по 
-&(phane nomenclature|da), как описано в разделе P-28.5. Меньшие локанты присваиваются соединениям колец, а затем 
+&(phane nomenclature|da), как описано в разделе P-28.5. Меньшие локанты присваиваются &(ring junction|da*), а затем 
 свободным валентностям.
 
 en: Names of substituent groups derived from ring assemblies are written in two ways: 
