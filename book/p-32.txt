@@ -2,14 +2,659 @@
 en: Substituent prefixes for substituents derived from parent hydrides with a modified degree of hydrogenation 
 ru: &(Substituent prefix) для &(substituent|ro*), полученных из &(parent hydride|ro*) с измененной степенью гидрирования
 
-#P-33
-en: Suffixes 
-ru: Суффиксы
+@Content
 
-#P-34
-en: Functional parent compounds 
-ru: Функциональные &(parent compound|*)
+#P-32.0
+en: Introduction 
+ru: Введение
 
-#P-35
-en: Prefixes corresponding to characteristic groups 
-ru: Префиксы, соответствующие &(characteristic group|da*)
+en: Names of substituents derived from the names of the corresponding unsaturated compounds described in Section P-31 
+are formed by using the appropriate suffixes ‘yl’, ‘ylidene’ or ‘ylidyne’, as described for the formation of substituent 
+prefixes in Section P-29. These names of substituents may contain the endings ‘ene’ or ‘yne’, or the prefixes ‘hydro’ or 
+‘dehydro’ in the case of mancude compounds. 
+ru: Названия &(substituent|ro*), образованные от названий соответствующих ненасыщенных соединений, описанных в разделе P-31, 
+образуются с использованием соответствующих суффиксов «ил», «илиден» или «илидин», как описано для образования 
+&(substituent prefix|ro*) в разделе P-29. Эти названия &(substituent|ro*) могут содержать окончания «ен» или «ин», а также 
+префиксы «гидро» или «дегидро» в случае ненасыщенных соединений.
+
+#P-32.1
+en: Substituent groups derived from parent hydrides with ‘ene’ or ‘yne’ endings  
+ru: &(Substituent group|*), полученные из &(parent hydride|ro*) с окончаниями «ен» или «ин»
+
+#P-32.1.1+
+en: Substituents derived from unsaturated acyclic compounds are named in two ways. 
+ru: &(Substituent|*), полученные из ненасыщенных ациклических соединений, называются двумя способами.
+
+#(1)
+en: As suffixes have priority for low locants, the position(s) of multiple bonds must be selected in accord with low 
+locants assigned to free valences. These free valences can be in any position of modified parent structure(s). 
+Accordingly, for acyclic parent structures, all locants for the free valences, including ‘1’, must be cited. 
+ru: Поскольку суффиксы имеют приоритет для меньших локантов, позиция(и) кратных связей должны быть выбраны в соответствии 
+с меньшими локантами, присвоенными свободным валентностям. Эти свободные валентности могут находиться в любом положении 
+модифицированной &(parent structure|ro)(структур). Соответственно, для ациклических &(parent structure|ro*) должны быть 
+&(cited|s*) все локанты свободных валентностей, включая «1».
+
+#(2)
+en: Names can also be formed by substituting simple substituents into larger ones, in a manner similar to saturated 
+prefixes described in Section P-29. 
+ru: Имена также могут быть образованы путем замены простых &(substituent|ro*) на более крупные, аналогично насыщенным 
+префиксам, описанным в разделе P-29.
+
+@p .framed
+en: A major change in the naming of substituents derived from unsaturated acyclic compounds is adopted in these 
+recommendations. The longest chain is chosen as the parent chain in preference to the number or type of multiple 
+bonds. 
+ru: В данных рекомендациях принято существенное изменение в наименовании &(substituent|ro*), полученных из ненасыщенных 
+ациклических соединений. В качестве исходной цепи выбирается самая длинная цепь, а не количество или тип кратных связей.
+
+en: For the method used in the formation of preferred IUPAC names, see P-57.1.4.1. 
+ru: Метод, используемый при формировании предпочтительных названий ИЮПАК, см. в P-57.1.4.1.
+
+@Examples 2 .cells-align-top
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)=CH@n(3)-CH2@n(2)-CH2@n(1)-{}
+$>
+
+en: (1) but-3-en-1-yl (preferred prefix)
+ru: (1) бут-3-ен-1-ил (предпочтительный префикс)
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(3)=CH@n(2)-CH2@n(1)-{}
+$>
+
+en: (1) prop-2-en-1-yl (preferred prefix) 
+ru: (1) проп-2-ен-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4,-90)=CH@n(3,-90)-CH@n(2,90)<`|{}>-CH3@n(1)
+$>
+
+en: (1) but-3-en-2-yl (preferred prefix) 
+ru: (1) бут-3-ен-2-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(3,-90)=CH@n(2,-90)-CH@n(1,90)<`|{}>-CH3
+$>
+
+en: (2) 1-methylprop-2-en-1-yl
+ru: (2) 1-метилпроп-2-ен-1-ил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2C@n(1,-90)=C@n(2,90)<`|{}>-CH3@n(3)
+$>
+
+en: (1) prop-1-en-2-yl (preferred prefix)  <br>
+isopropenyl (retained name,  <br>
+but not substitutable, see P-32.3) 
+ru: (1) проп-1-ен-2-ил (предпочтительный префикс) <br>
+изопропенил (&(retained name), <br>
+но не подлежит замене, см. P-32.3)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2C@n(2)==C@n(1,90)<`|{}>-CH3
+$>
+
+en: (2) 1-methylethen-1-yl 
+ru: (2) 1-метилэтен-1-ил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-CH@n(4,90)<`|{}>-[CH2]3@n(5-7,-60,.7)-CH2@n(8)-CH3@n(9)
+$>
+
+en: (1) non-1-en-4-yl (preferred prefix) 
+ru: (1) нон-1-ен-4-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2=CH-CH2-CH@n(1,90)<`|{}>-[CH2]3@n(2-4,-60,.7)-CH2@n(5)-CH3@n(6)
+$>
+
+en: (2) 1-(prop-2-en-1-yl)hexyl  <br>
+(not 1-pentylbut-3-en-1-yl) 
+ru: (2) 1-(проп-2-ен-1-ил)гексил <br>
+(не 1-пентилбут-3-ен-1-ил)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2)=CH@n(3)-CH@n(4,90)<`|{}>-CH2@n(5)-CH2@n(6)-CH3@n(7)
+$>
+
+en: (1) hept-2-en-4-yl (preferred prefix) 
+ru: (1) гепт-2-ен-4-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3)=CH@n(2)-CH@n(1,90)<`|{}>-CH2-CH2-CH3
+$>
+
+en: (2) 1-propylbut-2-en-1-yl
+ru: (2) 1-пропилбут-2-ен-1-ил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3,90)<`|{}>-CH2@n(4)-CH@n(5,90)<`|{}>-CH@n(6)=CH2@n(7)
+$>
+
+en: (1) hepta-1,6-diene-3,5-diyl (preferred prefix)
+ru: (1) гепта-1,6-диен-3,5-диил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2=CH-CH@n(1,90)<`|{}>-CH2@n(2)-CH@n(3,90)<`|{}>-CH=CH2
+$>
+
+en: (2) 1,3-diethenylpropane-1,3-diyl 
+ru: (2) 1,3-диэтенилпропан-1,3-диил
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(4)%%C@n(3)-CH2@n(2)-CH2@n(1)-{}
+$>
+
+en: (1) but-3-yn-1-yl (preferred prefix) 
+ru: (1) бут-3-ин-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(8)-C@n(7)%C@n(6)-CH2@n(5)-C@n(4,90)<`||{}>-CH2@n(3)-CH@n(2)=CH2@n(1)
+$>
+
+en: (1) oct-1-en-6-yn-4-ylidene (preferred prefix) 
+ru: (1) окт-1-ен-6-ин-4-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-C@n(4)%C@n(3)-CH2@n(2)-C@n(1,90)<`||{}>-CH2-CH=CH2
+$>
+
+en: (2) 1-(prop-2-en-1-yl)pent-3-yn-1-ylidene
+ru: (2) 1-(проп-2-ен-1-ил)пент-3-ин-1-илиден
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(7)%C@n(6)-CH2@n(5)-CH@n(4,90)<`|{}>-CH2@n(3)-CH@n(2)=CH2@n(1)
+$>
+
+en: (1) hept-1-en-6-yn-4-yl (preferred prefix)
+ru: (1) гепт-1-ен-6-ин-4-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC%C-CH2-CH@n(1,90)<`|{}>-CH2@n(2)-CH@n(3)=CH2@n(4)
+$>
+
+en: (2) 1-(prop-2-yn-1-yl)but-3-en-1-yl
+ru: (2) 1-(проп-2-ин-1-ил)бут-3-ен-1-ил
+
+@cell colspan=2
+en: **Note**: In (1), lowest locants are assigned to the double bond; in (2) the principal chain includes the double bond.
+ru: **Примечание**: В (1) меньшие локанты отнесены к двойной связи; в (2) главная цепь включает двойную связь.
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(2)=N@n(1)-{}
+$>
+
+en: (1) diazenyl (preselected prefix; see P-12.2) 
+ru: (1) диазенил (предварительно выбранный префикс; см. P-12.2)
+
+@cell colspan=2
+<$ {}-N=N-{} $>
+
+en: (1) diazenediyl (preselected prefix, see P-12.2) 
+ru: (1) диазенедиил (предварительно выбранный префикс, см. P-12.2)
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(3)=N@n(2)-NH@n(1)-{}
+$>
+
+en: (1) triaz-2-en-1-yl (preselected prefix, see P-12.2)
+ru: (1) триаз-2-ен-1-ил (предварительно выбранный префикс, см. P-12.2)
+
+@cell colspan=2
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HSb@n(2)=Sb@n(1)-{}
+$>
+
+en: (1) distibenyl (preselected prefix; see P-12.2)
+ru: (1) дистибенил (предварительно выбранный префикс; см. P-12.2)
+
+@End
+
+#P-32.1.2
+en: Monocyclic substituent groups
+ru: Моноциклические &(substituent group|*) 
+
+en: Method (1) described in P-32.1.1 is used to name monocyclic substituent groups.
+ru: Метод (1), описанный в P-32.1.1, используется для наименования моноциклических &(substituent group|*).
+
+@Examples
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\\@n(1,60)-@w()
+$>
+
+en: cyclohex-1-en-1-yl (preferred prefix)
+ru: циклогекс-1-ен-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(1,-90)<_(a54)@w()>_q_q_qq@n(3,100)_q@n(2,-30)_(a54)@w()
+$>
+
+en: cyclopent-3-ene-1,2-diyl (preferred prefix) 
+ru: циклопент-3-ен-1,2-диил (предпочтительный префикс)
+
+@End
+
+#P-32.1.3
+en: Substituent groups derived from parent hydrides having a fixed numbering
+ru: &(Substituent group|*), полученные из &(parent hydride|ro*), имеющих фиксированную нумерацию
+
+en: Lowest possible locants are assigned first to free valence(s), then to unsaturated sites, in accordance with the fixed 
+numbering of the parent hydride.
+ru: Наименьшие возможные локанты сначала присваиваются свободным валентностям, затем ненасыщенным участкам в соответствии 
+с фиксированной нумерацией исходного гидрида.
+
+@Examples
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)_(A60)`\@n(5,150)`||@n(6,-150)/@n(1,-90)<_(A60)@n(7,100)_#1@n(8,-80)>\</@w()>@n(2,30)|@n(3,30)`/@n(4,90)
+$>
+
+en: bicyclo[2.2.2]oct-5-en-2-yl (preferred prefix) 
+ru: бицикло[2.2.2]окт-5-ен-2-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|@n(2,-30)_qq@n(1,-100)_q@n(5,0)<_q@n(4,70,.35)_q@n(3,20)>`\@n(10,-60)`=@n(9,-120)`/@n(8,180)\@n(7,120)-@n(6,-120)</>\\@w()
+$>
+
+en: spiro[4.5]deca-1,9-dien-6-ylidene (preferred prefix)
+ru: спиро[4,5]дека-1,9-диен-6-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-O@n(2)-CH2@n(3)-CH2@n(4)-O@n(5)-CH2@n(6)-CH2@n(7)-O@n(8)-CH2@n(9)-CH2@n(10)-O@n(11)-CH@n(12)=CH@n(13)-{}
+$>
+
+en: 2,5,8,11-tetraoxatridec-12-en-13-yl (preferred prefix)  <br>
+(not 3,6,9,12-tetraoxatridec-1-en-1-yl;  <br>
+the suffix ‘-yl’ is added to the parent hydride name 2,5,8,11-tetraoxatridecane)
+ru: 2,5,8,11-тетраоксатридек-12-ен-13-ил (предпочтительный префикс) <br>
+(не 3,6,9,12-тетраоксатридек-1-ен-1-ил; <br>
+суффикс «-ил» добавляется к названию &(parent hydride|ro) 2,5,8,11-тетраоксатридекан)
+
+@End
+
+
+%P-32.2
+en: Substituent groups modified by the prefix ‘hydro’  
+ru: &(Substituent group|*), модифицированные префиксом «гидро»
+
+#P-32.2 
+en: Substituent groups derived from parent hydrides modified by the prefix ‘hydro’ 
+ru: &(Substituent group|*), полученные из &(parent hydride|ro*), модифицированные префиксом «гидро»
+
+en: Names of partially unsaturated substituent groups derived from mancude compounds are formed by using the prefix 
+‘hydro’. When a choice is possible, low locants are assigned in accord with the order of seniority (see P-44.2 and also 
+P-59.1.10) for assigning lowest possible locants to several nomenclature features. Indicated and added indicated 
+hydrogen atoms must be cited in names. 
+ru: Названия частично ненасыщенных &(substituent group|ro*), полученных из &(mancude)-соединений, образуются с использованием 
+префикса «гидро». При возможности выбора меньшие локанты назначаются в соответствии с порядком старшинства 
+(см. P-44.2 и P-59.1.10) для назначения наименьших возможных локантов нескольким номенклатурным признакам. Указанные и 
+добавленные указанные атомы водорода должны быть &(cited|s*) в названиях.
+
+#P-32.2.1+
+en: For heteromonocyclic parent hydrides, when there is a choice heteroatoms have the lower possible locants, 
+then indicated hydrogen atoms, followed by free valence suffixes and finally ‘hydro’ prefixes. 
+ru: Для гетеромоноциклических &(parent hydride|ro*), когда есть выбор, гетероатомы имеют наименьшие возможные локанты, 
+затем указываются атомы водорода, затем следуют суффиксы свободной валентности и, наконец, префиксы «гидро».
+
+@Examples
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_pp<_(a-54)@w()>@n(6,60)_p_pp_p//r\|0@n(3,80)<`/@n(4,90)`\>_q_qqN@n(1,0,.5)_q_qq
+$>
+
+en: 3,4-dihydro-1-aza[12]annulen-6-yl  <br>
+1-azacyclododeca-1,5,7,9,11-pentaen-6-yl (preferred prefix) 
+ru: 3,4-дигидро-1-аза[12]аннулен-6-ил <br>
+1-азациклододека-1,5,7,9,11-пентаен-6-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_qq_qNH@n(1,180,.45)_q@n(13,-70)_q@n(12,-80,.5)`\`//`\`//|\\/\\@n(4,30)</@n(3,80)>|@w()
+$>
+
+en: 12,13-dihydro-1_H_-1-aza[13]annulen-4-yl  <br>
+1-azacyclotrideca-2,4,6,8,10-pentaen-4-yl (preferred prefix)
+ru: 12,13-дигидро-1_H_-1-аза[13]аннулен-4-ил <br>
+1-азациклотридека-2,4,6,8,10-пентаен-4-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(2,-30)`\O@n(1,-90,.6)`/||\@n(4,90)/@n(3,90)\@w()
+$>
+
+en: 3,4-dihydro-2H-pyran-3-yl  <br>
+(preferred prefix) 
+ru: 3,4-дигидро-2H-пиран-3-ил <br>
+(предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(2,-30)`\O@n(1,-90,.6)`/@n(6,-150)|@n(5,150)\@n(4,90)/@n(3,90,.5)\\@w()
+$>
+
+en: dihydro-2_H_-pyran-3(4_H_)-ylidene  <br>
+oxan-3-ylidene (preferred prefix) 
+ru: дигидро-2_H_-пиран-3(4_H_)-илиден <br>
+оксан-3-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=\N@n(1,70,.6)<--@w()>`/@n(2,60)`-@n(3,120)`\N@n(4,110,.6)</>`--@w()
+$>
+
+en: 2,3-dihydropyrazine-1,4-diyl (preferred prefix)
+ru: 2,3-дигидропиразин-1,4-диил (предпочтительный префикс)
+
+@End
+
+#P-32.2.2+
+en: For polycyclic mancude compounds, when there is a choice low locants go first to the fixed numbering of the 
+system, then indicated hydrogen, followed by free valence suffix, and finally ‘hydro’ prefixes. 
+ru: Для полициклических &(mancude)-соединений, если есть возможность выбора, сначала идут меньшие локанты в фиксированной 
+нумерации системы, затем &(indicated hydrogen), затем суффикс свободной валентности и, наконец, префикс «гидро».
+
+@Examples
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/<`|@w()>@n(1,-30)\\@n(2,-30)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: 3,4-dihydronaphthalen-1-yl (preferred prefix)
+ru: 3,4-дигидронафталин-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(1,-90)\NH@n(2,150,.5)|<\@w()>@n(3,90)`//`\
+$>
+
+en: 1,2-dihydroisoquinolin-3-yl (preferred prefix) 
+ru: 1,2-дигидроизохинолин-3-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/`\\`|//\@n(8a,160,.45)|<|@w()>@n(4a,-20,.45)\@n(4,70,.3)/@n(3,30)`|@n(2,-30)`\@n(1,-70,.3)`/`|@w()
+$>
+
+en: 1,2,3,4-tetrahydronaphthalene-4a,8a-diyl (preferred prefix)
+ru: 1,2,3,4-тетрагидронафталин-4a,8a-диил (предпочтительный префикс)
+
+@End
+
+
+#P-32.2.3+
+en: When the method of added indicated hydrogen (see P-58.2.2) is used and when a choice is possible, low 
+locants are assigned in accordance with the fixed numbering of the system, then to indicated hydrogen, followed by free 
+valence suffixes, ‘added indicated hydrogen’ atom, and finally to ‘hydro’ prefixes (see P-14.4).
+ru: При использовании метода добавленного &(indicated hydrogen|ro) (см. P-58.2.2) и возможности выбора меньшие локанты 
+присваиваются в соответствии с фиксированной нумерацией системы, затем &(indicated hydrogen|da), затем суффиксам свободной 
+валентности, атому «добавленного &(indicated hydrogen|ro)» и, наконец, префиксам «гидро» (см. P-14.4).
+
+@Examples
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/@n(5,110,.35)`\`||/\\/@n(1,-90)\@n(2,-30)|@n(3,30)`/@n(4,70,.35)`\@n(4a,-20,.45)_(y1.3)@w()
+$>
+
+en: 1,3,4,5-tetrahydronaphthalen-4a(2_H_)-yl (preferred prefix)
+ru: 1,3,4,5-тетрагидронафталин-4a(2_H_)-ил (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N<_(y-.5)H>@n(1,90,.6)\<//@w()>@n(2,40)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: 3,4-dihydroquinolin-2(1_H_)-ylidene (preferred prefix)
+ru: 3,4-дигидрохинолин-2(1_H_)-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//@n(1,90)`\@n(2,90)<`/@w()>`|@n(3,-150)//@n(4,-90)\@n(4a,-90,.5)/@n(5,-90)\|`/@n(8,90)`\
+$>
+
+en: 5,6,7,8-tetrahydronaphthalen-2(4a_H_)-ylidene (preferred prefix) 
+ru: 5,6,7,8-тетрагидронафталин-2(4a_H_)-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(4,90)`\`||/\\|@n(3a,90,.5)_q@n(3,70)_qN@n(2,60,.6)<--@w()>_q<_q>@n(1)_(a54,N2)@w()
+$>
+
+en: 3a,4-dihydro-1_H_-isoindol-2(3_H_)-yl-1-ylidene (preferred prefix) 
+ru: 3a,4-дигидро-1_H_-изоиндол-2(3_H_)-ил-1-илиден (предпочтительный префикс)
+
+@End
+
+#P-32.3
+en: Retained names for substituent groups derived from unsaturated acyclic parent hydrides 
+ru: &(Retained name|*) &(substituent group|ro*), полученных из ненасыщенных ациклических &(parent hydride|ro*)
+
+@p .has-inline-formula
+en: The names vinyl, for <%f1%>; vinylidene, for <%f2%>; allyl, for <%f3%> and allylidene, for <%f4%> allylidyne, for <%f5%>; 
+are retained for general nomenclature only. Substitution is allowed, but not by alkyl 
+or any other group that extends the carbon chain, or characteristic groups expressed by suffixes. The systematic names 
+ethenyl, ethenylidene, prop-2-en-1-yl, prop-2-en-1-ylidene, and prop-2-en-1-ylidyne, respectively, are the preferred 
+IUPAC names.
+ru: Названия винил для <%f1%>; винилиден для <%f2%>; аллил для <%f3%> и аллилиден для <%f4%>, аллилидин для <%f5%> сохранены 
+только для общей номенклатуры. Замещение допускается, но не алкилом или любой другой группой, удлиняющей углеродную цепь, 
+или &(characteristic group|tv*), обозначенными суффиксами. Систематические названия этенил, этенилиден, проп-2-ен-1-ил, 
+проп-2-ен-1-илиден и проп-2-ен-1-илидин, соответственно, являются предпочтительными названиями по ИЮПАК.
+%f1: <$ CH2=CH–{} $>
+%f2: <$ CH2=C={} $>
+%f3: <$ @:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; CH2@n(3)=CH@n(2)-CH2@n(1)-{} $>
+%f4: <$ @:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; CH2@n(3)=CH@n(2)-CH@n(1)={} $>
+%f5: <$ @:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; CH2@n(3)=CH@n(2)-C@n(1)%{} $>
+
+en: The name isopropenyl, for <%f1%>, is a retained name but is not used as a preferred IUPAC name. It is 
+acceptable for general use, but substitution is not allowed. The preferred IUPAC name is prop-1-en-2-yl. 
+ru: Название изопропенил для <%f1%> сохранено, но не используется в качестве предпочтительного названия по ИЮПАК. 
+Оно приемлемо для общего использования, но замена не допускается. Предпочтительное название по ИЮПАК — проп-1-ен-2-ил.
+%f1: <$ CH2=C(CH3)–{} $>
+
+en: The name styryl, for <%f1%>, is a retained name used only in general nomenclature with substitution permitted 
+only on the ring. The preferred IUPAC name is 2-phenylethen-1-yl. 
+ru: Название «стирил» для <%f1%> — это &(retained name), используемое только в общей номенклатуре, с заменой только в кольце. 
+Предпочтительным названием по ИЮПАК является 2-фенилэтен-1-ил.
+%f1: <$ C6H5-CH=CH– $>
+
+#P-32.4
+en: Retained names for substituent groups derived from partially saturated polycyclic parent hydrides 
+ru: &(Retained name|*) &(substituent group|ro*), полученных из частично насыщенных полициклических &(parent hydride|ro*)
+
+en: The prefixes in Table 3.2 are retained but are acceptable only for general nomenclature and may be fully substituted; the 
+preferred prefixes are formed systematically. 
+ru: Префиксы в таблице 3.2 сохранены, но приемлемы только для общей номенклатуры и могут быть полностью заменены; 
+предпочтительные префиксы образуются систематически.
+
+@Table 3.2
+en: Retained names of substituent groups for partially saturated polycyclic parent hydrides
+ru: &(Retained name|*) &(substituent group|ro*) для частично насыщенных полициклических &(parent hydride|ro*)
+
+@td;
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(4,90)`\@n(5,150)`||@n(6,-150)/@n(7,-90)\\|@n(3a,70,.45)_q@n(3,70)_q@n(2,60)<-@w()>_q@n(1,-70)_q@n(7a,-70,.5)
+$>
+
+en: indan-2-yl (also 1-, 4- and 5-isomers)  <br>
+2,3-dihydro-1_H_-inden-2-yl (preferred prefix) (also 1-, 4- and 5-isomers)
+ru: индан-2-ил (также 1-, 4- и 5-изомеры) <br>
+2,3-дигидро-1_H_-инден-2-ил (предпочтительный префикс) (также 1-, 4- и 5-изомеры)
+
+@td
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(4,90)`\@n(5,150)`||@n(6,-150)/@n(7,-90)\\|@n(3a,70,.45)_q@n(3,70)_q@n(2,60)<-@w()>_qN<_(y-.5)H>@n(1,100,.6)_q@n(7a,-70,.5)
+$>
+
+en: indolin-2-yl (also 1-, 3-, 4-, 5-, 6- and 7-isomers)  <br>
+2,3-dihydro-1_H_-indol-2-yl (preferred prefix) (also 1-, 3-, 4-, 5-, 6- and 7-isomers)
+ru: индолин-2-ил (также 1-, 3-, 4-, 5-, 6- и 7-изомеры) <br>
+2,3-дигидро-1_H_-индол-2-ил (предпочтительный префикс) (также 1-, 3-, 4-, 5-, 6- и 7-изомеры)
+
+@td
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(4,90)`\@n(5,150)`||@n(6,-150)/@n(7,-90)\\|@n(3a,70,.45)_q@n(3,70)_qN@n(2,60,.55)<--@w()>_q@n(1,-70)_q@n(7a,-70,.5)
+$>
+
+en: isoindolin-2-yl (also 1-, 4- and 5-isomers)  <br>
+2,3-dihydro-1H-isoindol-2-yl (preferred prefix) (also 1-, 4- and 5-isomers)
+ru: изоиндолин-2-ил (также 1-, 4- и 5-изомеры) <br>
+2,3-дигидро-1H-изоиндол-2-ил (предпочтительный префикс) (также 1-, 4- и 5-изомеры)
+
+@td
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\|@n(4a,90,.45)\@n(4,90)/@n(3,30)`|@n(2,-90)</@w()>`\O`/@n(8a,-90,.5)
+$>
+
+en: chroman-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-chromen-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-1-benzopyran-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes)
+ru: хроман-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-хромен-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-1-бензопиран-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+en: thiochroman-2-yl (S instead of O) (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-thiochromen-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-1-benzothiopyran-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes) 
+ru: тиохроман-2-ил (S вместо O) (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-тиохромен-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-1-бензотиопиран-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+en: selenochroman-2-yl (Se instead of O) (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-selenochromen-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-1-benzoselenopyran-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes) 
+ru: селенохроман-2-ил (Se вместо O) (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-селенохромен-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-1-бензоселенопиран-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+en: tellurochroman-2-yl (Te instead of O) (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-tellurochromen-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-2_H_-1-benzotelluropyran-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes)
+ru: теллурохроман-2-ил (Te вместо O) (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-теллурохромен-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-2_H_-1-бензотеллуропиран-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+@td
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)\\|@n(4a,90,.45)\@n(4,90)/@n(3,-30)<\@w()>`|O@n(2,-30,.55)`\@n(1,-90)`/@n(8a,-90,.5)
+$>
+
+en: isochroman-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1_H_-isochromen-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1_H_-2-benzopyran-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes) 
+ru: изохроман-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1_H_-изохромен-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1_H_-2-бензопиран-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+en: isothiochroman-3-yl (S instead of O) (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1_H_-isothiochromen-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1_H_-2-benzothiopyran-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes)  
+ru: изотиохроман-3-ил (S вместо O) (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1_H_-изотиохромен-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1_H_-2-бензотиопиран-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+en: isoselenochroman-3-yl (Se instead of O) (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1_H_-isoselenochromen-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1_H_-2-benzoselenopyran-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes) 
+ru: изоселенохроман-3-ил (Se вместо O) (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1_H_-изоселенохромен-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1_H_-2-бензоселенопиран-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+en: isotellurochroman-3-yl (Te instead of O) (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1H-isotellurochromen-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+3,4-dihydro-1H-2-benzotelluropyran-3-yl (also 1-, 4-, 5-, 6-, 7- and 8-isomers; preferred prefixes) 
+ru: изотеллурохроман-3-ил (Te вместо O) (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1H-изотеллурохромен-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+3,4-дигидро-1H-2-бензотеллуропиран-3-ил (также 1-, 4-, 5-, 6-, 7- и 8-изомеры; предпочтительные префиксы)
+
+@EndTable

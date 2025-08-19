@@ -1,0 +1,11 @@
+#P-33
+en: Suffixes 
+ru: Суффиксы
+
+#P-34
+en: Functional parent compounds 
+ru: Функциональные &(parent compound|*)
+
+#P-35
+en: Prefixes corresponding to characteristic groups 
+ru: Префиксы, соответствующие &(characteristic group|da*)

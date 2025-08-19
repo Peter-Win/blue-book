@@ -55,6 +55,7 @@
   "cite": "цитировать",
   "cited": "цитируется",
   "cited|*": "цитируются",
+  "cited|s*": "процитированы",
   "citing": "цитирование",
 
   "compound locant": "составной локант",
@@ -184,7 +185,9 @@
   "parent phane hydrocarbon|da": "исходному фановому углеводороду",
 
   "parent structure": "исходная структура",
+  "parent structure|ro": "исходной структуры",
   "parent structure|*": "исходные структура",
+  "parent structure|ro*": "исходных структур",
   "parent structure|tv*": "исходными структурами",
 
   "parent skeleton": "исходный скелет",
@@ -314,6 +317,7 @@
 
   "substituent prefix": "префикс-заместитель",
   "substituent prefix|*": "префиксы-заместители",
+  "substituent prefix|ro*": "префиксов-заместителей",
 
   "substitutive nomenclature": "заместительная номенклатура",
 
