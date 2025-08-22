@@ -153,6 +153,7 @@ const parseTable = (reader) => {
   part.cells = [];
   part.cols = 0;
   part.subtitle = [];
+  part.cls = firstLine.split(/\s+/).filter(s => s[0]===".").map(s => s.slice(1)).join(" ");
   if (res) part.tableId = res[1];
   addPartToDocument(reader.ctx.doc, part);
   let curCell = null;
@@ -169,6 +170,10 @@ const parseTable = (reader) => {
       const rcs = /colspan=(\d+)/.exec(line);
       if (rcs) {
         curCell.colspan = +rcs[1];
+      }
+      const rrs = /rowspan=(\d+)/.exec(line);
+      if (rrs) {
+        curCell.rowspan = +rrs[1];
       }
       part.cells.push(curCell);
       if (line.includes(";") && !part.cols) {

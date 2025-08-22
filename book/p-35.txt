@@ -1,0 +1,3 @@
+#P-35
+en: Prefixes corresponding to characteristic groups 
+ru: Префиксы, соответствующие &(characteristic group|da*)

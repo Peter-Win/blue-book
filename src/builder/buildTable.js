@@ -2,28 +2,35 @@ const {translate} = require("../dictionary");
 const {drawTag} = require("charchem2/dist/utils/xml/drawTag");
 
 const buildTable = (part, locale, text, ctx, buildPart) => {
-  const {tableId="", cells, cols, subtitle} = part; 
+  const {tableId="", cells, cols, subtitle, cls=""} = part; 
   let tablePrefix = "";
   if (tableId) {
     tablePrefix = `${translate("Table", locale)} ${tableId}`;
   }
-  let res = `<div class="std-table-box">`;
+  let topCls = "std-table-box";
+  if (cls) topCls += " " + cls;
+  let res = `<div class="${topCls}">`;
   res += `<div class="std-table-title">${tablePrefix} ${text}</div>`;
   if (subtitle.length > 0) {
     res += `<div class="std-table-subtitle">`;
-    // console.log(subtitle);
     res += subtitle.map(p => buildPart(p, locale, ctx)).join("\n");
     res += `</div>`;
   }
   res += `<table class="std-table">\n`;
   let colIndex = 0;
+  let rowspans = [];
   cells.forEach(cell => {
     if (colIndex === 0) {
+      colIndex = rowspans.length;
       res += "<tr>\n";
     }
     const cellAttrs = {}
     if (cell.colspan) {
       cellAttrs.colspan = String(cell.colspan);
+    }
+    if (cell.rowspan) {
+      cellAttrs.rowspan = String(cell.rowspan);
+      rowspans.push(cell.rowspan-1);
     }
     if (cell.cls) {
       cellAttrs["class"] = cell.cls;
@@ -35,6 +42,7 @@ const buildTable = (part, locale, text, ctx, buildPart) => {
     if (colIndex >= cols) {
       colIndex = 0;
       res += "</tr>\n";
+      rowspans = rowspans.map(n => n-1).filter(n => n>=0);
     }
   });
   res += `</table>\n`;

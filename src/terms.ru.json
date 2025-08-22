@@ -42,16 +42,22 @@
   "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
 
+  "carbohydroxamic acid": "карбогидроксамовая кислота",
+  "carbohydroximic acid": "карбогидроксимовая кислота",
+
   "characteristic [group]": "характеристическая",
   "characteristic [group]|*": "характеристические",
   "characteristic [group]|tv*": "характеристическими",
   "characteristic group": "характеристическая группа",
+  "characteristic group|ro": "характеристической группы",
   "characteristic group|vi": "характеристическую группу",
   "characteristic group|*": "характеристические группы",
+  "characteristic group|ro*": "характеристических групп",
   "characteristic group|da*": "характеристическим группам",
   "characteristic group|tv*": "характеристическими группами",
 
   "citation": "цитирование",
+  "citation|ro": "цитирования",
   "cite": "цитировать",
   "cited": "цитируется",
   "cited|*": "цитируются",
@@ -83,6 +89,9 @@
 
   "concatenated [substituent group]|*": "сцепленные",
 
+  "cumulative suffix": "кумулятивный суффикс",
+  "cumulative suffix|*": "кумулятивные суффиксы",
+
   "cyclophane": "циклофан",
   "cyclophane|*": "циклофаны",
   "cyclophane|ro*": "циклофанов",
@@ -93,6 +102,11 @@
   "detachable [prefix]|*": "отделяемые",
   "detachable [prefix]|ro*": "отделяемых",
   "detachable [prefix]|tv*": "отделяемыми",
+
+  "functional suffix": "функциональный суффикс",
+  "functional suffix|*": "функциональные суффиксы",
+  "functional suffix|ro*": "функциональных суффиксов",
+  "functional suffix|tv*": "функциональными суффиксами",
 
   "fused ring system": "конденсированная кольцевая система",
   "fused ring system|tv": "конденсированной кольцевой системой",
@@ -126,6 +140,9 @@
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
 
+  "hydroxamic acid": "гидроксамовая кислота",
+  "hydroximic acid": "гидроксимовая кислота",
+
   "icos": "эйкоз",
 
   "indicated hydrogen": "указанный водород",
@@ -137,11 +154,21 @@
 
   "indicated hydrogen atom|*": "атомы указанного водорода",
 
+  "imidic acid": "имидовая кислота",
+  "imidic acid|ro*": "имидовых кислот",
+
+  "ium:comment": "Суффикс для таких случаев: methanium - метаний",
+  "ium": "ий",
+
   "mancude:comment": "МАксимальное количество НеКумулятивных Двойных связей",
   "mancude": "манкуд",
 
+  "methanium": "метаний",
+
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",
+
+  "oic acid": "овая кислота",
 
   "parent|*": "исходные",
 
@@ -160,6 +187,8 @@
 
   "parent compound": "исходное соединение",
   "parent compound|*": "исходные соединения",
+  "parent compound|ro*": "исходных соединений",
+  "parent compound|tv*": "исходными соединениями",
 
   "parent heterocycle": "исходный гетероцикл",
   "parent heterocycle|*": "исходные гетероциклы",
@@ -186,6 +215,7 @@
 
   "parent structure": "исходная структура",
   "parent structure|ro": "исходной структуры",
+  "parent structure|pr": "исходной структуре",
   "parent structure|*": "исходные структура",
   "parent structure|ro*": "исходных структур",
   "parent structure|tv*": "исходными структурами",
@@ -193,6 +223,8 @@
   "parent skeleton": "исходный скелет",
   "parent skeleton|ro": "исходного скелета",
   "parent skeleton|pr": "исходном скелете",
+
+  "peroxol": "пероксол",
 
   "phane": "фан",
   "phane|*": "фаны",
@@ -269,6 +301,7 @@
 
   "retained name": "сохранённое название",
   "retained name|*": "сохранённые названия",
+  "retained name|ro*": "сохранённых названий",
   "retained name|tv*": "сохранёнными названиями",
 
   "[ring] assembly|comment": "часто имеет прилагательные, которые сейчас в женском роде. Если изменить на 'ансамбль', то нужно исправлять",
@@ -289,6 +322,10 @@
   "ring junction": "место соединения колец",
   "ring junction|ro*": "мест соединений колец",
   "ring junction|da*": "местам соединений колец",
+
+  "seleninic acid": "селениновая кислота",
+  "seleninohydrazide": "селениногидразид",
+  "selenonic acid": "селеноновая кислота",
 
   "skeletal replacement a": "скелетное замещения (‘a’)",
   "skeletal replacement a|ro": "скелетного замещения (‘a’)",
@@ -320,6 +357,10 @@
   "substituent prefix|ro*": "префиксов-заместителей",
 
   "substitutive nomenclature": "заместительная номенклатура",
+  "substitutive nomenclature|pr": "заместительной номенклатуре",
+
+  "tellurinic acid": "теллуриновая кислота",
+  "telluronic acid": "теллуроновая кислота",
 
   "zzz": ""
 }

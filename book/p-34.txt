@@ -1,0 +1,173 @@
+#P-34
+en: Functional parent compounds 
+ru: Функциональные &(parent compound|*)
+
+@Content
+
+#P-34.0
+en: Introduction 
+ru: Введение
+
+en: Many trivial and semisystematic names have been used in organic chemistry. As systematic names have been 
+increasingly recommended, the number of retained names (trivial and semisystematic) has been gradually reduced, in 
+the 1979 Rules (ref. 1) and again in the 1993 Guide (ref. 2). Functional parent compounds have been defined and 
+discussed in Section P-15.1.2 dealing with substitutive nomenclature. This subsection describes the 2005 codification of 
+the list of functional parent compounds established in 1993 as far as their classification as preferred IUPAC names or 
+names that are to be used only in general and specialized (see Chapter P-10) nomenclature is concerned.
+ru: В органической химии используется множество тривиальных и полусистематических названий. По мере того, как систематические 
+названия всё чаще рекомендуются, число &(retained name|ro*) (тривиальных и полусистематических) постепенно сокращалось 
+в Правилах 1979 г. (ссылка 1) и затем в Руководстве 1993 г. (ссылка 2). Функциональные &(parent compound|*) определены и 
+обсуждаются в разделе P-15.1.2, посвящённом &(substitutive nomenclature|pr). В этом подразделе описывается кодификация 2005 г. 
+списка функциональных &(parent compound|ro*), составленного в 1993 г., в части их классификации как предпочтительных названий 
+ИЮПАК или названий, которые должны использоваться только в общей и специальной (см. главу P-10) номенклатуре.
+
+en: Names recommended as preferred IUPAC names are described in the following section, P-34.1. Names that are 
+recommended for general and specialized nomenclature are discussed in P-34.2, Chapter P-6, and Chapter P-10 along 
+with systematic substitutive names recommended for the different classes of compounds. 
+ru: Названия, рекомендуемые в качестве предпочтительных названий ИЮПАК, описаны в следующем разделе P-34.1. Названия, 
+рекомендуемые для общей и специальной номенклатуры, обсуждаются в P-34.2, главах P-6 и P-10, а также систематические замещающие 
+названия, рекомендуемые для различных классов соединений.
+
+#P-34.1
+en: Retained functional parent compounds 
+ru: Сохраненные функциональные &(parent compound|*)
+
+en: The retained names of the following functional parent compounds are used as preferred IUPAC names, as well as in 
+general and specialized nomenclature. The lists in P-34.1.1 and P-34.1.2 are exhaustive for preferred IUPAC names; for 
+more retained names of functional parent compounds recommended for use in general and specialized nomenclature, 
+see P-34.1.3. The type of substitution (allowed or not) is specified for each compound in accordance with the general 
+methodology indicated in P-15.1.8.
+ru: &(Retained name|*) следующих функциональных &(parent compound|ro*) используются в качестве предпочтительных названий ИЮПАК, 
+а также в общей и специальной номенклатуре. Списки предпочтительных названий ИЮПАК, представленные в P-34.1.1 и P-34.1.2, 
+являются исчерпывающими; другие сохранившиеся названия функциональных исходных соединений, рекомендуемые для использования 
+в общей и специальной номенклатуре, см. в P-34.1.3. Тип замещения (допустимый или нет) указывается для каждого соединения 
+в соответствии с общей методологией, изложенной в P-15.1.8.
+
+en: Inorganic functional parent compounds are acids and related compounds denoted by retained names that are preselected 
+(see P-12.2); they are discussed in P-34.1.4. 
+ru: Неорганические функциональные &(parent compound|*) — это кислоты и родственные соединения, обозначаемые сохраненными 
+названиями, которые выбираются заранее (см. P-12.2); они обсуждаются в P-34.1.4.
+
+@Content
+
+#P-34.1.1
+en: Organic functional parent compounds (arranged by characteristic group class) 
+ru: Органические функциональные &(parent compound|*) (сортированные по характерным группам)
+
+#P-34.1.1.1
+en: Acids
+ru: Кислоты
+
+@Examples --
+
+@cell
+<$ CH3-COOH $>
+
+en: acetic acid (PIN)  <br>
+(substitution allowed; see P-65.1.1.1)  <br>
+ethanoic acid 
+ru: уксусная кислота (PIN) <br>
+(допускается замена; см. P-65.1.1.1) <br>
+уксусная кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)/COOH
+$>
+
+en: benzoic acid (PIN) <br> 
+(substitution allowed; see P-65.1.1.1)  <br>
+benzenecarboxylic acid 
+ru: бензойная кислота (PIN) <br>
+(замещение допускается; см. P-65.1.1.1) <br>
+бензолкарбоновая кислота
+
+@cell
+<$ H2N-COOH $>
+
+en: carbamic acid (PIN) <br>
+(substitution allowed; see P-65.2.1.1)  <br>
+carbonamidic acid  
+ru: карбаминовая кислота (PIN) <br>
+(допускается замена; см. P-65.2.1.1) <br>
+карбамидная кислота
+// http://charchem.org/ru/subst-ref/?id=900
+
+@cell
+<$ HO-CO-OH $>
+
+en: carbonic acid (PIN) (see P-65.2.1) 
+ru: угольная кислота (PIN) (см. P-65.2.1)
+// http://charchem.org/ru/subst-ref/?id=242
+
+@cell
+<$ NC-OH $>
+
+en: cyanic acid (PIN)  <br>
+carbononitridic acid (see P-65.2.2) 
+ru: циановая кислота (PIN) <br>
+карбонитридная кислота (см. P-65.2.2)
+// http://charchem.org/ru/subst-ref/?id=3079
+
+@cell
+<$ H-COOH $>
+
+en: formic acid (PIN)  <br>
+(limited substitution see P-65.1.8)  <br>
+methanoic acid 
+ru: муравьиная кислота (PIN) <br>
+(ограниченная замена, см. P-65.1.8) <br>
+метановая кислота
+// http://charchem.org/ru/subst-ref/?id=8
+
+@cell
+<$ HOOC-COOH $>
+
+en: oxalic acid (PIN)  <br>
+(see P-65.1.1.1)  <br>
+ethanedioic acid 
+ru: щавелевая кислота (PIN) <br>
+(см. P-65.1.1.1) <br>
+этандиовая кислота
+// http://charchem.org/ru/subst-ref/?id=430
+
+@cell
+<$ H2N-CO-COOH $>
+
+en: oxamic acid (PIN)  <br>
+(substitution allowed; see P-65.1.6.1)  <br>
+amino(oxo)acetic acid 
+ru: оксаминовая кислота (PIN) <br>
+(замещение допускается; см. P-65.1.6.1) <br>
+амино(оксо)уксусная кислота
+// http://charchem.org/ru/subst-ref/?id=3468
+
+@cell
+<$ H2N-C(=NH)-OH $>
+
+en: carbamimidic acid  <br>
+(PIN; see P-65.2.1.3)  <br>
+carbonamidimidic acid 
+ru: карбамид&(imidic acid) <br>
+(PIN; см. P-65.2.1.3) <br>
+карбонамид&(imidic acid)
+
+@End
+
+#P-34.1.2
+en: Organic functional parent compounds (arranged alphabetically)  
+ru: Органические функциональные &(parent compound|*) (в алфавитном порядке)
+
+#P-34.1.3
+en: Organic functional parent compounds for general and specialized nomenclature 
+ru: Органические функциональные &(parent compound|*) для общей и специальной номенклатуры
+
+#P-34.1.4
+en: Inorganic functional parent compounds 
+ru: Неорганические функциональные &(parent compound|*)
+
+
+#P-34.2
+en: Substituent groups related to functional parent compounds 
+ru: &(Substituent group|*), связанные с функциональными &(parent compound|tv*)
