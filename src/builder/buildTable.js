@@ -2,7 +2,7 @@ const {translate} = require("../dictionary");
 const {drawTag} = require("charchem2/dist/utils/xml/drawTag");
 
 const buildTable = (part, locale, text, ctx, buildPart) => {
-  const {tableId="", cells, cols, subtitle, cls=""} = part; 
+  const {tableId="", cells, cols, subtitle, cls="", sort} = part; 
   let tablePrefix = "";
   if (tableId) {
     tablePrefix = `${translate("Table", locale)} ${tableId}`;
@@ -17,12 +17,30 @@ const buildTable = (part, locale, text, ctx, buildPart) => {
     res += `</div>`;
   }
   res += `<table class="std-table">\n`;
+
+  // row structure:
+  // - isHeader: boolean
+  // - cells: Cell[]
+  // cell structure:
+  // - tag
+  // - attrs
+  // - content
+
+  let rows = [];
+  let curRow;
+
+  // build rows
   let colIndex = 0;
   let rowspans = [];
+
   cells.forEach(cell => {
     if (colIndex === 0) {
       colIndex = rowspans.length;
-      res += "<tr>\n";
+      curRow = {
+        isHeader: false,
+        cells: [],
+      }
+      rows.push(curRow);
     }
     const cellAttrs = {}
     if (cell.colspan) {
@@ -35,16 +53,41 @@ const buildTable = (part, locale, text, ctx, buildPart) => {
     if (cell.cls) {
       cellAttrs["class"] = cell.cls;
     }
-    res += drawTag(cell.type, cellAttrs) + `\n`;
-    res += cell.parts.map(cell => buildPart(cell, locale, ctx)).join("\n");
-    res += `</${cell.type}>\n`;
+    curRow.cells.push({
+      tag: cell.type,
+      attrs: cellAttrs,
+      content: cell.parts.map(cell => buildPart(cell, locale, ctx)).join("\n"),
+    })
     colIndex += cell.colspan || 1;
     if (colIndex >= cols) {
       colIndex = 0;
       res += "</tr>\n";
       rowspans = rowspans.map(n => n-1).filter(n => n>=0);
+      curRow.isHeader = curRow.cells.every(({tag}) => tag === "th");
     }
   });
+
+  // possible sorting
+  if (sort) {
+    const header = rows.filter(({isHeader}) => isHeader);
+    const lines = rows.filter(({isHeader}) => !isHeader);
+    // в таком названии как (диаминометилиден)амино при сортировке нужно игнорировать скобки
+    const getText = (row) => row.cells[0].content.replace(/\(/g, "");
+    lines.sort((a, b) => getText(a).localeCompare(getText(b)));
+    rows = [...header, ...lines];
+  }
+
+  // draw rows
+  rows.forEach(row => {
+    res += "<tr>\n";
+    row.cells.forEach(({tag, attrs, content}) => {
+      res += drawTag(tag, attrs) + `\n`;
+      res += content + "\n";
+      res += `</${tag}>\n`;      
+    });
+    res += "</tr>\n";
+  })
+
   res += `</table>\n`;
   res += `</div>\n`;
   return res;

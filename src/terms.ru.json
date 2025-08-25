@@ -64,6 +64,9 @@
   "cited|s*": "процитированы",
   "citing": "цитирование",
 
+  "complex substituent prefix": "сложный замещающий префикс",
+  "complex substituent prefix|*": "сложные замещающие префиксы",  
+
   "compound locant": "составной локант",
   "compound locant|few": "составных локанта",
   "compound locant|da": "составному локанту",
@@ -81,6 +84,9 @@
   "compound substituent group|ro": "составной замещающей группы",
   "compound substituent group|*": "составные замещающие группы",
   "compound substituent group|ro*": "составных замещающих групп",
+
+  "compound substituent prefix": "составной замещающий префикс",
+  "compound substituent prefix|*": "составные замещающие префиксы",
 
   "composite locant": "композитный локант",
   "composite locant|tv": "композитным локантом",
@@ -164,6 +170,9 @@
   "mancude": "манкуд",
 
   "methanium": "метаний",
+
+  "mixed substituent prefix": "смешанный замещающий префикс",
+  "mixed substituent prefix|*": "смешанные замещающие префиксы",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",

@@ -1,3 +1,27 @@
 #P-35
 en: Prefixes corresponding to characteristic groups 
 ru: Префиксы, соответствующие &(characteristic group|da*)
+
+#P-35.0
+en: Introduction 
+ru: Введение
+
+#P-35.1
+en: General methodology 
+ru: Общая методология
+
+#P-35.2
+en: Simple prefixes denoting characteristic groups 
+ru: Простые префиксы, обозначающие &(characteristic group|*)
+
+#P-35.3
+en: Compound substituent prefixes 
+ru: &(Compound substituent prefix|*)
+
+#P-35.4
+en: Complex substituent prefixes 
+ru: &(Complex substituent prefix|*)
+
+#P-35.5
+en: Mixed substituent prefixes 
+ru: &(Mixed substituent prefix|*)

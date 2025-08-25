@@ -154,6 +154,10 @@ const parseTable = (reader) => {
   part.cols = 0;
   part.subtitle = [];
   part.cls = firstLine.split(/\s+/).filter(s => s[0]===".").map(s => s.slice(1)).join(" ");
+  const sortRes = /\s+sort\(([^\)]*)\)/.exec(firstLine);
+  if (sortRes) {
+    part.sort = sortRes[1] || "1";
+  }
   if (res) part.tableId = res[1];
   addPartToDocument(reader.ctx.doc, part);
   let curCell = null;
