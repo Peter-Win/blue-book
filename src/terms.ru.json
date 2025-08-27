@@ -64,6 +64,7 @@
   "cited|s*": "процитированы",
   "citing": "цитирование",
 
+  "complex [prefix]|*": "сложные",
   "complex substituent prefix": "сложный замещающий префикс",
   "complex substituent prefix|*": "сложные замещающие префиксы",  
 
@@ -85,6 +86,8 @@
   "compound substituent group|*": "составные замещающие группы",
   "compound substituent group|ro*": "составных замещающих групп",
 
+  "compound [prefix]|*": "составные",
+  "compound [prefix]|ro*": "составных",
   "compound substituent prefix": "составной замещающий префикс",
   "compound substituent prefix|*": "составные замещающие префиксы",
 
@@ -109,6 +112,10 @@
   "detachable [prefix]|ro*": "отделяемых",
   "detachable [prefix]|tv*": "отделяемыми",
 
+  "functional parent": "функциональный родитель",
+  "functional parent|*": "функциональные родители",
+  "functional parent|ro*": "функциональных родителей",
+  
   "functional suffix": "функциональный суффикс",
   "functional suffix|*": "функциональные суффиксы",
   "functional suffix|ro*": "функциональных суффиксов",
@@ -173,6 +180,7 @@
 
   "mixed substituent prefix": "смешанный замещающий префикс",
   "mixed substituent prefix|*": "смешанные замещающие префиксы",
+  "mixed substituent prefix|ro*": "смешанных замещающих префиксов",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",
@@ -197,6 +205,7 @@
   "parent compound": "исходное соединение",
   "parent compound|*": "исходные соединения",
   "parent compound|ro*": "исходных соединений",
+  "parent compound|da*": "исходным соединениям",
   "parent compound|tv*": "исходными соединениями",
 
   "parent heterocycle": "исходный гетероцикл",
@@ -366,7 +375,11 @@
   "substituent prefix|ro*": "префиксов-заместителей",
 
   "substitutive nomenclature": "заместительная номенклатура",
+  "substitutive nomenclature|ro": "заместительной номенклатуры",
   "substitutive nomenclature|pr": "заместительной номенклатуре",
+
+  "substitutive prefix": "заместительный префикс",
+  "substitutive prefix|*": "заместительные префиксы",
 
   "tellurinic acid": "теллуриновая кислота",
   "telluronic acid": "теллуроновая кислота",
