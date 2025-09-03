@@ -66,7 +66,9 @@
 
   "complex [prefix]|*": "сложные",
   "complex substituent prefix": "сложный замещающий префикс",
+  "complex substituent prefix|ro": "сложного замещающего префикса",
   "complex substituent prefix|*": "сложные замещающие префиксы",  
+  "complex substituent prefix|ro*": "сложных замещающих префиксов",  
 
   "compound locant": "составной локант",
   "compound locant|few": "составных локанта",
@@ -86,10 +88,14 @@
   "compound substituent group|*": "составные замещающие группы",
   "compound substituent group|ro*": "составных замещающих групп",
 
+  "compound [prefix]|ro": "составного",
   "compound [prefix]|*": "составные",
   "compound [prefix]|ro*": "составных",
   "compound substituent prefix": "составной замещающий префикс",
+  "compound substituent prefix|ro": "составного замещающего префикса",
+  "compound substituent prefix|da": "составному замещающему префиксу",
   "compound substituent prefix|*": "составные замещающие префиксы",
+  "compound substituent prefix|ro*": "составных замещающих префиксов",
 
   "composite locant": "композитный локант",
   "composite locant|tv": "композитным локантом",
@@ -369,6 +375,8 @@
   "substituent group|*": "замещающие группы",
   "substituent group|ro*": "замещающих групп",
   "substituent group|tv*": "замещающими группами",
+  "substituent group|pr*": "замещающих группах",
+
 
   "substituent prefix": "префикс-заместитель",
   "substituent prefix|*": "префиксы-заместители",
@@ -382,7 +390,9 @@
   "substitutive prefix|*": "заместительные префиксы",
 
   "tellurinic acid": "теллуриновая кислота",
+  "tellurinic acid|*": "теллуриновые кислоты",
   "telluronic acid": "теллуроновая кислота",
+  "telluronic acid|*": "теллуроновые кислоты",
 
   "zzz": ""
 }

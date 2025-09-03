@@ -223,7 +223,7 @@ const parseFig = (reader, figId) => {
   part.figId = figId;
 }
 
-const parseList = (reader) => {
+const parseList = (reader, ownerItem) => {
   const firstLine = reader.readLine();
   const chunks = firstLine.split(/\s/);
   const part = {
@@ -233,12 +233,20 @@ const parseList = (reader) => {
     items: [],
     nums: chunks[1],
   }
-  addPartToDocument(reader.ctx.doc, part);
+  if (ownerItem) {
+    ownerItem.push(part);
+  } else {
+    addPartToDocument(reader.ctx.doc, part);
+  }
   let curItem = [];
 
   while (!reader.isEnd) {
     const line = reader.readLine();
     if (!line.trim()) continue;
+    if (line.startsWith("@List")) {
+      parseList(reader, curItem);
+      continue;
+    }
     if (line.trim() === "@End") break;
     if (line.startsWith("@item")) {
       curItem = [];

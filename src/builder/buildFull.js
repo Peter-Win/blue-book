@@ -14,7 +14,9 @@ const buildFull = async (doc, rootPath) => {
   )));
   const ctx = {
     doc,
-    terms: {}, // locale => terms dictionary    
+    terms: {}, // locale => terms dictionary
+    goodRefs: 0,
+    badRefs: 0,
     makeRef(refId) {
       // Вариант урла, который включает только якорь. То есть, предполагается что весь текст на одной странице.
       return "#" + encodeURIComponent(refId);
@@ -56,6 +58,14 @@ const buildLocal = async (locale, ctx, fullName) => {
     body: textBlocks.join("\n"),
   });
   await writeFile(fullName, content, {encoding: "utf-8"});
+  const stat = (a, b) => {
+    const sum = a + b;
+    if (!sum) return "-";
+    return `${a} (${(a*100/sum).toFixed(2)}%)`
+  }
+  if (locale==="en") {
+    console.log(`good refs= ${stat(ctx.goodRefs, ctx.badRefs)}, bad refs= ${stat(ctx.badRefs, ctx.goodRefs)}`);
+  }
 }
 
 const template = ({title, body}) => `<!doctype html>

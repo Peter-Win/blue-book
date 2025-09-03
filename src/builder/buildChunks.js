@@ -45,8 +45,10 @@ const buildChunk = (chunk, params, ctx) => {
     if (chunk.part) {
       attrs.href = ctx.makeRef(content);
       attrs["class"] = "p-ref";
+      ctx.goodRefs++;
     } else {
       attrs["class"] = "wrong-part";
+      ctx.badRefs++;
     }
     return drawTag("a", attrs) + content + `</a>`;
   }

@@ -1,0 +1,1274 @@
+#P-4 
+en: Rules for name construction
+ru: Правила построения имени
+
+@Content
+
+#P-40
+en: Introduction 
+ru: Введение
+
+en: In this Chapter, principles regarding name construction are presented. It is recognized that in chemical discussions it 
+may sometimes be convenient to depart from rigorous rules in order to provide a name more appropriate to the chemical 
+intent or to avoid obscuring an important feature. However, such deviations should not be done without good reason, 
+and names so derived are not recommended for general use in publications. 
+ru: В этой главе изложены принципы построения имён. Признаётся, что при обсуждении химических вопросов иногда бывает удобно 
+отступить от строгих правил, чтобы выбрать название, более соответствующее химическому назначению, или избежать искажения 
+важной характеристики. Однако такие отклонения не следует допускать без веских оснований, и полученные таким образом названия 
+не рекомендуются для широкого использования в публикациях.
+
+en: The application of the principles and rules described in this Chapter has been devised to lead to a preferred IUPAC 
+name. Preferred IUPAC names are not necessarily the aim of a practicing chemist who wants to communicate with his 
+colleagues in familiar, well understood terms, but it may be appropriate to those who cite chemical names in legislative 
+documents, in international trade and commerce, or for preparing programs for index purposes, databases, and retrieval 
+systems.
+ru: Применение принципов и правил, описанных в этой главе, направлено на определение предпочтительного названия по ИЮПАК. 
+Предпочтительные названия по ИЮПАК не обязательно предназначены для практикующего химика, желающего общаться с коллегами 
+в привычной и понятной терминологии, но могут быть полезны тем, кто использует химические названия в законодательных документах, 
+в международной торговле и коммерции, а также для разработки программ для индексирования, баз данных и поисковых систем.
+
+en: This Chapter includes the general rules and orders of seniority used in substitutive nomenclature and in other types of 
+nomenclature when required. 
+ru: В данной главе излагаются общие правила и порядки старшинства, используемые в &(substitutive nomenclature|pr) и в других 
+типах номенклатуры при необходимости.
+
+#P-41
+en: Seniority order for classes 
+ru: Старшинство по классам
+
+en: The order of seniority of classes is given in Table 4.1. It ranks classes expressed by suffixes (classes 1 through 20) and 
+classes based on the senior atom in compounds (classes 21 through 43). * 
+ru: Порядок старшинства классов приведён в таблице 4.1. В ней ранжируются классы, выраженные суффиксами (классы с 1 по 20), 
+и классы, основанные на старшем атоме в соединениях (классы с 21 по 43). *
+
+@Table 4.1 
+en: General compound classes listed in decreasing order of seniority 
+ru: Общие составные классы, перечисленные в порядке убывания старшинства
+
+@EndTable
+
+@List 1
+
+@item
+en: Radicals
+ru: Радикалы
+
+@item
+en: Radical anions 
+ru: Анион-радикалы
+
+@item
+en: Radical cations 
+ru: Катион-радикалы
+
+@item
+en: Anions 
+ru: Анионы
+
+@item
+en: Zwitterions
+ru: Цвиттерионы
+
+@item
+en: Cations 
+ru: Катионы
+
+@item
+en: Acids 
+ru: Кислоты
+
+@List a
+// В оригинале элементы нумеруются 7a, 7b... Но в CSS такого варианта нет. Поэтому просто a, b...
+
+@item
+en:  ‘Suffix’ acids in the order carboxylic (not including carbonic or polycarbonic acids, which belong to sub-class 
+‘7b’), sulfonic, sulfinic, selenonic, seleninic, telluronic, tellurinic, each followed in turn by the corresponding 
+peroxy, imidic, and hydrazonic acids. Chalcogen analogues follow each of the corresponding oxygen acids and, in 
+each case, the chalcogen analogue with the greater number of the preferred chalcogen atom <%order%>, 
+considered first in −OOH groups, then in −OH groups as necessary. (See P-42 for the complete list of seniority of 
+acids, P-43 for suffixes modified by functional replacement, and Table 4.4 for an extensive list of the order of 
+seniority of all these suffixes.)
+ru: «Суффиксные» кислоты в порядке старшинства: карбоновые (не включая угольные и поликарбоновые кислоты, относящиеся к 
+подклассу «7b»), сульфоновые, сульфиновые, селеноковые, селениновые, теллуроновые, теллуриновые, за каждой из которых следуют 
+соответствующие перокси, имидовые и гидразоновые кислоты. Аналоги халькогенов следуют за каждой из соответствующих 
+кислородсодержащих кислот и, в каждом случае, за аналогом халькогена с большим числом предпочтительных атомов халькогена 
+<%order%>, рассматриваемым сначала в группах −OOH, затем в группах −OH, по мере необходимости. (См. полный список старшинства 
+кислот в P-42, суффиксы, модифицированные функциональной заменой, в P-43 и расширенный список порядка старшинства всех этих 
+суффиксов в Таблице 4.4.)
+%order: (O > S > Se > Te)
+
+@item
+en: Carbon acids with no substitutable hydrogen atoms in the order polynuclear carbonic acids (tricarbonic acid, 
+dicarbonic acid), then carbonic acid, and cyanic acid. 
+// Гугл утверждает что: "Carbon acids" most commonly refers to carbonic acid (H₂CO₃)
+ru: Углеродные кислоты без замещаемых атомов водорода в ряду полиядерных карбоновых кислот (триугольная кислота, 
+диугольная кислота), затем угольная кислота и циановая кислота.
+
+@item
+en: Oxoacids having substitutable hydrogen atoms attached to their central atoms and their acidic derivatives in the 
+following decreasing order of seniority: azonic, azinic, phosphonic, phosphinic, phosphonous, phosphinous acids, 
+etc. (see P-42 for the complete list). 
+ru: Оксокислоты, имеющие замещаемые атомы водорода, присоединенные к их центральным атомам, и их кислотные производные 
+в следующем порядке убывания старшинства: азоновые, азиновые, фосфоновые, фосфиновые, фосфонистые, фосфинистые кислоты и т. д. 
+(см. полный список на P-42).
+
+@item
+en: Mononuclear and polynuclear oxoacids other than carbon acids without substitutable hydrogen atoms attached to 
+their central atom (see 7b, above), but which may be functionalized or may form derivatives by functional 
+replacement, which have substitutable hydrogen atoms. 
+ru: Моноядерные и полиядерные оксокислоты, отличные от карбоновых кислот, не содержащие замещаемых атомов водорода, 
+присоединенных к их центральному атому (см. 7b выше), но которые могут быть функционализированы или могут образовывать 
+производные путем функционального замещения, которые имеют замещаемые атомы водорода.
+
+@item
+en: Other monobasic ‘oxoacids’ used as functional parent compounds. 
+ru: Другие одноосновные «оксокислоты», используемые в качестве функциональных исходных соединений.
+
+@End
+
+@item
+en: Anhydrides [substitutive nomenclature is used for cyclic anhydrides that are named as heterocycles (see 16 below); 
+functional class names are given to acyclic anhydrides and to a few cyclic anhydrides corresponding to acids having 
+retained names; cyclic anhydrides are preferred over noncyclic anhydrides, when functional names are used]. 
+ru: Ангидриды [для циклических ангидридов, называемых гетероциклами, используется &(substitutive nomenclature) (см. 16 ниже);
+названия функциональных классов даны ациклическим ангидридам и нескольким циклическим ангидридам, соответствующим кислотам с 
+&(retained name|tv*); при использовании функциональных названий циклические ангидриды предпочтительнее нециклических ангидридов].
+
+@item
+en: Esters (functional class names are given to noncyclic esters; lactones and other cyclic esters are named as 
+heterocycles; see 16 below).
+ru: Сложные эфиры (названия функциональных классов даны нециклическим сложным эфирам; лактоны и другие циклические 
+сложные эфиры именуются как гетероциклы; см. 16 ниже).
+
+@item
+en: Acid halides and pseudohalides [first in the order of the corresponding acid given above, then in the order of the 
+halogen atoms <%h%>; then in the following order of pseudohalogen groups <%ph%>]. 
+ru: Галогенангидриды и псевдогалогениды [сначала в порядке соответствующей кислоты, указанной выше, затем в порядке атомов 
+галогенов <%h%>; затем в следующем порядке псевдогалогеновых групп <%ph%> ].
+%h: (–F > –Cl > –Br > –I)
+%ph: ( –N_{3} > –CN > –NC > –NCO > –NCS > –NCSe > –NCTe > –CNO)
+
+@item
+en: Amides [in the order of the corresponding acids; cyclic amides are named as heterocycles (see class 16 below)]. 
+ru: Амиды [в порядке соответствующих кислот; циклические амиды называются гетероциклами (см. класс 16 ниже)].
+
+@item
+en: Hydrazides (in the order of the corresponding acids). 
+ru: Гидразиды (в порядке соответствующих кислот).
+
+@item
+en: Imides (includes only cyclic imides derived from organic di- or polybasic acids having retained names). 
+ru: Имиды (включает только циклические имиды, полученные из органических ди- или многоосновных кислот, имеющих &(retained name|*)).
+
+@item
+en: Nitriles.
+ru: Нитрилы.
+
+@item
+en: Aldehydes and chalcogen analogues.
+ru: Альдегиды и халькогеновые аналоги.
+
+@item
+en: Ketones (of the type –C-CO-C–), pseudoketones (of the type –C-CO-X , X-CO-X, or –CO-X-CO–, where X ≠ C, 
+halogen, pseudohalogen, or NH_{2}, see P-64.1.2) and heterones (see P-64.4). See Classes 8, 9, 11 and 13, on lactones, 
+lactams, anhydrides, imides. 
+ru: Кетоны (типа –C-CO-C–), псевдокетоны (типа –C-CO-X, X-CO-X или –CO-X-CO–, где X ≠ C, галоген, псевдогалоген или NH_{2}, 
+см. P-64.1.2) и гетероны (см. P-64.4). См. классы 8, 9, 11 и 13, посвященные лактонам, лактамам, ангидридам и имидам.
+
+@item
+en: Hydroxy compounds and chalcogen analogues (includes alcohols and phenols, which no longer have a separate 
+ranking order). 
+ru: Гидроксисоединения и халькогеновые аналоги (включая спирты и фенолы, которые больше не имеют отдельного порядка ранжирования).
+
+@item
+en: Hydroperoxides (peroxols), i.e., –OOH.
+ru: Гидропероксиды (пероксолы), т. е. –ООН.
+
+@item
+en: Amines (defined as having three single covalent attachments to a nitrogen atom, i.e., NR_{3}). 
+ru: Амины (определяются как имеющие три простые ковалентные связи с атомом азота, т. е. NR_{3}).
+
+@item
+en: Imines, R=NH or R=N-R′. 
+ru: Имины, R=NH или R=N-R′. 
+
+@End
+
+en: **Classes denoted by the senior atom in heterane nomenclature**
+ru: **Классы, обозначенные старшим атомом в номенклатуре гетеранов**
+
+@List 21
+
+@item
+en: Nitrogen compounds: heterocycles, polyazanes, hydrazines (except for hydrazides), diazenes, hydroxylamines, 
+azanes (except for amides, amines, and imines) 
+ru: Азотистые соединения: гетероциклы, полиазаны, гидразины (кроме гидразидов), диазены, гидроксиламины, 
+азаны (кроме амидов, аминов и иминов)
+
+@item
+en: Phosphorus compounds: heterocycles, polyphosphanes, phosphanes 
+ru: Соединения фосфора: гетероциклы, полифосфаны, фосфаны
+
+@item
+en: Arsenic compounds: heterocycles, polyarsanes, arsanes
+ru: Соединения мышьяка: гетероциклы, полиарсаны, арсаны
+
+@item
+en: Antimony compounds: heterocycles, polystibanes, stibanes
+ru: Соединения сурьмы: гетероциклы, полистибаны, стибаны
+
+@item
+en: Bismuth compounds: heterocycles, polybismuthanes, bismuthanes
+ru: Соединения висмута: гетероциклы, поливисмутаны, висмутаны
+
+@item
+en: Silicon compounds: heterocycles, polysilanes, silanes
+ru: Кремниевые соединения: гетероциклы, полисиланы, силаны
+
+@item
+en: Germanium compounds: heterocycles, polygermanes, germanes
+ru: Соединения германия: гетероциклы, полигерманы, германы
+
+@item
+en: Tin compounds: heterocycles, polystannanes, stannanes
+ru: Соединения олова: гетероциклы, полистаннаны, станнаны
+
+@item
+en: Lead compounds: heterocycles, polyplumbanes, plumbanes
+ru: Соединения свинца: гетероциклы, полиплюмбаны, плюмбаны
+
+@item
+en: Boron compounds: heterocycles, polyboranes, boranes
+ru: Соединения бора: гетероциклы, полибораны, бораны
+
+@item
+en: Aluminium compounds: heterocycles, polyalumanes, alumanes
+ru: Соединения алюминия: гетероциклы, полиалюманы, алюманы
+
+@item
+en: Gallium compounds: heterocycles, polygallanes, gallanes
+ru: Соединения галлия: гетероциклы, полигалланы, галланы
+
+@item
+en: Indium compounds: heterocycles, polyindiganes, indiganes
+ru: Соединения индия: гетероциклы, полииндиганы, индиганы
+
+@item
+en: Thallium compounds: heterocycles, polythallanes, thallanes
+ru: Соединения таллия: гетероциклы, политалланы, талланы
+
+@item
+en: Oxygen compounds: heterocycles, polyoxidanes (trioxidane but not peroxides or ethers) 
+ru: Кислородные соединения: гетероциклы, полиоксиданы (триоксиданы, но не пероксиды или эфиры)
+
+@item
+en: Sulfur compounds: heterocycles, polysulfanes (trisulfane, λ^{6} and λ^{4} mono and disulfanes, but not disulfides or 
+sulfides) 
+ru: Соединения серы: гетероциклы, полисульфаны (трисульфан, λ^{6} и λ^{4} моно- и дисульфаны, но не дисульфиды или
+сульфиды)
+
+@item
+en: Selenium compounds: heterocycles, polyselanes (triselane but not diselenides, selenides)
+ru: Соединения селена: гетероциклы, полиселаны (триселены, но не диселениды, селениды)
+
+@item
+en: Tellurium compounds: heterocycles, polytellanes (tritellane but not ditellurides, tellurides) 
+ru: Соединения теллура: гетероциклы, полителланы (трителланы, но не дителлуриды, теллуриды)
+
+@item
+en: λ^{7}, λ^{5} and λ^{3} halogen compounds in the order <%o%>.
+ru: λ^{7}, λ^{5} и λ^{3} галогеновые соединения в порядке <%o%>.
+%o: F > Cl > Br > I
+
+@item
+en:  Carbon compounds: rings, chains 
+ru: Углеродные соединения: кольца, цепи
+
+@item
+en: Ethers, then sulfides, sulfoxides, sulfones; then selenides, selenoxides, etc. 
+ru: Простые эфиры, затем сульфиды, сульфоксиды, сульфоны; затем селениды, селеноксиды и т. д.
+
+@item
+en: Peroxides, then chalcogen analogues with the greater number of the senior chalcogen atom, where <%o%>.
+ru: Пероксиды, затем аналоги халькогенов с большим номером старшего атома халькогена, где <%o%>.
+%o: O > S > Se > Te
+
+@item
+en: λ^{1} Halogen compounds in the order <%o%> 
+ru: λ^{1} Галогеновые соединения в порядке <%o%>
+%o: F > Cl > Br > I
+
+@End
+
+en: * In this table, the symbol ‘>’ means ‘is senior to’. 
+ru: * В этой таблице символ «>» означает «старше».
+
+@Examples
+
+@cell
+<$ HOOC-CH2-CH2–{} $>
+
+en: 2-carboxyethyl (preferred prefix)  <br>
+[free valence = radical > carboxylic acid]
+ru: 2-карбоксиэтил (предпочтительный префикс) <br>
+[свободная валентность = радикал > карбоновая кислота]
+
+@cell
+<$ (CH3)3N^+-CH2-COO^– $>
+
+en: (_N_,_N_-dimethylmethanaminiumyl)acetate (PIN)  <br>
+(anion > cation) 
+ru: (_N_,_N_-диметилметанаминийил)ацетат (PIN) <br>
+(анион > катион)
+
+@cell
+<$ HO-CH2-CH2-CONH2 $>
+
+en: 3-hydroxypropanamide (PIN)  <br>
+(amide > alcohol)
+ru: 3-гидроксипропанамид (PIN) <br>
+(амид > спирт)
+
+@cell
+<$ OHC-CH2-CH2-CN $>
+
+en: 4-oxobutanenitrile (PIN)  <br>
+(nitrile > aldehyde)
+ru: 4-оксобутаннитрил (PIN) <br>
+(нитрил > альдегид)
+
+@cell
+<$ HSSS-SiH3 $>
+
+en: trisulfanylsilane  <br>
+(preselected name; see P-12.2) (Si > S)
+ru: трисульфанилсилан <br>
+(предварительно выбранное название; см. P-12.2) (Si > S)
+
+@cell
+<$ BH2-PH2 $>
+  
+en: boranylphosphane  <br>
+(preselected name; see P-12.2) (P > B)
+ru: боранилфосфан <br>
+(предварительно выбранное название; см. P-12.2) (P > B)
+
+@cell
+<$ (CH3)4Si $>
+
+en: tetramethylsilane (PIN)  <br>
+(Si > C) 
+ru: тетраметилсилан (PIN) <br>
+(Si > C)
+
+@cell
+<$ (C6H5)3P $>
+
+en: triphenylphosphane (PIN)  <br>
+(P > C) 
+ru: трифенилфосфан (ПИН) <br>
+(P > C)
+
+@cell
+<$ CH3-O-CH2-S-CH3 $>
+  
+en: methoxy(methylsulfanyl)methane (PIN) <br>
+(C > ether and sulfide) 
+ru: метокси(метилсульфанил)метан (PIN) <br>
+(C > эфир и сульфид)
+
+@cell
+<$ CH3-SeSe-CH2-S-CH3 $>
+  
+en: (methyldiselanyl)(methylsulfanyl)methane (PIN) <br>
+(C > diselenide and sulfide) 
+ru: (метилдиселанил)(метилсульфанил)метан (PIN) <br>
+(C > диселенид и сульфид)
+
+@cell
+<$ CH3-S-CH2-CH2-SO-CH3 $>
+  
+en: 1-(methanesulfinyl)-2-(methylsulfanyl)ethane (PIN)  <br>
+(C > sulfide and sulfoxide)
+ru: 1-(метансульфинил)-2-(метилсульфанил)этан (PIN) <br>
+(C > сульфид и сульфоксид)
+
+@End
+
+#P-42
+en: Seniority order for acids 
+ru: Порядок старшинства для кислот
+
+en: Acids of class 7 (see Table 4.1) in the order of classes of compounds are further classified into subclasses. These 
+correspond to acids expressed by suffixes and acids used as functional parents (see P-34). The following subsections 
+complete the brief description given in Class 7; the acids are described in decreasing seniority order.
+ru: Кислоты класса 7 (см. табл. 4.1) в порядке следования классов соединений далее подразделяются на подклассы. 
+Они соответствуют кислотам, обозначенным суффиксами, и кислотам, используемым в качестве &(functional parent|ro*) (см. P-34). 
+Следующие подразделы дополняют краткое описание, данное для класса 7; кислоты описаны в порядке убывания старшинства.
+
+@Content
+
+#P-42.1
+en: Class 7a. Acids expressed by suffixes (excludes carbonic and polycarbonic acids) 
+ru: Класс 7a. Кислоты, обозначенные суффиксами (исключая угольные и полиугольные кислоты)
+
+@Table .left-aligned-cells .cells-align-top
+
+@td rowspan=2
+en: carboxylic acids
+ru: карбоновые кислоты
+
+@td
+–COOH
+
+@td;
+en: -carboxylic acid
+ru: -карбоновая кислота 
+
+@td
+–(C)O-OH
+
+@td
+en: -oic acid
+ru: -&(oic acid)
+
+@td
+en: sulfonic acids
+ru: сульфоновые кислоты
+
+@td
+<$ {}–SO2-OH $>
+
+@td
+en: -sulfonic acid
+ru: -сульфоновая кислота
+
+@td
+en: sulfinic acids
+ru: сульфиновые кислоты
+
+@td
+–SO-OH
+
+@td
+en: -sulfinic acid
+ru: -сульфиновая кислота
+
+@td
+en: selenonic acids 
+ru: селеноновые кислоты
+
+@td
+<$ {}–SeO2-OH $>
+
+@td
+en: -selenonic acid
+ru: -селеноновая кислота
+
+@td
+en: seleninic acids
+ru: селениновые кислоты
+
+@td
+–SeO-OH
+
+@td
+en: -seleninic acid
+ru: -селениновая кислота
+
+@td
+en: telluronic acids
+ru: &(telluronic acid|*)
+
+@td
+<$ {}–TeO2-OH $>
+
+@td
+en: -telluronic acid
+ru: -&(telluronic acid)
+
+@td
+en: tellurinic acids
+ru: &(tellurinic acid)
+
+@td
+–TeO-OH
+
+@td
+en: -tellurinic acid
+ru: -&(tellurinic acid)
+
+@EndTable
+
+#P-42.2
+en: Class 7b. Carbon acids with no substitutable hydrogen atoms 
+ru: Класс 7b. Углеродные кислоты без замещаемых атомов водорода
+
+@Examples --
+
+@cell
+en: polycarbonic acids
+ru: поликарбоновые кислоты  
+
+@cell
+en: dicarbonic acid  
+ru: диугольная кислота
+
+@cell
+en: carbonic acid
+ru: угольная кислота  
+
+@cell
+en: cyanic acid
+ru: циановая кислота
+
+@End
+
+#P-42.3
+en: Class 7c. Noncarbon acids having substitutable hydrogen atoms on the central atom 
+ru: Класс 7c. Неуглеродные кислоты с замещаемыми атомами водорода в центральном атоме
+
+en: All these names are preselected names. In this class, criteria for seniority are, in descending order:
+ru: Все эти имена являются предварительно выбранными. В этом классе критерии старшинства следующие (в порядке убывания):
+
+@List
+
+@item
+en: the central atom first in the list <%order%>; 
+ru: центральный атом первый в списке <%order%>;
+%order: N > P > As > Sb > B
+
+@item
+en: maximum number of central atoms; 
+ru: максимальное количество центральных атомов;
+
+@item
+en: homopolyacids (isopolyacids) (see ref. 12); 
+ru: гомополикислоты (изополикислоты) (см. ссылку 12);
+
+@item
+en: having contiguous central atoms;
+ru: имеющие смежные центральные атомы;
+
+@item
+en: maximum number of acidic (–OH) groups;
+ru: максимальное количество кислотных (–ОН) групп;
+
+@item
+en: highest oxidation number for the central atom
+ru: наивысшая степень окисления для центрального атома
+
+@End
+
+en: For consistency in the names of polynuclear oxoacids, the numerical infix ‘di’ has been uniformly used in naming 
+dinuclear ‘hypo’ acids, for example hypodiphosphorous acid, rather than hypophosphorous acid. 
+ru: Для единообразия названий полиядерных оксокислот числовой инфикс «ди» единообразно используется при наименовании 
+двуядерных «гипо»-кислот, например, гиподифосфористая кислота, а не гипофосфористая кислота.
+
+@Examples 2 -- .left-aligned-cells
+
+@cell
+en: azonic acid
+ru: азоновая кислота
+
+@cell
+<$ NH(O)(OH)2 $>
+
+@cell
+en: azinic acid
+ru: азиновая кислота
+
+@cell
+<$ NH2(O)(OH) $>
+
+@cell
+en: polyphosphonic acids
+ru: полифосфоновые кислоты
+
+@cell
+<$ (HO)PH(O)-O-[PH(O)-O]'n'-PH(O)(OH) $>
+
+@cell
+en: diphosphonic acid 
+ru: дифосфоновая кислота
+
+@cell
+<$ (HO)PH(O)-O-PH(O)(OH) $>
+
+@cell
+en: hypodiphosphonic acid  <br>
+(for the prefix ‘hypodi’ see P-67.2.1) 
+ru: гиподифосфоновая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+<$ (HO)(O)HP-PH(O)(OH) $>
+
+@cell
+en: phosphonic acid
+ru: фосфоновая кислота
+// http://charchem.org/ru/subst-ref/?id=655
+
+@cell
+<$ PH(O)(OH)2 $>
+
+@cell
+en: polyphosphonous acids
+ru: полифосфоновые кислоты
+
+@cell
+<$ (HO)PH-O-[PH-O]'n'-PH(O)(OH) $>
+
+@cell
+en: diphosphonous acid
+ru: дифосфонистая кислота
+
+@cell
+<$ (HO)PH-O-PH(OH) $>
+
+@cell
+en: hypodiphosphonous acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1)
+ru: гиподифосфонистая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+<$ (HO)HP-PH(OH) $>
+
+@cell
+en: phosphonous acid 
+ru: фосфорноватистая кислота <br> (гипофосфористая кислота, фосфи́новая кислота)
+// http://charchem.org/ru/subst-ref/?id=2560
+
+@cell
+<$ PH(OH)2 $>
+
+@cell
+en: phosphinic acid
+ru: фосфиновая кислота
+// http://charchem.org/ru/subst-ref/?id=2560
+
+@cell
+<$ PH2(O)(OH) $>
+
+@cell
+en: phosphinous acid
+ru: фосфинистая кислота
+// http://charchem.org/ru/subst-ref/?id=6771
+
+@cell
+<$ PH2(OH) $>
+
+@cell
+en: polyarsonic acids > diarsonic acid > hypodiarsonic acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: полиарсоновые кислоты > диарсоновая кислота > гиподиарсоновая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+
+@cell
+en: arsonic acid
+ru: арсоновая кислота
+// http://charchem.org/ru/subst-ref/?id=6772
+// https://chem21.info/page/072241219011068179123231240198238191075158077003/
+
+@cell
+<$ AsH(O)(OH)2 $>
+
+@cell
+en: polyarsonous acids > diarsonous acid > hypodiarsonous acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: полиарсоновые кислоты > диарсоновая кислота > гиподиарсоновая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+
+@cell
+en: arsonous acid
+ru: арсонистая кислота
+// http://charchem.org/ru/subst-ref/?id=6773
+
+@cell
+<$ AsH(OH)2 $>
+
+@cell
+en: arsinic acid
+ru: арсиновая кислота
+// http://charchem.org/ru/subst-ref/?id=6774
+
+@cell
+<$ AsH2(O)(OH) $>
+
+@cell
+en: arsinous acid
+ru: арсинистая кислота
+// http://charchem.org/ru/subst-ref/?id=6775
+
+@cell
+<$ AsH2(OH) $>
+
+@cell
+en: polystibonic acids > distibonic acid > hypodistibonic acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1)
+ru: полистибоновые кислоты > дистибоновая кислота > гиподистибоновая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+
+@cell
+en: stibonic acid
+ru: стибоновая кислота
+// к сожалению, в явном виде в русскоязычных источниках это вещество найти не удалось
+// но удалось найти Стибоновые кислоты RSbO3H2
+// https://chem21.info/page/225003119044066014220203181045242115252054052228/
+// Логично предположить, что стибоновая кислота - название для простейшего случая, где R=H
+
+@cell
+<$ SbH(O)(OH)2 $>
+
+@cell
+en: polystibonous acids > distibonous acid > hypodistibonous acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+
+@cell
+
+@cell
+en: stibonous acid
+// к сожалению, не удалось ничего найти в русскоязычных источниках
+// http://charchem.org/ru/subst-ref/?id=6777
+
+@cell
+<$ SbH(OH)2 $>
+
+@cell
+en: stibinic acid
+
+@cell
+<$ SbH2(O)(OH) $>
+
+@cell
+en: stibinous acid
+
+@cell
+<$ SbH2(OH)  $>
+
+@cell
+en: diboronic acid
+ru: дибороновая кислота
+// http://charchem.org/ru/subst-ref/?id=6778
+
+@cell
+(HO)BH-O-BH(OH)
+
+@cell
+en: hypodiboronic acid <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1)
+ru: гиподибороновая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+// http://charchem.org/ru/subst-ref/?id=6779
+
+@cell
+(HO)HB-BH(OH) 
+
+@cell
+en: boronic acid
+ru: бороновая кислота
+// http://charchem.org/ru/subst-ref/?id=6780
+
+@cell
+<$ BH(OH)2 $>
+
+@cell
+en: borinic acid
+ru: бориновая кислота
+// http://charchem.org/ru/subst-ref/?id=6781
+
+@cell
+<$ BH2(OH) $>
+
+@End
+
+#P-42.4
+en: Class 7d. Noncarbon acids used to generate derivatives having substitutable hydrogen atoms 
+ru: Класс 7d. Неуглеродные кислоты, используемые для получения производных с замещаемыми атомами водорода
+
+en: All these names are preselected names.
+ru: Все эти имена являются предварительно выбранными именами.
+
+en: In this class, criteria for seniority are, in descending order: 
+ru: В этом классе критерии старшинства следующие (в порядке убывания):
+
+@List a
+
+@item
+en: the central atom first in the list: <%order%>; 
+ru: центральный атом первым в списке: <%order%>;
+%order: P > As > Sb > Si > B > S > Se > Te
+
+@item
+en: maximum number of central atoms; 
+ru: максимальное количество центральных атомов;
+
+@item
+en: homopolyacids (isopolyacids) (see ref. 12);
+ru: гомополикислоты (изополикислоты) (см. ссылку 12); 
+
+@item
+en: polyacids having contiguous central atoms;
+ru: поликислоты с соседними центральными атомами; 
+
+@item
+en: maximum number of acidic groups (-OH groups);  
+ru: максимальное количество кислотных групп (групп -ОН);
+
+@item
+en: highest oxidation number for the central atom.
+ru: наивысшая степень окисления центрального атома.
+
+@End
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: polyphosphoric acids
+ru: полифосфорные кислоты
+
+@cell
+<$ HO-P<`|OH><||O>-O_(x1.2)$padding(0.1,.2)[P<`|OH><||O>-O]'n'_(x1.4)P<||O><`|OH>-OH $>
+
+@cell
+en: polyphosphorous acids
+ru: полифосфористые кислоты
+
+@cell
+<$ HO-P<`|OH>-O_(x1.2)$padding(0.1,0.2)[P<`|OH>-O]'n'_(x1.4)P<`|OH>-OH $>
+
+@cell
+en: tetraphosphoric acid
+ru: тетрафосфорная кислота
+
+@cell
+<$ HO-P<`|OH><||O>-O-P<`|OH><||O>-O-P<`|OH><||O>-O-P<`|OH><||O>-OH $>
+
+@cell
+en: triphosphoric acid
+ru: трифосфорная кислота
+
+@cell
+<$ HO-P<`|OH><||O>-O-P<`|OH><||O>-O-P<`|OH><||O>-OH $>
+
+@cell
+en: diphosphoric acid
+ru: дифосфорная кислота
+// http://charchem.org/ru/subst-ref/?id=247
+
+@cell
+<$ HO-P<`|OH><||O>-O-P<`|OH><||O>-OH $>
+
+@cell
+en: diphosphorous acid
+ru: дифосфористая кислота
+// http://charchem.org/ru/subst-ref/?id=6782
+
+@cell
+<$ HO-P<`|OH>-O-P<`|OH>-OH $>
+
+@cell
+en: hypodiphosphoric acid <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: гиподифосфорная кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+<$ O=P<`|HO><|HO>-P<`|OH><|OH>=O $>
+
+@cell
+en: hypodiphosphorous acid <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: гиподифосфористая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@cell
+<$ HO\P<`/HO>--P</OH>\OH $>
+
+@cell
+en: phosphoric acid
+ru: фосфорная кислота
+// http://charchem.org/ru/subst-ref/?id=245
+
+@cell
+<$ HO-P<||O><`|OH>-OH $>
+
+@cell
+en: phosphorous acid
+ru: фосфористая кислота
+// http://charchem.org/ru/subst-ref/?id=655
+
+@cell
+<$ HO-P<`|OH>-OH $>
+
+@End
+
+en: polyarsoric acids > polyarsorous acids > diarsoric acid > diarsorous acid > hypodiarsoric acid > hypodiarsorous acid <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1)
+// H3AsO4  arsoric acid = мышьяковая кислота - http://charchem.org/ru/subst-ref/?id=603
+// В русскоязычных источниках название мышьяко́вистая кислота используется как для HAsO2 (мета), так и для  H3AsO3 (орто)
+// Здесь будем считать, что H3AsO3 - arsorous = мышьяко́вистая кислота - http://charchem.org/ru/subst-ref/?id=736
+// К сожалению, нет уверенности в правильности следующего перевода 
+ru: полимышьяковые кислоты > полимышьяко́вистые кислоты > димышьяковая кислота > димышьяко́вистая кислота > 
+гиподимышьяковая кислота > гиподимышьяко́вистая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: arsoric acid
+ru: мышьяковая кислота
+// http://charchem.org/ru/subst-ref/?id=603
+
+@cell
+<$ HO-As<||O><`|OH>-OH $>
+
+@cell
+en: arsorous acid
+ru: мышьяко́вистая кислота
+
+@cell
+<$ HO-As<`|OH>-OH $>
+
+@End
+
+en: polystiboric acids > polystiborous acid > distiboric acid > distiborous acid > hypodistiboric acid > hypodistiborous acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: полисурьмяныя кислоты > полисурьмянистая кислота > дисурьмяная кислота > дисурьмянистая кислота > 
+гиподисурьмяная кислота > гиподисурьмянистая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: stiboric acid
+ru: сурьмяная кислота
+// H3SbO4 - stiboric acid - Ортосурьмяная кислота - http://charchem.org/ru/subst-ref/?id=3728
+
+@cell
+<$ HO-Sb<||O><`|OH>-OH $>
+
+@cell
+en: stiborous acid
+ru: сурьмянистая кислота
+// H3SbO3 - stiborous acid - сурьмянистая кислота - http://charchem.org/ru/subst-ref/?id=4767
+
+@cell
+<$ HO-Sb<`|OH>-OH $>
+
+@cell
+en: silicic acid
+ru: кремниевая кислота
+// http://charchem.org/ru/subst-ref/?id=506
+
+@cell
+<$ Si(OH)4 $>
+
+@cell colspan=2
+en: &nbsp; (formerly orthosilicic acid. See P-67.1.1.1, P-67.1.2.2 and Table IR-8.1, ref. 12.)
+ru: &nbsp; (ранее ортокремниевая кислота. См. P-67.1.1.1, P-67.1.2.2 и таблицу IR-8.1, ссылка 12.)
+
+@cell
+en: diboric acid
+ru: диборная кислота
+// http://charchem.org/ru/subst-ref/?id=6784
+
+@cell
+<$ HO-B<`|HO>-O-B<`|OH>-OH $>
+
+@cell
+en: hypodiboric acid <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1)
+ru: гиподиборная кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+// http://charchem.org/ru/subst-ref/?id=6785
+
+@cell
+<$ HO-B<`|HO>-B<`|OH>-OH $>
+
+@cell
+en: boric acid
+ru: борная кислота
+// http://charchem.org/ru/subst-ref/?id=343
+
+@cell
+<$ B(OH)3 $>
+
+@cell
+en: polysulfuric acids
+ru: полисерные кислоты
+
+@cell
+<$ HO-S<`||O><||O>-O_(x1.2)$padding(.1,.3)[S<`||O><||O>-O]'n'_(x1.4)S<`||O><||O>-OH $>
+
+@cell
+en: polysulfurous acids
+ru: полисернистые кислоты
+
+@cell
+<$ HO-S<`||O>-O_(x1.2)$padding(.1,.3)[S<`||O>-O]'n'_(x1.4)S<`||O>-OH $>
+
+@cell
+en: disulfuric acid
+ru: дисерная кислота
+
+@cell
+<$ HO-S<`||O><||O>-O-S<`||O><||O>-OH $>
+
+@cell
+en: disulfurous acid
+ru: дисернистая кислота
+
+@cell
+<$ HO-S<`||O>-O-S<`||O>-OH $>
+
+@cell
+en: dithionic acid (hypodisulfuric acid)  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: дитионовая кислота (гиподисерная кислота) <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+// http://charchem.org/ru/subst-ref/?id=4874
+
+@cell
+<$ HO--S<`||O><||O>--S<`||O><||O>--OH $>
+
+@cell
+en: dithionous acid (hypodisulfurous acid)
+ru: дитионистая кислота (гиподисернистая кислота)
+// http://charchem.org/ru/subst-ref/?id=2793
+
+@cell
+<$ HO--S<`||O>--S<`||O>--OH $>
+
+@cell
+en: sulfuric acid
+ru: серная кислота
+// http://charchem.org/ru/subst-ref/?id=50
+
+@cell
+<$ HO--S<`||O><||O>--OH $>
+
+@cell
+en: sulfurous acid
+ru: сернистая кислота
+// http://charchem.org/ru/subst-ref/?id=423
+
+@cell
+<$ HO--S<`||O>--OH $>
+
+@End
+
+en: polyselenic acids > polyselenous acids > diselenic acid > diselenous acid > hypodiselenic acid > hypodiselenous acid  <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1)
+ru: полиселеновые кислоты > полиселенистые кислоты > диселеновая кислота > диселенистая кислота > 
+гиподиселеновая кислота > гиподиселенистая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: selenic acid
+ru: селеновая кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=670
+
+@cell
+<$ HO--Se<`||O><||O>--OH $>
+
+@cell
+en: selenous acid
+ru: селенистая кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=673
+
+@cell
+<$ HO--Se<`||O>--OH $>
+
+@End
+
+en: polytelluric acids > polytellurous acids > ditelluric acid > ditellurous acid > hypoditelluric acid > hypoditellurous acid <br>
+&nbsp; (for the prefix ‘hypodi’ see P-67.2.1) 
+ru: полителлуровые кислоты > полителлуристые кислоты > дителлуровая кислота > дителлуристая кислота > 
+гиподителлуровая кислота > гиподителлуристая кислота <br>
+&nbsp; (префикс «гиподи» см. в P-67.2.1)
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: telluric acid
+ru: теллуровая кислота
+// http://charchem.org/ru/subst-ref/?id=2203
+// В википедии под таким названием другое вещество - H6TeO6 : https://en.wikipedia.org/wiki/Telluric_acid
+
+@cell
+<$ HO--Te<`||O><||O>--OH $>
+
+@cell
+en: tellurous acid
+ru: теллуристая кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=676
+
+@cell
+<$ HO--Te<`||O>--OH $>
+
+@End
+
+#P-42.5
+en: Class 7e. Other monobasic ‘oxo’ acids used as functional parents
+ru: Класс 7e. Другие одноосновные оксокислоты, используемые в качестве функциональных исходных соединений
+
+en: All these names are preselected names. In this class, criteria for seniority are, in descending order:
+ru: Все эти имена являются предварительно выбранными. В этом классе критерии старшинства следующие (в порядке убывания):
+
+@List a
+
+@item
+en: the central atom first in the list <%o%>;
+ru: центральный атом первый в списке <%o%>;
+%o: N > F > Cl > Br > I
+
+@item
+en: highest oxidation number for the central atom. 
+ru: наивысшая степень окисления центрального атома.
+
+@End
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: nitric acid
+ru: азотная кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=211
+
+@cell
+<$ HO-NO2 $>
+
+@cell
+en: nitrous acid
+ru: азотистая кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=298
+
+@cell
+<$ HO-NO $>
+
+@cell
+en: perfluoric acid
+ru: фторная кислота
+// http://charchem.org/ru/subst-ref/?id=6786
+// такое вещество в справочниках не найдено, но название построено по аналогии с другими галогенами
+
+@cell
+<$ F(O)3OH $>
+
+@cell
+en: fluoric acid
+ru: фторноватая кислота
+// по аналогии: Хлорноватая кислота (HClO3), Бромноватая кислота (HBrO3)
+// http://charchem.org/ru/subst-ref/?id=6787
+
+@cell
+<$ F(O)2OH $>
+
+@cell
+en: fluorous acid
+ru: фтористая кислота
+// Хлористая кислота (HClO2), Бромистая кислота (HBrO2)
+// http://charchem.org/ru/subst-ref/?id=6788
+
+@cell
+<$ F(O)OH $>
+
+@cell
+en: hypofluorous acid
+ru: фторноватистая кислота
+// http://charchem.org/ru/subst-ref/?id=6789
+
+@cell
+FOH
+
+@cell
+en: perchloric acid
+ru: хлорная кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=383
+
+@cell
+<$ Cl(O)3OH $>
+
+@cell
+en: chloric acid
+ru: хлорноватая кислота
+// http://charchem.org/ru/subst-ref/?id=385
+
+@cell
+<$ Cl(O)2OH $>
+
+@cell
+en: chlorous acid
+ru: хлористая кислота
+// http://charchem.org/ru/subst-ref/?id=387
+
+@cell
+<$ Cl(O)OH $>
+
+@cell
+en: hypochlorous acid
+ru: хлорноватистая кислота
+// http://charchem.org/ru/subst-ref/?id=389
+
+@cell
+ClOH
+
+@cell
+en: perbromic acid
+ru: бромная кислота
+// http://charchem.org/ru/subst-ref/?id=2932
+
+@cell
+<$ Br(O)3OH $>
+
+@cell
+en: bromic acid
+ru: бромноватая кислота
+// http://charchem.org/ru/subst-ref/?id=778
+
+@cell
+<$ Br(O)2OH $>
+
+@cell
+en: bromous acid
+ru: бромистая кислота
+// http://charchem.org/ru/subst-ref/?id=6790
+
+@cell
+<$ Br(O)OH $>
+
+@cell
+en: hypobromous acid
+ru: бромноватистая кислота
+// http://charchem.org/ru/subst-ref/?id=5590
+
+@cell
+BrOH
+
+@End
+
+#P-43
+en: Seniority order for suffixes 
+ru: Порядок старшинства суффиксов
+
+#P-44
+en: Seniority order for parent structures 
+ru: Порядок старшинства &(parent structure|ro*)
+
+#P-45
+en: Selection of the preferred IUPAC name 
+ru: Выбор предпочтительного названия ИЮПАК
+
+#P-46
+en: The principal chain in substituent groups
+ru: Основная цепь в &(substituent group|pr*)
