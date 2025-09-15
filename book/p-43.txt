@@ -1,0 +1,2430 @@
+#P-43
+en: Seniority order for suffixes 
+ru: Порядок старшинства суффиксов
+
+@Content
+
+#P-43.0
+en: Introduction 
+ru: Введение
+
+en: Suffixes are modified as indicated in Table 4.3 for acids and in Table 4.4 for all substituent suffixes. The order of 
+seniority for suffixes is described in this Section. It is based on the seniority of classes 7 through 20 given in Table 4.1 
+and includes suffixes modified by functional replacement.
+ru: Суффиксы модифицируются, как указано в таблице 4.3 для кислот и в таблице 4.4 для всех замещающих суффиксов. 
+Порядок старшинства суффиксов описан в данном разделе. Он основан на старшинстве классов с 7 по 20, указанном в таблице 4.1, 
+и включает суффиксы, модифицированные функциональной заменой.
+
+#P-43.1
+en: General methodology of functional replacement 
+ru: Общая методология функциональной замены
+
+en: Suffixes are modified as indicated in Table 4.3 for acids and in Table 4.4 for acids and other classes. Prefixes and 
+infixes are used as indicated in Table 4.2. Prefixes are used to modify suffixes such as ‘ol’, ‘al’, for example ‘thiol’ and 
+‘thial’. Infixes are recommended to modify the suffixes ‘carboxylic acid’, ‘sulfonic acid’, and related suffixes, for 
+example ‘carboperoxoic acid’ and ‘sulfonothioic acid’. 
+ru: Суффиксы модифицируются, как указано в таблице 4.3 для кислот и в таблице 4.4 для кислот и других классов. Префиксы и 
+инфиксы используются, как указано в таблице 4.2. Префиксы используются для модификации таких суффиксов, как «ол», «аль», 
+например, «тиол» и «тиаль». Инфиксы рекомендуются для модификации суффиксов «карбоновая кислота», «сульфоновая кислота» 
+и родственных им суффиксов, например, «карбопероксоевая кислота» и «сульфонотиоевая кислота».
+
+@Table 4.2 .left-aligned-cells
+en: Prefixes and infixes, in decreasing order of seniority,  <br>
+used to generate suffixes in preferred IUPAC names by functional replacement 
+ru: Префиксы и инфиксы в порядке убывания старшинства, <br>
+используемые для создания суффиксов в предпочтительных названиях ИЮПАК путем функциональной замены
+
+@th
+en: Prefix
+ru: Префикс
+
+@th
+en: Infix
+ru: Инфикс
+
+@th
+en: Replaced atom(s)
+ru: Заменяемые атомы
+
+@th
+en: Replacing atom(s)
+ru: Замещающий(ие) атом(ы)
+
+@td
+en: peroxy-
+ru: перокси-
+
+@td
+en: -peroxo-
+ru: -пероксо-
+
+@td
+–O–
+
+@td
+–OO–
+
+@td
+en: thioperoxy-
+ru: тиоперокси-
+
+@td
+en: -(thioperoxo)-
+ru: -(тиопероксо)-
+
+@td
+–O–
+
+@td
+en: –OS– or –SO–
+ru: –OS– или –SO–
+
+@td
+en: dithioperoxy-
+ru: дитиоперокси-
+
+@td
+en: -(dithioperoxo)-
+ru: -(дитиопероксо)-
+
+@td
+–O–
+
+@td
+–SS–
+
+@td
+en: thio-
+ru: тио-
+
+@td
+en: -thio-
+ru: -тио-
+
+@td
+en: –O– or =O
+ru: –O– или =O
+
+@td
+en: –S– or =S
+ru: –S– или =S
+
+@td
+en: seleno-
+ru: селено-
+
+@td
+en: -seleno-
+ru: -селено-
+
+@td
+en: –O– or =O
+ru: –O– или =O
+
+@td
+en: –Se– or =Se
+ru: –Se– или =Se
+
+@td
+en: telluro-
+ru: теллуро-
+
+@td
+en: -telluro-
+ru: -теллуро-
+
+@td
+en: –O– or =O
+ru: –O– или =O
+
+@td
+en: –Te– or =Te
+ru: –Te– или =Te
+
+@td
+en: imido-
+ru: имидо-
+
+@td
+en: -imido-
+ru: -имидо-
+
+@td
+=O
+
+@td
+=NH
+
+@td
+en: hydrazono-
+ru: гидразоно-
+
+@td
+en: -hydrazono-
+ru: -гидразоно-
+
+@td
+=O
+
+@td
+<$ =NNH2 $>
+
+@EndTable
+
+en: When several oxygen atoms are replaceable, the following criteria are applied, in order, until a decision is reached: 
+ru: Если несколько атомов кислорода могут быть заменены, применяются следующие критерии по порядку, пока не будет принято решение:
+
+@List a
+
+@item
+en: maximum number of oxygen atoms, then S, Se, and Te atoms, =NH and <%nnh%> groups; 
+ru: максимальное количество атомов кислорода, затем атомы S, Se и Te, группы =NH и <%nnh%>;
+%nnh: <$ =NNH2 $>
+
+@item
+en: maximum number of oxygen atoms, then S, Se, and Te atoms, in −OO− groups;
+ru: максимальное число атомов кислорода, затем атомов S, Se и Te в группах −OO−;
+
+@item
+en: oxygen atoms, then S, Se, and Te atoms, in −(O)OH and −OH groups. 
+ru: атомы кислорода, затем атомы S, Se и Te в группах −(O)OH и −OH.
+
+@End
+
+en: The order of seniority is described, in the case of carboxylic acids, sulfonic acids and sulfinic acids, by indicating, after 
+the name of the modified suffix the number and kind of atoms used in the replacement operation (see Table 4.3).
+ru: Порядок старшинства описывается в случае карбоновых кислот, сульфоновых кислот и сульфиновых кислот путем указания 
+после названия модифицированного суффикса числа и вида атомов, используемых в операции замены (см. табл. 4.3).
+
+en: Table 4.3 gives the list, in decreasing order, of the seniority of suffixes and suffixes modified by functional replacement 
+for carboxylic and sulfonic acids. Sulfinic acid suffixes are similar to sulfonic acids. Selenium and tellurium acid 
+suffixes are formed by replacing ‘sulf’ by ‘selen’ or ‘tellur’. 
+ru: В таблице 4.3 представлен список суффиксов и суффиксов, модифицированных функциональной заменой карбоновых и сульфоновых 
+кислот, в порядке убывания старшинства. Суффиксы сульфиновых кислот аналогичны &(sulfonic acid|da*). 
+Суффиксы селеновой и теллуровой кислот образуются заменой «сульф» на «селен» или «теллур».
+
+@Table 4.3 
+en: Carboxylic and sulfonic acid suffixes generated for IUPAC preferred names by functional <br>
+replacement, in decreasing order of seniority 
+ru: Суффиксы карбоновых и сульфоновых кислот, полученные для предпочтительных <br>
+названий ИЮПАК путем функциональной замены, 
+в порядке убывания старшинства
+
+@EndTable
+
+#(1)
+en: **Carboxylic acids**
+ru: **Карбоновые кислоты**
+
+@Examples -- 3 .left-aligned-cells
+
+@cell
+–COOH
+
+@cell
+en: carboxylic acid
+ru: карбоновая кислота
+
+@cell
+
+@cell
+–CO-OOH
+
+@cell
+en: carboperoxoic acid
+ru: карбопероксоевая кислота
+
+@cell
+(3O) 
+
+@cell
+–CS-OOH
+
+@cell
+en: carboperoxothioic _OO_-acid
+ru: carboperoxothioic _OO_-acid
+
+@cell
+(2O,1S; OO)
+
+@cell
+–CSe-OOH
+
+@cell
+en: carboperoxoselenoic acid
+ru: карбопероксоселеновая кислота
+
+@cell
+(2O,1Se; OO) 
+
+@cell
+–CO-SOH
+
+@cell
+en: carbo(thioperoxoic) _SO_-acid
+ru: карбо(тиопероксоевая) _SO_-кислота
+
+@cell
+(2O,1S; OS; OH)
+
+@cell
+–CO-OSH
+
+@cell
+en: carbo(thioperoxoic) _OS_-acid
+ru: карбо(тиопероксоевая) _OS_-кислота
+
+@cell
+(2O,1S; OS; SH)
+
+@cell
+–CO-SeOH
+
+@cell
+en: carbo(selenoperoxoic) _SeO_-acid
+ru: карбо(селенопероксоевая) _SeO_-кислота
+
+@cell
+(2O,1Se; OSe; OH)
+
+@cell
+–CO-OSeH
+
+@cell
+en: carbo(selenoperoxoic) _OSe_-acid
+ru: карбо(селенопероксоевая) _OSe_-кислота
+
+@cell
+(2O,1Se; OSe; SeH)
+
+@cell
+–CS-SOH
+
+@cell
+en: carbothio(thioperoxoic) _SO_-acid
+ru: карботио(тиопероксоевая) _SO_-кислота
+
+@cell
+(1O,2S; OS; OH) 
+
+@cell
+–CS-OSH
+
+@cell
+en: carbothio(thioperoxoic) _OS_-acid
+ru: карботио(тиопероксоевая) _OS_-кислота
+
+@cell
+(1O,2S; OS; SH)
+
+@cell
+–CSe-OSH
+
+@cell
+en: carboseleno(thioperoxoic) _OS_-acid
+ru: карбоселено(тиопероксоевая) _OS_-кислота
+
+@cell
+(1O,1S,1Se;OS; SH)
+
+@cell
+–CS-SeOH
+
+@cell
+en: carbo(selenoperoxo)thioic _SeO_-acid
+ru: карбо(селенопероксо)тиовая _SeO_-кислота
+
+@cell
+(1O,1S,1Se;OSe: OH)
+
+@cell
+–CS-OSeH
+
+@cell
+en: carbo(selenoperoxo)thioic _OSe_-acid
+ru: карбо(селенопероксо)тиовая _OSe_-кислота
+
+@cell
+(1O,1S,1Se; OSe; SeH)
+
+@cell
+–CS-SSH
+
+@cell
+en: carbo(dithioperoxo)thioic acid
+ru: карбо(дитиопероксо)тиовая кислота
+
+@cell
+(3S)
+
+@cell
+–CSe-SeSeH
+
+@cell
+en: carbo(diselenoperoxo)selenoic acid
+ru: карбо(диселенопероксо)селеновая кислота
+
+@cell
+(3Se)
+
+@cell
+–CTe-TeTeH
+
+@cell
+en: carbo(ditelluroperoxo)telluroic acid
+ru: карбо(дителлуропероксо)теллуровая кислота
+
+@cell
+(3Te)
+
+@cell
+–CS-OH
+
+@cell
+en: carbothioic _O_-acid
+ru: карботионовая _O_-кислота
+
+@cell
+(1O,1S; OH)
+
+@cell
+–CO-SH
+
+@cell
+en: carbothioic _S_-acid
+ru: карботионовая _S_-кислота
+
+@cell
+(1O,1S; SH)
+
+@cell
+–CS-SH
+
+@cell
+en: carbodithioic acid
+ru: карбодитиоевая кислота
+
+@cell
+(2S)
+
+@cell
+–CSe-SH
+
+@cell
+en: carboselenothioic _S_-acid
+ru: карбоселенотиоевая _S_-кислота
+
+@cell
+(1S,1Se; SH)
+
+@cell
+–CS-SeH
+
+@cell
+en: carboselenothioic _Se_-acid
+ru: карбоселенотиоевая _Se_-кислота
+
+@cell
+(1S,1Se; SeH)
+
+@cell
+–CSe-SeH
+
+@cell
+en: carbodiselenoic acid
+ru: карбодиселеновая кислота
+
+@cell
+(2Se)
+
+@cell
+–CTe-SeH
+
+@cell
+en: carboselenotelluroic _Se_-acid
+ru: карбоселенотеллуровая _Se_-кислота
+
+@cell
+(1Se,1Te; SeH)
+
+@cell
+–CTe-TeH
+
+@cell
+en: carboditelluroic acid
+ru: карбодителлуровая кислота
+// не уверен
+
+@cell
+(2Te)
+
+@cell
+–C(=NH)-OH
+
+@cell
+en: carboximidic acid
+ru: карбокс&(imidic acid)
+
+@cell
+
+@cell
+–C(=NH)-OOH
+
+@cell
+en: carboximidoperoxoic acid
+ru: карбоксимидопероксоевая кислота
+
+@cell
+(2O,1N; OO)
+
+@cell
+–C(=NH)-SOH
+
+@cell
+en: carboximido(thioperoxoic) _SO_-acid
+ru: карбоксимидо(тиопероксоевая) _SO_-кислота
+
+@cell
+(1O,1S,1N; OS; OH)
+
+@cell
+–C(=NH)-OSH
+
+@cell
+en: carboximido(thioperoxoic) _OS_-acid
+ru: карбоксимидо(тиопероксоевая) _ОS_-кислота
+
+@cell
+(1O,1S,1N; OS; SH)
+
+@cell
+–C(=NH)-SSH
+
+@cell
+en: carbo(dithioperoxo)imidic acid
+ru: карбо(дитиопероксо)&(imidic acid)
+
+@cell
+(2S,1N; SS)
+
+@cell
+–C(=NH)-SeSH
+
+@cell
+en: carboximido(selenothioperoxoic) _SeS_-acid
+ru: карбоксимидо(селенотиопероксоевая) _SeS_-кислота
+
+@cell
+(1S,1Se,1N; SSe; SH)
+
+@cell
+–C(=NH)-SH
+
+@cell
+en: carboximidothioic acid
+ru: карбоксимидотиовая кислота
+
+@cell
+(1S,1N)
+
+@cell
+–C(=NH)-SeH
+
+@cell
+en: carboximidoselenoic acid
+ru: карбоксимидотиовая кислота
+
+@cell
+(1Se,1N)
+
+@cell
+–C(=NH)-TeH
+
+@cell
+en: carboximidotelluroic acid
+ru: карбоксимидотеллуровая кислота
+
+@cell
+(1Te,1N)
+
+@cell
+<$ –C(=NNH2)-OH $>
+
+@cell
+en: carbohydrazonic acid
+ru: карбогидразоновая кислота
+
+@cell
+
+@cell
+<$ –C(=NNH2)-OOH $>
+
+@cell
+en: carbohydrazonoperoxoic acid
+ru: карбогидразонопероксоевая кислота
+
+@cell
+(2O,1NN; OO) 
+
+@cell
+<$ –C(=NNH2)-SOH $>
+
+@cell
+en: carbohydrazono(thioperoxoic) _SO_-acid
+ru: карбогидразоно(тиопероксоевая) _SO_-кислота
+
+@cell
+(1O,1S,1NN; OS; OH)
+
+@cell
+<$ –C(=NNH2)-OSH $>
+
+@cell
+en: carbohydrazono(thioperoxoic) _OS_-acid
+ru: карбогидразоно(тиопероксоевая) _OS_-кислота
+
+@cell
+(1O,1S,1NN; OS; SH) 
+
+@cell
+<$ –C(=NNH2)-TeTeH $>
+
+@cell
+en: carbo(ditelluroperoxo)hydrazonic acid
+ru: карбо(дителлуропероксо)гидразоновая кислота
+
+@cell
+(2Te,1NN; TeTe)
+
+@End
+
+#(2)
+en: **Sulfonic acids**
+ru: **&(Sulfonic acid|*)**
+
+@Examples -- 3 .left-aligned-cells
+
+@cell
+<$ –SO2-OH $>
+
+@cell
+en: sulfonic acid 
+ru: сульфоновая кислота
+
+@cell
+
+@cell
+<$ –SO2-OOH $>
+
+@cell
+en: sulfonoperoxoic acid
+ru: сульфонопероксоевая кислота
+
+@cell
+(4O) 
+
+@cell
+<$ –S(O)(S)-OOH $>
+
+@cell
+en: sulfonoperoxothioic _OO_-acid
+ru: сульфонопероксо&(thioic [acid]) _OO_-кислота
+
+@cell
+(3O,1S; OO)
+
+@cell
+<$ –S(O)(Se)-OOH $>
+
+@cell
+en: sulfonoperoxoselenoic _OO_-acid
+ru: сульфонопероксоселеновая _OO_-кислота
+
+@cell
+(3O,1Se; OO)
+
+@cell
+<$ –SO2-SOH $>
+
+@cell
+en: sulfono(thioperoxoic) _SO_-acid
+ru: сульфоно(тиопероксоевая) _SO_-кислота
+
+@cell
+(3O,1S; OS; OH)
+
+@cell
+<$ –SO2-OSH $>
+
+@cell
+en: sulfono(thioperoxoic) _OS_-acid
+ru: сульфоно(тиопероксоевая) _OS_-кислота
+
+@cell
+(3O,1S; OS; SH)
+
+@cell
+<$ –SS2-OOH $>
+
+@cell
+en: sulfonoperoxodithioic _OO_-acid
+ru: сульфонопероксоди&(thioic [acid]) _OO_-кислота
+
+@cell
+(2O,2S; OO) 
+
+@cell
+<$ –S(O)(S)-SOH $>
+
+@cell
+en: sulfonothio(thioperoxoic) _SO_-acid
+ru: сульфонотио(тиопероксоевая) _SO_-кислота
+
+@cell
+(2O,2S; OS; OH)
+
+@cell
+<$ –S(S)(Se)-OOH $>
+
+@cell
+en: sulfonoperoxoselenothioic _OO_-acid
+ru: сульфонопероксоселено&(thioic [acid]) _OO_-кислота
+
+@cell
+(2O,1S,1Se; OO)
+
+@cell
+<$ –SSeSe-SSH $>
+
+@cell
+en: sulfono(dithioperoxo)diselenoic acid
+ru: сульфоно(дитиопероксо)ди&(selenoic acid)
+
+@cell
+(2S,2Se; SS)
+
+@cell
+<$ –SS2-SeSeH $>
+
+@cell
+en: sulfono(diselenoperoxo)dithioic acid
+ru: сульфоно(диселенопероксо)ди&(thioic acid)
+
+@cell
+(2S,2Se; SeSe) 
+
+@cell
+<$ –STe2-TeTeH $>
+
+@cell
+en: sulfono(ditelluroperoxo)ditelluroic acid
+ru: сульфоно(дителлуропероксо)дителлуровая кислота
+
+@cell
+(4Te) 
+
+@cell
+–S(O)(S)-OH
+
+@cell
+en: sulfonothioic _O_-acid
+ru: сульфоно&(thioic [acid]) _O_-кислота
+
+@cell
+(2O,1S; OH)
+
+@cell
+<$ –SO2-SH $>
+
+@cell
+en: sulfonothioic _S_-acid
+ru: сульфоно&(thioic [acid]) _S_-кислота
+
+@cell
+(2O,1S; SH)
+
+@cell
+<$ –SO2-SeH $>
+
+@cell
+en: sulfonoselenoic _Se_-acid
+ru: сульфоно&(selenoic [acid]) _Se_-кислота
+
+@cell
+(2O,1Se; SeH)
+
+@cell
+<$ –SS2-OH $>
+
+@cell
+en: sulfonodithioic _O_-acid
+ru: сульфоноди&(thioic [acid]) _O_-кислота
+
+@cell
+(1O,2S; OH)
+
+@cell
+–S(O)(S)-SH
+
+@cell
+en: sulfonodithioic _S_-acid
+ru: сульфоноди&(thioic [acid]) _S_-кислота
+
+@cell
+(1O,2S; SH)
+
+@cell
+–S(Se)(Te)-OH
+
+@cell
+en: sulfonoselenotelluroic _O_-acid
+ru: сульфоноселено&(telluroic [acid]) _O_-кислота
+
+@cell
+(1O,1Se,1Te; OH) 
+
+@cell
+–S(O)(Te)-SeH
+
+@cell
+en: sulfonoselenotelluroic _Se_-acid
+ru: сульфонолено&(telluroic [acid]) _Se_-кислота
+
+@cell
+(1O,1Se,1Te; SeH)
+
+@cell
+–S(O)(Se)-TeH
+
+@cell
+en: sulfonoselenotelluroic _Te_-acid
+ru: сульфоноселено&(telluroic [acid]) _Te_-кислота
+
+@cell
+(1O,1Se.1Te; TeH)
+
+@cell
+<$ –S(S2)-SH $>
+
+@cell
+en: sulfonotrithioic acid
+ru: сульфонотри&(thioic acid)
+
+@cell
+(3S) 
+
+@cell
+<$ –S(=NH)2-OH $>
+
+@cell
+en: sulfonodiimidic acid
+ru: сульфоноди&(imidic acid)
+
+@cell
+
+@cell
+<$ –S(=NH)2-OOH $>
+
+@cell
+en: sulfonodiimidoperoxoic acid
+ru: сульфонодиимидопероксоевая кислота
+
+@cell
+(2O,2N; OO)
+
+@cell
+<$ –S(=NH)2-SOH $>
+
+@cell
+en: sulfonodiimido(thioperoxoic) _SO_-acid
+ru: сульфонодиимидо(тиопероксоевая) _SO_-кислота
+
+@cell
+(1O,1S,2N: OS; OH)
+
+@cell
+<$ –S(=NH)2-OSH $>
+
+@cell
+en: sulfonodiimido(thioperoxoic) _OS_-acid
+ru: сульфондиимидо(тиопероксоевая) _OS_-кислота
+
+@cell
+(1O,1S,2N; OS; SH) 
+
+@cell
+<$ –S(=NH)2-SeH $>
+
+@cell
+en: sulfonodiimidoselenoic acid
+ru: сульфонодиимидо&(selenoic acid)
+
+@cell
+(1Se,2N) 
+
+@cell
+<$ –S(=NH)2-TeH $>
+
+@cell
+en: sulfonodiimidotelluroic acid
+ru: сульфонодиимидо&(telluroic acid)
+
+@cell
+(1Te,2N) 
+
+@cell
+<$ –S(O)(=NNH2)-OH $>
+
+@cell
+en: sulfonohydrazonic acid
+ru: сульфоногидразоновая кислота
+
+@cell
+
+@cell
+<$ –S(O)(=NNH2)-OOH $>
+
+@cell
+en: sulfonohydrazonoperoxoic acid
+ru: сульфоногидразонопероксоевая кислота
+
+@cell
+(3O,1NN; OO) 
+
+@cell
+<$ –S(S)(=NNH2)-OOH $>
+
+@cell
+en: sulfonohydrazonoperoxothioic acid
+ru: сульфоногидразонопероксо&(thioic acid)
+
+@cell
+(2O,1S,1NN; OO)
+
+@cell
+<$ –S(S)(=NNH2)-OH $>
+
+@cell
+en: sulfonohydrazonothioic _O_-acid
+ru: сульфоногидразоно&(thioic [acid]) _O_-кислота
+
+@cell
+(1O,1S,1NN; OH)
+
+@cell
+<$ –S(O)(=NNH2)-SH $>
+
+@cell
+en: sulfonohydrazonothioic _S_-acid
+ru: сульфоногидразоно&(thioic [acid]) _S_-кислота
+
+@cell
+(1O,1S,1NN; SH) 
+
+@cell
+<$ –S(=NNH2)2OH $>
+
+@cell
+en: sulfonodihyrazonic acid
+ru: сульфонодигиразоновая кислота
+
+@cell
+
+@cell
+<$ –S(=NNH2)2-OOH $>
+
+@cell
+en: sulfonodihydrazonoperoxoic acid
+ru: сульфонодигидразонопероксоевая кислота
+
+@cell
+(2O,2NN; OO)
+
+@cell
+<$ –S(=NNH2)2-SOH $>
+
+@cell
+en: sulfonodihydrazono(thioperoxoic) _SO_-acid
+ru: сульфонодигидразоно(тиопероксоевая) _SO_-кислота
+
+@cell
+(1O,1S,2NN; SO, OH)
+
+@cell
+<$ –S(=NNH2)2-SH $>
+
+@cell
+en: sulfonodihydrazonothioic acid
+ru: сульфонодигидразоно&(thioic acid)
+
+@cell
+(1S,2NN)
+
+@End
+
+
+@Table 4.4 .left-aligned-cells .cells-align-top
+en: Complete list of suffixes and functional replacement analogues (when present) for IUPAC preferred <br>
+names, in decreasing order of seniority 
+ru: Полный список суффиксов и функциональных замещающих аналогов (при наличии) для предпочтительных <br>
+названий ИЮПАК, в порядке убывания старшинства
+
+@td rowspan=22
+**1.**
+
+@td rowspan=2
+en: Carboxylic acids
+ru: Карбоновые кислоты
+
+@td
+–COOH
+
+@td;
+en: carboxylic acid
+ru: карбоновая кислота
+
+@td
+–(C)OOH
+
+@td
+en: oic acid
+ru: &(oic acid)
+
+@td rowspan=2
+en: Carboperoxoic acids
+ru: Карбопероксоевые кислоты
+
+@td
+–CO-OOH
+
+@td
+en: carboperoxoic acid
+ru: карбопероксоевая кислота
+
+@td
+–(C)O-OOH
+
+@td
+en: peroxoic acid
+ru: пероксоевая кислота
+
+@td colspan=3
+en: Carboperoxoic acids modified by replacement with S, Se, and/or Te
+ru: Карбопероксоевые кислоты, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=8
+
+@td
+–CS-OOH
+
+@td
+en: carboperoxothioic acid
+ru: карбопероксо&(thioic acid)
+
+@td
+–(C)S-OOH
+
+@td
+en: peroxothioic acid
+ru: пероксо&(thioic acid)
+
+@td
+–CSe-OOH
+
+@td
+en: carboperoxoselenoic acid
+ru: карбопероксо&(selenoic acid)
+
+@td
+–(C)Se-OOH
+
+@td
+en: peroxoselenoic acid
+ru: пероксо&(selenoic acid)
+
+@td
+–CO-SOH
+
+@td
+en: carbo(thioperoxoic) _SO_-acid
+ru: карбо(тиопероксоевая) _SO_-кислота
+
+@td
+–(C)O-SOH
+
+@td
+en: (thioperoxoic) _SO_-acid 
+ru: (тиопероксоевая) _SO_-кислота
+
+@td
+–CO-OSH
+
+@td
+en: carbo(thioperoxoic) _OS_-acid 
+ru: карбо(тиопероксоевая) _OS_-кислота
+
+@td
+–(C)O-OSH
+
+@td
+en: (thioperoxoic) _OS_-acid
+ru: (тиопероксоевая) _OS_-кислота
+
+@td colspan=3
+en: Carboxylic acids modified by replacement with S, Se, and/or Te
+ru: Карбоновые кислоты, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=8
+
+@td
+–CS-OH
+
+@td
+en: carbothioic _O_-acid
+ru: карбо&(thioic [acid]) _O_-кислота
+
+@td
+–(C)S-OH
+
+@td
+en: thioic _O_-acid
+ru: &(thioic [acid]) _O_-кислота
+
+@td
+–CO-SH
+
+@td
+en: carbothioic _S_-acid
+ru: карбо&(thioic [acid]) _S_-кислота
+
+@td
+–(C)O-SH
+
+@td
+en: thioic _S_-acid
+ru: &(thioic [acid]) _S_-кислота
+
+@td
+–CO-SeH
+
+@td
+en: carboselenoic _Se_-acid
+ru: карбо&(selenoic [acid]) _Se_-кислота
+
+@td
+–(C)O-SeH
+
+@td
+en: selenoic _Se_-acid
+ru: &(selenoic [acid]) _Se_-кислота
+
+@td
+–CS-SH
+
+@td
+en: carbodithioic acid
+ru: карбоди&(thioic acid)
+
+@td
+–(C)S-SH
+
+@td
+en: dithioic acid
+ru: ди&(thioic acid)
+
+@td rowspan=16
+// ----------
+**2.**
+
+@td rowspan=2
+en: Carboximidic acids
+ru: Карбокс&(imidic acid|*)
+
+@td
+–C(=NH)-OH
+
+@td
+en: carboximidic acid
+ru: карбокс&(imidic acid)
+
+@td
+–(C)(=NH)-OH
+
+@td
+en: imidic acid
+ru: &(imidic acid)
+
+@td rowspan=2
+en: Carboximidoperoxoic acids
+ru: Карбоксимидопероксоевые кислоты
+
+@td
+–C(=NH)-OOH
+
+@td
+en: carboximidoperoxoic acid
+ru: карбоксимидопероксоевая кислота
+
+@td
+–(C)(=NH)-OOH
+
+@td
+en: imidoperoxoic acid
+ru: имидопероксоевая кислота
+
+@td colspan=3
+en: Carboximidoperoxoic acids modified by replacement with S, Se, and/or Te
+ru: Карбоксимидопероксоевые кислоты, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=8
+
+@td
+–C(=NH)-SOH
+
+@td
+en: carboximido(thioperoxoic) _SO_-acid
+ru: карбоксимидо(тиопероксоевая) _SO_-кислота
+
+@td
+–(C)(=NH)-SOH
+
+@td
+en: imido(thioperoxoic) _SO_-acid
+ru: имидо(тиопероксоевая) _SO_-кислота
+
+@td
+–C(=NH)-OSH
+
+@td
+en: carboximido(thioperoxoic) _OS_-acid
+ru: карбоксимидо(тиопероксоевая) _OS_-кислота
+
+@td
+–(C)(=NH)-OSH
+
+@td
+en: imido(thioperoxoic) _OS_-acid
+ru: имидо(тиопероксоевая) _OS_-кислота
+
+@td
+–C(=NH)-SSH
+
+@td
+en: carbo(dithioperox)imidic acid
+ru: карбо(дитиоперокс)&(imidic acid)
+
+@td
+–(C)(=NH)-SSH
+
+@td
+en: (dithioperox)imidic acid
+ru: (дитиоперокси)&(imidic acid)
+
+@td
+–C(=NH)-SeSH
+
+@td
+en: carboximido(selenothioperoxoic) _SeS_-acid
+ru: карбоксимидо(селенотиопероксоевая) _SeS_-кислота
+
+@td
+–(C)(=NH)-SeSH
+
+@td
+en: imido(selenothioperoxoic) _SeS_-acid
+ru: имидо(селенотиопероксоевая) _SeS_-кислота
+
+@td colspan=3
+en: Carboximidic acids modified by replacement with S, Se, and/or Te
+ru: Карбокс&(imidic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+–C(=NH)-SH
+
+@td
+en: carboximidothioic acid
+ru: карбоксимидо&(thioic acid)
+
+@td
+–(C)(=NH)-SH
+
+@td
+en: imidothioic acid
+ru: имидо&(thioic acid)
+
+@td rowspan=14
+//============
+**3.**
+
+@td rowspan=2
+en: Carbohydrazonic acids
+ru: Карбогидразоновые кислоты
+
+@td
+<$ {}–C(=NNH2)-OH $>
+
+@td
+en: carbohydrazonic acid
+ru: карбогидразоновая кислота
+
+@td
+<$ {}–(C)(=NNH2)-OH $>
+
+@td
+en: hydrazonic acid
+ru: &(hydrazonic acid)
+// русскоязычного аналога не обнаружено. Однако, есть описание термина Гидразоны — соединения общей формулы R¹R²C=NNR³R⁴
+// https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B0%D0%B7%D0%BE%D0%BD%D1%8B
+// отсюда и сделано предположение о русском названии, при R²=OH, R³,R⁴=H
+
+@td rowspan=2
+en: Carbohydrazonoperoxoic acids
+ru: Карбогидразонопероксоевые кислоты
+
+@td
+<$ {}–C(=NNH2)-OOH $>
+
+@td
+en: carbohydrazonoperoxoic acid
+ru: карбогидразонопероксоевая кислота
+
+@td
+<$ {}–(C)(=NNH2)-OOH $>
+
+@td
+en: hydrazonoperoxoic acid
+ru: гидразонопероксоевая кислота
+
+@td colspan=3
+en: Carbohydrazonoperoxoic acids modified by replacement with S, Se, and/or Te 
+ru: Карбогидразонопероксоевые кислоты, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=6
+
+@td
+<$ {}–C(=NNH2)-SOH $>
+
+@td
+en: carbohydrazono(thioperoxoic) _SO_-acid
+ru: карбогидразоно(тиопероксоевая) _SO_-кислота
+
+@td
+<$ {}–(C)(=NNH2)-SOH $>
+
+@td
+en: hydrazono(thioperoxoic) _SO_-acid
+ru: гидразоно(тиопероксоевая) _SO_-кислота
+
+@td
+<$ {}–C(=NNH2)-OSH $>
+
+@td
+en: carbohydrazono(thioperoxoic) _OS_-acid
+ru: карбогидразоно(тиопероксоевая) _OS_-кислота
+
+@td
+<$ {}–(C)(=NNH2)-OSH $>
+
+@td
+en: hydrazono(thioperoxoic) _OS_-acid
+ru: гидразоно(тиопероксоевая) _OS_-кислота
+
+@td
+<$ {}–C(=NNH2)-TeTeH $>
+
+@td
+en: carbo(ditelluroperoxo)hydrazonic acid
+ru: карбо(дителлуропероксо)&(hydrazonic acid)
+
+@td
+<$ {}–(C)(=NNH2)-TeTeH $>
+
+@td
+en: (ditelluroperoxo)hydrazonic acid
+ru: (дителлуропероксо)&(hydrazonic acid)
+
+@td colspan=3
+en: Carbohydrazonic acids modified by replacement with S, Se, and/or Te
+ru: Карбо&(hydrazonic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+<$ {}–C(=NNH2)-SH $>
+
+@td
+en: carbohydrazonothioic acid
+ru: карбогидразоно&(thioic acid)
+
+@td
+<$ {}–(C)(=NNH2)-SH $>
+
+@td
+en: hydrazonothioic acid
+ru: гидразоно&(thioic acid)
+
+@td rowspan=11
+**4.**
+
+@td
+en: Sulfonic acids
+ru: &(Sulfonic acid|*)
+
+@td
+<$ {}–SO2-OH $>
+
+@td
+en: sulfonic acid
+ru: &(sulfonic acid)
+
+@td
+en: Sulfonoperoxoic acids
+ru: Сульфоноперокс&(oic acid|*)
+
+@td
+<$ {}–SO2-OOH $>
+
+@td
+en: sulfonoperoxoic acid
+ru: сульфоноперокс&(oic acid)
+
+@td colspan=3
+en: Sulfonoperoxoic acids modified by replacement with S, Se and/or Te
+ru: Сульфоноперокс&(oic acid|*), модифицированные заменой на S, Se и/или Te
+
+@td rowspan=4
+
+@td
+–S(O)(S)-OOH
+
+@td
+en: sulfonoperoxothioic acid
+ru: сульфонопероксо&(thioic acid)
+
+@td
+<$ {}–SO2-SOH $>
+
+@td
+en: sulfono(thioperoxoic) _SO_-acid
+ru: сульфоно(тиопероксоевая) _SO_-кислота
+
+@td
+<$ {}–SO2-OSH $>
+
+@td
+en: sulfono(thioperoxoic) _OS_-acid
+ru: сульфоно(тиопероксоевая) _OS_-кислота
+
+@td
+–SS2-OOH
+
+@td
+en: sulfonoperoxodithioic acid 
+ru: сульфонопероксоди&(thioic acid)
+
+@td colspan=3
+en: Sulfonic acids modified by replacement with S, Se and/or Te
+ru: &(Sulfonic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=3
+
+@td
+<$ {}–SO2-SH $>
+
+@td
+en: sulfonothioic _S_-acid
+ru: сульфоно&(thioic [acid]) _S_-кислота
+
+@td
+–S(O)(S)-OH
+
+@td
+en: sulfonothioic _O_-acid
+ru: сульфоно&(thioic [acid]) _O_-кислота
+
+@td
+–S(S)(S)-SH
+
+@td
+en: sulfonotrithioic acid
+ru: сульфонотри&(thioic acid)
+
+@td rowspan=7
+**5.**
+
+@td
+en: Sulfonimidic acids
+ru: Сульфон&(imidic acid|*)
+
+@td
+–S(O)(=NH)-OH
+
+@td
+en: sulfonimidic acid
+ru: сульфон&(imidic acid)
+
+@td
+en: Sulfonimidoperoxoic acids
+ru: Сульфонимидоперокс&(oic acid|*)
+
+@td
+–S(O)(=NH)-OOH
+
+@td
+en: sulfonimidoperoxoic acid
+ru: сульфонимидоперокс&(oic acid)
+
+@td colspan=3
+en: Sulfonimidoperoxoic acids modified by replacement with S, Se, or Te
+ru: Сульфонимидоперокс&(oic acid|*), модифицированные путем замены на S, Se или Te
+
+@td rowspan=2
+
+@td
+–S(O)(=NH)-SOH
+
+@td
+en: sulfonimido(thioperoxoic) _SO_-acid
+ru: сульфонимидо(тиопероксоевая) _SO_-кислота
+
+@td
+–S(O)(=NH)-OSH
+
+@td
+en: sulfonimido(thioperoxoic) _OS_-acid
+ru: сульфонимидо(тиопероксоевая) _OS_-кислота
+
+@td colspan=3
+en: Sulfonimidic acids modified by replacement with S, Se or Te
+ru: Сульфон&(imidic acid|*), модифицированные путем замены на S, Se или Te
+
+@td
+
+@td
+–S(O)(=NH)-SH
+
+@td
+en: sulfonimidothioic _S_-acid
+ru: сульфонимидо&(thioic [acid]) _S_-кислота
+
+@td rowspan=7
+**6.**
+
+@td
+en: Sulfonodiimidic acids
+ru: Сульфоноди&(imidic acid|*)
+
+@td
+<$ {}–S(=NH)2-OH $>
+
+@td
+en: sulfonodiimidic acid
+ru: сульфоноди&(imidic acid)
+
+@td
+en: Sulfonodiimidoperoxoic acids 
+ru: Сульфонодиимидоперокс&(oic acid|*)
+
+@td
+<$ {}–S(=NH)2-OOH $>
+
+@td
+en: sulfonodiimidoperoxoic acid
+ru: сульфонодиимидоперокс&(oic acid)
+
+@td colspan=3
+en: Sulfonodiimidoperoxoic acids modified by replacement with S, Se, and/or Te
+ru: Сульфонодиимидоперокс&(oic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+<$ {}–S(=NH)2-SOH $>
+
+@td
+en: sulfonodiimido(thioperoxoic) _SO_-acid
+ru: сульфонодиимидо(тиопероксоевая) _SO_-кислота
+
+@td
+<$ {}–S(=NH)2-OSH $>
+
+@td
+en: sulfonodiimido(thioperoxoic) _OS_-acid
+ru: сульфонодиимидо(тиопероксоевая) _OS_-кислота
+
+@td colspan=3
+en: Sulfonodiimidic acids modified by replacement with S, Se, and/or Te
+ru: Сульфоноди&(imidic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(=NH)2-SeH $>
+
+@td
+en: sulfonodiimidoselenoic acid
+ru: сульфонодиимидо&(selenoic acid)
+
+@td rowspan=7
+**7.**
+
+@td
+en: Sulfonohydrazonic acids
+ru: Сульфоно&(hydrazonic acid|*)
+
+@td
+<$ {}–S(O)(=NNH2)-OH $>
+
+@td
+en: sulfonohydrazonic acid
+ru: сульфоно&(hydrazonic acid)
+
+@td
+en: Sulfonohydrazonoperoxoic acids
+ru: Сульфоногидразоноперокс&(oic acid|*)
+
+@td
+<$ {}–S(O)(=NNH2)-OOH $>
+
+@td
+en: sulfonohydrazonoperoxoic acid
+ru: сульфоногидразоноперокс&(oic acid)
+
+@td colspan=3
+en: Sulfonohydrazonoperoxoic acids modified by replacement with S, Se, and/or Te
+ru: Сульфоногидразоноперокс&(oic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(S)(=NNH2)-OOH $>
+
+@td
+en: sulfonohydrazonoperoxothioic acid 
+ru: сульфоногидразонопероксо&(thioic acid)
+
+@td colspan=3
+en: Sulfonohydrazonic acids modified by replacement with S, Se and/or Te
+ru: Сульфоно&(hydrazonic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+<$ {}–S(S)(=NNH2)-OH $>
+
+@td
+en: sulfonohydrazonothioic _O_-acid
+ru: сульфоногидразоно&(thioic [acid]) _O_-кислота
+
+@td
+<$ {}–S(O)(=NNH2)-SH $>
+
+@td
+en: sulfonohydrazonothioic _S_-acid
+ru: сульфоногидразоно&(thioic [acid]) _S_-кислота
+
+@td rowspan=6
+**8.**
+
+@td
+en: Sulfonodihydrazonic acids
+ru: Сульфоноди&(hydrazonic acid|*)
+
+@td
+<$ {}–S(=NNH2)2-OH $>
+
+@td
+en: sulfonodihydrazonic acid
+ru: сульфоноди&(hydrazonic acid)
+
+@td
+en: Sulfonodihydrazonoperoxoic acid
+ru: Сульфонодигидразоноперокс&(oic acid)
+
+@td
+<$ {}–S(=NNH2)2-OOH $>
+
+@td
+en: sulfonodihydrazonoperoxoic acid
+ru: сульфонодигидразоноперокс&(oic acid)
+
+@td colspan=3
+en: Sulfonodihydrazonoperoxoic acids modified by replacement with S, Se, and/or Te
+ru: Сульфонодигидразоноперокс&(oic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(=NNH2)2-SOH $>
+
+@td
+en: sulfonodihydrazono(thioperoxoic) _SO_-acid
+ru: сульфонодигидразоно(тиопероксоевая) _SO_-кислота
+
+@td colspan=3
+en: Sulfonodihydrazonic acids modified by replacement with S, Se, and/or Te 
+ru: Сульфоноди&(hydrazonic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(=NNH2)2-SH $>
+
+@td
+en: sulfonodihydrazonothioic acid
+ru: сульфонодигидразоно&(thioic acid)
+
+@td rowspan=9
+**9.**
+
+@td
+en: Sulfinic acids
+ru: Сульфиновые кислоты
+
+@td
+–SO-OH
+
+@td
+en: sulfinic acid
+ru: сульфиновая кислота
+
+@td
+en: Sulfinoperoxoic acid
+ru: Сульфиноперокс&(oic acid)
+
+@td
+–SO-OOH
+
+@td
+en: sulfinoperoxoic acid
+ru: сульфиноперокс&(oic acid)
+
+@td colspan=3
+en: Sulfinoperoxoic acid modified by replacement with S, Se, and/or Te
+ru: Сульфиноперокс&(oic acid), модифицированная путем замены на S, Se и/или Te
+
+@td rowspan=3
+
+@td
+–S(S)-OOH
+
+@td
+en: sulfinoperoxothioic acid
+ru: сульфинопероксо&(thioic acid)
+
+@td
+–SO-SOH
+
+@td
+en: sulfino(thioperoxoic) _SO_-acid
+ru: сульфино(тиопероксоевая) _SO_-кислота
+
+@td
+–SO-OSH
+
+@td
+en: sulfino(thioperoxoic) OS-acid
+ru: сульфино(тиопероксоевая) _OS_-кислота
+
+@td colspan=3
+en: Sulfinic acids modified by replacement with S, Se, and/or Te
+ru: Сульфиновые кислоты, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+–SS-OH
+
+@td
+en: sulfinothioic _O_-acid
+ru: сульфино&(thioic [acid]) _O_-кислота
+
+@td
+–SO-SeH
+
+@td
+en: sulfinoselenoic Se-acid
+ru: сульфино&(selenoic [acid]) Se-кислота
+
+@td rowspan=6
+**10.**
+
+@td
+en: Sulfinimidic acids
+ru: Сульфин&(imidic acid|*)
+
+@td
+–S(=NH)-OH
+
+@td
+en: sulfinimidic acid
+ru: сульфин&(imidic acid)
+
+@td
+en: Sulfinimidoperoxoic acids
+ru: Сульфинимидоперокс&(oic acid|*)
+
+@td
+–S(=NH)-OOH
+
+@td
+en: sulfinimidoperoxoic acid
+ru: сульфинимидоперокс&(oic acid)
+
+@td colspan=3
+en: Sulfinimidoperoxoic acids modified by replacement with S, Se and/or Te
+ru: Сульфинимидоперокс&(oic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+–S(=NH)-OSH
+
+@td
+en: sulfinimido(thioperoxoic) _OS_-acid
+ru: сульфинимидо(тиопероксоевая) _OS_-кислота
+
+@td colspan=3
+en: Sulfinimidic acids modified by replacement with S, Se, and/or Te
+ru: Сульфин&(imidic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+–S(=NH)-SH
+
+@td
+en: sulfinimidothioic acid
+ru: сульфинимидо&(thioic acid)
+
+@td rowspan=6
+**11.**
+
+@td
+en: Sulfinohydrazonic acids
+ru: Сульфино&(hydrazonic acid|*)
+
+@td
+<$ {}–S(=NNH2)-OH $>
+
+@td
+en: sulfinohydrazonic acid
+ru: сульфино&(hydrazonic acid)
+
+@td
+en: Sulfinohydrazonoperoxoic acids
+ru: Сульфиногидразоноперокс&(oic acid|*)
+
+@td
+<$ {}–S(=NNH2)-OOH $>
+
+@td
+en: sulfinohydrazonoperoxoic acid
+ru: сульфиногидразоноперокс&(oic acid)
+
+@td colspan=3
+en: Sulfinohydrazonoperoxoic acids modified by replacement with S, Se and/or Te
+ru: Сульфиногидразоноперокс&(oic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(=NNH2)-SSeH $>
+
+@td
+en: sulfinohydrazono(selenothioperoxoic) _SSe_-acid
+ru: сульфиногидразоно(селенотиопероксоевая) _SSe_-кислота
+
+@td colspan=3
+en: Sulfinohydrazonic acids modified by replacement with S, Se, and/or Te
+ru: Сульфино&(hydrazonic acid|*), модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(=NNH2)-TeH $>
+
+@td
+en: sulfinohydrazonotelluroic acid
+ru: сульфиногидразоно&(telluroic acid)
+
+@td
+**12.**
+
+@td
+en: Selenonic acids
+ru: &(Selenonic acid|*)
+
+@td
+<$ {}–SeO2-OH $>
+
+@td
+en: selenonic acid (as for sulfonic acids)
+ru: &(selenonic acid) (как для &(sulfonic acid|ro*))
+
+@td
+**13.**
+
+@td
+en: Seleninic acids
+ru: &(Seleninic acid|*)
+
+@td
+–SeO-OH
+
+@td
+en: seleninic acid (as for sulfinic acids)
+ru: &(seleninic acid) (как для сульфиновых кислот)
+
+@td
+**14.**
+
+@td
+en: Telluronic acids
+ru: &(Telluronic acid|*)
+
+@td
+<$ {}–TeO2-OH $>
+
+@td
+en: telluronic acid (as for sulfonic acids)
+ru: &(telluronic acid) (как для &(sulfonic acid|ro*))
+
+@td
+**15.**
+
+@td
+en: Tellurinic acids 
+ru: &(Tellurinic acid|*)
+
+@td
+–TeO-OH 
+
+@td
+en: tellurinic acid (as for sulfinic acids)
+ru: &(tellurinic acid) (как для сульфиновых кислот)
+
+@td rowspan=5
+**16.** 
+
+@td rowspan=2
+en: Carboxamides 
+ru: Карбоксамиды
+
+@td
+<$ {}–CO-NH2 $>
+
+@td
+en: carboxamide
+ru: карбоксамид
+
+@td
+<$ {}–(C)O-NH2 $>
+
+@td
+en: amide
+ru: амид
+
+@td colspan=3
+en: Carboxamides modified by replacement with S, Se, and/or Te
+ru: Карбоксамиды, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+<$ {}–CS-NH2 $>
+
+@td
+en: carbothioamide
+ru: карботиоамид
+
+@td
+<$ {}–(C)S-NH2 $>
+
+@td
+en: thioamide
+ru: тиоамид
+
+@td rowspan=2
+**17.** 
+
+@td rowspan=2
+en: Carboximidamides 
+ru: Карбоксимидамиды
+
+@td
+<$ {}–C(=NH)-NH2 $>
+
+@td
+en: carboximidamide
+ru: карбоксимидамид 
+
+@td
+<$ {}–(C)(=NH)-NH2 $>
+
+@td
+en: imidamide
+ru: имидамид
+
+@td rowspan=2
+**18.** 
+
+@td rowspan=2
+en: Carbohydrazonamides
+ru: Карбогидразонамиды 
+
+@td
+<$ {}–C(=NNH2)-NH2 $>
+
+@td
+en: carbohydrazonamide
+ru: карбогидразонамид
+
+@td
+<$ {}–(C)(=NNH2)-NH2 $>
+
+@td
+en: hydrazonamide 
+ru: гидразонамид
+
+@td rowspan=4
+**19.** 
+
+@td
+en: Sulfonamides 
+ru: &(Sulfonamide|*)
+
+@td
+<$ {}–SO2-NH2 $>
+
+@td
+en: sulfonamide
+ru: &(sulfonamide)
+
+@td colspan=3
+en: Sulfonamides modified by replacement with S, Se, and/or Te
+ru: &(Sulfonamide|*), модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=2
+
+@td
+<$ {}–S(O)(S)-NH2 $>
+
+@td
+en: sulfonothioamide
+ru: сульфонотиоамид
+
+@td
+<$ {}–S(S)(Se)-NH2 $>
+
+@td
+en: sulfonoselenothioamide
+ru: сульфоноселенотиоамид
+
+@td rowspan=3
+**20.** 
+
+@td
+en: Sulfonimidamides 
+ru: Сульфонимидамиды
+
+@td
+<$ {}–S(O)(=NH)-NH2 $>
+
+@td
+en: sulfonimidamide 
+ru: сульфонимидамид
+
+@td colspan=3
+en: Sulfonimidamides modified by replacement with S, Se, and/or Te
+ru: Сульфонимидамиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(S)(=NH)-NH2 $>
+
+@td
+en: sulfonimidothioamide 
+ru: сульфонимидотиоамид
+
+@td
+**21.** 
+
+@td
+en: Sulfonodiimidamides 
+ru: Сульфонодиимидамиды
+
+@td
+<$ {}–S(=NH)2-NH2 $>
+
+@td
+en: sulfonodiimidamide
+ru: сульфонодиимидамид 
+
+@td rowspan=3
+**22.** 
+
+@td
+en: Sulfonohydrazonamides
+ru: Сульфоногидразонамиды 
+
+@td
+<$ {}–S(O)(=NNH2)-NH2 $>
+
+@td
+en: sulfonohydrazonamide
+ru: сульфоногидразонамид
+
+@td colspan=3
+en: Sulfonohydrazonamides modified by replacement with S, Se, and/or Te 
+ru: Сульфоногидразонамиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(S)(=NNH2)-NH2 $>
+
+@td
+en: sulfonohydrazonothioamide
+ru: сульфоногидразонотиоамид
+
+@td
+**23.** 
+
+@td
+en: Sulfonodihydrazonamides 
+
+@td
+<$ {}–S(=NNH2)2-NH2 $>
+
+@td
+en: sulfonodihydrazonamide 
+ru: сульфонодигидразонамид
+
+@td rowspan=3
+**24.** 
+
+@td
+en: Sulfinamides 
+ru: Сульфинамиды
+
+@td
+<$ {}–SO-NH2 $>
+
+@td
+en: sulfinamide 
+ru: сульфинамид
+
+@td colspan=3
+en: Sulfinamides modified by replacement with S, Se, and/or Te
+ru: Сульфинамиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(Se)-NH2 $>
+
+@td
+en: sulfinoselenoamide 
+ru: сульфиноселеноамид
+
+@td
+**25.** 
+
+@td
+en: Sulfinimidamides
+ru: Сульфинимидамиды 
+
+@td
+<$ {}–S(=NH)-NH2 $>
+
+@td
+en: sulfinimidamide
+ru: сульфинимидамид
+
+@td
+**26.** 
+
+@td
+en: Sulfinohydrazonamides 
+ru: Сульфиногидразонамиды
+
+@td
+<$ {}–S(=NNH2)-NH2 $>
+
+@td
+en: sulfinohydrazonamide
+ru: сульфиногидразонамид
+
+@td
+**27.** 
+
+@td
+en: Selenonamides 
+ru: &(Selenonamide|*)
+
+@td
+<$ {}–SeO2-NH2 $>
+
+@td
+en: selenonamide (as for sulfonamides)
+ru: &(selenonamide) (как для &(sulfonamide|ro*))
+
+@td
+**28.**
+
+@td
+en: Seleninamides
+ru: Селенинамиды
+
+@td
+<$ {}–SeO-NH2 $>
+
+@td
+en: seleninamide (as for sulfinamides)
+ru: селенинамид (как для сульфинамидов)
+
+@td
+**29.**
+
+@td
+en: Telluronamides 
+ru: Теллуронамиды
+
+@td
+<$ {}–TeO2-NH2 $>
+
+@td
+en: telluronamide (as for sulfonamides)
+ru: теллуронамид (как для &(sulfonamide|ro*))
+
+@td
+**30.** 
+
+@td
+en: Tellurinamides
+ru: Теллуринамиды 
+
+@td
+<$ {}–TeO-NH2 $>
+
+@td
+en: tellurinamide (as for sulfinamide)
+ru: теллуринамид (как для сульфинамида) 
+
+@td rowspan=4
+**31.**
+
+@td rowspan=2
+en: Carbohydrazides
+ru: Карбогидразиды 
+
+@td
+<$ {}–CO-NHNH2 $>
+
+@td
+en: carbohydrazide
+ru: карбогидразид
+
+@td
+<$ {}–(C)O-NHNH2 $>
+
+@td
+en: hydrazide
+ru: гидразид
+
+@td colspan=3
+en: Carbohydrazides modified by replacement with S, Se, and/or Te 
+ru: Карбогидразиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–CS-NHNH2 $>
+
+@td
+en: carbothiohydrazide
+ru: карботиогидразид
+
+@td rowspan=2
+**32.**
+
+@td rowspan=2
+en: Carboximidohydrazides
+ru: Карбоксимидогидразиды
+
+@td
+<$ {}–C(=NH)-NHNH2 $>
+
+@td
+en: carboximidohydrazide
+ru: карбоксимидогидразид
+
+@td
+<$ {}–(C)(=NH)-NHNH2 $>
+
+@td
+en: imidohydrazide
+ru: имидогидразид
+
+@td rowspan=2
+**33.**
+
+@td rowspan=2
+en: Carbohydrazonohydrazides
+ru: Карбогидразоногидразиды
+
+@td
+<$ {}–C(=NNH2)-NHNH2 $>
+
+@td
+en: carbohydrazonohydrazide
+ru: карбогидразоногидразид
+
+@td
+<$ {}–(C)(=NNH2)-NHNH2 $>
+
+@td
+en: hydrazonohydrazide
+ru: гидразоногидразид
+
+@td rowspan=3
+**34.**
+
+@td
+en: Sulfonohydrazides
+ru: Сульфоногидразиды
+
+@td
+<$ {}–SO2-NHNH2 $>
+
+@td
+en: sulfonohydrazide
+ru: сульфоногидразид
+
+@td colspan=3
+en: Sulfonohydrazides modified by replacement with S, Se, and/or Te
+ru: Сульфоногидразиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(O)(S)-NHNH2 $>
+
+@td
+en: sulfonothiohydrazide
+ru: сульфонотиогидразид
+
+@td rowspan=3
+**35.**
+
+@td
+en: Sulfonimidohydrazides
+ru: Сульфонимидогидразиды
+
+@td
+<$ {}–S(O)(=NH)-NHNH2 $>
+
+@td
+en: sulfonimidohydrazide
+ru: сульфонимидогидразид
+
+@td colspan=3
+en: Sulfonimidohydrazides modified by replacement with S, Se, and/or Te
+ru: Сульфонимидогидразиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {} –S(Se)(=NH)-NHNH2 $>
+
+@td
+en: sulfonimidoselenohydrazide
+ru: сульфонимидоселеногидразид
+
+@td
+**36.**
+
+@td
+en: Sulfonodiimidohydrazides
+ru: Сульфонодиимидогидразиды
+
+@td
+<$ {}–S(=NH)2-NHNH2 $>
+
+@td
+en: sulfonodiimidohydrazide
+ru: сульфонодиимидогидразид
+
+@td rowspan=3
+**37.**
+
+@td
+en: Sulfonohydrazonohydrazides
+ru: Сульфоногидразоногидразиды
+
+@td
+<$ {}–S(O)(=NNH2)-NHNH2 $>
+
+@td
+en: sulfonohydrazonohydrazide 
+ru: сульфоногидразоногидразид
+ 
+@td colspan=3
+en: Sulfonohydrazonohydrazides modified by replacement with S, Se, andor Te 
+ru: Сульфоногидразоногидразиды, модифицированные заменой на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(Te)(=NNH2)-NHNH2 $>
+
+@td
+en: sulfonohydrazonotellurohydrazide
+ru: сульфоногидразонотеллурогидразид
+
+@td
+**38.**
+
+@td
+en: Sulfonodihydrazonohydrazides
+ru: Сульфонодигидразоногидразиды
+
+@td
+<$ {}–S(=NNH2)2-NHNH2 $>
+
+@td
+en: sulfonodihydrazonohydrazide
+ru: сульфонодигидразоногидразид
+
+@td rowspan=3
+**39.**
+
+@td
+en: Sulfinohydrazides
+ru: Сульфиногидразиды
+
+@td
+<$ {}–S(O)-NHNH2 $>
+
+@td
+en: sulfinohydrazide 
+ru: сульфиногидразид
+
+@td colspan=3
+en: Sulfinohydrazides modified by replacement with S, Se, and/or Te 
+ru: Сульфиногидразиды, модифицированные путем замены на S, Se и/или Te
+
+@td
+
+@td
+<$ {}–S(Se)-NHNH2 $>
+
+@td
+en: sulfinoselenohydrazide
+ru: сульфиноселеногидразид 
+
+@EndTable

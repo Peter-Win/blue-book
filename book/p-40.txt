@@ -1255,20 +1255,38 @@ ru: бромноватистая кислота
 @cell
 BrOH
 
+@cell
+en: periodic acid
+ru: иодная кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=4943
+
+@cell
+<$ I(O)3OH $>
+
+@cell
+en: iodic acid
+ru: иодноватая кислота
+
+@cell
+<$ I(O)2OH $>
+
+@cell
+en: iodous acid
+ru: иодистая кислота
+
+@cell
+<$ I(O)OH $>
+
+@cell
+en: hypoiodous acid
+ru: иодноватистая кислота
+
+@cell
+IOH
+
 @End
-
-#P-43
-en: Seniority order for suffixes 
-ru: Порядок старшинства суффиксов
-
-#P-44
-en: Seniority order for parent structures 
-ru: Порядок старшинства &(parent structure|ro*)
-
-#P-45
-en: Selection of the preferred IUPAC name 
-ru: Выбор предпочтительного названия ИЮПАК
-
-#P-46
-en: The principal chain in substituent groups
-ru: Основная цепь в &(substituent group|pr*)
+//        X(O)3OH             X(O)2OH             X(O)OH              XOH
+//    F  perfluoric/фторная  fluoric/фторноватая  fluorous/фтористая  hypofluorous/фторноватистая
+//   Cl  perchloric/хлорная  chloric/хлорноватая  chlorous/хлористая  hypochlorous/хлорноватистая
+//   Br  perbromic/бромная   bromic/бромноватая   bromous/бромистая   hypobromous/бромноватистая
+//    I  periodic/иодная     iodic/иодноватая     iodous/иодистая     hypoiodous/иодноватистая

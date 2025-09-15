@@ -229,7 +229,7 @@ selenobenzoic acid <br>
 selenium replaces either =O or –O–)
 // Не точный перевод.
 // К сожалению, selenoic acid не найдено ни в pubchem, ни в chemspider, ни даже в google
-ru: бензолкарбоселеновая кислота (PIN) <br>
+ru: бензолкарбо&(selenoic acid) (PIN) <br>
 (замена инфикса = селен(o)’; <br>
 селен заменяет либо =O, либо –O–) <br>
 селенобензойная кислота <br>

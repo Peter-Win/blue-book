@@ -159,6 +159,9 @@
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
 
+  "hydrazonic acid": "гидразоновая кислота",
+  "hydrazonic acid|*": "гидразоновые кислоты",
+
   "hydroxamic acid": "гидроксамовая кислота",
   "hydroximic acid": "гидроксимовая кислота",
 
@@ -174,6 +177,7 @@
   "indicated hydrogen atom|*": "атомы указанного водорода",
 
   "imidic acid": "имидовая кислота",
+  "imidic acid|*": "имидовые кислоты",
   "imidic acid|ro*": "имидовых кислот",
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
@@ -191,7 +195,8 @@
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",
 
-  "oic acid": "овая кислота",
+  "oic acid": "оевая кислота",
+  "oic acid|*": "оевые кислоты",
 
   "parent|*": "исходные",
 
@@ -348,8 +353,16 @@
   "ring junction|da*": "местам соединений колец",
 
   "seleninic acid": "селениновая кислота",
+  "seleninic acid|*": "селениновые кислоты",
   "seleninohydrazide": "селениногидразид",
+
+  "selenonamide": "селеноамид",
+  "selenonamide|*": "селеноамиды",
+
+  "selenoic [acid]": "селеновая",
+  "selenoic acid": "селеновая кислота",
   "selenonic acid": "селеноновая кислота",
+  "selenonic acid|*": "селеноновые кислоты",
 
   "skeletal replacement a": "скелетное замещения (‘a’)",
   "skeletal replacement a|ro": "скелетного замещения (‘a’)",
@@ -389,10 +402,27 @@
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",
 
+  "sulfonamide:comment": "В русскоязычной литературе более известны как сульфаниламиды. Однако с точки зрения систематизации лучше Сульфонамиды",
+  "sulfonamide": "сульфонамид",
+  "sulfonamide|*": "сульфонамиды",
+  "sulfonamide|ro*": "сульфонамидов",
+
+  "sulfonic acid:comment": "Хотя википедии основной вариант - сульфокислоты, но тут выбран вариант 'сульфоновые кислоты', т.к. он единообразен с подобными названиями. И лучше соответствует инфиксам",
+  "sulfonic acid": "сульфоновая кислота",
+  "sulfonic acid|*": "сульфоновые кислоты",
+  "sulfonic acid|ro*": "сульфоновых кислот",
+  "sulfonic acid|da*": "сульфоновым кислотам",
+
+
   "tellurinic acid": "теллуриновая кислота",
   "tellurinic acid|*": "теллуриновые кислоты",
+  "telluroic [acid]": "теллуровая",
+  "telluroic acid": "теллуровая кислота",
   "telluronic acid": "теллуроновая кислота",
   "telluronic acid|*": "теллуроновые кислоты",
+
+  "thioic [acid]": "тиоевая",
+  "thioic acid": "тиоевая кислота",
 
   "zzz": ""
 }
