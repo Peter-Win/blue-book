@@ -761,7 +761,7 @@ ru: 1-(3,4-дигидрохинолин-1(2H)-ил)этан-1-он (PIN, P-64.3.
 #P-16.5.4.1.2+
 en: In determining the nesting order in a name the square brackets of ring fusion, spiro fusion, ring assembly, 
 or the extended von Baeyer names are ignored.
-ru: При определении порядка вложения в имени квадратные скобки кольцевого слияния, спирослияния, кольцевой сборки 
+ru: При определении порядка вложения в имени квадратные скобки кольцевого слияния, &(spiro fusion), кольцевой сборки 
 или расширенных имен фон Байера игнорируются.
 
 @Examples

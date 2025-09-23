@@ -1,0 +1,1712 @@
+#P-44.2
+en: Seniority order only for rings and ring systems  
+ru: Только порядок старшинства для колец и систем колец
+
+@Content
+
+%P-44.2.1
+en: Criteria general to all rings and ring systems (other than phanes, both cyclic and linear, for which see  
+P-44.2.2.2.2 and P-44.2.2.2.6, respectively) 
+ru: Общие критерии для всех колец и кольцевых систем (кроме &(phane|ro*), как циклических, так и линейных, 
+для которых см. P-44.2.2.2.2 и P-44.2.2.2.6 соответственно)
+
+#P-44.2.1+
+en: If application of P-44.1 does not effect a choice, general criteria for determining ring seniority given below are 
+applied successively until there are no alternatives remaining. These criteria are listed first and then separately 
+illustrated in P-44.2.1.2 through P-44.2.1.8, below. 
+ru: Если применение пункта P-44.1 не влияет на выбор, общие критерии определения старшинства кольца, приведенные ниже, 
+применяются последовательно до тех пор, пока не останется альтернатив. Эти критерии перечислены первыми и затем отдельно 
+проиллюстрированы в пунктах P-44.2.1.2 – P-44.2.1.8 ниже.
+
+en: The senior ring or ring system:
+ru: Старшинство колец или кольцевых систем:
+
+@List
+
+@item
+en: is a heterocycle; 
+ru: является гетероциклом;
+
+@item
+en: has at least one nitrogen atom; 
+ru: имеет по крайней мере один атом азота;
+
+@item
+en: has at least one heteroatom (in the absence of nitrogen) that occurs earlier in the following sequence: <%o%>
+ru: имеет по крайней мере один гетероатом (при отсутствии азота), который встречается ранее в следующей последовательности: <%o%>
+%o: F > Cl > Br > I > O > S > Se > Te > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl; 
+
+@item
+en: has the greater number of rings;
+ru: имеет большее количество колец;
+
+@item
+en: has the greater number of skeletal atoms;
+ru: имеет большее количество скелетных атомов;
+
+@item
+en: has the greater number of heteroatoms of any kind;
+ru: имеет большее число гетероатомов любого вида;
+
+@item
+en: has the greater number of heteroatoms occurring earlier in the sequence: <%o%>
+ru: имеет большее количество гетероатомов, встречающихся раньше в последовательности: <%o%>
+%o: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl.
+
+@End
+
+#P-44.2.1.1+
+en: General methodology. 
+ru: Общая методология.
+
+en: In order to apply P-44.2 after P-44.1 has failed to reach a conclusion, there must not be a characteristic group present in 
+the compound, or the same number of a characteristic group must be present in all cyclic structures to be compared. In 
+the following examples, as well as examples throughout P-44.2, seniority is expressed by the symbol ‘>’ to be read as 
+‘senior to’. In the case of larger structures the phrase ‘is senior to’ is cited between the senior structure and the less 
+senior structure. 
+ru: Для применения P-44.2 после того, как P-44.1 не смог прийти к заключению, в соединении не должно присутствовать 
+&(characteristic group|ro), или же во всех сравниваемых циклических структурах должно присутствовать одинаковое количество 
+&(characteristic group|ro). В следующих примерах, а также в примерах в P-44.2, старшинство обозначается символом «>», который 
+читается как «старше по отношению к». В случае более крупных структур фраза «старше по отношению к» ставится между старшей 
+структурой и менее старшей структурой.
+
+@Examples
+en: Examples (the symbol > means ‘is senior to’):
+ru: Примеры (символ > означает «старше»):
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N@n(1,-90,.6)\\@n(2,-90,.45)/\/\\/\\|`//`\<`|>`//`\`||
+$>
+
+en: 2-[(naphthalen-2-yl)methyl]pyridine (PIN)  <br>
+(pyridine > naphthalene) 
+ru: 2-[(нафталин-2-ил)метил]пиридин (PIN) <br>
+(пиридин > нафталин)
+
+@End
+
+en: **Note**: In this compound, there is no characteristic group to be cited as suffix. One ring must be chosen as the senior ring 
+that will serve as the parent hydride; the other ring will be cited as a prefix to the parent hydride. Criteria in P-44.2.1 
+must be applied starting from (a), in the order given, until a decision is reached. In this case, application of the first 
+criterion (a) leads to a decision: the ring containing a nitrogen atom is selected as parent hydride; the naphthalene ring 
+system is cited as a substituent. 
+ru: **Примечание**: В данном соединении нет &(characteristic group|ro), которая могла бы быть указана в качестве суффикса. 
+Одно кольцо должно быть выбрано в качестве старшего, которое будет служить &(parent hydride|tv); 
+другое кольцо будет указано в качестве префикса к &(parent hydride|da). Критерии P-44.2.1 должны применяться, начиная с (a), 
+в указанном порядке, до принятия решения. В этом случае применение первого критерия (a) приводит к решению: 
+кольцо, содержащее атом азота, выбирается в качестве &(parent hydride|ro); нафталиновая кольцевая система указывается в 
+качестве заместителя.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:hp()<`|_(a64.3)_q7:t_q7_q7_q7<_(x#-1;t,y.4)_#t>_q7_q7>@;
+`\\@n(8,-40)@hp()`/||\//`|/\\|<`//`\>\//`|`\\@n(1,-40)@hp()`/
+$>
+
+en: 1,8-di(bicyclo[3.2.1]octan-3-yl)anthracene (PIN) 
+ru: 1,8-ди(бицикло[3.2.1]октан-3-ил)антрацен (PIN)
+
+@End
+
+en: **Note**: In the above compound, there is no characteristic group to be cited as suffix. One ring must be chosen as the 
+senior ring that will serve as the parent hydride; the other ring will be cited as a prefix to the parent hydride. Criteria in 
+P-44.2.1 must be applied starting from criterion (a), in the order given, until a decision is reached. In this case, 
+application of criterion (d) leads to a decision: anthracene has more rings and is the parent structure; the bicyclo ring is 
+cited as a substituent. 
+ru: **Примечание**: В приведенном выше соединении нет &(characteristic group|ro), которая могла бы быть указана в качестве 
+суффикса. Одно кольцо должно быть выбрано в качестве старшего кольца, которое будет служить &(parent hydride|tv); 
+другое кольцо будет указано в качестве префикса к &(parent hydride|da). Критерии P-44.2.1 должны применяться, начиная с 
+критерия (a), в указанном порядке, до принятия решения. В этом случае применение критерия (d) приводит к решению: 
+антрацен имеет больше колец и является &(parent structure|tv); бициклокольцо указывается в качестве заместителя.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_qN<_q_q>-CH2-CH2-CH2-O_(A-30)@n(7,90)\<|`O{Me}>@n(6,30)//`|`\\r<`/||>`|N@n(1,-150,.5)//\N||@n(4,90)<`/>\O/`|//\|r_q_qq<-CH3>_qN<_(y-.5)H>_q|`/`\c\|F
+$>
+
+en: 4-[(4-fluoro-2-methyl-1_H_-indol-5-yl)oxy]-6-methoxy-7-[3-(pyrrolidin- 1-yl)propoxy]quinazoline (PIN)  <br>
+(quinazoline > indole > pyrrolidine) 
+ru: 4-[(4-фтор-2-метил-1_H_-индол-5-ил)окси]-6-метокси-7-[3-(пирролидин-1-ил)пропокси]хиназолин (PIN) <br>
+(хиназолин > индол > пирролидин)
+
+@End
+
+en: **Note**: In this compound, there are two ring systems and one ring. No characteristic group to be cited as suffix is present. 
+Characteristic groups to be cited as prefixes are ignored at this stage of the selection of the senior ring or ring system. 
+The ring system ‘quinazoline’ is selected as parent hydride after applying criteria (a), (b), and (d) in P-44.2.1; and 
+finally it is criterion (e) that permits a decision to be reached between ‘quinazoline’ and ‘indole’. Quinazoline is the 
+parent hydride and both indole and pyrrolidine are included in the substituents cited as prefixes. 
+ru: **Примечание**: В этом соединении присутствуют две циклические системы и одно кольцо. &(Characteristic group), указываемая 
+в качестве суффикса, отсутствует.
+&(Characteristic group|*), указываемые в качестве префиксов, игнорируются на данном этапе выбора старшего цикла или 
+циклической системы.
+Кольцевая система «хиназолин» выбрана в качестве &(parent hydride|ro) после применения критериев (a), (b) и (d) в P-44.2.1; 
+и, наконец, именно критерий (e) позволяет сделать выбор между «хиназолином» и «индолом». Хиназолин является &(parent hydride|tv), 
+а индол и пирролидин включены в заместители, указываемые в качестве префиксов.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N\\/\/O\||N\<|N@n(4,-30,.5)\|`/O@n(1,90,.6)`\`|/>//`|<`\\N`/>/N<_(y-.5)H>\N\\|`//|\\/<\CH3>`||`\
+$>
+
+en: 4-(6-{2-[(3-methylphenyl)methylidene]hydrazin-1-yl}-2-[2-(pyridin-2-yl)ethoxy]pyrimidin-4-yl)morpholine (PIN)  <br>
+(morpholine > pyrimidine > pyridine > benzene) 
+ru: 4-(6-{2-[(3-метилфенил)метилиден]гидразин-1-ил}-2-[2-(пиридин-2-ил)этокси]пиримидин-4-ил)морфолин (PIN) <br>
+(морфолин > пиримидин > пиридин > бензол)
+
+@End
+
+en: **Note**: In this compound, ‘morpholine’ is chosen as parent hydride, as a decision in the selection of the senior ring 
+cannot be made until criterion (f) in P-44.2.1 is reached. The rings benzene, pyridine, and pyrimidine are expressed 
+within the substituent prefixes. 
+ru: **Примечание**: В данном соединении в качестве &(parent hydride|ro) выбран «морфолин», поскольку решение о выборе 
+старшего цикла не может быть принято до достижения критерия (f) в P-44.2.1. Циклы бензола, пиридина и пиримидина обозначены 
+префиксами заместителей.
+
+#P-44.2.1.2+
+en: The senior ring or ring system is a heterocycle [criterion (a) in P-44.2.1]. 
+ru: Старшее кольцо или кольцевая система представляет собой гетероцикл [критерий (а) в P-44.2.1].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’):
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$ |`//`\`||/\\/N\\|`//`\ $>
+
+@cell
+>
+
+@cell
+<$ `//`\`||/\\|\//`|<`\\`/>/\\|`//`\ $>
+
+@cell
+en: quinoline (PIN)
+ru: хинолин (PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=2313
+
+@cell
+
+@cell
+en: anthracene (PIN)
+ru: антрацен (PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=373
+
+@End
+
+#P-44.2.1.3+
+en: The senior ring or ring system has at least one nitrogen ring atom [criterion (b) in P-44.2.1]
+ru: Старшее кольцо или кольцевая система имеет по крайней мере один атом азота в кольце [критерий (b) в P-44.2.1]
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше»):
+
+@cell
+<$ -_qq_qN<_(y-.5)H>_q_qq $>
+
+en: 1_H_-pyrrole (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/O@n(1,-90,.6)\@n(2,-30,.4)|`//`\
+$>
+
+en: 2_H_-1-benzopyran (PIN)  <br>
+2_H_-chromene 
+
+@cell
+<$ -_qq_qN<_(y-.5)H>_q_qq $>
+
+en: 1_H_-pyrrole (PIN)
+
+@cell
+>
+
+@cell
+<$ H_(y.5)Si\\|`//`\`||/ $>
+
+en: 2_H_-siline (PIN)
+ru: 2_H_-силин (PIN)
+
+@End
+
+#P-44.2.1.4+
+en: The senior ring or ring system has at least one heteroatom (in the absence of nitrogen) that occurs earlier in 
+the following sequence: <%o%> [criterion (c) in P-44.2.1].
+ru: Старшее кольцо или кольцевая система имеет по крайней мере один гетероатом (при отсутствии азота), 
+который встречается раньше в следующей последовательности: <%o%> [критерий (c) в P-44.2.1].
+%o: F > Cl > Br > I > O > S > Se > Te > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше»):
+
+@cell
+<$ -_qq_qO_q_qq $>
+
+en: furan (PIN) 
+ru: фуран (PIN) 
+
+@cell
+>
+
+@cell
+<$ -_qq_qS_q_qq $>
+
+en: thiophene (PIN)
+ru: тиофен (PIN)
+
+@cell colspan=3
+[O > S] 
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/`\\`|//\|@n(3a,80,.5)_q_qq_qO@n(1,-80,.6)_q@n(7a,-90,.5)`-|-
+$>
+
+en: 3a,7a-ethano-1-benzofuran (PIN)
+ru: 3a,7a-этано-1-бензофуран (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/`\\`|//\|@n(3a,80,.5)_q@n(3,80)_qS@n(2,0)_q@n(1,-80)_q@n(7a,-90,.5)`-|-
+$>
+
+en: 1_H_,3_H_-3a,7a-ethano-2-benzothiophene (PIN)
+ru: 1_H_,3_H_-3a,7a-этано-2-бензотиофен (PIN)
+
+@cell colspan=3
+[O > S] 
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$slope(60)`/\-/`\O@n(2,-40,.5)`-@n(1,-120)\`/
+$>
+
+en: 2-oxabicyclo[3.1.1]heptane (PIN)
+ru: 2-оксабицикло[3.1.1]гептан (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$slope(60)P@n(1,-140,.5)`/\-/`\`-\`/
+$>
+
+en: 1-phosphabicyclo[3.1.1]heptane (PIN)
+ru: 1-фосфабицикло[3.1.1]гептан (PIN)
+
+@cell colspan=3
+[O > P]
+
+@End
+
+#P-44.2.1.5+
+en: The senior ring or ring system has the greater number of rings [criterion (d) in P-44.2.1]. 
+ru: Старшее кольцо или система колец имеет большее количество колец [критерий (d) в P-44.2.1].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$ `//`\`||/\\|\//`|N`\\`/ $>
+
+en: isoquinoline (PIN) 
+ru: изохинолин (PIN)
+
+@cell
+>
+
+@cell
+<$ -_qq_qN<_(y-.5)H>_q_qq $>
+
+en: 1_H_-pyrrole (PIN) 
+ru: 1_H_-пиррол (PIN)
+
+@cell colspan=3
+en: [2 rings > 1 ring]
+ru: [2 кольца > 1 кольца]
+
+@End
+
+#P-44.2.1.6+
+en: The senior ring or ring system has the greater number of skeletal atoms [criterion (e) in P-44.2.1]. 
+ru: Старшее кольцо или кольцевая система имеет большее число скелетных атомов [критерий (e) в P-44.2.1].
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше»):
+
+@cell
+<$ |`//`\`||/\\/N\\|`//`\ $>
+
+en: quinoline (PIN)
+ru: хинолин (PIN)
+
+@cell
+>
+
+@cell
+<$ `//`\`||/\\|_q_qq_qN<_(y-.5)H>_q $>
+
+en: 1_H_-indole (PIN)
+ru: 1_H_-индол (PIN)
+
+@cell colspan=3
+en: [10 skeletal atoms > 9 skeletal atoms] 
+ru: [10 скелетных атомов > 9 скелетных атомов]
+
+@cell
+<$ `/|\/\/`|`\`/`\_(y#1;4,x.4)_#4 $>
+
+en: bicyclo[6.2.1]undecane (PIN)
+ru: бицикло[6.2.1]ундекан (PIN)
+
+@cell
+>
+
+@cell
+<$ |`//`\`||/\\/\\|`//`\ $>
+
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell colspan=3
+en: [11 skeletal atoms > 10 skeletal atoms] 
+ru: [11 скелетных атомов > 10 скелетных атомов]
+
+@End
+
+en: **Note**: Because of the hierarchical nature of these criteria, this criterion regarding the number of skeletal atoms 
+supersedes P-44.2.2.2, which prefers a fused ring to a bridged fused ring.
+ru: **Примечание**: Из-за иерархической природы этих критериев этот критерий, касающийся числа атомов скелета, 
+заменяет критерий P-44.2.2.2, который отдает предпочтение конденсированному кольцу перед мостиковым конденсированным кольцом.
+
+@Examples -- 3
+
+@cell
+<$ `-|r`/`\\`|//\|-`||r/\\|`//`\ $>
+
+en: biphenylene (PIN) 
+ru: бифенилен (PIN) 
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\|`//`\`//`\`||/\\<|>/@n(1,-90)_(y#1;4,x-.3)_#4@n(4,90)
+$>
+
+en: 1,4-methanonaphthalene (PIN)
+ru: 1,4-метанонафталин (PIN)
+
+@cell colspan=3
+en: [12 skeletal atoms > 11 skeletal atoms] 
+ru: [12 скелетных атомов > 11 скелетных атомов]
+
+@End
+
+en: **Note**: Because of the hierarchical nature of these criteria, this criterion regarding the number of skeletal atoms 
+supersedes P-44.2.2.2, which prefers a fused ring to a bridged fused ring. 
+ru: **Примечание**: Ввиду иерархической природы этих критериев, данный критерий, касающийся числа атомов скелета,
+заменяет критерий P-44.2.2.2, который отдает предпочтение конденсированному кольцу перед мостиковым конденсированным кольцом.
+
+#P-44.2.1.7+
+en: The senior ring or ring system has the greater number of heteroatoms of any kind [criterion (f) in P-44.2.1] 
+ru: Старшее кольцо или кольцевая система имеет большее количество гетероатомов любого типа [критерий (f) в P-44.2.1]
+
+@Examples 4
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше»):
+
+@cell
+(1)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|O@n(7,-40,.5)_q7@n(1,-80)<|_#1>_q7O@n(2,-120,.6)_q7@n(3,-170)_q7_q7O@n(5,50,.55)_q7
+$>
+
+en: 2,5,7-trioxabicyclo[4.1.1]octane (PIN)
+ru: 2,5,7-триоксабицикло[4.1.1]октан (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_q7_q7:a_q7_q7<_(y#-1;a,x-.5)_#a>@n(1,-60)_q7O@n(2,-120,.6)_q7
+$>
+
+en: 2-oxabicyclo[4.1.1]octane (PIN)
+ru: 2-оксабицикло[4.1.1]октан (PIN)
+
+@cell
+
+@cell colspan=3
+en: [3 heteroatoms > 1 heteroatom]
+ru: [3 гетероатома > 1 гетероатом]
+
+@cell
+(2)
+
+@cell
+<$ |`//`\`||/\\/N\\N|`//`\ $>
+
+en: cinnoline (PIN) 
+ru: циннолин (PIN) 
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q_qq_q_qq>@n(c,-120,.65)_pp7_p7_pp7_p7N_pp7_p7
+$>
+
+en: cyclopenta[c]azepine (PIN) 
+ru: циклопента[c]азепин (PIN)
+
+@cell
+
+@cell colspan=3
+en: [2 heteroatoms > 1 heteroatom] 
+ru: [2 гетероатома > 1 гетероатом]
+
+@cell
+(3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$slope(45)`/`\/\@n(7,100,.6)$slope(60)\O@n(11,90,.6)--O@n(12,90,.6)/<`\O@n(5,-90,.6)`--O@n(6,-90,.6)`/>$slope(45)\/@n(2,0)`\@n(1,-90)`/@n(4,80,.6)
+$>
+
+en: 5,6,11,12-tetraoxadispiro[3.2.3^{7}.2^{4}]dodecane (PIN) 
+ru: 5,6,11,12-тетраоксадиспиро[3.2.3^{7}.2^{4}]додекан (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|`\O@n(11,-90,.6)`/|_(a105)_q4_q4_q4@n(6,70,.5)_(a105)/@n(4,110,.5)_(a105)_q4_q4@n(1,-70)_q4
+$>
+
+en: 11-oxadispiro[3.1.3^{6}.3^{4}]dodecane (PIN)
+ru: 11-оксадиспиро[3.1.3^{6}.3^{4}]додекан (PIN)
+
+@cell
+
+@cell colspan=3
+en: [4 heteroatoms > 1 heteroatom] 
+ru: [4 гетероатома > 1 гетероатом]
+
+@cell
+(4)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(c,-60,.7)<_q_qqSiH_q_qq>@n(4,-130)_pp_pHSi_pp_p@n(3,140)
+$>
+
+en: silolo[3,4-_c_]silole (PIN)
+ru: силоло[3,4-_c_]силол (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(c,-60,.7)<_q_qqSiH_q_qq>_pp_p_pp_p
+$>
+
+en: cyclopenta[_c_]silole (PIN)
+ru: циклопента[_c_]силол (PIN)
+
+@cell
+
+@cell colspan=3
+en: [2 heteroatoms > 1 heteroatom]
+ru: [2 гетероатома > 1 гетероатом]
+
+@cell
+(5)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_p7:a_pp7_p7<_(p-1;1;a)_#1>@n(6,-170)_pp7_p7O_p7@n(8a,-90,.6)|0_qq_q@n(2,0)_qO@n(1,-80,.6)_q
+$>
+
+en: 2_H_-6,8a-methanofuro[2,3-_b_]oxepine (PIN)
+ru: 2_H_-6,8a-метанофуро[2,3-_b_]оксепин (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_q_qq_q@n(1,-80)_q>_p7_pp7_p7<_(p-1;-1;1;2)O_#2@n(3a,80,.5)>@n(6,180)_pp7_p7_pp7
+$>
+
+en: 1_H_-3a,6-epoxyazulene (PIN) 
+ru: 1_H_-3a,6-эпоксиазулен (PIN)
+
+@cell
+
+@cell colspan=3
+en: [2 heteroatoms > 1 heteroatom]
+ru: [2 гетероатома > 1 гетероатом]
+
+@End
+
+#P-44.2.1.8+
+en: The senior ring or ring system has the greater number of heteroatoms that occur earlier in the following 
+sequence: <%ord%> [criterion (g) in P-44.2.1]. 
+ru: Старшее кольцо или кольцевая система имеет большее число гетероатомов, которые встречаются раньше в следующей 
+последовательности: <%ord%> [критерий (g) в P-44.2.1].
+%ord: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples 4
+en: Examples (the symbol > means ‘is senior to’):
+ru: Примеры (символ > означает «старше»):
+
+@cell
+(1)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/O@n(1,-90,.6)`\`||/\\@n(3,150)|@n(2,-150)@n(e,-64,.7)_qq7_q7O_q7_qq7_q7O_q7
+$>
+
+en: pyrano[3,2-_e_][1,4]dioxepine (PIN) 
+ru: пирано[3,2-e][1,4]диоксепин (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1)`/`\\`|//\||_q7P@n(5,90,.6)_qq7_q7O@n(3,0,.5)_q7_qq7P@n(1,-90,.6)_q7
+$>
+
+en: 3,1,5-benzoxadiphosphepine (PIN) 
+ru: 3,1,5-бензоксадифосфепин (PIN)
+
+@cell
+
+@cell colspan=3
+en: [3 heteroatoms = 3 heteroatoms; 3 oxygen atoms > 1 oxygen atom]
+ru: [3 гетероатома = 3 гетероатома; 3 атома кислорода > 1 атом кислорода]
+
+@cell
+(2)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-O@n(6,100)`\H2Sn@n(7,-100)/O@n(8,-100)-\$slope(45)\/O@n(2,0)`\@n(1,-90,.4)`/@n(4,85)
+$>
+
+en: 2,6,8-trioxa-7-stannaspiro[3.5]nonane (PIN)
+ru: 2,6,8-триокса-7-станнаспиро[3.5]нонан (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-S@n(6,100)`\S@n(7,-180,.5)/S@n(8,-100)-\$slope(45)\/O@n(2,0)`\@n(1,-90,.4)`/@n(4,85)
+$>
+
+en: 2-oxa-6,7,8-trithiaspiro[3.5]nonane (PIN)
+ru: 2-окса-6,7,8-тритиаспиро[3,5]нонан (PIN)
+
+@cell
+
+@cell colspan=3
+en: [4 heteroatoms = 4 heteroatoms; 3 oxygen atom > 1 oxygen atom]
+ru: [4 гетероатома = 4 гетероатома; 3 атома кислорода > 1 атом кислорода]
+
+@cell
+(3)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_q_q@n(1',90)<_q_q>@n(4,-90,.4)`\`//`\`||/\\<|>/N@n(1,-90)\\@n(2,-30,.4)|O@n(3,30)`/
+$>
+
+en: spiro[[3,1]benzoxazine-4,1′-cyclopentane] (PIN)
+ru: спиро[[3,1]бензоксазин-4,1′-циклопентан] (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_pp_p_pp_p//N@n(1',90)\@n(1,-35,.4)`|/\|`/`\@n(2',150,.45)|S@n(3',-150,.5)`/@n(4',-90,.4)`\@n(d,-60)
+$>
+
+en: 4′_H_-spiro[cyclohexane-1,2′-cyclopenta[_d_][1,3]thiazine] (PIN) 
+ru: 4′_H_-спиро[циклогексан-1,2′-циклопента[_d_][1,3]тиазин] (PIN)
+
+@cell
+
+@cell colspan=3
+en: [2 heteroatoms = 2 heteroatoms]  <br>
+[1 nitrogen atom, 1 oxygen atom > 1 nitrogen atom, 1 sulfur atom]
+ru: [2 гетероатома = 2 гетероатома] <br>
+[1 атом азота, 1 атом кислорода > 1 атом азота, 1 атом серы]
+
+@End
+
+
+%P-44.2.2
+en: Criteria specific to a particular kind of ring or ring system 
+ru: Критерии, характерные для определенного типа кольца или кольцевой системы
+
+#P-44.2.2+
+en: Seniority criteria for determining ring seniority applicable to particular types of ring systems. 
+ru: Критерии старшинства для определения старшинства колец, применимые к конкретным типам систем колец.
+
+#P-44.2.2.1+
+en: Monocycles (see P-22) 
+ru: Моноциклы (см. P-22)
+
+en: If P-44.2.1 does not provide a decision, further criteria applicable to monocyclic rings are found in P-44.4.
+ru: Если в P-44.2.1 не содержится решения, дополнительные критерии, применимые к моноциклическим кольцам, изложены в P-44.4.
+
+#P-44.2.2.2+
+en: Polycyclic systems. The senior polycyclic ring system occurs first in the following list of polycyclic ring 
+system types: 
+ru: Полициклические системы. Старшая полициклическая система встречается первой в следующем списке типов полициклических систем:
+
+@p .framed
+en: The seniority order between parent hydrides having the same number of identical heteroatoms, the same number of 
+rings, and the same number of skeletal atoms is a change from previous practice. Seniority of polycyclic ring 
+systems is now facilitated by a hierarchical order of ring systems, which includes cyclic and acyclic phane systems 
+and ranks all ring systems in the order given in this recommendation. 
+ru: Порядок старшинства между &(parent hydride|tv*), имеющими одинаковое число идентичных гетероатомов, одинаковое число циклов 
+и одинаковое число скелетных атомов, является изменением по сравнению с предыдущей практикой. Старшинство полициклических 
+кольцевых систем теперь обеспечивается иерархическим порядком кольцевых систем, который включает циклические и ациклические 
+&(phane system|*) и ранжирует все кольцевые системы в порядке, указанном в данной рекомендации.
+
+@List
+
+@item
+en: spiro ring system (see P-24); 
+ru: спиросоединение (см. P-24);
+
+@item
+en: cyclic phane system (see P-26); 
+ru: циклическая &(phane system) (см. P-26);
+
+@item
+en: fused ring system (see P-25); 
+ru: &(fused ring system) (см. P-25);
+
+@item
+en: bridged fused ring system (see P-25); 
+ru: &(bridged fused ring system) (см. P-25);
+
+@item
+en: nonfused bridged ring system (see P-23); 
+ru: &(nonfused bridged ring system) (см. P-23);
+
+@item
+en: linear phane system (see P-26); 
+ru: линейная &(phane system) (см. P-26);
+
+@item
+en: ring assembly (see P-28). 
+ru: &(ring assembly) (см. P-28).
+
+@End
+
+en: Choices within each type are illustrated in P-44.2.2.2.1 through P-44.2.2.2.7. 
+ru: Варианты выбора в пределах каждого типа проиллюстрированы в пунктах P-44.2.2.2.1 – P-44.2.2.2.7.
+
+en: Further criteria applicable to polycyclic ring systems are found in P-44.4.
+ru: Дополнительные критерии, применимые к полициклическим кольцевым системам, приведены в P-44.4.
+
+@Examples 4
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше»):
+
+@cell
+(1)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(2,-30)_q@n(1,-100)_q<_q_q>`/`-`\HN@n(8,100,.6)/-\
+$>
+
+en: 8-azaspiro[4.5]decane (PIN)
+ru: 8-азаспиро[4,5]декан (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N@n(1,-90,.6)\\@n(2,-30)|`//`\
+$>
+
+en: quinoline (PIN)
+ru: хинолин (ПИН)
+
+@cell
+
+@cell colspan=3
+en: [spiro ring system (a) > fused ring system (c)]
+ru: [&(spiro ring system) (а) > &(fused ring system) (с)]
+
+@cell
+(2)
+
+@cell
+<$
+@:bt(t,a:-45,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`\`||/@n(1,100)@:btc(n)@bt(&n,120,%L)@(1)`|@bt(2)_(x%d:2.4)@bt(3)|\||`/@n(4,-80)@btc(4)<`\\`|//@n(1,80)>|@bt(5)_(x-%d)@bt(6)`|@n(4,-100)//l`|`\\
+$>
+
+en: 1,4(1,4)-dibenzenacyclohexaphane (PIN)
+ru: 1,4(1,4)-дибензоциклогексафан (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||l_q8=_q8`||l<_q8`=_q8>/@n(1,-90)\\@n(2,-30)|`//`\
+$>
+
+en: dibenzo[_a_,_e_][8]annulene (PIN)
+ru: дибензо[_a_,_e_][8]аннулен (PIN)
+
+@cell
+
+@cell colspan=3
+en: [cyclic phane ring system (b) > fused ring system (c)] 
+ru: [циклическая &(phane [system]) кольцевая система (b) > &(fused ring system) (c)]
+
+@cell
+(3)
+
+@cell
+<$ |`//`\`||/\\/\\|`//`\ $>
+
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(35)_(A%a:-65)@n(1,-120)-@n(2,-60)\|`/`-<`\`|/>_(A%a)_#1
+$>
+
+en: bicyclo[4.2.2]decane (PIN)
+ru: бицикло[4.2.2]декан (PIN)
+
+@cell
+
+@cell colspan=3
+en: [fused ring system (c) > nonfused bridged ring system (e)] 
+ru: [&(fused ring system) (c) > &(nonfused bridged ring system) (e)]
+
+@cell
+(4)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||r_p8`=_p8`||_p8=_p8/@n(1,-90)\\@n(2,-30)|`//`\
+$>
+
+en: benzo[8]annulene (PIN)
+ru: бензо[8]аннулен (PIN)
+
+@cell
+**>**
+
+@cell
+<$ `//`-`\\/=\@n(1',-60)-@n(1,-120)/=\`//`-`\\ $>
+
+en: 1,1′-biphenyl (PIN) 
+ru: 1,1′-бифенил (PIN)
+
+@cell
+
+@cell colspan=3
+en: [fused ring system (c) > ring assembly (g)] 
+ru: [&(fused ring system) (c) > &(ring assembly) (g)]
+
+@End
+
+#P-44.2.2.2.1+
+en: Seniority criteria for spiro ring systems given below are applied successively until no alternatives remain. 
+These criteria are illustrated in P-44.2.2.2.1.1 through P-44.2.2.2.1.3. The senior spiro system:
+ru: Критерии старшинства для &(spiro ring system|ro*), приведённые ниже, применяются последовательно до тех пор, 
+пока не останется альтернатив.
+Эти критерии проиллюстрированы в пунктах P-44.2.2.2.1.1 – P-44.2.2.2.1.3. Старшинство спиросистем:
+
+@List
+
+@item
+en: has the greater number of spiro fusions;  
+ru: имеет большее количество &(spiro fusion|ro*)
+
+@item
+en: consists of saturated monocyclic rings;
+ru: состоит из насыщенных моноциклических колец;  
+
+@item
+en: consists of only discrete components.
+ru: состоит только из дискретных компонентов. 
+
+@End
+
+en: Further criteria applicable to spiro ring systems are found in P-44.4.
+ru: Дополнительные критерии, применимые к спирокольцевым системам, изложены в P-44.4.
+
+#P-44.2.2.2.1.1+
+en: The senior spiro system has the greater number of spiro fusions [criterion (a) in P-44.2.2.2.1]. 
+ru: Старшая &(spiro system) имеет большее количество &(spiro fusion|ro*) [критерий (а) в P-44.2.2.2.1].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’):
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/@n(13,-120)-@n(14,-60)\@n(5,180)_(a%a:-114)@n(1,-90)_p@n(2,-30)_p@n(3,30)_p@n(4,90)_p_(a%a)NH@n(6,90,.6)`-@n(7,120)`\@n(8,0)_(a%a)@n(9,90)_p@n(10,150,.5)`|@n(11,-150,.5)_p@n(12,-90)_p
+$>
+
+en: 6-azadispiro[4.2.4^{8}.2^{5}]tetradecane (PIN)
+ru: 6-азадиспиро[4.2.4^{8}.2^{5}]тетрадекан (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_p@n(2,20)_p@n(1,-90,.45)<_p_p>\NH@n(2',140,.65)|@n(3',30)`//@n(4',90)`\`//`\`||/\\<|>/@n(1',90,.5)
+$>
+
+en: 2′_H_-spiro[cyclopentane-1,1′-isoquinoline] (PIN)
+ru: 2′_H_-спиро[циклопентан-1,1′-изохинолин] (PIN)
+
+@cell colspan=3
+en: [2 spiro fusions > 1 spiro fusion] 
+ru: [2 &(spiro fusion|2) > 1 &(spiro fusion)]
+
+@End
+
+#P-44.2.2.2.1.2+
+en: The senior spiro system consists of only saturated monocyclic rings [criterion (b) in P-44.2.2.2.1] and 
+has the lower locant(s) for spiro atom(s); 
+ru: Старшая &(spiro system) состоит только из насыщенных моноциклических колец [критерий (b) в P-44.2.2.2.1] и имеет 
+меньшие локанты для &(spiro atom)а(ов);
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$slope(60)`/`-HN@n(8,90,.6)`\/HN@n(10,-90,.6)-\$slope(45)/\/@n(1,-90)\`/`\@n(4,90,.5)`/`\@n(6,80,.5)
+$>
+
+en: 8,10-diazadispiro[3.1.5^{6}.1^{4}]dodecane (PIN)
+ru: 8,10-диазадиспиро[3.1.5^{6}.1^{4}]додекан (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$slope(45)`/`\/\@n(7,100)$slope(60)\-NH@n(6,90)/<`\`-HN@n(11,-90)`/>@n(4,-80)$slope(45)/@n(1,-90,.4)\`/`\
+$>
+
+en: 5,11-diazadispiro[3.2.3^{7}.2^{4}]dodecane (PIN)
+ru: 5,11-диазадиспиро[3.2.3^{7}.2^{4}]додекан (PIN)
+
+@cell colspan=3
+en: [saturated monocyclic rings each with 2 spiro fusions;  <br>
+the locant set for spiro fusions ‘4,6’ is lower that ‘4,7’] 
+ru: [насыщенные моноциклические кольца, каждое с двумя &(spiro fusion|tv*); <br>
+локантный набор для &(spiro fusion|ro*) «4,6» меньше, чем «4,7»]
+
+@End
+
+#P-44.2.2.2.1.3+
+en: The senior spiro system consists only of discrete components [criterion (c) in P-44.2.2.2.1] and: 
+ru: Старшая &(spiro system) состоит только из дискретных компонентов [критерий (c) в P-44.2.2.2.1] и:
+
+#(a)
+en: has the senior component determined by criteria above and below for the appropriate type of ring or ring system 
+when the components are compared in their order of seniority;
+ru: старший компонент определяется по критериям, указанным выше и ниже для соответствующего типа кольца или системы колец, 
+когда компоненты сравниваются в порядке старшинства;
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’):
+ru: Пример (символ > означает «старше по отношению к»):
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_p_p@n(1,-90)<_p_p>\NH@n(2',145)|`//`\`//`\`||/\\<|>/@n(1',100,.45)
+$>
+
+en: 2′_H_-spiro[cyclopentane-1,1′-isoquinoline] (PIN)
+ru: 2′_H_-спиро[циклопентан-1,1′-изохинолин] (PIN)
+
+@cell
+>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq_q@n(1,100)<_q>_(a114)_q6_q6N<_(y-.5)H>_q6_q6_q6@n(4',-70)
+$>
+
+en: spiro[indene-1,4′-piperidine] (PIN)
+ru: спиро[инден-1,4′-пиперидин] (PIN)
+
+@cell colspan=3
+en: [isoquinoline > piperidine]
+ru: [изохинолин > пиперидин]
+
+@End
+
+#(b)
+en: has the senior component determined by criteria above and below for the appropriate kind of ring or ring system 
+when compared in their order of citation in the name; 
+ru: имеет старший компонент, определенный по критериям, указанным выше и ниже, для соответствующего типа кольца или 
+системы колец при сравнении в порядке их &(citation|ro) в названии;
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)_(A%a:-121)N@n(1',-90,.6)`/@n(2',30)_(a%b:114)O_q_q_qO_q@n(2,-150)|\<_(A%a)_#1>/@n(5',-150)_(a%b)O_q_q_q_q@n(2'',30,.5)`|`\
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)_(A%a:-121)N@n(4,-90,.6)`/|\<_(A%a)_#1>@n(1,90)/@n(2,-150)<`|`\>@n(2',60)_(A0)@n(3',125,.45)<_p_p_pO_p>@n(2'',-40,.55)-O_q_q_qO_q
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 1′-azadispiro[[1,3]dioxolane-2,2′-bicyclo[2.2.2]octane-5′,2′′-oxolane] (PIN)  <br>
+is senior to  <br>
+**(II)** 4-azadispiro[bicyclo[2.2.2]octane-2,2′-oxolane-3′,2′′-[1,3]dioxolane] (PIN)  <br>
+[first cited component dioxolane > bicyclo[2.2.2]octane] 
+ru: **(I)** 1′-азадиспиро[[1,3]диоксолан-2,2′-бицикло[2.2.2]октан-5′,2′′-оксолан] (PIN) <br>
+старше <br>
+**(II)** 4-азадиспиро[бицикло[2.2.2]октан-2,2′-оксолан-3′,2′′-[1,3]диоксолан] (PIN) <br>
+[первый цитируемый компонент диоксолан > бицикло[2.2.2]октан]
+
+@End
+
+#(c)
+en: has the lower locant(s) for the spiro atoms in the order of citation in the name. 
+ru: имеет меньший(ие) локант(ы) для &(spiro atom|ro*) в порядке &(citation|ro) в названии.
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’):
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/N<_(y-.5)H>@n(1',90,.6)\@n(2',140,.5)<|`//`\>@n(1,-40)_(a-114)_p_p_p_p
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/`\\`/`\\`|//\<|>//N@n(1',90,.6)\@n(2',-30)|@n(3',-150)_(a-114)_p_p_p_p@n(1,30)
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 1′_H_-spiro[cyclopentane-1,2′-quinoline] (PIN)  <br>
+is senior to  <br>
+**(II)** 2′_H_-spiro[cyclopentane-1,3′-quinoline] (PIN)  <br>
+[spiro fusion locant set 1,2′ in **(I)** is lower than 1,3′ in **(II)**] 
+ru: **(I)** 1′_H_-спиро[циклопентан-1,2′-хинолин] (PIN) <br>
+старше <br>
+**(II)** 2′_H_-спиро[циклопентан-1,3′-хинолин] (PIN) <br>
+[&(spiro fusion) набора локантов 1,2′ в **(I)** меньше, чем 1,3′ в **(II)**]
+
+@End
+
+#P-44.2.2.2.2+
+en: Seniority criteria for the cyclic phane systems given below are applied successively until no alternatives 
+remain. These criteria are illustrated in P-44.2.2.2.2.1 through P-44.2.2.2.2.8. 
+ru: Критерии старшинства для циклических &(phane system|ro*), приведённые ниже, применяются последовательно до тех пор, 
+пока не останется альтернатив. Эти критерии проиллюстрированы в пунктах P-44.2.2.2.2.1 – P-44.2.2.2.2.8.
+
+en: The senior cyclic phane system: 
+ru: Старшая циклическая &(phane system):
+
+@List
+
+@item
+en: is the one occurring earlier in the following list of basic phane skeletal ring systems: spiro, von Baeyer, monocyclic; 
+ru: встречается раньше в следующем списке основных &(phane [system]|ro*) скелетных кольцевых систем: спиро, фон Байера, 
+моноциклическая;
+
+@item
+en: has the senior amplificant, as defined by P-44.2.1.2 through P-44.2.1.8; 
+ru: имеет старший &(amplificant), как определено в P-44.2.1.2 – P-44.2.1.8;
+
+@item
+en: has the lower superatom locant(s) for all amplificants, first as a set compared term by term order of increasing 
+value and then in order of citation in the name; 
+ru: имеет меньший локант(ы) суператома для всех &(amplificant|ro*), сначала как набор сравниваемых терминов в порядке 
+возрастания значения, а затем в порядке &(citation|ro) в названии;
+
+@item
+en: has the lower locant(s) for senior amplificants; 
+ru: имеет меньший локант(ы) для старших &(amplificant|ro*);
+
+@item
+en: has the lower set of attachment locants considered as a set when compared term by term in order of increasing 
+numerical value; 
+ru: меньший набор &(attachment locant|ro*) рассматривается как набор при сравнении терминов в порядке возрастания 
+числового значения;
+
+@item
+en: has the lower set of attachment locants when compared term by term in their order of citation in the name; 
+ru: имеет меньший набор &(attachment locant|ro*) при сравнении терминов в порядке их цитирования в имени;
+
+@item
+en: has the lower locant(s) for heteroatoms introduced by skeletal replacement (‘a’) nomenclature without regard to 
+kind; 
+ru: имеет меньший(е) локант(ы) для гетероатомов, введенных номенклатурой &(skeletal replacement a|ro) независимо от вида;
+
+@item
+en: has the lower locant(s) for heteroatoms introduced by skeletal replacement (‘a’) nomenclature first cited in the 
+following order: <%ord%>.
+ru: имеет меньший(ие) локант(ы) для гетероатомов, введенных номенклатурой &(skeletal replacement a|ro), 
+которые впервые &(cited|*) в следующем порядке: <%ord%>.
+%ord: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@End
+
+en: Further criteria applicable to cyclic phane systems are found in P-44.4. 
+ru: Дополнительные критерии, применимые к циклическим &(phane system|da*), можно найти в P-44.4.
+
+#P-44.2.2.2.2.1+
+en: The senior cyclic phane system occurs earlier in the following list of basic phane skeletal ring systems: 
+spiro > nonfused bridged (von Baeyer) > monocyclic. 
+ru: Старшая циклическая &(phane system) встречается раньше в следующем списке основных &(phane [system]|ro*) скелетных 
+кольцевых систем: спиро > неконденсированные мостиковые (фон Байера) > моноциклические.
+
+@Examples
+en: Examples (in order of decreasing seniority according to the criteria (a) in P-44.2.2.2.2): 
+ru: Примеры (в порядке убывания старшинства согласно критерию (а) в P-44.2.2.2.2):
+
+@cell
+<$
+@:bt(t,a,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)$L(%L:1.1)$dblAlign(r)`-`\\@:btc(n)@bt(&n,120,%L)@(12)/=@n(3,110)<\`//@n(1,-120)>_(A-30)_p6-\<`/`-_(A150)_p6>#
+/@bt(1,-60)-_(A-30)_p6=\@btc(4)`//`-@n(3,-60)<`\\/@n(1,70)>_(A150)_p6`-`\@bt(8,-150,.7)
+$>
+
+en: 4,12(1,3)-dibenzenaspiro[7.7]pentadecaphane (PIN)  <br>
+(a spiro phane skeletal system)  <br>
+ru: 4,12(1,3)-дибензенаспиро[7.7]пентадека&(phane) (PIN) <br>
+(спиро&(phane [system]) скелетная система) <br>
+
+@cell
+en: is senior to
+ru: старше чем
+
+@cell
+<$
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)$dblAlign(r)\`//@n(1,-130)`-`\\@:btc(n)@bt(&n,120,%L)@(12)/=@n(3,110)#
+$slope(40)/-@bt(14)\_(A60)@bt(15)_p6@bt(9,-30)<`/@bt(10)`-`\>#
+$slope(30)\/\/$slope(60)`\\/@n(1,70)<=\@btc(5)`//`-@n(3,-60)>$slope(30)`\`/`\`/@bt(1,120)
+$>
+
+en: 5,12(1,3)-dibenzenabicyclo[7.5.1]pentadecaphane (PIN)  <br>
+(a von Baeyer phane skeletal system)  <br>
+ru: 5,12(1,3)-дибензонабицикло[7.5.1]пентадекафан (PIN) <br>
+(&(phane [system]) скелетная система фон Байера) <br>
+
+@cell
+en: is senior to
+ru: старше чем
+
+@cell
+<$
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)$dblAlign(r)|-\@:btc(n)@bt(&n,120,%L)@(5)`/`-@n(3,-70)<`\/@n(1,70)>_q8@bt(6,%a:-110)|_p8`-_p8_p8@bt(11,%a,.5)_q8#
+`-`\\@btc(1)/=@n(1,110,.5)<\`//@n(3,-120)>`|_(x1.25):a;
+`-_q#a@n(1,-30)_q@bt(3,-126,1)_q@n(3,-150)<_q>_#1
+$>
+
+en: 1(1,3)-benzena-5(1,3)-cyclohexana-3(1,3)-cyclopentanacycloundecaphane (PIN)  <br>
+(a monocyclic phane skeletal system) 
+ru: 1(1,3)-бензола-5(1,3)-циклогексана-3(1,3)-циклопентанациклоундека&(phane) (PIN) <br>
+(моноциклическая &(phane [system]) скелетная система)
+
+@End
+
+#P-44.2.2.2.2.2+
+en: The senior cyclic phane system has the senior amplificant, as defined by P-44.2.1.2 through P-44.2.1.8 
+[criterion (b) in P-44.2.2.2.2]. 
+ru: Старшая циклическая &(phane [system]) система имеет старший &(amplificant), как определено в P-44.2.1.2 – P-44.2.1.8 
+[критерий (b) в P-44.2.2.2.2].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)$dblAlign(r)`//N@n(1,-100,.55)`\@n(6,-30)@:btc(n)@bt(&n,120,%L)@(1)`||/N@n(4,100,.55)\\|@n(2,-140)-@bt(2)_p8@bt(3)|@bt(4)_p8@bt(5)_p8#
+|`//@btc(6)`\`||@n(3,30)</\\@n(1,140)>`-_p8`|_p8-
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)$dblAlign(r)`//`\@n(4,-30)@:btc(n)@bt(&n,120,%L)@(1)`||/\\N@n(1,150,.5)|@n(2,-140)-@bt(2)_p8@bt(3)|@bt(4)_p8@bt(5)_p8#
+|N@n(1,-150,.5)`//@btc(6)`\`||@n(4,30)</\\@n(2,140)>`-_p8`|_p8-
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 1(2,6)-pyrazina-6(1,3)-benzenacyclodecaphane (PIN)  <br>
+is senior to  <br>
+**(II)** 1,6(2,4)-dipyridinacyclodecaphane (PIN) <br>
+[pyrazine > pyridine] 
+ru: **(I)** 1(2,6)-пиразина-6(1,3)-бензонациклодека&(phane) (PIN) <br>
+старше чем <br>
+**(II)** 1,6(2,4)-дипиридинациклодека&(phane) (PIN) <br>
+[пиразин > пиридин]
+
+@End
+
+#P-44.2.2.2.2.3+
+en: The senior cyclic phane system has the lower superatom locant(s) for all amplificants, first as a set 
+compared term by term in order of increasing numerical value and then in order of their citation in the name [criterion 
+(c) in P-44.2.2.2.2].
+ru: Старшая циклическая &(phane system) имеет меньшие локанты суператомов для всех &(amplificant|ro*), сначала как набор, 
+сравниваемый термин за термином в порядке возрастания числового значения, а затем в порядке их &(citation|ro) в названии 
+[критерий (c) в P-44.2.2.2.2].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$L(%L:1.1)$dblAlign(r)_(A135)|`//@btc(4)`\`||</\\>`-@bt(5)_(A-150)@bt(6)_(A-120)@bt(7)_(A-60)@bt(8)_(A-30)@bt(9)-`||/@btc(1)\\|<`//`\>_(A45)@bt(2)_#1@bt(3)
+$>
+
+*: **(I)**
+
+en: 1,4(1,3)-dibenzenacyclononaphane (PIN)
+ru: 1,4(1,3)-дибензонациклонона&(phane) (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$L(%L:1.1)$dblAlign(r)`/|`//@btc(5)`\`||@n(3,30)</\\@n(1,140)>`-@bt(6)_p8:p7@bt(7)`|:p8@bt(8)_p8@bt(9)-`|//@btc(1)\||@n(1,-150)<`/`\\@n(3,-40)>#
+\@bt(2)_(x.4,y#p7;p8)@bt(3)_#1@bt(4)
+$>
+
+*: **(II)**
+
+en: 1,5(1,3)-dibenzenacyclononaphane (PIN)
+ru: 1,5(1,3)-дибензоциклонона&(phane) (PIN)
+
+@cell colspan=3
+en: [superatom locant set ‘1,4’ in **(I)** is lower than ‘1,5’ in **(II)**]  
+ru: [набор локантов суператома «1,4» в **(I)** меньше, чем «1,5» в **(II)**]
+
+@End
+
+#P-44.2.2.2.2.4+
+en: The senior cyclic phane system has the lower locants for senior amplificants [criterion (d) in  
+P-44.2.2.2.2].
+ru: Старшая циклическая &(phane system) имеет меньшие локанты для старших &(amplificant|ro*) [критерий (d) в
+P-44.2.2.2.2].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)_(A-135,L1.3)`|_p8_p8@bt(13,-110,.5)/`||/@btc(1)\\|@n(1,-140)<`//`\@n(3,-30)>\@bt(2,-60)|#
+$slope(60)=\N@n(1,180)`//@btc(3)`-@n(5,-60)<`\\/@n(3,70)>|@bt(4)_p8@bt(5)`-`//`-`\\@n(4,-10)@btc(6)</=\@n(1,-170)>`-@bt(7)_p6_#1
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)_(A-135,L1.3)`|_p8_p8@bt(13,-110,.5)/`||/@btc(1)\\|@n(1,-140)<`//`\@n(3,-30)>\@bt(2,-60)|#
+$slope(60)=\`//@btc(3)`-@n(3,-60)<`\\/@n(1,70)>|@bt(4)_p8@bt(5)`-`//N@n(1,-120,.5)`-`\\@n(5,-10)@btc(6)</=\@n(2,-170)>`-@bt(7)_p6_#1
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 3(3,5)-pyridina-1(1,3),6(1,4)-dibenzenacyclotridecaphane (PIN)  <br>
+is senior to  <br>
+**(II)** 6(2,5)-pyridina-1,3(1,3)-dibenzenacyclotridecaphane (PIN) <br>
+[superatom locant ‘3’ for the senior amplificant pyridine is lower than ‘6’] 
+ru: **(I)** 3(3,5)-пиридина-1(1,3),6(1,4)-дибензонациклотридека&(phane) (PIN) <br>
+старше <br>
+**(II)** 6(2,5)-пиридина-1,3(1,3)-дибензонациклотридека&(phane) (PIN) <br>
+[локант суператома «3» для старшего &(amplificant|ro) пиридина ниже «6»]
+
+@End
+
+#P-44.2.2.2.2.5+
+en: The senior cyclic phane system has the lower set of attachment locants considered as a set when 
+compared term by term in order of increasing numerical value [criterion (e) P-44.2.2.2.2]. 
+ru: Старшая циклическая &(phane system) имеет меньший набор &(attachment locant|ro*), рассматриваемый как набор при сравнении 
+терминов в порядке возрастания числового значения [критерий (e) P-44.2.2.2.2].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`||/@btc(1)\\|@n(1,-150)<`//`\@n(3,-30)>-@bt(2)_p8_p8_p8_p8|`//@btc(6)`\`||@n(3,30)</\\@n(1,140)>`-@bt(7)_p8_p8_p8@bt(10)-
+$>
+
+*: **(I)**
+
+en: 1,6(1,3)-dibenzenacyclodecaphane (PIN) 
+ru: 1,6(1,3)-дибензонациклодекафан (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-67,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)$slope(45)`\`|/@bt(10)-$slope()`||/@btc(1)\\|@n(1,-150)<`//`\@n(3,-30)>-@bt(2)_p8_p8_p8#
+_(x-.95)`//`-@btc(6)`\\@n(4,-10)</=\@n(1,-170)>_#1@bt(7)
+$>
+
+*: **(II)**
+
+en: 1(1,3),6(1,4)-dibenzenacyclodecaphane (PIN)
+ru: 1(1,3),6(1,4)-дибензонациклодека&(phane) (PIN)
+
+@cell colspan=3
+en: [the attachment locant set ‘(1,3)(1,3)’ is lower than ‘(1,3)(1,4)’] 
+ru: [набор &(attachment locant|ro*) «(1,3)(1,3)» меньше, чем «(1,3)(1,4)»]
+
+@End
+
+#P-44.2.2.2.2.6+
+en: The senior cyclic phane system has the lower set of attachment locants when compared term by term in 
+their order of citation in the name [criterion (f) in P-44.2.2.2.2]. 
+ru: Старшая циклическая &(phane system) имеет меньший набор &(attachment locant|ro*) при сравнении терминов в порядке их 
+&(citation|ro) в названии [критерий (f) в P-44.2.2.2.2].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’):
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`//`\@n(4,-30)`||/@btc(1)\\N@n(1,150,.5)|@n(2,-150)\@bt(2)_(a30)#
+=N@n(1,120,.55)\`//@btc(3)`-@n(4,-60)<`\\/@n(2,70)>`/@bt(4)_(a30)#
+||N@n(1,-150)`/@btc(5)`\\`|@n(4,30)<//\@n(2,150)>`\@bt(6)_(a30)#
+`=N@n(1,-70,.55)`\@btc(7)//-@n(4,120)<\\`/@n(2,-110)>/@bt(8)_(a30)
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`//`\@n(4,-30)`||/@btc(1)\\N@n(1,150,.5)|@n(2,-150)\@bt(2)_(a30)#
+=\@btc(3)`//N@n(1,-120,.5)`-@n(2,-60)<`\\/@n(4,70)>`/@bt(4)_(a30)#
+||N@n(1,-150)`/@btc(5)`\\`|@n(4,30)<//\@n(2,150)>`\@bt(6)_(a30)#
+`=`\@btc(7)//N@n(1,60,.5)-@n(2,120)<\\`/@n(4,-110)>/@bt(8)_(a30)
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 1,3,5,7(2,4)-tetrapyridinacyclooctaphane (PIN)  <br>
+is senior to  <br>
+**(II)** 1,5(2,4),3,7(4,2)-tetrapyridinacyclooctaphane (PIN)  <br>
+[the attachment locant set ‘(2,4)(2,4)(2,4)(2,4)’ is lower than ‘(2,4)(2,4)(4,2)(4,2)’]
+ru: **(I)** 1,3,5,7(2,4)-тетрапиридинациклоокта&(phane) (PIN) <br>
+старше <br>
+**(II)** 1,5(2,4),3,7(4,2)-тетрапиридинациклоокта&(phane) (PIN) <br>
+[набор &(attachment locant|ro*) «(2,4)(2,4)(2,4)(2,4)» меньше, чем «(2,4)(2,4)(4,2)(4,2)»]
+
+@End
+
+#P-44.2.2.2.2.7+
+en: The senior cyclic phane system has the lower locant(s) for heteroatoms specified by skeletal replacement 
+(‘a’) prefixes without regard to kind [criterion (g) in P-44.2.2.2.2].
+ru: Старшая циклическая &(phane system) имеет меньший(ие) локант(ы) для гетероатомов, указанных префиксами 
+&(skeletal replacement a|ro), независимо от вида [критерий (g) в P-44.2.2.2.2].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-67,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`//`\@n(3,-30)`||/@btc(1)\\|@n(1,-150)$slope(45)\S@bt(2)|O@bt(3)`/\|`/#
+$slope()|`//@btc(7)`\`||@n(3,30)</\\@n(1,140)>$slope(45)`\@bt(8,,.4)`|/`\`|@bt(12)/
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-67,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`//`\@n(3,-30)`||/@btc(1)\\|@n(1,-150)$slope(45)\S@bt(2)|`/\O@bt(5)|`/#
+$slope()|`//@btc(7)`\`||@n(3,30)</\\@n(1,140)>$slope(45)`\@bt(8,,.4)`|/`\`|@bt(12)/
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 3-oxa-2-thia-1,7(1,3)-dibenzenacyclododecaphane (PIN) <br>
+is senior to  <br>
+**(II)** 5-oxa-2-thia-1,7(1,3)-dibenzenacyclododecaphane (PIN) <br>
+[the heteroatom locant set ‘2,3’ is lower than ‘2,5’] 
+ru: **(I)** 3-окса-2-тиа-1,7(1,3)-дибензонациклододека&(phane) (PIN) <br>
+старше <br>
+**(II)** 5-окса-2-тиа-1,7(1,3)-дибензонациклододека&(phane) (PIN) <br>
+[набор локантов гетероатомов «2,3» меньше, чем «2,5»]
+
+@End
+
+#P-44.2.2.2.2.8+
+en: The senior cyclic phane system has the lower locant(s) for heteroatoms specified by skeletal replacement 
+(‘a’) prefixes first cited in the following order: <%ord%> [criterion (h) in P-44.2.2.2.2].  
+ru: Старшая циклическая &(phane system) имеет меньший(ие) локант(ы) для гетероатомов, указанных префиксами 
+&(skeletal replacement a|ro), &(cited|ro*) первыми в следующем порядке: <%ord%> [критерий (h) в P-44.2.2.2.2].
+%ord: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’):
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$
+@:bt(t,a:-67,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`//`\@n(3,-30)`||/@btc(1)\\|@n(1,-150)$slope(45)\O@bt(2)|S@bt(3)`/\|`/#
+$slope()|`//@btc(7)`\`||@n(3,30)</\\@n(1,140)>$slope(45)`\@bt(8,,.4)`|/`\`|@bt(12)/
+$>
+
+*: **(I)**
+
+@cell
+**>**
+
+@cell
+<$
+@:bt(t,a:-67,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:btc(n)@bt(&n,120,%L)@;
+$dblAlign(r)$L(%L:1.1)`//`\@n(3,-30)`||/@btc(1)\\|@n(1,-150)$slope(45)\S@bt(2)|O@bt(3)`/\|`/#
+$slope()|`//@btc(7)`\`||@n(3,30)</\\@n(1,140)>$slope(45)`\@bt(8,,.4)`|/`\`|@bt(12)/
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: **(I)** 2-oxa-3-thia-1,7(1,3)-dibenzenacyclododecaphane (PIN)  <br>
+is senior to  <br>
+**(II)** 3-oxa-2-thia-1,7(1,3)-dibenzenacyclododecaphane (PIN)  <br>
+[the locant ‘2’ for the senior heteroatom ‘O’ is lower than ‘3’] 
+ru: **(I)** 2-окса-3-тиа-1,7(1,3)-дибензонациклододека&(phane) (PIN) <br>
+старше <br>
+**(II)** 3-окса-2-тиа-1,7(1,3)-дибензонациклододека&(phane) (PIN) <br>
+[локант «2» для старшего гетероатома «O» меньше, чем «3»]
+
+@End
+// ------------ end of P-44.2.2.2.2.*
+
+
+#P-44.2.2.2.3+
+en: Seniority criteria for fused ring systems given below are applied successively until no alternatives remain. 
+The criteria are illustrated in P-44.2.2.2.3.1 through P-44.2.2.2.3.5. The senior fused ring system: 
+ru: Критерии старшинства для &(fused ring system|ro*), приведённые ниже, применяются последовательно до тех пор, 
+пока не останется альтернатив.
+Критерии проиллюстрированы в пунктах P-44.2.2.2.3.1 – P-44.2.2.2.3.5. Старшинство систем с плавными кольцами:
+
+@List a
+
+@item
+en: has the larger individual ring component at first point of difference when their ring sizes are compared in order 
+of decreasing size; 
+ru: имеет больший индивидуальный кольцевой компонент в первой точке различия, когда их размеры колец сравниваются 
+в порядке убывания размера;
+
+@item
+en: has the greater number of rings in a horizontal row; 
+ru: имеет большее количество колец в горизонтальном ряду;
+
+@item
+en: has the lower letter(s) in the fusion descriptor when compared as a set; letters omitted in names are considered in 
+the application of this criterion; 
+ru: имеет меньшую(ие) букву(ы) в дескрипторе слияния при сравнении в виде набора; буквы, пропущенные в именах, учитываются 
+при применении этого критерия;
+
+@item
+en: has the lower number(s) in the fusion descriptor, in the order of appearance in the name; locants omitted in 
+names are considered in application of this criterion; 
+ru: имеет меньший(е) номер(а) в дескрипторе слияния в порядке появления в имени; локанты, пропущенные в именах, 
+учитываются при применении этого критерия;
+
+@item
+en: has the senior ring system component according to P-25.8 when its components are compared in order of 
+decreasing seniority. 
+ru: имеет старший компонент кольцевой системы согласно P-25.8, когда его компоненты сравниваются в порядке убывания старшинства.
+
+@End
+
+en: Further criteria applicable to fused ring systems are found in P-44.4. 
+ru: Дополнительные критерии, применимые к &(fused ring system|da*), изложены в P-44.4.
+
+#P-44.2.2.2.3.1+
+en: The senior fused ring system has the larger individual ring component at first point of difference when 
+their ring sizes are compared in order of decreasing size [criterion (a) in P-44.2.2.2.3].
+ru: Старшая &(fused ring system) имеет больший индивидуальный кольцевой компонент в первой точке различия, 
+если сравнивать их размеры колец в порядке убывания размера [критерий (a) в P-44.2.2.2.3].
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше»):
+
+@cell
+<$ |<_q_qq_q_qq>_pp7_p7_pp7_p7_pp7_p7 $>
+
+en: azulene (PIN)
+ru: азулен (PIN)
+
+@cell
+**>**
+
+@cell
+<$ |`//`\`||/\\/\\|`//`\ $>
+
+en: naphthalene (PIN) 
+ru: нафталин (PIN)
+
+@cell colspan=3
+en: [the ring size ‘7’ in the ring set ‘7,5’ is larger than ‘6’ in the ring set ‘6,6’]
+ru: [размер кольца «7» в наборе колец «7,5» больше, чем «6» в наборе колец «6,6»]
+
+@End
+
+#P-44.2.2.2.3.2+
+en: The senior fused ring system has the greater number of rings in a horizontal row [criterion (b) in P-44.2.2.2.3]. 
+ru: Старшая &(fused ring system) имеет большее количество колец в горизонтальном ряду [критерий (b) в P-44.2.2.2.3].
+
+@Examples 4
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше»):
+
+@cell
+(1)
+
+@cell
+<$ |`//`\`||/\\/\\|<`//`\>\//`|`\\`/ $>
+
+@cell
+**>**
+
+@cell
+<$ |`//`\`||/\\/\/`||`\`//|\|`//`\ $>
+
+@cell
+
+@cell
+en: anthracene (PIN)
+ru: антрацен (PIN)
+
+@cell
+
+@cell
+en: phenanthrene (PIN)
+ru: фенантрен (PIN)
+
+@cell
+
+@cell colspan=3
+en: [three rings in the horizontal row is greater than two] 
+ru: [три кольца в горизонтальном ряду больше двух]
+
+@cell
+(2)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)`/N`\\`|//\/\\<|@n(g,-115,.65)`//`\`||>@n(1,30)/`|//\||`/<`\\>|`//`\@n(2,-30)
+$>
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\@n(f,-10,.6)`|//\|\//`|`\\N`/|`/@n(2,150)|`//`\`//`\`||/\\<|>/@n(1,90)
+$>
+
+@cell
+
+@cell
+en: naphtho[1,2-_g_]quinoline (PIN) 
+ru: нафто[1,2-_g_]хинолин (PIN)
+
+@cell
+
+@cell
+en: naphtho[2,1-_f_]quinoline (PIN) 
+ru: нафто[2,1-_f_]хинолин (PIN) 
+
+@cell
+
+@cell colspan=3
+en: [three rings in the horizontal row is greater than two]
+ru: [три кольца в горизонтальном ряду больше двух]
+
+@End

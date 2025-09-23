@@ -1,0 +1,499 @@
+#P-44
+en: Seniority order for parent structures 
+ru: Порядок старшинства &(parent structure|ro*)
+
+en: A parent structure is defined (P-15.1.1 and P-15.1.2) as a parent hydride, for example methane, a functionalized parent 
+hydride, for example, cyclohexanol, or a functional parent compound, for example, acetic acid. For choice of the 
+preferred IUPAC name based on a senior parent structure, see P-45. 
+ru: &(Parent structure) определяется (P-15.1.1 и P-15.1.2) как &(parent hydride), например, метан, функционализированный 
+&(parent hydride), например, циклогексанол, или функциональное &(parent compound), например, уксусная кислота. 
+Выбор предпочтительного названия ИЮПАК на основе старшей &(parent structure|ro) см. в P-45.
+
+@Content
+
+#P-44.0
+en: Introduction 
+ru: Введение
+
+en: The selection of a preferred parent structure is based on the seniority of classes (see P-41), which gives priority first to 
+characteristic groups expressed as suffixes and then to parent hydrides when different classes are present. Section  
+P-44.1 covers the selection of a preferred parent structure when different classes are involved and the selection between 
+rings and chains in the same class. When there is a choice among cyclic parent hydrides, the senior ring or ring system 
+is chosen in accord with the seniority order of rings and ring systems (see P-44.2). When there is a choice among 
+acyclic parent hydrides a principal chain must be chosen (see P-44.3). The three seniority orders, for classes, rings and 
+ring systems, and the principal chain, are expressed in a general seniority order called ‘seniority order for parent 
+structures’. Section P-44.4 covers criteria for selection of a senior parent structure applicable to either rings, ring 
+systems, or acyclic chains.
+ru: Выбор предпочтительной &(parent structure|ro) основан на старшинстве классов (см. P-41), которое отдаёт приоритет сначала 
+&(characteristic group|da*), выраженным суффиксами, а затем &(parent hydride|da*) при наличии разных классов. 
+Раздел P-44.1 рассматривает выбор предпочтительной &(parent structure|ro) при наличии разных классов, а также выбор между 
+кольцами и цепями в пределах одного класса. При наличии выбора среди циклических &(parent hydride|ro*) старшее кольцо или 
+кольцевая система выбираются в соответствии с порядком старшинства колец и кольцевых систем (см. P-44.2). 
+При наличии выбора среди ациклических &(parent hydride|ro*) необходимо выбрать главную цепь (см. P-44.3). 
+Три порядка старшинства – для классов, колец и кольцевых систем, а также главная цепь – выражаются в общем порядке старшинства, 
+называемом «порядком старшинства &(parent structure|ro*)». Раздел P-44.4 рассматривает критерии выбора старшей &(parent structure|ro), 
+применимые как к кольцам, кольцевым системам, так и к ациклическим цепям.
+
+en: A thorough revision and extension of the seniority order of classes, of rings and ring systems, and for selecting the 
+principal chain was needed in the context of preferred names. This revision incorporates a major change from earlier 
+recommendations given in the 1979 edition (ref. 1) and the 1993 Guide (ref. 2). 
+ru: В контексте предпочтительных имён потребовался тщательный пересмотр и расширение порядка старшинства классов, колец 
+и систем колец, а также выбора основной цепи. Этот пересмотр включает существенное изменение по сравнению с предыдущими 
+рекомендациями, представленными в издании 1979 года (ссылка 1) и Руководстве 1993 года (ссылка 2).
+
+@p .framed
+en: In acyclic parent structures the order of seniority between unsaturation and length of chain given in earlier 
+recommendations is reversed. Thus, the first criterion to be considered in choosing a preferred parent acyclic chain 
+is the length of the chain; unsaturation is now the second criterion. 
+ru: В ациклических &(parent structure|pr*) порядок старшинства между ненасыщенностью и длиной цепи, указанный в предыдущих 
+рекомендациях, обратен. Таким образом, первым критерием, который следует учитывать при выборе предпочтительной 
+&(parent [chain]|ro) ациклической цепи, является длина цепи; ненасыщенность теперь является вторым критерием.
+
+en: **Note 1**: Since the senior parent structure can occur in a compound in multiple ways, several plausible, unambiguous 
+names can be generated. The criteria necessary to select a preferred IUPAC name are described in P-45; thus, traditional 
+criteria related to substituent groups are not incorporated in this Section. 
+ru: **Примечание 1**: Поскольку главная &(parent structure) может встречаться в соединении различными способами, 
+можно получить несколько правдоподобных и однозначных названий. Критерии, необходимые для выбора предпочтительного названия по ИЮПАК, 
+описаны в P-45; поэтому традиционные критерии, связанные с &(substituent group|tv*), в данном разделе не рассматриваются.
+
+en: **Note 2**: Criteria related to nonstandard bonding have been incorporated into the criteria applicable to either rings, ring 
+systems, or acyclic chains (P-44.4); hierarchically, they come after the criteria related to unsaturation (double bonds) 
+and before those related to indicated hydrogen atoms.
+ru: **Примечание 2**: Критерии, относящиеся к нестандартному связыванию, были включены в критерии, применимые к кольцам, 
+кольцевым системам или ациклическим цепям (P-44.4); иерархически они идут после критериев, связанных с ненасыщенностью 
+(двойными связями), и перед критериями, связанными с &(indicated hydrogen atom|tv*).
+
+#P-44.1
+en: Seniority order for parent structures 
+ru: Порядок старшинства &(parent structure|ro*)
+
+en: When there is a choice, the senior parent structure is chosen by applying the following criteria, in order, until a decision 
+is reached. These criteria must always be applied before those applicable to rings and ring systems (see P-44.2) and to 
+chains (see P-44.3). Then criteria applicable to both chains and rings or ring systems given in P-44.4 are considered. 
+ru: При наличии выбора старшая &(parent structure) выбирается с применением следующих критериев (в указанном порядке) 
+до принятия решения. Эти критерии всегда должны применяться до критериев, применимых к кольцам и кольцевым системам (см. P-44.2) 
+и цепям (см. P-44.3). Затем рассматриваются критерии, применимые как к цепям, так и к кольцам или кольцевым системам, 
+приведенные в P-44.4.
+
+#P-44.1.1+
+en: The senior parent structure has the maximum number of substituents corresponding to the principal 
+characteristic group (suffix) or senior parent hydride in accord with the seniority of classes (P-41) and the seniority of 
+suffixes (P-43). 
+ru: Старшая &(parent structure) имеет максимальное количество заместителей, соответствующих главной &(characteristic group|da) 
+(суффиксу) или старшему &(parent hydride|da) в соответствии со старшинством классов (P-41) и старшинством суффиксов (P-43).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)|`/`\`|/\/CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-cyclohexylpropanoic acid (PIN)  <br>
+cyclohexanepropanoic acid (see P-15.6)
+ru: 3-циклогексилпропановая кислота (PIN) <br>
+циклогексанпропановая кислота (см. P-15.6)
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)CH3-CH2-CH2_(h){}\@n(3)||\//`|@n(1)<`\\`/>/COOH
+$>
+
+en: 3-propylbenzoic acid (PIN)
+ru: 3-пропилбензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2-CH2-CH2-CH2-CH@n(3)<|CH@n(4,90)<`-CH3@n(5,90)>-OH>-CH2@n(2)-CH2@n(1)-OH
+$>
+
+en: 3-(4-chlorobutyl)pentane-1,4-diol (PIN) <br>
+[not 7-chloro-3-(1-hydroxyethyl)heptan-1-ol;  <br>
+there are two of the principal characteristic groups in the parent of the PIN <br> 
+and only one in the other name]  <br>
+[not 3-(4-chlorobutyl)pentane-2,5-diol;  <br>
+the locant set ‘1,4’ for the principal characteristic groups of the PIN is lower than ‘2,5’] <br>
+ru: 3-(4-хлорбутил)пентан-1,4-диол (PIN) <br>
+[не 7-хлор-3-(1-гидроксиэтил)гептан-1-ол; <br>
+в родительском названии PIN присутствуют две основные &(characteristic group|*), <br>
+а в другом названии только одна] <br>
+[не 3-(4-хлорбутил)пентан-2,5-диол; <br>
+локант «1,4» для основных характерных групп PIN меньше, чем «2,5»] <br>
+
+@cell
+<$ NH2-NH-COOH $>
+
+en: hydrazinecarboxylic acid (PIN) 
+ru: гидразинкарбоновая кислота (PIN)
+
+@cell
+<$ H3Si-CH2-CH2-COOH $>
+
+en: 3-silylpropanoic acid (PIN)
+ru: 3-силилпропановая кислота (PIN)
+
+@cell
+<$ HOOC-SiH2-CH2-CH3 $>
+  
+en: ethylsilanecarboxylic acid (PIN) 
+ru: этилсиланкарбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-S@n(3)-CH2@n(4)-CH2@n(5)-S@n(6)-C@n(7,90)<(CH2-O-CH2-CH2-O-CH2-CH2-CH2-CH3)2>#
+`|CH2@n(8)-CH2@n(9)-S@n(10)-CH2@n(11,-80)-CH2@n(12,-80)-S@n(13)-CH2@n(14,-80)-COOH@n(15)
+$>
+
+en: 7,7-bis[(2-butoxyethoxy)methyl]-3,6,10,13-tetrathiapentadecane-1,15-dioic acid (PIN)  <br>
+[not 9-[(2-butoxyethoxy)methyl]-9-({2-[(carboxymethyl)sulfanyl]ethyl}sulfanyl)-11,14-dioxa-3,6-dithiaoctadecan-1-oic acid;  <br>
+nor 7-[(2-butoxyethoxy)methyl]-7-[2-({2-[(carboxymethyl)sulfanyl]ethyl}sulfanyl)ethyl]-9,12-dioxa-3,6-dithiahexadecan-1-oic acid;  <br>
+there are two of the principal characteristic group in the parent of the PIN  <br>
+and only one in the other names] 
+ru: 7,7-бис[(2-бутоксиэтокси)метил]-3,6,10,13-тетратиапентадекан-1,15-диовая кислота (PIN) <br>
+[не 9-[(2-бутоксиэтокси)метил]-9-({2-[(карбоксиметил)сульфанил]этил}сульфанил)-11,14-диокса-3,6-дитиаоктадекан-1-&(oic acid); <br>
+и не 7-[(2-бутоксиэтокси)метил]-7-[2-({2-[(карбоксиметил)сульфанил]этил}сульфанил)этил]-9,12-диокса-3,6-дитиагексадекан-1-&(oic acid); <br>
+в исходном названии PIN присутствуют две основные &(characteristic group|*), а в остальных названиях — только одна]
+
+@cell
+<$ H3Si-CH2-CH2-SiH2-CH2-CH2-SiH3 $>
+  
+en: [silanediyldi(ethane-2,1-diyl)]bis(silane) (PIN)  <br>
+(Si is senior to C, see P-44.1.2)  <br>
+[not bis(2-silylethyl)silane;  <br>
+the multiplicative preferred name expresses two occurrences of the parent hydride silane;  <br>
+the substitutive name expresses only one] 
+ru: [силандиилди(этан-2,1-диил)]бис(силан) (PIN) <br>
+(Si старше C, см. P-44.1.2) <br>
+[не бис(2-силилэтил)силан; <br>
+мультипликативное предпочтительное название отражает два появления &(parent hydride|ro) силана; <br>
+заместительное название отражает только одно]
+
+@cell
+<$
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\N//-\\-CH2_(h){}-/=\<`//`-`\\>-CH@bt(4):a#
+_(h){}-@n(1,-10)/=\@n(4,-170)@bt(5,120,1)<`//`-`\\>-CH2@bt(6)_(h){}-@n(1,-10)/=\@n(4,-170)@bt(7,120,1)<-COOH>`//`-`\\;
+#a|@n(3,80)\||@n(1,-160)<`/@bt(3,120,1)`\\`|//>\CH2@bt(2,-120)_(h){}-@n(1,-10)/=\@n(4,-170)@bt(1,120,1)<`//`-`\\>-COOH
+$>
+
+en: 4-{4-[(pyridin-4-yl)methyl]phenyl}-1,7(1),3(1,3),5(1,4)-tetrabenzenaheptaphane-1^{4},7^{4}-dicarboxylic acid (PIN) <br>
+[not 4-{[4-(4-carboxyphenyl)methyl]phenyl}-1(4)-pyridina-3(1,4),5(1,3),7(1)-tribenzenaheptaphane-7^{4}-carboxylic acid;  <br>
+nor 4-{[3-(4-carboxyphenyl)methyl]phenyl}-1(4)-pyridina-3,5(1,4),7(1)-tribenzenaheptaphane-7^{4}-carboxylic acid; <br>
+there are two of the principal characteristic group in the PIN and only one in the other names] 
+ru: 4-{4-[(пиридин-4-ил)метил]фенил}-1,7(1),3(1,3),5(1,4)-тетрабензолагептафан-1^{4},7^{4}-дикарбоновая кислота (PIN) <br>
+[не 4-{[4-(4-карбоксифенил)метил]фенил}-1(4)-пиридина-3(1,4),5(1,3),7(1)-трибензолагептафан-7^{4}-карбоновая кислота; <br>
+и не 4-{[3-(4-карбоксифенил)метил]фенил}-1(4)-пиридина-3,5(1,4),7(1)-трибензолагептафан-7^{4}-карбоновая кислота; <br>
+в PIN присутствуют две основные &(characteristic group|*), а в остальных названиях только одна]
+
+@End
+
+#P-44.1.2+
+en: The senior parent structure, whether cyclic or acyclic, has the senior atom in accordance with the seniority of 
+classes (see P-41) expressed by the following decreasingelementorder: <%order%>. 
+This criterion is applied to select the senior atom in parents and to choose 
+between rings and chains. It is not used to choose between rings or to select the principal chain modified by skeletal 
+replacement (‘a’) nomenclature. If the most senior class is a ring system or a chain modified by skeletal replacement 
+(‘a’) nomenclature, the senior parent is chosen among all rings (see P-44.2) or chains (see P-44.3) respectively.
+ru: Старшая &(parent structure), циклическая или ациклическая, имеет старший атом в соответствии со старшинством классов 
+(см. P-41), выраженным следующим убывающим порядком элементов: <%order%>.
+Этот критерий применяется для выбора старшего атома в &(parent structure|pr*) и выбора между кольцами и цепями. 
+Он не используется для выбора между кольцами или выбора главной цепи, модифицированной номенклатурой &(skeletal replacement a|ro). 
+Если самый старший класс представляет собой кольцевую систему или цепь, модифицированную номенклатурой &(skeletal replacement a|ro), 
+старшая &(parent structure) выбирается среди всех колец (см. P-44.2) или цепей (см. P-44.3) соответственно.
+%order: N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl > O > S > Se > Te > C
+
+#P-44.1.2.1+
+en: When two or more atoms denoting different classes are present in a compound, and when the choice for 
+parent compound is between these atoms, the parent compound is the one belonging to the class cited first in the 
+seniority of classes given above. A single senior atom is sufficient to give seniority to the parent hydride.
+ru: Если в соединении присутствуют два или более атомов, обозначающих разные классы, и выбор &(parent compound|ro) делается 
+между этими атомами, &(parent compound|tv) считается соединение, принадлежащее к классу, указанному первым в порядке старшинства 
+классов, приведённом выше. Одного старшего атома достаточно для определения старшинства &(parent hydride|ro).
+
+@p .framed
+en: This rule is broader than Rule D-1.34 in the 1979 Recommendations (ref. 1) that referred to compounds where the 
+heteroatoms were directly attached to each other.
+ru: Это правило шире, чем правило D-1.34 в Рекомендациях 1979 г. (ссылка 1), которое относилось к соединениям, в которых 
+гетероатомы непосредственно связаны друг с другом.
+
+@Examples
+
+@cell
+<$ Si(CH3)4 $>
+  
+en: tetramethylsilane (PIN)  <br>
+(Si is senior to C) 
+ru: тетраметилсилан (PIN) <br>
+(Si старше C)
+
+@cell
+<$ CH3-PH-SiH3 $>
+  
+Methyl(silyl)phosphine (both are senior to C) 
+// ошибка в оригинале. исправлено по информации из ChemSpider
+// http://charchem.org/ru/subst-ref/?id=6791
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x-1.1)_p3O@n(1,-90)_p3@n(2,-60,.4)_(A30)CH2-O-Si<`|CH3><|CH3>-C(CH3)3
+$>
+
+en: _tert_-butyldi(methyl)(oxiranylmethoxy)silane (PIN)  <br>
+(Si is senior to O) 
+ru: _трет_-бутилди(метил)(оксиранилметокси)силан (PIN) <br>
+(Si старше O)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-SiH2@n(1)-SiH2@n(2)-CH2-CH2-COOH
+$>
+
+en: 2-(2-carboxyethyl)disilane-1-carboxylic acid (PIN)  <br>
+(Si is senior to C) 
+ru: 2-(2-карбоксиэтил)дисилан-1-карбоновая кислота (PIN) <br>
+(Si старше C)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq@n(2,-70)<-PH2>_qO@n(1,-70,.6)_q
+$>
+
+en: (1-benzofuran-2-yl)phosphane (PIN)  <br>
+(P is senior to O)
+ru: (1-бензофуран-2-ил)фосфан (PIN) <br>
+(P старше O)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||_qN_qq_qN<_q>_(a54)Si(CH3)3
+$>
+
+en: 1-(trimethylsilyl)-1_H_-imidazole (PIN)  <br>
+(N is senior to Si) 
+ru: 1-(триметилсилил)-1_H_-имидазол (PIN) <br>
+(N старше Si)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\`/@n(2,20)<`\NC>|O@n(1,-30,.5)\/`|@n(4,150)-||\//P@n(1,-140,.5)`|</CN>@n(2,150)`\\`/@n(4,20)
+$>
+
+en: 4-(2-cyanophosphinin-4-yl)oxane-2-carbonitrile (PIN)  <br>
+(O > P; see P-44.2;  <br>
+senior parent cannot be chosen by P-44.1.2)
+ru: 4-(2-цианофосфинин-4-ил)оксан-2-карбонитрил (PIN) <br>
+(O > P; см. P-44.2; <br>
+старшая &(parent structure) не может быть выбрана с помощью P-44.1.2)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_qq_qO@n(1,90,.6)_q@n(2,-55)<_qq>-PH_(h){}-`|//\||`/P`\\
+$>
+
+en: 2-[(phosphinin-2-yl)phosphanyl]furan (PIN)  <br>
+(P-ring is senior to P-chain; O-ring is senior to P-ring) 
+ru: 2-[(фосфинин-2-ил)фосфанил]фуран (PIN) <br>
+(P-кольцо старше P-цепи; O-кольцо старше P-кольца)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//`\`||/O@n(1,90,.6)\CH2@n(2,160,.5)|@n(3,-140,.4)\NH@n(1)_(h){}-NH@n(2)_(h){}-_(a54)_q_q_qSi<_(y-.5)H2>@n(1,70)_q@n(2,0,.4)
+$>
+
+en: 1-(2_H_-pyran-3-yl)-2-(silolan-2-yl)hydrazine (PIN)  <br>
+( N > Si > O) 
+ru: 1-(2_H_-пиран-3-ил)-2-(силолан-2-ил)гидразин (PIN) <br>
+(N > Si > O)
+
+@cell
+<$
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`//`-`\\@:btc(n)@bt(&n,120,%L)@(1)/@n(2,60)-O@n(1,120,.5)\@n(6,-170)-@:Cc(a,b)CH2@bt(&a)_(h){}-@n(1,-10)/=\@n(4,-170)@btc(&b)<`//`-`\\>-@(2,3)#
+@Cc(4,5)@Cc(6,7)Si(CH3)3
+$>
+
+en: trimethyl[1^{2}_H_-1(6)-pyrana-3,5(1,4),7(1)-tribenzenaheptaphan-7^{4}-yl]silane (PIN)  <br>
+(Si is senior to O)
+ru: триметил[1^{2}_H_-1(6)-пирана-3,5(1,4),7(1)-трибензолагептафан-7^{4}-ил]силан (PIN) <br>
+(Si старше O)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(9)-O@n(8)-CH2@n(7)-O@n(6)-CH2@n(5)-O@n(4)-CH2@n(3)-O@n(2)-CH2@n(1)-NH@n(N)-CH2@n(1)-S@n(2)-CH2@n(3)-S@n(4)-CH2@n(5)-S@n(6)-CH2@n(7)-S@n(8)-CH3@n(9)
+$>
+
+en: _N_-(2,4,6,8-tetrathianonan-1-yl)-2,4,6,8-tetraoxanonan-1-amine (PIN)  <br>
+[O > S; see P-44.3;  <br>
+senior parent cannot be chosen by P-44.1.2] 
+ru: _N_-(2,4,6,8-тетратианонан-1-ил)-2,4,6,8-тетраоксанонан-1-амин (PIN) <br>
+[O > S; см. P-44.3; <br>
+старшая &(parent structure) не может быть выбрана P-44.1.2]
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nn(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)&n>@;
+H3C@n(9)-O@n(8)-[CH2-O:a]3CH2@n(1)_(h){}/@n(3,-30,.4)`|/O@n(1,90)\|@n(5,-150,.4)<`/`\>_(A30)CH2@n(1)-[SiH2:b-CH2]3-SiH2@n(8)-CH3@n(9);
+#a@nn("6,4,2"); #b@nn("2,4,6")
+$>
+
+en: 1-[5-(2,4,6,8-tetrasilanonan-1-yl)oxan-3-yl]-2,4,6,8-tetraoxanonane (PIN)  <br>
+[O-chain > Si-chain (see P-44.3;  <br>
+senior parent cannot be chosen by P-44.1.2)] 
+ru: 1-[5-(2,4,6,8-тетрасиланонан-1-ил)оксан-3-ил]-2,4,6,8-тетраоксанонан (PIN) <br>
+[O-цепь > Si-цепь (см. P-44.3; <br>
+старшая &(parent structure) не может быть выбрана P-44.1.2)]
+
+@End
+
+#P-44.1.2.2+
+en: Systems composed of rings and chains (exclusive of linear phanes)
+ru: Системы, состоящие из колец и цепей (исключая линейные &(phane|*))
+
+en: Two methods are recognized to name systems composed of rings and chains (exclusive of linear phanes). 
+ru: Известны два метода наименования систем, состоящих из колец и цепей (исключая линейные &(phane|*)).
+
+#(1)
+en: Within the same class, a ring or ring system has seniority over a chain. When a ring and a chain contain the same 
+senior element, the ring is chosen as parent. Rings and chains are chosen regardless of their degree of 
+hydrogenation. As a consequence, this approach prefers the choice of a ring over a chain in systems composed of 
+cyclic and acyclic hydrocarbons.
+ru: В пределах одного класса кольцо или кольцевая система имеют приоритет над цепью. Если кольцо и цепь содержат один и тот же 
+старший элемент, кольцо выбирается в качестве &(parent structure|ro). Кольца и цепи выбираются независимо от степени их 
+гидрирования. Следовательно, этот подход отдаёт предпочтение выбору кольца над цепью в системах, состоящих из циклических и 
+ациклических углеводородов.
+
+#(2)
+en: The context may favor the ring or the chain, so that, for example, substituents may be treated alike or an 
+unsaturated acyclic structure may be recognized, or the one chosen has the greater number of skeletal atoms in the 
+ring or in the principal chain of the acyclic structure. 
+ru: Контекст может отдавать предпочтение кольцу или цепи, так что, например, заместители могут рассматриваться одинаково или 
+может быть распознана ненасыщенная ациклическая структура, или выбранная структура имеет большее число скелетных атомов в кольце 
+или в главной цепи ациклической структуры.
+
+en: In the examples that follow, when a choice is possible, names formed by both methods are given. For selection of a 
+preferred IUPAC name, see P-52.2.8. 
+ru: В следующих примерах, когда возможен выбор, приведены названия, образованные обоими способами. Выбор предпочтительного названия 
+по ИЮПАК см. в разделе P-52.2.8.
+
+@Examples
+
+@cell
+<$ $slope(30)|`//`\`||/\\/CH2-CH2-CH2-CH2-CH2-CH2-CH3 $>
+
+en: (1) heptylbenzene (PIN)  <br>
+(ring is senior to chain)  <br>
+(2) 1-phenylheptane  <br>
+(chain has greater number of skeletal atoms) 
+ru: (1) гептилбензол (PIN) <br>
+(кольцо старше цепи) <br>
+(2) 1-фенилгептан <br>
+(цепь имеет большее число скелетных атомов)
+
+@cell
+<$ $slope(30)|`/`\`|/\/CH=mCH2 $>
+
+en: (1) ethenylcyclohexane (PIN)  <br>
+(ring is senior to chain)  <br>
+(2) cyclohexylethene  <br>
+(emphasizes unsaturation) 
+ru: (1) этенилциклогексан (PIN) <br>
+(кольцо важнее цепи) <br>
+(2) циклогексилэтен <br>
+(подчеркивает ненасыщенность)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\@n(1',40)$L(1.2)/CH2\$L()|\\/`||`\`//@n(1,140)
+$>
+
+en: (1) 1,1′-methylenedibenzene (PIN)  <br>
+(ring is senior to chain)  <br>
+(2) diphenylmethane  <br>
+(treats phenyl groups alike as substituents) 
+ru: (1) 1,1′-метилендибензол (PIN) <br>
+(кольцо важнее цепи) <br>
+(2) дифенилметан <br>
+(фенильные группы рассматриваются как заместители)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)|`/`\`|/\/CH@n(1)=mCH@n(2)\|\/`|`\`/
+$>
+
+en: (1) 1,1′-(ethene-1,2-diyl)dicyclohexane (PIN)  <br>
+(ring is senior to chain)  <br>
+(2) 1,2-dicyclohexylethene  <br>
+(emphasizes unsaturation) 
+ru: (1) 1,1′-(этен-1,2-диил)дициклогексан (PIN) <br>
+(кольцо старше цепи) <br>
+(2) 1,2-дициклогексилэтен <br>
+(подчеркивает ненасыщенность)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)|`//`\`||/N@n(1)\\@n(2,30,.4)/NH-NH2
+$>
+
+en: (1) 2-hydrazinylpyridine (PIN)  <br>
+(ring is senior to chain)  <br>
+(2) (pyridin-2-yl)hydrazine  <br>
+(pyridin-2-yl)diazane 
+ru: (1) 2-гидразинилпиридин (PIN) <br>
+(кольцо старше цепи) <br>
+(2) (пиридин-2-ил)гидразин <br>
+(пиридин-2-ил)диазан
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(4,150)_qN@n(3,90,.6)_qq<-NH-NH2>@n(2,-60)_qN<_(y-.5)H>@n(1,0)_q@n(5,-150)
+$>
+
+en: (1) 2-hydrazinyl-4,5-dihydro-1_H_-imidazole (PIN)  <br>
+2-diazanyl-4,5-dihydro-1_H_-imidazole  <br>
+(ring is senior to chain)  <br>
+(2) (4,5-dihydro-1_H_-imidazol-2-yl)hydrazine
+ru: (1) 2-гидразинил-4,5-дигидро-1_H_-имидазол (PIN) <br>
+2-диазанил-4,5-дигидро-1_H_-имидазол <br>
+(кольцо старше цепи) <br>
+(2) (4,5-дигидро-1_H_-имидазол-2-ил)гидразин
+
+@End
+
+#P-44.1.3+
+en: Seniority order only for rings and ring systems. Criteria that apply only when the choice for parent structure is 
+between two or more rings or ring systems are given in P-44.2. 
+ru: Порядок старшинства действует только для колец и кольцевых систем. Критерии, применяемые только при выборе 
+&(parent structure|ro) между двумя или более кольцами или кольцевыми системами, приведены в P-44.2.
+
+#P-44.1.4+
+en: Seniority among acyclic chains (the principal chain). Criteria that apply only when the choice for parent 
+structure is between two or more acyclic chains are given in P-44.3. 
+ru: Старшинство среди ациклических цепей (главная цепь). Критерии, применимые только при выборе &(parent structure|ro) 
+между двумя или более ациклическими цепями, приведены в P-44.3.
+
+#P-44.1.5+
+en: Criteria applicable to rings, ring systems, or acyclic chains, such as unsaturation, the presence of skeletal 
+atoms with different bonding numbers, isotopically modified compounds, and stereochemical configurations are given 
+in P-44.4. 
+ru: Критерии, применимые к кольцам, кольцевым системам или ациклическим цепям, такие как ненасыщенность, наличие 
+скелетных атомов с различными числами связей, изотопно-модифицированные соединения и стереохимические конфигурации, 
+приведены в P-44.4.

@@ -1,0 +1,7 @@
+#P-44.3
+en: Seniority of acyclic chains (the principal chain)  
+ru: Старшинство ациклических цепей (главная цепь)
+
+#P-44.4
+en: Seniority criteria applicable to rings, ring systems, or acyclic chains 
+ru: Критерии старшинства, применимые к кольцам, кольцевым системам или ациклическим цепям

@@ -1,4 +1,8 @@
 {
+  "amplificant": "амплификант",
+  "amplificant|ro": "амплификанта",
+  "amplificant|*": "амплификанты",
+  "amplificant|ro*": "амплификантов",
 
   "amplification": "амплификация",
   "amplification|ro": "амплификации",
@@ -50,6 +54,7 @@
   "characteristic [group]|tv*": "характеристическими",
   "characteristic group": "характеристическая группа",
   "characteristic group|ro": "характеристической группы",
+  "characteristic group|da": "характеристической группе",
   "characteristic group|vi": "характеристическую группу",
   "characteristic group|*": "характеристические группы",
   "characteristic group|ro*": "характеристических групп",
@@ -61,6 +66,7 @@
   "cite": "цитировать",
   "cited": "цитируется",
   "cited|*": "цитируются",
+  "cited|ro*": "цитируемых",
   "cited|s*": "процитированы",
   "citing": "цитирование",
 
@@ -129,6 +135,8 @@
 
   "fused ring system": "конденсированная кольцевая система",
   "fused ring system|tv": "конденсированной кольцевой системой",
+  "fused ring system|ro*": "конденсированных кольцевых систем",
+  "fused ring system|da*": "конденсированным кольцевым системам",
 
   "fused system": "конденсированная система",
   "fused system|*": "конденсированные системы",
@@ -175,6 +183,7 @@
   "indicated hydrogen|pr": "указанном водороде",
 
   "indicated hydrogen atom|*": "атомы указанного водорода",
+  "indicated hydrogen atom|tv*": "атомами указанного водорода",
 
   "imidic acid": "имидовая кислота",
   "imidic acid|*": "имидовые кислоты",
@@ -195,10 +204,13 @@
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",
 
+  "nonfused bridged ring system": "система мостиковых неконденсированных колец",
+
   "oic acid": "оевая кислота",
   "oic acid|*": "оевые кислоты",
 
-  "parent|*": "исходные",
+  "parent [chain]": "исходная",
+  "parent [chain]|ro": "исходной",
 
   "parent component": "исходный компонент",
   "parent component|ro": "исходного компонента",
@@ -214,6 +226,8 @@
   "parent component|pr*": "исходных компонентах",
 
   "parent compound": "исходное соединение",
+  "parent compound|ro": "исходного соединения",
+  "parent compound|tv": "исходным соединением",
   "parent compound|*": "исходные соединения",
   "parent compound|ro*": "исходных соединений",
   "parent compound|da*": "исходным соединениям",
@@ -242,12 +256,16 @@
   "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
   "parent phane hydrocarbon|da": "исходному фановому углеводороду",
 
+  "parent [structure]": "исходная",
+  "parent [structure]|*": "исходные",
   "parent structure": "исходная структура",
   "parent structure|ro": "исходной структуры",
+  "parent structure|tv": "исходной структурой",
   "parent structure|pr": "исходной структуре",
   "parent structure|*": "исходные структура",
   "parent structure|ro*": "исходных структур",
   "parent structure|tv*": "исходными структурами",
+  "parent structure|pr*": "исходных структурах",
 
   "parent skeleton": "исходный скелет",
   "parent skeleton|ro": "исходного скелета",
@@ -317,9 +335,12 @@
   "phane structure|da": "фановой структуре",
   "phane structure|*": "фановые структуры",
 
+  "phane [system]": "фановая",
+  "phane [system]|ro*": "фановых",
   "phane system": "фановая система",
   "phane system|*": "фановые системы",
   "phane system|ro*": "фановых систем",
+  "phane system|da*": "фановым системам",
 
   "quinque": "квинки",
 
@@ -370,6 +391,17 @@
   "spiro atom": "спироатом",
   "spiro atom|*": "спироатомы",
   "spiro atom|ro*": "спироатомов",
+
+  "spiro fusion": "спирослияние",
+  "spiro fusion|2": "спирослияния",
+  "spiro fusion|ro*": "спирослияний",
+  "spiro fusion|tv*": "спирослияниями",
+
+  "spiro ring system": "спирокольцевая система",
+  "spiro ring system|*": "спирокольцевые системы",
+  "spiro ring system|ro*": "спирокольцевых систем",
+
+  "spiro system": "спиросистема",
 
   "subsidiary parent|f": "вторичная исходная",
   "subsidiary parent|f,tv": "вторичной исходной",

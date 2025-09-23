@@ -26,7 +26,7 @@ ru: Раздел P-24.5.2 учитывает соответствующие из
 
 en: The spiro ring systems consisting only of monocyclic rings in this Section are saturated systems; for unsaturated 
 systems, see Section P-31.1.5.1. 
-ru: Системы спироколец, состоящие только из моноциклических колец в этом разделе, являются насыщенными системами; 
+ru: &(spiro ring system|*), состоящие только из моноциклических колец в этом разделе, являются насыщенными системами; 
 для ненасыщенных систем см. раздел P-31.1.5.1.
 
 en: For naming substituent groups see Sections P-29 and P-32.1.3. 
@@ -446,7 +446,7 @@ $>
 
 en: tetraspiro[<%fb%>]icosane (PIN) <br>
 correct 
-ru: тетраспиро[<%fb%>]&(icosa)н (PIN) <br>
+ru: тетраспиро[<%fb%>]&(icos)ан (PIN) <br>
 правильно
 %fb:2.2.2.2^{9}.2.2^{14}.2^{6}.2^{3}
 
@@ -1529,7 +1529,7 @@ ru: 3,3′-диоксаспиро[бицикло[2.2.2]октан-2,6′-биц�
 @cell
 en: **Explanation:** spiro fusion is preferred to replacement (‘a’) prefixes for low locants and the locant set 2,6′ in the PIN **(I)** 
 is lower than 3,6′ in **(II)**. 
-ru: **Пояснение:** спирослияние предпочтительнее &(replacement a prefix|ro*) для меньших локантов, а набор локантов 2,6′ 
+ru: **Пояснение:** &(spiro fusion) предпочтительнее &(replacement a prefix|ro*) для меньших локантов, а набор локантов 2,6′ 
 в PIN **(I)** меньше, чем 3,6′ в **(II)**.
 
 @End

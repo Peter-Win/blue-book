@@ -43,7 +43,7 @@ speaking, **ions** and **radicals** do not fall within the concept of functional
 radical center is treated like a function and expressed in the same way as characteristic groups, i.e., by suffixes and 
 prefixes. This treatment is introduced in this Chapter and Chapter P-7. 
 ru: В этой главе также рассматриваются **функциональные &(parent compound|*)**, то есть структуры, которые можно рассматривать 
-как &(parent|*), имеющие замещаемые атомы водорода, но обладающие характеристиками, обычно связанными с функциональностью, 
+как &(parent [structure]|*), имеющие замещаемые атомы водорода, но обладающие характеристиками, обычно связанными с функциональностью, 
 например, уксусная кислота, <%ac%>, и фосфоновая кислота, <%p%>. Функциональные &(parent compound|*) следует отличать от 
 соединений, имеющих &(characteristic group|vi), систематически вводимую в виде суффикса, присоединённого к &(parent hydride|da), 
 например, масляная кислота и этанол. Последние соединения можно назвать «функционализированными &(parent hydride|tv*)», 

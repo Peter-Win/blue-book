@@ -1,7 +1,3 @@
-#P-44
-en: Seniority order for parent structures 
-ru: Порядок старшинства &(parent structure|ro*)
-
 #P-45
 en: Selection of the preferred IUPAC name 
 ru: Выбор предпочтительного названия ИЮПАК

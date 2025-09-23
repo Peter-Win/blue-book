@@ -2427,4 +2427,322 @@ ru: Сульфиногидразиды, модифицированные пут�
 en: sulfinoselenohydrazide
 ru: сульфиноселеногидразид 
 
+@td
+**40.**
+
+@td
+en: Sulfinimidohydrazides
+ru: Сульфинимидогидразиды
+
+@td
+<$ {}–S(=NH)-NHNH2 $>
+
+@td
+en: sulfinimidohydrazide
+ru: сульфинимидогидразид
+
+@td
+**41.**
+
+@td
+en: Sulfinohydrazonohydrazides
+ru: Сульфиногидразоногидразиды
+
+@td
+<$ {}–S(=NNH2)-NHNH2 $>
+
+@td
+en: sulfinohydrazonohydrazide
+ru: сульфиногидразоногидразид
+
+@td
+**42.**
+
+@td
+en: Selenonohydrazides
+ru: Селеноногидразиды
+
+@td
+<$ {}–SeO2-NHNH2 $>
+
+@td
+en: selenonohydrazide (as for sulfonohydrazides)
+ru: селеноногидразид (как для сульфоногидразидов) 
+
+@td
+**43.**
+
+@td
+en: Seleninohydrazides
+ru: Селениногидразиды
+
+@td
+<$ {}–Se(O)-NHNH2 $>
+
+@td
+en: seleninohydrazide (as for sulfinohydrazides)
+ru: селениногидразид (как для сульфиногидразидов) 
+
+@td
+**44.**
+
+@td
+en: Telluronohydrazides
+ru: Теллуроногидразиды
+
+@td
+<$ {}–TeO2-NHNH2 $>
+
+@td
+en: telluronohydrazide (as for sulfonohydrazides)
+ru: теллуроногидразид (как для сульфогидразидов)
+
+@td
+**45.**
+
+@td
+en: Tellurinohydrazides
+ru: Теллуриногидразиды
+
+@td
+<$ {}–Te(O)-NHNH2 $>
+
+@td
+en: tellurinohydrazide (as for sulfinohydrazides)
+ru: теллуриногидразид (как для сульфиногидразидов) 
+
+@td rowspan=2
+**46.**
+
+@td rowspan=2
+en: Nitriles
+ru: Нитрилы
+
+@td
+<$ {}–C%N $>
+
+@td
+en: carbonitrile
+ru: карбонитрил
+
+@td
+<$ {}–(C)%N $>
+
+@td
+en: nitrile
+ru: нитрил
+
+@td rowspan=9
+**47.**
+
+@td rowspan=2
+en: Aldehydes
+ru: Альдегиды
+
+@td
+–CHO
+
+@td
+en: carbaldehyde
+ru: карбальдегид 
+
+@td
+–(C)HO
+
+@td
+en: al 
+ru: аль
+
+@td colspan=3
+en: Aldehydes modified by replacement with S, Se, and/or Te
+ru: Альдегиды, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=6
+
+@td
+–CHS
+
+@td
+en: carbothialdehyde
+ru: карботиальдегид 
+
+@td
+–(C)HS
+
+@td
+en: thial
+ru: тиаль 
+
+@td 
+–CHSe
+
+@td
+en: carboselenaldehyde
+ru: карбоселенальдегид
+
+@td
+–(C)HSe
+
+@td
+en: selenal
+ru: селеналь 
+
+@td 
+–CHTe
+
+@td
+en: carbotelluraldehyde 
+ru: карботеллуральдегид
+
+@td
+–(C)HTe
+
+@td
+en: tellural
+ru: теллураль
+
+@td rowspan=5
+**48.**
+
+@td
+en: Ketones, pseudoketones,<br> and heterones
+ru: Кетоны, псевдокетоны<br> и гетероны
+
+@td
+>(C)=O
+
+@td 
+en: one
+ru: он
+
+@td colspan=3
+en: Ketones, pseudoketones, and heterones modified by replacement with S, Se, and/or Te
+ru: Кетоны, псевдокетоны и гетероны, модифицированные путем замены на S, Se и/или Te
+
+@td rowspan=3
+
+@td
+>(C)=S
+
+@td
+en: thione 
+ru: тион
+
+@td
+>(C)=Se
+
+@td
+en: selone (not selenone)
+ru: селон (не селенон) 
+
+@td
+>(C)=Te
+
+@td
+en: tellone (not tellurone)
+ru: теллон (не теллурон)
+
+@td rowspan=5
+**49.**
+
+@td
+en: Hydroxy compounds 
+ru: Гидроксисоединения
+
+@td
+–OH
+
+@td
+en: ol 
+ru: ол
+ 
+@td colspan=3
+en: Hydroxy compounds modified by replacement with S, Se, and/or Te
+ru: Гидроксисоединения, модифицированные путем замены на S, Se и/или Te 
+
+@td rowspan=3
+
+@td
+–SH
+
+@td
+en: thiol 
+ru: тиол
+
+@td
+–SeH
+
+@td
+en: selenol
+ru: селенол
+
+@td
+–TeH
+
+@td
+en: tellurol
+ru: теллурол
+
+@td rowspan=4
+**50.**
+
+@td
+en: Hydroperoxides 
+ru: Гидропероксиды
+
+@td
+–OOH 
+
+@td
+en: peroxol
+ru: пероксол 
+
+@td colspan=3 
+en: Hydroperoxides modified by replacement with S, Se, and/or Te
+ru: Гидропероксиды, модифицированные путем замены на S, Se и/или Te 
+
+@td rowspan=2
+
+@td
+–OSH
+
+@td
+en: _OS_-thioperoxol 
+ru: _OS_-тиопероксол
+
+@td
+–SOH
+
+@td
+en: _SO_-thioperoxol (not sulfenic acid) 
+ru: _SO_-тиопероксол (не сульфеновая кислота)
+
+@td
+**51.**
+
+@td
+en: Amines 
+ru: Амины
+
+@td
+–NH2
+
+@td
+en: amine
+ru: амин 
+
+@td
+**52.** 
+
+@td
+en: Imines 
+ru: Имины
+
+@td
+=NH 
+
+@td
+en: imine
+ru: имин 
+
 @EndTable

@@ -78,7 +78,7 @@ const template = ({title, body}) => `<!doctype html>
   <script src="./charchem2.js"></script>
   <script src="./blue-book.js"></script>
 </head>
-<body class="echem-auto-compile">
+<body class="-echem-auto-compile">
 ${body}
 </body>
 </html>

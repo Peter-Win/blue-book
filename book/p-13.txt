@@ -1747,7 +1747,7 @@ monosaccharide (aldose or ketose) or monosaccharide derivative, is indicated by 
 preceded by a pair of locants identifying the two hydroxy groups involved. The prefix ‘anhydro’ is placed in a name in 
 accordance with the principles of alphabetical order (see P-102.5.6.7.1). 
 ru: Внутримолекулярные эфиры, формально возникающие путем отщепления воды от двух гидроксильных групп одной молекулы 
-моносахарида (альдозы или кетозы) или производного моносахарида, обозначаются &(detachable [frefix]|tv) префиксом «ангидро», 
+моносахарида (альдозы или кетозы) или производного моносахарида, обозначаются &(detachable [prefix]|tv) префиксом «ангидро», 
 которой предшествует пара локантов, идентифицирующих две вовлеченные гидроксильные группы. Приставка «ангидро» 
 помещается в название в соответствии с принципами алфавитного порядка (см. P-102.5.6.7.1).
 
