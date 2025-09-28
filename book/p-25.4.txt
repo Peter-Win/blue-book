@@ -111,7 +111,7 @@ ru: Простой мост. Мост, описывающий атом или г
 #P-25.4.1.5+
 en: Composite bridge. A group of atoms that can only be described as a contiguous sequence of simple bridges, 
 for example (epoxymethano) = epoxy + methano = <% f %>. 
-ru: Составной мост. Группа атомов, которая может быть описана только как непрерывная последовательность простых мостов,
+ru: &(Composite bridge). Группа атомов, которая может быть описана только как непрерывная последовательность простых мостов,
 например, (эпоксиметано) = эпокси + метано = <% f %>.
 %f: <$ –O-CH2– $>
 
@@ -156,7 +156,7 @@ ru: Независимый мост. Мост, который соединяет
 #P-25.4.1.9+
 en: Dependent bridge. A bridge that connects one or more positions of a fused ring system to one or more 
 positions of a simple or composite independent bridge, and cannot be expressed as part of a larger composite bridge. 
-ru: Зависимый мост. Мост, который соединяет одну или несколько позиций конденсированной кольцевой системы с одной 
+ru: &(Dependent bridge). Мост, который соединяет одну или несколько позиций &(fused ring system|ro) с одной 
 или несколькими позициями простого или составного независимого моста и не может быть выражен как часть более крупного 
 составного моста.
 

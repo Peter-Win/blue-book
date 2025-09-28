@@ -2,6 +2,37 @@
 en: Seniority of acyclic chains (the principal chain)  
 ru: Старшинство ациклических цепей (главная цепь)
 
-#P-44.4
-en: Seniority criteria applicable to rings, ring systems, or acyclic chains 
-ru: Критерии старшинства, применимые к кольцам, кольцевым системам или ациклическим цепям
+en: In an acyclic compound consisting of individual atoms, alike or different (an acyclic chain), the chain on which the 
+nomenclature and numbering is based is called the ‘principal chain’. When there is a choice for the principal chain, the 
+following criteria are applied, in the order listed, until a decision is reached. 
+ru: В ациклическом соединении, состоящем из отдельных атомов, одинаковых или разных (ациклическая цепь), цепь, на которой 
+основана номенклатура и нумерация, называется «главной цепью». При выборе главной цепи применяются следующие критерии 
+(в указанном порядке) до тех пор, пока не будет принято решение.
+
+en: The principal chain: 
+ru: Главная цепь:
+
+@List
+
+@item
+en: contains the greater number of heteroatoms of any kind;  
+ru: содержит наибольшее количество гетероатомов любого типа;
+
+@item
+en: has the greater number of skeletal atoms; 
+ru: имеет наибольшее количество скелетных атомов;
+
+@item
+en: contains the greater number of the most senior acyclic heteroatom in the following sequence: <%ord%>.  
+ru: содержит наибольшее количество старших ациклических гетероатомов в следующей последовательности: <%ord%>.
+%ord: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In >Tl
+
+@End
+
+en: Each of these criteria is illustrated in P-44.3.1 through P-44.3.3 below.  
+ru: Каждый из этих критериев проиллюстрирован в пунктах P-44.3.1 – P-44.3.3 ниже.
+
+en: Further criteria applicable to acyclic chains are found in P-44.4. 
+ru: Дополнительные критерии, применимые к ациклическим цепям, можно найти в P-44.4.
+
+

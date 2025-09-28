@@ -3,6 +3,7 @@
   "amplificant|ro": "амплификанта",
   "amplificant|*": "амплификанты",
   "amplificant|ro*": "амплификантов",
+  "amplificant|tv*": "амплификантами",
 
   "amplification": "амплификация",
   "amplification|ro": "амплификации",
@@ -45,6 +46,14 @@
   "bridged fused ring system|vi*": "системы мостиковых конденсированных колец",
   "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
+
+  "bridged ring system": "система мостиковых колец",
+  "bridged ring system|vi": "систему мостиковых колец",
+  "bridged ring system|tv": "системой мостиковых колец",
+
+  "bridging": "образование мостика",
+  "bridging|ro": "образования мостика",
+  "bridging|tv": "образованием мостика",
 
   "carbohydroxamic acid": "карбогидроксамовая кислота",
   "carbohydroximic acid": "карбогидроксимовая кислота",
@@ -103,6 +112,9 @@
   "compound substituent prefix|*": "составные замещающие префиксы",
   "compound substituent prefix|ro*": "составных замещающих префиксов",
 
+  "composite bridge": "составной мост",
+  "composite bridge|ro*": "составных мостов",
+
   "composite locant": "композитный локант",
   "composite locant|tv": "композитным локантом",
   "composite locant|*": "композитные локанты",
@@ -116,6 +128,17 @@
   "cyclophane": "циклофан",
   "cyclophane|*": "циклофаны",
   "cyclophane|ro*": "циклофанов",
+
+  "divalent bridge": "двухвалентный мост",
+  "divalent bridge|ro": "двухвалентного моста",
+  "divalent bridge|ro*": "двухвалентных мостов",
+  
+
+  "dependent bridge": "зависимый мост",
+  "dependent bridge|ro": "зависимого моста",
+  "dependent bridge|pr": "зависимом мосте",
+  "dependent bridge|ro*": "зависимых мостов",
+  "dependent bridge|pr*": "зависимых мостах",
 
   "detachable [prefix]": "отделяемый",
   "detachable [prefix]|ro": "отделяемого",
@@ -134,7 +157,10 @@
   "functional suffix|tv*": "функциональными суффиксами",
 
   "fused ring system": "конденсированная кольцевая система",
+  "fused ring system|ro": "конденсированной кольцевой системы",
   "fused ring system|tv": "конденсированной кольцевой системой",
+  "fused ring system|vi": "конденсированную кольцевую систему",
+  "fused ring system|pr": "конденсированной кольцевой системе",
   "fused ring system|ro*": "конденсированных кольцевых систем",
   "fused ring system|da*": "конденсированным кольцевым системам",
 
@@ -152,6 +178,8 @@
   "fusion component|*": "компоненты слияния",
   "fusion component|ro*": "компонентов слияния",
 
+  "fusion descriptor": "дескриптор слияния",
+  "fusion descriptor|pr": "дескрипторе слияния",
 
   "fusion name": "название слияния",
   "fusion name|*": "названия слияния",
@@ -174,6 +202,9 @@
   "hydroximic acid": "гидроксимовая кислота",
 
   "icos": "эйкоз",
+
+  "independent bridge": "независимый мост",
+  "independent bridge|ro*": "независимых мостов",
 
   "indicated hydrogen": "указанный водород",
   "indicated hydrogen|ro": "указанного водорода",
@@ -205,6 +236,7 @@
   "nondetachable [prefix]|tv*": "неотделяемыми",
 
   "nonfused bridged ring system": "система мостиковых неконденсированных колец",
+  "nonfused bridged ring system|ro*": "систем мостиковых неконденсированных колец",
 
   "oic acid": "оевая кислота",
   "oic acid|*": "оевые кислоты",
@@ -276,6 +308,7 @@
   "phane": "фан",
   "phane|*": "фаны",
   "phane|ro*": "фанов",
+  "phane|da*": "фанам",
 
   "phane compound": "фан-соединение",
   "phane compound|*": "фан-соединения",
@@ -367,6 +400,7 @@
   "ring assembly|tv": "кольцевыми сборками",
   "ring assembly|*": "кольцевые сборки",
   "ring assembly|ro*": "кольцевых сборок",
+  "ring assembly|da*": "кольцевым сборкам",
   "ring assembly|pr*": "кольцевых сборках",
 
   "ring junction": "место соединения колец",
