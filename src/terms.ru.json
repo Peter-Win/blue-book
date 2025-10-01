@@ -192,6 +192,10 @@
   "fusion nomenclature|tv": "номенклатурой слияния",
   "fusion nomenclature|pr": "номенклатуре слияния",
 
+  "fusion site": "точка слияния",
+  "fusion site|ro": "точки слияния",
+  "fusion site|ro*": "точек слияния",
+
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
 
