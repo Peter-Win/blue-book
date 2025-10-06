@@ -23,7 +23,10 @@ const buildChunk = (chunk, params, ctx) => {
     return content;
   }
   if (type === "formula") {
-    return `<span class="echem-formula">${ChemSys.esc(content)}</span>`
+    let s = content;
+    s = s.replace(/@:n\(.*"(&n)">@;/g, (a) => a.replace("&n", "\\small{&n}"));
+    s = s.replace(/@:iso\(.*@;/g, (s)=>s.replace(`&v`, `\\color{gray}\\textit{&v}`));
+    return `<span class="echem-formula">${ChemSys.esc(s)}</span>`
   }
   if (type === "param") {
     const paramChunks = params[content];

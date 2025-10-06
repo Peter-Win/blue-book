@@ -2,6 +2,14 @@
 // Ошибки:
 // https://iupac.qmul.ac.uk/bibliog/BBerrors.html
 
+// Common macros:
+// @:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+// @:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+// @:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+// @:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+
+
+
 #P-0
 en: Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.
 ru: Номенклатура органической химии. Рекомендации ИЮПАК и предпочтительные названия 2013.

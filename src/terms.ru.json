@@ -39,6 +39,11 @@
   "benzyne|comment": "Речь о веществе https://www.chemspider.com/Chemical-Structure.109690.html - Имеет краткое англ название benzyne, но русскоязычного аналога не найдено",
   "benzyne": "benzyne",
 
+  "bonding number": "число связей",
+  "bonding number|ro": "числа связей",
+  "bonding number|tv": "числом связей",
+  "bonding number|tv*": "числами связей",
+
   "bridged fused ring system": "система мостиковых конденсированных колец",
   "bridged fused ring system|*": "системы мостиковых конденсированных колец",
   "bridged fused ring system|ro*": "систем мостиковых конденсированных колец",
@@ -227,6 +232,9 @@
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
 
+  "locant set": "набор локантов",
+  "locant set|*": "наборы локантов",
+
   "mancude:comment": "МАксимальное количество НеКумулятивных Двойных связей",
   "mancude": "манкуд",
 
@@ -247,6 +255,7 @@
 
   "parent [chain]": "исходная",
   "parent [chain]|ro": "исходной",
+  "parent [chain]|pr": "исходной",
 
   "parent component": "исходный компонент",
   "parent component|ro": "исходного компонента",
@@ -296,6 +305,7 @@
   "parent [structure]|*": "исходные",
   "parent structure": "исходная структура",
   "parent structure|ro": "исходной структуры",
+  "parent structure|da": "исходной структуре",
   "parent structure|tv": "исходной структурой",
   "parent structure|pr": "исходной структуре",
   "parent structure|*": "исходные структура",
@@ -460,17 +470,23 @@
   "substituent group|tv*": "замещающими группами",
   "substituent group|pr*": "замещающих группах",
 
-
   "substituent prefix": "префикс-заместитель",
   "substituent prefix|*": "префиксы-заместители",
   "substituent prefix|ro*": "префиксов-заместителей",
 
+  "substitutive name": "заместительное название",
+  "substitutive name|ro*": "заместительных названий",
+
   "substitutive nomenclature": "заместительная номенклатура",
   "substitutive nomenclature|ro": "заместительной номенклатуры",
+  "substitutive nomenclature|tv": "заместительной номенклатурой",
   "substitutive nomenclature|pr": "заместительной номенклатуре",
 
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",
+
+  "substitution pattern": "шаблон замещения",
+  "substitution pattern|ro*": "шаблонов замещения",
 
   "sulfonamide:comment": "В русскоязычной литературе более известны как сульфаниламиды. Однако с точки зрения систематизации лучше Сульфонамиды",
   "sulfonamide": "сульфонамид",

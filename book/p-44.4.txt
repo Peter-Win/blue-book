@@ -1560,7 +1560,7 @@ ru: 1,13(1),3,6,10(1,4)-пентабензонатридекафан-4-ен-11-�
 @cell .top
 (8)
 
-@cell
+@cell colspan=3
 <$
 @:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
 @:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
@@ -1662,5 +1662,695 @@ en: 1^{1},1^{4}-dihydro-1(2)-quinolina-3,5(1,4),7(1)-tribenzenaheptaphane (PIN) 
 [the locant set ‘11,12’ for the ‘hydro’ prefixes is lower than ‘11,14’] 
 ru: 1^{1},1^{4}-дигидро-1(2)-хинолина-3,5(1,4),7(1)-трибензолагепта&(phane) (PIN) <br>
 [локантный набор «11,12» для префиксов «гидро» ниже, чем «11,14»]
+
+@cell .top
+(3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)P@n(1,90,.6)\@n(2,-30)|`//`\`||/
+$>
+
+en: 1,2-dihydrophosphinine (PIN)
+ru: 1,2-дигидрофосфинин (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)P@n(1,90,.6)\||`/@n(4,-90)`\`||/
+$>
+
+en: 1,4-dihydrophosphinine (PIN) 
+ru: 1,4-дигидрофосфинин (PIN)
+
+@cell
+
+@cell colspan=3
+en: [the locant set ‘1,2’ for the ‘hydro’ prefixes is lower than ‘1,4’]
+ru: [локантный набор «1,2» для префиксов «гидро» меньше, чем «1,4»]
+
+@cell .top
+(4)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)P@n(1,90,.6)\@n(2,-30)|@n(3,30)`/@n(4,90)`\`||/
+$>
+
+en: 1,2,3,4-tetrahydrophosphinine (PIN) 
+ru: 1,2,3,4-тетрагидрофосфинин (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+P@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/@n(4,90)`\@n(5,150)`|//
+$>
+
+en: 2,3,4,5-tetrahydrophosphinine (PIN)
+ru: 2,3,4,5-тетрагидрофосфинин (PIN)
+
+@cell
+
+@cell colspan=3
+en: [the locant set ‘1,2,3,4’ for the ‘hydro’ prefixes is lower than ‘2,3,4,5’]
+ru: [локальный набор «1,2,3,4» для префиксов «гидро» меньше, чем «2,3,4,5»]
+
+@cell .top
+(5)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\@n(2,-30)|||@n(3,30)`/`\\`|//
+$>
+
+en: 2,3-didehydropyridine (PIN)
+ru: 2,3-дидегидропиридин (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)\\@n(2,-30)|@n(3,30)`///@n(4,90)`\`||/
+$>
+
+en: 3,4-didehydropyridine (PIN) 
+ru: 3,4-дидегидропиридин (PIN)
+
+@cell
+
+@cell colspan=3
+en: [the locant set ‘2,3’ for the ‘dehydro’ prefixes is lower than ‘3,4’]
+ru: [локантный набор «2,3» для префиксов «дегидро» меньше, чем «3,4»]
+
+@End
+
+en: Criteria for choosing a preferred IUPAC name based on a senior parent structure as described in  
+P-44 are found in P-45.
+ru: Критерии выбора предпочтительного названия ИЮПАК на основе старшей родительской структуры, описанные в P-44, 
+можно найти в P-45.
+
+#P-44.4.1.11+
+en: The senior ring, ring system, or principal chain that has one or more isotopically modified atoms [criterion 
+(k) in P-44.4.1].
+ru: Старшее кольцо, кольцевая система или главная цепь, которая имеет один или несколько изотопно модифицированных атомов 
+[критерий (k) в P-44.4.1].
+
+en: When there is a choice for the senior parent structure between isotopically modified and isotopically unmodified 
+compounds or between isotopically modified compounds (see Chapter P-8), the senior parent structure is chosen 
+according to the following criteria, applied successively until a decision can be made. In structures and names, nuclide 
+symbols enclosed in parentheses describe isotopic substitution; nuclide symbols enclosed in square brackets describe 
+isotopic labeling (see Chapter P-8). 
+ru: При выборе старшей родительской структуры между изотопически модифицированными и изотопически немодифицированными 
+соединениями или между изотопически модифицированными соединениями (см. главу P-8) старшая родительская структура выбирается 
+в соответствии со следующими критериями, применяемыми последовательно до принятия решения. В структурах и названиях символы 
+нуклидов, заключенные в скобки, описывают изотопное замещение; символы нуклидов, заключенные в квадратные скобки, описывают 
+изотопную маркировку (см. главу P-8).
+
+#P-44.4.1.11.1+
+en: The senior parent structure contains the greater number of isotopically modified atoms or groups. 
+ru: Старшая родительская структура содержит большее число изотопно модифицированных атомов или групп.
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше чем»):
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH2$M(2)H@n(1)
+$>
+
+en: <%p%>pentane (PIN)
+ru: <%p%>пентан (PIN)
+%p: (1-^{2}H_{1})
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH3@n(1)
+$>
+
+en: pentane (PIN)
+ru: пентан (PIN)
+
+@cell colspan=3
+en: [one isotopically modified atom is senior to none]
+ru: [один изотопически модифицированный атом имеет приоритет над ни одним]
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\|`/`\`|/<_(A-120)$M(2)H>_(A-60)$M(2)H
+$>
+
+en: <%d%>cyclohexane (PIN) 
+ru: <%d%>циклогексан (ПИН)
+%d: (1,1-^{2}H_{2})
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$M(14)CH2\|`/`\`|/
+$>
+
+en: <%d%>cyclohexane (PIN) 
+ru: <%d%>циклогексан (PIN)
+%d: (^{14}C_{1})
+
+@cell colspan=3
+en: [two ^{2}H atoms are senior to one ^{14}C] 
+ru: [два атома ^{2}H старше одного ^{14}C]
+
+@End
+
+#P-44.4.1.11.2+
+en: The senior parent structure has the greater number of nuclides of higher atomic number for modified 
+atoms or groups. 
+ru: Старшая &(parent structure) имеет большее количество нуклидов с более высоким атомным номером для модифицированных 
+атомов или групп.
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше чем»):
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_q_q$M(14)CH2_q_q
+$>
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q_q<_(A-60)$M(2)H><_(A-120)H>_q_q
+$>
+
+@cell
+en: <%d%>cyclopentane (PIN) 
+ru: <%d%>циклопентан (PIN)
+%d: (^{14}C_{1})
+
+@cell
+
+@cell
+en: <%d%>cyclopentane (PIN) 
+ru: <%d%>циклопентан (PIN)
+%d: (^{2}H_{1})
+
+@cell colspan=3
+en: [^{14}C is senior to ^{2}H]
+ru: [^{14}C старше чем ^{2}H]
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-[$M(14)C:c]H3; #c@n(1)
+$>
+
+en: <%d%>pentane (PIN)
+ru: <%d%>пентан (PIN)
+%d: [1-^{14}C]
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH2@n(1)[$M(2)H]
+$>
+
+en: <%d%>pentane (PIN)
+ru: <%d%>пентан (PIN)
+%d: [1-^{2}H_{1}]
+
+@cell colspan=3
+en: [^{14}C is senior to ^{2}H] 
+ru: [^{14}C старше чем ^{2}H] 
+
+@End
+
+#P-44.4.1.11.3+
+en: The senior parent structure has the greater number of nuclides of higher mass number for modified atoms 
+or groups. 
+ru: Старшая &(parent structure) имеет большее количество нуклидов с более высоким массовым числом для модифицированных 
+атомов или групп.
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше чем»):
+
+@cell
+<$ |`//`\`||/\\/$M(3)H $>
+
+en: <%d%>benzene (PIN) 
+ru: <%d%>бензол (PIN)
+%d: (^{3}H_{1})
+
+@cell
+**>**
+
+@cell
+<$ |`//`\`||/\\/$M(2)H $>
+
+en: <%d%>benzene (PIN) 
+ru: <%d%>бензол (PIN)
+%d: (^{2}H_{1})
+
+@cell colspan=3
+en: [^{3}H is senior to ^{2}H]
+ru: [^{3}H старше чем ^{2}H]
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-[$M(14)C:c]H3; #c@n(1)
+$>
+
+en: <%d%>pentane (PIN)
+ru: <%d%>пентан (PIN)
+%d: [1-^{14}C]
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-[$M(13)C:c]H3; #c@n(1)
+$>
+
+en: <%d%>pentane (PIN)
+ru: <%d%>пентан (PIN)
+%d: [1-^{13}C]
+
+@cell colspan=3
+en: [^{14}C is senior to ^{13}C]
+ru: [^{14}C старше чем ^{13}C]
+
+@End
+
+#P-44.4.1.11.4+
+en: The senior parent structure has the lowest locant(s) for isotopically modified atoms or groups. 
+ru: Старшая &(parent structure) имеет наименьшее(ие) место(а) для изотопически модифицированных атомов или групп.
+
+@Examples 3
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше чем»):
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH2@n(3)-CH@n(4)[$M(2)H]-CH3@n(5)
+$>
+
+en: <%d%>pentanoic acid (PIN)
+ru: <%d%>пентановая кислота (PIN)
+%d: [4-^{2}H_{1}]
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH2@n(3)-CH2@n(4)-CH2@n(5)[$M(2)H]
+$>
+
+en: <%d%>pentanoic acid (PIN)
+ru: <%d%>пентановая кислота (PIN)
+%d: [5-^{2}H_{1}]
+
+@cell colspan=3
+en: [4-^{2}H is senior to 5-^{2}H] 
+ru: [4-^{2}H старше чем 5-^{2}H]
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N@n(1,-90)\\@n(2,30,.4)/$M(2)H
+$>
+
+en: <%d%>pyridine (PIN)
+ru: <%d%>пиридин (PIN)
+%d: (2-^{2}H)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/N@n(1)\\|@n(3,90,.4)_(A20)$M(2)H
+$>
+
+en: <%d%>pyridine (PIN)
+ru: <%d%>пиридин (PIN)
+%d: (3-^{2}H)
+
+@cell colspan=3
+en: [2-^{2}H is senior to 3-^{2}H] 
+ru: [2-^{2}H старше чем 3-^{2}H]
+
+@End
+
+#P-44.4.1.11.5+
+en: The senior parent structure has the lower locant(s) for nuclides of higher atomic number for modified 
+atoms or groups;
+ru: Старшая &(parent structure) имеет меньший локант(ы) для нуклидов с более высоким атомным номером для модифицированных 
+атомов или групп;
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше чем»):
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH2@n(3)-[$M(13)C:c]H2-CH2@n(5)[$M(2)H]; #c@n(4)
+$>
+
+en: <%d%>pentanoic acid (PIN)
+ru: <%d%>пентановая кислота (PIN)
+%d: [4-^{13}C,5-^{2}H_{1}]
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH2@n(3)-CH@n(4)[$M(2)H]-[$M(13)C:c]H3; #c@n(5)
+$>
+
+en: <%d%>pentanoic acid (PIN)
+ru: <%d%>пентановая кислота (PIN)
+%d: [5-^{13}C,4-^{2}H_{1}]
+
+@cell colspan=3
+en: [4-^{13}C is senior to 5-^{13}C ]
+ru: [4-^{13}C старше чем 5-^{13}C ]
+
+@End
+
+#P-44.4.1.11.6+
+en: The senior parent structure has the lowest locant(s) for nuclides of higher mass number for modified 
+atoms or groups.
+ru: Старшая &(parent structure) имеет наименьший(ие) локант(ы) для нуклидов с более высоким массовым числом для 
+модифицированных атомов или групп.
+
+@Examples 3
+en: Example (the symbol > means ‘is senior to’): 
+ru: Пример (символ > означает «старше чем»):
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOCH2@n(1)-CH2@n(2)-[$M(14)C:a]H2-[$M(13)C:b]H3; #a@n(3); #b@n(4)
+$>
+
+en: <%d%>butan-1-ol (PIN)
+ru: <%d%>бутан-1-ол (PIN)
+%d: [4-^{13}C,3-^{14}C]
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOCH2@n(1)-CH2@n(2)-[$M(13)C:a]H2-[$M(14)C:b]H3; #a@n(3); #b@n(4)
+$>
+
+en: <%d%>butan-1-ol (PIN)
+ru: <%d%>бутан-1-ол (PIN)
+%d: [3-^{13}C,4-^{14}C]
+
+@cell colspan=3
+en: [3-^{14}C is senior to 4-^{14}C] 
+ru: [3-^{14}C старше чем 4-^{14}C] 
+
+@End
+
+#P-44.4.1.12+
+en: The senior ring, ring system, or principal chain has one or more stereogenic centers [criterion (l) in P-44.4.1]. 
+ru: Старшее кольцо, кольцевая система или главная цепь имеют один или несколько стереогенных центров [критерий (l) в P-44.4.1].
+
+#P-44.4.1.12.1+
+en: ‘_cis/trans_’ Isomerism, the ‘_E/Z_’ convention
+ru: «_ цис/транс_» Изомерия, соглашение «_E/Z_»
+
+en: When there is a choice between parent structures that differ only by ‘_Z_’ and ‘_E_’ configurations, the senior parent 
+structure contains the greater number of double bonds with ‘_Z_’ configuration; when a further choice is required, the 
+senior parent structure has the lowest locant set for the double bond(s) with the ‘_Z_’ configuration. For the meaning of 
+‘_Z_’ and ‘_E_’ see Chapter P-9. 
+ru: При наличии выбора между &(parent structure|tv*), различающимися только конфигурациями «_Z_» и «_E_», 
+старшая &(parent structure) содержит большее количество двойных связей с конфигурацией «_Z_»; при необходимости дальнейшего 
+выбора старшая &(parent structure) имеет наименьший набор локантов для двойной связи (связей) с конфигурацией «_Z_». 
+Значение «_Z_» и «_E_» см. в главе P-9.
+
+@Examples 4
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше чем»):
+
+@cell .top
+(1)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.8)<_(a&a,L&L,N0)"&v">@;
+=@n(2,-60)@iso(Z)_p8_p8_p8_p8_p8_p8_p8@n(1,-120)
+$>
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-120,L:.8)<_(a&a,L&L,N0)"&v">@;
+$L(1.2)`\`/`\_p4\@n(1,-100,.5)//m@iso(E)@n(2)\_p4
+$>
+
+@cell
+
+@cell
+en: (_Z_)-cyclooctene (PIN)  <br>
+_cis_-cyclooctene
+ru: (_Z_)-циклооктен (PIN) <br>
+_цис_-циклооктен
+
+@cell
+
+@cell
+en: (_E_)-cyclooctene (PIN)  <br>
+_trans_-cyclooctene
+ru: (_E_)-циклооктен (PIN) <br>
+_транс_-циклооктен
+
+@cell
+
+@cell colspan=3
+en: [‘_Z_’ is senior to ‘_E_’]
+ru: [«_Z_» старше чем «_E_»]
+
+@cell .top
+(2)
+
+@cell
+<$
+$slope(60)H3C\C<`/H>==C</COOH>\CH3
+$>
+
+en: (2_Z_)-2-methylbut-2-enoic acid (PIN)
+ru: (2_Z_)-2-метилбут-2-ен&(oic acid) (PIN)
+
+@cell
+**>**
+
+@cell
+<$ $slope(60)H\C<`/H3C>==C</COOH>\CH3 $>
+
+en: (2_E_)-2-methylbut-2-enoic acid (PIN)
+ru: (2_E_)-2-метилбут-2-ен&(oic acid) (PIN)
+
+@cell
+
+@cell colspan=3
+en: [‘_Z_’ is senior to ‘_E_’]
+ru: [«_Z_» старше чем «_E_»]
+
+@cell .top
+(3)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-125,L:.85)<_(a&a,L&L,N0)"&v">@;
+$slope(60)H3C@n(6)\C@n(5,80)<`/H>==C@n(4,100)@iso(Z)<\H>/CH2@n(3)-CH2@n(2)-CN@n(1)
+$>
+
+en: (4_Z_)-hex-4-enenitrile (PIN)
+ru: (4_Z_)-гекс-4-еннитрил (PIN)
+
+@cell
+**>**
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-125,L:.85)<_(a&a,L&L,N0)"&v">@;
+$slope(60)H3C@n(6,90)/C@n(5,80)<`\H>==C@n(4,100)@iso(E)<\H>/CH2@n(3)-CH2@n(2)-CN@n(1)
+$>
+
+en: (4_E_)-hex-4-enenitrile (PIN)
+ru: (4_E_)-гекс-4-еннитрил (PIN)
+
+@cell
+
+@cell colspan=3
+en: [‘_Z_’ is senior to ‘_E_’]
+ru: [«_Z_» старше чем «_E_»]
+
+@cell .top
+(4)
+
+@cell colspan=3
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-125,L:.85)<_(a&a,L&L,N0)"&v">@;
+$slope(60)H3C@n(8)\C@n(7,80)<`/H>==C@iso(E)</H>@n(6,100)\C<`/H>@n(5,80)==C@n(4,100)@iso(Z)<\H>/CH2@n(3)-CH2@n(2)-CN@n(1)
+$>
+
+en: (4_Z_,6_E_)-octa-4,6-dienoic acid (PIN) 
+is senior to 
+ru: (4_Z_,6_E_)-окта-4,6-диен&(oic acid) (PIN)
+старше чем
+
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-125,L:.85)<_(a&a,L&L,N0)"&v">@;
+$slope(60)H3C@n(8)\C@n(7,80)<`/H>==C@iso(E)</H>@n(6,100)\C<`/H>@n(5,80)==C@n(4,100)@iso(Z)</H>\CH2@n(3,90)-CH2@n(2)-CN@n(1)
+$>
+
+en: (4_E_,6_E_)-octa-4,6-dienoic acid (PIN) <br>
+[‘_Z_,_E_’ is senior to ‘_E_,_E_’] 
+ru: (4_E_,6_E_)-окта-4,6-диен&(oic acid) (PIN) <br>
+[‘_Z_,_E_’ старше чем ‘_E_,_E_’]
+
+@cell .top
+(5)
+
+@cell colspan=3
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-125,L:.6)<_(a&a,L&L,N0)"&v">@;
+$slope(60)H3C@n(9)-C<\H>@n(8,100)//C@iso(E)<`\H>@n(7,-80)-CH2@n(6,-100)\C<`/H>@n(5,80)==C@n(4,100)<\H>@iso(Z)/CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (4_Z_,7_E_)-nona-4,7-dienoic acid (PIN) <br>
+is senior to
+ru: (4_Z_,7_E_)-нона-4,7-диен&(oic acid) (PIN) <br>
+старше чем
+
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+H\C@n(8,150,.5)<|CH3@n(9,90)>//C@iso(Z)<`|H>@n(7,-30,.5)\CH2@n(6,90)/C@n(5,-150,.5)<`|H>\\C@iso(E)<|H>@n(4,30,.5)_q6CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (4_E_,7_Z_)-nona-4,7-dienoic acid (PIN) <br>
+[‘4_Z_,7_E_’ is senior to ‘4_E_,7_Z_’] 
+ru: (4_E_,7_Z_)-нона-4,7-диен&(oic acid) (PIN) <br>
+[’4_Z_,7_E_’ старше ‘4_E_,7_Z_’]
+
+@End
+
+#P-44.4.1.12.2+
+en: Enantiomerism, the ‘_R_’ and ‘_S_’ stereodescriptors 
+ru: Энантиомерия, стереодескрипторы «_R_» и «_S_»
+
+en: When there is a choice between parent structures differing only by the configurations of the chirality centers, the 
+principal chain or the senior ring system is chosen by applying the CIP sequence rules 4 and 5, in the order: _like_ 
+stereodescriptors such as ‘_RR_’, ‘_SS_’ have priority over _unlike_ ‘_RS_’ and ‘_SR_’ (‘_l_’ has priority over ‘_u_’), the ‘_r_’ over ‘_s_’, 
+then ‘_R_’ over ‘_S_’. The CIP Sequence Rules are described in Chapter P-9.
+ru: При выборе между &(parent structure|tv*), различающимися только конфигурациями центров хиральности, главная цепь или 
+старшая кольцевая система выбираются с применением правил последовательности CIP 4 и 5 в следующем порядке: 
+_подобные_ стереодескрипторы, такие как «_RR_», «_SS_», имеют приоритет над _непохожими_ «_RS_» и «_SR_», затем «_R_» над «_S_». 
+Правила последовательности CIP описаны в главе P-9.
+// в русском варианте нет смысла ориентироваться на мнемонические подсказки типа ‘_l_’ has priority over ‘_u_’
+
+@Examples 2
+en: Examples (the symbol > means ‘is senior to’): 
+ru: Примеры (символ > означает «старше чем»):
+
+@cell .top
+(1)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq_q<_q>@n(1,100)_(a0,w+)N@n(3',180,.56)_pp@n(4',-110)_p@n(5',-20)_pO@n(1',20,.5)_pdd@n(2',-70,.55)
+$>
+
+en: (1_R_)-5′_H_-spiro[indene-1,2′-[1,3]oxazole] (PIN) <br>
+is senior to
+ru: (1_R_)-5′_H_-спиро[инден-1,2′-[1,3]оксазол] (PIN) <br>
+старше чем
+
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq_q<_q>@n(1,100)_(a0,d+)N@n(3',180,.56)_pp@n(4',-110)_p@n(5',-20)_pO@n(1',20,.5)_pww@n(2',-70,.55)
+$>
+
+en: (1_S_)-5′_H_-spiro[indene-1,2′-[1,3]oxazole] (PIN) <br>
+[‘_R_’ is senior to ‘_S_’] 
+ru: (1_S_)-5′_H_-спиро[инден-1,2′-[1,3]оксазол] (PIN) <br>
+[‘_R_’ старше чем ‘_S_’] 
+
+@cell .top
+(2)
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_p_pO@n(8,-90)_pdd<_pw>_(a0)_q<_q@n(13,-80,.4)_q_q@n(7,70,.6)>_(a0,w+)O@n(1,-90)_p@n(2,-30,.3)_p_p_pdd@n(5,110,.6)
+$>
+
+en: (5_R_,7_R_)-1,8-dioxadispiro[4.1.4^{7}.2^{5}]tridecane (PIN) <br>
+is senior to
+ru: (5_R_,7_R_)-1,8-диоксадиспиро[4.1.4^{7}.2^{5}]тридекан (PIN) <br>
+старше чем
+
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_p_pO@n(8,-90)_pww<_pd>_(a0)_q<_q@n(13,-80,.4)_q_q@n(7,70,.6)>_(a0,w+)O@n(1,-90)_p@n(2,-30,.3)_p_p_pdd@n(5,110,.6)
+$>
+
+en: (5_R_,7_S_)-1,8-dioxadispiro[4.1.4^{7}.2^{5}]tridecane (PIN) <br>
+[‘_RR_’ is senior to ‘_RS_’]
+ru: (5_R_,7_S_)-1,8-диоксадиспиро[4.1.4^{7}.2^{5}]тридекан (PIN) <br>
+[‘_RR_’ старше ‘_RS_’]
 
 @End
