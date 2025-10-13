@@ -1,0 +1,602 @@
+#P-5
+en: Selecting preferred IUPAC names and constructing names of organic compounds
+ru: Выбор предпочтительных названий по ИЮПАК и построение названий органических соединений
+
+@Content
+
+#P-50
+en: Introduction 
+ru: Введение
+
+en: Many compounds can have two or more names in accordance with several methods recommended by IUPAC for their 
+formation, one of which is recommended herein as the preferred IUPAC name (PIN). This Chapter summarizes the 
+selection rules that are recommended in Chapters P-1 through P-4 for generation of preferred IUPAC names for 
+compounds described in these Chapters and also in Chapters P-6 to P-10 where applicable. Substitutive nomenclature is 
+the principal type of nomenclature for organic compounds; however, other types are recommended because substitutive 
+nomenclature was never recommended for naming certain classes of compounds or because they represent a 
+simplification when the substitutive names become long and cumbersome. 
+ru: Многие соединения могут иметь два или более названий в соответствии с несколькими методами, рекомендованными ИЮПАК 
+для их образования, одно из которых рекомендуется в настоящем документе в качестве предпочтительного названия ИЮПАК (PIN). 
+В данной главе обобщены правила выбора, рекомендованные в главах P-1 – P-4 для получения предпочтительных названий ИЮПАК 
+для соединений, описанных в этих главах, а также в главах P-6 – P-10, где это применимо. &(Substitutive nomenclature) 
+является основным типом номенклатуры для органических соединений; однако рекомендуются и другие типы, поскольку 
+&(substitutive nomenclature) никогда не рекомендовалась для наименования определенных классов соединений или поскольку 
+они представляют собой упрощение, когда &(substitutive name|*) становятся длинными и громоздкими.
+
+en: In Chapter P-1, several types of nomenclature are discussed. All of them are used to generate preferred IUPAC names 
+and names for general nomenclature. Functional class nomenclature (see P-51.2) is used to generate names of well 
+defined classes, such as acid halides and esters. Multiplicative nomenclature (see P-51.3) is used to enable several 
+occurrences of the same parent structure in a single molecule all to be expressed as parent structures, although this is 
+permitted only under certain restrictive conditions. When these conditions are not fulfilled, substitutive nomenclature is 
+recommended. Skeletal replacement (‘a’) nomenclature (see P-51.4) is used to simplify substitutive names of acyclic 
+compounds containing heteroatoms (usually by eliminating many nesting operations); it is mandatory for naming 
+saturated heterocyclic compounds having more than ten members and in heteropolyalicyclic nonfused bridged and spiro 
+ring systems. 
+ru: В главе P-1 рассматриваются несколько типов номенклатуры. Все они используются для создания предпочтительных названий 
+ИЮПАК и названий для общей номенклатуры. Номенклатура функциональных классов (см. P-51.2) используется для создания названий 
+четко определенных классов, таких как галогенангидриды и сложные эфиры. Мультипликативная номенклатура (см. P-51.3) 
+используется для того, чтобы несколько случаев одной и той же исходной структуры в одной молекуле могли быть выражены 
+как &(parent structure|*), хотя это разрешено только при определенных ограничительных условиях. Если эти условия 
+не выполняются, рекомендуется &(substitutive nomenclature). Номенклатура &(skeletal replacement a|ro) (см. P-51.4) 
+используется для упрощения замещающих названий ациклических соединений, содержащих гетероатомы (обычно путем устранения 
+многих операций вложенности); она обязательна для наименования насыщенных гетероциклических соединений, содержащих более 
+десяти членов, а также в гетерополиалициклических неконденсированных мостиковых и спироциклических системах.
+
+en: In Chapter P-2, most of the rules are unequivocal because they generate preferred IUPAC names of cyclic and acyclic 
+compounds in themselves. When rings, ring systems, and chains are composed of entities that are themselves rings or 
+ring systems, interconnected or not by chains, phane nomenclature is recommended to generate preferred IUPAC 
+names; the selection of these names is discussed in P-52.2.5. The selection of preferred IUPAC names for ring 
+assemblies is treated in P-52.2.7. The selection of preferred IUPAC names is also necessary for substituent groups 
+derived from the parent hydrides described in Chapter P-2. 
+ru: В главе P-2 большинство правил однозначны, поскольку они сами по себе генерируют предпочтительные названия ИЮПАК 
+для циклических и ациклических соединений. Если кольца, кольцевые системы и цепи состоят из фрагментов, которые сами 
+являются кольцами или кольцевыми системами, соединенными или не соединенными цепями, для генерации предпочтительных 
+названий ИЮПАК рекомендуется использовать &(phane nomenclature|vi); выбор этих названий обсуждается в главе P-52.2.5. 
+Выбор предпочтительных названий ИЮПАК для &(ring assembly|ro*) рассматривается в главе P-52.2.7. Выбор предпочтительных 
+названий ИЮПАК также необходим для &(substituent group|ro*), полученных из &(parent hydride|ro*), описанных в главе P-2.
+
+en: In Chapter P-3, the level of saturation expressed by the prefixes ‘hydro/dehydro’ or ‘ene/yne’ endings is considered. In 
+the cases of characteristic groups cited as prefixes and functional parent compounds, the selection is between retained 
+names and systematic names as components of preferred IUPAC names. 
+ru: В главе P-3 рассматривается уровень насыщенности, выраженный окончаниями «гидро/дегидро» или «ен/ин». 
+В случае &(characteristic group|ro*), указанных в качестве префиксов, и функциональных &(parent compound|ro*) выбор делается 
+между &(retained name|tv*) и систематическими названиями как компонентами предпочтительных названий ИЮПАК.
+
+en: In Chapter P-4, the various seniority orders described are unequivocal, with the exception of substituted parent 
+structures that must be analyzed as preferred IUPAC names. In P-44, comprehensive rules for the selection of a 
+preferred parent structure are presented. A new concept for IUPAC nomenclature is described in Section P-45 called 
+‘Selection of preferred IUPAC names’. The selection of a preferred IUPAC name is based on hierarchical rules based 
+on seniority orders for determining the one and only preferred parent name based on the senior parent structure 
+described in P-44. This issue is discussed in P-58.
+ru: В главе P-4 описаны различные порядки старшинства, за исключением замещенных &(parent structure|ro*), которые 
+должны анализироваться как предпочтительные названия ИЮПАК. В главе P-44 представлены комплексные правила выбора 
+предпочтительной &(parent structure|ro). Новая концепция номенклатуры ИЮПАК описана в разделе P-45 «Выбор предпочтительных 
+названий ИЮПАК». Выбор предпочтительного названия ИЮПАК основан на иерархических правилах, основанных на порядке 
+старшинства для определения единственного предпочтительного &(parent name|ro) на основе старшей &(parent structure|ro), 
+описанной в главе P-44. Этот вопрос обсуждается в главе P-58.
+
+
+#P-51
+en: Selecting the preferred type of IUPAC nomenclature  
+ru: Выбор предпочтительного типа номенклатуры ИЮПАК
+
+@Content
+
+#P-51.0
+en: Introduction 
+ru: Введение
+
+en: When a choice is needed between the several types of IUPAC nomenclature, the following selection rules must be 
+applied. Sections P-51.1 through P-51.4 give specific rules for each type of nomenclature and examples. 
+ru: При необходимости выбора между несколькими типами номенклатуры ИЮПАК необходимо применять следующие правила отбора. 
+В разделах P-51.1 – P-51.4 приведены конкретные правила для каждого типа номенклатуры и примеры.
+
+#P-51.1
+en: Selecting the preferred type of nomenclature 
+ru: Выбор предпочтительного типа номенклатуры
+
+en: When there is a choice between two types of nomenclature, the preferred type of nomenclature is selected in accordance 
+with the following rules. 
+ru: При наличии выбора между двумя типами номенклатуры предпочтительный тип номенклатуры выбирается в соответствии 
+со следующими правилами.
+
+#P-51.1.1+
+en: Substitutive nomenclature is preferred to functional class nomenclature, except for the classes described in  
+P-51.2 for which no substitutive names are prescribed. 
+ru: &(Substitutive nomenclature) предпочтительнее &(functional class nomenclature|ro), за исключением классов, 
+описанных в P-51.2, для которых не предписаны &(substitutive name|*).
+
+@Examples
+
+@cell
+<$ (CH3)2C=N-N=C(CH3)2 $>
+
+en: acetone azine (see P-68.3.1.2.3)  <br>
+di(propan-2-ylidene)hydrazine (PIN)
+ru: ацетон азин (см. P-68.3.1.2.3) <br>
+ди(пропан-2-илиден)гидразин (PIN)
+
+@End
+
+#P-51.1.2+
+en: Substitutive nomenclature is preferred to conjunctive nomenclature.
+ru: &(Substitutive nomenclature) предпочтительнее &(conjunctive nomenclature|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2@n([alpha]^1,-70,.6)_(A150)|<_(A30)CH2@n([alpha]^2,80,.8)-COOH>@n(3,90)`//`\`||</@n(1,-90)\\@n(2,-90)>`\`//|\\/
+$>
+
+en: 2,3-naphthalenediacetic acid (a conjunctive name)  <br>
+2,2′-(naphthalene-2,3-diyl)diacetic acid (PIN;  <br>
+a substitutive name; see P-15.6.1.4) 
+ru: 2,3-нафталиндиуксусная кислота (&(conjunctive name)) <br>
+2,2′-(нафталин-2,3-диил)диуксусная кислота (PIN; <br>
+&(substitutive name); см. P-15.6.1.4)
+
+@End
+
+#P-51.1.3+
+en: Skeletal replacement (‘a’) nomenclature is preferred to substitutive nomenclature when heteroatoms are 
+present in chains (see P-51.4.1) and the criteria for the use of skeletal nomenclature are met. 
+ru: Номенклатура &(Skeletal replacement a|ro) предпочтительнее &(substitutive nomenclature|ro), когда в цепях присутствуют 
+гетероатомы (см. P-51.4.1) и выполняются критерии использования &(skeletal nomenclature|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(8)-SiH2@n(7)-CH2@n(6)-SiH2@n(5)-CH2@n(4)-PH@n(3)-SiH2@n(2)-CH3@n(1)
+$>
+
+en: 3-phospha-2,5,7-trisilaoctane (PIN, a skeletal replacement (‘a’) name)  <br>
+(methylsilyl)({[(methylsilyl)methyl]silyl}methyl)phosphane (a substitutive name)
+ru: 3-фосфа-2,5,7-трисилаоктан (PIN, название &(skeletal replacement a|ro)) <br>
+(метилсилил)({[(метилсилил)метил]силил}метил)фосфан (&(substitutive name))
+
+@End
+
+#P-51.1.4+
+en: Skeletal replacement (‘a’) nomenclature is preferred to multiplicative nomenclature (see P-51.4.1) when the 
+criteria for use of skeletal nomenclature are met. 
+ru: Номенклатура &(skeletal replacement a|ro) предпочтительнее &(multiplicative nomenclature|ro) (см. P-51.4.1), 
+когда выполняются критерии использования &(skeletal nomenclature|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH3@n(10)
+$>
+
+en: 8-thia-2,4,6-trisiladecane (PIN, skeletal replacement (‘a’) name)  <br>
+1-[(ethylsulfanyl)methyl]-1′-methyl-1,1′-[silanediylbis(methylene)]bis(silane); <br>
+(a multiplicative name)
+ru: 8-тиа-2,4,6-трисиладекан (PIN, название &(skeletal replacement a|ro)) <br>
+1-[(этилсульфанил)метил]-1′-метил-1,1′-[силандиилбис(метилен)]бис(силан); <br>
+(мультипликативное название)
+
+@End
+
+#P-51.1.5+
+en: Multiplicative nomenclature (P-15.3, P-51.3), as a subset of substitutive nomenclature, is preferred to simple 
+substitutive nomenclature when the criteria for its use are met; it allows multiple occurrences of the principal 
+characteristic group or compound class to be treated together. 
+ru: &(Multiplicative nomenclature) (P-15.3, P-51.3), как подмножество &(substitutive nomenclature|ro), предпочтительнее 
+простой &(substitutive nomenclature|ro), когда выполняются критерии ее использования; она позволяет рассматривать несколько 
+случаев возникновения основной &(characteristic group|ro) или &(compound class|ro) вместе.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-O-CH2-CH2-O-CH2@n(2',-80)-COOH
+$>
+
+en: 2,2′-[ethane-1,2-diylbis(oxy)]diacetic acid (PIN, multiplicative name)  <br>
+[2-(carboxymethoxy)ethoxy]acetic acid (substitutive name)  
+ru: 2,2′-[этан-1,2-диилбис(окси)]диуксусная кислота (PIN, &(multiplicative name)) <br>
+[2-(карбоксиметокси)этокси]уксусная кислота (&(substitutive name))
+
+@End
+
+
+#P-51.2
+en: Functional class nomenclature (see P-15.2) 
+ru: &(Functional class nomenclature) (см. P-15.2)
+
+en: In many cases, functional class nomenclature and substitutive nomenclature can be used to give two names to one 
+compound, for example methyl bromide, a functional class name, and bromomethane, a substitutive name, for <%f1%>. 
+Substitutive names have now replaced many functional class names, but not all. In the context of preferred IUPAC 
+names, it is essential to correctly use the two types of nomenclature. In P-51.2.1, the functional class names that are 
+preferred IUPAC names are given. In P-51.2.2 the functional class names that may be used in general nomenclature are 
+discussed and exemplified; for the substitutive names that are the preferred IUPAC names corresponding to these 
+functional class names, see P-15.2. 
+ru: Во многих случаях можно использовать &(functional class nomenclature|vi) и &(substitutive nomenclature|vi) для 
+двух названий одного соединения, например, метилбромид (&(functional class name)) и бромметан (&(substitutive name)) для 
+<%f1%>. &(Substitutive name|*) в настоящее время заменили многие &(functional class name|*), но не все. В контексте 
+предпочтительных названий ИЮПАК важно правильно использовать оба типа номенклатуры. В P-51.2.1 приведены 
+&(functional class name|*), являющиеся предпочтительными названиями ИЮПАК. В P-51.2.2 обсуждаются и приводятся примеры 
+&(functional class name|*), которые могут использоваться в общей номенклатуре; &(substitutive name|*), являющиеся 
+предпочтительными названиями ИЮПАК, соответствующие этим &(functional class name|da*), см. в P-15.2.
+%f1: <$CH3-Br$>
+
+#P-51.2.1+
+en: Functional class nomenclature is used to generate preferred IUPAC names for the following characteristic groups. 
+ru: &(Functional class nomenclature) используется для создания предпочтительных названий ИЮПАК для следующих 
+&(characteristic group|ro*).
+
+@Table .cells-align-top
+
+@td
+en: Amine oxides
+ru: Оксиды аминов
+
+@td;
+<$ (CH3)3NO $>
+
+en: _N_,_N_-dimethylmethanamine _N_-oxide (PIN; P-62.5)  <br>
+(trimethylazaniumyl)oxidanide  <br>
+(_N_,_N_-dimethylmethanaminiumyl)oxidanide
+ru: _N_,_N_-диметилметанамин _N_-оксид (PIN; P-62.5) <br>
+(триметилазаниемиил)оксиданид <br>
+(_N_,_N_-диметилметанаминийил)оксиданид
+
+@td
+en: Imine oxides
+ru: Оксиды иминов
+
+@td
+<$ CH2=N(O)Cl $>
+
+en: _N_-chloromethanimine _N_-oxide (PIN; P-62.5)  <br>
+[chloro(methylidene)azaniumyl]oxidanide  <br>
+(_N_-chloromethaniminiumyl)oxidanide
+ru: _N_-хлорметанимин _N_-оксид (PIN; P-62.5) <br>
+[хлор(метилиден)азаниемиил]оксиданид <br>
+(_N_-хлорметаниминиймиил)оксиданид
+
+@td
+en: Acyl halides
+ru: Ацилгалогениды
+
+@td
+<$ CH3-CO-Cl $>
+
+en: acetyl chloride (PIN; P-65.5.1.1) 
+ru: ацетилхлорид (PIN; P-65.5.1.1)
+
+@td
+en: Acyl azides
+ru: Ацилазиды
+
+@td
+<$ CH3-CH2-CH2-CO-N3 $>
+  
+en: butanoyl azide (PIN; P-65.5.2.1)
+ru: бутаноилазид (PIN; P-65.5.2.1)
+
+@td
+en: Acyl cyanides
+ru: Ацилцианиды
+
+@td
+<$ CH3-CH2-CO-CN $>
+
+en: propanoyl cyanide (PIN; P-65.5.2.1)
+ru: пропаноилцианид (PIN; P-65.5.2.1)
+
+@td
+en: Acyl isocyanides
+ru: Ацилизоцианиды
+
+@td
+<$ C6H5-CO-NC $>
+
+en: benzoyl isocyanide (PIN; P-65.5.2.1) 
+ru: бензоилизоцианид (PIN; P-65.5.2.1)
+
+@td
+en: Acyl isocyanates <br> 
+(same for S, Se, Te)
+ru: Ацилизоцианаты <br>
+(то же самое для S, Se, Te)
+
+@td
+<$ CH3-CO-NCO $>
+
+en: acetyl isocyanate (PIN; P-65.5.2.1)
+ru: ацетилизоцианат (PIN; P-65.5.2.1)
+
+@td
+en: Esters
+ru: Сложные эфиры
+
+@td
+<$ CH3-CO-O-CH3 $>
+  
+en: methyl acetate (PIN; P-65.6.3.2.1)
+ru: метилацетат (PIN; P-65.6.3.2.1)
+
+@td
+en: Anhydrides
+ru: Ангидриды
+
+@td
+<$ CH3-CO-O-CO-CH2-CH3 $>
+
+en: acetic propanoic anhydride (PIN; P-65.7.2) 
+ru: уксусно-пропановый ангидрид (PIN; P-65.7.2)
+
+@td
+en: Acid halides, pseudohalides  <br>
+[derived from class 7(c) acids P-42.3] 
+ru: Галогенангидриды, псевдогалогениды <br>
+[получены из кислот класса 7(c) P-42.3]
+
+@td
+<$ CH3-N(O)Cl2 $>
+  
+en: methylazonic dichloride (PIN; P-67.1.2.5)
+ru: метилазоновый дихлорид (PIN; P-67.1.2.5)
+
+@td
+en: Acid amides  <br>
+[derived from class 7(d) acids P-42.4]
+ru: Амиды кислот <br>
+[получены из кислот класса 7(d) P-42.4]
+
+@td
+<$ CH3-NH-SO-NH2 $>
+  
+en: _N_-methylsulfurous diamide (PIN; P-67.1.2.6)
+ru: _N_-метилсульфуристый диамид (PIN; P-67.1.2.6)
+
+@td
+en: Acid hydrazides  <br>
+[derived from class 7(c) acids P-42.3]
+ru: Гидразиды кислот <br>
+[получены из кислот класса 7(c) P-42.3]
+
+@td
+<$ (CH3)2P-NH-NH2 $>
+  
+en: dimethylphosphinous hydrazide (PIN; P-67.1.2.6) 
+ru: диметилфосфиновый гидразид (PIN; P-67.1.2.6)
+
+@td
+en: Glycosides
+ru: Гликозиды
+
+@td
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H|@n(1,0)_(A%a:120,L%d:1.4,W+)<`|H><|OH>@n(2,120)_(x-1.2)<`|H><|OH>@n(3,60)_(A-%a,L%d,W-)<_(x#-1;2,y-.6)O_#2|O-CH3>#
+@n(4,180)<`|H>_(y3)C@n(5,-120,.55)<`-H><-OH>|CH2@n(6,90,.6)-OH
+$>
+
+en: methyl α-D-gulofuranoside (P-102.5.6.2.2)
+ru: метил α-D-гулофуранозид (P-102.5.6.2.2)
+
+@EndTable
+
+#P-51.2.2+
+en: Functional class nomenclature for general nomenclature 
+ru: &(Functional class nomenclature) для общей номенклатуры
+
+en: A certain number of classes can still be named for general nomenclature by applying functional class nomenclature. 
+They are described in P-15.2. For these classes, preferred IUPAC names are substitutive names.
+ru: Определенное количество классов по-прежнему можно назвать по общей номенклатуре, применяя &(functional class nomenclature|vi).
+Они описаны в P-15.2. Для этих классов предпочтительными названиями ИЮПАК являются &(substitutive name|*).
+
+@Examples 2
+
+@cell
+<$ CH3-CH2-CN $>
+
+@cell
+en: ethyl cyanide  <br>
+propanenitrile (PIN)
+ru: этилцианид <br>
+пропаннитрил (PIN)
+
+@cell
+<$ C6H5-NC $>
+
+@cell
+en: phenyl isocyanide <br>  
+isocyanobenzene (PIN)
+ru: фенилизоцианид <br>
+изоцианобензол (PIN)
+
+@cell
+<$ (CH3)2C=N-N=C(CH3)2 $>
+
+@cell
+en: acetone azine (see P-68.3.1.2.3)  <br>
+di(propan-2-ylidene)hydrazine (PIN)
+ru: Азин ацетона (см. P-68.3.1.2.3) <br>
+ди(пропан-2-илиден)гидразин (PIN)
+
+@cell
+<$ CH3-CH2-CH=N-OH $>
+
+@cell
+en: propanal oxime  <br>
+_N_-propylidenehydroxylamine  <br>
+_N_-hydroxypropan-1-imine (PIN)
+ru: пропанальоксим <br>
+_N_-пропилиденгидроксиламин <br>
+_N_-гидроксипропан-1-имин (PIN)
+
+@cell
+<$ (CH3)2C=N-NH-CO-NH2 $>
+
+@cell
+en: acetone semicarbazone  <br>
+2-(propan-2-ylidene)hydrazinecarboxamide (PIN)
+ru: ацетон семикарбазон <br>
+2-(пропан-2-илиден)гидразинкарбоксамид (PIN)
+
+@End
+
+
+#P-51.3
+en: Multiplicative nomenclature (see P-15.3) 
+ru: &(Multiplicative nomenclature) (см. P-15.3) 
+
+en: Multiplicative nomenclature is used to name assemblies of identical units linked by di- or polyvalent groups formed 
+according to P-15.3.2. This subsection describes the formation of preferred IUPAC multiplicative names according to 
+the principles and rules discussed in P-15.3. Substitutive nomenclature is used when the conditions for constructing 
+multiplicative names are not met. Further, skeletal replacement (‘a’) nomenclature (see P-15.4) and phane nomenclature 
+(see P-26) are used rather than multiplicative nomenclature when the conditions for their use are met in order to 
+simplify name construction when multiplicative names become complex and cumbersome. 
+ru: &(Multiplicative nomenclature) используется для наименования совокупностей идентичных единиц, связанных ди- или 
+поливалентными группами, образованными в соответствии с P-15.3.2. В этом подразделе описывается образование предпочтительных 
+&(multiplicative name|ro*) ИЮПАК в соответствии с принципами и правилами, обсуждаемыми в P-15.3. &(Substitutive nomenclature) 
+используется, когда условия построения &(multiplicative name|ro*) не выполняются. Кроме того, номенклатура 
+&(skeletal replacement a|ro) (см. P-15.4) и &(phane nomenclature) (см. P-26) используются вместо &(multiplicative nomenclature|ro), 
+когда условия для их использования выполняются, чтобы упростить построение названий, когда &(multiplicative name|*) 
+становятся сложными и громоздкими.
+
+@p .framed
+en: In these recommendations, identical parent structures do not have to have a principal characteristic group in order to 
+construct a multiplicative name, which was necessary in earlier recommendations. 
+ru: В данных рекомендациях идентичные &(parent structure|*) не обязательно должны иметь главную &(characteristic group|vi) 
+для построения &(multiplicative name|ro), что было необходимо в более ранних рекомендациях.
+
+#P-51.3.1
+en: Preferred IUPAC multiplicative names
+ru: Предпочтительные &(multiplicative name|*) ИЮПАК
+
+en: For a multiplicative name to be categorized as an IUPAC preferred name, certain restrictive conditions must be met. 
+Multiplicative nomenclature is preferred to substitutive nomenclature for generating preferred IUPAC names to express 
+multiple occurrences of identical parent structures, other than alkanes when
+ru: Для того чтобы &(multiplicative name) было отнесено к категории предпочтительных названий ИЮПАК, должны быть соблюдены 
+определённые ограничительные условия. &(Multiplicative nomenclature) предпочтительнее &(substitutive nomenclature|ro) 
+для создания предпочтительных названий ИЮПАК, выражающих множественные случаи идентичных исходных структур, 
+за исключением алканов, когда
+
+@List 1
+
+@item
+en: the linking bonds (single or multiple) between the central substituent group of the multiplicative group and all 
+subsequent structural units are identical and 
+ru: соединяющие связи (одинарные или кратные) между центральной &(substituent group|tv) &(multiplicative group|ro) 
+и всеми последующими структурными единицами идентичны и
+
+@item
+en: the multiplicative groups, other than the central multiplicative group, are symmetrically substituted; and 
+ru: &(multiplicative group|*), за исключением центральной &(multiplicative group|ro), симметрично замещены; и
+
+@item
+en: the locants of all substituent groups on the identical parent structures, including suffix groups, are identical.
+ru: локанты всех &(substituent group|ro*) в идентичных &(parent structure|pr*), включая суффиксные группы, идентичны.
+
+@End
+
+@p .framed
+en: In these recommendations, all substituent groups, including the principal characteristic groups must be identical 
+and have the same locant in order to construct a multiplicative name. This is a change from earlier 
+recommendations where such locants did not need to be identical. 
+ru: В данных рекомендациях все &(substituent group|*), включая основные &(characteristic group|*), должны быть идентичны 
+и иметь одинаковый локант для построения &(multiplicative name|ro). Это изменение по сравнению с предыдущими рекомендациями, 
+где такие локанты не обязательно должны были быть идентичными.
+
+en: The first two specific conditions are related to the linking di- or polyvalent groups. They are defined and exemplified in 
+Section P-15.3.1.2. Simple and concatenated groups are used when the conditions expressed in P-15.3.1.2.1 and  
+P-15.3.1.2.2 are fulfilled. 
+ru: Первые два конкретных условия относятся к связывающим ди- или поливалентным группам. Они определены и проиллюстрированы 
+в разделе P-15.3.1.2. Простые и конкатенированные группы используются при выполнении условий, изложенных в разделах 
+P-15.3.1.2.1 и P-15.3.1.2.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-S-CH2@n(2',-80)-COOH
+$>
+
+en: 2,2′-sulfanediyldiacetic acid (PIN, multiplicative name)  <br>
+[(carboxymethyl)sulfanyl]acetic acid (substitutive name) 
+ru: 2,2′-сульфандиилдиуксусная кислота (PIN, &(multiplicative name)) <br>
+[(карбоксиметил)сульфанил]уксусная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1',-120)/-\@n(4',-60)<`/`-`\>-O-@n(4,-120)/-\@n(1,-60)<`/`-`\>-COOH
+$>
+
+en: 4,4′-oxydi(cyclohexane-1-carboxylic acid) (PIN, multiplicative name)  <br>
+4-[(4-carboxycyclohexyl)oxy]cyclohexane-1-carboxylic acid (substitutive name)
+ru: 4,4′-оксиди(циклогексан-1-карбоновая кислота) (PIN, &(multiplicative name)) <br>
+4-[(4-карбоксициклогексил)окси]циклогексан-1-карбоновая кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(1)-CH2@n(2)-CH2@n(3)-O-CH@n(1,90)<`|Cl>-CH2@n(2,90)-O-CH2-CH<`|Cl>-CH2@n(3',%a:-80)-CH2@n(2',%a)-CH2@n(1',%a)-OH
+$>
+
+en: 3,3′-{oxybis[(1-chloroethane-2,1-diyl)]oxy}di(propan-1-ol) (PIN,  <br>
+a multiplicative name)  <br>
+3-{2-[2-chloro-2-(3-hydroxypropoxy)ethoxy]-1-chloroethoxy}propan-1-ol <br>
+(a substitutive name)
+ru: 3,3′-{оксибис[(1-хлорэтан-2,1-диил)]окси}ди(пропан-1-ол) (PIN, <br>
+&(multiplicative name)) <br>
+3-{2-[2-хлор-2-(3-гидроксипропокси)этокси]-1-хлорэтокси}пропан-1-ол <br>
+(&(substitutive name))
+
+@End
+
+
+
+#P-51.4
+en: Skeletal replacement (‘a’) nomenclature (see P-15.4)  
+ru: Номенклатура &(Skeletal replacement a|ro) (см. P-15.4)  
+
+
+#P-51.5
+en: Conjunctive nomenclature vs. substitutive nomenclature 
+
+
+
+#P-52
+en: Selecting preferred IUPAC names and preselected names for parent hydrides 
+ru: Выбор предпочтительных названий ИЮПАК и предварительно выбранных названий для &(parent hydride|ro*)
+
+#P-53
+en: Selecting preferred retained names of parent hydrides  
+ru: Выбор предпочтительных &(retained name|ro*) &(parent hydride|ro*)
+
+#P-54
+en: Selecting the preferred method for modifying the degree of hydrogenation 
+ru: Выбор предпочтительного метода изменения степени гидрирования
+
+#P-55
+en: Selecting the preferred retained name for functional parent compounds 
+ru: Выбор предпочтительного сохраненного названия для функциональных &(parent compound|ro*)
+
+#P-56
+en: Selecting the preferred suffix for the principal characteristic groups 
+ru: Выбор предпочтительного суффикса для основных &(characteristic group|ro*)
+
+#P-57
+en: Selecting preferred and preselected prefixes for substituent group names 
+ru: Выбор предпочтительных и предварительно выбранных префиксов для названий &(substituent group|ro*)
+
+#P-58
+en: Selection of preferred IUPAC names  
+ru: Выбор предпочтительных названий ИЮПАК
+
+#P-59
+en: Name construction
+ru: Конструкция имени

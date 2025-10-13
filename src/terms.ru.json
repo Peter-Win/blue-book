@@ -79,16 +79,28 @@
   "citation|ro": "цитирования",
   "cite": "цитировать",
   "cited": "цитируется",
+  "cited|ro": "цитируемого",
   "cited|*": "цитируются",
   "cited|ro*": "цитируемых",
   "cited|s*": "процитированы",
   "citing": "цитирование",
 
+  "complete substituent": "полный заместитель",
+
   "complex [prefix]|*": "сложные",
   "complex substituent prefix": "сложный замещающий префикс",
   "complex substituent prefix|ro": "сложного замещающего префикса",
   "complex substituent prefix|*": "сложные замещающие префиксы",  
-  "complex substituent prefix|ro*": "сложных замещающих префиксов",  
+  "complex substituent prefix|ro*": "сложных замещающих префиксов", 
+  
+  "complex [substituent]": "сложный",
+  "complex [substituent]|tv": "сложным",
+  "complex substituent|*": "сложные заместители",
+
+  "complex substituent group": "сложная замещающая группа",
+  "complex substituent group|*": "сложные замещающие группы",
+
+  "compound class|ro": "составного класса",
 
   "compound locant": "составной локант",
   "compound locant|few": "составных локанта",
@@ -108,6 +120,13 @@
   "compound substituent group|*": "составные замещающие группы",
   "compound substituent group|ro*": "составных замещающих групп",
 
+  "compound [substituent]": "составной",
+  "compound [substituent]|tv": "составным",
+  "compound [substituent]|*": "составные",
+  "compound substituent|ro": "составного заместителя", 
+  "compound substituent|*": "составные заместители",
+  "compound substituent|ro*": "составных заместителей",
+
   "compound [prefix]|ro": "составного",
   "compound [prefix]|*": "составные",
   "compound [prefix]|ro*": "составных",
@@ -126,6 +145,11 @@
   "composite locant|tv*": "композитными локантами",
 
   "concatenated [substituent group]|*": "сцепленные",
+
+  "conjunctive name": "конъюнктивное название",
+
+  "conjunctive nomenclature": "конъюнктивная номенклатура",
+  "conjunctive nomenclature|ro": "конъюнктивной номенклатуры",
 
   "cumulative suffix": "кумулятивный суффикс",
   "cumulative suffix|*": "кумулятивные суффиксы",
@@ -151,6 +175,14 @@
   "detachable [prefix]|*": "отделяемые",
   "detachable [prefix]|ro*": "отделяемых",
   "detachable [prefix]|tv*": "отделяемыми",
+
+  "functional class name": "название по функциональному классу",
+  "functional class name|*": "названия по функциональному классу",
+  "functional class name|da*": "названиям по функциональному классу",
+
+  "functional class nomenclature": "номенклатура функциональных классов",
+  "functional class nomenclature|ro": "номенклатуры функциональных классов",
+  "functional class nomenclature|vi": "номенклатуру функциональных классов",
 
   "functional parent": "функциональный родитель",
   "functional parent|*": "функциональные родители",
@@ -244,11 +276,28 @@
   "mixed substituent prefix|*": "смешанные замещающие префиксы",
   "mixed substituent prefix|ro*": "смешанных замещающих префиксов",
 
+  "multiplicative group": "мультипликативная группа",
+  "multiplicative group|ro": "мультипликативной группы",
+  "multiplicative group|*": "мультипликативные группы",
+
+  "multiplicative name": "мультипликативное название",
+  "multiplicative name|ro": "мультипликативного названия",
+  "multiplicative name|*": "мультипликативные названия",
+  "multiplicative name|ro*": "мультипликативных названий",
+
+  "multiplicative nomenclature": "мультипликативная номенклатура",
+  "multiplicative nomenclature|ro": "мультипликативной номенклатуры",
+
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",
 
   "nonfused bridged ring system": "система мостиковых неконденсированных колец",
   "nonfused bridged ring system|ro*": "систем мостиковых неконденсированных колец",
+
+  "nonstandard bonding atom": "атом с нестандартными связями",
+  "nonstandard bonding atom|2": "атома с нестандартными связями",
+  "nonstandard bonding atom|ro": "атома с нестандартными связями",
+  "nonstandard bonding atom|ro*": "атомов с нестандартными связями",
 
   "oic acid": "оевая кислота",
   "oic acid|*": "оевые кислоты",
@@ -433,6 +482,8 @@
   "selenonic acid": "селеноновая кислота",
   "selenonic acid|*": "селеноновые кислоты",
 
+  "skeletal nomenclature|ro": "скелетной номенклатуры",
+
   "skeletal replacement a": "скелетное замещения (‘a’)",
   "skeletal replacement a|ro": "скелетного замещения (‘a’)",
 
@@ -455,9 +506,17 @@
   "subsidiary parent|f,tv": "вторичной исходной",
 
   "substituent": "заместитель",
+  "substituent|ro": "заместителя",
   "substituent|tv": "заместителем",
   "substituent|*": "заместители",
   "substituent|ro*": "заместителей",
+  "substituent|pr*": "заместителях",
+
+
+  "substituent chain": "заместительная цепь",
+  "substituent chain|ro": "заместительной цепи",
+  "substituent chain|*": "заместительные цепи",
+  "substituent chain|tv*": "заместительными цепями",
 
   "substituent group": "замещающая группа",
   "substituent group|ro": "замещающей группы",
@@ -474,11 +533,16 @@
   "substituent prefix|*": "префиксы-заместители",
   "substituent prefix|ro*": "префиксов-заместителей",
 
+  "substituted [substituent]": "замещённый",
+  "substituted [substituent]|*": "замещённые",
+
   "substitutive name": "заместительное название",
+  "substitutive name|*": "заместительные названия",
   "substitutive name|ro*": "заместительных названий",
 
   "substitutive nomenclature": "заместительная номенклатура",
   "substitutive nomenclature|ro": "заместительной номенклатуры",
+  "substitutive nomenclature|vi": "заместительную номенклатуру",
   "substitutive nomenclature|tv": "заместительной номенклатурой",
   "substitutive nomenclature|pr": "заместительной номенклатуре",
 

@@ -1,3 +1,1083 @@
 #P-46
 en: The principal chain in substituent groups
 ru: Основная цепь в &(substituent group|pr*)
+
+@Content
+
+#P-46.0
+en: Introduction 
+ru: Введение
+
+en: Compound acyclic substituents, i.e., substituted acyclic substituents, consist of a principal chain and one or more 
+acyclic substituents. If the substituent to the principal chain also has (an) acyclic substituent(s), it itself is a compound 
+substituent; the resulting complete substituent is called a complex acyclic substituent. Complex substituents are named 
+by extending the methods given below for compound substituents. 
+ru: &(Compound [substituent]|*) ациклические &(substituent|*), то есть &(substituted [substituent]|*) ациклические 
+&(substituent|*), состоят из главной цепи и одного или нескольких ациклических &(substituent|ro*). 
+Если &(substituent) в главной цепи также имеет ациклический(е) &(substituent)(и), он сам является &(compound [substituent]|tv) 
+&(substituent|tv); полученный &(complete substituent) называется &(complex [substituent]|tv) ациклическим &(substituent|tv). 
+&(Complex substituent|*) получают названия, расширяя методы, приведённые ниже для &(compound substituent|ro*).
+
+en: Compound substituents are named in two ways: 
+ru: &(Compound substituent|*) именуются двумя способами:
+
+@List 1
+
+@item
+en: by using alkyl substituents [see P-29.2(1)];  
+ru: с использованием алкильных &(substituent|ro*) [см. P-29.2(1)];
+
+@item
+en: by using alkanyl substituents [see P-29.2(2)].
+ru: с использованием алканил-&(substituent|ro*) [см. P-29.2(2)].
+
+@End
+
+en: Alkyl and alkanyl substituent groups have been defined in Section P-29. Simple alkyl substituent groups have their free 
+valence(s) denoted by the suffixes ‘yl’, ‘ylidene’ or ‘ylidyne’ only at position 1. Simple alkanyl substituent groups have 
+their free valence(s) denoted by the suffixes ‘yl’ or ‘ylidene’ which may be located at any position of the chain except 
+position 1. Both alkyl and alkanyl substituent groups can form compound substituent groups; for example,  
+<%f1%> is 1,1-dimethylethyl, a compound alkyl substituent group, by method (1); and 2-methylpropan-2-yl, a 
+compound alkanyl substituent group, by method (2). In some cases, a compound substituent group resulting from 
+substitution of the principal chain by alkyl or alkanyl substituent groups results in the same structure that corresponds to 
+a simple alkanyl substituent group; for example, <%f2%> is 1-methylpentyl by method (1), but 
+hexan-2- yl by method (2). 
+ru: Алкильные и алканил-&(substituent group|*) определены в разделе P-29. Простые алкильные &(substituent group|*) имеют 
+свободную(ые) валентность(и), обозначенную(ые) суффиксами «ил», «илиден» или «илидин» только в положении 1. 
+Простые алканил-&(substituent group|*) имеют свободную(ые) валентность(и), обозначенную(ые) суффиксами «ил» или «илиден», 
+которые могут находиться в любом положении цепи, кроме положения 1. Как алкильные, так и алканил-&(substituent group|*) 
+могут образовывать &(compound substituent group|*); например, <%f1%> представляет собой 1,1-диметилэтил, алкильную 
+&(substituent group|vi), согласно методу (1); и 2-метилпропан-2-ил, алканильную &(substituent group|vi), согласно методу (2). 
+В некоторых случаях &(compound substituent group), образующаяся в результате замещения основной цепи алкильными или алканильными 
+&(substituent group|tv*), приводит к той же структуре, которая соответствует простой алканильной &(substituent group|da); 
+например, <%f2%> представляет собой 1-метилпентил по методу (1), но гексан-2-ил по методу (2).
+%f1: <$ CH3-C(CH3)2– $>
+%f2: <$ CH3-CH2-CH2-CH2-CH(CH3)– $>
+
+#P-46.1
+en: The principal substituent chain 
+ru: Основная заместительная цепь
+
+en: Selection of the principal chain of a compound substituent is accomplished in accordance with the following criteria, 
+applied successively in the order given until a decision is reached. They are listed here and illustrated in P-46.1.1 
+through P-46.1.13. The principal substituent chain has: 
+ru: Выбор основной цепи &(compound substituent|ro) осуществляется в соответствии со следующими критериями, применяемыми 
+последовательно в указанном порядке до принятия решения. Они перечислены здесь и проиллюстрированы в пунктах 
+P-46.1.1 – P-46.1.13. Основная цепь заместителя имеет:
+
+#(a)
+en: the greater number of heteroatoms; this criterion is used only in method (2) in P-46.0; 
+ru: большее число гетероатомов; этот критерий используется только в методе (2) в P-46.0;
+
+#(b)
+en: the greater number of skeletal atoms, i.e., the longest chain; 
+ru: большее число атомов скелета, т. е. самая длинная цепь;
+
+@p .framed
+en: In acyclic substituents the order of seniority between unsaturation and length of chain given in earlier 
+recommendations is reversed. Thus, the first criterion to be considered in choosing a preferred acyclic substituent is 
+the length of the chain; unsaturation is now a lower criterion [see (d)]. 
+ru: В ациклических &(substituent|pr*) порядок старшинства между ненасыщенностью и длиной цепи, указанный в предыдущих 
+рекомендациях, изменился на обратный. Таким образом, первым критерием, который следует учитывать при выборе 
+предпочтительного ациклического &(substituent|ro), является длина цепи; ненасыщенность теперь является 
+менее важным критерием [см. (d)].
+
+#(c)
+en: the greater number of heteroatoms in the order: <%ord%>; 
+ru: большее число гетероатомов в порядке: <%ord%>;
+%ord: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+#(d)
+en: the greater number of multiple bonds regardless of type, then the greater number of double bonds; 
+ru: больше число кратных связей независимо от типа, затем больше число двойных связей;
+
+#(e)
+en: one or more atoms with nonstandard bonding numbers; 
+ru: один или несколько атомов с нестандартными связями;
+
+#(f)
+en: the lowest locants for heteroatoms; this criterion is used only in method (2) in P-46.0; 
+ru: наименьшие локанты для гетероатомов; этот критерий используется только в методе (2) в P-46.0;
+
+#(g)
+en: the lowest locants for heteroatoms appearing first in the order: <%ord%>; 
+ru: наименьшие локанты для гетероатомов, появляющихся первыми в порядке: <%ord%>;
+%ord: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+#(h)
+en: the lowest locants for free valences of any kind (‘yl’, ‘ylidene’, ‘ylidyne’); 
+ru: наименьшие локанты для свободных валентностей любого вида («ил», «илиден», «илидин»);
+
+#(i)
+en: the lowest locant(s) for multiple bonds, regardless of type, then the lower locant(s) for double bonds; 
+ru: наименьший локант(ы) для кратных связей, независимо от типа, затем наименьший локант(ы) для двойных связей;
+
+#(j)
+en: the lowest locant(s) for (an) atom(s) with nonstandard bonding number(s); 
+ru: наименьший(ие) локант(ы) для атома(ов) с нестандартным числом &(bonding number|tv);
+
+#(k)
+en: the greatest number of substituents of any kind; this criterion is applicable to both methods (1) and (2) in P-46.0; 
+ru: наибольшее количество &(substituent|ro*) любого типа; этот критерий применим к обоим методам (1) и (2) в P-46.0;
+
+#(l)
+en: the lowest locants for substituents; this criterion is applicable to both methods (1) and (2) in P-46.0; 
+ru: наименьшие локанты для &(substituent|ro*); этот критерий применим к обоим методам (1) и (2) в P-46.0;
+
+#(m)
+en: the lowest locants for the substituent(s) cited earlier in alphanumerical order; this criterion is applicable to both 
+methods (1) and (2) in P-46.0. 
+ru: наименьшие локанты для &(substituent|ro)(ей), указанных ранее в алфавитно-цифровом порядке; 
+этот критерий применим к обоим методам (1) и (2) в P-46.0.
+
+#P-46.1.1+
+en: The principal substituent chain has the greater number of heteroatoms [criterion P-46.1 (a)]; this criterion is 
+used only in method (2) of P-46.0.
+ru: Основная &(substituent chain) имеет большее число гетероатомов [критерий P-46.1 (a)]; 
+этот критерий используется только в методе (2) P-46.0.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(9)-SiH2@n(8)-CH@n(7)<|CH2-CH2-CH3>-SiH2@n(6)-CH2@n(5)-SiH2@n(4)-CH2@n(3)-SiH2@n(2)-CH2@n(1)-{}
+$>
+
+en: 7-propyl-2,4,6,8-tetrasilanonan-1-yl (preferred prefix)  <br>
+[not 7-(methylsilyl)-2,4,6-trisiladecan-1-yl] 
+ru: 7-пропил-2,4,6,8-тетрасиланонан-1-ил (предпочтительный префикс) <br>
+[не 7-(метилсилил)-2,4,6-трисиладекан-1-ил]
+
+@End
+
+#P-46.1.2+
+en: The principal substituent chain has the greater number of skeletal atoms, i.e., the longest chain [criterion 
+P-46.1 (b)]. This criterion is applicable to both methods (1) and (2) of P-46.0; both methods generate simple and compound 
+substituent groups.
+ru: Основная &(substituent chain) имеет наибольшее число скелетных атомов, т.е. имеет самую длинную цепь [критерий P-46.1 (b)]. 
+Этот критерий применим к обоим методам (1) и (2) P-46.0; оба метода генерируют простые и &(compound substituent group|*).
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-C@n(2)<`||{}>-CH2@n(3)-CH2@n(4)-CH3@n(5)
+$>
+
+en: (2) pentan-2-ylidene (preferred prefix)  <br>
+(a simple substituent group) 
+ru: (2) пентан-2-илиден (предпочтительный префикс) <br>
+(простая &(substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-C@n(1)<`||{}>-CH2@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: (1) 1-methylbutylidene  <br>
+(a compound substituent group) 
+ru: (1) 1-метилбутилиден <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-C@n(2)<`|{}>=CH2@n(1)
+$>
+
+en: (2) but-1-en-2-yl (preferred prefix)  <br>
+(a simple substituent group) 
+ru: (2) бут-1-ен-2-ил (предпочтительный префикс) <br>
+(простая &(substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-C@n(1)<`|{}>=CH2
+$>
+
+en: (1) 1-methylidenepropyl  <br>
+(a compound substituent group) 
+ru: (1) 1-метилиденпропил <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH@n(4)<|CH3>-CH2@n(3)-CH@n(2,90)<`|{}>-CH3@n(1)
+$>
+
+en: (2) 4-methylhexan-2-yl (preferred prefix) <br>
+(a compound substituent group)
+ru: (2) 4-метилгексан-2-ил (предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH@n(3)<|CH3>-CH2@n(2)-CH@n(1,90)<`|{}>-CH3
+$>
+
+en: (1) 1,3-dimethylpentyl <br>
+(a compound substituent group)
+ru: (1) 1,3-диметилпентил <br>
+(&(compound substituent group))
+
+@End
+
+#P-46.1.3+
+en: The principal substituent chain has the greater number of heteroatoms in the order: <%ord%> [criterion P-46.1 (c)]. 
+ru: Основная &(substituent chain) имеет большее число гетероатомов в порядке: <%ord%> [критерий P-46.1 (c)].
+%ord: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH3@n(3)-O@n(2)-SiH@n(1)<-{}>|S-SiH3
+$>
+
+en: 1-(silylsulfanyl)disiloxanyl (preselected prefix)  <br>
+[not 1-(silyloxy)disilathianyl; ‘O’ > ‘S’] 
+ru: 1-(силилсульфанил)дисилоксанил (предварительно выбранный префикс) <br>
+[не 1-(силилокси)дисилатианил; ‘O’ > ‘S’]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-SiH2-CH2-SiH2-CH@n(5)<-SiH2@n(4)-CH2@n(3)-O@n(2)-CH2@n(1)-{}>#
+|O@n(6,90)`-CH2@n(7,90)`-CH2@n(8,90)`-SiH2@n(9,90)`-CH3@n(10,90)
+$>
+
+en: 5-{[(ethylsilyl)methyl]silyl}-2,6-dioxa-4,9-disiladecan-1-yl (preferred prefix)  <br>
+[not 5-[2-(methylsilyl)ethoxy]-2-oxa-4,6,8-trisiladecan-1-yl;  <br>
+two oxygens are senior to one oxygen] 
+ru: 5-{[(этилсилил)метил]силил}-2,6-диокса-4,9-дисиладекан-1-ил (предпочтительный префикс) <br>
+[не 5-[2-(метилсилил)этокси]-2-окса-4,6,8-трисиладекан-1-ил; <br>
+два атома кислорода имеют приоритет над одним]
+
+@End
+
+#P-46.1.4+
+en: The principal chain has the greater number of multiple bonds regardless of type, then the greater number of 
+double bonds [criterion P-46.1 (d)]; this criterion is applicable to methods (1) and (2) in P-46.0; both generate simple 
+and compound substituent groups. 
+ru: Основная цепь имеет большее число кратных связей независимо от типа, затем большее число двойных связей 
+[критерий P-46.1 (d)]; этот критерий применим к методам (1) и (2) в P-46.0; 
+оба образуют простые и &(compound substituent group|*).
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-C@n(4,90)<`||{}>-CH2@n(5)-CH2@n(6)-CH3@n(7)
+$>
+
+en: (2) hept-1-en-4-ylidene (preferred prefix) <br>
+(a simple substituent group) 
+ru: (2) гепт-1-ен-4-илиден (предпочтительный префикс) <br>
+(простая &(substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)=CH@n(3)-CH2@n(2)-C@n(1,90)<`||{}>-CH2-CH2-CH3
+$>
+
+en: (1) 1-propylbut-3-en-1-ylidene <br>
+(a compound substituent group) 
+ru: (1) 1-пропилбут-3-ен-1-илиден <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3,90)<`|{}>-C@n(4,90)<`|CH2-CH3>=CH@n(5,90)-CH3@n(6,90)
+$>
+
+en: (2) 4-ethylhexa-1,4-dien-3-yl  <br>
+(preferred prefix; a compound substituent group)
+ru: (2) 4-этилгекса-1,4-диен-3-ил <br>
+(предпочтительный префикс; &(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2=CH-CH@n(1,90)<`|{}>-C@n(2,90)<`|CH2-CH3>=CH@n(3,90)-CH3@n(4,90)
+$>
+
+en: (1) 1-ethenyl-2-ethylbut-2-en-1-yl <br>
+(a compound substituent group)
+ru: (1) 1-этенил-2-этилбут-2-ен-1-ил <br>
+(&(compound substituent group))
+
+@End
+
+#P-46.1.5+
+en: The principal substituent chain has one or more atoms with nonstandard bonding numbers [criterion  
+P-46.1 (e)]. When a choice is needed between two substituent chains having skeletal atoms with nonstandard bonding 
+numbers, the one having the maximum number of atoms with nonstandard bonding numbers is chosen as principal 
+substituent chain. If a further choice is needed between the same skeletal atom with different nonstandard bonding 
+numbers, preference for the principal substituent chain is given in order of the decreasing numerical value of the 
+bonding number, i.e., λ^{6} is senior to λ^{4}. 
+ru: Основная &(substituent chain) содержит один или несколько атомов с нестандартными &(bonding number|tv*) 
+[критерий P-46.1 (e)]. При необходимости выбора между двумя &(substituent chain|tv*), имеющими скелетные атомы с 
+нестандартными &(bonding number|tv*), в качестве основной &(substituent chain|ro) выбирается та, которая содержит 
+максимальное количество атомов с нестандартными &(bonding number|tv*). Если требуется дальнейший выбор между теми же 
+скелетными атомами с различными нестандартными &(bonding number|tv*), предпочтение &(substituent chain|ro) цепи отдается 
+в порядке убывания числового значения &(bonding number|ro), т.е. λ^{6} имеет приоритет над λ^{4}.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-O@n(9)-CH2@n(8)-SH2@n(7)-CH2@n(6)-CH@n(5,90):a-O@n(4)-CH2@n(3)-S@n(2)-CH2@n(1)-{};
+#a_(y-1.3)CH2-S-CH2-O-CH3
+$>
+
+en: 5-{[(methoxymethyl)sulfanyl]methyl}-4,9-dioxa-2,7λ^{4}-dithiadecan-1-yl (preferred prefix)  <br>
+[not 5-{[(methoxymethyl)-λ^{4}-sulfanyl]methyl}-4,9-dioxa-2,7-dithiadecan-1-yl;  <br>
+one nonstandard bonding atom vs. zero] 
+ru: 5-{[(метоксиметил)сульфанил]метил}-4,9-диокса-2,7λ^{4}-дитиадекан-1-ил (предпочтительный префикс) <br>
+[не 5-{[(метоксиметил)-λ^{4}-сульфанил]метил}-4,9-диокса-2,7-дитиадекан-1-ил; <br>
+один &(nonstandard bonding atom) вместо нуля]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-SH2@n(9)-CH2@n(8)-SH2@n(7)-CH2@n(6)-CH@n(5,90):a-O@n(4)-CH2@n(3)-SH2@n(2)-CH2@n(1)-{};
+#a_(y-1.4)CH2-SH4-CH2-S-CH3
+$>
+
+en: 5-({[(methylsulfanyl)methyl]-λ^{6}-sulfanyl}methyl)-4-oxa-2λ^{4},7λ^{4},9λ^{4}-trithiadecan-1-yl (preferred prefix) <br>
+[not 5-({[(methyl-λ^{4}-sulfanyl)methyl]-λ^{4}-sulfanyl}methyl)-4-oxa-2λ^{4},7λ^{6},9-trithiadecan-1-yl;  <br>
+three nonstandard bonding atoms vs. two]
+ru: 5-({[(метилсульфанил)метил]-λ^{6}-сульфанил}метил)-4-окса-2λ^{4},7λ^{4},9λ^{4}-тритиадекан-1-ил (предпочтительный префикс) <br>
+[не 5-({[(метил-λ^{4}-сульфанил)метил]-λ^{4}-сульфанил}метил)-4-окса-2λ^{4},7λ^{6},9-тритиадекан-1-ил; <br>
+три &(nonstandard bonding atom|2) вместо двух]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-SH4@n(9)-CH2@n(8)-SH4@n(7)-CH2@n(6)-CH@n(5,90):a-O@n(4)-CH2@n(3)-SH2@n(2)-CH2@n(1)-{};
+#a_(y-1.4)CH2-SH2-CH2-SH4-CH3
+$>
+
+en: 5-({[(methyl-λ^{6}-sulfanyl)methyl]-λ^{4}-sulfanyl}methyl)-4-oxa-2λ^{4},7λ^{6} ,9λ^{6}-trithiadecan-1-yl (preferred prefix) <br>
+[not 5-({[(methyl-λ^{6}-sulfanyl)methyl]-λ^{6}-sulfanyl }methyl)-4-oxa-2λ^{4},7λ^{4},9λ^{6}-trithiadecan-1-yl;  <br>
+two λ^{6} nonstandard bonding atoms and one λ^{4} nonstandard bonding atoms vs.  <br>
+two λ^{4} and one λ^{6} nonstandard bonding atoms] 
+ru: 5-({[(метил-λ^{6}-сульфанил)метил]-λ^{4}-сульфанил}метил)-4-окса-2λ^{4},7λ^{6},9λ^{6}-тритиадекан-1-ил (предпочтительный префикс) <br>
+[не 5-({[(метил-λ^{6}-сульфанил)метил]-λ^{6}-сульфанил}метил)-4-окса-2λ^{4},7λ^{4},9λ^{6}-тритиадекан-1-ил; <br>
+два &(nonstandard bonding atom|2) λ^{6} и один &(nonstandard bonding atom) λ^{4} против <br>
+двух λ^{4} и одного &(nonstandard bonding atom|ro) λ^{6}]
+
+@End
+
+#P-46.1.6+
+en: The principal substituent chain has the lowest locants for heteroatoms [criterion P-46.1 (f)]; this criterion is 
+used only in method (2) of P-46.0. 
+ru: Основная &(substituent chain) имеет наименьшие локанты для гетероатомов [критерий P-46.1 (f)]; этот критерий 
+используется только в методе (2) P-46.0.
+
+@p .framed
+en: This is a change. Heteroatoms in chains are now considered as part of the parent hydride; as such they have 
+seniority over suffixes for numbering (see P-14.4; see also P-15.4.3); this change makes ‘a’ terms nondetachable 
+in skeletal replacement in chains, rings, and ring systems. 
+ru: Это изменение. Гетероатомы в цепях теперь рассматриваются как часть &(parent hydride|ro); как таковые, они имеют 
+приоритет над суффиксами при нумерации (см. P-14.4; см. также P-15.4.3); это изменение делает термины «a» неотделимыми 
+при замещении скелета в цепях, кольцах и кольцевых системах.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-CH2@n(4)-SiH2@n(5)-CH2@n(6)-SiH2@n(7)-CH2@n(8)-SiH2@n(9)-CH:a@n(10)-CH2@n(11)-{};
+CH3-CH2-SiH2-CH2-SiH2-CH2-SiH2-CH2-SiH2`|#a
+$>
+
+en: 10-(1,3,5,7-tetrasilanonan-1-yl)-2,5,7,9-tetrasilaundecan-11-yl (preferred prefix)  <br>
+[not 10-(1,3,5,8-tetrasilanonan-1-yl)-3,5,7,9-tetrasilaundecan-11-yl;  <br>
+the locant set in the principal substituent chain ‘2,5,7,9’ is lower than the set ‘3,5,7,9’] 
+ru: 10-(1,3,5,7-тетрасиланонан-1-ил)-2,5,7,9-тетрасилаундекан-11-ил (предпочтительный префикс) <br>
+[не 10-(1,3,5,8-тетрасиланонан-1-ил)-3,5,7,9-тетрасилаундекан-11-ил; <br>
+&(locant set) в основной &(substituent chain|ro) «2,5,7,9» меньше набора «3,5,7,9»]
+
+@End
+
+#P-46.1.7+
+en: The principal substituent chain has the lowest locants for heteroatoms appearing first in the order: <%ord%> 
+[criterion P-46.1 (g)]; this criterion is used only in method (2) of P-46.0.
+ru: Основная &(substituent chain) имеет наименьшие локанты для гетероатомов, появляющихся первыми в порядке: 
+<%ord%> [критерий P-46.1 (g)]; этот критерий используется только в методе (2) P-46.0.
+%ord: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-CH2-SiH2-CH2-SiH2-CH2-O-CH2-S|CH:a@n(2)-CH2@n(1);
+CH3@n(13)-CH2@n(12)-CH2@n(11)-CH2@n(10)-SiH2@n(9)-CH2@n(8)-SiH2@n(7)-CH2@n(6)-S@n(5)-CH2@n(4)-O@n(3)-#a
+$>
+
+en: 2-{[({[(butylsilyl)methyl]silyl}methoxy)methyl]sulfanyl}-3-oxa-5-thia-7,9-disilatridecan-1-yl (preferred prefix)  <br>
+[not 2-{[({[(butylsilyl)methyl]silyl}methyl)sulfanyl]methoxy}-5-oxa-3-thia-7,9-disilatridecan-1-yl;  <br>
+‘3-oxa’ is senior to ‘5-oxa’]
+ru: 2-{[({[(бутилсилил)метил]силил}метокси)метил]сульфанил}-3-окса-5-тиа-7,9-дисилатридекан-1-ил (предпочтительный префикс) <br>
+[не 2-{[({[(бутилсилил)метил]силил}метил)сульфанил]метокси}-5-окса-3-тиа-7,9-дисилатридекан-1-ил; <br>
+«3-окса» старше, чем «5-окса»]
+
+@End
+
+#P-46.1.8+
+en: The principal substituent chain has the lowest locants for free valences of any kind in the order ‘yl’ > ‘ylidene’ 
+> ‘ylidyne’ [criterion P-46.1 (h)]. 
+ru: Основная &(substituent chain) имеет наименьшие локанты свободных валентностей любого типа в порядке «ил» > «илиден» > 
+«илидин» [критерий P-46.1 (h)].
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(14)-CH@n(13,90)<`|{}>-CH2@n(12)-CH2@n(11)-SiH2@n(10)-CH2@n(9)-SiH2@n(8)-CH2@n(7)-SiH2@n(6)-#
+CH:a@n(5,90)-SiH2@n(4)-CH2@n(3)-SiH2@n(2)-CH@n(1)={};
+#a_(y-1.4)SiH2-CH<`|{}>-SiH2-CH3
+$>
+
+en: 5-{[(methylsilyl)ylomethyl]silyl}-2,4,6,8,10-pentasilatetradecan-13-yl-1-ylidene (preferred prefix) 
+ru: 5-{[(метилсилил)илометил]силил}-2,4,6,8,10-пентасилаттрадекан-13-ил-1-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(14)-CH@n(13,90)<`|{}>-CH2@n(12)-CH2@n(11)-SiH2@n(10)-CH2@n(9)-SiH2@n(8)-CH2@n(7)-SiH2@n(6)-#
+CH:a@n(5,90)-SiH2-CH2-SiH2-CH={};
+#a_(y-1.1)SiH2@n(4)-CH2@n(3)-SiH2@n(2)-CH2@n(1)-{}
+$>
+
+en: 5-{[(diylomethylsilyl)methyl]silyl}-2,4,6,8,10-pentasilatetradecane-1,13-diyl (preferred prefix)  <br>
+(for ‘ylo’ as a prefix, see P-70.3.1, P-71.5) 
+ru: 5-{[(диилометилсилил)метил]силил}-2,4,6,8,10-пентасилатетрадекан-1,13-диил (предпочтительный префикс) <br>
+(префикс «ило» см. в P-70.3.1, P-71.5)
+
+@End
+
+#P-46.1.9+
+en: The principal substituent chain has the lowest locant(s) for multiple bonds, regardless of type, then the lowest 
+locant(s) for double bonds [criterion P-46.1 (i)]. This criterion is applicable to both methods (1) and (2) in P-46.0; 
+both methods generate simple and compound substituent groups. 
+ru: Основная &(substituent chain) имеет наименьшее(ие) значение(я) для кратных связей, независимо от типа, 
+затем наименьшее(ие) значение(я) для двойных связей [критерий P-46.1 (i)]. 
+Этот критерий применим к обоим методам (1) и (2) в P-46.0; оба метода генерируют простые и сложные замещающие группы.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-CH@n(4,90)<`|{}>-CH@n(5)=CH@n(6)-CH3@n(7)
+$>
+
+en: (2) hepta-1,5-dien-4-yl (preferred prefix) <br>
+(a simple substituent group)
+ru: (2) гепта-1,5-диен-4-ил (предпочтительный префикс) <br>
+(простая &(substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2=CH-CH2-CH@n(1,90)<`|{}>-CH@n(2)=CH@n(3)-CH3@n(4)
+$>
+
+en: (1) 1-(prop-2-en-1-yl)but-2-en-1-yl <br>
+(a compound substituent group)
+ru: (1) 1-(проп-2-ен-1-ил)бут-2-ен-1-ил <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3,90)<`|{}>-CH2@n(4)-CH@n(5)<|CH2-CH=CH2>-CH@n(6)=CH@n(7)-CH3@n(8)
+$>
+
+en: (2) 5-(prop-2-en-1-yl)octa-1,6-dien-3-yl (preferred prefix) <br>
+(a compound substituent group) 
+ru: (2) 5-(проп-2-ен-1-ил)окта-1,6-диен-3-ил (предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2=CH-CH@n(1,90)<`|{}>-CH2@n(2)-CH@n(3)<|CH2-CH=CH2>-CH@n(4)=CH@n(5)-CH3@n(6)
+$>
+
+en: (1) 1-ethenyl-3-(prop-2-en-1-yl)hex-4-en-1-yl <br>
+(a compound substituent group) 
+ru: (1) 1-этенил-3-(проп-2-ен-1-ил)гекс-4-ен-1-ил <br>
+(&(compound substituent group))
+
+@End
+
+#P-46.1.10+
+en: The principal substituent chain has the lowest locant(s) for (an) atom(s) with nonstandard bonding number(s) 
+[criterion P-46.1 (j)]. If a further choice is needed, the principal substituent chain has (an) atom(s) of the higher 
+bonding number with the lowest locant.
+ru: Основная &(substituent chain) имеет наименьший(ие) локант(ы) для атома(ов) с нестандартным &(bonding number|tv) 
+[критерий P-46.1 (j)]. Если требуется дополнительный выбор, основная &(substituent chain) имеет атом(ы) с наибольшим 
+&(bonding number|tv) с наименьшим локантом.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(11)-S@n(10)-CH2@n(9)-CH2@n(8)-SH2@n(7)-CH2@n(6)-CH:a@n(5,90)-O@n(4)-CH2@n(3)-SH2@n(2)-CH2@n(1)-{};
+#a_(y-1.3)CH2-S-CH2-CH2-SH4-CH3
+$>
+
+en: 5-({[2-(methyl-λ^{6}-sulfanyl)ethyl]sulfanyl}methyl)-4-oxa-2λ^{4},7λ^{4},10-trithiaundecan-1-yl (preferred prefix) <br>
+[not 5-({[(methylsulfanyl)ethyl]-λ^{4}-sulfanyl}methyl)-4-oxa-2λ^{4},7,10λ^{6}-trithiaundecan-1-yl;  <br>
+the locant set for the nonstandard bonding atoms ‘2,7’ is lower than ‘2,10’] 
+ru: 5-({[2-(метил-λ^{6}-сульфанил)этил]сульфанил}метил)-4-окса-2λ^{4},7λ^{4},10-тритиаундекан-1-ил (предпочтительный префикс) <br>
+[не 5-({[(метилсульфанил)этил]-λ^{4}-сульфанил}метил)-4-окса-2λ^{4},7,10λ^{6}-тритиаундекан-1-ил; <br>
+&(locant set) для &(nonstandard bonding atom|ro*) «2,7» меньше, чем «2,10»]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-SH2@n(9)-CH2@n(8)-SH4@n(7)-CH2@n(6)-CH:a@n(5,90)-O@n(4)-CH2@n(3)-SH2@n(2)-CH2@n(1)-{};
+#a_(y-1.3)CH2-SH2-CH2-SH4-CH3
+$>
+
+en: 5-({[(methyl-λ^{6}-sulfanyl)methyl]-λ^{4}-sulfanyl}methyl)-4-oxa-2λ^{4},7λ^{6},9λ^{4}-trithiadecan-1-yl (preferred prefix)  <br>
+[not 5-({[(methyl-λ^{4}-sulfanyl)methyl]-λ^{6}-sulfanyl}methyl)-4-oxa-2λ^{4},7λ^{4},9λ^{6}-trithiadecan-1-yl;  <br>
+the λ^{6} nonstandard bonding atom in the PIN name is at position ‘7’ which is lower than ‘9’]
+ru: 5-({[(метил-λ^{6}-сульфанил)метил]-λ^{4}-сульфанил}метил)-4-окса-2λ^{4},7λ^{6},9λ^{4}-тритиадекан-1-ил (предпочтительный префикс) <br>
+[не 5-({[(метил-λ^{4}-сульфанил)метил]-λ^{6}-сульфанил}метил)-4-окса-2λ^{4},7λ^{4},9λ^{6}-тритиадекан-1-ил; <br>
+&(nonstandard bonding atom) λ^{6} в названии PIN находится в положении «7», что меньше «9»]
+
+@End
+
+#P-46.1.11+
+en: The principal substituent chain has the greatest number of substituents of any kind [criterion P-46.1 (k)]. 
+This criterion is applicable to both methods (1) and (2) in P-46.0; both methods generate compound and complex 
+substituent groups, respectively. 
+ru: Основная &(substituent chain) содержит наибольшее количество заместителей любого типа [критерий P-46.1 (k)].
+Этот критерий применим к обоим методам (1) и (2) в P-46.0; оба метода генерируют &(compound [substituent group]|*) и 
+&(complex substituent group|*) соответственно.
+
+en: When applicable, the principal substituent chain has the greatest number of substituent groups with the highest bonding 
+number. When method (2) is applied, numbering is based on low locants for substituents with atoms with the highest 
+bonding number [P-14.4 (h)]. 
+ru: Когда это применимо, основная &(substituent chain) содержит наибольшее количество &(substituent group|ro*) с наибольшим 
+&(bonding number|tv). При применении метода (2) нумерация основана на наименьших локантах для &(substituent|ro*) с атомами 
+с наибольшим &(bonding number|tv) [P-14.4 (h)].
+
+@Examples 2 .cells-align-top
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH@n(2,90)<`|{}>-CH2@n(1)-OH
+$>
+
+en: (2) 1-hydroxypropan-2-yl (preferred prefix) <br>
+(a compound substituent group)
+ru: (2) 1-гидроксипропан-2-ил (предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH@n(1)<`|{}>-CH2@n(2)-OH
+$>
+
+en: (1) 2-hydroxy-1-methylethyl  <br>
+(a compound substituent group)  <br>
+[not 1-(hydroxymethyl)ethyl] 
+ru: (1) 2-гидрокси-1-метилэтил <br>
+(&(compound substituent group)) <br>
+[не 1-(гидроксиметил)этил]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(8)-CHCl@n(7)-CHCl@n(6)-CH@n(5)<|CH2`-CHCl`-CH3>-CH2@n(4)-CH2@n(3)-CH@n(2,90)<`|{}>-CH2@n(1)
+$>
+
+en: (2) 6,7-dichloro-5-(2-chloropropyl)octan-2-yl <br>
+(preferred prefix) <br>
+[not 7-chloro-5-(1,2-dichloropropyl)octan- 2-yl;  <br>
+a complex substituent group]
+ru: (2) 6,7-дихлор-5-(2-хлорпропил)октан-2-ил <br>
+(предпочтительный префикс) <br>
+[не 7-хлор-5-(1,2-дихлорпропил)октан-2-ил; <br>
+&(complex substituent group)]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CHCl@n(6)-CHCl@n(5)-CH@n(4)<|CH2`-CHCl`-CH3>-CH2@n(3)-CH2@n(2)-CH@n(1,90)<`|{}>-CH2
+$>
+
+en: (1) 5,6-dichloro-4-(2-chloropropyl)-1-methylheptyl <br>
+(a complex substituent group) 
+ru: (1) 5,6-дихлор-4-(2-хлорпропил)-1-метилгептил <br>
+(&(complex substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH@n(6)<`|PH2>-CH2@n(5)-CH@n(4)<`|{}>-CH2@n(3)-CH@n(2)<`|PH4>-CH3@n(1)
+$>
+
+en: (2) 2-(λ^{5}-phosphanyl)-6-phosphanylheptan-4-yl <br>
+(preferred prefix) <br>
+(a compound substituent group)
+ru: (2) 2-(λ^{5}-фосфанил)-6-фосфанилгептан-4-ил <br>
+(предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH<`|PH2>-CH2-CH@n(1)<`|{}>-CH2@n(2)-CH@n(3)<`|PH4>-CH3@n(4)
+$>
+
+en: (1) 3-(λ^{5}-phosphanyl)-1-(2-phosphanylpropyl)butyl <br>
+(a complex substituent group) 
+ru: (1) 3-(λ^{5}-фосфанил)-1-(2-фосфанилпропил)бутил <br>
+(&(complex substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2)<`|PH2>-CH@n(3,-90)<|PH2>-CH@n(4)<`|{}>-CH@n(5,-90)<|PH4>-CH2@n(6)-CH3@n(7)
+$>
+
+en: (2) 5-(λ^{5}-phosphanyl)-2,3-bis(phosphanyl)heptan-4-yl <br>
+(preferred prefix) <br>
+(a compound substituent group) 
+ru: (2) 5-(λ^{5}-фосфанил)-2,3-бис(фосфанил)гептан-4-ил <br>
+(предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3)<`|PH2>-CH@n(2,-90)<|PH2>-CH@n(1)<`|{}>-CH<|PH4>-CH2-CH3
+$>
+
+en: (1) 2,3-bis(phosphanyl)-1-[1-(λ^{5}-phosphanyl)propyl]butyl <br>
+(a complex substituent group)
+ru: (1) 2,3-бис(фосфанил)-1-[1-(λ^{5}-фосфанил)пропил]бутил <br>
+(&(complex substituent group))
+
+@End
+
+#P-46.1.12+
+en: The principal chain has the lowest locants for substituents [criterion P-46.1 (l)]. This criterion is applicable 
+to both methods (1) and (2) of P-46.0; both methods generate compound and complex substituent groups. 
+ru: Главная цепь имеет наименьшие локанты для &(substituent|ro*) [критерий P-46.1 (l)]. Этот критерий применим к обоим 
+методам (1) и (2) P-46.0; оба метода генерируют &(compound [substituent group]|*) и &(complex substituent group|*).
+
+en: When applicable, the principal substituent chain has the greatest number of substituent groups with (an) atom(s) of the 
+highest bonding number. When method (2) is applied, numbering is based on low locants for substituents with atoms 
+with the highest bonding number [P-14.4 (h)]. 
+ru: Когда это применимо, основная &(substituent chain) содержит наибольшее количество &(substituent group|ro*) с атомом(ами) 
+с наибольшим &(bonding number|tv). При применении метода (2) нумерация основана на наименьших локантах для &(substituent|ro*) 
+с атомами с наибольшим &(bonding number|tv) [P-14.4 (h)].
+
+@Examples 2 .cells-align-top
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(1,-90)-CH2@n(2,-90)-CH@n(3)<`|{}>-CH@n(4)<`|OH>-CH3@n(5)
+$>
+
+en: (2) 1,4-dihydroxypentan-3-yl (preferred prefix) <br>
+(a compound substituent group) 
+ru: (2) 1,4-дигидроксипентан-3-ил (предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2-CH2-CH@n(1)<`|{}>-CH@n(2)<`|OH>-CH3@n(3)
+$>
+
+en: (1) 2-hydroxy-1-(2-hydroxyethyl)propyl <br>
+(a complex substituent group)  <br>
+[not 3-hydroxy-1-(1- hydroxyethyl)propyl;  <br>
+the locant set ‘1,2’ is lower than ‘1,3‘]
+ru: (1) 2-гидрокси-1-(2-гидроксиэтил)пропил <br>
+(&(complex substituent group)) <br>
+[не 3-гидрокси-1-(1-гидроксиэтил)пропил; <br>
+&(locant set) '1,2' ниже, чем '1,3']
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-CH2@n(1,-90)-CH2@n(2,-90)-CH@n(3)<`|{}>-CH@n(4)<`|CH3>-CH3@n(5)
+$>
+
+en: (2) 1-bromo-4-methylpentan-3-yl (preferred prefix)  <br>
+(a compound substituent group) 
+ru: (2) 1-бром-4-метилпентан-3-ил (предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-CH2-CH2-CH@n(1)<`|{}>-CH@n(2)<`|CH3>-CH3@n(3)
+$>
+
+en: (1) 1-(2-bromoethyl)-2-methylpropyl  <br>
+(a complex substituent group)
+ru: (1) 1-(2-бромэтил)-2-метилпропил <br>
+(&(complex substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH@n(4,90)<`|OH>-CH@n(3)<_(y1.2)CH2`-CH2`-HO>-CH@n(2,90)<`|{}>-CH3@n(1)
+$>
+
+en: (2) 4-hydroxy-3-(2-hydroxyethyl)pentan-2-yl <br>
+(preferred prefix) <br>
+(a complex substituent group)
+ru: (2) 4-гидрокси-3-(2-гидроксиэтил)пентан-2-ил <br>
+(предпочтительный префикс) <br>
+(&(complex substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3,90)<`|OH>-CH@n(2)<_(y1.2)CH2`-CH2`-HO>-CH@n(1,90)<`|{}>-CH3
+$>
+
+en: (1) 3-hydroxy-2-(2-hydroxyethyl)-1-methylbutyl  <br>
+(a complex substituent group)  
+ru: (1) 3-гидрокси-2-(2-гидроксиэтил)-1-метилбутил <br>
+(&(complex substituent group))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH@n(6)<`|PH2>-CH@n(5,-90)<|PH4>-CH@n(4,90)<`|{}>-CH@n(3,-90)<|PH2>-CH@n(2,90)<`|PH4>-CH3@n(1)
+$>
+
+en: (2) 2,5-bis(λ^{5}-phosphanyl)-3,6-bis(phosphanyl)heptan-4-yl <br>
+(preferred prefix) <br>
+[not 3,6-bis(λ^{5}-phosphanyl)-2,5-bis(phospanyl)heptan-4-yl;  <br>
+the locant set ‘2,5’ is lower than ‘3,6’] 
+ru: (2) 2,5-бис(λ^{5}-фосфанил)-3,6-бис(фосфанил)гептан-4-ил <br>
+(предпочтительный префикс) <br>
+[не 3,6-бис(λ^{5}-фосфанил)-2,5-бис(фоспанил)гептан-4-ил; <br>
+&(locant set) «2,5» меньше, чем «3,6»]
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3)<`|PH2>-CH@n(2,-90)<|PH4>-CH@n(1,90)<`|{}>-CH<|PH2>-CH<`|PH4>-CH3
+$>
+
+en: (1) 2-(λ^{5}phosphanyl)-3-phosphanyl-1-[2-(λ^{5}phosphanyl)-1-<br>
+phosphanylpropyl]butyl <br>
+(a complex substituent group)
+ru: (1) 2-(λ^{5}фосфанил)-3-фосфанил-1-[2-(λ^{5}фосфанил)-1-<br>
+фосфанилпропил]бутил <br>
+(&(complex substituent group))
+
+@End
+
+#P-46.1.13+
+en: The principal substituent chain has the lowest locants for the substituent(s) cited earlier in alphanumerical 
+order [criterion P-46.1 (m)]; this criterion is applicable to both methods (1) and (2) in P-46.0; both methods generate 
+compound and complex substituent groups. 
+ru: Основная &(substituent chain) имеет наименьшие локанты для &(substituent|ro)(ей), указанных ранее в алфавитно-цифровом 
+порядке [критерий P-46.1 (m)]; этот критерий применим к обоим методам (1) и (2) в P-46.0; 
+оба метода генерируют &(compound [substituent group]|*) и &(complex substituent group|*).
+
+@Examples 2 .cells-align-top
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CHCl@n(4)-CH@n(3,90)<`|{}>-CHBr@n(2)-CH3@n(1)
+$>
+
+en: (2) 2-bromo-4-chloropentan-3-yl (preferred prefix) <br>
+(a compound substituent group)  <br>
+(not 4-bromo-2-chloropentan-3-yl;  <br>
+‘2-bromo’ is senior to ‘4-bromo’)
+ru: (2) 2-бром-4-хлорпентан-3-ил (предпочтительный префикс) <br>
+(&(compound substituent group)) <br>
+(не 4-бром-2-хлорпентан-3-ил; <br>
+«2-бром» старше, чем «4-бром»)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CHCl-CH@n(1,90)<`|{}>-CHBr@n(2)-CH3@n(3)
+$>
+
+en: (1) 2-bromo-1-(1-chloroethyl)propyl  <br>
+(a complex substituent group)  <br>
+[not 1-(1-bromoethyl)-2-chloropropyl;  <br>
+‘bromo...chloro’ is senior to ‘bromoethyl’] 
+ru: (1) 2-бром-1-(1-хлорэтил)пропил <br>
+(&(complex substituent group)) <br>
+[не 1-(1-бромэтил)-2-хлорпропил; <br>
+«бром...хлор» старше, чем «бромэтил»]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(9)-CH2@n(8)-CH@n(7,90)<_(y%d:-1.2)CH3>-CH2@n(6)-CH@n(5,90)<_(y%d)CH2-CH3>-CH2@n(4)-CH@n(3,90)<`|{}>-CH2@n(2)-CH3@n(1)
+$>
+
+en: (2) 5-ethyl-7-methylnonan-3-yl (preferred prefix) <br>
+(a compound substituent group)
+ru: (2) 5-этил-7-метилнонан-3-ил (предпочтительный префикс) <br>
+(&(compound substituent group))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH2@n(6)-CH@n(5,90)<_(y%d:-1.2)CH3>-CH2@n(4)-CH@n(3,90)<_(y%d)CH2-CH3>-CH2@n(2)-CH@n(1,90)<`|{}>-CH2-CH3
+$>
+
+en: (1) 1,3-diethyl-5-methylheptyl  <br>
+(a compound substituent group) 
+ru: (1) 1,3-диэтил-5-метилгептил <br>
+(&(compound substituent group))
+
+@End
+
+
+#P-46.2
+en: Principal substituent chains in isotopically labeled compounds 
+ru: Главные &(substituent chain|*) в изотопно-меченых соединениях
+
+#P-46.2.1+
+en: The principal substituent chain contains the greater number of isotopically modified atoms.
+ru: Основная &(substituent chain) содержит большее число изотопно модифицированных атомов.
+
+@Examples 2
+
+@cell colspan=2
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)[$M(2)H]-CH@n(3,90)<`|CH3>-CH2@n(2)-CH2@n(1)-{}
+$>
+
+en: (1) 3-methyl<%p%>butyl (preferred prefix)
+ru: (1) 3-метил<%p%>бутил (предпочтительный префикс)
+%p:[4-^{2}H_{1}]
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H$M(18)O-CH2@n(1)-CH@n(2)<`|>-CH2@n(3)-OH
+$>
+
+*: (2)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H$M(18)O-CH2@n(2)-CH@n(1)<`|>-CH2-OH
+$>
+
+*: (1)
+
+@cell colspan=2
+en: (2) 1-<%o%>hydroxy-3-hydroxypropan-2-yl (preferred prefix) <br>
+(1) 2-<%o%>hydroxy-1-(hydroxymethyl)ethyl 
+ru: (2) 1-<%o%>гидрокси-3-гидроксипропан-2-ил (предпочтительный префикс) <br>
+(1) 2-<%o%>гидрокси-1-(гидроксиметил)этил
+%o:(^{18}O)
+
+@End
+
+#P-46.2.2+
+en: The principal substituent chain contains the greater number of nuclides of higher mass number or isotopically 
+modified substituent atoms or groups. 
+ru: Основная &(substituent chain) содержит большее число нуклидов с более высоким массовым числом или изотопно модифицированных 
+замещающих атомов или групп.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+[$M(14)C:c]-CH@n(3)<-CH2@n(2)-CH2@n(1)-{}>`|CH2_(h)[$M(2)H]; #c@n(4)
+$>
+
+en: (1) <%h%>methyl<%c%>butyl (preferred prefix)
+ru: (1) <%h%>метил<%c%>бутил (предпочтительный префикс)
+%h:3-[^{2}H_{1}]
+%c:[4-^{14}C]
+
+@End
+
+#P-46.3
+en: Principal substituent chains in compounds with stereogenic centers
+ru: Главные &(substituent chain|*) в соединениях со стереогенными центрами
+
+#P-46.3.1+
+en: The principal substituent chain contains the greater number of (Z)-double bonds. 
+ru: Основная &(substituent chain) содержит большее число (Z)-двойных связей.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$slope(60)H3C@n(7)-c$L(1.1)</H>@n(6,120,.4)\\l@n(5,180,.4)@iso(E,120,1)<`/H>-C<|@w()><`|CH3>@n(4,45,.5)-<\H>@n(3,0,.4)//l@n(2,60,.4)@iso(Z,120,1)<-H>`\CH3@n(1)
+$>
+
+*: (2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$slope(60)H3C-c$L(1.1)</H>\\l@iso(E,140)<`/H>-C<|@w()><`|CH3>@n(1,45,.5)-<\H>@n(2,0,.4)//l@n(3,60,.4)@iso(Z,120,1)<-H>`\CH3@n(4)
+$>
+
+*: (1)
+
+@cell colspan=2
+en: (2) (2_Z_,5_E_)-4-methylhepta-2,5-dien-4-yl (preferred prefix)  <br>
+(1) (2_Z_)-1-[(1_E_)-prop-1-en-1-yl]-1-methylbut-2-en-1-yl 
+ru: (2) (2_Z_,5_E_)-4-метилгепта-2,5-диен-4-ил (предпочтительный префикс) <br>
+(1) (2_Z_)-1-[(1_E_)-проп-1-ен-1-ил]-1-метилбут-2-ен-1-ил
+
+@End
+
+en: **Note**: The configuration at C-4 (method 2) or C-1 (method 1) cannot be given because the attached substituent is 
+unknown. In the following example, the substitution to the parent hydride ‘siline’ creates a chiral center at C-4 (method 
+2) or C-1 (method 1) and a ‘_R_’ configuration at these positions. 
+ru: **Примечание**: Конфигурация при C-4 (метод 2) или C-1 (метод 1) не может быть указана, поскольку присоединённый 
+&(substituent) неизвестен. В следующем примере замещение &(parent hydride|ro) «силина» создаёт хиральный центр при 
+C-4 (метод 2) или C-1 (метод 1) и конфигурацию «_R_» в этих положениях.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:135,L:.7)<_(a&a,L&L,N0)"&v">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+H3C@n(7)/<`|H>@n(6,90,.4)\\@n(5,140,.4)@iso(E,120,1)<|H>/@iso(R,120,.55)<_(A-110,d+)H3C>@n(4,-160,.45)<_(A-60,w+)Si=/`\\`-`//\>#
+_(A30)<_p4H>@n(3,-80,.4)=@iso(Z)@n(2,-110,.4)<\H>/CH3@n(1)
+$>
+
+*: (2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:135,L:.7)<_(a&a,L&L,N0)"&v">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+H3C/<`|H>\\@iso(E,120,1)<|H>/@iso(R,120,.55)<_(A-110,d+)H3C>@n(1,-160,.45)<_(A-60,w+)Si=/`\\`-`//\>#
+_(A30)<_p4H>@n(2,-80,.4)=@iso(Z)@n(3,-110,.4)<\H>/CH3@n(4)
+$>
+
+*: (1)
+
+@cell colspan=2
+en: (2) [(2_Z_,4_R_,5_E_)-4-methylhepta-2,5-dien-4-yl]siline (PIN) <br>
+(1) {(1_R_,2_Z_)-1-[(1_E_)-prop-1-en-1-yl]-1-methylbut-2-en-1-yl}siline
+ru: (2) [(2_Z_,4_R_,5_E_)-4-метилгепта-2,5-диен-4-ил]силин (PIN) <br>
+(1) {(1_R_,2_Z_)-1-[(1_E_)-проп-1-ен-1-ил]-1-метилбут-2-ен-1-ил}силин
+
+@End
+
+#P-46.3.2+
+en: The principal substituent chain contains the greater number of (_R_)-chirality centers.
+ru: Основная &(substituent chain) содержит большее число центров (_R_)-хиральности.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-135,L:.9)<_(a&a,L&L,N0)"&v">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$L(1.2)CH3@n(9)`-C@n(8,70)@iso(S)<_(A-120,d+)H><_(A-70,w+)Cl>`/CH2@n(7)`-CH2@n(6)`/C@n(5,-110)<_(A180)@w()><-CH3>\#
+CH2@n(4,100)-CH2@n(3)\C@n(2,-40)<_pdH><_(A70,w+)Cl>-CH3@n(1)@iso(R,-100,1.1)
+$>
+
+*: (2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-135,L:.9)<_(a&a,L&L,N0)"&v">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$L(1.2)CH3`-C@iso(S)<_(A-120,d+)H><_(A-70,w+)Cl>`/CH2`-CH2`/C@n(1,-110)<_(A180)@w()><-CH3>\#
+CH2@n(2,100)-CH2@n(3)\C@n(4,-40)<_pdH><_(A70,w+)Cl>-CH3@n(5)@iso(R,-100,1.1)
+$>
+
+*: (1)
+
+@cell colspan=2
+en: (2) (2_R_,8_S_)-2,8-dichloro-5-methylnonan-5-yl (preferred prefix)  <br>
+(1) (4_R_)-4-chloro-1-[(3_S_)-3-chlorobutyl]-1-methylpentyl 
+ru: (2) (2_R_,8_S_)-2,8-дихлор-5-метилнонан-5-ил (предпочтительный префикс) <br>
+(1) (4_R_)-4-хлор-1-[(3_S_)-3-хлорбутил]-1-метилпентил
+
+@End
+
+en: **Note**: The configuration at C-5 (method 2) or C-1 (method 1) cannot be given because the attached substituent is 
+unknown. In the following example, the substitution into the structure ‘trimethylsilane’ creates a chirality center at C-5 
+(method 2) or C-1 (method 1) and an ‘_s_’ configuration at these positions. 
+ru: **Примечание**: Конфигурация при атоме C-5 (метод 2) или C-1 (метод 1) не может быть указана, поскольку присоединённый 
+&(substituent) неизвестен. В следующем примере замещение в структуре «триметилсилан» создаёт центр хиральности при атоме 
+C-5 (метод 2) или C-1 (метод 1) и конфигурацию «_s_» в этих положениях.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-135,L:.9)<_(a&a,L&L,N0)"&v">@;
+$L(1.2)CH3@n(9)`-C@n(8,70)@iso(S)<_(A-120,d+)H><_(A-70,w+)Cl>`/CH2@n(7)`-CH2@n(6)`/C@n(5,-100)<_(A150,d+)H3C><_(A-150,w+)Si_(h-)(H3C)3>@iso(s,60,1.1)\#
+CH2@n(4,100)-CH2@n(3)\C@n(2,-40)<_pdH><_(A70,w+)Cl>-CH3@n(1)@iso(R,-100,1.1)
+$>
+
+*: (2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-135,L:.9)<_(a&a,L&L,N0)"&v">@;
+$L(1.2)CH3`-C@iso(S)<_(A-120,d+)H><_(A-70,w+)Cl>`/CH2`-CH2`/C@n(1,-100)<_(A150,d+)H3C><_(A-150,w+)Si_(h-)(H3C)3>@iso(s,60,1.1)\#
+CH2@n(2,100)-CH2@n(3)\C@n(4,-40)<_pdH><_(A70,w+)Cl>-CH3@n(5)@iso(R,-100,1.1)
+$>
+
+*: (1)
+
+@cell colspan=2
+en: (2) [(2_R_,5_s_,8_S_)-2,8-dichloro-5-methylnonan-5-yl]trimethylsilane (PIN)  <br>
+(1) {(1_s_,4_R_)-4-chloro-1-[(3_S_)-3-chlorobutyl]-1-methylpentyl}trimethylsilane
+ru: (2) [(2_R_,5_s_,8_S_)-2,8-дихлор-5-метилнонан-5-ил]триметилсилан (PIN) <br>
+(1) {(1_s_,4_R_)-4-хлор-1-[(3_S_)-3-хлорбутил]-1-метилпентил}триметилсилан
+
+@End

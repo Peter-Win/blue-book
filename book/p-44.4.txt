@@ -489,7 +489,7 @@ ru: 1λ^{4},3-тиафосфолан (PIN)
 
 @cell colspan=3
 en: [two nonstandard bonding atoms greater than one] 
-ru: [два атома с нестандартными связями больше одного]
+ru: [два &(nonstandard bonding atom|2) больше одного]
 
 @cell .top
 (3)

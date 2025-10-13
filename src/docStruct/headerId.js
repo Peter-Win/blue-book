@@ -25,7 +25,7 @@
 const rxHeaderId = /(^|\s)P-(\d+|1#)(\.\d+)*/;
 
 // Могут быть ссылки с подпунктами P-14.4 (g)
-const rxPartReference = /(^|\s|\()P-(\d+|1#)(\.\d+)*(\s\([a-z\d]\))?/;
+const rxPartReference = /(^|\s|\(|\[)P-(\d+|1#)(\.\d+)*(\s\([a-z\d]\))?/;
 
 const splitHeaderId = (headerId) => {
   const parts = headerId.slice(2).split(".");

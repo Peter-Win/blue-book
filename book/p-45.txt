@@ -1013,18 +1013,476 @@ ru: 3-(λ^{5}-фосфанил)-2-(фосфанилметил)пропанова
 [не 3-фосфанил-2-(λ^{5}-фосфанилметил)пропановая кислота; <br>
 &(parent structure) PIN содержит заместитель с наибольшим &(bonding number|tv), «λ^{5}» > «λ^{3}»]
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2P-PH-CH2-CH2-CH@n(2)<-CN@n(1)>|CH2@n(3,90)-CH2@n(4,90)-PH-PH4
+$>
+
+en: 4-(2λ^{5}-diphosphan-1-yl)-2-(2-diphosphanylethyl)butanenitrile (PIN)  <br>
+[not 4-diphosphanyl-2-[2-(2λ^{5}-diphosphan-1-yl)ethyl]butanenitrile;  <br>
+the PIN parent structure contains the substituent group having the highest bonding number, ‘λ^{5}’ > ‘λ^{3}’]
+ru: 4-(2λ^{5}-дифосфан-1-ил)-2-(2-дифосфанилэтил)бутаннитрил (PIN) <br>
+[не 4-дифосфанил-2-[2-(2λ^{5}-дифосфан-1-ил)этил]бутаннитрил; <br>
+&(parent structure) PIN содержит заместитель с наибольшим &(bonding number|tv), «λ^{5}» > «λ^{3}»]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H5S-CH2@n(3)-CH@n(2)<|CH2-SH3>-COOH@n(1)
+$>
+
+en:  3-(λ^{6}-sulfanyl)-2-(λ^{4}-sulfanylmethyl)propanoic acid (PIN)  <br>
+[not 3-(λ^{4}-sulfanyl)-2-(λ^{6}-sulfanylmethyl)propanoic acid;  <br>
+the PIN parent structure contains the substituent group having the highest bonding number, ‘λ^{6}’ > ‘λ^{4}’]
+ru: 3-(λ^{6}-сульфанил)-2-(λ^{4}-сульфанилметил)пропановая кислота (PIN) <br>
+[не 3-(λ^{4}-сульфанил)-2-(λ^{6}-сульфанилметил)пропановая кислота; <br>
+&(parent structure) PIN содержит заместитель с наибольшим &(bonding number|tv), «λ^{6}» > «λ^{4}»]
+
 @End
 
-#P-45.3.2
+%P-45.3.2
 en: the lower locant set for substituent group(s) with the higher bonding number cited as prefixes. 
 ru: меньший &(locant set) для &(substituent group|ro*) с более высоким &(bonding number|tv), &(cited|ro*) в качестве префиксов.
+
+#P-45.3.2+
+en: The preferred IUPAC name has the lower locant set for substituent group(s) with the higher bonding 
+number(s) cited as prefixes.
+ru: Предпочтительное название ИЮПАК имеет меньший локант, установленный для &(substituent group|ro)(групп), с более высоким 
+&(bonding number|tv), &(cited|ro) в качестве префикса.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H4P-PH-CH2-CH2-CH2-CH@n(2)<`|COOH@n(1,-90)>-CH2@n(3)-CH2@n(4)-CH2@n(5)-PH3-PH2
+$>
+
+en: 5-(1λ^{5}-diphospan-1-yl)-2-[3-(2λ^{5}-diphospan-1-yl)propyl]pentanoic acid (PIN) <br>
+[not 5-(2λ^{5}-diphospan-1-yl)-2-[3-(1λ^{5}-diphospan-1-yl)propyl]pentanoic acid]  <br>
+The locant ‘1λ^{5}’ for the nonstandard bonding number directly bonded to the parent structure is lower than ‘2λ^{5}’. 
+ru: 5-(1λ^{5}-дифоспан-1-ил)-2-[3-(2λ^{5}-дифоспан-1-ил)пропил]пентановая кислота (PIN) <br>
+[не 5-(2λ^{5}-дифоспан-1-ил)-2-[3-(1λ^{5}-дифоспан-1-ил)пропил]пентановая кислота] <br>
+Локант «1λ^{5}» для нестандартного &(bonding number|ro), непосредственно связанных с &(parent structure|tv), 
+меньше, чем «2λ^{5}».
+
+@End
 
 
 #P-45.4
 en: Criteria related only to isotopic modification of substituents 
+ru: Критерии, относящиеся только к изотопной модификации заместителей
+
+en: The following criteria are relative only to substituents with isotopic modification applied in turn, until a decision is 
+reached, earlier criteria having been satisfied. 
+ru: Следующие критерии относятся только к заместителям с изотопной модификацией. Они применяемым поочередно, до тех пор, 
+пока не будет принято решение, при этом предыдущие критерии должны быть удовлетворены.
+
+#P-45.4.1+
+en: The preferred IUPAC name is based on the senior parent structure that has the lowest locant(s) for isotopically 
+modified substituent groups.
+ru: Предпочтительное название ИЮПАК основано на старшей &(parent structure|pr), которая имеет наименьшее(ие) положение(я) 
+для изотопно-модифицированных &(substituent group|ro*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-CH<`|$M(81)Br>-CH2-O-CH2@n(1)-CH@n(2)<`|Br>-CH2@n(3)-CH2@n(4)-CH3@n(5)
+$>
+
+en: 2-bromo-1-{[2-<%b%>bromopentyl]oxy}pentane (PIN) <br>
+[not 2-<%b%>bromo-1-[(2-bromopentyl)oxy]pentane]  <br>
+The isotopically modified substituent for the PIN is attached at ‘1’ which is lower than ‘2’. 
+ru: 2-бром-1-{[2-<%b%>бромпентил]окси}пентан (PIN) <br>
+[не 2-<%b%>бром-1-[(2-бромпентил)окси]пентан] <br>
+Изотопно-модифицированный заместитель в PIN присоединён в положении «1», которое меньше «2».
+%b:(^{81}Br)
+
+@End
+
+#P-45.4.2+
+en: The preferred IUPAC name is based on the senior parent structure that has the lowest locant(s) for nuclides of 
+higher atomic number. 
+ru: Предпочтительное название ИЮПАК основано на старшей &(parent structure|pr), которая имеет наименьший(ие) локант(ы) 
+для нуклидов с более высоким атомным числом.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-$M(18)O-CH2-CH2-NH-CH2@n(1)-CH2@n(2)-O-$M(13)CH3
+$>
+
+en: 2-(^{13}C)methoxy-_N_-[2-(^{18}O)methoxyethyl]ethan-1-amine (PIN) <br>
+[not 2-(^{18}O)methoxy-_N_-[2-(^{13}C)methoxyethyl]ethan-1-amine]  <br>
+^{18}O > ^{13}C; the ^{18}O isotopically modified substituent for the PIN is attached at ‘_N_’ which is lower than ‘2’. 
+ru: 2-(^{13}C)метокси-_N_-[2-(^{18}O)метоксиэтил]этан-1-амин (PIN) <br>
+[не 2-(^{18}O)метокси-_N_-[2-(^{13}C)метоксиэтил]этан-1-амин] <br>
+^{18}O > ^{13}C; изотопно модифицированный заместитель ^{18}O в PIN присоединён к атому «_N_», который меньше «2».
+
+@End
+
+#P-45.4.3+
+en: The preferred IUPAC name is based on the senior parent structure that has the lowest locant(s) for nuclides of 
+higher mass number.
+ru: Предпочтительное название ИЮПАК основано на старшей &(parent structure|pr), которая имеет наименьший(ие) локант(ы) 
+для нуклидов с большим массовым числом.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-CH<`|CH2`-$M(13)CH3>-CH2-CH@n(2)<_(y-1.2)CH2@n(1,-90)-OH>-CH2@n(3)-CH@n(4)<`|CH2-$M(14)CH3>-CH2@n(5)-CH2@n(6)-CH3@n(7)
+$>
+
+en: 4-[2-^{13}C]ethyl-2-(2-[2-^{14}C]ethylpentyl)heptan-1-ol (PIN) <br>
+[not 4-[2-^{14}C]ethyl-2-(2-[2-^{13}C]ethylpentyl)heptan-1-ol <br>
+^{14}C > ^{13}C; the ^{14}C isotopically modified substituent for the PIN is attached at ‘2’ which is lower than ‘4’]
+ru: 4-[2-^{13}C]этил-2-(2-[2-^{14}C]этилпентил)гептан-1-ол (PIN) <br>
+[не 4-[2-^{14}C]этил-2-(2-[2-^{13}C]этилпентил)гептан-1-ол <br>
+^{14}C > ^{13}C; изотопно модифицированный заместитель ^{14}C в PIN присоединён в положении «2», что меньше «4»]
+
+@End
+
 
 #P-45.5
 en: Criteria related to alphanumerical order of names 
+ru: Критерии, связанные с алфавитно-цифровым порядком имён
+
+en: The preferred IUPAC name is the name that is earlier in alphanumerical order (see P-14.5). Alphabetic letters are 
+considered first in the order that they appear in the name; all Roman letters are considered before any italic letters, 
+unless the latter are used as locants or are a part of a compound or composite locant, for example, ‘N’ and ‘4a’. Then, if 
+still there is a choice, numerical locants are considered in the order of their appearance in the name.
+ru: Предпочтительным наименованием по ИЮПАК является наименование, которое стоит раньше в алфавитно-цифровом 
+порядке (см. P-14.5). Буквы алфавита рассматриваются первыми в порядке их появления в наименовании; все латинские 
+буквы рассматриваются перед курсивными, если только последние не используются в качестве локантов или не являются 
+частью составного или составного локанта, например, «_N_» и «4a». Затем, если всё ещё есть возможность выбора, 
+числовые локанты рассматриваются в порядке их появления в наименовании.
+
+@Examples 2 .cells-align-top
+
+@cell
+(1)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br|\|@n(3,30)`//@n(4,30)<|Br>`\`//`\`||/\\<|>/@n(1,-30)\@n(2,30)_(A-%a:35,L%d:1.3)CH2-O-CH2-CH2_(A%a,L%d)/\//\||`/`\\<`|>`/<|Cl>@n(4,150)`\\@n(3,150)`|@n(2,150)/@n(1,-150)`|Br
+$>
+
+en: 1-bromo-4-chloro-2-{2-[(1,4-dibromonaphthalen-2-yl)methoxy]ethyl}naphthalene (PIN) <br>
+[not 1,4-dibromo-2-{[2-(1-bromo-4-chloronaphthalen-2-yl)ethoxy]methyl}naphthalene; <br>
+in both names the locant set is ‘1,2,4’, and the locants appear in the name in the same order set ‘1,4,2’ so no <br>
+decision can be made by P-45.2.2 or P-45.2.3; but ‘bromo’ in the PIN is earlier alphabetically than ‘dibromo’]
+ru: 1-бром-4-хлор-2-{2-[(1,4-дибромнафталин-2-ил)метокси]этил}нафталин (PIN) <br>
+[не 1,4-дибром-2-{[2-(1-бром-4-хлорнафталин-2-ил)этокси]метил}нафталин; <br>
+в обоих названиях &(locant set) — «1,2,4», и локанты появляются в названии в том же порядке — «1,4,2», поэтому <br>
+решение по P-45.2.2 или P-45.2.3 принять невозможно; но «бром» в PIN стоит раньше по алфавиту, чем «дибром»]
+
+@cell
+(2)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/<\Br>@n(2,120)`=`\@n(4,120)<`-Br>//-\\@n(1,60)-N<_(y-.5)H>-@n(1,120)\<`/Br>@n(2,60)=/@n(4,60)<-Cl>`\\`-`//
+$>
+
+en: 2-bromo-4-chloro-N-(2,4-dibromophenyl)aniline (PIN) <br>
+[not 2,4-dibromo-N-(2-bromo-4-chlorophenyl)aniline;  <br>
+‘bromo’ in the PIN is earlier alphabetically than ‘dibromo’] 
+ru: 2-бром-4-хлор-N-(2,4-дибромфенил)анилин (PIN) <br>
+[не 2,4-дибром-N-(2-бром-4-хлорфенил)анилин; <br>
+«бром» в PIN стоит раньше по алфавиту, чем «дибром»]
+
+@cell
+(3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+@:cc(b,h:2)CH&h@bt(&b)_(h){}@; @:cy(b,l:4,r:1)/=\@btc(&b)@n(&r,-170)<`//`-`\\@n(&l,-10)>@;
+$L(%L:1)@cy(7,l:)-@cc(6)-@cy(5)-@cc(4)-@cy(3)-CH@bt(2)#
+<|@n(2,90)\</Br>@n(3,150)||<\Br>@n(4,-150)`/`\r`/||\//`|`\`|@n(1,30)/>#
+_(x1.4)`|<`\Br>@n(3,30)//<`|Cl>@n(4,80)\/\\@btc(1)|`//`\`|lc|`/@n(1,-90)`\\@n(2,-40)
+$>
+
+en: 1^{3}-bromo-1^{4}-chloro-2-(3,4-dibromonaphthalen-2-yl)-1(2)-naphthalena-3,5(1,4),7(1)-tribenzenaheptaphane (PIN)  <br>
+[not 1^{3},1^{4}-dibromo-2-(3-bromo-4-chloronaphthalen-2-yl)-1(2)-naphthalena-3,5(1,4),7(1)-tribenzenaheptaphane;  <br>
+‘bromo’ in the PIN is earlier alphabetically than ‘dibromo’.] 
+ru: 1^{3}-бром-1^{4}-хлор-2-(3,4-дибромнафталин-2-ил)-1(2)-нафталин-3,5(1,4),7(1)-трибензолагепта&(phane) (PIN) <br>
+[не 1^{3},1^{4}-дибром-2-(3-бром-4-хлорнафталин-2-ил)-1(2)-нафталин-3,5(1,4),7(1)-трибензолагепта&(phane); <br>
+«бром» в PIN стоит раньше по алфавиту, чем «дибром».]
+
+@cell
+(4)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH@n(6)<|O2`N>-CH@n(5)<|NO2>-CH@n(4,90)<-CH2@n(3,90)-CH2@n(2,90)-COOH@n(1,90)>`|CH<`|F>-CH<`|F>-CH3
+$>
+
+en: 4-(1,2-difluoropropyl)-5,6-dinitroheptanoic acid (PIN)  <br>
+[not 4-(1,2-dinitropropyl)-5,6-difluoroheptanoic acid;  <br>
+‘difluoro’ in the PIN is earlier alphabetically than ‘dinitro’] 
+ru: 4-(1,2-дифторпропил)-5,6-динитрогептановая кислота (PIN) <br>
+[не 4-(1,2-динитропропил)-5,6-дифторгептановая кислота; <br>
+«дифтор» в PIN стоит раньше по алфавиту, чем «динитро» (в английском варианте)]
+
+@cell
+(5)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH@n(5,-90)<_(y1.2)$M(81)Br>-CH@n(4,-90)<|NO2>-CH@n(3)<-CH2@n(2)-COOH@n(1)>`|CH<`|H3C>-CH<_(y-1.2)$M(81)Br>-CH3
+$>
+
+en: 5-<%b%>bromo-3-[3-<%b%>bromobutan-2-yl]-4-nitrohexanoic acid (PIN)  <br>
+[not 5-<%b%>bromo-3-[2-<%b%>bromo-1-nitropropyl]-4-methylhexanoic acid;  <br>
+‘bromo-bromo-butanyl’ is lower alphanumerically than ‘bromo-bromo-nitro’]  <br>
+[**Note**: The ‘B’ of the element symbol ‘Br’ is not a factor in the alphabetization] 
+ru: 5-<%b%>бром-3-[3-<%b%>бромбутан-2-ил]-4-нитрогексановая кислота (PIN) <br>
+[не 5-<%b%>бром-3-[2-<%b%>бром-1-нитропропил]-4-метилгексановая кислота; <br>
+«бром-бромбутанил» является меньшим буквенно-цифровым значением, чем «бром-бром-нитро»] <br>
+[**Примечание**: буква «B» в символе элемента «Br» не влияет на алфавитный порядок]
+%b:(^{81}Br)
+
+@End
+
+
 
 #P-45.6
 en: Criteria related only to configuration 
+ru: Критерии, относящиеся только к конфигурации
+
+#P-45.6.1
+en: Introduction
+ru: Введение
+
+en: This section is concerned only with the main principles for specification of configuration in names of organic 
+compounds. The spatial structure of an organic compound is systematically indicated by one or more affixes added to a 
+name that does not itself prescribe configuration; such affixes are generally called ‘stereodescriptors’ and do not change 
+the preferred IUPAC name of a compound established by the principles of nomenclature described in other sections of 
+these recommendations (see P-44 and P-45), under the condition that no choice has yet been encountered during the 
+construction of the preferred IUPAC name. When there is a choice, the preferred IUPAC name must be constructed in 
+conformity with the rules for choosing the principal chain or the senior ring or ring system and also with the priority of 
+the stereodescriptors. Thus, stereoisomers, such as enantiomers and _cis/trans_ isomers, have names, substitutive or 
+multiplicative, that differ only in the stereodescriptors used. Stereodescriptors describing preferred IUPAC names are 
+all Cahn-Ingold-Prelog CIP descriptors, such as _E_, _Z_, _R_, _S_, _r_ and _s_ discussed and illustrated in Chapter P-9. 
+ru: В этом разделе рассматриваются только основные принципы указания конфигурации в названиях органических соединений. 
+Пространственная структура органического соединения систематически указывается одним или несколькими аффиксами, 
+добавляемыми к названию, которое само по себе не определяет конфигурацию; такие аффиксы обычно называются 
+«стереодескрипторами» и не изменяют предпочтительное название ИЮПАК соединения, установленное принципами номенклатуры, 
+описанными в других разделах настоящих рекомендаций (см. стр. 44 и стр. 45), при условии, что при построении 
+предпочтительного названия ИЮПАК выбор ещё не был сделан. При наличии выбора предпочтительное название ИЮПАК должно 
+быть построено в соответствии с правилами выбора главной цепи или старшего кольца или кольцевой системы, а также 
+с учётом приоритета стереодескрипторов. Таким образом, стереоизомеры, такие как энантиомеры и _цис/транс_-изомеры, 
+имеют названия, заместительные или мультипликативные, которые отличаются только используемыми стереодескрипторами. 
+Стереодескрипторы, описывающие предпочтительные названия ИЮПАК, представляют собой дескрипторы CIP Кана-Ингольда-Прелога, 
+такие как _E_, _Z_, _R_, _S_, _r_ и _s_, обсуждаемые и иллюстрируемые в главе P-9.
+
+#P-45.6.2+
+en: General principles. The choice of a parent structure based on the number and location of multiple bonds and 
+double bonds (see P-44.4.1.1, P-44.4.1.2, and P-44.4.1.12) is not configuration dependent. As an example, the 
+configuration of the double bond may be Z or E in the following alkene that is named according to P-31.1. The names 
+with and without stereodescriptors are the same, i.e. butene. Preferred IUPAC names are generated from the preferred 
+IUPAC name of the alkene when stereodescriptors are correct. 
+ru: Общие принципы. Выбор &(parent structure|ro), основанный на числе и расположении кратных и двойных связей 
+(см. P-44.4.1.1, P-44.4.1.2 и P-44.4.1.12), не зависит от конфигурации. Например, конфигурация двойной связи может 
+быть _Z_ или _E_ в следующем алкене, названном согласно P-31.1. Названия со стереодескрипторами и без них одинаковы, 
+например, бутен. Предпочтительные названия ИЮПАК формируются на основе предпочтительного названия ИЮПАК алкена 
+при условии правильности стереодескрипторов.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2)=CH-CH3
+$>
+
+en: but-2-ene (PIN)
+ru: бут-2-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(1,-90)\<`/H>@n(2,-70,.45)=<\H>/CH3
+$>
+
+en: (2_Z_)-but-2-ene (PIN) 
+ru: (2_Z_)-бут-2-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(1,-90)\<`/H>@n(2,-70,.45)=</H>\CH3
+$>
+
+en: (2_E_)-but-2-ene (PIN) 
+ru: (2_E_)-бут-2-ен (PIN)
+
+@End
+
+en: In contrast, multiplicative names (see P-45.1 and P-15.3) are configuration dependent as shown below. Two different 
+procedures are required: a multiplicative name to describe identical configurations (‘E’ or ‘Z’; or ‘R’ or ‘S’) in identical 
+units and a substitutive name to describe different configurations (‘E’ and ‘Z’ or ‘R’ and ‘S’) as shown by the first 
+example below. 
+ru: Напротив, мультипликативные имена (см. P-45.1 и P-15.3) зависят от конфигурации, как показано ниже. 
+Для этого требуются две различные процедуры: мультипликативное имя для описания идентичных конфигураций 
+(«_E_» или «_Z_»; или «_R_» или «_S_») в идентичных единицах измерения и замещающее имя для описания различных 
+конфигураций («_E_» и «_Z_» или «_R_» и «_S_»), как показано в первом примере ниже.
+
+@Examples
+en: Example 1:
+ru: Пример 1:
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q8@n(1,80)<_(a%n8:67.5)S>_qq8_q8_q8_q8_q8_q8;
+`-_p8<_(a-%n8)#S>@n(1',110)_pp8_p8_p8_p8_p8_p8
+$>
+
+en: (1_E_,1′_E_)-1,1′-sulfanediyldi(cyclooct-1-ene) (PIN)  <br>
+(a multiplicative name)
+ru: (1_E_,1'_E_)-1,1'-сульфандиилди(циклоокт-1-ен) (PIN) <br>
+(мультипликативное имя)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+|_p8_p8_p8_p8_p8=@iso(Z)_p8@iso(S,110,.5)<_(a-97,w+)H>_(a-30,d+)CH2-CH2:a;
+-0_p_p_p<_(a-84,d+)#a><_(a-14,w+)H>@iso(R,120,.5)_p-0_q_q_q_qq@iso(E,140)
+$>
+
+en: (1_Z_,3_S_)-3-{2-[(1_R_,2_E_)-cyclooct-2-en-1-yl]ethyl}cyclooct-1-ene (PIN)  <br>
+(1-_cis_,3_S_)-3-{2-[(1_R_,2-_trans_)-cyclooct-2-en-1-yl]ethyl}cyclooct-1-ene  <br>
+(substitutive names; for the priority of ‘_Z_’ > ‘_E_’ > ‘_R_’ > ‘_S_’, see P-92) 
+ru: (1_Z_,3_S_)-3-{2-[(1_R_,2_E_)-циклоокт-2-ен-1-ил]этил}циклоокт-1-ен (PIN) <br>
+(1-_цис_,3_S_)-3-{2-[(1_R_,2-_транс_)-циклоокт-2-ен-1-ил]этил}циклоокт-1-ен <br>
+(замещающие названия; приоритет «_Z_» > «_E_» > «_R_» > «_S_» см. P-92)
+
+@End
+
+@Examples
+en: Example 2:
+ru: Пример 2:
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+H3C\C<_(y.5)H2>/<_q4dH><_(a-30,w+)CH3>@iso(R,-60,%rh:1.3)\/\\|<`//`\`||>@n(1,90)\S/@n(1',90)`|//\<||`/`\\>/<_q4dH3C><_(a-30,w+)H>@iso(R,-60,%rh)\C<_(y.5)H2>/CH3
+$>
+
+en: 1,1′-sulfanediylbis{4-[(2_R_)-butan-2-yl]benzene} (PIN)  <br>
+(a multiplicative name)
+ru: 1,1′-сульфандиилбис{4-[(2_R_)-бутан-2-ил]бензол} (PIN) <br>
+(мультипликативное название)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+H3C\C<_(y.5)H2>/<_q4dH><_(a-30,w+)CH3>@iso(R,-60,%rh:1.3)\@n(1,-90)/\\|<`//`\`||>@n(4,-30)\S/`|//\<||`/`\\>/<_q4dH><_(a-30,w+)CH3>@iso(S,-60,%rh)\C<_(y.5)H2>/CH3
+$>
+
+en: 1-[(2_R_)-butan-2-yl]-4-({4-[(2_S_)-butan-2-yl]phenyl}sulfanyl)benzene (PIN)  <br>
+(a substitutive name; a multiplicative name is not allowed)  <br>
+[not 1-[(2_S_)-butan-2-yl]-4-({4-[(2_R_)-butan-2-yl]phenyl}sulfanyl)benzene;  <br>
+also a substitutive name but since the alphabetic characters and locants  <br>
+(ignoring the configuration symbols)  <br>
+are identical the configurational symbols are compared and ‘_R_’ precedes ‘_S_’]
+ru: 1-[(2_R_)-бутан-2-ил]-4-({4-[(2_S_)-бутан-2-ил]фенил}сульфанил)бензол (PIN) <br>
+(замещающее название; мультипликативное название не допускается) <br>
+[не 1-[(2_S_)-бутан-2-ил]-4-({4-[(2_R_)-бутан-2-ил]фенил}сульфанил)бензол; <br>
+тоже замещающее название, но поскольку буквенные символы и локанты <br>
+(без учёта символов конфигурации) идентичны, <br>
+сравниваются символы конфигурации, и «_R_» предшествует «_S_»]
+
+@End
+
+@Examples
+en: Example 3:
+ru: Пример 3:
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+$slope(30)CH3-CH<`|Cl>\||<`/CH<|Cl>`-CH3>@n(4,-20)\//`|@n(1,140)<`\\`/@n(3,20)>/O\@n(1,40)//\@n(3,160)</CH<`|Cl>-CH3>||@n(4,-160)<`/`\\`|>\CH<|Cl>-CH3
+$>
+
+en: 1,1′-oxybis[3,4-bis(1-chloroethyl)benzene] (PIN) 
+ru: 1,1′-оксибис[3,4-бис(1-хлорэтил)бензол] (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+|`//`\@n(4,-20)<`/@:u(l:CH3,lw,r:CH3,rw,m:Cl,ms,i:S,is,ia:20,il:1.5)<_q6&lw&l><_p6&rw&r><_(a&ms20,d+,L1.1)&m>@iso(&i,&is&ia,&il)@(r:H,rw:w,is:-,il:%l:1.2)>#
+`||@n(3,20)<`\@u(l:Cl,lw:w,ms:-,m:H,il:%l)>/\\@n(1,140)/O\@n(1,40)//\@n(3,160)</@u(r:Cl,rw:w,is:-,i:R,ia:5,m:H)>||@n(4,-160)<`/`\\`|>\@u(l:H,lw:w,ms:-,i:R,ia:5)
+$>
+// для этой формулы ошибок не указано, хотя не очень понятно, почему в левом кольце отличается нумерация
+
+en: 4-{3,4-bis[(1_R_)-1-chloroethyl]phenoxy}-1,2-bis[(1_S_)-1-chloroethyl]benzene (PIN)  <br>
+[not 4-{3,4-bis[(1_S_)-1-chloroethyl]phenoxy}-1,2-bis[(1_R_)-1-chloroethyl]benzene;  <br>
+‘_R_’ precedes ‘_S_’] 
+ru: 4-{3,4-бис[(1_R_)-1-хлорэтил]фенокси}-1,2-бис[(1_S_)-1-хлорэтил]бензол (PIN) <br>
+[не 4-{3,4-бис[(1_S_)-1-хлорэтил]фенокси}-1,2-бис[(1_R_)-1-хлорэтил]бензол; <br>
+‘_R_’ предшествует ‘_S_’]
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+@:u(l:CH3,lw,r:CH3,rw,m:Cl,ms,i:S,is,ia:20,il:1.5)<_q6&lw&l><_p6&rw&r><_(a&ms20,d+,L1.1)&m>@iso(&i,&is&ia,&il)@;
+|`//`\@n(1,-20)<`/@u(r:H,rw:w,is:-,il:%l:1.2)>`||@n(2,20)<`\@u(l:Cl,lw:w,ms:-,m:H,il:%l)>/\\@n(4,140)/O#
+\@n(1,40)//\@n(3,160)</@u(r:Cl,rw:w,is:-,i:R,ia:5,m:H)>||@n(4,-160)<`/`\\`|>\@u(l:Cl,m:H,lw:w,ms:-,i:S,ia:5)
+$>
+
+en: 1,2-bis[(1_S_)-1-chloroethyl]-4-{3-[(1_R_)-1-chloroethyl]-4-[(1_S_)-1-chloroethyl]phenoxy}benzene (PIN)  <br>
+(a substitutive name; a multiplicative name is not allowed)  <br>
+[not 4-{3,4-bis[(1_S_)-1-chloroethyl]phenoxy}-2-[(1_R_)-1-chloroethyl]-1-[(1_S_)-1-chloroethyl]benzene;  <br>
+‘1,2,4’ is senior to ‘4,2,1’ (see P-45.2.3)] 
+ru: 1,2-бис[(1_S_)-1-хлорэтил]-4-{3-[(1_R_)-1-хлорэтил]-4-[(1_S_)-1-хлорэтил]фенокси}бензол (PIN) <br>
+(замещающее название; мультипликативное название не допускается) <br>
+[не 4-{3,4-бис[(1_S_)-1-хлорэтил]фенокси}-2-[(1_R_)-1-хлорэтил]-1-[(1_S_)-1-хлорэтил]бензол; <br>
+«1,2,4» старше «4,2,1» (см. P-45.2.3)]
+
+@End
+
+#P-45.6.3+
+en: When names based on alphanumerical order and isotopic descriptors are the same, further choice depends on 
+the alphabetic order of the stereochemical descriptors ‘_R_’ and ‘_S_’. 
+ru: Если названия, основанные на алфавитно-цифровом порядке и изотопных дескрипторах, одинаковы, дальнейший выбор 
+зависит от алфавитного порядка стереохимических дескрипторов «_R_» и «_S_».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:iso(v,a:-130,L:.7)<_(a&a,L&L,N0)"&v">@;
+$L(1.1)-_q_q@n(1,90)<_q_q><_(A-40)C<`|CH3><_(A30,w+,L1.2)Br><_(a15,L1.3,d+)H>@iso(R,40,1.5)>#
+_(A-140)C<`|CH3><_(A150,w+,L1.2)Br><_(a-10,d+,L1.3)H>@iso(S,-40,1.5)
+$>
+
+en: 1-[(1_R_)-1-bromoethyl]-1-[(1_S_)-1-bromoethyl]cyclopentane (PIN)  <br>
+[not 1-[(1_S_)-1-bromoethyl]-1-[(1_R_)-1-bromoethyl]cyclopentane;  <br>
+‘_R_’ precedes ‘_S_’] 
+ru: 1-[(1_R_)-1-бромэтил]-1-[(1_S_)-1-бромэтил]циклопентан (PIN) <br>
+[не 1-[(1_S_)-1-бромэтил]-1-[(1_R_)-1-бромэтил]циклопентан; <br>
+‘_R_’ предшествует ‘_S_’]
+
+@End
