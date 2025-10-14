@@ -555,48 +555,444 @@ ru: 3,3′-{оксибис[(1-хлорэтан-2,1-диил)]окси}ди(пр�
 3-{2-[2-хлор-2-(3-гидроксипропокси)этокси]-1-хлорэтокси}пропан-1-ол <br>
 (&(substitutive name))
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-P<-CH2@n(2'',-70,.57)-COOH>_(y-1.4)CH2@n(2',-80,.56)-COOH
+$>
+
+en: 2,2′,2′′-phosphanetriyltriacetic acid (PIN, a multiplicative name)  <br>
+[bis(carboxymethyl)phosphanyl]acetic acid (a substitutive name) 
+ru: 2,2′,2′′-фосфантриилтриуксусная кислота (PIN, &(multiplicative name)) <br>
+[бис(карбоксиметил)фосфанил]уксусная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-O-CH2-CH2-O-CH2@n(2',-80)-COOH
+$>
+
+en: 2,2′-[ethane-1,2-diylbis(oxy)]diacetic acid (PIN, a multiplicative name)  <br>
+[2-(carboxymethoxy)ethoxy]acetic acid (a substitutive name)
+ru: 2,2′-[этан-1,2-диилбис(окси)]диуксусная кислота (PIN, &(multiplicative name)) <br>
+[2-(карбоксиметокси)этокси]уксусная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(2)-O-CH2-CH2-O-CH2-CH2-O-CH2@n(2',-80)-COOH
+$>
+
+en: 2,2′-[oxybis(ethane-2,1-diyloxy)]diacetic acid (PIN, a multiplicative name)  <br>
+{2-[2-(carboxymethoxy)ethoxy]ethoxy}acetic acid (a substitutive name)
+ru: 2,2′-[оксибис(этан-2,1-диилокси)]диуксусная кислота (PIN, &(multiplicative name)) <br>
+{2-[2-(карбоксиметокси)этокси]этокси}уксусная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-O@n(3)-CH2@n(4)-CH2@n(5)-O@n(6)-CH2@n(7)-CH2@n(8)-O@n(9)-CH2@n(10)-CH2@n(11)-O@n(12)-CH2@n(13)-COOH@n(14)
+$>
+
+en: 3,6,9,12-tetraoxatetradecane-1,14-dioic acid [PIN,  <br>
+a skeletal replacement (‘a’) name]  <br>
+2,2′-[ethane-1,2-diylbis(oxyethane-2,1-diyloxy)]diacetic acid  <br>
+// this name from BBerrors
+(a multiplicative name)  <br>
+(2-{2-[2-(carboxymethoxy)ethoxy]ethoxy}ethoxy)acetic acid (a substitutive name) 
+ru: 3,6,9,12-тетраоксатетрадекан-1,14-диовая кислота [PIN, <br>
+название &(skeletal replacement a|ro) ]<br>
+2,2′-[этан-1,2-диилбис(оксиэтан-2,1-диилокси)]диуксусная кислота <br>
+(&(multiplicative name)) <br>
+(2-{2-[2-(карбоксиметокси)этокси]этокси}этокси)уксусная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,120)\\-//@n(4,60)<`\`=`/>-O-CH2-CH2-O-@n(4',120)\\-//@n(1',60)<`\`=`/>-COOH
+$>
+
+en: 4,4′-[ethane-1,2-diylbis(oxy)]dibenzoic acid (PIN, a multiplicative name)  <br>
+4-[2-(4-carboxyphenoxy)ethoxy]benzoic acid (a substitutive name)
+ru: 4,4′-[этан-1,2-диилбис(окси)]дибензойная кислота (PIN, &(multiplicative name)) <br>
+4-[2-(4-карбоксифенокси)этокси]бензойная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,120)\\-//@n(4,60)<`\`=`/>-O-CH2-CH2-O-CH2-CH2-O-@n(4',120)\\-//@n(1',60)<`\`=`/>-COOH
+$>
+
+en: 4,4′-[oxybis(ethane-2,1-diyloxy)]dibenzoic acid (PIN, a multiplicative name)  <br>
+4-{2-[2-(4-carboxyphenoxy)ethoxy]ethoxy}benzoic acid (a substitutive name) 
+ru: 4,4′-[оксибис(этан-2,1-диилокси)]дибензойная кислота (PIN, &(multiplicative name)) <br>
+4-{2-[2-(4-карбоксифенокси)этокси]этокси}бензойная кислота (&(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`/`=`/\\-//<`\@n(1,0)>@n(2,60)-CH2-CH2-O-CH2-CH2-O-CH2-CH2-O-CH2-CH2_(h){}-@n(2',120)\\-//`\`=<`/>@n(1',170)`\HOOC
+$>
+
+en: 2,2′-[oxybis(ethane-2,1-diyloxyethane-2,1-diyl)]dibenzoic acid (PIN,  <br>
+a multiplicative name)  <br>
+2-[2-(2-{2-[2-(2-carboxyphenyl)ethoxy]ethoxy}ethoxy)ethyl]benzoic acid  <br>
+(a substitutive name) 
+ru: 2,2′-[оксибис(этан-2,1-диилоксиэтан-2,1-диил)]дибензойная кислота (PIN, <br>
+&(multiplicative name)) <br>
+2-[2-(2-{2-[2-(2-карбоксифенил)этокси]этокси}этокси)этил]бензойная кислота <br>
+(&(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`/`=`/\\-//<`\@n(1,0)>@n(2,60)-CH2-CH2-O-CH2-CH2-O-CH2-CH2-O-CH2-CH2-O-CH2-CH2_(h){}-@n(2',120)\\-//`\`=<`/>@n(1',170)`\HOOC
+$>
+
+en: 2,2′-(3,6,9,12-tetraoxatetradecane-1,14-diyl)dibenzoic acid (PIN,  <br>
+a multiplicative name using the skeletal replacement (‘a’) name as the multiplying substituent group)  <br>
+2,2′-[ethane-1,2-diylbis(oxyethane-2,1-diyloxyethane-2,1-diyl)]dibenzoic acid  <br>
+(a multiplicative name using simple substitutive nomenclature)  <br>
+2-{2-[2-(2-{2-[2-(2-carboxyphenyl)ethoxy]ethoxy}ethoxy)ethoxy]ethyl}benzoic acid (a substitutive name) 
+ru: 2,2′-(3,6,9,12-тетраоксатетрадекан-1,14-диил)дибензойная кислота (PIN, <br>
+&(multiplicative name), использующее название &(skeletal replacement a|ro) в качестве умножающей &(substituent group|ro)) <br>
+2,2′-[этан-1,2-диилбис(оксиэтан-2,1-диилоксиэтан-2,1-диил)]дибензойная кислота <br>
+(&(multiplicative name), использующее простую &(substitutive nomenclature|vi)) <br>
+2-{2-[2-(2-{2-[2-(2-карбоксифенил)этокси]этокси}этокси)этокси]этил}бензойная кислота (&(substitutive name))
+
 @End
 
+#P-51.3.2+
+en: When more than two identical parent structures occur in the structure, the following rules are to be followed in 
+choosing preferred IUPAC names. Note that preferred IUPAC names are formed using phane nomenclature when four 
+or more rings are present, two being terminal, in a system containing a minimum of seven nodes [see P-52.2.5.1 (2)] 
+and skeletal replacement (‘a’) nomenclature is used when the conditions for its use are met (see P-15.4.3, P-44.4, and  
+P-51.4). 
+ru: Если в структуре встречается более двух идентичных &(parent structure|ro*), при выборе предпочтительных названий по ИЮПАК 
+следует руководствоваться следующими правилами. Следует отметить, что предпочтительные названия по ИЮПАК формируются с 
+использованием &(phane nomenclature|ro) при наличии четырёх или более колец, два из которых являются концевыми, в системе, 
+содержащей не менее семи узлов [см. P-52.2.5.1 (2)], а номенклатура &(skeletal replacement a|ro) используется при соблюдении 
+условий её использования (см. P-15.4.3, P-44.4 и P-51.4).
 
+#P-51.3.2.1+
+en: A maximum number of identical parent structures must be expressed by the multiplicative name. 
+ru: Максимальное количество идентичных &(parent structure|ro*) должно быть выражено &(multiplicative name|tv).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1'',120,.45)\\-//@n(4'',60,.45)<`\`=`/>-CH2@n(2,-90,.55)-CH@n(1,-100,.55)#
+</@n(4',50)=/`\\</COOH>@n(1',0,.45)`-`//\>#
+\@n(4,-60)-\\`/@n(1,0,.45)<\COOH>`=`\//
+$>
+
+en: 4,4′,4′′-(ethane-1,1,2-triyl)tribenzoic acid (PIN)  <br>
+[not 4,4′′-[2-(4-carboxyphenyl)ethane-1,1-diyl]dibenzoic acid;  <br>
+the preferred IUPAC name multiplies more identical parent structures ‘3’ vs. ‘2’; see P-15.3.3.2.1]
+ru: 4,4′,4′′-(этан-1,1,2-триил)трибензойная кислота (PIN) <br>
+[не 4,4′′-[2-(4-карбоксифенил)этан-1,1-диил]дибензойная кислота; <br>
+предпочтительное название по ИЮПАК умножает количество идентичных исходных структур «3» вместо «2»; см. P-15.3.3.2.1]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1,-60)-CH2-C:c-CH2_(h){}-@n(1'',-120)/=\`//`-`\\;
+`\`||/\\|`//@n(1',30)|CH2|#c|CH2|@n(1''',-20,.45)\||`/`\\`|//
+$>
+
+en: 1,1′-(2,2-dibenzylpropane-1,3-diyl)dibenzene (PIN, a multiplicative name;  <br>
+a multiplicative prefix name such as neopentanetetrayl has never been recognized) <br>
+(2,2-dibenzyl-3-phenylpropyl)benzene (substitutive name) 
+ru: 1,1′-(2,2-дибензилпропан-1,3-диил)дибензол (PIN, &(multiplicative name); <br>
+мультипликативное префиксное название, такое как неопентантетраил, никогда не было известно) <br>
+(2,2-дибензил-3-фенилпропил)бензол (замещающее название)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)C6H5-C<`|C6H5><|C6H5>-O-C<`|C6H5><|C6H5>-S-C<`|C6H5@n(1)><|C6H5@n(1'',90,.7)>-C6H5@n(1',-80)
+$>
+
+en: 1,1′,1′′-({[diphenyl(triphenylmethoxy)methyl]sulfanyl}methanetriyl)tribenzene (PIN)  <br>
+[not 1,1′-{(triphenylmethoxy)[(triphenylmethyl)sulfanyl]methylene}dibenzene;  <br>
+this name multiplies only two identical parent structures]  <br>
+[not 1,1′,1′′-({diphenyl[(triphenylmethyl)sulfanyl]methoxy}methanetriyl)tribenzene;  <br>
+the PIN is lower alphabetically  <br>
+(‘diphenyltriphenylmethoxy’ is lower alphabetically than ‘diphenyltriphenylmethyl’)] 
+ru: 1,1′,1′′-({[дифенил(трифенилметокси)метил]сульфанил}метантриил)трибензол (PIN) <br>
+[не 1,1′-{(трифенилметокси)[(трифенилметил)сульфанил]метилен}дибензол; <br>
+это название умножает только две идентичные исходные структуры] <br>
+[не 1,1′,1′′-({дифенил[(трифенилметил)сульфанил]метокси}метантриил)трибензол; <br>
+PIN раньше по алфавиту  <br>
+(«дифенилтрифенилметокси» раньше по алфавиту, чем «дифенилтрифенилметил»)]
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(70)`-_qq_qO_q_qq@n(3,0)_(a54)O/H2C-CH2\O:a;
+`-<_(a54)#a>_qq_qO_q_qq_(a54)O/H2C-CH2\O:b;
+`-<_(a54)#b>@n(3',170)_qq_qO_q_qq
+$>
+
+en: 3,3′-[furan-3,4-diylbis(oxyethane-2,1-diyloxy)]difuran (PIN, a multiplicative name)  <br>
+3,4-bis[2-(furan-3-yloxy)ethoxy]furan (a substitutive name)
+ru: 3,3′-[фуран-3,4-диилбис(оксиэтан-2,1-диилокси)]дифуран (PIN, &(multiplicative name)) <br>
+3,4-бис[2-(фуран-3-илокси)этокси]фуран (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(3,20,.4)<_(a54)O:a>_qq_qO_q_qq@n(4,-20,.4)_(a54)O-CH2-CH2-[O-CH2-CH2]3-O-CH2-CH2-O-_(a54)_qq_qO_q_qq@n(3',10);
+#a-CH2@n(14)-CH2-[O:b-CH2-CH2]3-O@n(3)-CH2-CH2@n(1)-O-_(a54,N2)_qO_q_qq_q@n(3,-10); #b@n(12¸9¸6,-85,.7)
+$>
+
+en: 3,3′-{furan-3,4-diylbis[oxy(3,6,9,12-tetraoxatetradecane-14,1-diyl)oxy]}difuran (PIN) 
+ru: 3,3′-{фуран-3,4-диилбис[окси(3,6,9,12-тетраоксатетрадекан-14,1-диил)окси]}дифуран (PIN)
+
+@End
+
+#P-51.3.2.2+
+en: When the parent structure occurs more than three times and not all the occurrences are connected to a single 
+multiplicative substituent group, the identical units to be multiplied are those nearer to the central unit of the 
+multiplicative substituent group; the other parent structures are expressed as substituents to the multiplicative name. 
+Preferred IUPAC names are formed by skeletal replacement (‘a’) nomenclature or phane nomenclature when the 
+conditions for use of these methods are met [see P-51.4 and P-52.2.5.1, respectively]. 
+ru: Если &(parent structure) встречается более трёх раз и не все её вхождения связаны с одной мультипликативной 
+&(substituent group|tv), то умножаются идентичные единицы, расположенные ближе к центральной единице мультипликативной 
+&(substituent group|ro); остальные &(parent structure|*) обозначаются как &(substituent|*) &(multiplicative name|ro).
+Предпочтительные названия ИЮПАК образуются с помощью номенклатуры &(skeletal replacement a|ro) или 
+&(phane nomenclature|ro) при соблюдении условий для использования этих методов [см. P-51.4 и P-52.2.5.1 соответственно].
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/O\@n(3,150)/\\<|`//`\`||>@n(1,30)/O\@n(1',150)/\\<|`//`\`||>/O\/\\|`//`\`||
+$>
+
+en: 1,1′-[oxybis(3,1-phenyleneoxy)]dibenzene (a multiplicative name)  <br>
+2,4,6-trioxa-1,7(1),3,5(1,3)-tetrabenzenaheptaphane (PIN, a phane name, see P-51.4, P-52.2.5)
+ru: 1,1′-[оксибис(3,1-фениленокси)]дибензол (&(multiplicative name)) <br>
+2,4,6-триокса-1,7(1),3,5(1,3)-тетрабензолагептафан (PIN, &(phane name), см. P-51.4, P-52.2.5)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_qq_qO_q_qq_(a54)O$slope(70)/H2C-CH2\O;
+`-<_(a54)#-3>@n(4,180)_qq_qO_q_qq@n(3,0)_(a54)O/H2C-CH2\O;
+`-<_(a54)#-3>@n(3',180,.5)_qq_qO_q_qq@n(4',0)_(a54)O/H2C-CH2\O;
+`-<_(a54)#-3>_qq_qO_q_qq
+$>
+
+en: 3,3′-[ethane-1,2-diylbis(oxy)]bis{4-[2-(furan-3-yloxy)ethoxy]furan} (a multiplicative name)  <br>
+[not 3,3′-[ethane-1,2-diylbis(oxyfuran-4,3-diyloxyethane-2,1-diyloxy)]difuran (a multiplicative name)]  <br>
+2,5,7,10,12,15-hexaoxa-1,16(3),6,11(3,4)-tetrafuranahexadecaphane (PIN; a phane name, see P-51.4, P-52.2.5) 
+ru: 3,3′-[этан-1,2-диилбис(окси)]бис{4-[2-(фуран-3-илокси)этокси]фуран} (&(multiplicative name)) <br>
+[не 3,3′-[этан-1,2-диилбис(оксифуран-4,3-диилоксиэтан-2,1-диилокси)]дифуран (&(multiplicative name))] <br>
+2,5,7,10,12,15-гексаокса-1,16(3),6,11(3,4)-тетрафуранагексадекафан (PIN; &(phane name), см. P-51.4, P-52.2.5)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_qq_qO_q_qq_(a54)O$slope(70)/H2C-CH2\O;
+`-<_(a54)#-3>_qq_qO_q_qq@n(3,0)_(a54)O/H2C-CH2\O;
+`-<_(a54)#-3>_qq_qO_q_qq_(a54)O/H2C-CH2\O;
+`-<_(a54)#-3>@n(3',180,.5)_qq_qO_q_qq_(a54)O/H2C-CH2\O;
+`-<_(a54)#-3>_qq_qO_q_qq
+$>
+
+en: 3,3′-[furan-3,4-diylbis(oxyethane-2,1-diyloxy)]bis{4-[2-(furan-3-yloxy)ethoxy]furan}  <br>
+(a multiplicative name)  <br>
+[not 3,4-bis[2-({4-[2-(furan-3-yloxy)ethoxy]furan-3-yl}oxy)ethoxy]furan (a substitutive name)]  <br>
+[not 3,3′-[furan-3,4-diylbis(oxyethane-2,1-diyloxyfuran-4,3-diyloxyethane-2,1-diyloxy)]difuran <br>
+(a multiplicative name)]  <br>
+2,5,7,10,12,15,17,20-octaoxa-1,21(3), 6,11,16(3,4)-pentafuranahenicosaphane (PIN,  <br>
+a phane name, see P-51.4, P-52.2.5)
+ru: 3,3′-[фуран-3,4-диилбис(оксиэтан-2,1-диилокси)]бис{4-[2-(фуран-3-илокси)этокси]фуран} <br>
+(&(multiplicative name)) <br>
+[не 3,4-бис[2-({4-[2-(фуран-3-илокси)этокси]фуран-3-ил}окси)этокси]фуран (&(substitutive name))] <br>
+[не 3,3′-[фуран-3,4-диилбис(оксиэтан-2,1-диилоксифуран-4,3-диилоксиэтан-2,1-диилокси)]дифуран <br>
+(&(multiplicative name))] <br>
+2,5,7,10,12,15,17,20-октаокса-1,21(3), 6,11,16(3,4)-пентафуранагеникосафан (PIN, <br>
+&(phane name), см. P-51.4, P-52.2.5)
+
+@End
+
+#P-51.3.2.3+
+en: Seniority order of classes (see P-41) is used when a choice has to be made between a parent structure and a 
+component of a multiplicative group. 
+ru: Порядок старшинства классов (см. P-41) используется, когда необходимо сделать выбор между &(parent structure|tv) 
+и компонентом &(multiplicative group|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-N@n(2)=N@n(1)-CO-N@n(1')=N-C6H5
+$>
+
+en: bis(phenyldiazenyl)methanone (PIN)  <br>
+[not 1,1′-carbonylbis(2-phenyldiazene);  <br>
+not 1,1′-[carbonylbis(diazenediyl)]dibenzene;  <br>
+methanone is senior to both ‘diazene’ and a carbocyclic ring, see P-41] 
+ru: бис(фенилдиазенил)метанон (PIN) <br>
+[не 1,1′-карбонилбис(2-фенилдиазен); <br>
+не 1,1′-[карбонилбис(диазендиил)]дибензол; <br>
+метанон имеет более высокое значение, чем «диазен» и карбоциклическое кольцо, см. P-41]
+
+@End
+
+#P-51.3.3+
+en: When conditions (1), (2), and (3) as defined in P-51.3.1, above, are not met, the preferred IUPAC name is 
+generated by substitutive nomenclature principles. 
+ru: Если условия (1), (2) и (3), определенные в P-51.3.1 выше, не выполняются, предпочтительное название ИЮПАК 
+формируется на основе принципов &(substitutive nomenclature|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1',120,.45)\-/@n(4',60)<`\`-`/>-CH2_(A40,L1.5)|\/`|`\<`|COOH>@n(1,-130)`/@n(2,-90)
+$>
+
+en: 2,4′-methylenedi(cyclohexane-1-carboxylic acid) (a multiplicative name)  <br>
+2-[(4-carboxycyclohexyl)methyl]cyclohexane-1-carboxylic acid (PIN,  <br>
+a substitutive name, see P-45.2.2)  <br>
+[not 4-[(2-carboxycyclohexyl)methyl]cyclohexane-1-carboxylic acid;  <br>
+the substituent locant ‘2’ is lower than ‘4’ (see P-14.3.5, P-45.2.2)] 
+ru: 2,4′-метиленди(циклогексан-1-карбоновая кислота) (&(multiplicative name)) <br>
+2-[(4-карбоксициклогексил)метил]циклогексан-1-карбоновая кислота (PIN, <br>
+&(substitutive name), см. P-45.2.2) <br>
+[не 4-[(2-карбоксициклогексил)метил]циклогексан-1-карбоновая кислота; <br>
+локант &(substituent|ro) «2» меньше, чем «4» (см. P-14.3.5, P-45.2.2)]
+
+@cell
+<$ H3Si-SiH2-CH2-OO-SiH2-SiH3 $>
+
+en: [(disilanylmethyl)peroxy]disilane (PIN, a substitutive name)  <br>
+[not [(disilanylperoxy)methyl]disilane;  <br>
+‘disilanylmethylperoxy’ precedes ‘disilanylperoxymethyl’ in alphanumerical order (see P-45.5)]
+ru: [(дисиланилметил)перокси]дисилан (PIN, &(substitutive name)) <br>
+[не [(дисиланилперокси)метил]дисилан; <br>
+«дисиланилметилперокси» предшествует «дисиланилпероксиметилу» в алфавитно-цифровом порядке (см. P-45.5)]
+
+@End
+
+en: More examples are found in P-15.3, and in P-44, P-45, and P-46.
+ru: Больше примеров можно найти в P-15.3, а также в P-44, P-45 и P-46.
 
 #P-51.4
 en: Skeletal replacement (‘a’) nomenclature (see P-15.4)  
 ru: Номенклатура &(Skeletal replacement a|ro) (см. P-15.4)  
 
+en: Skeletal replacement (‘a’) nomenclature is used to generate preferred IUPAC names in place of substitutive or 
+multiplicative names when four or more heterounits are present in an acyclic chain (see P-51.3.1). Skeletal replacement 
+(‘a’) nomenclature is the only recommended method for certain types of cyclic compounds. 
+ru: Номенклатура &(skeletal replacement a|ro) используется для получения предпочтительных названий ИЮПАК вместо 
+&(substitutive [name]|ro*) или &(multiplicative name|ro*) в случае, когда в ациклической цепи присутствуют четыре 
+или более гетерозвеньев (см. P-51.3.1). Номенклатура &(skeletal replacement a|ro) является единственным рекомендуемым 
+методом для некоторых типов циклических соединений.
+
+@p .framed
+en: In these recommendations, groups of atoms having a simple multivalent name are considered as a unit, hence the 
+term heterounits includes both heteroatoms and heterogroups. Heterogroups were not considered as a single 
+heterounit in previous recommendations.  
+ru: В данных рекомендациях группы атомов, имеющие простое многовалентное название, рассматриваются как единое целое, 
+поэтому термин «гетероединицы» включает как гетероатомы, так и гетерогруппы. В предыдущих рекомендациях гетерогруппы 
+не рассматривались как единое гетероединичное целое.
+
+#P-51.4.1+
+en: Skeletal replacement (‘a’) nomenclature in acyclic chains
+ru: Номенклатура &(skeletal replacement a|ro) в ациклических цепях
+
+#P-51.4.1.1+
+en: Skeletal replacement (‘a’) nomenclature rather than substitutive or multiplicative names must be used to 
+generate preferred IUPAC names for acyclic structures when four or more heterounits are present in a unbranched chain 
+containing at least one carbon atom and when none of the heteroatoms constitute all or part of the principal 
+characteristic group of the compound.
+ru: Для создания предпочтительных названий ИЮПАК для ациклических структур, когда в неразветвленной цепи, содержащей 
+по крайней мере один атом углерода, присутствуют четыре или более гетероединиц, и когда ни один из гетероатомов 
+не составляет всю или часть основной &(characteristic group|ro) соединения, следует использовать номенклатуру 
+&(skeletal replacement a|ro), а не &(substitutive [name]|*) или &(multiplicative name|*).
+
+en: A heterounit is a set of heteroatoms having a name of its own such as, –SS–, disulfanediyl; <%f1%>, 
+disiloxane-1,3-diyl; –SOS–, dithioxanediyl (not <%f2%> nor –OSO– that correspond to three consecutive units 
+‘oxysilanediyloxy’ and ‘oxysulfanediyloxy’, respectively). Acids such as carbonic acid or phosphorus, arsenic, and 
+antimony acids, when representing the parent compound or the principal group, are not considered as units. In presence 
+of a characteristic group having seniority for citation as a suffix, the group <%f3%> is composed of three 
+units (see example 11 below). 
+ru: Гетероединица представляет собой набор гетероатомов, имеющих собственное название, например, –SS–, дисульфандиил; 
+<%f1%>, дисилоксан-1,3-диил; –SOS–, дитиоксандиил (не <%f2%> и не –OSO–, которые соответствуют трём последовательным 
+единицам «оксисиландиилокси» и «оксисульфандиилокси» соответственно). Кислоты, такие как угольная кислота или фосфорная, 
+мышьяковая и сурьмяная кислоты, при представлении &(parent compound|ro) или главной группы не рассматриваются как единицы. 
+При наличии &(characteristic group|ro), имеющей приоритет при цитировании в качестве суффикса, группа <%f3%> состоит 
+из трёх единиц (см. пример 11 ниже).
+%f1: <$ –SiH2-O-SiH2– $>
+%f2: <$ –OSiH2O– $>
+%f3: <$ –O-P(O)(OCH3)-O– $>
+
+#P-51.4.1.2+
+en: Skeletal replacement (‘a’) nomenclature generates new acyclic parent hydrides whose numbering is fixed, as 
+it is for heterocyclic rings and ring systems. Suffixes, endings, and prefixes are added in accordance with this fixed 
+numbering. 
+ru: Номенклатура &(skeletal replacement a|ro) порождает новые ациклические &(parent hydride|*) с фиксированной нумерацией, 
+как для гетероциклических колец и циклических систем. Суффиксы, окончания и префиксы добавляются в соответствии с этой 
+фиксированной нумерацией.
+
+@p .framed
+en: Fixed numbering for heteroacyclic parent structures named by skeletal replacement (‘a’) nomenclature is a major 
+change to Rule C-0.6 (ref. 1) where principal characteristic groups and free valence were preferred over heteroatoms 
+for low locants. 
+ru: Фиксированная нумерация для гетероациклических исходных структур, названных по номенклатуре &(skeletal replacement a|ro), 
+является существенным изменением правила C-0.6 (ссылка&nbsp;1), где основные &(characteristic group|*) и свободная валентность 
+были предпочтительны по сравнению с гетероатомами для меньших локантов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(8)-SiH2@n(7)-CH2@n(6)-SiH2@n(5)-CH2@n(4)-PH@n(3)-SiH2@n(2)-CH3@n(1)
+$>
+
+en: 3-phospha-2,5,7-trisilaoctane [PIN, skeletal replacement (‘a’) name]  <br>
+(methylsilyl)({[(methylsilyl)methyl]silyl}methyl)phosphane (a substitutive name)
+ru: 3-фосфа-2,5,7-трисилаоктан [PIN, название &(skeletal replacement a|ro)] <br>
+(метилсилил)({[(метилсилил)метил]силил}метил)фосфан (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH3@n(10)
+$>
+
+en: 8-thia-2,4,6-trisiladecane [PIN, skeletal replacement (‘a’) name]  <br>
+1-[(ethylsulfanyl)methyl]-1′-methyl-1,1′-[silanediylbis(methylene)]bis(silane); (a multiplicative name)  <br>
+({[(ethylsulfanyl)methyl]silyl}methyl)[(methylsilyl)methyl]silane; (a substitutive name)
+ru: 8-тиа-2,4,6-трисиладекан [PIN, название &(skeletal replacement a|ro)] <br>
+1-[(этилсульфанил)метил]-1′-метил-1,1′-[силандиилбис(метилен)]бис(силан); (&(multiplicative name)) <br>
+({[(этилсульфанил)метил]силил}метил)[(метилсилил)метил]силан; (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-O@n(3)-CH2@n(4)-CH2@n(5)-O@n(6)-CH2@n(7)-CH2@n(8)-O@n(9)-CH2@n(10)-CH2@n(11)-O@n(12)-CH2@n(13)-COOH@n(14)
+$>
+
+en: 3,6,9,12-tetraoxatetradecanedioic acid [PIN, a skeletal replacement (‘a’) name]  <br>
+2,2′-[ethane-1,2-diylbis(oxyethane-2,1-diyloxy)]diacetic acid; (a multiplicative name)  <br>
+2-(2-{2-[2-(carboxymethoxy)ethoxy]ethoxy}ethoxy)acetic acid; (a substitutive name) 
+ru: 3,6,9,12-тетраоксатетрадекандиовая кислота [PIN, название &(skeletal replacement a|ro)] <br>
+2,2′-[этан-1,2-диилбис(оксиэтан-2,1-диилокси)]диуксусная кислота; (&(multiplicative name)) <br>
+2-(2-{2-[2-(карбоксиметокси)этокси]этокси}этокси)уксусная кислота; (&(substitutive name))
+
+@End
+
 
 #P-51.5
 en: Conjunctive nomenclature vs. substitutive nomenclature 
-
-
-
-#P-52
-en: Selecting preferred IUPAC names and preselected names for parent hydrides 
-ru: Выбор предпочтительных названий ИЮПАК и предварительно выбранных названий для &(parent hydride|ro*)
-
-#P-53
-en: Selecting preferred retained names of parent hydrides  
-ru: Выбор предпочтительных &(retained name|ro*) &(parent hydride|ro*)
-
-#P-54
-en: Selecting the preferred method for modifying the degree of hydrogenation 
-ru: Выбор предпочтительного метода изменения степени гидрирования
-
-#P-55
-en: Selecting the preferred retained name for functional parent compounds 
-ru: Выбор предпочтительного сохраненного названия для функциональных &(parent compound|ro*)
-
-#P-56
-en: Selecting the preferred suffix for the principal characteristic groups 
-ru: Выбор предпочтительного суффикса для основных &(characteristic group|ro*)
-
-#P-57
-en: Selecting preferred and preselected prefixes for substituent group names 
-ru: Выбор предпочтительных и предварительно выбранных префиксов для названий &(substituent group|ro*)
-
-#P-58
-en: Selection of preferred IUPAC names  
-ru: Выбор предпочтительных названий ИЮПАК
-
-#P-59
-en: Name construction
-ru: Конструкция имени

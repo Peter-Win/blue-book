@@ -282,6 +282,7 @@
 
   "multiplicative name": "мультипликативное название",
   "multiplicative name|ro": "мультипликативного названия",
+  "multiplicative name|tv": "мультипликативным названием",
   "multiplicative name|*": "мультипликативные названия",
   "multiplicative name|ro*": "мультипликативных названий",
 
@@ -536,6 +537,8 @@
   "substituted [substituent]": "замещённый",
   "substituted [substituent]|*": "замещённые",
 
+  "substitutive [name]|*": "заместительные", 
+  "substitutive [name]|ro*": "заместительных", 
   "substitutive name": "заместительное название",
   "substitutive name|*": "заместительные названия",
   "substitutive name|ro*": "заместительных названий",
