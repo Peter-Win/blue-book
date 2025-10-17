@@ -906,7 +906,7 @@ ru: В данных рекомендациях группы атомов, име
 поэтому термин «гетероединицы» включает как гетероатомы, так и гетерогруппы. В предыдущих рекомендациях гетерогруппы 
 не рассматривались как единое гетероединичное целое.
 
-#P-51.4.1+
+#P-51.4.1
 en: Skeletal replacement (‘a’) nomenclature in acyclic chains
 ru: Номенклатура &(skeletal replacement a|ro) в ациклических цепях
 
@@ -991,8 +991,454 @@ ru: 3,6,9,12-тетраоксатетрадекандиовая кислота [
 2,2′-[этан-1,2-диилбис(оксиэтан-2,1-диилокси)]диуксусная кислота; (&(multiplicative name)) <br>
 2-(2-{2-[2-(карбоксиметокси)этокси]этокси}этокси)уксусная кислота; (&(substitutive name))
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(1)-CH2-NH@n(3)-CH2-CH2-NH@n(6)-CH2-CH2-NH@n(9)-CH2-CH@n(11,90)<`|OH>-CH2-O@n(13)-[CH2]7-CH3@n(21)
+$>
+
+en: 1-amino-13-oxa-3,6,9-triazahenicosan-11-ol [PIN; a skeletal replacement (‘a’) name]  <br>
+1-{[2-({2-[(2-aminoethyl)amino]ethyl}amino)ethyl]amino}-3-(octyloxy)propan-2-ol; (a substitutive name) 
+ru: 1-амино-13-окса-3,6,9-триазагеникозан-11-ол [PIN; название &(skeletal replacement a|ro)] <br>
+1-{[2-({2-[(2-аминоэтил)амино]этил}амино)этил]амино}-3-(октилокси)пропан-2-ол; (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+F-CO@n(1)-NH@n(2)-S@n(3)-NH@n(4)-CH2@n(5)-O@n(6)-N@n(7)=CH@n(8)-CH@n(9)=N@n(10)-O@n(11)-CH2@n(12)-NH@n(13)-S@n(14)-NH@n(15)-CO@n(16)-F
+$>
+
+en: 6,11-dioxa-3,14-dithia-2,4,7,10,13,15-hexaazahexadeca-7,9-dienedioyl difluoride (PIN)  <br>
+(a skeletal replacement name)  <br>
+(an acyclic dioyl fluoride is preferred to a multiplied carbamoyl fluoride)
+ru: 6,11-диокса-3,14-дитиа-2,4,7,10,13,15-гексаазагексадека-7,9-диендиоилдифторид (PIN) <br>
+(название &(skeletal replacement a|ro)) <br>
+(ациклический диоилфторид предпочтительнее мультиплицированного карбамоилфторида)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2)-O@n(3)-P@n(4)<|O-CH2-CH3>-O@n(5)-CH2@n(6)-CH2@n(7)-O@n(8)-CH2@n(9)-CH2@n(10)-$pos(CU)N^+(CH3)3
+$>
+
+en: 4-ethoxy-_N_,_N_,_N_-trimethyl-3,5,8-trioxa-4-phosphadecan-10-aminium (PIN) 
+ru: 4-этокси-_N_,_N_,_N_-триметил-3,5,8-триокса-4-фосфадекан-10-аминий (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-O@n(2)-N@n(3,90)<_(y%h:-1.2)H3C>-C@n(4,90)<_(y%h,N2)O>-O@n(5)-N@n(6)=C@n(7,90)<_(y%h)CN>-CO@n(8)-NH2
+$>
+
+en: 7-cyano-3-methyl-4-oxo-2,5-dioxa-3,6-diazaoct-6-en-8-amide (PIN)
+ru: 7-циано-3-метил-4-оксо-2,5-диокса-3,6-диазаокт-6-ен-8-амид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S@n(3)-S-S@n(1)-CH2-CH2-S@n(1')-S-S-CH3
+$>
+
+en: 1,1′-(ethane-1,2-diyl)bis(3-methyltrisulfane) (PIN)  <br>
+(not 2,3,4,7,8,9-hexathiadecane; trisulfane, HS-S-SH, is  <br>
+a parent hydride and is not allowed to be a heterounit) 
+ru: 1,1′-(этан-1,2-диил)бис(3-метилтрисульфан) (PIN) <br>
+(не 2,3,4,7,8,9-гексатиадекан; трисульфан, HS-S-SH, является <br>
+&(parent hydride|tv) и не может быть гетерозвеном)
+
+@cell
+<$ (CH3)3C-OO-Si(CH3)2-O-CO-CH2-CH3 $>
+
+en: (_tert_-butylperoxy)dimethylsilyl propanoate (PIN)  <br>
+(not 2,2,5,5-tetramethyl-3,4,6-trioxa-5-silanonan-7-one;  <br>
+only two heterounits are present: –OO– and –Si–;  <br>
+the principal characteristic group is an ester and the –O– is a part of it) 
+ru: (_трет_-бутилперокси)диметилсилилпропионат (PIN) <br>
+(не 2,2,5,5-тетраметил-3,4,6-триокса-5-силанонан-7-он; <br>
+присутствуют только две гетерогруппы: –OO– и –Si–; <br>
+основная &(characteristic group) – это сложный эфир, и –O– входит в его состав)
+
+@cell
+<$ CH3-O-PH(O)-O-CH2-O-CH3 $>
+
+en: methoxymethyl methyl phosphonate (PIN)  <br>
+[not 2,4,6-trioxa-3λ^{5}-phosphaheptan-3-one;  <br>
+the three heteroatoms –O-P-O– are part of an ester and are expressed  <br>
+as the principal characteristic group; this leaves only one heterounit, –O–,  <br>
+and skeletal replacement (‘a’) nomenclature cannot be used as the PIN] 
+ru: метоксиметилметилфосфонат (PIN) <br>
+[не 2,4,6-триокса-3λ^{5}-фосфагептан-3-он; <br>
+три гетероатома –O-P-O– входят в состав сложного эфира и выражаются <br>
+как основная &(characteristic group); это оставляет только одну гетероединицу –O–, <br>
+и номенклатура &(skeletal replacement a|ro) не может быть использована в качестве PIN]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-P(O)(OCH3)-O-CH2@n(1)-SiH2@n(2)-CH2@n(3)-SiH2@n(4)-CH2@n(5)-SiH2@n(6)-CH2@n(7)-SiH2@n(8)-CH3@n(9)
+$>
+
+en: [three of the heteroatoms –O-P-O– are part of the ester expressed as the principal characteristic group;  <br>
+however there are four silicon atoms in one of the organyl parts of the ester  <br>
+and skeletal replacement (‘a’) nomenclature is used to name this ester group] 
+ru: [три гетероатома –O-P-O– входят в состав сложного эфира, обозначенного как основная &(characteristic group); <br>
+однако в одной из органильных частей сложного эфира находятся четыре атома кремния, <br>
+и для обозначения этой сложноэфирной группы используется номенклатура &(skeletal replacement a|ro)]
+
+@End
+
+#P-51.4.1.3+
+en: The same number of characteristic groups that would be expressed as suffixes in substitutive names must be 
+present in skeletal replacement (‘a’) names.
+ru: В названиях &(skeletal replacement a|ro) должно присутствовать то же самое количество &(characteristic group|ro*), 
+которые были бы выражены в виде суффиксов в &(substitutive name|pr*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-C@n(1)(=NH)-NH@n(2)-CH2-CH2-CH2-CH2-CH2-NH@n(8)|C:c@n(9,-135,.5)<=NH>;
+H2N-C@n(17)(=NH)-NH@n(16)-CH2-CH2-CH2-CH2-CH2-NH@n(10,90)`|#c
+$>
+// Ошибка в оригинале. Заменено -H2- на -CH2-CH2-
+
+en: 9-imino-2,8,10,16-tetraazaheptadecanediimidamide (PIN)  <br>
+(a diimidamide expressed as a principal characteristic group is senior to a carbonimidic diamide)
+ru: 9-имино-2,8,10,16-тетраазагептадекандиимидамид (PIN) <br>
+(диимидамид, выраженный как основная &(characteristic group), имеет более высокое значение, чем карбонимидный диамид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(16)-CH2-NH@n(14)-CH2-CH2-NH@n(11)-CH2-CH2-NH@n(8)-CH2-CH2-NH@n(5)-CH2-CH2-NH@n(2)-CO@n(1)-NH:n;
+H2N-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2`|#n
+$>
+
+en: 16-amino-_N_-(14-amino-3,6,9,12-tetraazatetradecan-1-yl)-2,5,8,11,14-pentaazahexadecanamide [PIN;  <br>
+an amide expressed as a principal characteristic group is senior to  <br>
+urea, a carbonic diamide, or an amine expressed as a principal characteristic group;  <br>
+since four heteroatoms are also present in the _N_-substituent group,  <br>
+it must also be named by skeletal replacement (‘a’) nomenclature]
+ru: 16-амино-_N_-(14-амино-3,6,9,12-тетраазатетрадекан-1-ил)-2,5,8,11,14-пентаазагексадеканамид [PIN; <br>
+амид, обозначенный как основная &(characteristic group), имеет более высокое значение, чем мочевина, <br>
+карбондиамид или амин, обозначенный как основная &(characteristic group); <br>
+поскольку в _N_-&(substituent group|pr) также присутствуют четыре гетероатома, <br>
+она также должна быть названа по номенклатуре &(skeletal replacement a|ro)]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(13)-CH2-NH@n(11)-CH2-CH2-NH@n(8)-CH2-CH2-NH@n(5)-CH2-CH2-NH@n(2)|C:c@n(1,-140,.5)=O;
+H2N-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH-CH2-CH2-NH`|#c
+$>
+
+en: 13-amino-N-(2-{[2-({2-[(2-aminoethyl)amino]ethyl}amino)ethyl]amino}ethyl)-2,5,8,11-tetraazatridecanamide (PIN;  <br>
+an amide expressed as characteristic group is senior to urea, a carbonic diamide,  <br>
+and to an amine expressed as a characteristic group;  <br>
+since only three heteroatoms are present in the _N_-substituent group, it must be named substitutively)
+ru: 13-амино-N-(2-{[2-({2-[(2-аминоэтил)амино]этил}амино)этил]амино}этил)-2,5,8,11-тетраазатридеканамид (PIN; <br>
+амид, обозначенный как &(characteristic group), имеет более высокое значение, <br>
+чем мочевина, карбоновый диамид и амин, обозначенный как &(characteristic group); <br>
+поскольку в _N_-&(substituent group|pr) присутствуют только три гетероатома, она должна быть названа замещающе)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(1)-C@n(2,90)<`||O>-NH@n(3)-[CH2]3-CH@n(7,90)<`|NH`-CO`-H3C>-CH2-C@n(9,90)<`||O>-NH@n(10)-[CH2]3-CH@n(14,90)<`|NH`-CO`-CH3>-CH2#
+-C@n(16,90)<`||O>-NH@n(17)-[CH2]3-CH:c@n(21)-NH-CO-CH3;
+CH3-O-CO@n(30)-CH2-CH@n(28)<|NH-CO-CH3>-[CH2]3-NH@n(24)-C@n(23,90)<=O>`|CH2`|#c
+$>
+
+en: methyl 7,14,21,28-tetraacetamido-2,9,16,23-tetraoxo-3,10,17,24- tetraazatriacontan-30-oate (PIN;  <br>
+an ester is senior to an amide or a ketone) 
+ru: метил 7,14,21,28-тетраацетамидо-2,9,16,23-тетраоксо-3,10,17,24-тетраазатриаконтан-30-оат (PIN; <br>
+сложный эфир старше амида или кетона)
+
+@End
+
+#P-51.4.1.4+
+en: The chain must be terminated by C or one of the following heteroatoms: <%a%>, or Tl.
+ru: Цепь должна заканчиваться C или одним из следующих гетероатомов: <%a%> или Tl.
+%a: P, As, Sb, Bi, Si, Ge, Sn, Pb, B, Al, Ga, In 
+
+@p .framed
+en: In these recommendations heterochains may be terminated by certain heteroatoms and not just by carbon atoms. 
+Previous recommendations required a heterochain to be terminated by carbon atoms.  
+ru: В этих рекомендациях гетероцепи могут быть завершены определенными гетероатомами, а не только атомами углерода.
+Предыдущие рекомендации требовали, чтобы гетероцепь завершалась атомами углерода.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Si@n(1)-O@n(2)-CH2@n(3)-S@n(4)-SiH3@n(5)
+$>
+
+en: 2-oxa-4-thia-1,5-disilapentane (PIN) 
+ru: 2-окса-4-тиа-1,5-дисилапентан (PIN)
+
+@End
+
+#P-51.4.2
+en: Skeletal replacement (‘a’) nomenclature for cyclic compounds
+ru: Номенклатура &(skeletal replacement a|ro) для циклических соединений
+
+en: Skeletal replacement (‘a’) nomenclature is the only recommended method to generate names for certain heterocyclic 
+compounds. 
+ru: Номенклатура &(skeletal replacement a|ro) является единственным рекомендуемым методом создания названий для 
+определенных гетероциклических соединений.
+
+#P-51.4.2.1+
+en: Skeletal replacement (‘a’) nomenclature is used to derive preferred IUPAC names for heteromonocyclic 
+compounds having more than ten ring atoms (see P-22.2.3).
+ru: Номенклатура &(skeletal replacement a|ro) используется для получения предпочтительных названий ИЮПАК для 
+гетеромоноциклических соединений, имеющих более десяти атомов в кольце (см. P-22.2.3).
+
+en: Skeletal replacement (‘a’) nomenclature is also possible with rings having less than 10 ring members if the skeletal 
+replacement (‘a’) prefix represents a metal as defined in P-69.4. 
+ru: Номенклатура &(skeletal replacement a|ro) также возможна для колец, имеющих менее 10 членов кольца, если префикс 
+&(skeletal replacement a|ro) представляет металл, как определено в P-69.4.
+
+@p .framed
+en: Adapting the principles of the Hantzsch-Widman system to the elements of Groups 1-12 in and including their 
+skeletal replacement (‘a’) prefixes would be a major change from previous recommendations even though the names 
+of such organometallic compounds involving these elements are not PINs at this time.  
+ru: Адаптация принципов системы Ганча-Видмана к элементам групп 1–12 и включение в них префиксов &(skeletal replacement a|ro) 
+станет существенным изменением по сравнению с предыдущими рекомендациями, даже несмотря на то, что названия таких 
+металлоорганических соединений, включающих эти элементы, в настоящее время не являются PIN.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_pp_p@n(7,180)_pp_p@n(9,-100)//r\@n(11,-80)|0<_q_qqN@n(1,0,.5)_q_qq>@n(3,80)`//`\@n(5,100)
+$>
+
+en: 1-azacyclododeca-1,3,5,7,9,11-hexaene (PIN) 
+ru: 1-азациклододека-1,3,5,7,9,11-гексаен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.1)<_(a54)CH3>@n(3,-20)_qq<_(a54)CH3>@n(2,-90)_qPt@n(1,-90,.55)<_(A-45)Cl><_(A-135)Cl>_q@n(5,-90)<_(a54)H3C>_qq@n(4,-160)_(a54)H3C
+$>
+
+en: 1,1-dichloro-2,3,4,5-tetramethylplatinole (Hantzsch-Widman name)  <br>
+1,1-dichloro-2,3,4,5-tetramethyl-1-platinacyclopenta-2,4-diene  <br>
+(a skeletal replacement name; see P-69.4) 
+ru: 1,1-дихлор-2,3,4,5-тетраметилплатинол (название по Ганчу-Видману) <br>
+1,1-дихлор-2,3,4,5-тетраметил-1-платинациклопента-2,4-диен <br>
+(название &(skeletal replacement a|ro); см. P-69.4)
+
+@End
+
+@p .framed
+en: The option to include the metallic elements in addition to the metals in Groups 13 through 16 in the Hantzsch
+Widman system and their skeletal replacement (‘a’) prefixes (see P-69.4) is a major change from previous 
+recommendations for the Hantzsch-Widman system. 
+ru: Возможность включения металлических элементов в дополнение к металлам групп 13–16 в систему Ганча-Видмана 
+и их префиксов &(skeletal replacement a|ro) (см. P-69.4) является существенным изменением по сравнению 
+с предыдущими рекомендациями для системы Ганча-Видмана.
+
+#P-51.4.2.2+
+en: Skeletal replacement (‘a’) nomenclature is used to derive preferred IUPAC names for heterocyclic von 
+Baeyer ring systems (see P-23.3.1). 
+ru: Номенклатура &(skeletal replacement a|ro) используется для получения предпочтительных названий ИЮПАК для 
+гетероциклических систем колец фон Байера (см. P-23.3.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(18)O`\$color(darkgray)`/$color()`\_(A70,L1.3)O@n(6,150,.5)/<`|_(y-1.1,x#2)@n(8,-60)|#2@n(1,-50)>@n(5,90)\_(y.9,x#1)`|#1@n(2,-50,.55)
+$>
+
+en: 2,6-dioxabicyclo[3.3.2]decane (PIN) 
+ru: 2,6-диоксабицикло[3.3.2]декан (PIN)
+
+@End
+
+#P-51.4.2.3+
+en: Skeletal replacement (‘a’) nomenclature is used to derive preferred IUPAC names for heterocyclic spiro 
+parent hydrides consisting of two or more saturated monocyclic rings (see P-24.2.4.1.1)
+ru: Номенклатура &(skeletal replacement a|ro) используется для получения предпочтительных названий ИЮПАК для 
+гетероциклических спиро-&(parent hydride|ro*), состоящих из двух или более насыщенных моноциклических колец (см. P-24.2.4.1.1)
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(2,-30)_qS@n(1,-100,.55)_q<_q_q>`/`-HN@n(7,90,.55)`\/-\@n(5,180)
+$>
+
+en: 7-aza-1-thiaspiro[4.5]decane (PIN)
+ru: 7-аза-1-тиаспиро[4.5]декан (PIN)
+
+@End
+
+#P-51.4.2.4+
+en: Skeletal replacement (‘a’) nomenclature is used to derive preferred IUPAC names for heteropolycyclic ring 
+systems for which fusion nomenclature based on heterocyclic parent rings is not applicable (see P-25.5.1). 
+ru: Номенклатура &(skeletal replacement a|ro) используется для получения предпочтительных названий ИЮПАК для 
+гетерополициклических кольцевых систем, для которых &(fusion nomenclature), основанная на гетероциклических 
+&(parent ring|pr*), неприменима (см. P-25.5.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(3a^1,-80,.55)/\\N@n(4,-30,.55)|`//@n(6,90)`\`//@n(7,90)`\`||@n()@n(9,-150)/<\|>`||N@n(1,-150,.5)/\\@n(3,-30)|
+$>
+
+en: 1,3a^{1},4-triazaphenylene (PIN)  <br>
+[not 1,4,9b-triazaphenylene; see P-25.3.3.3] 
+ru: 1,3a^{1},4-триазафенилен (PIN) <br>
+[не 1,4,9b-триазафенилен; см. P-25.3.3.3]
+
+@End
+
+#P-51.4.2.5+
+en: Skeletal replacement (‘a’) nomenclature is used to derive preferred IUPAC names for heterophane ring 
+systems (see P-26.5) and for heterofullerenes (see P-27.5). 
+ru: Номенклатура &(skeletal replacement a|ro) используется для получения предпочтительных названий ИЮПАК для 
+&(heterophane [system]|ro*) кольцевых систем (см. P-26.5) и для гетерофуллеренов (см. P-27.5).
+
+#P-51.4.2.6+
+en: When necessary, the choice of a preferred IUPAC name of a heterocyclic parent structure is made before the 
+insertion of skeletal replacement (‘a’) prefixes. This is the case with assemblies of identical heterocyclic compounds 
+(see P-28.4) composed of heterocyclic compounds of the von Baeyer type and with monocyclic compounds having 
+more than ten members. 
+ru: При необходимости выбор предпочтительного названия ИЮПАК для гетероциклической &(parent structure|ro) 
+производится до добавления префиксов &(skeletal replacement a|ro). Это относится к &(assembly|da*) идентичных 
+гетероциклических соединений (см. P-28.4), состоящим из гетероциклических соединений типа фон Байера, и 
+к моноциклическим соединениям, содержащим более десяти членов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,116,1.1)@;
+`\`/|\/`|0_p7O@n(3,-120,.5)_p7_p7@btc(1)<_p7_p7_p7>@n(1,-60)-:a@n(1,-120);
+|0_p7_p7_p7#a@btc(2)_p7_p7O@n(3,-60,.55)_p7/\@n(6,-60)<|`/`\>_(A0)@n(1,-120)|\/`|0<`\`/>_p7O@n(4,-100,.55)_p7_p7@btc(3)_p7_p7_p7
+$>
+
+en: <%p1%>-trioxa-<%p2%>-tercycloundecane (PIN; see P-28.3.1)  <br>
+3,3′,4′′-trioxa-1,1′:6′,1′′-tercycloundecane  <br>
+(not <%p3%>-ter-1-oxacycloundecane) 
+ru: <%p1%>-триокса-<%p2%>-терциклоундекан (PIN; см. P-28.3.1) <br>
+3,3′,4′′-триокса-1,1′:6′,1′′-терциклоундекан <br>
+(не <%p3%>-тер-1-оксациклоундекан)
+%p1:1^{3},2^{3},3^{4}
+%p2:1^{1},2^{1}:2^{6},3^{1}
+%p3:1^{3},2^{3}:2^{9},3^{4}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,110,1)@;
+|`/`\`|/<_(x-%d:.4,y1)_(x%d,y1)>@btc(1)\@n(2,-70)_(A0)@n(2,-110)/@btc(2)\<|`/<_(x-%d,y-1)_(x%d,y-1)>`\S@n(3,150,.5)`|>@n(6,-70)_(A0)@n(2,-110)/@btc(3)\|`/<`\`|>_(x-%d,y-1)_(x%d,y-1)
+$>
+
+en: <%p1%>-thia-<%p2%>-terbicyclo[2.2.1]heptane (PIN; see P-28.3.1)  <br>
+{not 2,6-bis(bicyclo[2.2.1]heptan-2-yl)-3-thiabicyclo[2.2.1]heptane}  <br>
+3′-thia-<%p3%>-terbicyclo[2.2.1]heptane
+ru: <%p1%>-тиа-<%p2%>-тербицикло[2.2.1]гептан (PIN; см. P-28.3.1) <br>
+{не 2,6-бис(бицикло[2.2.1]гептан-2-ил)-3-тиабицикло[2.2.1]гептан} <br>
+3′-тиа-<%p3%>-тербицикло[2.2.1]гептан
+%p1:2^{3}
+%p2:1^{2},2^{2}:2^{6},3^{2}
+%p3:2,2′:6′,2′′
+
+@End
+
+#P-51.4.2.7+
+en: The choice between two or more acceptable names may depend on the type of nomenclature used. This is 
+the case with unsaturated heteromonocyclic compounds for which three names are acceptable, as discussed in P-52.2.3.
+ru: Выбор между двумя или более приемлемыми названиями может зависеть от типа используемой номенклатуры. Это 
+относится к ненасыщенным гетеромоноциклическим соединениям, для которых приемлемы три названия, как обсуждается в P-52.2.3.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_q_qq@n(2,0)_qN<_(y-.5)H>@n(1,-10,.5)_q@n(13,-80,.45)`\\l`/`\\l`/||\//\//
+$>
+
+en: 1-azacyclotrideca-2,4,6,8,10,12-hexaene [PIN, a skeletal replacement (‘a’) name]  <br>
+1-azacyclotridecine [a skeletal relacement (‘a’) name for use in fusion nomenclature]  <br>
+1_H_-1-aza[13]annulene
+ru: 1-азациклотридека-2,4,6,8,10,12-гексаен [PIN, название &(skeletal replacement a|ro)] <br>
+1-азациклотридецин [название &(skeletal replacement a|ro) для использования в &(fusion nomenclature|pr)] <br>
+1_H_-1-аза[13]аннулен
+
 @End
 
 
 #P-51.5
 en: Conjunctive nomenclature vs. substitutive nomenclature 
+ru: &(Conjunctive nomenclature) против &(substitutive nomenclature|ro)
+
+en: When there is a choice between conjunctive nomenclature and substitutive nomenclature, preferred IUPAC names are 
+formed by using substitutive nomenclature (including multiplicative nomenclature and skeletal replacement 
+nomenclature when the conditions for their use are fulfilled) (see P-51). 
+ru: Когда есть выбор между &(conjunctive nomenclature|tv) и &(substitutive nomenclature|tv), предпочтительные названия ИЮПАК 
+образуются с использованием &(substitutive nomenclature|ro) (включая &(multiplicative nomenclature|vi) и 
+номенклатуру &(skeletal replacement a|ro), если выполнены условия для их использования) (см. P-51).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2@n([alpha]^2,-60,.65)_(A150)@n(2,20)|@n(3,-20)<_(A30)CH2@n([alpha]^3,-60,.65)-COOH>`//`\`|l`\`//|\\/`|/@n(1,-90)\\
+$>
+
+en: naphthalene-2,3-diacetic acid  <br>
+2,2′-(naphthalene-2,3-diyl)diacetic acid (PIN) 
+ru: нафталин-2,3-диуксусная кислота <br>
+2,2′-(нафталин-2,3-диил)диуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2@:a(n)@n([alpha]^&n,-60,.65)@(1)|@n(1,-30)\\|@n(3,-30)<_q6CH2@a(3)-COOH>`//`\<`||/>@n(5,-150)_q6{}_(h-)CH2@a(5)`-HOOC
+$>
+
+en: benzene-1,3,5-triacetic acid  <br>
+2,2′,2′′-(benzene-1,3,5-triyl)triacetic acid (PIN) 
+ru: бензол-1,3,5-триуксусная кислота <br>
+2,2′,2′′-(бензол-1,3,5-триил)триуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/N@n(1,-90,.55)\\<_q6CH2-CH2-CH2-OH>@n(2,20)|@n(3,-20)<_q6CH2-COOH>`//`\`|`\\`/||\//
+$>
+
+en: 2-(3-hydroxypropyl)quinoline-3-acetic acid  <br>
+[2-(3-hydroxypropyl)quinolin-3-yl]acetic acid (PIN)  <br>
+(a carboxylic acid is senior to an alcohol) 
+ru: 2-(3-гидроксипропил)хинолин-3-уксусная кислота <br>
+[2-(3-гидроксипропил)хинолин-3-ил]уксусная кислота (PIN) <br>
+(карбоновая кислота старше спирта)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2`-CH2|@n(1,-150)\@n(2,30)|<_q6CH2-COOH>@n(3,90)`//`\`//`\`||/\\<|>/\_q6CH2-COOH
+$>
+
+en: 1-(2-carboxyethyl)naphthalene-2,3-diacetic acid  <br>
+3-[2,3-bis(carboxymethyl)naphthalen-1-yl]propanoic acid (PIN) 
+ru: 1-(2-карбоксиэтил)нафталин-2,3-диуксусная кислота <br>
+3-[2,3-бис(карбоксиметил)нафталин-1-ил]пропановая кислота (PIN)
+
+@End

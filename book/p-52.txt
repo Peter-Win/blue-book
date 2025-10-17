@@ -1,31 +1,247 @@
-#P-52
+%P-52
 en: Selecting preferred IUPAC names and preselected names for parent hydrides 
 ru: Выбор предпочтительных названий ИЮПАК и предварительно выбранных названий для &(parent hydride|ro*)
 
-#P-53
-en: Selecting preferred retained names of parent hydrides  
-ru: Выбор предпочтительных &(retained name|ro*) &(parent hydride|ro*)
+#P-52
+en: Selecting preferred IUPAC names and preselected names (see P-12.2) for parent hydrides 
+ru: Выбор предпочтительных названий ИЮПАК и предварительно выбранных названий (см. P-12.2) для &(parent hydride|ro*)
 
-#P-54
-en: Selecting the preferred method for modifying the degree of hydrogenation 
-ru: Выбор предпочтительного метода изменения степени гидрирования
+en: For naming the parent hydrides described in Chapter P-2, when only one method is described, the resulting single 
+names are naturally preferred IUPAC names. When more than one method is recommended for generating the names of 
+parent hydrides, preferred IUPAC names, and in some cases preselected names, must be chosen. Some retained names 
+are used as preferred IUPAC names and as names for use in general nomenclature. 
+ru: При наименовании &(parent hydride|ro*), описанных в главе P-2, если описан только один метод, полученные 
+отдельные названия, естественно, являются предпочтительными названиями ИЮПАК. Если для наименования &(parent hydride|ro*) 
+рекомендовано более одного метода, необходимо выбрать предпочтительные названия ИЮПАК, а в некоторых случаях и 
+заранее выбранные названия. Некоторые из &(retained name|ro*) используются в качестве предпочтительных названий ИЮПАК 
+и в качестве названий для использования в общей номенклатуре.
 
-#P-55
-en: Selecting the preferred retained name for functional parent compounds 
-ru: Выбор предпочтительного сохраненного названия для функциональных &(parent compound|ro*)
+@Content
 
-#P-56
-en: Selecting the preferred suffix for the principal characteristic groups 
-ru: Выбор предпочтительного суффикса для основных &(characteristic group|ro*)
+#P-52.1
+en: Selecting preselected names  
+ru: Выбор предварительно выбранных имен
 
-#P-57
-en: Selecting preferred and preselected prefixes for substituent group names 
-ru: Выбор предпочтительных и предварительно выбранных префиксов для названий &(substituent group|ro*)
+#P-52.1.1+
+en: Mononuclear parent hydride names are listed in P-21.1.1. Phosphane, <%p%>, arsane, <%as%>, stibane, <%sb%>, 
+and bismuthane, <%bi%>, are preselected names; the names phosphine, arsine, stibine, and bismuthine, respectively, are 
+retained for use in general nomenclature. 
+ru: Названия одноядерных &(parent hydride|ro*) приведены в P-21.1.1. Фосфан, <%p%>, арсан, <%as%>, стибан, <%sb%>, 
+и висмутан, <%bi%>, являются предварительно выбранными названиями; названия фосфин, арсин, стибин и висмутин, соответственно, 
+сохранены для использования в общей номенклатуре.
+%p: <$ PH3 $>
+%as: <$ AsH3 $>
+%sb: <$ SbH3 $>
+%bi: <$ BiH3 $>
 
-#P-58
-en: Selection of preferred IUPAC names  
+#P-52.1.2+
+en: Preselected names for homogeneous acyclic polynuclear parent hydrides are described in P-21.2.2. The 
+preselected name for <%f%> is the retained name hydrazine; the systematic name diazane may be used in general nomenclature. 
+ru: Предварительно выбранные названия для однородных ациклических полиядерных &(parent hydride|ro*) описаны в P-21.2.2. 
+Предварительно выбранное название для <%f%> — это сохраненное название гидразин; систематическое название диазан может 
+использоваться в общей номенклатуре.
+%f: <$ NH2-NH2 $>
+
+#P-52.1.3+
+en: Preselected names for heterogeneous acyclic parent hydrides composed of alternating ‘ab’ atoms, i.e., [<%a%>
+parent hydrides], except carbon or halogen, are described in P-21.2.3.1. 
+%a:a(ba)_{_n_}
+ru: Предварительно выбранные названия для гетерогенных ациклических &(parent hydride|ro*), состоящих из чередующихся 
+атомов «ab», т. е. [<%a%> &(parent hydride|*)], за исключением углерода или галогена, описаны в P-21.2.3.1.
+
+@p .framed
+en: In these recommendations, the ‘amine’ characteristic group is recognized in <%a%> parent hydrides, which is a 
+change from earlier recommendations where it was not recognized. In addition, carbon was not excluded as a ‘b’ 
+element leading to conflicts with the order of priority for heteranes.  
+ru: В этих рекомендациях &(characteristic group) «амина» признаётся в &(parent hydride|pr*) <%a%>, что является изменением 
+по сравнению с более ранними рекомендациями, где она не признавалась. Кроме того, углерод не был исключён как элемент «b», 
+что приводило к конфликтам с порядком приоритета для гетеранов.
+%a:a(ba)_{_n_}
+
+@Examples
+
+@cell
+<$ SnH3-O-SnH2-O-SnH3 $>
+
+en: tristannoxane (preselected name)  <br>
+[not bis(stannyloxy)stannane] 
+ru: тристанноксан (предварительно выбранное название) <br>
+[не бис(станнилокси)станнан]
+
+@cell
+<$ CH3-NH-CH3 $>
+
+en: _N_-methylmethanamine (PIN)  <br>
+(not dicarbazane) 
+ru: _N_-метилметанамин (PIN) <br>
+(не дикарбазан)
+
+@cell
+<$ HSe-S-Se-S-SeH $>
+
+en: triselenathiane (preselected name)
+ru: триселенатиан (предварительно выбранное имя)
+
+@cell
+<$ SiH3-NH-SiH2-NH-SiH3 $>
+  
+en: _N_,_N_′-disilylsilanediamine (based on silane, a preselected name)  <br>
+(not trisilazane)
+ru: _N_,_N_′-дисилилсиландиамин (на основе силана, предварительно выбранное название) <br>
+(не трисилазан)
+
+@End
+
+#P-52.1.4+
+en: Preselected names for parent hydrides with nonstandard bonding numbers are discussed in P-21.1.2.1. 
+ru: Предварительно выбранные названия для &(parent hydride|ro*) с нестандартными &(bonding number|tv*) обсуждаются в P-21.1.2.1.
+
+@Examples
+
+@cell
+<$ PH5 $>
+  
+en: λ^{5}-phosphane (preselected name)  <br>
+phosphorane 
+ru: λ^{5}-фосфан (предварительно выбранное название) <br>
+фосфоран
+
+@cell
+<$ AsH5 $>
+  
+en: λ^{5}-arsane (preselected name)  <br>
+arsorane  
+ru: λ^{5}-арсан (предварительно выбранное имя) <br>
+арсоран
+
+@cell
+<$ SH4 $>
+  
+en: λ^{4}-sulfane (preselected name)  <br>
+(not sulfurane) 
+ru: λ^{4}-сульфан (предварительно выбранное название) <br>
+(не сульфуран)
+
+@cell
+<$ SH6 $>
+  
+en: λ^{6}-sulfane (preselected name)  <br>
+(not persulfurane) 
+ru: λ^{6}-сульфан (предварительно выбранное название) <br>
+(не персульфуран)
+
+@cell
+<$ IH3 $>
+  
+en: λ^{3}-iodane (preselected name)  <br>
+(not iodinane) 
+ru: λ^{3}-йодан (предварительно выбранное название) <br>
+(не йодинан)
+
+@cell
+<$ IH5 $>
+  
+en: λ^{5}-iodane (preselected name) <br>
+(not periodinane) 
+ru: λ^{5}-йодан (предварительно выбранное имя) <br>
+(не периодинан)
+
+@cell
+<$ SbH5 $>
+  
+en: λ^{5}-stibane (preselected name)  <br>
+stiborane 
+ru: λ^{5}-стибан (предварительно выбранное название) <br>
+стиборан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SH@n(1)-SH2@n(2)-SH@n(3)
+$>
+
+en: 2λ^{4}-trisulfane (preselected name) 
+ru: 2λ^{4}-трисульфан (предварительно выбранное название)
+
+@End
+
+#P-52.1.5+
+en: Heteromonocyclic noncarbon Hantzsch-Widman parent hydrides
+ru: Гетеромоноциклические неуглеродные &(parent hydride|*) Ханча-Видмана
+
+@p .framed
+en: The final ‘e’ in Hantzsch-Widman names is required in preferred IUPAC names; it is still optional in general 
+nomenclature. In the 1979 Rules (ref. 1), the final ‘e’ of a Hantzsch-Widman name was omitted when there was no 
+nitrogen in the ring; in the 1993 Guide (ref. 2) this omission was made optional. 
+ru: Конечная буква «e» в названиях по Ганчу-Видману обязательна для предпочтительных названий ИЮПАК; в общей номенклатуре 
+она всё ещё необязательна. В Правилах 1979 г. (ссылка 1) конечная буква «e» в названиях по Ганчу-Видману опускалась 
+при отсутствии азота в кольце; в Руководстве 1993 г. (ссылка 2) это исключение стало необязательным.
+
+#P-52.1.5.1+
+en: Preselected names for homogeneous heteromonocyclic parent hydrides consisting of ten or fewer ring 
+members are Hantzsch-Widman names (see P-22.2.2). Skeletal replacement (‘a’) names are preselected names for 
+homogeneous heteromonocyclic parent hydrides with more than ten ring members (see P-22.2.3). Alternative names, 
+which may be used in general nomenclature, are those formed by using the prefix ‘cyclo’ (see P-22.2.5). 
+ru: Предварительно выбранные названия для однородных гетеромоноциклических &(parent hydride|ro*), состоящих из десяти 
+или менее атомов в кольце, — это названия Ганча-Видмана (см. P-22.2.2). Названия &(skeletal replacement a|ro) — это 
+предварительно выбранные названия для однородных гетеромоноциклических &(parent hydride|ro*) с более чем десятью 
+атомами в кольце (см. P-22.2.3). Альтернативные названия, которые могут использоваться в общей номенклатуре, — это 
+названия, образованные с использованием префикса «цикло» (см. P-22.2.5).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(4,-60)_(x1.2)NH@n(3,-120)_qNH@n(2,170,.45)_qN<_(y-0.5)H>@n(1,-20,.5)_qHN@n(5,10,.45)_q
+$>
+
+en: pentazolidine (preselected name)  <br>
+cyclopentaazane
+ru: пентазолидин (предварительно выбранное название) <br>
+циклопентаазан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H2_(y.5)Ge@n(1,90)\GeH2@n(2,150)|GeH2@n(3,-150)`/Ge<_(y.5)H2>@n(4)`\H2Ge@n(5,-30)`|H2Ge@n(6,30)/
+$>
+
+en: hexagerminane (preselected name)  <br>
+cyclohexagermane 
+ru: гексагерминан (предварительно выбранное название) <br>
+циклогексагерман
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H2Si`|H2Si@n(9,30)_p8SiH2-SiH2-SiH2@n(12,90)-SiH2@n(1,100)_p8SiH2@n(2,160)|SiH2@n(3,-160)_p8SiH2`-SiH2`-SiH2@n(6)`-SiH2_#1
+$>
+
+en: dodecasilacyclododecane (preselected name; see P-12.2)  <br>
+cyclododecasilane
+ru: додекасилациклододекан (предварительно выбранное название; см. P-12.2) <br>
+циклододекасилан
+
+@End
+
+#P-52.1.5.2+
+en: Heterogeneous heteromonocyclic parent hydrides consisting of alternating heteroatoms 
+ru: Гетерогенные гетеромоноциклические &(parent hydride|*), состоящие из чередующихся гетероатомов
+
+en: Preselected names for heterogeneous heteromonocyclic parent hydrides with ten or fewer ring members and consisting 
+of alternating heteroatoms, i.e., [ab]_{_n_}, are Hantzsch-Widman names (see P-22.2.2). Skeletal replacement (‘a’) names 
+(see P-22.2.3) are preselected names for heterogeneous monoheterocyclic parent hydrides with alternating heteroatoms 
+with more than ten ring members. Alternative names for use only in general nomenclature are those formed by using the 
+prefix ‘cyclo’ (see P-52.1). 
+ru: Предварительно выбранные названия для гетерогенных гетеромоноциклических &(parent hydride|ro*) с десятью или менее 
+атомами в кольце, состоящими из чередующихся гетероатомов, например, [ab]_{_n_}, являются названиями Ганча-Видмана 
+(см. P-22.2.2). Названия &(skeletal replacement a|ro) (см. P-22.2.3) являются предварительно выбранными названиями для 
+гетерогенных моногетероциклических &(parent hydride|ro*) с чередующимися гетероатомами, содержащими более десяти атомов 
+в кольце. Альтернативными названиями, предназначенными только для использования в общей номенклатуре, являются названия, 
+образованные с использованием префикса ‘cyclo’ (см. P-52.1).
+
+
+#P-52.2
+en: Selecting preferred IUPAC names 
 ru: Выбор предпочтительных названий ИЮПАК
-
-#P-59
-en: Name construction
-ru: Конструкция имени

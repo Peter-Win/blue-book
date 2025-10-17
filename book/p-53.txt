@@ -1,0 +1,27 @@
+#P-53
+en: Selecting preferred retained names of parent hydrides  
+ru: Выбор предпочтительных &(retained name|ro*) &(parent hydride|ro*)
+
+#P-54
+en: Selecting the preferred method for modifying the degree of hydrogenation 
+ru: Выбор предпочтительного метода изменения степени гидрирования
+
+#P-55
+en: Selecting the preferred retained name for functional parent compounds 
+ru: Выбор предпочтительного сохраненного названия для функциональных &(parent compound|ro*)
+
+#P-56
+en: Selecting the preferred suffix for the principal characteristic groups 
+ru: Выбор предпочтительного суффикса для основных &(characteristic group|ro*)
+
+#P-57
+en: Selecting preferred and preselected prefixes for substituent group names 
+ru: Выбор предпочтительных и предварительно выбранных префиксов для названий &(substituent group|ro*)
+
+#P-58
+en: Selection of preferred IUPAC names  
+ru: Выбор предпочтительных названий ИЮПАК
+
+#P-59
+en: Name construction
+ru: Конструкция имени

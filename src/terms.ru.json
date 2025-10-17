@@ -23,6 +23,7 @@
   "assembly|pr": "сборке",
   "assembly|*": "сборки",
   "assembly|ro*": "сборок",
+  "assembly|da*": "сборокам",
   "assembly|tv*": "сборками",
 
   "attachment atom": "атом прикрепления",
@@ -150,6 +151,7 @@
 
   "conjunctive nomenclature": "конъюнктивная номенклатура",
   "conjunctive nomenclature|ro": "конъюнктивной номенклатуры",
+  "conjunctive nomenclature|tv": "конъюнктивной номенклатурой",
 
   "cumulative suffix": "кумулятивный суффикс",
   "cumulative suffix|*": "кумулятивные суффиксы",
@@ -236,6 +238,8 @@
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
 
+  "heterophane [system]|ro*": "гетерофановых",
+
   "hydrazonic acid": "гидразоновая кислота",
   "hydrazonic acid|*": "гидразоновые кислоты",
 
@@ -288,6 +292,8 @@
 
   "multiplicative nomenclature": "мультипликативная номенклатура",
   "multiplicative nomenclature|ro": "мультипликативной номенклатуры",
+  "multiplicative nomenclature|tv": "мультипликативной номенклатурой",
+  "multiplicative nomenclature|vi": "мультипликативую номенклатуру",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|tv*": "неотделяемыми",
@@ -350,6 +356,8 @@
   "parent phane hydrocarbon": "исходный фановый углеводород",
   "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
   "parent phane hydrocarbon|da": "исходному фановому углеводороду",
+
+  "parent ring|pr*": "исходных кольцах",
 
   "parent [structure]": "исходная",
   "parent [structure]|*": "исходные",
@@ -542,6 +550,7 @@
   "substitutive name": "заместительное название",
   "substitutive name|*": "заместительные названия",
   "substitutive name|ro*": "заместительных названий",
+  "substitutive name|pr*": "заместительных названиях",
 
   "substitutive nomenclature": "заместительная номенклатура",
   "substitutive nomenclature|ro": "заместительной номенклатуры",
