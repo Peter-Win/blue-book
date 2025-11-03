@@ -1578,7 +1578,7 @@ ru: циклогекс-3-ен-1-ил (предпочтительный преф�
 #(d)
 en: ‘added indicated hydrogen’ (consistent with the structure of the compound and in accordance with further 
 substitution); 
-ru: «добавлен указанный водород» (в соответствии со структурой соединения и в соответствии с дальнейшей заменой);
+ru: «&(added indicated hydrogen)» (в соответствии со структурой соединения и в соответствии с дальнейшей заменой);
 
 @Examples
 
@@ -2319,7 +2319,7 @@ _N_^{1}-[2-({2-[(ацетилдиметилсилил)метокси]этил}а
 
 #P-14.7 
 en: Indicated and ‘added indicated hydrogen’
-ru: Указанный и «добавленный указанный водород»
+ru: &(Indicated [hydrogen]) и «&(added indicated hydrogen)»
 
 #P-14.7.1+
 en: Indicated hydrogen. Under certain circumstances it is necessary to indicate in the name of a mancude ring or 

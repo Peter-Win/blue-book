@@ -1,4 +1,9 @@
 {
+  " attantion:comm!": "В ключах нельзя использовать большие буквы!",
+
+  "added indicated hydrogen": "добавленный указанный водород",
+  "added indicated hydrogen|da": "добавленному указанному водороду",
+
   "amplificant": "амплификант",
   "amplificant|ro": "амплификанта",
   "amplificant|*": "амплификанты",
@@ -30,6 +35,9 @@
   "attachment atom|*": "атомы прикрепления",
   "attachment atom|tv*": "атомами прикрепления",
 
+  "attached component": "прикреплённый компонент",
+  "attached component|ro": "прикреплённого компонента",
+
   "attachment locant": "локант прикрепления",
   "attachment locant|ro": "локанта прикрепления",
   "attachment locant|da": "локанту прикрепления",
@@ -45,6 +53,17 @@
   "bonding number|tv": "числом связей",
   "bonding number|tv*": "числами связей",
 
+  "bridge prefix": "мостиковый префикс",
+
+  "bridged fused hydrocarbon ring system|ro": "системы мостиковых конденсированных углеводородных колец",
+
+  "bridged fused system": "мостиковая конденсированная система",
+  "bridged fused system|*": "мостиковые конденсированные системы",
+  "bridged fused system|ro*": "мостиковых конденсированных систем",
+  "bridged fused system|tv*": "мостиковыми конденсированными системами",
+
+  "bridged [system]|ro*": "конденсированных",
+
   "bridged fused ring system": "система мостиковых конденсированных колец",
   "bridged fused ring system|*": "системы мостиковых конденсированных колец",
   "bridged fused ring system|ro*": "систем мостиковых конденсированных колец",
@@ -53,6 +72,8 @@
   "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
 
+  "bridged fused ring name": "название мостикового конденсированного кольца",
+
   "bridged ring system": "система мостиковых колец",
   "bridged ring system|vi": "систему мостиковых колец",
   "bridged ring system|tv": "системой мостиковых колец",
@@ -60,6 +81,8 @@
   "bridging": "образование мостика",
   "bridging|ro": "образования мостика",
   "bridging|tv": "образованием мостика",
+
+  "bridging nomenclature": "мостиковая номенклатура",
 
   "carbohydroxamic acid": "карбогидроксамовая кислота",
   "carbohydroximic acid": "карбогидроксимовая кислота",
@@ -88,6 +111,7 @@
 
   "complete substituent": "полный заместитель",
 
+  "complex [prefix]": "сложный",
   "complex [prefix]|*": "сложные",
   "complex substituent prefix": "сложный замещающий префикс",
   "complex substituent prefix|ro": "сложного замещающего префикса",
@@ -128,6 +152,7 @@
   "compound substituent|*": "составные заместители",
   "compound substituent|ro*": "составных заместителей",
 
+  "compound [prefix]": "составной",
   "compound [prefix]|ro": "составного",
   "compound [prefix]|*": "составные",
   "compound [prefix]|ro*": "составных",
@@ -143,6 +168,7 @@
   "composite locant": "композитный локант",
   "composite locant|tv": "композитным локантом",
   "composite locant|*": "композитные локанты",
+  "composite locant|ro*": "композитных локантов",
   "composite locant|tv*": "композитными локантами",
 
   "concatenated [substituent group]|*": "сцепленные",
@@ -157,6 +183,7 @@
   "cumulative suffix|*": "кумулятивные суффиксы",
 
   "cyclophane": "циклофан",
+  "cyclophane|ro": "циклофана",
   "cyclophane|*": "циклофаны",
   "cyclophane|ro*": "циклофанов",
 
@@ -195,17 +222,24 @@
   "functional suffix|ro*": "функциональных суффиксов",
   "functional suffix|tv*": "функциональными суффиксами",
 
+  "fused ring name": "название конденсированных колец",
+
+  "fused ring nomenclature|pr": "номенклатуре конденсированных колец",
+
   "fused ring system": "конденсированная кольцевая система",
   "fused ring system|ro": "конденсированной кольцевой системы",
   "fused ring system|tv": "конденсированной кольцевой системой",
   "fused ring system|vi": "конденсированную кольцевую систему",
   "fused ring system|pr": "конденсированной кольцевой системе",
+  "fused ring system|*": "конденсированные кольцевые системы",
   "fused ring system|ro*": "конденсированных кольцевых систем",
   "fused ring system|da*": "конденсированным кольцевым системам",
 
   "fused system": "конденсированная система",
   "fused system|*": "конденсированные системы",
   "fused system|ro*": "конденсированных систем",
+  "fused system|tv*": "конденсированными системами",
+  "fused [system]|ro": "конденсированной",
 
 
   "fusion atom": "атом слияния",
@@ -220,9 +254,15 @@
   "fusion descriptor": "дескриптор слияния",
   "fusion descriptor|pr": "дескрипторе слияния",
 
+  "fusion letter|*": "буквы слияния",
+
+  "fusion locant|tv*": "локантами слияния",
+
   "fusion name": "название слияния",
+  "fusion name|pr": "названии слияния",
   "fusion name|*": "названия слияния",
   "fusion name|ro*": "названий слияния",
+  "fusion name|pr*": "названиях слияния",
 
   "fusion nomenclature": "номенклатура слияния",
   "fusion nomenclature|ro": "номенклатуры слияния",
@@ -230,6 +270,11 @@
   "fusion nomenclature|vi": "номенклатура слияния",
   "fusion nomenclature|tv": "номенклатурой слияния",
   "fusion nomenclature|pr": "номенклатуре слияния",
+
+  "fusion principle|ro*": "принципов слияния",
+  "fusion principle|da*": "принципам слияния",
+
+  "fusion ring name": "название кольца слияния",
 
   "fusion site": "точка слияния",
   "fusion site|ro": "точки слияния",
@@ -251,6 +296,7 @@
   "independent bridge": "независимый мост",
   "independent bridge|ro*": "независимых мостов",
 
+  "indicated [hydrogen]": "указанный",
   "indicated hydrogen": "указанный водород",
   "indicated hydrogen|ro": "указанного водорода",
   "indicated hydrogen|da": "указанному водороду",
@@ -260,6 +306,13 @@
 
   "indicated hydrogen atom|*": "атомы указанного водорода",
   "indicated hydrogen atom|tv*": "атомами указанного водорода",
+
+  "interparent component|ro": "промежуточного компонента",
+  "interparent component|tv": "промежуточным компонентом",
+  "interparent component|*": "промежуточные компоненты",
+  "interparent component|ro*": "промежуточных компонентов",
+  "interparent component|da*": "промежуточным компонентам",
+  "interparent component|tv*": "промежуточными компонентами",
 
   "imidic acid": "имидовая кислота",
   "imidic acid|*": "имидовые кислоты",
@@ -279,6 +332,10 @@
   "mixed substituent prefix": "смешанный замещающий префикс",
   "mixed substituent prefix|*": "смешанные замещающие префиксы",
   "mixed substituent prefix|ro*": "смешанных замещающих префиксов",
+
+  "multiparent [system]": "мультиисходная",
+  "multiparent [system]|ro": "мультиисходной",
+  "multiparent [system]|*": "мультиисходные",
 
   "multiplicative group": "мультипликативная группа",
   "multiplicative group|ro": "мультипликативной группы",
@@ -300,6 +357,7 @@
 
   "nonfused bridged ring system": "система мостиковых неконденсированных колец",
   "nonfused bridged ring system|ro*": "систем мостиковых неконденсированных колец",
+  "non-fused bridged system|*": "системы неконденсированных колец",
 
   "nonstandard bonding atom": "атом с нестандартными связями",
   "nonstandard bonding atom|2": "атома с нестандартными связями",
@@ -308,6 +366,9 @@
 
   "oic acid": "оевая кислота",
   "oic acid|*": "оевые кислоты",
+
+  "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
+  "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
 
   "parent [chain]": "исходная",
   "parent [chain]|ro": "исходной",
@@ -325,6 +386,7 @@
   "parent component|vi*": "исходные компоненты",
   "parent component|tv*": "исходными компонентами",
   "parent component|pr*": "исходных компонентах",
+  "parent [component]|ro": "исходного",
 
   "parent compound": "исходное соединение",
   "parent compound|ro": "исходного соединения",
@@ -357,6 +419,9 @@
   "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
   "parent phane hydrocarbon|da": "исходному фановому углеводороду",
 
+  "parent ring|ro": "исходного кольца",
+  "parent ring|tv": "исходным кольцом",
+  "parent ring|ro*": "исходных колец",
   "parent ring|pr*": "исходных кольцах",
 
   "parent [structure]": "исходная",
@@ -454,9 +519,12 @@
   "replacement a prefix|ro*": "префиксов замещения (‘a’)",
   "replacement a prefix|da*": "префиксам замещения (‘a’)",
 
+  "retained [name]*": "сохранённые",
+  "retained [name]pr*": "сохранённых",
   "retained name": "сохранённое название",
   "retained name|*": "сохранённые названия",
   "retained name|ro*": "сохранённых названий",
+  "retained name|da*": "сохранённым названиям",
   "retained name|tv*": "сохранёнными названиями",
 
   "[ring] assembly|comment": "часто имеет прилагательные, которые сейчас в женском роде. Если изменить на 'ансамбль', то нужно исправлять",
@@ -539,8 +607,10 @@
   "substituent group|pr*": "замещающих группах",
 
   "substituent prefix": "префикс-заместитель",
+  "substituent prefix|tv": "префиксами-заместителями",
   "substituent prefix|*": "префиксы-заместители",
   "substituent prefix|ro*": "префиксов-заместителей",
+  "substituent prefix|tv*": "префиксами-заместителями",
 
   "substituted [substituent]": "замещённый",
   "substituted [substituent]|*": "замещённые",
@@ -557,6 +627,7 @@
   "substitutive nomenclature|vi": "заместительную номенклатуру",
   "substitutive nomenclature|tv": "заместительной номенклатурой",
   "substitutive nomenclature|pr": "заместительной номенклатуре",
+  "substitutive [nomenclature]|ro": "заместительной",
 
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",
@@ -585,6 +656,9 @@
 
   "thioic [acid]": "тиоевая",
   "thioic acid": "тиоевая кислота",
+
+  "von baeyer name": "название по Фон-Баеру",
+  "von baeyer name|ro": "названия по Фон-Баеру",
 
   "zzz": ""
 }

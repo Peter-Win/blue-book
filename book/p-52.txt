@@ -165,7 +165,7 @@ ru: 2λ^{4}-трисульфан (предварительно выбранно�
 
 @End
 
-#P-52.1.5+
+#P-52.1.5
 en: Heteromonocyclic noncarbon Hantzsch-Widman parent hydrides
 ru: Гетеромоноциклические неуглеродные &(parent hydride|*) Ханча-Видмана
 
@@ -239,9 +239,1820 @@ ru: Предварительно выбранные названия для ге
 (см. P-22.2.2). Названия &(skeletal replacement a|ro) (см. P-22.2.3) являются предварительно выбранными названиями для 
 гетерогенных моногетероциклических &(parent hydride|ro*) с чередующимися гетероатомами, содержащими более десяти атомов 
 в кольце. Альтернативными названиями, предназначенными только для использования в общей номенклатуре, являются названия, 
-образованные с использованием префикса ‘cyclo’ (см. P-52.1).
+образованные с использованием префикса ‘цикло’ (см. P-52.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)H_(y.5)P@n(1,90)\BH@n(2,150,.45)|PH@n(3,-150,.45)`/B<_(y.5)H>@n(4,-90)`\HP@n(5,-30,.45)`|HB@n(6,30,.45)/
+$>
+
+en: 1,3,5,2,4,6-triphosphatriborinane (preselected name)  <br>
+cyclotriboraphosphane 
+ru: 1,3,5,2,4,6-трифосфатриборинан (предварительно выбранное название) <br>
+циклотриборафосфан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)O`|H2Si@n(10,30,.6)_p8O-SiH2@n(12,90)-O-SiH2@n(14,90)-O@n(1,110)_p8SiH2@n(2,160,.5)|O@n(3,-160,.45)_p8SiH2@n(4,-110)`-O`-SiH2`-O@n(7)`-SiH2_#1
+$>
+
+en: 1,3,5,7,9,11,13-heptaoxa-2,4,6,8,10,12,14-heptasilacyclotetradecane (preselected name)  <br>
+cycloheptasiloxane 
+ru: 1,3,5,7,9,11,13-гептаокса-2,4,6,8,10,12,14-гептасилациклотетрадекан (предварительно выбранное название) <br>
+циклогептасилоксан
+
+@End
+
+#P-52.1.6
+en: Heterocyclic noncarbon von Baeyer and spiro compounds 
+ru: Гетероциклические неуглеродные соединения фон Байера и спиросоединения
+
+#P-52.1.6.1+
+en: Preselected names for von Baeyer compounds and for spiro compounds having only monocyclic components 
+and consisting entirely of heteroatoms of the same kind are names formed by citing the appropriate prefix, such as 
+‘bicyclo’, ‘spiro’, etc., and descriptor enclosed within square brackets followed by a numerical prefix for the total 
+number of heteroatoms and the name of the mononuclear parent hydride; alternative names for use in general 
+nomenclature are formed by skeletal replacement (‘a’) nomenclature (see P-23.4 and P-24.2.4.2). 
+ru: Предварительно выбранные названия для соединений фон Байера и для спиросоединений, имеющих только моноциклические 
+компоненты и состоящих полностью из гетероатомов одного вида, — это названия, образованные путем указания соответствующего 
+префикса, например «бицикло», «спиро» и т. д., и дескриптора, заключенного в квадратные скобки, за которым следует числовой 
+префикс для общего числа гетероатомов и название одноядерного &(parent hydride|ro); альтернативные названия для использования 
+в общей номенклатуре образуются путем номенклатуры &(skeletal replacement a|ro) (см. P-23.4 и P-24.2.4.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)SiH@n(1)_(x%d:1.4)SiH2@n(2)_(a45)SiH2|SiH2_p8SiH2_(x-%d)SiH<_(x.5,y#-1;1)SiH2@n(9,180)_#1>@n(6,90)_(a45)H2Si@n(7,100)`|H2Si@n(8,-100)_p8
+$>
+
+en: bicyclo[4.2.1]nonasilane (preselected name)  <br>
+nonasilabicyclo[4.2.1]nonane 
+ru: бицикло[4.2.1]нонасилан (предварительно выбранное название) <br>
+нонасилабицикло[4.2.1]нонан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)SiH2-SiH@n(1)_(x%d:2.2)SiH@n(2)_(x%d)SiH2\SiH2`/SiH2_(x-%d)SiH@n(6,90)</SiH2@n(12,180,.65)`\>_(x-%d)SiH@n(7,90)</SiH2@n(11,180)`\>`-SiH2`\H2Si/#1
+$>
+
+en: tricyclo<%d%>dodecasilane (preselected name)  <br>
+dodecasilatricyclo<%d%>dodecane
+ru: трицикло<%d%>додекасилан (предварительно выбранное имя) <br>
+додекасилатрицикло<%d%>додекан
+%d:[5.3.1.1^{2,6}]
+
+@End
+
+#P-52.1.6.2+
+en: Preselected names for von Baeyer compounds and for spiro compounds having only monocyclic components 
+and consisting of alternating heteroatoms, i.e., [ab]_{_n_}, are formed by citing the appropriate prefix, such as ‘bicyclo’, 
+‘spiro’, etc., and a descriptor enclosed within square brackets followed by the number of the (‘a’) heteroatom, the 
+skeletal replacement name of the (‘a’) atom, and the skeletal replacement name of the (‘b’) heteroatom (see P-24.2.4.3); 
+alternative names for use in general nomenclature are those formed by skeletal replacement (‘a’) nomenclature. 
+ru: Предварительно выбранные названия для соединений по Байеру и спиросоединений, содержащих только моноциклические 
+компоненты и состоящих из чередующихся гетероатомов, т. е. [ab]_{_n_}, образуются путем указания соответствующего префикса, 
+например, «бицикло», «спиро» и т. д., и дескриптора, заключенного в квадратные скобки, за которым следует номер гетероатома («a»), 
+название &(skeletal replacement a|ro) и название скелетной замены гетероатома («b») (см. P-24.2.4.3);
+альтернативными названиями для использования в общей номенклатуре являются названия, образованные с помощью номенклатуры 
+&(skeletal replacement a|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)Si\O@n(5,100)--SiH2/O@n(3,0,.45)`\SiH2@n(2,-80)`--O@n(1,-100)`/@n(6,180)`/O@n(7,80)`-SiH2`\O@n(9,180)/SiH2-O@n(11,-90)_#1
+$>
+
+en: spiro[5.5]pentasiloxane (preselected name)  <br>
+1,3,5,7,9,11-hexaoxa-2,4,6,8,10-pentasilaspiro[5.5]undecane
+ru: спиро[5.5]пентасилоксан (предварительно выбранное название) <br>
+1,3,5,7,9,11-гексаокса-2,4,6,8,10-пентасиласпиро[5.5]ундекан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HSi\O@n(8,100)\Si<_(y-.5)H>@n(1,150,.45)</O@n(2,80)/SiH@n(3)>|O@n(9,170,.45)|Si<_(y.5)H>#
+$L(2)`\O@n(6,150,.45)`|@n(7,120,.6)/O@n(10)\|O@n(4,30,.45)`/@n(5,20)
+$>
+
+en: tricyclo<%d%>tetrasiloxane (preselected name)  <br>
+2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilaadamantane  <br>
+2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo<%d%>decane 
+ru: трицикло<%d%>тетрасилоксан (предварительно выбранное название) <br>
+2,4,6,8,9,10-гексаокса-1,3,5,7-тетрасилаадамантан <br>
+2,4,6,8,9,10-гексаокса-1,3,5,7-тетрасилатрицикло<%d%>декан
+%d:[3.3.1.1^{3,7}]
+
+@End
+
+#P-52.1.7+
+en: Preselected names for homogeneous and heterogeneous heterobi- and heteropolycyclic fused ring systems are 
+formed by fusion nomenclature principles (see P-25.3.2.4). Alternative names for use in general nomenclature are 
+formed by prefixing the appropriate ‘a’ prefixes in front of the name of the hydrocarbon fused ring system.
+ru: Предварительно выбранные названия для гомогенных и гетерогенных гетероби- и гетерополициклических 
+&(fused ring system|ro*) образуются по принципам &(fusion nomenclature|ro) (см. P-25.3.2.4). Альтернативные названия 
+для использования в общей номенклатуре образуются добавлением соответствующих префиксов «a» к названию углеводородной 
+&(fused ring system|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)As@n(6a)|As@n(3a,90)_pAs<_(y.5)H>@n(4,160)_pAs@n(5,180)_ppAs@n(6)_p|0_qAs@n(3,90)_qqAs@n(2,0)_qAs<_(y-.5)H>@n(1,100)_q
+$>
+
+en: 1_H_,4_H_-pentarsolopentarsole (preselected name)  <br>
+1_H_,4_H_-octaarsapentalene (numbering shown) 
+ru: 1_H_,4_H_-пентарсолопентарсол (предварительно выбранное название) <br>
+1_H_,4_H_-октаарсапентален (нумерация указана)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)B@n(8a)|N@n(4a,90)`/B@n(5,90)`\\N@n(6,150)`|B@n(7,-150)//N@n(8)\/N@n(1)\\B@n(2,-30)|N@n(3,30)`//B@n(4,90)`\
+$>
+
+en: [1,3,5,2,4,6]triazatriborinino[1,2-_a_][1,3,5,2,4,6]triazatriborinine (preselected name)  <br>
+1,3,4a,6,8-pentaaza-2,4,5,7,8a-pentaboranaphthalene (numbering shown)
+ru: [1,3,5,2,4,6]триазатриборинино[1,2-_a_][1,3,5,2,4,6]триазатриборинин (предварительно выбранное имя) <br>
+1,3,4а,6,8-пентааза-2,4,5,7,8а-пентаборанафталин (указана нумерация)
+
+@End
 
 
 #P-52.2
 en: Selecting preferred IUPAC names 
 ru: Выбор предпочтительных названий ИЮПАК
+
+@Content
+
+#P-52.2.1
+en: Acyclic and monocyclic hydrocarbons 
+ru: Ациклические и моноциклические углеводороды
+
+#P-52.2.1.1+
+en: The names methane, ethane, propane, and butane are used as preferred IUPAC names for <%me%>, <%et%>, 
+<%pr%>, and <%bu%>, respectively. Acetylene is the preferred IUPAC name for HC≡CH but 
+substitution is not allowed. Limited substitution is allowed in general nomenclature, see P-15.1.8.2.2. 
+ru: Названия метан, этан, пропан и бутан используются в качестве предпочтительных названий ИЮПАК для <%me%>, <%et%>, 
+<%pr%> и <%bu%> соответственно. Ацетилен является предпочтительным названием ИЮПАК для HC≡CH, но замена не допускается. 
+Ограниченная замена допускается в общей номенклатуре, см. P-15.1.8.2.2.
+%me: <$ CH4 $>
+%et: <$ CH3-CH3 $>
+%pr: <$ CH3-CH2-CH3 $>
+%bu: <$ CH3-CH2-CH2-CH3 $>
+
+#P-52.2.1.2+
+en: The name [_n_]annulene is used in preferred IUPAC names as a parent component in fusion nomenclature (see 
+P-25.3.2.1.1) and may be used in general nomenclature as the name for the monocycle itself. Preferred IUPAC names 
+for cycloalkenes and cycloalkapolyenes are generated from the corresponding cycloalkane names (see P-31.1.3.1). 
+ru: Название [_n_]аннулен используется в предпочтительных названиях ИЮПАК в качестве исходного компонента в 
+&(fusion nomenclature|pr) (см. P-25.3.2.1.1) и может использоваться в общей номенклатуре в качестве названия самого моноцикла. 
+Предпочтительные названия ИЮПАК для циклоалкенов и циклоалкаполиенов образуются из соответствующих названий циклоалканов 
+(см. P-31.1.3.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\@n(2,-30)|@n(3)`//@n(4,90)`\@n(5,150)`||@n(6,-150)/@n(1,-90)
+$>
+
+en: benzene (PIN) <br> 
+(not [6]annulene) 
+ru: бензол (PIN) <br>
+(не [6]аннулен)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(4,60)_q7@n(3,20)_qq7@n(2,-30)_q7@n(1,-90)_q7@n(7,-150)_qq7@n(6,160)_q7@n(5,120)
+$>
+
+en: cyclohepta-1,3,5-triene (PIN)  <br>
+1_H_-[7]annulene (preferred IUPAC name  <br>
+for the parent component in fusion nomenclature, see P-25.3.2.1.1) 
+ru: циклогепта-1,3,5-триен (PIN) <br>
+1_H_-[7]аннулен (предпочтительное название ИЮПАК <br>
+для &(parent component|ro) в &(fusion nomenclature|pr), см. P-25.3.2.1.1)
+
+@End
+
+#P-52.2.2
+en: Heteroacyclic and heteromonocycles 
+ru: Гетероациклические и гетеромоноциклы
+
+#P-52.2.2.1+
+en: Formazan is the preferred IUPAC name retained for <%a%>. Hydrazine is the preferred name for <%b%>. 
+ru: Формазан — предпочтительное название ИЮПАК для <%a%>. Гидразин — предпочтительное название для <%b%>.
+%a: <$ HN=N-CH=N-NH2 $>
+%b: <$ H2N-NH2 $>
+
+#P-52.2.2.2+
+en: Preferred IUPAC names for heteromonocyclic rings with no more than ten ring members are Hantzsch
+Widman names, including the locants ‘1,2’ and ‘1,3’. The retained names ‘oxazole’, ‘isoxazole’, ‘thiazole’, and 
+‘isothiazole’ are allowed in general nomenclature.
+ru: Предпочтительными названиями ИЮПАК для гетеромоноциклических колец, содержащих не более десяти атомов, 
+являются названия Ганча-Видмана, включая локанты «1,2» и «1,3». Сохранённые названия «оксазол», «изоксазол», «тиазол» 
+и «изотиазол» разрешены в общей номенклатуре.
+
+@p .framed
+en: Although the final ‘e’ in Hantzsch-Widman names is required in preferred IUPAC names; it is still optional in 
+general nomenclature. In the 1979 Rules (ref. 1), the final ‘e’ of a Hantzsch-Widman name was omitted when there 
+was no nitrogen in the ring; in the 1993 Guide (ref. 2) this omission was made optional. 
+ru: Хотя конечная «e» в **английских** названиях по Ганчу-Видману обязательна для предпочтительных названий ИЮПАК, 
+в общей номенклатуре она всё ещё необязательна. В Правилах 1979 года (ссылка 1) конечная «e» в названиях по Ганчу-Видману 
+опускалась при отсутствии азота в кольце; в Руководстве 1993 года (ссылка 2) это исключение стало необязательным.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qqN@n(2,-20)_qO@n(1,-90,.55)_q_qq
+$>
+
+en: 1,2-oxazole (PIN)  <br>
+isoxazole 
+ru: 1,2-оксазол (PIN) <br>
+изоксазол
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-N_qq_qS@n(1)_q_qq
+$>
+
+en: 1,3-thiazole (PIN)  
+thiazole
+ru: 1,3-тиазол (PIN)
+тиазол
+
+@End
+
+#P-52.2.3
+en: Unsaturated heteromonocyclic compounds with more than ten ring members
+ru: Ненасыщенные гетеромоноциклические соединения с более чем десятью членами кольца
+
+en: Preferred IUPAC names for unsaturated monocyclic compounds with more than ten ring members derived from 
+cycloalkanes and modified by skeletal replacement (‘a’) nomenclature are formed by changing the ‘ane’ ending of the 
+saturated heteromonocycle to ‘ene’, ‘adiene’, etc. (see P-31.1.1). [_n_]Annulene names may be used in general 
+nomenclature (see P-31.1.3.2) for the heteromonocycle itself; however, the name ‘annulene’ cannot be used to 
+designate these heterocyclic compounds as components in fusion nomenclature. 
+ru: Предпочтительные названия ИЮПАК для ненасыщенных моноциклических соединений с более чем десятью атомами в цикле, 
+полученных из циклоалканов и модифицированных номенклатурой &(skeletal replacement a|ro), образуются путём замены 
+окончания «ан» насыщенного гетеромоноцикла на «ен», «адиен» и т. д. (см. P-31.1.1). Названия [_n_]аннуленов могут 
+использоваться в общей номенклатуре (см. P-31.1.3.2) для самого гетеромоноцикла; однако название «аннулен» не может быть 
+использовано для обозначения этих гетероциклических соединений как компонентов в номенклатуре слияния.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_q_qq@n(2,0)_qN<_(y-.5)H>@n(1,100,.55)_q`\\l@n(12)`/`\\l@n(10)`/||@n(8,150)\//@n(6,90)\//@n(4,80)
+$>
+
+en: 1-azacyclotrideca-2,4,6,8,10,12-hexaene (PIN)  <br>
+1-azacyclotridecine [preferred IUPAC name  <br>
+for the principal component in a fusion name (see also P-25.2.2.1.2)  <br>
+and 1-azacyclotridecino as an attached component (see P-25.3.2.2.2)]  <br>
+1_H_-1-aza[13]annulene
+ru: 1-азациклотридека-2,4,6,8,10,12-гексаен (PIN) <br>
+1-азациклотридецин [предпочтительное название ИЮПАК <br>
+для основного компонента в &(fusion name|pr) (см. также P-25.2.2.1.2) <br>
+и 1-азациклотридецино в качестве присоединённого компонента (см. P-25.3.2.2.2)] <br>
+1_H_-1-аза[13]аннулен
+
+@End
+
+
+#P-52.2.4
+en: Preferred IUPAC names in fusion nomenclature 
+ru: Предпочтительные названия ИЮПАК в &(fusion nomenclature|pr)
+
+#P-52.2.4.1
+en: Five-membered ring requirement 
+ru: Требование пятичленного кольца
+
+en: Fusion nomenclature gives preferred IUPAC names only to compounds having at least two rings of at least five or more 
+members. This requirement is not necessarily applied in general nomenclature, in which names such as 
+cyclopropabenzene and cyclobutabenzene can be used. When fusion names are not allowed, unsaturated von Baeyer 
+ring system names are preferred IUPAC names (see P-31.1.4.2).
+ru: В &(fusion nomenclature|pr) предпочтительные названия ИЮПАК даны только соединениям, имеющим не менее двух циклов, 
+состоящих не менее чем из пяти или более звеньев. Это требование не обязательно применяется в общей номенклатуре, где могут 
+использоваться такие названия, как циклопропабензол и циклобутабензол. Если &(fusion name|*) не допускаются, 
+предпочтительными названиями ИЮПАК являются названия ненасыщенных циклических систем фон Байера (см. P-31.1.4.2).
+
+@p .framed
+en: This is a change from the recommendation in the 1998 publication on fused ring nomenclature (see FR-0, ref. 4) and 
+the 1993 Guide (ref. 2) where no restriction was placed on the size of the two rings that could be used in a fused ring 
+system. For preferred IUPAC names a fusion name can only be used when at least two rings of five or more 
+members are present; this is consistent with recommendations in the 1979 edition (ref. 1). In general nomenclature 
+there is no restriction on the size of rings in a fused ring system.
+ru: Это изменение по сравнению с рекомендациями публикации 1998 года по &(fused ring nomenclature|pr) (см. FR-0, ссылка 4) 
+и Руководства 1993 года (ссылка 2), где не было ограничений на размер двух колец, которые могли быть использованы в 
+&(fused ring system|pr). Для предпочтительных названий ИЮПАК &(fusion name) может быть использовано только при наличии 
+как минимум двух колец из пяти или более элементов; это соответствует рекомендациям издания 1979 года (ссылка 1). 
+В общей номенклатуре ограничений на размер колец в &(fused ring system|pr) нет.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(1,-120)//@n(2,-90)\@n(3,-30)||@n(4,30)`/@n(5,90)`\\@n(6,120)`\@n(7,180)_p3
+$>
+
+en: 1_H_-cyclopropabenzene  <br>
+bicyclo[4.1.0]hepta-1,3,5-triene (PIN) 
+ru: 1_H_-циклопропабензол <br>
+бицикло[4.1.0]гепта-1,3,5-триен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|//@n(2,-90)\@n(3,-30)||@n(4,30)`/@n(5,90)`\\@n(6,110)`-@n(7,135)`||@n(8,-135)-@n(1,-110)
+$>
+
+en: cyclobutabenzene  <br>
+bicyclo[4.2.0]octa-1,3,5,7-tetraene (PIN)
+ru: циклобутабензол <br>
+бицикло[4.2.0]окта-1,3,5,7-тетраен (PIN)
+
+@End
+
+#P-52.2.4.2
+en: Heteromonocycles as components in fusion names 
+ru: Гетеромоноциклы как компоненты в &(fusion name|pr*)
+
+en: Heteromonocycles having more than ten ring members and the maximum number of noncumulative double bonds 
+whose names are denoted by the ‘ine’ ending described in P-22.2.4 are used as parent components as well as attached 
+components in preferred IUPAC fusion names. ‘Annulene’ names modified by skeletal replacement (‘a’) nomenclature 
+(see P-52.2.3) are not recommended for generating names of heterocyclic fusion compounds. 
+ru: Гетеромоноциклы, содержащие более десяти атомов в кольце и максимальное число некумулятивных двойных связей, 
+названия которых обозначены окончанием «ин», описанным в P-22.2.4, используются в качестве исходных компонентов, 
+а также присоединённых компонентов в предпочтительных названиях соединений по ИЮПАК. Названия «аннуленов», модифицированные 
+номенклатурой &(skeletal replacement a|ro) (см. P-52.2.3), не рекомендуются для создания названий гетероциклических соединений.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)||l`/@n(14,90,.4)`\\`|//\/O@n(18)\//r\O@n(21)/\\/O@n(24)-\r/`||`\@n(2,,.4)`//@n(1,-150,.4)|\|O@n(5,30,.45)`/`=`\O@n(8,90)`/`\O@n(10,90)`/`\\`/O@n(13,90)`\
+$>
+
+en: 9_H_-dibenzo[_g_,_p_][1,3,6,9,12,15,18]heptaoxacycloicosine (PIN; see P-25.3.6.1)  
+ru: 9_H_-дибензо[_g_,_p_][1,3,6,9,12,15,18]гептаоксациклокозин (PIN; см. P-25.3.6.1)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_p8O@n(15,80)`-_pp8`|<`\N@n(20)`//|\\/>_pp8-</`\\`-@n(2,-120,.4)`//N@n(1,-170,.45)\>_pp8/O@n(6)\//r\O@n(9,-30)|`//`\O@n(12,90)`/`\\
+$>
+
+en: [1,4,7,10]tetraoxacyclohexadecino[13,12-_b_:14,15-_b_′]dipyridine (PIN; see P-25.3.7.1)
+ru: [1,4,7,10]тетраоксациклогексадецино[13,12-_b_:14,15-_b_′]дипиридин (PIN; см. P-25.3.7.1)
+
+@End
+
+#P-52.2.4.3
+en: Multiparent fused ring systems with three or more interparent components 
+ru: &(Multiparent [system]|*) &(fused ring system|*) с тремя или более промежуточными компонентами
+
+en: When two (or more) possible parent components are separated by an odd number of interparent components and these 
+are ordered symmetrically with respect to their component rings (but not necessarily with their fusion locants), the 
+whole system is treated as a multiparent system. In P-25.3.7.3, second- and higher-order interparent components are 
+named using the multiplying prefixes ‘di’, ‘tri’, etc., or ‘bis’, ‘tris’, etc. Appropriate locants are assigned to interparent 
+components, unprimed and primed for first-order interparent components, double primed for second-order interparent 
+components, triple primed for third-order interparent components, and so on. 
+ru: Когда два (или более) возможных &(parent component|ro*) разделены нечетным числом &(interparent component|tv*), 
+которые упорядочены симметрично относительно своих колец компонентов (но не обязательно с их &(fusion locant|tv*)), 
+вся система рассматривается как &(multiparent [system]). В P-25.3.7.3 &(interparent component|*) второго и более высокого 
+порядка именуются с использованием умножающих префиксов «ди», «три» и т.д., или «бис», «трис» и т.д. Соответствующие 
+локанты назначаются &(interparent component|da*): без штриха и со штрихом для &(interparent component|ro*) первого порядка, 
+с двойным штрихом для &(interparent component|ro*) второго порядка, с тройным штрихом для &(interparent component|ro*) 
+третьего порядка и т.д.
+
+@Examples
+
+@cell
+<$
+@:fl(v,a:150,L:.8)<_(a&a,L&L,N0)"&v">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@fl(c')_pp_pO_p_pp@n(2',45,.5)-@n(3',135,.5)||l@n(4',-135,.5)<`-@n(1',-45,.5)>@n(5'',-20,.6)\//@n(1'',-160,.6)`|@n(2'',145,.6)<`\\`/@n(4'',20,.6)>@n(4,45,.5)-@n(1,135,.5)||l@fl(b,-150)@n(2,-135,.5)<`-@n(3,-45,.5)>_q_qq_qO_q
+$>
+
+en: benzo[1′′,2′′:3,4;4′′,5′′:3′,4′]dicyclobuta[1,2-_b_:1′,2′-_c′_]difuran (PIN) 
+ru: бензо[1′′,2′′:3,4;4′′,5′′:3′,4′]дициклобута[1,2-_b_:1′,2′-_c′_]дифуран (PIN) 
+
+@End
+
+en: When symmetry permits grouping of interparent components and parent components, such groupings can be formed 
+and cited as such using the prefixes ‘bis’, ‘tris’, etc. to denote groups that are enclosed within parentheses. Unprimed 
+locants only are used within such groupings. This method is often encountered and may be used in general 
+nomenclature.
+ru: Если симметрия допускает группировку &(interparent component|ro*) и &(parent component|ro*), такие группировки 
+можно формировать и обозначать как таковые, используя префиксы «бис», «трис» и т. д. для обозначения групп, заключённых 
+в скобки. Внутри таких группировок используются только локанты без штриха. Этот метод часто встречается и может быть 
+использован в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:fl(v,a:150,L:.8)<_(a&a,L&L,N0)"&v">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@fl(c')_pp_pO_p_pp@n(1',45,.5)-@n(4',135,.5)||l@n(3',-135,.5)<`-@n(2',-45,.5)>@n(4'',-20,.6)\//@n(2'',-160,.6)`|@n(1'',145,.6)<`\\`/@n(5'',20,.6)>@n(3,45,.5)-@n(2,135,.5)|@fl(c,-158)@n(1,-135,.5)<`-@n(4,-45,.5)>_qq_qO_q_qq
+$>
+
+en: benzo[1′′,2′′:3,4;4′′,5′′,3′,4′]dicyclobuta[1,2-_c_:1′,2′-_c′_]difuran (PIN)  <br>
+benzo[1′′,2′′:3,4;4′′,5′′:3′,4′]bis(cyclobuta[1,2-_c_]furan) 
+ru: бензо[1′′,2′′:3,4;4′′,5′′,3′,4′]дициклобута[1,2-_c_:1′,2′-_c′_]дифуран (PIN) <br>
+бензо[1′′,2′′:3,4;4′′,5′′:3′,4′]бис(циклобута[1,2-_c_]фуран)
+
+@End
+
+#P-52.2.4.4
+en: Limitations to fusion nomenclature 
+ru: Ограничения в номенклатуре слияния
+
+en: The fusion principles described in P-25.1 through P-25.3 apply to pairs of components. It is not possible by these 
+principles to name a system in which a third component is _ortho_- and _peri_-fused to two components that are themselves 
+_ortho_- or _ortho_- and _peri_-fused together. Hence, when a third component is _ortho_- and _peri_-fused to two components 
+that are themselves _ortho_- or _ortho_- and _peri_-fused together, the following procedures are applied to generate a 
+preferred IUPAC name. 
+ru: Принципы слияния, описанные в пунктах P-25.1 – P-25.3, применяются к парам компонентов. Эти принципы не позволяют 
+дать название системе, в которой третий компонент является &(ortho- and peri-fused|tv) с двумя компонентами, которые 
+сами являются в _орто_- или &(ortho- and peri-fused|tv*). Следовательно, когда третий компонент является &(ortho- and peri-fused|tv) 
+с двумя компонентами, которые сами являются _орто_- или &(ortho- and peri-fused|tv*), для получения предпочтительного 
+названия по ИЮПАК применяются следующие процедуры.
+
+#P-52.2.4.4.1
+en: Selection of a less senior parent ring or ring system 
+ru: Выбор менее старшего родительского кольца или системы колец
+
+#P-52.2.4.4.1.1+
+en: A less preferred parent ring or ring system component is selected that will permit a fusion name. Second 
+and third choice of parent rings or ring system parent components may be chosen according to the seniority order for 
+selecting the senior ring or ring system as the parent for naming the fused ring system (see P-25.3.2.4). 
+ru: Выбран менее предпочтительный компонент &(parent ring|ro) или кольцевой системы, который позволит использовать 
+&(fusion name). Второй и третий варианты &(parent ring|ro*) или &(parent component|ro*) системы колец могут быть выбраны 
+в соответствии с порядком старшинства для выбора старшего кольца или кольцевой системы в качестве &(parent component|ro) 
+для &(fused ring system|ro) (см. P-25.3.2.4).
+
+@Examples
+en: Examples:
+ru: Примеры:
+
+@cell
+<$
+/\\r|<_q_qq_q<_q>_(a-10,N2L)_#2>`//`\`|`\\`/|<\//>`//`\`||/\\
+$>
+
+en: cyclobuta[1,7]indeno[5,6-_b_]naphthalene (PIN)
+ru: циклобута[1,7]индено[5,6-_b_]нафталин (PIN)
+
+@End
+
+en: **Explanation**: Anthracene cannot be selected as senior parent component; naphthalene, not indene, is next in seniority 
+order for selection as a parent component.
+ru: **Пояснение**: Антрацен не может быть выбран в качестве старшего &(parent component|ro); следующим по старшинству для 
+выбора в качестве &(parent component|ro) является нафталин, а не инден.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/\\r|<_q_qq_q<_q>_(a-10,N2L)@n(1,-90)_#2>`//`\`|``\\`/|<\//>`//`\`||</\\>`\N@n(10,-90,.55)`//|\\/
+$>
+
+en: 10-azacyclobuta[1,7]indeno[5,6-_b_]anthracene (PIN)
+ru: 10-азациклобута[1,7]индено[5,6-_b_]антрацен (PIN)
+
+@End
+
+en: **Explanation**: Neither quinoline nor pyridine can be used as the senior parent component because neither naphthalene 
+nor anthracene, respectively, can be used as the senior attached component; therefore skeletal replacement (‘a’) 
+nomenclature must be used (see P-25.5.1); and since the preferred hydrocarbon tetracene cannot be used as the parent 
+hydrocarbon to which skeletal (‘a’) replacement can be applied (see P-52.2.4.4.2), the next senior component, 
+anthracene, is chosen as the parent hydrocarbon component. 
+ru: **Пояснение**: Ни хинолин, ни пиридин не могут быть использованы в качестве старшего &(parent component|ro), 
+поскольку ни нафталин, ни антрацен, соответственно, не могут быть использованы в качестве старшего &(attached component|ro); 
+поэтому необходимо использовать номенклатуру &(skeletal replacement a|ro) (см. P-25.5.1); и поскольку предпочтительный 
+углеводород тетрацен не может быть использован в качестве исходного углеводорода, к которому может быть применено 
+&(skeletal replacement a) (см. P-52.2.4.4.2), в качестве &(parent [component]|ro) углеводородного компонента выбирается 
+следующий старший компонент — антрацен.
+
+#P-52.2.4.4.1.2+
+en: It should be noted that benzo heterocycles are considered as one component, thus permitting the 
+construction of fusion names for ring systems that could not otherwise be named by fusion principles. 
+ru: Следует отметить, что бензогетероциклы рассматриваются как один компонент, что позволяет строить &(fusion name|*) 
+для кольцевых систем, которые иначе не могли бы быть названы по &(fusion principle|da*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_p7N_pp7_p7_pp7_p7_pp7/\\|<`/`\\>\\/`|//r\<||`/`\\>/O`|@n(2,-30)`\O@n(1,-90,.55)`/<|>`\\`/||<\>`/
+$>
+
+en: 2_H_-[1,3]benzodioxino[6′,5′,4′:10,5,6]anthra[2,3-_b_]azepine (PIN)
+ru: 2_H_-[1,3]бензодиоксино[6′,5′,4′:10,5,6]антра[2,3-_b_]азепин (PIN)
+
+@End
+
+en: **Explanation**: A normal fusion name is not possible when the four components azepine, anthracene, 1,3-dioxine, and 
+benzene are treated individually; therefore, the use of a benzo name component is necessary; 1-benzazepine cannot be 
+the parent ring because this would require breaking of the attached component that has a retained name, anthra, which is 
+not allowed, see P-25.3.5. 
+ru: **Пояснение**: Обычное &(fusion name) невозможно, если четыре компонента — азепин, антрацен, 1,3-диоксин и бензол — 
+рассматриваются по отдельности; поэтому необходимо использование компонента названия бензо; 1-бензазепин не может быть 
+&(parent ring|tv), поскольку это потребовало бы разрыва &(attached component|ro), имеющего &(retained name) антра, 
+что не допускается, см. P-25.3.5.
+
+#P-52.2.4.4.2
+en: Skeletal replacement (‘a’) nomenclature 
+ru: Номенклатура &(skeletal replacement a|ro)
+
+en: When the fusion principles discussed in P-25.1 through P-25.3 apply, no skeletal replacement (‘a’) name is 
+recommended. This procedure is valid only for cases described here in P-52.2.4.4.2.1. 
+ru: При применении &(fusion principle|ro*), описанных в пунктах P-25.1–P-25.3, не рекомендуется использовать 
+название &(skeletal replacement a|ro). Эта процедура применима только для случаев, описанных в пункте P-52.2.4.4.2.1.
+
+#P-52.2.4.4.2.1+
+en: If the corresponding hydrocarbon fused ring system can be named by fusion principles or has a retained 
+name, then heteroatoms are identified by skeletal replacement (‘a’) nomenclature using the appropriate ‘a’ prefixes (see 
+P-22.2.3). The numbering of the fused hydrocarbon system is not altered by the ‘a’ prefixes. 
+ru: Если соответствующая углеводородная &(fused ring system) может быть названа по &(fusion principle|da*) или имеет 
+&(retained name), то гетероатомы идентифицируются по номенклатуре &(skeletal replacement a|ro) с использованием 
+соответствующих префиксов «a» (см. P-22.2.3). Нумерация &(fused [system]|ro) углеводородной системы не изменяется 
+при добавлении префиксов «a».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+c//l<_(a-%a:81.4707)N@n(2,-80,.55)`==N@n(1,-100,.55)_(a-%b:68.5292)>_(a%a)N@n(3,20,.5)_(a%b,N2)N@n(4,45,.5)_(a%b)`|`\_(a-%a,N2)N@n(6,160,.5)_(a-%b)N_(a-%b,N2)
+$>
+
+en: 1,2,3,4,5,6-hexaazacyclopenta[_cd_]pentalene (PIN)
+ru: 1,2,3,4,5,6-гексаазациклопента[_cd_]пентален (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|N@n(3a^1,-80,.6)/@n(3a,-30,.5)\N@n(4,-30,.5)||`/`\\`/`\\`|N@n(9,-150,.5)//<\>`|N@n(1,-150,.5)//\@n(3,-30)||
+$>
+
+en: 1,3a^{1},4,9-tetraazaphenalene (PIN)
+ru: 1,3a^{1},4,9-тетраазафенален (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y-.5,N0){}_(x-%d:2,N0)`-r_pN@n(10,-150,.6)_pp@n(11,-90)_pN@n(11a,-70,.6)<-:lt@n(12,-60)>_p`-_qN@n(9,150,.5)_qq_qN@n(7a,70,.6)<_q>-@n(7,60)=#1#
+`|<_#lt>//\:c_(y.5,N0){}_(x%d,N0)-r_pN@n(3,30,.5)_pp@n(4,90)_pN@n(4a,110,.55)<`-:rb@n(5,120)>_p-_qN@n(2,-30,.5)_qq@n(1,-90)_qN@n(14a,-110,.6)<_q>`-`=#c|<_#rb>`//`\
+$>
+
+en: 5_H_,12_H_-2,3,4a,7a,9,10,11a,14a-octaazadicyclopenta[_ij_:_i′j′_]benzo[1,2-_f_:4,5-_f′_]diazulene (PIN) 
+ru: 5_H_,12_H_-2,3,4a,7a,9,10,11a,14a-октаазадициклопента[_ij_:_i'j'_]бензо[1,2-_f_:4,5-_f'_]диазулен (PIN)
+
+@End
+
+#P-52.2.4.4.2.2+
+en: If the fused ring system can only be named using skeletal (‘a’) replacement nomenclature, any 
+heteroatoms in bridges are also named using skeletal replacement (‘a’) nomenclature. The replacement terms are cited 
+at the front of the corresponding bridged fused hydrocarbon ring system. Alternatively, the heteroatomic bridge may be 
+named by an appropriate compound or complex bridge prefix.
+ru: Если &(fused ring system) может быть названа только с использованием номенклатуры &(skeletal replacement a|ro), 
+любые гетероатомы в мостиках также называются с использованием номенклатуры &(skeletal replacement a|ro). Замещающие 
+термины &(cited|*) в начале соответствующей &(bridged fused hydrocarbon ring system|ro). В качестве альтернативы, 
+гетероатомный мостик может быть назван с использованием соответствующего префикса, обозначающего 
+&(compound [prefix]) или &(complex [prefix]) &(bridge prefix).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qq7:a@n(5,100)_q7:b_q7:c_q7:d_q7:e@n(8,-100)<_qq7>_(x.5,y#e;a)O@n(9,180,.5)_#a;
+#c=m<_qO@n(2,-20,.5)_q@n(1,-90)=#d>_pO@n(3,20,.5)_p=#b
+$>
+
+en: 2,3,9-trioxa-5,8-methanocyclopenta[_cd_]azulene (PIN)  <br>
+5,8-epoxy-2,3-dioxacyclopenta[_cd_]azulene 
+ru: 2,3,9-триокса-5,8-метаноциклопента[_cd_]азулен (PIN) <br>
+5,8-эпокси-2,3-диоксациклопента[_cd_]азулен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-|:b_p8<_(A-130,L1.3)O@n(10,0,.6)_#1>@n(5,90)`=_p8_pp8_p8_pp8:t_p8@n(2a^1,30,.6)_(a-67.5)<_qq_q@n(1,-120)_#t>_pO@n(3,0,.5)_p=#b
+$>
+
+en: 1_H_-3,10-dioxa-2a^{1},5-ethanocycloocta[_cd_]pentalene (PIN)  <br>
+4_H_-9,2a^{1}-(epoxymethano)-2-oxacycloocta[_cd_]pentalene
+ru: 1_H_-3,10-диокса-2a^{1},5-этаноциклоокта[_cd_]пентален (PIN) <br>
+4_H_-9,2a^{1}-(эпоксиметано)-2-оксациклоокта[_cd_]пентален
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)=_p8o<_(a-67.5)<_qq:n2@n(2,-50)_qO@n(1,-150,.5)_#2>_p@n(3,0)_pp:n4>_pp8r<_#n4>_p8<_(p-1;1;3)<_#1>$color(darkgray)_(A-60,L1.6)$color()_#n2>#
+@n(5,80)`=_p8_pp8_p8@n(9,-120); #2_#3
+$>
+
+en: 1-oxa-5,9,2-(epiethane[1,1,2]triyl)cycloocta[_cd_]pentalene (PIN)  <br>
+5,9,2-(epiethane[1,1,2]triyl)-1-oxacycloocta[_cd_]pentalene 
+ru: 1-окса-5,9,2-(эпиэтан[1,1,2]триил)циклоокта[_cd_]пентален (PIN) <br>
+5,9,2-(эпиэтан[1,1,2]триил)-1-оксациклоокта[_cd_]пентален
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)=@n(5,70)_q7:a_qq7l<_(a64.3)@n(2a,-40,.45)<_pp@n(3,0)_(a80)O@n(4,60,.5)_#a>_q@n(2,-60)_(a-80)S@n(1,-90,.55)>#
+_q7<_#S>@n(9b,90,.45)<_(A-114,L1.5)@n(10,-30)_(a10)_qq_qO@n(12,160,.6)_q<_qql>@n(11,170)$color(darkgray)_#2$color()>#
+_q7_qq7l<_q7@n(6,110)>_pO@n(7,140,.55)_p@n(8,180)_pp@n(9,-160,.35)_p@n(9a,165,.5)
+$>
+
+en: 2_H_-4,7,12-trioxa-1-thia-5,9b-[1,2]epicyclopentadicyclopenta[_cd_,_h_]azulene (PIN)  <br>
+2_H_-5,9b-[2,3]furano-4,7-dioxa-1-thiadicyclopenta[_cd_,_h_]azulene
+ru: 2_H_-4,7,12-триокса-1-тиа-5,9b-[1,2]эпициклопентадициклопента[_cd_,_h_]азулен (PIN) <br>
+2_H_-5,9b-[2,3]фурано-4,7-диокса-1-тиадициклопента[_cd_,_h_]азулен
+
+@End
+
+#P-52.2.4.4.3+
+en: Bridging nomenclature. A bridged fused system (see Section P-25.4) is used to generate names for 
+structures that cannot be named by normal fusion nomenclature. A properly formed fusion name is first created; then 
+additional rings are created by using bridges. 
+ru: &(Bridging nomenclature). &(Bridged fused system) (см. раздел P-25.4) используется для создания названий структур, 
+которые не могут быть названы по обычной &(fusion nomenclature|pr). Сначала создаётся правильно сформированное &(fusion name), 
+затем с помощью &(bridging|ro) создаются дополнительные кольца.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//:n17`\:n18`||@n(20,-150,.5)/@n(21,-90)\\|\@n(17,90)//`|<`\\@n(22,-90)`/>/@n(1,-90)\\@n(2,-30)|`/<`\>||@n(16,150,.5)\/<`|@n(3,-30)`\\>\\:n4@n(4,-30)|:n5@n(5,30)`//`\<`||r>`/@n(15,-150,.5)||l\<//@n(6,30)`|>|@n(7,30)`//@n(8,90)`\`|</>`\\@n(14,-90)`/||l<\@n(9,90)//>`/@n(10,90)`\\@n(11,150,.5)`|:n11/:n12\;
+#n17@n(18,30,.5)_(y#n4;n5,x-.8)@n(24,0,.5)<_(N2r)#n12@n(13,-30,.5)>_(x-1.1,N0)@n(23,180,.5)<_#n18@n(19,180,.5)>_(N2L)#n11@n(12,170,.5);
+#n4\0{}_(x4,<){}_(x1,y#n11,N0)#
+@n(11,-150)|\\@n(10,90)/`||r<`\@n(12,-90)`//>/@n(13,-90)\\|<`//@n(9,90)`\>\@n(8,90)//@n(7,30)`|`\<`/>`||@n(14,-150,.5)/\<|@n(6,30)`//>//@n(5,30)`|@n(4,-30)`\\`/|`|`\@n(15,150,.5)`||/<\\@n(3,-30)|>`|@n(2,-30)`\\@n(1,-90)`/|<\>`//@n(16,90)`\`|</@n(22,-90)\\>`\\@n(20,-90)`/@n(19,-150,.5)||@n(18,150,.5)\@n(17,90)//
+$>
+// Взято из раздела P-25.5.3. В оригинале эта формула сильно размыта и содержит ошибки.
+
+en: 12,19:13,18-di(metheno)dinaphtho[2,3-_a_:2′,3′-_o_]pentaphene (PIN) 
+ru: 12,19:13,18-ди(метено)динафто[2,3-_a_:2',3'-_o_]пентафен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_p8_pp8r<\N//`|`\\@n(1,-90)`/>_p8_pp8_p8_pp8r<_p8>`\<`//N|\\/@n(7,100,.5)>@n(8,-160)_(A-115)_(a%a:53,N2)_(a%a)_(a%a,N2)_#1
+$>
+
+en: 8,7-(azenoetheno)cyclohepta[4,5]cycloocta[1,2-_b_]pyridine (PIN)  <br>
+(not 6,7-buta[1,3]dienocycloocta[1,2-_b_:5,6-_c′_]dipyridine;  <br>
+the fused ring portion has the maximum number of atoms)
+ru: 8,7-(азеноэтено)циклогепта[4,5]циклоокта[1,2-_b_]пиридин (PIN) <br>
+(не 6,7-бута[1,3]диеноциклоокта[1,2-_b_:5,6-_c′_]дипиридин; <br>
+конденсированная кольцевая часть содержит максимальное количество атомов)
+
+@End
+
+#P-52.2.5
+en: Preferred IUPAC names in phane nomenclature 
+ru: Предпочтительные названия ИЮПАК в &(phane nomenclature|pr)
+
+#P-52.2.5.1+
+en: Cyclic and linear phane structures are described in section P-26. For the purpose of selecting preferred 
+IUPAC names cyclic and acyclic phane systems are defined as follows: 
+ru: Циклические и линейные &(phane structure|*) описаны в разделе P-26. Для выбора предпочтительных названий ИЮПАК 
+циклические и ациклические &(phane system|*) определяются следующим образом:
+
+@List 1
+
+@item
+en: cyclophanes are cyclic phane structures containing one or more rings or ring systems, at least one ring or ring 
+system of which must be a mancude system attached to adjacent atoms or chains at nonadjacent ring positions; 
+ru: &(cyclophane|*) — это циклические &(phane structure|*), содержащие одно или несколько колец или кольцевых систем, 
+из которых по крайней мере одно кольцо или кольцевая система должны быть замкнутой системой, присоединенной 
+к соседним атомам или цепям в несмежных положениях кольца;
+
+@item
+en: linear phanes consist of four or more rings or ring systems, two of which must be terminal, and together with 
+acyclic atoms or chains must consist of at least seven nodes (components). 
+ru: линейные &(phane|*) состоят из четырех или более колец или кольцевых систем, два из которых должны быть концевыми, 
+и вместе с ациклическими атомами или цепями должны состоять не менее чем из семи узлов (компонентов).
+
+@End
+
+#P-52.2.5.2+
+en: When the conditions given in P-52.2.5.1 for cyclic phane systems are not fulfilled, names of fused ring 
+systems, bridged fused systems, or von Baeyer systems are preferred IUPAC names. The following subsections 
+illustrate these situations. 
+ru: Если условия, указанные в пункте P-52.2.5.1 для циклических &(phane system|ro*), не выполняются, предпочтительными 
+названиями по ИЮПАК являются названия &(fused ring system|ro*), &(bridged fused system|ro*) или систем фон Байера. 
+В следующих подразделах проиллюстрированы эти ситуации.
+
+#P-52.2.5.2.1+
+en: Mancude systems attached to adjacent atoms of an alicyclic large ring. 
+ru: &(Mancude)-системы, присоединенные к соседним атомам большого алициклического кольца.
+
+en: Mancude systems attached to adjacent atoms of an alicyclic ring are either fused systems or bridged fused systems. 
+Fusion names described in P-25.0 through P-25.3 or bridged fused ring systems described in P-25.4 are preferred 
+IUPAC names.
+ru: &(Mancude)-системы, присоединенные к соседним атомам алициклического кольца, являются либо &(fused system|tv*), 
+либо &(bridged fused system|tv*).
+&(Fusion name|*), описанные в разделах P-25.0–P-25.3, или &(bridged fused ring system|ro*), описанных в разделе P-25.4, 
+являются предпочтительными названиями по ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(5,90)`\`/`\`/`\`|/\/\/@n(16,-90)\||l\//`|@n(2,-30)`\\@n(1,-90)`/
+$>
+
+en: 5,6,7,8,9,10,11,12,13,14,15,16-dodecahydrobenzo[14]annulene (PIN)
+ru: 5,6,7,8,9,10,11,12,13,14,15,16-додекагидробензо[14]аннулен (PIN)
+
+@End
+
+en: **Explanation**: A cyclophane name is not allowed. 
+ru: **Пояснение**: Название &(cyclophane|ro) не допускается.
+
+en: The seniority order described in P-44.2.2.2 for relevant polycyclic systems is as follows: cyclic phane systems > fused 
+ring systems > bridged fused systems > non-fused bridged systems. The following examples illustrate the application of 
+this seniority order in the derivation of a preferred IUPAC name. 
+ru: Порядок старшинства, описанный в P-44.2.2.2 для соответствующих полициклических систем, выглядит следующим образом: 
+циклические &(phane system|*) > &(fused ring system|*) > &(bridged fused system|*) > &(non-fused bridged system|*). 
+Следующие примеры иллюстрируют применение этого порядка старшинства при получении предпочтительного названия ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,1)@;
+\/\/\/\|`/`\`/`\`/`\`/@bt(17,-60)_(x-1,y-.134)`-`\\@btc(1)/=@n(1,110)<\`//@n(3,-130)>_#1@bt(2)
+$>
+
+en: 1(1,3)-benzenacycloheptadecaphane (PIN;  <br>
+a phane name) 
+ru: 1(1,3)-бензенациклогептадека&(phane) (PIN; <br>
+&(phane name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\@n(3,-90,.45)/\/\/\|`/`\`/`\`/`\`/@n(17,90)_(x-1,y-.134)@n(18,100)`=@n(19,120)`\@n(20,180)//@n(21,-120)-@n(1,-100)<\\@n(22,0)`/>_#1@n(2,-90)
+$>
+
+en: bicyclo[16.3.1]docosa-1(22),18,20-triene  <br>
+(a von Baeyer name) 
+ru: бицикло[16.3.1]докоза-1(22),18,20-триен <br>
+(&(von Baeyer name))
+
+@End
+
+en: **Explanation**: A fusion name is not possible; a phane name is preferred to a von Baeyer name.
+ru: **Пояснение**: &(fusion name) невозможно; предпочтительно использовать &(phane name), а не &(von Baeyer name).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-75,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1.1)`-`\\@btc(1)/=@n(1,110)<\`//@n(3,-120)>$slope(30)/@bt(2)-@bt(3)\#
+$slope(60)-\@btc(4)`/`-@n(3,-60)<`\/@n(1,60)>$slope(30)`/@bt(5)`-@bt(6)`\
+$>
+
+en: 1(1,3)-benzena-4(1,3)-cyclohexanacyclohexaphane (PIN,  <br>
+a phane name) 
+ru: 1(1,3)-бензола-4(1,3)-циклогексанациклогекса&(phane) (PIN, <br>
+&(phane name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`=@n(12,120)`\@n(13,180)//@n(14,-120)-@n(1,-110)<\\@n(15,0)`/@n(11,120)>$slope(30)/-\#
+$slope(60)-\`/`-@n(8,80)<`\@n(16,0,.55)/@n(4,-80)>$slope(30)`/`-`\
+$>
+
+en: tricyclo[9.3.1.1^{4,8}]hexadeca-1(15),11,13-triene  <br>
+(a von Baeyer name)
+ru: трицикло[9.3.1.1^{4,8}]гексадека-1(15),11,13-триен <br>
+(&(von baeyer name))
+
+@End
+
+en: **Explanation**: A fusion name is not possible; a phane name is preferred to a von Baeyer name. 
+ru: **Пояснение**: &(Fusion name) невозможно; предпочтительно использовать &(phane name), а не &(von baeyer name).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`-@n(12,120)`\@n(13,180)/@n(14,-120)-@n(1,-110)<\@n(15,0)`/@n(11,120)>$slope(30)/-\#
+$slope(60)-\`/`-@n(8,80)<`\@n(16,0,.55)/@n(4,-80)>$slope(30)`/`-`\
+$>
+
+en: tricyclo[9.3.1.1^{4,8}]hexadecane (PIN,  <br>
+von Baeyer name) 
+ru: трицикло[9.3.1.1^{4,8}]гексадекан (PIN, <br>
+&(von baeyer name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-75,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1.1)`-`\@btc(1)/-@n(1,110)<\`/@n(3,-120)>$slope(30)/@bt(2)-@bt(3)\#
+$slope(60)-\@btc(4)`/`-@n(3,-80)<`\/@n(1,80)>$slope(30)`/@bt(5)`-@bt(6)`\
+$>
+
+en: 1,4(1,3)-dicyclohexanacyclohexaphane  <br>
+(phane name)
+ru: 1,4(1,3)-дициклогексанациклогексафан <br>
+(&(phane name))
+
+@End
+
+en: **Explanation**: A fusion name is not possible; no mancude ring is present, a phane name is not permitted; therefore the 
+von Baeyer name is the preferred IUPAC name.
+ru: **Пояснение**: &(Fusion name) невозможно; отсутствует &(mancude)-кольцо, &(phane name) не допускается; поэтому
+&(von baeyer name) является предпочтительным названием ИЮПАК.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0<_q3_q3>_p_p_p_p@n(12,-100,.5)/\/\/@n(1,-90)\|`/@n(4,90)`\<`|>`/`\`/`\@n(8,100,.5)
+$>
+
+en: hexadecahydro-1_H_-8,12-methanobenzo[13]annulene (PIN)  <br>
+(a bridged ring fused name)
+ru: гексадекагидро-1_H_-8,12-метанобензо[13]аннулен (PIN) <br>
+(&(bridged fused ring name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0<_q3@n(18,0)_q3>_p_p_p_p@n(1,-100,.5)/\/\@n(5,-90)/\|`/`\@n(10,90,.5)<`|>`/`\`/`\@n(14,100,.5)
+$>
+
+en: tricyclo[12.3.1.0^{5,10}]octadecane  <br>
+(a von Baeyer name) 
+ru: трицикло[12.3.1.0^{5,10}]октадекан <br>
+(&(von baeyer name))
+
+@End
+
+en: **Explanation**: No mancude ring, so a phane name is not allowed; the bridged fused ring name is preferred to the von 
+Baeyer name. 
+ru: **Пояснение**: &(Mancude)-кольцо отсутствует, поэтому &(phane name) не допускается; &(bridged fused ring name) 
+предпочтительнее &(von baeyer name|ro).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`||/@n(1,-90)\\@n(2,-30)|`//`\`/@n(5,90)`\`/`\`/`\`|/\/\/@n(16,-90)\
+$>
+
+en: 5,6,7,8,9,10,11,12,13,14,15,16-dodecahydrobenzo[14]annulene (PIN)  <br>
+(fusion name)
+ru: 5,6,7,8,9,10,11,12,13,14,15,16-додекагидробензо[14]аннулен (PIN) <br>
+(&(fusion name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||@n(14,90,.5)`/@n(15,90)`\\`|//@n(18,-90)\@n(1,-90,.5)/@n(2,-90)\/\/\|`/`\`/`\`/`\
+$>
+
+en: bicyclo[12.4.0]octadeca-1(14),15,17-triene  <br>
+(von Baeyer name) 
+ru: бицикло[12.4.0]октадека-1(14),15,17-триен <br>
+(&(von baeyer name))
+
+@End
+
+en: **Explanation**: A phane name not allowed, see Rule P-52.2.5.1; a fusion name is preferred to a von Baeyer name. 
+ru: **Пояснение**: &(Phane name) не допускается, см. Правило P-52.2.5.1; 
+&(fusion name) предпочтительнее, чем &(von baeyer name).
+
+@Examples 2 --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)|`/`\\@n(7,-40)`|//\//@btc(1)\||`/@n(1,-90)`\c\|@bt(2,-120)\S@bt(3)|@bt(4)`/#
+|`//@btc(5)`\<`|/\\r@n(7,140)>`//`\`||/@n(1,90)\r`\`|@bt(6,-120)`\S@bt(7)`|@bt(8)/
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)|`/`\\`|//\@n(1,-90)//\||`/`\c\|@n(5,-30)\S|@n(7,30)`/@n(8,30)#
+|`//`\<`|/\\r>@n(10,90,.5)`//`\`||/\r`\`|@n(14,150,.5)`\S`|@n(16,-150,.5)/@n(17,-150,.5)
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: **(I)** 3,7-dithia-1(1,7),5(7,1)-dinaphthalenacyclooctaphane (PIN; a phane name)  <br>
+**(II)** 5,7,14,16-tetrahydro-1,17:8,10-diethenodibenzo[_c,j_][1,8]dithiacyclotetradecine  <br>
+(a bridged fused ring name) 
+ru: **(I)** 3,7-дитиа-1(1,7),5(7,1)-динафталинациклоокта&(phane) (PIN; &(phane name)) <br>
+**(II)** 5,7,14,16-тетрагидро-1,17:8,10-диэтенодибензо[_c,j_][1,8]дитиациклотетрадецин <br>
+(&(bridged fused ring name))
+
+@End
+
+en: **Explanation**: A phane name is senior to a bridged fused ring name. 
+ru: **Пояснение**: &(Phane name) имеет более высокий приоритет, чем &(bridged fused ring name).
+
+#P-52.2.5.3
+en: Ring assemblies, linear phane names, and other linear acyclic/cyclic compounds
+ru: &(Ring assembly|*), линейные &(phane name|*) и другие линейные ациклические/циклические соединения
+
+en: Phane nomenclature is used to generate preferred IUPAC names for ring assemblies and linear acyclic/cyclic 
+compounds that include a minimum of seven nodes including at least four rings or ring systems, two of which must be 
+terminal, even though the compounds could also be named by substitutive or multiplicative nomenclature.
+ru: &(Phane nomenclature) используется для создания предпочтительных названий ИЮПАК для &(ring assembly|ro*) и линейных 
+ациклических/циклических соединений, которые включают минимум семь узлов, включающих не менее четырех колец 
+или кольцевых систем, два из которых должны быть концевыми, хотя соединения также могут быть названы с помощью 
+&(substitutive [nomenclature]|ro) или &(multiplicative nomenclature|ro).
+
+@p .framed
+en: A new numbering system is now recommended for preferred IUPAC names of ring assemblies with more than two 
+rings or ring systems; it consists of composite locants, for example, 1^{2}. The previous used locant system for ring 
+assemblies with more than two rings or ring systems using serially primed locants (refs. 1 and 2) may be used in 
+general nomenclature. 
+ru: В настоящее время рекомендуется новая система нумерации для предпочтительных названий ИЮПАК &(ring assembly|ro*) 
+с более чем двумя кольцами или кольцевыми системами; она состоит из &(composite locant|ro*), например, 1^{2}. 
+Ранее использовавшаяся система локантов для &(ring assembly|ro*) с более чем двумя кольцами или кольцевых систем, 
+использующая последовательно заштрихованные локанты (ссылки 1 и 2), может быть использована в общей номенклатуре.
+
+@Examples
+en: Example 1:
+ru: Пример 1:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\`/||\//`|-@n(5,-120)||\N@n(1,90,.55)//`|<`\\`/>@n(3,-60)_p4/\\|`//`\`||
+$>
+
+en: 3,5-diphenylpyridine (PIN, substitutive name)
+ru: 3,5-дифенилпиридин (PIN, &(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)|`//`\`||/\\-||\//`|<`\\`/>-@n(5,-120)||\N@n(1,90,.55)//`|<`\\`/>@n(3,-60)-||\//`|<`\\`/>-||\//`|`\\`/
+$>
+
+en: 3,5-di([1,1′-biphenyl]-3-yl)pyridine (PIN, substitutive name) 
+ru: 3,5-ди([1,1′-бифенил]-3-ил)пиридин (PIN, &(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,1)@;
+$slope(30)|`//@btc(1)`\`||/\\@n(1,140)-@:s(n)/\\@n(3,140)<|`//@btc(&n)`\`||@n(1,30)>-@(2)@s(3)/\\@n(5,140)<|`//N@btc(4)@n(1,90,.55)`\`||@n(3,30)>-#
+@s(5)@s(6)/\\|`//@btc(7)`\`||@n(1,30)
+$>
+
+en: 4(3,5)-pyridina-1,7(1),2,3,5,6(1,3)-hexabenzenaheptaphane (PIN, a phane name)  <br>
+3,5-di([<%d%>-terphenyl]-1^{3}-yl)pyridine (a substitutive name, see P-28.3.1)  <br>
+3,5-di([1,1′:3′,1′′-terphenyl]-3-yl)pyridine (a substitutive name) 
+ru: 4(3,5)-пиридина-1,7(1),2,3,5,6(1,3)-гексабензолагепта&(phane) (PIN, &(phane name)) <br>
+3,5-ди([<%d%>-терфенил]-1^{3}-ил)пиридин (&(substitutive name), см. P-28.3.1) <br>
+3,5-ди([1,1′:3′,1′′-терфенил]-3-ил)пиридин (&(substitutive name))
+%d:1^{1},2^{1}:2^{3},3^{1}
+
+@End
+
+@Examples
+en: Example 2:
+ru: Пример 2:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1,-60)-O-@n(1',-120)/=\`//`-`\\
+$>
+
+en: 1,1′-oxydibenzene (PIN, a multiplicative name)  <br>
+phenoxybenzene (a substitutive name)  <br>
+diphenyl ether (a functional class name) 
+ru: 1,1′-оксидибензол (PIN, &(multiplicative name)) <br>
+феноксибензол (&(substitutive name)) <br>
+дифениловый эфир (&(functional class name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ben()/=\<`//`-`\\>@()@n(1,-60)-O-@ben()-O-@n(1',-120)@ben()
+$>
+
+en: 1,1′-[1,4-phenylenebis(oxy)]dibenzene (PIN, a multiplicative name)  <br>
+1,4-diphenoxybenzene (a substitutive name) 
+ru: 1,1′-[1,4-фениленбис(окси)]дибензол (PIN, &(multiplicative name)) <br>
+1,4-дифеноксибензол (&(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+@:cy(b,l:1,r:4)/=\@btc(&b)@n(&r,-170)<`//`-`\\@n(&l,-10)>@;
+$L(%L:1.1)@cy(1,l:,r:1)-O@bt(2)-@cy(3)-O@bt(4)-@cy(5)-O@bt(6)-@cy(7,r:)
+$>
+
+en: 2,4,6-trioxa-1,7(1),3,5(1,4)-tetrabenzenaheptaphane (PIN, a phane name)  <br>
+1,1′-oxybis(4-phenoxybenzene) (a multiplicative name)  <br>
+1-phenoxy-4-(4-phenoxyphenoxy)benzene (a substitutive name) 
+ru: 2,4,6-триокса-1,7(1),3,5(1,4)-тетрабензолагепта&(phane) (PIN, &(phane name)) <br>
+1,1′-оксибис(4-феноксибензол) (&(multiplicative name)) <br>
+1-фенокси-4-(4-феноксифенокси)бензол (&(substitutive name))
+
+@End
+
+@Examples
+en: Example 3:
+ru: Пример 3:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+|_pp_pO_p_pp@n(3,-100)_(a-54)@:ss()S_(A-70)CH2-CH2_(A70)S@():a;
+`-<_(a54)#a>@n(3,45)_qq_qO_q_qq@n(4,135)_(a54)@ss():b;
+`|<_(a-54)#b>@n(3',-80,.5)_pp_pO_p_pp
+$>
+
+en: 3,3′-[furan-3,4-diylbis(sulfanediylethane-2,1-diylsulfanediyl)]difuran (PIN, multiplicative name)  <br>
+3,4-bis{[2-(furan-3-ylsulfanyl)ethyl]sulfanyl}furan (substitutive name)
+ru: 3,3′-[фуран-3,4-диилбис(сульфандиилэтан-2,1-диилсульфандиил)]дифуран (PIN, &(multiplicative name)) <br>
+3,4-бис{[2-(фуран-3-илсульфанил)этил]сульфанил}фуран (&(substitutive name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,-126,.8)@;
+@:ss(n1,n2,n3,n4,a:-120)S@bt(&n1,&a,.55)_(A-70)CH2@bt(&n2,-20)-CH2@bt(&n3,-90)_(A70)S@bt(&n4,-80,.55)@;
+`|<_qq_qO@btc(1)_q_qq>_(a54)@ss(2,3,4,5,-120);
+`-<_(a54)#-4>_qq_qO@btc(6)_q_qq_(a54)@ss(7,8,9,10);
+`-<_(a54)#-4>_qq_qO@btc(11)_q_qq_(a54)@ss(12,13,14,15);
+|_qq_qO@btc(16)_q_qq_(a54)#-8
+$>
+
+en: 2,5,7,10,12,15-hexathia-1,16(3),6,11(3,4)-tetrafuranahexadecaphane (PIN, a phane name)  <br>
+3,3′-[ethane-1,2-diylbis(sulfanediyl)]bis(4-{[2-(furan-3-ylsulfanyl)ethyl]sulfanyl}furan) (a multiplicative name)  <br>
+3-{[2-(furan-3-ylsulfanyl)ethyl]sulfanyl}-4-({2-[(4-{[2-(furan-3-ylsulfanyl)ethyl]sulfanyl}furan-3-<br>
+yl)sulfany]ethyl}sulfanyl)furan (a substitutive name)
+ru: 2,5,7,10,12,15-гексатиа-1,16(3),6,11(3,4)-тетрафуранагексадека&(phane) (PIN, &(phane name)) <br>
+3,3′-[этан-1,2-диилбис(сульфандиил)]бис(4-{[2-(фуран-3-илсульфанил)этил]сульфанил}фуран) (&(multiplicative name)) <br>
+3-{[2-(фуран-3-илсульфанил)этил]сульфанил}-4-({2-[(4-{[2-(фуран-3-илсульфанил)этил]сульфанил}фуран-3-<br>
+ил)сульфани]этил}сульфанил)фуран (&(substitutive name))
+
+@End
+
+
+#P-52.2.6
+en: Selecting preferred IUPAC names for (C_{60}-_I__{h})[5,6]fullerene and (C_{70}-_D_5_{h(6)})[5,6]fullerene 
+modified by ‘nor’ or ‘seco’ prefixes 
+ru: Выбор предпочтительных названий ИЮПАК для (C_{60}-_I__{h})[5,6]фуллерена и (C_{70}-_D_5_{h(6)})[5,6]фуллерена, 
+модифицированных префиксами «нор» или «секо»
+
+#P-52.2.6.1+
+en: Systematic fused and bridged fused ring system names for structures derived from unmodified fullerenes by 
+removal of carbon atoms and rings using a ‘nor operation’, or by removing rings by cutting bonds using a ‘seco’ 
+operation, are often difficult to generate and even more difficult to decipher. Hence, an important objective in naming 
+fullerene fragments is to retain as much as possible of the unmodified fullerene structure on which to base the name. To 
+achieve this, it is recommended that, in order to receive a modified fullerene name, a fullerene fragment must be large 
+enough so as to, arbitrarily, contain more than one-half the number of carbon atoms and more than one-third of the 
+number of rings present in the unmodified fullerene. When these two conditions are fulfilled, a preferred IUPAC name 
+is a modified fullerene name. If at least one of these conditions is not fulfilled the preferred IUPAC name is a fused ring 
+or a bridged fused ring name.
+ru: Систематические названия &(fused ring system|ro*) и &(bridged fused ring system|ro*) для структур, полученных из 
+немодифицированных фуллеренов путем удаления атомов углерода и циклов с помощью операции «nor» или путем удаления циклов 
+путем разрыва связей с помощью операции «seco», часто сложно создать и еще труднее расшифровать. Следовательно, 
+важной целью при наименовании фрагментов фуллеренов является сохранение как можно большей части структуры немодифицированного 
+фуллерена, на которой будет основано название. Для этого рекомендуется, чтобы для получения модифицированного названия 
+фуллерена фрагмент фуллерена был достаточно большим, чтобы содержать более половины числа атомов углерода и более трети 
+числа циклов, присутствующих в немодифицированном фуллерене. При выполнении этих двух условий предпочтительным названием ИЮПАК 
+является название модифицированного фуллерена. Если хотя бы одно из этих условий не выполняется, предпочтительным названием 
+ИЮПАК является &(fused ring name) или &(bridged fused ring name).
+
+en: Fragments of a <%d1%>fullerene or a <%d2%>fullerene derived by removal of carbon atoms or cleavage of 
+bonds are named as norfullerenes, secofullerenes, or seconorfullerenes when **both** of the following two conditions are 
+fulfilled: 
+ru: Фрагменты фуллерена <%d1%> или фуллерена <%d2%>, полученные путем удаления атомов углерода или разрыва связей, называются 
+норфуллеренами, секофуллеренами или секонорфуллеренами, когда выполняются **оба** из следующих двух условий:
+%d1:(C_{60}-_I__{h})[5,6]
+%d2:(C_{70}-_D__{5h(6)})[5,6]
+
+@List 1
+
+@item
+en: the fullerene fragment contains more than one-half of the carbon atoms that were present in the unmodified 
+fullerene, i.e., at least **31 and 36 carbon atoms**, respectively, for the <%d1%>fullerene and  <%d2%>fullerene; 
+ru: фрагмент фуллерена содержит более половины атомов углерода, присутствовавших в немодифицированном фуллерене, 
+т.е. не менее **31 и 36 атомов углерода** соответственно для <%d1%>фуллерена и <%d2%>фуллерена;
+%d1:(C_{60}-_I__{h})[5,6]
+%d2:(C_{70}-_D__{5h(6)})[5,6]
+
+@item
+en: the fullerene fragment must consist of at least one-third of the five- and/or six-membered rings that were present 
+in the unmodified fullerene; i.e., **11 and 13 rings**, respectively, for the <%d1%>fullerene and <%d2%>fullerene. 
+ru: фрагмент фуллерена должен состоять как минимум из одной трети пяти- и/или шестичленных колец, которые присутствовали в 
+немодифицированном фуллерене; т.е. **11 и 13 колец** соответственно для <%d1%>фуллерена и <%d2%>фуллерена.
+%d1:(C_{60}-_I__{h})[5,6]
+%d2:(C_{70}-_D__{5h(6)})[5,6]
+
+@End
+
+#P-52.2.6.2+
+en: Nor<%d1%>fullerenes and nor<%d2%>fullerenes.  
+%d1:(C_{60}-_I__{h})[5,6]
+%d2:(C_{70}-_D__{5h(6)})[5,6]
+
+@Examples 2
+en: Example 1: <%f%>
+ru: Пример 1: <%f%>
+%f: <$ C30H10 $>
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:fl(v,a:%f:150,L:.65)<_(a&a,L&L,N0)"&v">@;
+$L(1.1)_(A0,w2)@fl(n)<_(a-54,SI|L,N2)@fl(o)<_(a-%a:65):b10@n(10b,-100)>_(a%a,w2):a2@n(2a,-10)@fl(a)>#
+_(P,w2)<_(a-54,SI|L,N2)<_(a-%a,w2):b2@n(2b,-20)@fl(c,-%f)>_(a%a,w2):a4@n(4a,70)@fl(d)>#
+_(P,w2)<_(a-54,SI|L,N2)@fl(g,-%f,.8)<_(a-%a,w2):b4@fl(f,-%f)@n(4b,30)>_(a%a):a6@n(6a,150)>#
+_(P,w2)@fl(h)<_(a-54,SI|L,N2)@fl(i)<_(a-%a):b6@n(6b,100)>_(a%a,w2):a8@fl(j,140)@n(8a,-150)>#
+_(P,w2)_(a-54,SI|L,N2)@fl(m,-140)<_(a-%a,w2):b8@n(8b,-170)@fl(l,-%f)>_(a%a):a10@n(10a,-90)#
+=#b10@:zi(r,n1,a1,n2,a2)_(a-28)@n(&n1,&a1,.4)_(a64,N2R,L1)@n(&n2,&a2,.4)_#&r@(a2,1,-80,2,-30)#
+_(N2,S|IR)#b2@zi(a4,3,-20,4,30)_(N2,S|I)#b4@zi(a6,5,60,6,120)_(N2)#b6@zi(a8,7,130,8,-170)_(N2,S|I)#b8@zi(a10,9,-150,10,-120)
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:o(n)"\small{&n}"@;
+$L(1.2)@o(57)_(A0,H)@o(58)<_(a-54,H)@o(46)<_(a-%a:65,H)@o(45):b10>_(a%a,H)@o(47):a2>#
+_(P,H)@o(59)<_(a-54,H)@o(49)<_(a-%a,H)@o(48):b2>_(a%a,H)@o(50):a4>#
+_(P,H)@o(60)<_(a-54,H)@o(52)<_(a-%a,H)@o(51):b4>_(a%a,H)@o(53):a6>#
+_(P,H)@o(56)<_(a-54,H)@o(55)<_(a-%a,H)@o(54):b6>_(a%a,H)@o(41):a8>#
+_(P,H)_(a-54,H)@o(43)<_(a-%a,H)@o(42):b8>_(a%a,H)@o(44):a10#
+-h#b10@:zi(r,n1,n2)_(a-28,H)@o(&n1)_(a64)@o(&n2)_(H)#&r@(a2,27,28)#
+_(H)#b2@zi(a4,31,32)_(H)#b4@zi(a6,35,36)_(H)#b6@zi(a8,39,40)_(H)#b8@zi(a10,23,14)
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: cyclopenta[_cd_]di-_as_-indaceno[3,4,5,6-_fghij_:3′,4′,5′,6′-_lmnoa_]fluoranthene **(I)** (PIN)  <br>
+[not 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,26,29,30,33,34,37,38-triacontanor<%d1%>fullerene **(II)**] 
+ru: циклопента[_cd_]ди-_as_-индацено[3,4,5,6-_fghij_:3',4',5',6'-_lmnoa_]флуорантен **(I)** (PIN) <br>
+[не 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,26,29,30,33,34,37,38-триаконтанор<%d1%>фуллерен **(II)**]
+%d1:(C_{60}-_I__{h})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a systematic fusion ring name because it 
+contains only 30 carbon atoms.
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является систематическое 
+&(fusion ring name), поскольку он содержит всего 30 атомов углерода.
+
+@Examples 2
+en: Example 2:  <%f%>
+ru: Пример 2:  <%f%>
+%f: <$ C34H10 $>
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:fl(v,a:%f:150,L:.65)<_(a&a,L&L,N0)"&v">@;
+@:o(n)"\small{&n}"@;
+$L(1.2)@o(57)_(A0,H)@o(58)<_(a-54,N2)@o(46)<_(a-%a:65,H)@o(45):p1_(a%b:90,H)@o(27):a10>_(a%a,H)@o(47):a1_(a-%b,H)@o(28)=#a10>#
+_(P,H)@o(59)<_(a-54,N2)@o(49)<_(a-%a,H)@o(48)<=#a1>_(a%b,H)@o(31):n2>_(a%a,H)@o(50):p2_(a-%b,H)@o(32):a2>#
+_(P,H)@o(60)<_(a-54,N2)@o(52)<_(a-%a,H)@o(51)<=#p2>_(a%b,H)@o(35):a4>_(a%a,H)@o(53):a5_(a-%b,H)@o(36)=#a4>#
+_(P,H)@o(56)<_(a-54,N2)@o(55)<_(a-%a,H)@o(54)<=#a5>_(a%b,H)@o(39):n6>_(a%a,H)@o(41):a7_(a-%b,H)@o(40)=#n6>#
+_(P,H)_(a-54,N2)@o(43)<_(a-%a,H)@o(42)<=#a7>_(a%b,H)@o(23):n8>_(a%a,H)@o(44)<=#p1>_(a-%b,H)@o(24):a8;
+#n8=#a8@:zi(r,n1,n2)_(a10)@o(&n1)_(a26,L1.3,N2)@o(&n2)-#&r@(a10,25,26);
+#n2=#a2@zi(a4,33,34)
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:fl(v,a:%f:150,L:.65)<_(a&a,L&L,N0)"&v">@;
+$L(1.1)_(A0,w2)@fl(h)<_(a-54,N2,S|IR)@fl(i,140)<_(a-%a:65):p1_(a%b:90,w2):a10@n(10a,-60,.55)>_(a%a,w2):a1@fl(j)@n(1a,-10)_(a-%b)@n(1,-30,.4)=#a10>#
+_(P,w2)<_(a-54,N2,SI|L)@fl(m,-130,.75)<_(a-%a,w2)@fl(l,-%f,.5)<_(N2,SI|L)#a1>@n(1b,-20)_(a%b):n2>_(a%a):p2_(a-%b,w2):a2>#
+_(P,w2)@fl(n)<_(a-54,N2,S|Ir)@fl(o,145,.8)<_(a-%a)<_(N2,S|Ir)#p2>_(a%b,w2):a4@n(4a,80,.4)>_(a%a,w2):a5@fl(a)@n(5a,150)_(a-%b)@n(5,120,.4)=#a4>#
+_(P,w2)<_(a-54,N2,S|Ir)<_(a-%a,w2)@fl(c)<_(N2,SI|L)#a5>@n(5b,110)_(a%b):n6@n(6,140,.4)>_(a%a,w2)@fl(d,-%f):a7@n(7a,-160)_(a-%b)@n(7,-170,.4)=#n6>#
+_(P,w2)_(a-54,N2,S|Ir)@fl(g,-%f)<_(a-%a,w2)@fl(f,-%f)<_(N2,SI|)#a7>@n(7b,-170)_(a%b):n8@n(8,-150,.4)>_(a%a)<_(N2,SI|L)#p1>_(a-%b,w2):a8@n(8a,-120);
+#n8=#a8@:zi(r,n1,a1,n2,a2)_(a10,w2)@n(&n1,&a1)_(a26,L1.3,N2,S|Ir)@n(&n2,&a2)_(w2)#&r@(a10,9,-100,10,-80);
+#n2@n(2,-10,.4)=#a2@n(2a,10)@zi(a4,3,40,4,60)
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,29,30,37,38-hexacosanor<%d%>fullerene **(I)** (PIN)  <br>
+[not bis(benzo[1,8]-_as_-indaceno[3,4,5,6-_fghij_:3′,4′,5′,6′-_lmnoa_])cyclopenta[_cd_]fluoranthene **(II)**] 
+ru: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,29,30,37,38-гексакозанор<%d%>фуллерен **(I)** (PIN) <br>
+[не бис(бензо[1,8]-_as_-индацено[3,4,5,6-_fghij_:3',4',5',6'-_lmnoa_])циклопента[_cd_]флуорантен **(II)**]
+%d:(C_{60}-_I__{h})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a norfullerene name because it contains 34 
+carbon atoms and 13 rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является название норфуллерен, 
+поскольку он содержит 34 атома углерода и 13 колец.
+
+@Examples 2
+en: Example 3:  <%f%>
+ru: Пример 3:  <%f%>
+%f: <$ C36H20 $>
+// Ошибка в оригинале. Было C36H22. Но пересчитывал несколько раз - получается 20
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.5)$color(gray)_(x%n:2.25)@n(15,-140)/@n(24,-80,.35)=\@n(17a,40)<`//@n(17,100,.35)`-@n(16,80,.35)`\\>-//r@n(21a,-40,.55)<`\@n(22,-80,.35)`=@n(23,-100,.35)`/>#
+-@n(21,-80,.4)\\@n(20,60)<`/@n(19,90,.35)`=@n(18,90,.35)`\>_(x%n)@n(3,0)$color()#
+_(A120,W2,N2,S|I)@n(4,60)_(P6)_(P6,N2,SI|L)<_(P6)@n(1,-90)_(P6,N2,S|Ir)@n(2,-60)_(P6)>_(P-6)@n(14a,-70)_(P-6,N2,S|Ir)@n(6a,120)#
+<_(P-6)@n(6,120)_(P-6,N2,SI|)@n(5,60)_(P-6)@n(4a,60)>_(P6)_(P6,N2,S|Ir)<_(P6)@n(13,-80,.4)_(P6,N2,S|I)@n(14,-100,.4)_(P6)>#
+_(P-6)@n(12a,-45,.6)_(P-6)<_(P-6)@n(8,120)_(A0,N2,SI|)@n(7,60)_(P-6)>_(P6,N2,S|Ir)@n(9,120)_(P6)@n(10,180,.6)_(P6,N2,S|Ir)@n(11,-120)_(P6)@n(12,-100,.4)_(P6,N2,S|I)
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:o(n)"\small{&n}"@;
+$L(1.5)@o(40)$color(gray)_(x%n:2.25,H,y%h:.1)@o(59)/h@o(60)--h@o(61)\h@o(70)<`/h@o(69)_p6h@o(58)_p6h>--h@o(65)/h@o(64)<`\h@o(63)_q6h@o(62)_q6h>#
+_p6h@o(49)_p6h@o(50)<_p6h@o(51)_p6h@o(66)_p6h>_(x%n,y-%h,H)$color()@o(30)#
+_(A120)@o(31)_p6@o(13)_p6@o(12)<_p6@o(11)_p6@o(29)_p6>_q6@o(2)_q6@o(3)#
+<_q6@o(15)_q6@o(14)_q6>_p6@o(4)_p6@o(5)<_p6@o(6)_p6@o(1)_p6>#
+_q6@o(20)_q6@o(19)<_q6@o(18)_q6@o(17)_q6>_p6@o(39)_p6_p6@o(41)_p6@o(21)_p6
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 3,10-[2,7]epiphenanthropicene **(I)** (PIN)  <br>
+[not 7,8,9,10,16,22,23,24,25,26,27,28,32,33,34,35,36,37,38,42,43,44,45,46,47,48,52,53,54,55,56,57,67,68- <br>
+tetratriacontanor<%d%>fullerene **(II)**]
+ru: 3,10-[2,7]эпифенантропицен **(I)** (PIN) <br>
+[не 7,8,9,10,16,22,23,24,25,26,27,28,32,33,34,35,36,37,38,42,43,44,45,46,47,48,52,53,54,55,56,57,67,68- <br>
+тетратриаконтанор<%d%>фуллерен **(II)**]
+%d:(C_{70}-_D__{5h(6)})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a systematic bridged fused ring name because it 
+contains only eight rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является систематическое 
+&(bridged fused ring name), поскольку он содержит только восемь колец.
+
+@Examples 2
+en: Example 4:  <%f%>
+ru: Пример 4:  <%f%>
+%f:<$ C45H16 $>
+// Ошибка в оригинале: C45H15. Действительно есть 15 атомов с водородом (10 сверху и 5 снизу).
+// Но один из них (снизу в центре) имеет два атома водорода.
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:o(n)"\small{&n}":o&n@;
+@o(21)_(x-1.47,y-0.06)@o(41)_(x-0.83,y1.64)@o(40)_(x-0.25,y2.03)@o(39)_(x0.5,y1.92)@o(38)_(x1.25,y1.25)@o(37)#
+_(x11,y-6.97,N0)@o(29)_(x0.81,y1.75)@o(30)_(x0.14,y2.08)@o(31)_(x-0.39,y2.36)@o(32)_(x-1.64,y0.94)@o(33);
+$color(gray)#o40_(x1.67,y0.64,H)@o(59)_(x1.78,y-2.42,H)@o(60)_(x1.28,y0,H)@o(61)_(x1.28,y2.36,H)@o(70)_(x1.58,y-0.03,H)@o(65)_(x0.89,y-2.36,H)@o(64)_(x1.56,y0.03,H)@o(49)#
+_(x1.56,y2.17,H)@o(50)<-h#o30>_(x-1.78,y1.64,H)@o(51)_(x-1.36,y-0.03,H)@o(66)<-h#o65>_(x-1.22,y1.36,H)@o(67)_(x-1.06,y-0.06,H)@o(68)_(x-1.39,y-1.17,H)@o(69)<-h#o70>#
+_(x-1.44,y-0.11,H)@o(58)<-h#o59>_(x-1.56,y1.36,H)@o(57)<-h#o38>_(x2.03,y2,H)@o(56)-h#o68;
+#o67_(x1.61,y2.06,H)@o(53)_(x2.44,y-1.58,H)@o(52)<-h#o51>-h#o32$color();
+#o37_(x1.56,y-1.61)@o(18)_(x-1.14,y-1.56)@o(19)<-#o39>_(x1.25,y-1.53)@o(20)<-#o21>_(x1.69,y0.06)@o(5)_(x1.06,y-1.92)@o(6)_(x1.58,y-0.06)@o(1)_(x1.03,y1.94)@o(2)#
+_(x-1.03,y1.5)@o(3)_(x-1.61,y0)@o(4)<-#o5>_(x-0.75,y1.53)@o(17)<-#o18>_(x1.72,y1.56)@o(16)_(x1.61,y-1.47)@o(15)<-#o3>_(x1.39,y-0.08)@o(14)<-#o33>#
+_(x1.25,y-1.5)@o(13)<-#o31>_(x-0.92,y-1.58)@o(12)<-#o2>_(x0.94,y-2.28)@o(11)-#o29
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:fl(v,a:-140,L:.6)<_(a&a,L&L,N0)"&v">@;
+$color(darkgray)c:n3_(x1.67,y0.64,SI):n12@n(17a,-115,.75)_(x1.78,y-2.42,SI)@n(17,-90)_(x1.28,N2,S|I)@n(16,-90)_(x1.28,y2.36,SI):n15_(x1.58,y-0.03,N2,S|Ir):a15@n(15a,-135,.7)#
+_(x0.89,y-2.36,SI)@n(15,-90)_(x1.56,y0.03,N2,S|Ir)@n(14,-90)_(x1.56,y2.17,SI)<_(x1.72,y-0.42,SI):n8>@n(13a,-60,.7)_(x-1.78,y1.64,N2,SI|L):n20_(x-1.36,y-0.03,SI)@fl(u,-160,.8)#
+<_(SI)#a15>_(x-1.22,y1.36,N2,S|Ir):n22@fl(t,-168,1.5)_(x-1.06,y-0.06,SI):n23@n(4a,80)_(x-1.39,y-1.17,N2,S|Ir)@fl(r,-150,.6)<_(SI)#n15>_(x-1.44,y-0.11,SI)@fl(q,-155,.8)#
+<_(N2,S|Ir)#n12>_(x-1.56,y1.36,SI)@fl(p,-168,1.6)<_(x-1.53,y0.56,SI):n5>@n(3b,-150)_(x2.03,y2,N2,SI|L)@n(4,90,.4)_(SI)#n23;
+#n22_(x1.61,y2.06,SI)@n(5,90,.4)_(x2.44,y-1.58,N2,SI|L)<_(SI)#n20@fl(v)>@n(5a,-70)_(x1.78,y0.58,SI):n10$color();
+#n3_(x-0.25,y2.03,SI):n4@n(18a,180,.7)_(SI)#n5@fl(n,-160,1.2)@n(3a,160)_(x1.25,y1.25,N2,SI|L)@n(3,90,.4)_(x1.56,y-1.61,SI):n30_(x-1.14,y-1.56,SI)<_(N2,S|Ir)#n4>@n(1,120,.4)#
+_(x1.25,y-1.53)<_(x-0.86,y-2.08,N2L)_(x-1.47,y-0.06)_(N2)#n3@n(18,-170,.6)>_(x1.69,y0.06):n33@n(9,-120)_(x1.06,y-1.92,SI)@n(10,-80)_(x1.58,y-0.06,N2,S|I)@n(11,-100)#
+_(x1.03,y1.94,SI):n36_(x-1.03,y1.5,N2,SI|L):n37_(x-1.61,SI)<_(N2,S|Ir)#n33>@n(8,-50)_(x-0.75,y1.53)<=#n30@n(2,60,.4)>_(x1.72,y1.56)_(x1.61,y-1.47)<_(SI)#n37@n(7a,-120)>@n(7,180,.45)#
+_(x1.39,y-0.08,N2,S|Ir):n42@n(6a,-130,.45)_(x1.25,y-1.5,SI):n43_(x-0.92,y-1.58,N2,SI|L)<_(SI)#n36@n(11a,-50,.6)>_(x0.94,y-2.28,SI)@n(12,-100)_(x1.36,y0.03,N2,S|I)@n(13,-100)#
+_(SI)#n8@n(13b,-20,.6)_(x0.14,y2.08,N2,S|Ir)@fl(c,-160,1)<_(SI)#n43>_(SI)#n10@n(5b,30)@fl(b,-160,1.3)_(x-1.64,y0.94,N2,S|Ir)@n(6,90,.4)_(SI)#n42$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 7,8,9,10,22,23,24,25,26,27,28,34,35,36,42,43,44,45,46,47,48,54,55,62,63-pentacosanor<%d%>fullerene **(I)** (PIN)  <br>
+[not 8,7,2-(epiethane[1,2]diyl[1]ylidene)-1,9,18-(epiprop[1]ene[1,1]diyl[3]ylidene)acephenanthryleno[4,3-<br>
+_bc_]tricyclopenta[_n,pqr,tuv_]picene **(II)**]
+%d:(C_{70}-_D__{5h(6)})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a norfullerene name because it has 45 carbon 
+atoms and it has 15 rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является название норфуллерен, 
+поскольку он содержит 45 атомов углерода и 15 колец.
+
+@Examples
+en: Example 5:  <%f%>
+ru: Пример 5:  <%f%>
+%f: <$C54H12$>
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(40)_(x-0.03,y-2.25)@o(21)_(x0.67,y-2.33)@o(22)_(x0.94,y-1.44)@o(23)_(x1.5,y-1.25)@o(24)_(x1.86,y-0.86)@o(25)_(x2.03,y-0.06)@o(26)#
+_(x1.72,y0.39)@o(27)_(x2.11,y1.53)@o(28)_(x1.17,y1.92)@o(29)_(x0.47,y2.06)@o(30)_(x-0.06,y2.11)@o(31);
+$color(gray)#o40_(x1.14,y-1.97,H)@o(41)_(x0.47,y-1.92,H)@o(42)<-h#o23>_(x2.03,y-0.5,H)@o(43)_(x0.08,y-2.03,H)@o(44)<-h#o24>_(x2.86,y0.19,H)#
+@o(45)<-h#o27>_(x0.94,y1.58,H)@o(46)_(x2.44,y-0.78,H)@o(47)<-h#o28>_(x0.47,y2.22,H)@o(48)<-h#o31>_(x-1.14,y1.61,H)@o(49)_(x0.36,y1.81,H)#
+@o(50)_(x-2.33,y1.64,H)@o(51)<_(x-0.08,y2.81,H)@o(35)>_(x-1.22,y-0.64,H)@o(52)_(x-2.03,y1.25,H)@o(53)<_(x1.08,y2.22,H)@o(36)>_(x-1.28,y-0.78,H)#
+@o(54)_(x-0.19,y-2.28,H)@o(55)<-h#o41>_(x1.47,y-0.81,H)@o(56)_(x0.33,y-1.94,H)@o(57)<-h#o43>_(x2.33,y-0.28,H)@o(58)<-h#o46>_(x0.22,y1.89,H)#
+@o(59)<-h#o49>_(x-0.89,y1.22,H)@o(60)<-h#o52>-h#o56$color();
+#o26_(x0.94,y2.22)@o(10)_(x1.61,y1.33)@o(11)<-#o29>_(x-0.08,y2)@o(12)_(x1.5,y1.86)@o(13)<-#o30>_(x-0.72,y1.89)@o(14)_(x-1.75,y0.61)#
+@o(15)_(x-0.61,y1.28)@o(16)_(x1.36,y0.86)@o(34)_#o35_#o36_(x-1.92,y-0.58)@o(37)_(x2,y-1.11)@o(17)<-#o16>_(x-0.92,y-1.75)@o(18)_(x-2.22,y-0.39)#
+@o(19)_(x-0.81,y-1.42)@o(20)<-#o21>_(x1.56,y-2.06)@o(6)_(x-0.14,y-2.17)@o(7)<-#o22>_(x1.61,y-0.94)@o(8)-#o25;
+#o6_(x1.92,y0.67)@o(5)_(x0.39,y2.08)@o(4)<-#o18>_(x2,y-0.08)@o(3)<-#o15>_(x0.61,y-2.11)@o(2)-#o12
+$>
+
+en: 1,9,32,33,38,39-hexanor<%d%>fullerene (PIN)
+%d: (C_{60}-_I__{h})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a norfullerene name because it has 54 atoms 
+and twenty rings.
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является название норфуллерен, 
+поскольку он состоит из 54 атомов и двадцати колец.
+
+#P-52.2.6.3+
+en: Seco<%d1%>fullerenes and seco<%d2%>fullerenes. 
+ru: Секо<%d1%>фуллерены и секо<%d2%>фуллерены.
+%d1:(C_{60}-_I__{h})[5,6]
+%d2:(C_{70}-_D__{5h(6)})[5,6]
+
+@Examples
+en: Example 1: <%f%>
+ru: Пример 1: <%f%>
+%f: <$C70H16$>
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(41)_(x0.81,y-1.64)@o(42)_(x0.97,y-1.06)@o(23)_(x1.19,y-0.75)@o(24)_(x1.36,y-0.61)@o(45)_(x1.58,y0)@o(46)_(x1.22,y0.31)@o(26)_(x1.64,y0.81)#
+@o(27)_(x1.47,y1.64)@o(28)_(x0.67,y1.33)@o(29)_(x0.33,y1.89,N0)@o(30)_(x0.14,y1.67)@o(31)_(x-0.92,y2.39)@o(32)_(x-1.56,y1.83)@o(33)_(x-0.97,y0.97)#
+@o(34)_(x-2.14,y0.53)@o(35)_(x-1.75,y-0.42)@o(36)_(x-2.03,y-1)@o(37)_(x-1.39,y-1.67)@o(38)_(x-1,y-2.53)@o(39)_(x-0.06,y-1.81)@o(40);
+$color(gray)#o46_(x1.17,y1.44,H)@o(47)_(x1.72,y1.25,H)@o(48)<-h#o28>_(x0.17,y1.31,H)@o(49)_(x-1.72,y0.58,H)@o(64)_(x-0.83,y-1.97,H)@o(63)<-h#o47>#
+_(x-2.31,y0.06,H)@o(62)_(x-0.67,y-1.17,H)@o(44)<-h#o45>_(x-1.81,y1.14,H)@o(43)<-h#o42>_(x-0.58,y1.42,H)@o(60)_(x2.08,y0.61,H)@o(61)<-h#o62>#
+_(x1.58,y1.94,H)@o(70)_(x1.25,y0,H)@o(65)<-h#o64>_(x1.22,y1.47,H)@o(66)_(x-1.11,y1.39,H)@o(67)_(x-1.22,y0.08,H)@o(68)_(x-1.19,y-1.42,H)@o(69)<-h#o70>#
+_(x-1.33,y-0.28,H)@o(58)<_(x-1.17,y-1.25,H)@o(59)-h#o40>_(x0.28,y1.31,H)@o(57)<-h#o38>_(x1.17,y1.97,H)@o(56)<-h#o68>_(x1,y0.69,H)@o(55)<-h#o36>#
+_(x1.94,y0.44,H)@o(54)<-h#o34>_(x0.69,y-1.39,H)@o(53)<-h#o67>_(x1.36,y-1.92,H)@o(52)<-h#o32>_(x-0.36,y-1.28,H)@o(51)<-h#o66>_(x1.69,y-2,H)@o(50)-h#o30;
+$color()#o41_(x1.47,y1.28)@o(21)_(x0.86,y-1.89)@o(22)<-#o23>_(x1.86,y0.56)@o(7)_(x1.19,y-0.89)@o(8)<_(x-0.28,y-1.89)@o(25)<-#o24>-#o26>_(x1.19,y0.83)#
+@o(9)<_(x-0.36,y1.56)@o(1)_(x-1.53)@o(6)-#o7>_(x1.33,y-0.64)@o(10)<-#o27>_(x1.06,y2.06)@o(11)-#o29;
+#o39_(x1.56,y0.75)@o(19)_(x1.17,y-1.58)@o(20)_(x1.5,y0.03)@o(5)_(x0.89,y1.36)@o(4)_(x1.56,y-0.03)@o(3)_(x0.81,y-1.47)@o(2)_(x1.36,y-0.03)@o(12)#
+_(x1.47,y1.61)@o(13)<-#o31>_(x-1.08,y1.92)@o(14)<-#o33>_(x-1.72,y-0.53)@o(15)<-#o3>_(x-1.39,y1.22)@o(16)<-#o35>_(x-1.92,y-1.31)@o(17)<-#o4>_(x-1.39,y0.44)#
+@o(18)<-#o37>-#o19
+$>
+
+en: 1,2:5,6:11,12:20,21:29,30:40,41:49,50:59,60-octaseco<%d%>fullerene (PIN)
+ru: 1,2:5,6:11,12:20,21:29,30:40,41:49,50:59,60-октасеко<%d%>фуллерен (PIN)
+%d:(C_{70}-_D__{5h(6)})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a secofullerene name because it has 70 carbon 
+atoms and 28 rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является название секофуллерен, 
+поскольку он содержит 70 атомов углерода и 28 колец.
+
+@Examples
+en: Example 2:   <%f%>
+ru: Пример 2:   <%f%>
+%f: <$C60H16$>
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(23)_(x1.56,y-1.19)@o(24)_(x1.86,y-0.89)@o(25)_(x1.94,y0)@o(26)_(x1.75,y0.39)@o(27)_(x2.17,y1.58)@o(28)_(x1.11,y1.83)@o(29)_(x0.53,y2.06)@o(30)#
+_(x-0.03,y2.14)@o(31)_(x-0.83,y1.56)@o(32)_(x-1.17,y1.53,N0)@o(33)_(x-1.36,y0.97)@o(34)_(x-1.78,y0.81)@o(35)_(x-2.11,y0.03)@o(36)_(x-1.94,y-0.53)#
+@o(37)_(x-1.42,y-1)@o(38)_(x-1.25,y-1.5)@o(39)_(x-0.61,y-1.56)@o(40)_(x-0.06,y-2.33)@o(21)_(x0.56,y-2.36)@o(22);
+$color(gray)#o23_(x0.03,y2.19,H)@o(42)_(x1.94,y-0.42,H)@o(43)_(x0.08,y-2.06,H)@o(44)<-h#o24>_(x2.86,y0.17,H)@o(45)<-h#o27>_(x0.97,y1.72,H)@o(46)#
+_(x2.53,y-0.89,H)@o(47)<-h#o28>_(x0.44,y2.22,H)@o(48)<-h#o31>_(x-1.11,y1.58,H)@o(49)_(x0.42,y1.72,H)@o(50)-h#o32;
+#o35_(x0.11,y-2.86,H)@o(51)_(x-1.36,y-0.61,H)@o(52)_(x-2,y1.31,H)@o(53)<-h#o36>_(x-1.33,y-0.81,H)@o(54)<-h#o39>_(x-0.11,y-2.25,H)@o(55)_(x-1.53,y-1.44,H)@o(41)-h#o40;
+#o43_(x0.89,y1.03,H)@o(57)_(x2.31,y-0.31,H)@o(58)<-h#o46>_(x0.22,y1.92,H)@o(59)<-h#o49>_(x-0.89,y1.19,H)@o(60)<-h#o52>_(x-1.97,y-0.83,H)@o(56)-h#o57;
+$color()#o25_(x-0.61,y2.39)@o(8)_(x1.58,y0.56)@o(9)_(x1.94,y-0.81)@o(10)<-#o26>_(x1.64,y1.47)@o(11)<-#o29>_(x-0.31,y1.75)@o(12)_(x1.78,y2.06)@o(13)-#o30;
+#o33_(x-0.33,y-1.78)@o(14)_(x-1.58,y0.44)@o(15)_(x-0.61,y1.44)@o(16)<-#o34>_(x-2.64,y0)@o(17)<-#o37>_(x-1.06,y-1.69)@o(18)_(x-2.25,y-0.47)@o(19)<-#o38>#
+_(x-0.69,y-1.44)@o(20)<-#o21>_(x1.5,y-2.03)@o(6)<_(x-0.11,y-2.17)@o(7)-#o22>_(x1.94,y0.61)@o(5)_(x1.44,y-0.92)@o(1)_(x1.64,y0.92)@o(2)_(x-0.67,y2.06)#
+@o(3)<-#o15>_(x-1.97,y0.03)@o(3)<-#o18>-#o5
+$>
+
+en: 1,9:2,12:7,8:13,14:22,23:32,33:41,42:50,51:55,56-nonaseco<%d%>fullerene (PIN) 
+ru: 1.9:2.12:7.8:13.14:22.23:32.33:41.42:50.51:55.56-нонасеко<%d%>фуллерен (PIN)
+%d:(C_{60}-_I__{h})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a secofullerene name because it has 60 carbon 
+atoms and 21 rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является название секофуллерен, 
+поскольку он имеет 60 атомов углерода и 21 кольцо.
+
+#P-52.2.6.4. 
+en: Seconorfullerenes 
+ru: Секофуллерены
+
+@Examples
+en: Example 1: <%f%>
+ru: Пример 1: <%f%>
+%f: <$ C54H10 $>
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(22)_(x1,y-1.39)@o(23)_(x1.5,y-1.22)@o(24)_(x1.86,y-0.78)@o(25)_(x1.94,y-0.14)@o(26)_(x1.83,y0.47)@o(27)_(x2.14,y1.44)@o(28)_(x1.08,y1.94)@o(29)#
+_(x0.53,y2.06)@o(30)_(x-0.08,y2.06)@o(31)_(x-0.81,y1.58)@o(32)_(x-1.14,y1.47)@o(33)_(x-1.36,y1.08)@o(34)_(x-1.83,y0.72)@o(35)_(x-2,y0.03)@o(36)#
+_(x-2,y-0.56)@o(37)_(x-1.36,y-0.94)@o(38)_(x-1.25,y-1.47)@o(39)_(x-0.64,y-1.69)@o(40)_(x-0.03,y-2.22)@o(21)-#o22;
+$color(gray)#o24_(x0.64,y0.83,H)@o(44)_(x2.81,y0.22,H)@o(45)<-h#o27>_(x0.89,y1.61,H)@o(46)_(x2.61,y-0.72,H)@o(47)<-h#o28>_(x0.33,y2.17,H)@o(48)<-h#o31>#
+_(x-1.06,y1.5,H)@o(49)_(x0.39,y1.92,H)@o(50)<-h#o32>_(x-2.28,y1.58,H)@o(51)<-h#o35>_(x-1.33,y-0.67,H)@o(52)_(x-2,y1.31,H)@o(53)<-h#o36>_(x-1.28,y-0.81,H)#
+@o(54)<-h#o39>_(x-0.11,y-2.22,H)@o(55)_(x-1.58,y-1.53,H)@o(41)<-h#o40>_(x0.44,y-1.81,H)@o(42)<-h#o23>_(x2.06,y-0.44,H)@o(43)<-h#o44>_(x0.94,y0.97,H)#
+@o(57)_(x2.14,y-0.22,H)@o(58)<-h#o46>_(x0.39,y1.92,H)@o(59)<-h#o49>_(x-1,y1.19,H)@o(60)<-h#o52>_(x-1.97,y-0.97,H)@o(56)<-h#o55>-h#o57$color();
+#o22_(x2.14,y-0.11)@o(7)_(x1.56,y-1.06)@o(8)-#o25; #o26_(x1.11,y2.19)@o(10)_(x1.61,y1.36)@o(11)-#o29; #o30_(x-1.39,y1.42)@o(13)_(x-0.92,y1.89)@o(14)-#o33;
+#o34_(x-1.11,y-0.94)@o(16)_(x-2.64,y0)@o(17)<-#o37>_(x-1.08,y-1.72)@o(18)_(x-2.25,y-0.44)@o(19)<-#o38>_(x-0.67,y-1.39)@o(20)<-#o21>_(x1.5,y-2)@o(6)#
+_(x1.94,y0.56)@o(5)_(x0.36,y2.08)@o(4)-#o18
+$>
+
+en: 6,7-seco-1,2,3,9,12,15-hexanor<%d%>fullerene (PIN) 
+ru: 6,7-секо-1,2,3,9,12,15-гексанор<%d%>фуллерен (PIN)
+%d:(C_{60}-_I__{h})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a seconorfullerene name because it has 54 
+carbon atoms and 22 rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является название секонфуллерен, 
+поскольку он имеет 54 атома углерода и 22 кольца.
+
+@Examples 2
+en: Example 2: <%f%>
+ru: Пример 2: <%f%>
+%f: <$ C30H14 $>
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)`\@n(19,-110,.5)`=l@n(18,-80,.5)_q6@n(13,0,.55)<_(P6,w2):n12@n(12,180,.5)_(a%a:81.4707)@n(16,-150,.5)_(a%b:68.5292,N2)@n(17,-90,.4)_(a%b)>#
+_(P-6,N2,S|Ir)@n(14,-30,.5)-0<@n(1,-120,.4)_(P-6,N2,S|Ir)@n(2,180)_(P6,SI):n3@n(3,0)_(a-%a)@n(21,-30,.5)_(a-%b,N2)@n(20,-90)_(a-%b)>#
+_(P,SI)@n(15a,-170,.6)<_(a-54,N2,SI|L)@n(3a^1,140,.75)<_(P-6,SI)@n(3a,-20,.6)_(N2,SI|)#n3>_(P6,SI):a5@n(5a,80,.5)_(a-%a,SI)@n(5,30)_(a-%b,N2,SI|)@n(4,-10)_(a-%b,SI)>#
+_(P,SI)@n(15,30,.5)<|0@n(22,-120)_(P6,N2L):n9_(a-%a,SI)@n(8,120)_(a-%b,N2,SI|)@n(7,60)_(a-%b,SI)@n(6,30)<_(N2,SI|)#a5>_(a-%a)>#
+_(P,N2,S|Ir)<_(P,SI)>@n(14a,-20,.6)_(a-54,SI)@n(9a^1,30,.7)_(P6,SI)<_(N2,S|I)#n12>@n(11a,-150,.7)_(a-%a,SI)@n(11,170,.5)_(a-%b,N2,SI|)@n(10,100)#
+_(a-%b,SI)@n(9a,100,.5)<_(SI)#n9@n(9,130)>_(a-%a,N2,SI|L)
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+$L(1.4)@o(46)`\h@o(45)`--hl@o(44)_q6h@o(43)<_p6h@o(42)_(a%a:81.4707,H)@o(23)_(a%b:68.5292)@o(24)_(a%b,H)>#
+_q6h@o(57)--0@o(58)<_q6h_p6h@o(47)_(a-%a,H)@o(28)_(a-%b)@o(27)_(a-%b,H)>#
+_ph@o(59)<_(a-54,H)@o(49)<_q6h@o(48)-h#o47>_p6h@o(50)_(a-%a,H)@o(32)_(a-%b)@o(31)_(a-%b,H)>#
+_ph@o(60)<|0@o(52)_p6h@o(53)_(a-%a,H)@o(36)_(a-%b)@o(35)_(a-%b,H)@o(51)<-h#o50>_(a-%a)>#
+_ph@o(56)<_ph>_(a-54,H)@o(55)_p6h@o(41)<-h#o42>_(a-%a,H)@o(40)_(a-%b)@o(39)#
+_(a-%b,H)@o(54)<-h#o53>_(a-%a,H)
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 3,2,13,12-(epihexa[1,3,5]trien[1,3,4,6]tetrayl)-6,9-methenocycloundeca[1,11,10-_cd_:6,7,8-_c′d′_]diindene **(I)** (PIN)  <br>
+[not 57,58:52,60-diseco-1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,26,29,30,33,34,37,38-<br>
+triacontanor<%d%>fullerene **(II)**] 
+ru: 3,2,13,12-(эпигекса[1,3,5]триен[1,3,4,6]тетраил)-6,9-метеноциклоундека[1,11,10-_cd_:6,7,8-_c'd'_]диинден **(I)** (PIN) <br>
+[не 57,58:52,60-диско-1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,26,29,30,33,34,37,38-<br>
+триаконтанор<%d%>фуллерен **(II)**]
+%d:(C_{60}-_I__{h})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a systematic bridged fused ring name because it 
+has 30 carbon atoms and only 7 five- and six-membered rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является систематическое 
+&(bridged fused ring name), поскольку он имеет 30 атомов углерода и только 7 пяти- и шестичленных колец.
+
+@Examples 2
+
+@cell
+<$
+@:o(n)"&n":o&n@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.4)$color(gray)c:o46_(x1.25,y1.36,N2,S|Ir)@n(18,0,.5)_(x-0.61,y1.25,W2):o63@n(17a,0,.7)_(x-2.08,y0.08)@n(11a,180,.7)<_(x-0.72,y-1.17)@n(11,160,.5)_(x0.81,y-1.5,N2,S|Ir):o45>#
+_(x-0.97,y1.94,N2,SI|L)@n(12,180,.5)_(x1.36,y1.92,H):o70@n(12a,-50,.55)_(x1.39,y0)@n(16a,130,.55)<_(x1.17,y-2)@n(17,0)_(N2,SI|L)#o63>#
+_(x1.14,y1.47,N2,S|Ir)@n(16,0)_(x-1.08,y1.47):o67@n(15,-120,.5)_(x-1.25,y0)@n(14,-80,.45)<_(x-1,y-1.42)@n(13,180,.5)_(N2,S|I)#o70>#
+_(x-0.75,y1.39,N2)_(x0.61,y0.92,w1)@n(3,180)<_(x-0.75,y1.11):o36>_(x2.03,y0.06)@n(2,-10,.5)<_(x0.56,y-0.97,w1)=#o67>_(x1.11,y0.92)@n(1,0)#
+$color()_(x-2.14,y0.56):o35@n(24b,90)_#o36@n(3a,100)_(x-1.94,y-1.08)@n(4,150)_(x0.53,y-1.78,N2,S|I)@n(5,-150)_(x1.36,y-0.44):o17@n(5a,-130,.5)#
+_(x1.86,y1.25)<_(N2,S|I)#o35>_(x1.36,y-1.14)@n(24,0,.6)_(x-0.83,y-1.53,N2,S|Ir)@n(23,180)_(x0.78,y-1.42)@n(22,0,.5)_(x-0.83,y-1.33,N2,SI|)@n(21,180)#
+_(x0.36,y-1.56)@n(20,160,.6)_(x-1.22,y-0.83,N2,SI|):o8_(x-0.22,y-1.83):o25@n(19a,160,.6)_(x2.06,y-1,N2,SI|)@n(19,0,.5)#
+_#o46@n(18a,-90)_#o45@n(10b,-90)_(x-1.31,y0.53)@n(10a,-120,.5)<_#o25>_(x-1.14,y0.72,N2,SI|)@n(10,180,.5)_(x0.56,y2.19)@n(9,120)_(x1.72,y0.47,N2,SI|)#
+@n(8a,20,.6)<_#o8>_(x0.5,y1.53)@n(8,-10,.35)_(x-0.81,y1.39,N2,SI|)@n(7,180)_(x0.89,y1.39)@n(6,-10,.35)_(N2,S|I)#o17
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+$L(1.4)$color(gray)@o(46)_(x1.25,y1.36,H)@o(47)_(x-0.61,y1.25,H)@o(63)_(x-2.08,y0.08,H)@o(62)<_(x-0.72,y-1.17,H)@o(44)_(x0.81,y-1.5,H)@o(45)>#
+_(x-0.97,y1.94,H)@o(61)_(x1.36,y1.92,H)@o(70)_(x1.39,y0,H)@o(65)<_(x1.17,y-2,H)@o(64)-h#o63>_(x1.14,y1.47,H)@o(66)_(x-1.08,y1.47,H)@o(67)_(x-1.25,y0,H)#
+@o(68)<_(x-1,y-1.42,H)@o(69)-h#o70>_(x-0.75,y1.39,H)@o(56)_(x0.61,y0.92,H)@o(55)<_(x-0.75,y1.11,H)@o(36)>_(x2.03,y0.06,H)@o(54)<_(x0.56,y-0.97,H)@o(53)-h#o67>#
+_(x1.11,y0.92,H)@o(34)$color()_(x-2.14,y0.56)@o(35)-#o36_(x-1.94,y-1.08)@o(37)_(x0.53,y-1.78)@o(18)_(x1.36,y-0.44)@o(17)_(x1.86,y1.25)@o(16)<_#o35>_(x1.36,y-1.14)#
+@o(15)_(x-0.83,y-1.53)@o(3)_(x0.78,y-1.42)@o(2)_(x-0.83,y-1.33)@o(1)_(x0.36,y-1.56)@o(9)_(x-1.22,y-0.83)@o(8)_(x-0.22,y-1.83)@o(25)_(x2.06,y-1)@o(26)#
+-#o46-#o45_(x-1.31,y0.53)@o(24)<-#o25>_(x-1.14,y0.72)@o(23)_(x0.56,y2.19)@o(22)_(x1.72,y0.47)@o(7)<-#o8>_(x0.5,y1.53)@o(6)_(x-0.81,y1.39)@o(5)_(x0.89,y1.39)@o(4)-#o17
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 2,15:3,14-dimethenoindeno[5′′,4′′:6′,7′]cyclododeca[1′,2′:4,5]indeno[1,2-_b_]anthracene **(I)** (PIN)  <br>
+[not 1,6:3,4-diseco-10,11,12,13,14,19,20,21,27,28,29,30,31,32,33,38,39,40,41,42,43,48,49,50,51,52,57,58,59,60-<br>
+triacontanor<%d%>fullerene **(II)**]  
+ru: 2,15:3,14-диметеноиндено[5′′,4′′:6′,7′]циклододека[1′,2′:4,5]индено[1,2-_b_]антрацен **(I)** (PIN) <br>
+[не 1,6:3,4-диско-10,11,12,13,14,19,20,21,27,28,29,30,31,32,33,38,39,40,41,42,43,48,49,50,51,52,57,58,59,60-<br>
+триаконтанор<%d%>фуллерен **(II)**]
+%d:(C_{70}-_D__{5h(6)})[5,6]
+
+@End
+
+en: **Explanation**: The preferred IUPAC name for this fullerene fragment is a systematic fused ring name because it 
+contains 40 carbon atoms but only eight five- and six-membered rings. 
+ru: **Пояснение**: Предпочтительным названием ИЮПАК для этого фрагмента фуллерена является систематическое 
+&(fused ring name), поскольку он содержит 40 атомов углерода, но только восемь пяти- и шестичленных колец.
+
+
+#P-52.2.7
+en: Preferred IUPAC names and numbering for ring assemblies 
+ru: Предпочтительные названия и нумерация ИЮПАК для &(ring assembly|ro*)
+
+#P-52.2.7.1+
+en: Preferred IUPAC names for assemblies of two or more identical cyclic systems joined by a single bond are 
+formed using the names of parent hydrides rather than the names of substituent groups, except for biphenyl and 
+polyphenyl assemblies, for which the name benzene is never used. For two-component assemblies, locants of one ring 
+are unprimed; locants of the second ring are primed. Locants, including the locants 1 and 1′, are necessary in preferred 
+IUPAC names to indicate points of attachment of rings or ring systems (see P-28.2.1). 
+ru: Предпочтительные названия ИЮПАК для &(assembly|ro*) из двух или более идентичных циклических систем, соединённых 
+одинарной связью, образуются с использованием названий &(parent hydride|ro*), а не названий &(substituent group|ro*), 
+за исключением бифенильных и полифенильных &(assembly|ro*), для которых название «бензол» никогда не используется. 
+Для двухкомпонентных ансамблей локанты одного цикла не имеют штриха; локанты второго цикла имеют штрих. Локанты, включая 
+локанты 1 и 1′, необходимы в предпочтительных названиях ИЮПАК для обозначения точек присоединения циклов или кольцевых 
+систем (см. P-28.2.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(2,135)_q3<_q3@n(3,-135)>@n(1,-80)-@n(1',-100)_(A30)@n(2',45)`|@n(3',-45)_q3
+$>
+
+en: 1,1′-bi(cyclopropane) (PIN)  <br>
+1,1′-bi(cyclopropyl) 
+ru: 1,1'-би(циклопропан) (PIN) <br>
+1,1'-би(циклопропил)
+
+@cell
+<$
+@:n(n,a,L:.35)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|@n(3,-40)`\\@n(4,-90)`/@n(5,-150)||@n(6,150)\N@n(1,90,.6)//@n(2,80)_(x1.2)`|@n(3',-140,.3)//@n(4',-90)\@n(5',-30)||@n(6',30)`/N`\\@n(2',100,.4)
+$>
+
+en: 2,2′-bipyridine (PIN)  <br>
+2,2′-bipyridyl
+ru: 2,2′-бипиридин (PIN) <br>
+2,2′-бипиридил
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//@n(6,60)`-@n(5,120)`\\@n(4,180)/@n(3,-120)=@n(2,-60)\@n(1,-70)-@n(1',-110)/@n(2',-120)=@n(3',-60)\@n(4')`//@n(5',60)`-@n(6',120)`\\
+$>
+
+en: 1,1′-biphenyl (PIN)  <br>
+biphenyl 
+ru: 1,1′-бифенил (PIN) <br>
+бифенил
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/@n(1,90)<_(A-60):L>`\`|/<_(A120)-#L>\|@n(2,80)-`|/<_(A120):r>\|`/<_(A-60)_#r>@n(1',90)`\@n(2',100)
+$>
+
+en: 2,2′-bi(bicyclo[2.2.2]octane) (PIN)  <br>
+2,2′-bi(bicyclo[2.2.2]octanyl) 
+ru: 2,2′-би(бицикло[2.2.2]октан) (PIN) <br>
+2,2′-би(бицикло[2.2.2]октанил)
+
+@End
+
+#P-52.2.7.2+
+en: The preferred numbering for ring assemblies composed of three or more identical cyclic systems uses 
+composite locants rather than primed locants (see P-28.3.1). 
+ru: Предпочтительная нумерация &(ring assembly|ro*), состоящих из трех или более идентичных циклических систем, 
+использует &(composite locant|*) вместо штрихованных локантов (см. P-28.3.1).
+
+@p .framed
+en: A new numbering system is now recommended for preferred IUPAC names of ring assemblies with more than two 
+rings or ring systems; it consists of composite locants, for example, 12. The previously used locant system for ring 
+assemblies with more than two rings or ring systems using serially primed locants (refs. 1 and 2) may be used in 
+general nomenclature. 
+ru: В настоящее время рекомендуется новая система нумерации для предпочтительных названий ИЮПАК &(ring assembly|ro*) 
+с более чем двумя кольцами или кольцевыми системами; она состоит из &(composite locant|ro*), например, 1^{2}. 
+Ранее использовавшаяся система локантов для &(ring assembly|ro*) с более чем двумя кольцами или кольцевыми системами, 
+использующая последовательно заштрихованные локанты (ссылки 1 и 2), может быть использована в общей номенклатуре.
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,-150,1.1)@;
+$L(1.8)`-@n(3,30)_q3@n(2,-90)@btc(1)_q3@n(1,150)_(A-30,L%s:1.2)-@n(2,-150)<_q3@n(3,90)@btc(2)_q3@n(1,-30)>_(A30,L%s)_(a30)@n(3,-90)@btc(3)_q3@n(2,150)`-@n(1,30)
+$>
+
+en: <%d%>-tercyclopropane (PIN)
+ru: <%d%>-терциклопропан (PIN)
+%d:1^{1},2^{1}:2^{2},3^{1}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.6)`-@n(2,-150)_q3@n(3,90)_q3@n(1,-120)_(A-30,L%s:1.2)-@n(2',120)<_q3@n(3',-90)_q3@n(1',60)>_(A30,L%s)_(a30)@n(2'',90)_q3@n(3'',-30,.5)`-@n(1'',-60)
+$>
+
+en: <%d%>-tercyclopropane
+ru: <%d%>-терциклопропан
+%d:1,1′:2′,1′′
+
+@cell colspan=2
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+@:cy(b,l:1,r:4)/=\@btc(&b)@n(&r,-170)<`//`-`\\@n(&l,-10)>@;
+$L(%L:1.1)@cy(1,l:,r:1)-@cy(2)-@cy(3,r:)
+$>
+
+en: <%d1%>-terphenyl (PIN)  <br>
+<%d2%>-terphenyl  <br>
+(not _p_-terphenyl) 
+ru: <%d1%>-терфенил (PIN) <br>
+<%d2%>-терфенил <br>
+(не _p_-терфенил)
+%d1:1^{1},2^{1}:2^{4},3^{1}
+%d2:1,1′:4′,1′′
+
+@End
+
+#P-52.2.7.3+
+en: Preferred IUPAC names for assemblies containing seven and more rings or ring systems. 
+ru: Предпочтительные названия ИЮПАК для &(assembly|ro*), содержащих семь и более колец или систем колец.
+
+en: Phane names are preferred IUPAC names rather than ring assembly names when seven or more rings or ring systems 
+are present. 
+ru: Для случаев, когда присутствуют семь или более колец или систем колец, предпочтительными названиями ИЮПАК являются
+&(phane name|*), а не названия &(ring assembly|ro*)
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+@:cy(b,l:1,r:4)/=\@btc(&b)@n(&r,-170)<`//`-`\\@n(&l,-10)>@;
+$L(%L:1.1)@cy(1,l:,r:1)-@cy(2)-@cy(3)-@cy(4)-@cy(5)-@cy(6)-@cy(7,r:)
+$>
+
+en: <%d1%>-heptabenzenaheptaphane (PIN)  <br>
+<%d2%>-septiphenyl  <br>
+<%d3%>-septiphenyl 
+ru: <%d1%>-гептабензолагептафан (PIN) <br>
+<%d2%>-септифенил <br>
+<%d3%>-септифенил
+%d1:1,7(1),2,3,4,5,6(1,4)
+%d2:1^{1},2^{1}:2^{4},3^{1}:3^{4},4^{1}:4^{4},5^{1}:5^{4},6^{1}:6^{4},7^{1}
+%d3:1,1′:4′,1′′:4′′,1′′′:4′′′,1′′′ ′:4′′′ ′,1′′′ ′′:4′′′ ′′,1′′′ ′′′
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(1.2)-_qq<_qS@n(1,90,.5)@bt(1,%b:-126,%h:1.2)_q_qq>@n(2,170)_(a54):p1#
+@:up(n)_(a54)S@bt(&n,%b,%h)_q@n(5,180)<_qq_q_qq@n(2,0)>_(a54)@(2)#
+@:dn(n)@n(2,0)_(a-54)S@bt(&n,-%b,%h)_p@n(5,180)<_pp_p_pp>_(a-54)@(3)#
+@up(4)@dn(5)@up(6)@dn(7)_(a54)S@bt(8,%b,%h)_q_qq_q_qq@n(2,0)
+$>
+
+en: <%d1%>-octathiophenaoctaphane (PIN)  <br>
+<%d2%>-octithiophene  <br>
+<%d3%>-octithiophene
+ru: <%d1%>-октатиофеноктафан (PIN) <br>
+<%d2%>-октитиофен <br>
+<%d3%>-октитиофен
+%d1:1,8(2),2,3,4,5,6,7(2,5)
+%d2:1^{2},2^{2}:2^{5},3^{2}:3^{5},4^{2}:4^{5},5^{2}:5^{5},6^{2}:6^{5},7^{2},7^{5},8^{2}
+%d3:2,2′:5′,2′′:5′′,2′′′:5′′′,2′′′ ′:5′′′ ′,2′′′ ′′:5′′′ ′′,2′′′ ′′′:5′′′ ′′′,2′′′ ′′′ ′
+
+@End
+
+
+#P-52.2.8
+en: Selection between a ring and a chain as parent hydride 
+ru: Выбор между кольцом и цепью в качестве &(parent hydride|ro)
+
+en: Within the same heteroatom class and for the same number of characteristic groups cited as the principal characteristic 
+group, a ring is always selected as the parent hydride to construct a preferred IUPAC name. In general nomenclature, a 
+ring or a chain can be the parent hydride (see P-44.1.2.2). 
+ru: В пределах одного класса гетероатомов и для одного и того же числа &(characteristic group|ro*), указанных в качестве 
+основной &(characteristic group|ro), для построения предпочтительного названия ИЮПАК в качестве &(parent hydride|ro) всегда 
+выбирается цикл. В общей номенклатуре &(parent hydride|tv) может быть цикл или цепь (см. P-44.1.2.2).
+
+@Examples
+
+@cell
+<$ |`//`\`||/\\_q6CH2-CH2-CH2-CH2-CH2-CH2-CH3 $>
+
+en: (a) heptylbenzene (PIN) (ring preferred to chain)  <br>
+(b) 1-phenylheptane (chain has greater number of skeletal atoms) 
+ru: (a) гептилбензол (PIN) (кольцо предпочтительнее цепи) <br>
+(b) 1-фенилгептан (цепь содержит больше скелетных атомов)
+
+@cell
+<$ |`/`\`|/\_q6CH=mCH2 $>
+
+en: (a) ethenylcyclohexane (PIN) (ring preferred to chain)  <br>
+(b) cyclohexylethene (emphasizes unsaturation) 
+ru: (a) этенилциклогексан (PIN) (кольцо предпочтительнее цепи) <br>
+(b) циклогексилэтен (подчеркивает ненасыщенность)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_q6{}[CH2]12-CH3>@n(2,-30)`//`\`||/\\@n(1,30)/{}[CH2]12-CH3
+$>
+
+en: 1,2-di(tridecyl)benzene (PIN) (ring preferred to chain)  <br>
+[not 1,1′-(1,2-phenylene)di(tridecane);  <br>
+multiplication of acyclic hydrocarbons is not allowed]
+ru: 1,2-ди(тридецил)бензол (PIN) (кольцо предпочтительнее цепи) <br>
+[не 1,1′-(1,2-фенилен)ди(тридекан); <br>
+умножение ациклических углеводородов не допускается]
+
+@End
