@@ -75,8 +75,10 @@
   "bridged fused ring name": "название мостикового конденсированного кольца",
 
   "bridged ring system": "система мостиковых колец",
+  "bridged ring system|ro": "системы мостиковых колец",
   "bridged ring system|vi": "систему мостиковых колец",
   "bridged ring system|tv": "системой мостиковых колец",
+  "bridged ring system|ro*": "систем мостиковых колец",
 
   "bridging": "образование мостика",
   "bridging|ro": "образования мостика",
@@ -89,6 +91,7 @@
 
   "characteristic [group]": "характеристическая",
   "characteristic [group]|*": "характеристические",
+  "characteristic [group]|ro*": "характеристических",
   "characteristic [group]|tv*": "характеристическими",
   "characteristic group": "характеристическая группа",
   "characteristic group|ro": "характеристической группы",
@@ -211,7 +214,9 @@
 
   "functional class nomenclature": "номенклатура функциональных классов",
   "functional class nomenclature|ro": "номенклатуры функциональных классов",
+  "functional class nomenclature|da": "номенклатуре функциональных классов",
   "functional class nomenclature|vi": "номенклатуру функциональных классов",
+  "functional class nomenclature|pr": "номенклатуре функциональных классов",
 
   "functional parent": "функциональный родитель",
   "functional parent|*": "функциональные родители",
@@ -234,6 +239,7 @@
   "fused ring system|*": "конденсированные кольцевые системы",
   "fused ring system|ro*": "конденсированных кольцевых систем",
   "fused ring system|da*": "конденсированным кольцевым системам",
+  "fused ring system|pr*": "конденсированных кольцевых системах",
 
   "fused system": "конденсированная система",
   "fused system|*": "конденсированные системы",
@@ -373,6 +379,7 @@
   "parent [chain]": "исходная",
   "parent [chain]|ro": "исходной",
   "parent [chain]|pr": "исходной",
+  "parent chain|ro": "исходной цепи",
 
   "parent component": "исходный компонент",
   "parent component|ro": "исходного компонента",
@@ -390,6 +397,7 @@
 
   "parent compound": "исходное соединение",
   "parent compound|ro": "исходного соединения",
+  "parent compound|da": "исходному соединению",
   "parent compound|tv": "исходным соединением",
   "parent compound|*": "исходные соединения",
   "parent compound|ro*": "исходных соединений",
@@ -620,6 +628,7 @@
   "substitutive name": "заместительное название",
   "substitutive name|*": "заместительные названия",
   "substitutive name|ro*": "заместительных названий",
+  "substitutive name|tv*": "заместительными названиями",
   "substitutive name|pr*": "заместительных названиях",
 
   "substitutive nomenclature": "заместительная номенклатура",
@@ -634,6 +643,8 @@
 
   "substitution pattern": "шаблон замещения",
   "substitution pattern|ro*": "шаблонов замещения",
+
+  "sulfenic acid": "сульфеновая кислота",
 
   "sulfonamide:comment": "В русскоязычной литературе более известны как сульфаниламиды. Однако с точки зрения систематизации лучше Сульфонамиды",
   "sulfonamide": "сульфонамид",
