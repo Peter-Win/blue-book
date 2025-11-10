@@ -2,7 +2,10 @@
   " attantion:comm!": "В ключах нельзя использовать большие буквы!",
 
   "added indicated hydrogen": "добавленный указанный водород",
+  "added indicated hydrogen|ro": "добавленного указанного водорода",
   "added indicated hydrogen|da": "добавленному указанному водороду",
+  "added indicated hydrogen|tv": "добавленным указанным водородом",
+  "added indicated hydrogen|pr": "добавленном указанном водороде",
 
   "amplificant": "амплификант",
   "amplificant|ro": "амплификанта",
@@ -96,6 +99,7 @@
   "characteristic group": "характеристическая группа",
   "characteristic group|ro": "характеристической группы",
   "characteristic group|da": "характеристической группе",
+  "characteristic group|tv": "характеристической группой",
   "characteristic group|vi": "характеристическую группу",
   "characteristic group|*": "характеристические группы",
   "characteristic group|ro*": "характеристических групп",
@@ -303,14 +307,20 @@
   "independent bridge|ro*": "независимых мостов",
 
   "indicated [hydrogen]": "указанный",
+  "indicated [hydrogen]|ro": "указанного",
   "indicated hydrogen": "указанный водород",
   "indicated hydrogen|ro": "указанного водорода",
   "indicated hydrogen|da": "указанному водороду",
   "indicated hydrogen|vi": "указанный водород",
   "indicated hydrogen|tv": "указанным водородом",
   "indicated hydrogen|pr": "указанном водороде",
+  "indicated hydrogen|ro*":  "указанных водородов",
 
+  "indicated hydrogen atom": "атом указанного водорода",
+  "indicated hydrogen atom|vi": "атома указанного водорода",
   "indicated hydrogen atom|*": "атомы указанного водорода",
+  "indicated hydrogen atom|ro*": "атомов указанного водорода",
+  "indicated hydrogen atom|da*": "атомам указанного водорода",
   "indicated hydrogen atom|tv*": "атомами указанного водорода",
 
   "interparent component|ro": "промежуточного компонента",
@@ -359,6 +369,8 @@
   "multiplicative nomenclature|vi": "мультипликативую номенклатуру",
 
   "nondetachable [prefix]": "неотделяемый",
+  "nondetachable [prefix]|*": "неотделяемые",
+  "nondetachable [prefix]|ro*": "неотделяемых",
   "nondetachable [prefix]|tv*": "неотделяемыми",
 
   "nonfused bridged ring system": "система мостиковых неконденсированных колец",
@@ -380,6 +392,7 @@
   "parent [chain]|ro": "исходной",
   "parent [chain]|pr": "исходной",
   "parent chain|ro": "исходной цепи",
+  "parent chain|da*": "исходным цепям",
 
   "parent component": "исходный компонент",
   "parent component|ro": "исходного компонента",
@@ -431,6 +444,11 @@
   "parent ring|tv": "исходным кольцом",
   "parent ring|ro*": "исходных колец",
   "parent ring|pr*": "исходных кольцах",
+
+  "parent ring structure|ro": "исходной кольцевой структуры",
+
+  "parent ring system|ro": "исходной кольцевой системы",
+  "parent ring system|pr": "исходной кольцевой системе",
 
   "parent [structure]": "исходная",
   "parent [structure]|*": "исходные",

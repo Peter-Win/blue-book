@@ -8,6 +8,8 @@ const buildExamples = (part, locale, text, ctx, buildPart) => {
     title = "";
   } else if (specTitle === "single") {
     title = translate("Example", locale);
+  } else if (specTitle === "multi") {
+    title = translate("Examples", locale);
   } else if (!title) {
     const key = part.cells.length === 1 ? "Example" : "Examples";
     title = translate(key, locale);

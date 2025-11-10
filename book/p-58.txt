@@ -19,9 +19,7 @@ ru: Раздел P-45 содержит иерархические правила
 Если это условие не выполняется и названия компонентов приемлемы для общей номенклатуры, полученные названия соединений 
 приемлемы только для общей номенклатуры.
 
-@Examples
-en: Examples:
-ru: Примеры:
+@Examples multi
 
 @cell
 <$
@@ -67,6 +65,8 @@ ru: 4-хлор-2-[(1,3-оксазол-5-ил)метил]-1,3-оксазол (PIN
 en: Indicated hydrogen, ‘added indicated hydrogen’, and hydro prefixes
 ru: &(Indicated hydrogen), «&(added indicated hydrogen)» и префиксы «гидро»
 
+@Content
+
 #P-58.2.1
 en: Indicated hydrogen (see also P-14.7.1)
 ru: &(Indicated hydrogen) (см. также P-14.7.1)
@@ -99,6 +99,823 @@ ru: Во многих «&(mancude)»-кольцах (см. P-22.2.2.1.4), &(fuse
 &(Indicated hydrogen) часто опускается для очень распространенных изомеров или там, где в названии нет двусмысленности; 
 однако в предпочтительных названиях ИЮПАК &(indicated hydrogen) всегда должен быть указан, если он присутствует в 
 соответствующей структуре.
+
+#P-58.2.1.2+
+en: In parent hydrides, indicated hydrogen atoms (see P-14.7) are cited, if posible, at the lowest nonfusion 
+peripheral atom (see P-25.0) of the ring or ring system consistent with the maximum number of noncumulative double 
+bonds in accordance with P-25.7. Low locants are assigned to indicated hydrogen atoms when the degree of 
+unsaturation is modified by using ‘hydro’ prefixes. 
+ru: В &(parent hydride|pr*) &(indicated hydrogen atom|*) (см. P-14.7) &(cited|*), если возможно, на уровне наименьшего 
+неконденсированного периферического атома (см. P-25.0) кольца или кольцевой системы, соответствующего максимальному числу 
+некумулятивных двойных связей в соответствии с P-25.7. Меньшие локанты присваиваются &(indicated hydrogen atom|da*), 
+если степень ненасыщенности модифицируется добавлением префикса «гидро».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-10)_qN<_(y-.5)H>@n(1,90,.55)_q_qq
+$>
+
+en: 1_H_-pyrrole (PIN)
+ru: 1_H_-пиррол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/O@n(1,-90,.55)\@n(2,-30)|`//`\
+$>
+
+en: 2_H_-1-benzopyran (PIN)
+ru: 2_H_-1-бензопиран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||\//`|@n(2,-30)`\O@n(1,-90,.55)`/`\O`/||\@n(5,90)/
+$>
+
+en: 2_H_,5_H_-pyrano[2,3-_b_]pyran (PIN)
+ru: 2_H_,5_H_-пирано[2,3-_b_]пиран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q3_q3>_q5@n(3,80)_qO@n(2,0,.5)_q@n(1,-80)_q@n(7a,-80,.5)`\@n(7,-90)`//@n(6,-150)|@n(5,150)\\@n(4,90)/@n(3a,80,.5)
+$>
+
+en: 1_H_,3_H_-3a,7a-methano-2-benzofuran (PIN)
+ru: 1_H_,3_H_-3a,7a-метано-2-бензофуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_pp7_p7_pp7_p7_pp7_p7>_q@n(1',90)_q@n(2',170,.5)<_q_qq>_(a0)_p<_pp_p@n(2,90)_p@n(1,0)>_q7_qq7_q7_qq7_q7_qq7
+$>
+
+en: <%d%>-spirobi[azulene] (PIN)
+ru: <%d%>-спироби[азулен] (PIN)
+%d:1′_H_,2_H_-1,2′
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq@n(2,0)_q<_q>@n(1,-20)_(a54):a;
+||l_p#a@n(1',170,.5)_p@n(2',180)_pp_p/\\|`//`\
+$>
+
+en: <%d%>-biindene (PIN) 
+ru: <%d%>-биинден (PIN) 
+%d:1_H_,1′_H_-1,1′
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q@n(3,80)_q@n(2,0)_q@n(1,-80)_q
+$>
+
+en: 2,3-dihydro-1_H_-indene (PIN) <br>
+(not 1,3-dihydro-2_H_-indene;  <br>
+nor 1,2-dihydro-3_H_-indene) 
+ru: 2,3-дигидро-1_H_-инден (PIN) <br>
+(не 1,3-дигидро-2_H_-инден; <br>
+и не 1,2-дигидро-3_H_-инден)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/O\@n(2,-30)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: 3,4-dihydro-2_H_-1-benzopyran (PIN)  <br>
+(not 2,3-dihydro-4_H_-1-benzopyran;  <br>
+although other indicated hydrogen combinations are possible,  <br>
+this combination has the lowest possible locants that are structurally permissible for this compound)
+ru: 3,4-дигидро-2_H_-1-бензопиран (PIN) <br>
+(не 2,3-дигидро-4_H_-1-бензопиран; <br>
+хотя возможны и другие комбинации &(indicated hydrogen|ro), <br>
+эта комбинация имеет наименьшие возможные локанты, структурно допустимые для данного соединения)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/O@n(1,-90,.55)\@n(2,-30)|@n(3,30)`/@n(4,90)`\`/@n(5,90)`\@n(6,150)`|@n(7,-150)/O@n(8,-90,.55)\
+$>
+
+en: hexahydro-2_H_,5_H_-pyrano[2,3-_b_]pyran (PIN)
+ru: гексагидро-2_H_,5_H_-пирано[2,3-_b_]пиран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(4,90)`\@n(5,150)`|//\|@n(3a,80,.5)_q_qq_q@n(1,-60)_qq
+$>
+
+en: 3a,5-dihydro-4_H_-indene (PIN) <br>
+(not 4,5-dihydro-3a_H_-indene)
+ru: 3a,5-дигидро-4_H_-инден (PIN) <br>
+(не 4,5-дигидро-3a_H_-инден)
+
+@End
+
+#P-58.2.2
+en: ‘Added indicated hydrogen’
+ru: «&(Added indicated hydrogen)»
+
+en: A second type of indicated hydrogen describes hydrogen atoms attached to ring atoms that are attached to adjacent ring 
+atoms by single bonds only as the consequence of the addition of a suffix describing a structural modification. This type 
+of indicated hydrogen is called ‘added indicated hydrogen’ because it is added to the name as a result of an operation on 
+the parent hydride which may or may not contain indicated hydrogen atoms. ‘Added indicated hydrogen’ is cited in 
+parentheses after the locant of the structural feature to which it refers. This method is preferred over the use of 
+nondetachable hydro prefixes (P-58.2.5) for preferred IUPAC names. 
+ru: Второй тип &(indicated hydrogen|ro) описывает атомы водорода, присоединённые к атомам кольца, которые, в свою очередь, 
+связаны с соседними атомами кольца одинарными связями только в результате добавления суффикса, описывающего структурную 
+модификацию. Этот тип &(indicated hydrogen|ro) называется «&(added indicated hydrogen|tv)», поскольку он добавляется к 
+названию в результате операции над &(parent hydride|tv), который может содержать или не содержать указанные атомы водорода. 
+«&(Added indicated hydrogen)» указывается в скобках после обозначения структурного элемента, к которому он относится. 
+Этот метод предпочтительнее использования &(nondetachable [prefix]|ro*) гидропрефиксов (P-58.2.5) для предпочтительных 
+названий ИЮПАК.
+
+en: **Note*: Indicated hydrogen has been used in the manner described in P-58.2.1, above but applied after the introduction of 
+a principal characteristic group. It significantly reduced the need for ‘added indicated hydrogen’. This method was 
+developed at the Beilstein Institute and may be found in the Beilsteins Handbuch der Organischen Chemie, Springer 
+Verlag, printed edition 1909-1959. It is not recommended for use in constructing IUPAC names but may be found in 
+names in the literature.
+ru: **Примечание**: &(Indicated hydrogen) использовался способом, описанным в P-58.2.1 выше, но после введения основной 
+&(characteristic group|ro). Это значительно снизило необходимость в «&(added indicated hydrogen|pr)». Этот метод был 
+разработан в Институте Бейльштейна и описан в «Справочнике Бейльштейна по органической химии» (Beilsteins Handbuch der 
+Organischen Chemie), издательство Springer Verlag, печатное издание 1909–1959 гг. Его не рекомендуется использовать при 
+построении названий по ИЮПАК, но он может встречаться в названиях в литературе.
+
+#P-58.2.2.1
+en: General methodology
+ru: Общая методология
+
+en: The presence of at least one hydrogen atom on a ring atom that is attached to adjacent ring atoms by single bonds only 
+that results from the introduction of a principal characteristic group, a free valence, radical, or an ionic center into a 
+mancude polycyclic system in the absence of, or lack of, sufficient hydrogen atoms, is cited by using the capital italic 
+letter _H_ following the locant of the ring atom for each such position. This ‘added indicated hydrogen’ designation is 
+enclosed in parentheses and inserted into the name immediately following the locant(s) for the free valences, radical or 
+ionic centers, or principal characteristic groups. 
+ru: Наличие по крайней мере одного атома водорода на атоме кольца, связанного с соседними атомами кольца только одинарными 
+связями, возникающее в результате введения основной &(characteristic group|ro), свободной валентности, радикала или 
+ионного центра в ограниченную полициклическую систему при отсутствии или недостаточном количестве атомов водорода, 
+обозначается заглавной курсивной буквой _H_, следующей за положением атома кольца для каждого такого положения. 
+Обозначение «&(added indicated hydrogen|ro)» заключается в скобки и вставляется в название сразу после положения(й) 
+свободной валентности, радикального или ионного центра или основной &(characteristic group|ro).
+
+#P-58.2.2.2+
+en: When there is a choice, ‘added indicated hydrogen’ positions are assigned to periferal ring atoms, with the 
+lowest locants consistent with the arrangement of double bonds in the compound as required. Low locants are assigned 
+to ‘added indicated hydrogen’ atoms in the presence of hydro prefixes used to modify the degree of unsaturation. 
+ru: При наличии выбора позиции «&(added indicated hydrogen|ro)» присваиваются периферийным атомам кольца, при этом 
+наименьшие локанты соответствуют расположению двойных связей в соединении, как требуется. Меньшие локанты присваиваются 
+атомам «&(added indicated hydrogen|ro)» при наличии префиксов «гидро», используемых для модификации степени ненасыщенности.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/`|O|@n(1,-30)\@n(2,-30)|`//`\`|`\\`/||\//
+$>
+
+en: naphthalen-1(2_H_)-one (PIN)
+ru: нафталин-1(2_H_)-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N<`|COOH>@n(1,90,.55)\@n(2,-30)|`//`\
+$>
+
+en: quinoline-1(2_H_)-carboxylic acid (PIN)
+ru: хинолин-1(2_H_)-карбоновая кислота (PIN)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N\|`//`\`||/`|@w()
+$>
+
+en: pyridin-1(2_H_)-yl (preferred prefix)
+ru: пиридин-1(2_H_)-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H|@n(8a,10)|$pos(90)^+@n(4a,-10)\//`|`\\`/`\`//|\\/
+$>
+
+en: naphthalen-4a(8a_H_)-ylium (PIN)
+ru: нафталин-4а(8а_Н_)-ил&(ium) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.55)\@n(2,-30)||N@n(3,30,.5)`/|O`|@n(4,-90)`\@n(5,150)`|`\O\@n(6,30,.35)/
+$>
+
+en: pyrimidine-4,6(1_H_,5_H_)-dione (PIN)
+ru: пиримидин-4,6(1_H_,5_H_)-дион (PIN)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||\//`|`\\`/`\@n(9,-30)<`|@w()>`/||r<`/`\\`|//\>\<||@w()>@n(10,20,.5)/
+$>
+
+en: anthracen-9(10_H_)-yl-10-ylidene (preferred prefix)
+ru: антрацен-9(10_H_)-ил-10-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.55)\@n(2,150)<//@w()>|@n(3,30)`/@n(4,90)`\`|</>`\\`/||\//
+$>
+
+en: 3,4-dihydroquinolin-2(1_H_)-ylidene (preferred prefix)
+ru: 3,4-дигидрохинолин-2(1_H_)-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(4a,90,.5)`/@n(5,90)`\@n(6,150)`|@n(7,-150)/@n(8)\@n(8a,,.55)//@n(1)\/O`/@n(2,150)|@n(3,30)`//@n(4,90)`\
+$>
+
+en: 5,6,7,8-tetrahydronaphthalen-2(4a_H_)-one (PIN)
+ru: 5,6,7,8-тетрагидронафталин-2(4a_H_)-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)COOH`|`/@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8)\\|@n(4a,-25)\@n(4,-90)/@n(3,30)`|@n(2,-30)`\@n(1)`/@n(8a,20,.5)
+$>
+
+en: 1,3,4,5-tetrahydronaphthalene-4a(2_H_)-carboxylic acid (PIN) <br>
+(a 4a(1_H_)-isomer is not consistent with the arrangement  <br>
+of the double bonds in the mancude compound)
+ru: 1,3,4,5-тетрагидронафталин-4a(2_H_)-карбоновая кислота (PIN) <br>
+(4a(1_H_)-изомер не соответствует расположению <br>
+двойных связей в &(mancude)-соединении)
+
+@End
+
+#P-58.2.2.3+
+en: ‘Added indicated hydrogen’ atoms are not cited when the accommodation of a pair of principal characteristic 
+groups or free valences simply removes a double bond (directly or after rearrangement of double bonds) from the parent 
+ring structure. 
+ru: Атомы «&(added indicated hydrogen|ro)» не &(cited|*), когда размещение пары основных &(characteristic group|ro*) или 
+свободных валентностей просто удаляет двойную связь (непосредственно или после перегруппировки двойных связей) из 
+&(parent ring structure|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.55)\/O`/@n(2,160)|\O`\@n(3,-160)`/N@n(4,90,.55)`\\`|//
+$>
+
+en: pyrazine-2,3-dione (PIN)
+ru: пиразин-2,3-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|O|@n(9,90)\|l\@n(4,90)//@n(3)`|@n(2)`\\@n(1,-90)`/|`/|O`|@n(10,-90,.5)`\
+$>
+
+en: anthracene-9,10-dione (PIN)
+ru: антрацен-9,10-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`/`\\`|//\<`|@w()>@n(8a,20,.45)/@n(1,-80,.35)\\@n(2,-30)|@n(3,30)`//@n(4,80,.35)`\@n(4a,-20,.45)|@w()
+$>
+
+en: naphthalene-4a,8a-diyl (preferred prefix)
+ru: нафталин-4а,8а-диил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|/@n(1,-70)\\@n(2,-30)|@n(3,30)`//@n(4,70)`\@n(4a,-20,.45)`|@n(8a,20,.45)`\`//|\\/|OH
+$>
+
+en: naphthalene-4a,8a-diol (PIN)
+ru: нафталин-4а,8а-диол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/|O`|@n(5,-90)`\`||/`|O|@n(8,90)\|\\@n(4,90)/`||<`\`//>_p<_(a-54,N2)O>@n(1,110)_p@n(2,0)_pp@n(3,90)_p
+$>
+
+en: 1_H_-cyclopenta[_b_]naphthalene-1,5,8-trione (PIN) 
+ru: 1_H_-циклопента[_b_]нафталин-1,5,8-трион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|O|@n(9,90)\||<`/|O`|@n(10,-90,.5)`\>\@n(4,90)//@n(3,30)`|@n(2,-30)`\`|O|@n(1,90)`/
+$>
+
+en: anthracene-1,9,10(2H)-trione (PIN)
+ru: антрацен-1,9,10(2H)-трион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+N@n(4,0,.5)\=/N@n(1,180,.5)<--@w()>`\@n(2,-60)`=@n(3,-120)`/`--@w()
+$>
+
+en: pyrazine-1,4-diyl (preferred prefix) 
+ru: пиразин-1,4-диил (предпочтительный префикс)
+
+@End
+
+#P-58.2.3
+en: Specific rules related to indicated hydrogen, ‘added indicated hydrogen’ and hydro prefixes
+ru: Специальные правила, касающиеся &(indicated hydrogen|ro), «&(added indicated hydrogen|ro)» и префиксов «гидро»
+
+#P-58.2.3.1+
+en: Indicated hydrogen is cited at any position of a ring system in order to accommodate principal characteristic 
+groups or free valences expressed as suffixes, provided that there are an equal or greater number of indicated hydrogen 
+atoms available to accommodate all of the principal characteristic groups or free valences.
+ru: &(Indicated hydrogen) &(cited) в любой позиции кольцевой системы с целью включения основных &(characteristic group|ro*) 
+или свободных валентностей, выраженных в виде суффиксов, при условии, что имеется равное или большее число 
+&(indicated hydrogen atom|ro*), доступных для размещения всех основных &(characteristic group|ro*) или свободных валентностей.
+
+#P-58.2.3.1.1+
+en: When there are an equal number of indicated hydrogen atoms and principal characteristic groups or free 
+valences to be accommodated, the indicated hydrogen atoms are placed at peripheral atoms that will accommodate 
+these principal characteristic groups or free valences. Locants for hydro prefixes are those of the saturated positions.
+ru: При равном количестве &(indicated hydrogen atom|ro*) и главных &(characteristic group|ro*) или свободных валентностей, 
+которые необходимо разместить, &(indicated hydrogen atom|*) размещаются на периферийных атомах, которые будут занимать эти 
+главные &(characteristic group|*) или свободные валентности. Местонахождения префиксов «гидро» соответствуют положениям 
+насыщенных атомов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.55)\|`/|O`|@n(4,-90)`\`|/
+$>
+
+en: tetrahydro-4_H_-pyran-4-one  <br>
+oxan-4-one (PIN) 
+ru: тетрагидро-4_H_-пиран-4-он <br>
+оксан-4-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q7@n(5,100)_q7@n(4,50)_q7@n(3,0)_q7N@n(2,120,.55)<_q7@n(1,-100)_q7>_(a67)CH2-CH2-OH
+$>
+
+en: 2-(1,3,4,5-tetrahydro-2_H_-2-benzazepin-2-yl)ethan-1-ol (PIN)  <br>
+1,3,4,5-tetrahydro-2_H_-2-benzazepine-2-ethanol 
+ru: 2-(1,3,4,5-тетрагидро-2_H_-2-бензазепин-2-ил)этан-1-ол (PIN) <br>
+1,3,4,5-тетрагидро-2_H_-2-бензазепин-2-этанол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/O@n(1,-90,.55)\||`/`\\`|`\\`/@n(7,-80,.5)`\O\|\\/
+$>
+
+en: 7_H_-1-benzopyran-7-one (PIN)
+ru: 7_H_-1-бензопиран-7-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\`/||\@n(4,90)/@n(3a,-150,.5)`|_p@n(1,-80)_p@n(2,0)_pp@n(3,70,.3)_p_(y1.3)COOH
+$>
+
+en: 1,4-dihydro-3a_H_-indene-3a-carboxylic acid (PIN)
+ru: 1,4-дигидро-3a_H_-инден-3a-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/@n(5,90)`\\@n(6,150)`|`\O\@n(7,30)/O@n(8,-90,.55)\/O@n(1,-90,.55)\/O`/@n(2,150)|@n(3,30)`//@n(4,90)`\
+$>
+
+en: 2_H_,7_H_-pyrano[2,3-_b_]pyran-2,7-dione (PIN) 
+ru: 2_H_,7_H_-пирано[2,3-_b_]пиран-2,7-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\@n(11,-90)`//@n(10,-150,.45)|\\@n(8,90)/`||@n(11a,20,.6)_p7@n(11b,60,.45)_p7@n(4a,10,.5)<_q6@n(4,20)_q6@n(3,-60)_q6@n(2,-90)_q6@n(1,-150)_q6>#
+_p7@n(5,0)_p7@n(6,-120)<_p7@n(7,90)_p7><_(a-24.3)COOH>_(a-104.3)COOH
+$>
+
+en: 1,2,3,4,4a,5,7,11b-octahydro-6_H_-dibenzo[_a,c_][7]annulene-6,6-dicarboxylic acid (PIN)  <br>
+[not 1,2,3,4,4a,5,7,11b-octahydro-6_H_-dibenzo[_a,c_]cycloheptene-6,6-dicarboxylic acid] 
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/O@n(1,-90,.55)\@n(2,-30)|@n(3,30)`/|O`|@n(4,-90)`\`//@n(5,90)`\`||</\\>`\O`/@n(8,-150)|@n(7,150)\|O`|@n(6,-90)/
+$>
+
+en: 2,3,7,8-tetrahydro-4_H_,6_H_-benzo<%d%>dipyran-4,6-dione (PIN)
+ru: 2,3,7,8-тетрагидро-4_H_,6_H_-бензо<%d%>дипиран-4,6-дион (PIN)
+%d:[1,2-_b_:5,4-_b′_]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x-1.1)@n(6,-120)_q@n(5,160)_q<|OH>@n(4,-90)_q_q@n(6a,-120)_p@n(7,-90)_p_p<_p@n(3b,-45,.5)><_(a0)HO>@n(3a,-10,.5)_q@n(3,90)_qq@n(2,20)_q@n(1,-60)_q@n(7a,-70)
+$>
+
+en: 1,3b,4,5,6,6a,7,7a-octahydro-3a_H_-cyclopenta[_a_]pentalene-3a,4-diol (PIN)
+ru: 1,3b,4,5,6,6a,7,7a-октагидро-3a_H_-циклопента[_a_]пентален-3а,4-диол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y-1.1)<_p@n(1,-80)_p@n(2,0)_p@n(3,80)_p>@n(8a,-80,.5)_q7@n(8,-80)_q7:n7@n(7,-150)_q7:n6@n(6,180)_qq7@n(5,150)_q7<_(a64.3,N2)O>@n(4,-110)_q7#
+@n(3a,80,.5)_(p1;2;n6;n6)CO@n(9,150,.5)_#n7
+$>
+
+en: 1,2,3,7,8,8a-hexahydro-4_H_-3a,7-methanoazulene-4,9-dione (PIN) 
+ru: 1,2,3,7,8,8a-гексагидро-4_H_-3a,7-метаноазулен-4,9-дион (PIN)
+
+@End
+
+#P-58.2.3.1.2+
+en: When there are more indicated hydrogen atoms than can be used to accommodate all of the principal 
+characteristic groups or free valences in the structure of the compound, the remaining indicated hydrogen atoms are 
+assigned to the lowest nonfusion peripheral atom consistent with the arrangement of double bonds in the compound. 
+Locants for ‘hydro’ prefixes are those of the saturated positions. 
+ru: Если число &(indicated hydrogen atom|ro*) превышает количество, необходимое для размещения всех основных 
+&(characteristic group|ro*) или свободных валентностей в структуре соединения, оставшиеся &(indicated hydrogen atom|*) 
+относятся к наименьшему неконденсированному периферическому атому в соответствии с расположением двойных связей в соединении.
+Префиксы «гидро» соответствуют насыщенным позициям.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y1.1)<_q3@n(7,0,.2)_q3><_p@n(4,100)_p@n(5,180)_p@n(6,-100)_p>#
+@n(3a,90,.5)_q<_(a54,N2)O>@n(3,0)_qO@n(2,0,.45)_q@n(1,0)<_(a54,N2)O>_q@n(6a,-90,.5)
+$>
+
+en: 5,6-dihydro-1_H_,3_H_,4_H_-3a,6a-methanocyclopenta[_c_]furan-1,3-dione (PIN)  <br>
+(not 4,5-dihydro-1_H_,3_H_,6_H_-3a,6a-methanocyclopenta[_c_]furan-1,3-dione;  <br>
+4_H_ is lower than 6_H_)
+ru: 5,6-дигидро-1_H_,3_H_,4_H_-3a,6a-метаноциклопента[_c_]фуран-1,3-дион (PIN) <br>
+(не 4,5-дигидро-1_H_,3_H_,6_H_-3a,6a-метаноциклопента[_c_]фуран-1,3-дион; <br>
+4_H_ меньше 6_H_)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/O@n(1,-90,.55)\@n(2,-30)|@n(3,30)`//@n(4,90)`\`|`\\`/||<\@n(5,90)//>`/|O`|@n(6,-90,.5)`\@n(7,150)`|@n(8,-150)/O\
+$>
+
+en: 7,8-dihydro-2_H_,6_H_-benzo<%d%>dipyran-6-one (PIN)  <br>
+(not 2,3-dihydro-4_H_,8_H_-benzo<%d%>dipyran-4-one;  <br>
+‘2_H_,6_H_’ is lower than ‘4_H_,8_H_’)  <br>
+(not 6,7-dihydro-2_H_,8_H_-benzo<%d%>dipyran-4(3_H_)-one;  <br>
+‘2_H_,6_H_’ is lower than ‘2_H_,8_H_’) 
+ru: 7,8-дигидро-2_H_,6_H_-бензо<%d%>дипиран-6-он (PIN) <br>
+(не 2,3-дигидро-4_H_,8_H_-бензо<%d%>дипиран-4-он; <br>
+‘2_H_,6_H_’ меньше, чем ‘4_H_,8_H_’) <br>
+(не 6,7-дигидро-2_H_,8_H_-бензо<%d%>дипиран-4(3_H_)-он; <br>
+‘2_H_,6_H_’ меньше, чем ‘2_H_,8_H_’)
+%d:[1,2-_b_:5,4-_b′_]
+
+@End
+
+#P-58.2.3.1.3+
+en: When the number of indicated hydrogens is less than the number of characteristic groups the following rules are applied.
+ru: Если число &(indicated hydrogen|ro*) меньше числа &(characteristic group|ro*), то применяются следующие правила.
+
+@List 1
+
+@item
+en: at least one of the indicated hydrogen atoms is assigned to a nonfusion peripheral atom having the lowest locants 
+consistent with the mancude system of double bonds as established in P-58.2.1.2. 
+ru: по крайней мере один из &(indicated hydrogen atom|ro*) относится к неконденсированному периферическому атому 
+с наименьшими локантами, соответствующими системе двойных связей, установленной в P-58.2.1.2.
+
+@item
+en: other indicated hydrogen atoms are assigned to other positions that accommodate characteristic groups or free valences. 
+ru: другие &(indicated hydrogen atom|*) назначены в другие позиции, которые соответствуют &(characteristic group|da*) 
+или свободным валентностям.
+
+@item
+en: principal characteristic groups or free valences that cannot be accommodated in ways described in (1) and (2) are 
+accommodated by using ‘added indicated hydrogen atoms’ (see P-58.2.2). 
+ru: основные &(characteristic group|*) или свободные валентности, которые не могут быть размещены способами, 
+описанными в (1) и (2), размещаются с помощью «атомов &(added indicated hydrogen|ro)» (см. P-58.2.2).
+
+@item
+en: indicated hydrogen atoms that cannot be used to accommodate principal characteristic groups or free valences 
+has seniority over ‘added indicated hydrogen’ for lower locants. 
+ru: &(indicated hydrogen atom|*), которые не могут быть использованы для размещения основных &(characteristic group|ro*) 
+или свободных валентностей, имеют приоритет над «&(added indicated hydrogen|tv)» для меньших локантов.
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/|O`|@n(4,150)`\`||/\\|@n(3a,90,.5)_q@n(3,80)_q@n(2,0)_q<_q>@n(1,100)_(a54,N2)O
+$>
+
+en: 3,3a-dihydro-1_H_-indene-1,4(2_H_)-dione (PIN)
+ru: 3,3a-дигидро-1_H_-инден-1,4(2_H_)-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`|r`\`//|\\/`|/\\_q@n(3,0,.3)_q<_(a54,N2)O>@n(2,120)_q<_(a54,N2)O>@n(1,60)_q
+$>
+
+en: 1_H_-cyclopenta[_a_]naphthalene-1,2(3_H_)-dione (PIN)  <br>
+(not 3_H_-cyclopenta[_a_]naphthalene-1,2-dione) 
+ru: 1_H_-циклопента[_a_]нафталин-1,2(3_H_)-дион (PIN) <br>
+(не 3_H_-циклопента[_a_]нафталин-1,2-дион)
+
+@End
+
+en: **Explanation**: There is only one indicated hydrogen atom but there are two principal characteristic groups to be 
+accommodated; therefore the indicated hydrogen is placed at the lowest position consistent with the arrangement of the 
+double bonds in the parent ring system.
+ru: **Пояснение**: Здесь только один &(indicated hydrogen atom), но необходимо учесть две основные &(characteristic group|*); 
+поэтому &(indicated hydrogen) помещен в самое нижнее положение, соответствующее расположению двойных связей в 
+&(parent ring system|pr).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`/`\\r`/@n(6,90)`\`|O|@n(5,90)`/@n(4,90)`\@n(3,-90)`/O@n(2,-90,.6)`\`|O|@n(1,90)`/`\`/|\@n(31,90)/N<`|>\/O`/@n(29,150,.5)|`/O/@n(28,-30,.5)\#
+@n(27,150,.5)|\/`|@n(23,30,.5)<`\O`/>/\/\\l/\\l/\\l/`|`\_(A-110)<_(A-60,N2)O>@n(11,130)_#1
+$>
+
+en: 9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-hexadecahydro-3_H_-23,27-epoxypyrido[2,1-<br>
+_c_][1,4]oxaazacyclohentriacontine-1,5,11,28,29(4_H_,6_H_,31_H_)-pentone (PIN) 
+ru: 9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-гексадекагидро-3_H_-23,27-эпоксипиридо[2,1-<br>
+_c_][1,4]оксаазациклоэнтриаконтин-1,5,11,28,29(4_H_,6_H_,31_H_)-пентон (PIN)
+
+@End
+
+en: **Explanation**: The ring system requires only one indicated hydrogen atom but there are 5 ketonic sites, the principal 
+characteristic groups; thus, the indicated hydrogen atom is assigned to position 3, the lowest possible site consistent 
+with the arrangement of the double bonds in the compound (position 1 is not possible because of the fused pyrido ring). 
+The ketonic sites 28 and 29 simply remove a double bond from the fused ring system and do not require added 
+hydrogen atoms. The ketonic sites at 1, 5, and 11 remain to be accommodated. As noted above, because of the fused 
+pyrido ring there must be an ‘added indicated hydrogen’ atom the fused pyrido ring and it must be at lowest position, 
+31. Finally, added indicated hydrogen atoms are inserted at the lowest positions consistent with the arrangement of the 
+double bonds in the compound to accommodate the ketonic sites at 5 and 11, and the appropriate number of hydro 
+prefixes added. 
+ru: **Объяснение**: Кольцевая система требует только одного &(indicated hydrogen atom|vi), но имеется 5 кетонных позиций, 
+основных &(characteristic group|ro*); таким образом, &(indicated hydrogen atom) назначается в положение 3, наименьшее 
+возможное положение, согласующееся с расположением двойных связей в соединении (положение 1 невозможно из-за конденсированного 
+пиридного кольца). Кетонные позиции 28 и 29 просто удаляют двойную связь из &(fused ring system|ro) и не требуют добавления 
+атомов водорода. Кетонные позиции в положениях 1, 5 и 11 остаются нераскрытыми. Как отмечалось выше, из-за конденсированного 
+пиридного кольца в конденсированном пиридном кольце должен быть «&(added indicated hydrogen)», и он должен находиться 
+в наменьшем положении, 31. Наконец, атомы &(added indicated hydrogen|ro) вставляются в наименьшие положения, согласующиеся 
+с расположением двойных связей в соединении, чтобы разместить кетонные позиции в положениях 5 и 11, и добавляется 
+соответствующее количество гидро-префиксов.
+
+#P-58.2.3.1.4+
+en: When the indicated hydrogen atoms of a parent structure cannot be used to accommodate all of the 
+principal characteristic groups of the structure, the rules described in P-58.2.3.1.3 are applied. 
+ru: Если &(indicated hydrogen atom|*) &(parent structure|ro) не могут быть использованы для размещения всех 
+основных &(characteristic group|ro*) структуры, то применяются правила, описанные в P-58.2.3.1.3.
+
+@Examples multi
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\/@n(4,30)`|O@n(3,-30,.5)`\`|O|@n(2,90)`/@n(1,-150)||`/|l`/O@n(7,90,.6)`\@n(8,150)`|@n(9,-150)/@n(10,-90)\|\|O`|@n(6,-90)/@n(5,30)`||
+$>
+
+en: 9,10-dihydro-2_H_,4_H_-benzo<%d%>dipyran-2,6(8_H_)-dione (PIN)
+ru: 9,10-дигидро-2_H_,4_H_-бензо<%d%>дипиран-2,6(8_H_)-дион (PIN)
+%d:[1,2-_b_:4,3-_c′_]
+
+@End
+
+en: **Explanation**: The indicated hydrogen atoms cannot accommodate both ‘-one’ principal characteristic group positions, 
+(2_H_,6_H_-benzo<%d%>dipyran is not a permissible structure) so the indicated hydrogen atoms and the necessary 
+‘added indicated hydrogen’ atom are placed at the lowest locant positions consistent with the arrangement of the double 
+bonds in the compound.
+ru: **Пояснение**: &(indicated hydrogen atom|*) не могут занимать одновременно позиции «-он» главной &(characteristic group|ro) 
+(2_H_,6_H_-бензо<%d%>дипиран не является допустимой структурой), поэтому &(indicated hydrogen atom|*) и необходимый 
+«&(added indicated hydrogen)» размещаются в наименьших позициях локантов, соответствующих расположению 
+двойных связей в соединении.
+%d:[1,2-_b_:4,3-_c′_]
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`||@n(1,-150)/@n(2,-90)\O@n(3,-30,.5)|@n(4,30)`/@n(4a,30,.5)|\O`\@n(5,-150)`/|O`|@n(6,-90)`\`|</>`\\`/||\O/@n(6a,90,.45)
+$>
+
+en: 4,4a-dihydro-2_H_,5_H_-benzo<%d%>dipyran-5,6(6a_H_)-dione (PIN)  <br>
+(not 4,4a-dihydro-2_H_,4_H_-benzo<%d%>dipyran-5,6(4a_H_,6a_H_)-dione)
+ru: 4,4a-дигидро-2_H_,5_H_-бензо<%d%>дипиран-5,6(6a_H_)-дион (PIN) <br>
+(не 4,4a-дигидро-2_H_,4_H_-бензо<%d%>дипиран-5,6(4a_H_,6a_H_)-дион)
+%d:[1,2-_b_:4,3-_c′_]
+
+@End
+
+en: **Explanation**: The indicated hydrogen atoms cannot accommodate both ‘-one’ principal characteristic group positions; 
+therefore one indicated hydrogen atom is assigned at the lowest locant position; the second indicated hydrogen atom is 
+assigned to position ‘5’ to accommodate one of the ‘one’ principal characteristic groups. 
+ru: **Пояснение**: &(Indicated hydrogen atom|*) не могут вместить обе позиции основных &(characteristic group|ro*) «-он»; 
+поэтому один &(indicated hydrogen atom) назначается в наименьшую позицию локанта; второй &(indicated hydrogen atom) 
+назначается в позицию «5» для размещения одной из «он» главных &(characteristic group|ro*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|/N@n(4,-30,.5)\@n(5,-30)|\O`\@n(6,-150)`/@n(7,90)`\\@n(7a,90,.5)`/|O`|@n(8,-90)`\`||/\`\`|@n(1,-150)/@n(2,-90)\\@n(3,-30)|
+$>
+
+en: 1_H_,5_H_-pyrido[3,2,1-_ij_]quinoline-6,8-dione (PIN) 
+ru: 1_H_,5_H_-пиридо[3,2,1-_ij_]хинолин-6,8-дион (PIN)
+
+@End
+
+en: **Explanation**: The indicated hydrogen atoms cannot accommodate either of the ‘one’ principal characteristic group 
+positions; (6_H_,8_H_-pyrido[3,2,1-_ij_]quinoline is not a permissible structure), so the indicated hydrogen atoms are placed 
+at the lowest locant positions consistent with the arrangement of the double bonds in the compound; no ‘added indicated 
+hydrogen’ is necessary since the two ‘-one’ principal characteristic groups simply remove one double bond from the 
+parent structure.
+ru: **Пояснение**: &(Indicated hydrogen atom|*) не могут занимать ни одно из положений главной &(characteristic group|ro) 
+«-он» (6_H_,8_H_-пиридо[3,2,1-_ij_]хинолин не является допустимой структурой), поэтому &(indicated hydrogen atom|*) 
+размещаются в наименьших локантных позициях, соответствующих расположению двойных связей в соединении; никакой 
+«&(added indicated hydrogen)» не нужен, поскольку две главные &(characteristic group|*) «-он» просто удаляют одну 
+двойную связь из &(parent structure|ro).
+
+#P-58.2.4
+en: Prefix nomenclature
+ru: Префиксная номенклатура
+
+en: After the introduction of indicated and ‘added indicated hydrogen’ atoms, all substituent groups not expressed as 
+suffixes are cited as prefixes. 
+ru: После введения атомов &(indicated hydrogen|ro) и «&(added indicated hydrogen|ro)» все &(substituent group|*), 
+не выраженные в виде суффиксов, указываются в виде префиксов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$L(1.1)`/@n(4,90)`\\@n(5,90)<`/@w()>`|//\||_q<_(a54,N2)O>@n(3,-110,.45)_qN<--@w()>@n(2,180)_q<_(a54,N2)O>@n(1,110)_q
+$>
+
+en: 1,3-dioxo-1,3-dihydro-2_H_-isoindole-2,5-diyl (preferred prefix)  
+ru: 1,3-диоксо-1,3-дигидро-2_H_-изоиндол-2,5-диил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|O|@n(1,90)\||`/|NH`|@n(4,-90)`\
+$>
+
+en: 4-iminonaphthalen-1(4_H_)-one (PIN)
+ru: 4-иминонафталин-1(4_H_)-он (PIN)
+
+@End
+
+#P-58.2.5
+en: Nondetachable hydro prefixes vs. indicated hydrogen
+ru: &(Nondetachable [prefix]|*) гидропрефиксы против &(indicated hydrogen|ro)
+
+en: An alternative method to the ‘added indicated hydrogen’ method for accommodation of principal characteristic groups, 
+free valences, radicals, or ionic centers at positions of mancude parent hydrides where a sufficient number of hydrogen 
+atoms for the operation of the basic principles of substitutive nomenclature are not present is to derive them from a 
+suitable hydrogenated derivative of the parent ring system. 
+ru: Альтернативным методом по отношению к методу «&(added indicated hydrogen|ro)» для размещения основных 
+&(characteristic group|ro*), свободных валентностей, радикалов или ионных центров в положениях &(parent hydride|ro*), 
+где отсутствует достаточное количество атомов водорода для работы основных принципов &(substitutive nomenclature|ro), 
+является их получение из подходящего гидрированного производного &(parent ring system|ro).
+
+en: Rule C-16.11 in the 1979 edition of the _IUPAC Nomenclature of Organic Chemistry_ (ref. 1) allows for hydro prefixes 
+to be either nondetachable, i.e., they must always be cited directly in front of the name of a fully unsaturated parent 
+structure, thus creating a parent hydride separate and distinct from the fully unsaturated analogue, or detachable, i.e., 
+cited as prefixes in front of the name of a fully unsaturated parent structure, but alphabetized among any substituent 
+prefixes that may also be present. The 1993 Guide (ref. 1) formalized the nondetachable method. In these 
+recommendations, the use of nondetachable hydro prefixes is not used in preferred IUPAC names, but may be used in 
+general nomenclature. This method often leads to differences in numbering of the parent structure (see fourth example, 
+below).
+ru: Правило C-16.11 издания _ИЮПАК Номенклатуры Органической Химии_ 1979 года (ссылка 1) допускает, чтобы гидропрефиксы 
+были либо &(nondetachable [prefix]|tv*), т.е. они всегда должны указываться непосредственно перед названием полностью 
+ненасыщенной &(parent structure|ro), создавая таким образом &(parent hydride) отдельно и отлично от полностью ненасыщенного 
+аналога, либо &(detachable [prefix]|tv*), т.е. они указываются в качестве префиксов перед названием полностью ненасыщенной 
+&(parent structure|ro), но расположены в алфавитном порядке среди любых &(substituent prefix|ro*), которые также могут 
+присутствовать. Руководство 1993 года (ссылка 1) формализовало неотделяемый метод. В этих рекомендациях использование 
+&(nondetachable [prefix]|tv*) гидропрефиксов не используется в предпочтительных названиях ИЮПАК, но может использоваться 
+в общей номенклатуре. Этот метод часто приводит к различиям в нумерации &(parent structure|ro) (см. четвертый пример ниже).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|O|@n(1,90)\||`/@n(4,90)`\
+$>
+
+en: 1,4-dihydronaphthalen-1-one  <br>
+naphthalen-1(4_H_)-one (PIN) 
+ru: 1,4-дигидронафталин-1-он <br>
+нафталин-1(4_H_)-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||`/`\\`|//\/<`||@w()>@n(1,90)\||`/@n(4,-90)<||@w()>`\
+$>
+
+en: 1,4-dihydronaphthalene-1,4-diylidene  <br>
+naphthalene-1,4-diylidene (preferred prefix;  <br>
+see P-58.2.2.3)
+ru: 1,4-дигидронафталин-1,4-дийлиден <br>
+нафталин-1,4-дийлиден (предпочтительный префикс; <br>
+см. P-58.2.2.3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||`/`\\`|//\/<`||O>@n(1,90)\@n(2,-30)||@n(3,30)`/@n(4,-90)<||O>`\
+$>
+
+en: 1,2,3,4-tetrahydronaphthalene-1,4-dione  <br>
+2,3-dihydronaphthalene-1,4-dione (PIN;  <br>
+see P-58.2.2.3)
+ru: 1,2,3,4-тетрагидронафталин-1,4-дион <br>
+2,3-дигидронафталин-1,4-дион (PIN; <br>
+см. P-58.2.2.3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/@n(5,90)`\\<`/HOOC>@n(6,-40,.5)`|//\/<`||O>@n(1,90)\@n(2,-30)||@n(3,30)`/@n(4,-90)<||O>`\
+$>
+
+en: 1,4-dioxo-1,2,3,4-tetrahydronaphthalene-6-carboxylic acid  <br>
+(numbering shown; nondetachable hydro prefixes are part of the parent hydride  <br>
+and have precedence over the principal characteristic group for low numbering)  <br>
+5,8-dioxo-5,6,7,8-tetrahydronaphthalene-2-carboxylic acid (PIN)  <br>
+(detachable but nonalphabetized hydro prefixes do not have precedence <br>  
+over the principal characteristic group for low numbering,  <br>
+but has precedence over other detachable prefixes). 
+ru: 1,4-диоксо-1,2,3,4-тетрагидронафталин-6-карбоновая кислота <br>
+(нумерация указана; &(nondetachable [prefix]|*) гидропрефиксы являются частью &(parent hydride|ro) <br>
+и имеют приоритет над основной &(characteristic group|tv) для низшей нумерации) <br>
+5,8-диоксо-5,6,7,8-тетрагидронафталин-2-карбоновая кислота (PIN) <br>
+(&(detachable [prefix]|*), но не расположенные в алфавитном порядке гидропрефиксы  <br>
+не имеют приоритета над основной &(characteristic group|tv) для низшей нумерации,  <br>
+но имеют приоритет над другими &(detachable [prefix]|tv*) префиксами).
+
+@End
+
+#P-58.3
+en: Homogeneous hetero chains and functional groups
+ru: Однородные гетероцепи и функциональные группы
+
+#P-58.3.1+
+en: Preselected names for unbranched homogeneous heteroacyclic parent hydrides other than boron hydrides are 
+described in P-21.2.2. Potential functionality of terminal groups, such as –NH_{2}, –SH, or –OH, attached to parent chains 
+of the same heteroatom are ignored; they simply extend the chain. For boron chains see P-68.1.1.2. For chains involving 
+chalcogen atoms, see P-68.4. 
+ru: Предварительно выбранные названия для неразветвлённых гомогенных гетероациклических &(parent hydride|ro*), отличных 
+от гидридов бора, описаны в P-21.2.2. Потенциальная функциональность концевых групп, таких как –NH_{2}, –SH или –OH, 
+присоединённых к &(parent chain|da*) одного и того же гетероатома, игнорируется; они просто удлиняют цепь. Для борных цепей 
+см. P-68.1.1.2. Для цепей с атомами халькогена см. P-68.4.
+
+
+
 
 
 #P-59

@@ -773,9 +773,7 @@ ru: Линейные &(compound [prefix]|*) и &(complex [prefix]|*) префи�
 en: Contracted prefixes, such as methoxy are considered in their systematic uncontracted form, i.e. methyloxy.
 ru: Сокращённые префиксы, такие как метокси, рассматриваются в их систематической несокращённой форме, т. е. метилокси.
 
-@Examples
-en: Examples:
-ru: Примеры:
+@Examples multi
 
 @cell
 <$ C6H5-CH2-O–{} $>

@@ -266,6 +266,7 @@ const parseExamples = (reader) => {
   const sCols = params.find(p => /^\d+$/.test(p));
   const noTitle = params.find(p => p === "--");
   const single = params.find(p => p === "single");
+  const multi = params.find(p => p === "multi");
   const extCls = params.find(p => /^\.[-a-z\d]+$/.test(p));
 
   part.cells = [];
@@ -274,6 +275,8 @@ const parseExamples = (reader) => {
     part.specTitle = "none";
   } else if (single) {
     part.specTitle = "single";
+  } else if (multi) {
+    part.specTitle = "multi";
   }
   if (extCls) part.extCls = extCls.slice(1);
   addPartToDocument(reader.ctx.doc, part);
