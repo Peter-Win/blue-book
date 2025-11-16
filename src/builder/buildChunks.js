@@ -56,6 +56,18 @@ const buildChunk = (chunk, params, ctx) => {
     }
     return drawTag("a", attrs) + content + `</a>`;
   }
+  if (type === "refTable") {
+    const attrs = {};
+    if (chunk.part) {
+      attrs.href = ctx.makeRef(`Table-${chunk.tableNumber}`);
+      attrs["class"] = "tbl-ref";
+      ctx.goodRefs++;
+    } else {
+      attrs["class"] = "wrong-part";
+      ctx.badRefs++;
+    }
+    return drawTag("a", attrs) + content + `</a>`;
+  }
   if (type === "term") {
     return buildTerm(content, ctx.terms);
   }

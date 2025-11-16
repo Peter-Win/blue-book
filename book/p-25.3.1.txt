@@ -398,7 +398,7 @@ The names ‘isothiazole’, ‘isoxazole’, ‘thiazole’, and ‘oxazole’,
 recommended for the names of components in preferred IUPAC fusion names. The Hantzsch-Widman names  
 1,2-thiazole, 1,2-oxazole, 1,3- thiazole, and 1,3-oxazole, respectively, must be used; the locants are enclosed in square 
 brackets in the completed fusion name. 
-ru: Сохраненные названия, приведенные в Таблице 2.2, за исключением «изотиазол», «изоксазол», «тиазол» и «оксазол», 
+ru: Сохраненные названия, приведенные в &[Таблице 2.2], за исключением «изотиазол», «изоксазол», «тиазол» и «оксазол», 
 а также названия Ганча-Видмана для ненасыщенных гетеромоноциклов (см. P-22.2.2) используются в качестве исходных 
 компонентов в номенклатуре слияния.
 Названия «изотиазол», «изоксазол», «тиазол» и «оксазол», хотя и разрешены в общей номенклатуре, не рекомендуются для 
@@ -441,10 +441,10 @@ ru: 2_H_-1,4,8,11-оксатриазациклотетрадецин <br>
 
 #P-25.3.2.1.3+
 en: Names of the hydrocarbons and heterocycles described in Sections P-25.1.2 and  
-P-25.2.2 and retained names listed in Tables 2.2, 2.7, and 2.8 are used as parent components for preferred IUPAC 
+P-25.2.2 and retained names listed in &[Tables 2.2], &[2.7], and &[2.8] are used as parent components for preferred IUPAC 
 fusion names. 
 ru: Названия углеводородов и гетероциклов, описанные в разделах P-25.1.2 и P-25.2.2, а также сохраненные названия, 
-перечисленные в таблицах 2.2, 2.7 и 2.8, используются в качестве исходных компонентов для предпочтительных названий 
+перечисленные в &[таблицах 2.2], &[2.7] и &[2.8], используются в качестве исходных компонентов для предпочтительных названий 
 слияний ИЮПАК.
 
 #P-25.3.2.2
@@ -1036,13 +1036,13 @@ ru: Критерии старшинства для выбора исходных
 en: The components of the fused ring system are selected and named according to P-25.3.2.1 and P-25.3.2.2. When it is 
 necessary to locate nomenclatural features, such as indicated hydrogen or atoms with nonstandard bonding numbers, 
 another system of locants must be used, i.e., the locants that are used to number the completed fused ring system. In 
-these recommendations, such locants are placed outside the structure, as shown for retained names in Tables 2.2, 2.7, 
-and 2.8. This system is fully explained and exemplified in P-25.3.3. 
+these recommendations, such locants are placed outside the structure, as shown for retained names in &[Tables 2.2], &[2.7], 
+and &[2.8]. This system is fully explained and exemplified in P-25.3.3. 
 ru: Компоненты конденсированной кольцевой системы выбираются и именуются в соответствии с P-25.3.2.1 и P-25.3.2.2. 
 Когда необходимо локализовать номенклатурные признаки, такие как указанный водород или атомы с нестандартными связями, 
 должна использоваться другая система локантов, т. е. локанты, которые используются для нумерации завершенной 
 конденсированной кольцевой системы. В этих рекомендациях такие локанты размещаются вне структуры, как показано для 
-сохраненных названий в таблицах 2.2, 2.7 и 2.8. Эта система полностью объяснена и проиллюстрирована в P-25.3.3.
+сохраненных названий в &[таблицах 2.2], &[2.7] и &[2.8]. Эта система полностью объяснена и проиллюстрирована в P-25.3.3.
 
 en: If there is a choice for selecting the parent component, the following criteria are considered, in order, until a decision 
 can be made:

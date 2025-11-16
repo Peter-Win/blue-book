@@ -158,7 +158,10 @@ const parseTable = (reader) => {
   if (sortRes) {
     part.sort = sortRes[1] || "1";
   }
-  if (res) part.tableId = res[1];
+  if (res) {
+    part.tableId = res[1];
+    reader.ctx.doc.tablesMap[part.tableId] = part;
+  }
   addPartToDocument(reader.ctx.doc, part);
   let curCell = null;
   while (!reader.isEnd) {

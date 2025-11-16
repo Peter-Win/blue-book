@@ -914,10 +914,103 @@ ru: Предварительно выбранные названия для не
 присоединённых к &(parent chain|da*) одного и того же гетероатома, игнорируется; они просто удлиняют цепь. Для борных цепей 
 см. P-68.1.1.2. Для цепей с атомами халькогена см. P-68.4.
 
+#P-58.3.2+
+en: When one or more atoms of a homogeneous heteroatomic chain can be expressed by a principal characteristic 
+group, a functional parent compound, or a compulsory prefix, the principal characteristic group or compulsory prefix 
+group is expressed. Hence, an acyclic homogeneous heterocyclic chain may be broken in order to recognize a senior 
+function as a principle characteristic groups, functional parent compound, or compulsory prefix. 
+ru: Когда один или несколько атомов однородной гетероатомной цепи могут быть выражены главной &(characteristic group|tv), 
+функциональным &(parent compound|tv) или обязательным префиксом, то выражается главная &(characteristic group) или 
+обязательная префиксная группа. Следовательно, ациклическая однородная гетероциклическая цепь может быть разорвана для того, 
+чтобы распознать старшую функцию как главную &(characteristic group|vi), функциональное &(parent compound) или обязательный 
+префикс.
 
+@Examples
 
+@cell
+<$ HS-SO2-S-S-S-SO2-SH $>
 
+en: trisulfanedisulfonothioic _S_-acid (preselected name)  <br>
+(not heptasulfane-2,2,6,6-tetrone) 
+ru: трисульфандисульфонотиоевая _S_-кислота (предварительно выбранное название) <br>
+(не гептасульфан-2,2,6,6-тетрон)
 
-#P-59
-en: Name construction
-ru: Конструкция имени
+@cell
+<$ H2N-NH-NH-NH-CO-C6H5 $>
+  
+en: _N_-(triazan-1-yl)benzamide (PIN)  <br>
+[not phenyl(tetraazan-1-yl)methanone;  <br>
+nor 1-benzoyltetraazane] 
+ru: _N_-(триазан-1-ил)бензамид (PIN) <br>
+[не фенил(тетраазан-1-ил)метанон; <br>
+и не 1-бензоилтетраазан]
+
+@cell
+<$ H2N-NH-NH-NH-COOH $>
+
+en: tetraazane-1-carboxylic acid (PIN)  <br>
+[not (triazan-1-yl)carbamic acid;  <br>
+the carboxylic acid is senior to the carbonic acid derivative]
+ru: тетраазан-1-карбоновая кислота (PIN) <br>
+[не (триазан-1-ил)карбаминовая кислота; <br>
+карбоновая кислота является более старшей по сравнению с производным угольной кислоты]
+
+@cell
+<$ CH3-NH-N(COOH)-NH-CH3 $>
+  
+en: 1,3-dimethyltriazane-2-carboxylic acid (PIN)  <br>
+(not bis(methylamino)carbamic acid;  <br>
+the carboxylic acid is senior to the carbonic acid derivative) 
+ru: 1,3-диметилтриазан-2-карбоновая кислота (PIN) <br>
+(не бис(метиламино)карбаминовая кислота; <br>
+карбоновая кислота является более старшей по сравнению с производным угольной кислоты)
+
+@cell
+<$ (CH3)2P-P(OH)-P(CH3)2 $>
+  
+en: bis(dimethylphosphanyl)phosphinous acid (PIN)  <br>
+(not 1,1,3,3-tetramethyltriphosphan-2-ol) 
+ru: бис(диметилфосфанил)фосфинистая кислота (PIN) <br>
+(не 1,1,3,3-тетраметилтрифосфан-2-ол)
+
+@cell
+<$ H2N-NO $>
+
+en: nitrous amide (preselected name)  <br>
+(not hydrazinone; see P-61.6)
+ru: азотистый амид (предварительно выбранное название) <br>
+(не гидразинон; см. P-61.6)
+
+@cell
+<$ H2N-NH-NH-NCO $>
+
+en: 1-isocyanatotriazane (PIN)  <br>
+[not 1-(oxomethylidene)tetraazane] 
+ru: 1-изоцианатотриазан (PIN) <br>
+[не 1-(оксометилиден)тетраазан]
+
+@cell
+<$ C6H5-CO-NH-NH-NH-NH-CO-C6H5 $>
+  
+en: _N,N′_-(hydrazine-1,2-diyl)dibenzamide (PIN) 
+ru: _N,N′_-(гидразин-1,2-диил)дибензамид (PIN)
+
+@cell
+<$ OCN-NH-NO2 $>
+  
+en: isocyanatonitramide (PIN) 
+ru: изоцианатонитрамид (PIN)
+
+@cell
+<$ HS-S-S-S-CO-C6H5 $>
+  
+en: phenyl(tetrasulfanyl)methanone (PIN)  <br>
+[not trisulfanyl benzenecarbothioate;  <br>
+pseudoesters are not recognized when the alcoholic component  <br>
+is a chalcogen atom (see P-65.6.3.4.2 and P-68.4.2.4)] 
+ru: фенил(тетрасульфанил)метанон (PIN) <br>
+[не трисульфанилбензолкарботиоат; <br>
+псевдоэфиры не распознаются, если спиртовой компонент представляет <br>
+собой атом халькогена (см. P-65.6.3.4.2 и P-68.4.2.4)]
+
+@End

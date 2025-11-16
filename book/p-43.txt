@@ -11,8 +11,8 @@ ru: Введение
 en: Suffixes are modified as indicated in Table 4.3 for acids and in Table 4.4 for all substituent suffixes. The order of 
 seniority for suffixes is described in this Section. It is based on the seniority of classes 7 through 20 given in Table 4.1 
 and includes suffixes modified by functional replacement.
-ru: Суффиксы модифицируются, как указано в таблице 4.3 для кислот и в таблице 4.4 для всех замещающих суффиксов. 
-Порядок старшинства суффиксов описан в данном разделе. Он основан на старшинстве классов с 7 по 20, указанном в таблице 4.1, 
+ru: Суффиксы модифицируются, как указано в &[таблице 4.3] для кислот и в &[таблице 4.4] для всех замещающих суффиксов. 
+Порядок старшинства суффиксов описан в данном разделе. Он основан на старшинстве классов с 7 по 20, указанном в &[таблице 4.1], 
 и включает суффиксы, модифицированные функциональной заменой.
 
 #P-43.1
@@ -23,8 +23,8 @@ en: Suffixes are modified as indicated in Table 4.3 for acids and in Table 4.4 f
 infixes are used as indicated in Table 4.2. Prefixes are used to modify suffixes such as ‘ol’, ‘al’, for example ‘thiol’ and 
 ‘thial’. Infixes are recommended to modify the suffixes ‘carboxylic acid’, ‘sulfonic acid’, and related suffixes, for 
 example ‘carboperoxoic acid’ and ‘sulfonothioic acid’. 
-ru: Суффиксы модифицируются, как указано в таблице 4.3 для кислот и в таблице 4.4 для кислот и других классов. Префиксы и 
-инфиксы используются, как указано в таблице 4.2. Префиксы используются для модификации таких суффиксов, как «ол», «аль», 
+ru: Суффиксы модифицируются, как указано в &[таблице 4.3] для кислот и в &[таблице 4.4] для кислот и других классов. Префиксы и 
+инфиксы используются, как указано в &[таблице 4.2]. Префиксы используются для модификации таких суффиксов, как «ол», «аль», 
 например, «тиол» и «тиаль». Инфиксы рекомендуются для модификации суффиксов «карбоновая кислота», «сульфоновая кислота» 
 и родственных им суффиксов, например, «карбопероксоевая кислота» и «сульфонотиоевая кислота».
 
@@ -194,12 +194,12 @@ ru: атомы кислорода, затем атомы S, Se и Te в груп
 en: The order of seniority is described, in the case of carboxylic acids, sulfonic acids and sulfinic acids, by indicating, after 
 the name of the modified suffix the number and kind of atoms used in the replacement operation (see Table 4.3).
 ru: Порядок старшинства описывается в случае карбоновых кислот, сульфоновых кислот и сульфиновых кислот путем указания 
-после названия модифицированного суффикса числа и вида атомов, используемых в операции замены (см. табл. 4.3).
+после названия модифицированного суффикса числа и вида атомов, используемых в операции замены (см. &[табл. 4.3]).
 
 en: Table 4.3 gives the list, in decreasing order, of the seniority of suffixes and suffixes modified by functional replacement 
 for carboxylic and sulfonic acids. Sulfinic acid suffixes are similar to sulfonic acids. Selenium and tellurium acid 
 suffixes are formed by replacing ‘sulf’ by ‘selen’ or ‘tellur’. 
-ru: В таблице 4.3 представлен список суффиксов и суффиксов, модифицированных функциональной заменой карбоновых и сульфоновых 
+ru: В &[таблице 4.3] представлен список суффиксов и суффиксов, модифицированных функциональной заменой карбоновых и сульфоновых 
 кислот, в порядке убывания старшинства. Суффиксы сульфиновых кислот аналогичны &(sulfonic acid|da*). 
 Суффиксы селеновой и теллуровой кислот образуются заменой «сульф» на «селен» или «теллур».
 

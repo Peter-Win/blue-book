@@ -655,7 +655,7 @@ ru: Префикс изопропенил (проп-1-ен-2-ил) для <%f1%>
 en: The prefixes indan-2-yl, indolin-2-yl, isoindolin-2-yl, chroman-2-yl and isochroman-2-yl, as well as other isomers, are 
 recommended for general nomenclature only, with unlimited substitution (see Table 3.2). 
 ru: Префиксы индан-2-ил, индолин-2-ил, изоиндолин-2-ил, хроман-2-ил и изохроман-2-ил, а также другие изомеры рекомендуются 
-только для общей номенклатуры с неограниченной заменой (см. табл. 3.2).
+только для общей номенклатуры с неограниченной заменой (см. &[табл. 3.2]).
 
 
 #P-57.2

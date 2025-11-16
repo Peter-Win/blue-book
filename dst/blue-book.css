@@ -145,7 +145,7 @@ a.wrong-part {
   margin: 1rem 0 0.5rem 0;
 }
 
-.p-ref {
+.p-ref, .tbl-ref {
   white-space: nowrap;
 }
 
@@ -192,3 +192,5 @@ a.wrong-part {
 }
 
 .has-inline-formula svg {margin-bottom: -0.5em;}
+
+.empty-column { width: 5em;}

@@ -136,7 +136,7 @@ ru: пиридин (сохраненное название, PIN; P-22.2.1)
 
 @cell
 en: cholestane (retained name, Table 10.1, b) 
-ru: холестан (сохраненное название, Таблица 10.1, б)
+ru: холестан (сохраненное название, &[Таблица 10.1], б)
 
 @End
 
@@ -246,11 +246,11 @@ ru: Вторая группа функциональных исходных со
 
 @cell
 en: D-glucose (Table 10.2)
-ru: D-глюкоза (таблица 10.2)
+ru: D-глюкоза (&[таблица 10.2])
 
 @cell
 en: alanine (Table 10.4)
-ru: аланин (таблица 10.4)
+ru: аланин (&[таблица 10.4])
 
 @End
 
@@ -830,11 +830,11 @@ en: Substitution rules for parent structures with retained names
 ru: Правила замены для исходных структур с сохраненными именами
 
 en: The following rules describe the substitutability of parent structures having retained names found in P-22.1.2, P-22.1.3, 
-Tables 2.2, 2.3, 2.7, 2.8, Tables 3.1, 3.2, and for functional parent compounds given in P-34. These rules do not apply to 
+&[Tables 2.2], &[2.3], &[2.7], &[2.8], &[Tables 3.1], &[3.2], and for functional parent compounds given in P-34. These rules do not apply to 
 functional parent compounds used in the nomenclature of natural products (see Chapter P-10), where specific rules 
 apply. 
 ru: Следующие правила описывают заменяемость родительских структур, имеющих сохраненные названия, найденные в P-22.1.2, 
-P-22.1.3, Таблицах 2.2, 2.3, 2.7, 2.8, Таблицах 3.1, 3.2, и для функциональных родительских соединений, приведенных 
+P-22.1.3, &[Таблицах 2.2], &[2.3], &[2.7], &[2.8], &[Таблицах 3.1], &[3.2], и для функциональных родительских соединений, приведенных 
 в P-34. Эти правила не применяются к функциональным родительским соединениям, используемым в номенклатуре природных 
 продуктов (см. Главу P-10), где применяются особые правила.
 

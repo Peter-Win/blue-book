@@ -544,7 +544,7 @@ ru: &(Retained name|*) &(substituent group|ro*), полученных из ча�
 
 en: The prefixes in Table 3.2 are retained but are acceptable only for general nomenclature and may be fully substituted; the 
 preferred prefixes are formed systematically. 
-ru: Префиксы в таблице 3.2 сохранены, но приемлемы только для общей номенклатуры и могут быть полностью заменены; 
+ru: Префиксы в &[таблице 3.2] сохранены, но приемлемы только для общей номенклатуры и могут быть полностью заменены; 
 предпочтительные префиксы образуются систематически.
 
 @Table 3.2

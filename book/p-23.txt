@@ -1274,7 +1274,7 @@ en: The retained names adamantane and cubane are used in general nomenclature an
 name quinuclidine is retained for general nomenclature only (see Table 2.6). The name prismane is no longer 
 recommended. 
 ru: Сохраненные названия адамантан и кубан используются в общей номенклатуре и в качестве предпочтительных названий ИЮПАК. 
-Название хинуклидин сохранено только для общей номенклатуры (см. Таблицу 2.6). 
+Название хинуклидин сохранено только для общей номенклатуры (см. &[Таблицу 2.6]). 
 Название призман больше не рекомендуется.
 
 @Table 2.6 

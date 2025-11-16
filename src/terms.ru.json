@@ -110,6 +110,7 @@
   "citation|ro": "цитирования",
   "cite": "цитировать",
   "cited": "цитируется",
+  "cited|p*": "цитируемые",
   "cited|ro": "цитируемого",
   "cited|*": "цитируются",
   "cited|ro*": "цитируемых",
@@ -155,6 +156,7 @@
   "compound [substituent]": "составной",
   "compound [substituent]|tv": "составным",
   "compound [substituent]|*": "составные",
+  "compound substituent": "составной заместитель", 
   "compound substituent|ro": "составного заместителя", 
   "compound substituent|*": "составные заместители",
   "compound substituent|ro*": "составных заместителей",
@@ -213,6 +215,7 @@
   "detachable [prefix]|tv*": "отделяемыми",
 
   "functional class name": "название по функциональному классу",
+  "functional class name|ro": "названия по функциональному классу",
   "functional class name|*": "названия по функциональному классу",
   "functional class name|da*": "названиям по функциональному классу",
 
@@ -230,6 +233,8 @@
   "functional suffix|*": "функциональные суффиксы",
   "functional suffix|ro*": "функциональных суффиксов",
   "functional suffix|tv*": "функциональными суффиксами",
+
+  "functionalized parent hydride": "функционализированный исходный гидрид",
 
   "fused ring name": "название конденсированных колец",
 
@@ -353,6 +358,8 @@
   "multiparent [system]|ro": "мультиисходной",
   "multiparent [system]|*": "мультиисходные",
 
+  "multiplicative connecting group": "мультипликативная соединительная группа",
+
   "multiplicative group": "мультипликативная группа",
   "multiplicative group|ro": "мультипликативной группы",
   "multiplicative group|*": "мультипликативные группы",
@@ -367,6 +374,7 @@
   "multiplicative nomenclature|ro": "мультипликативной номенклатуры",
   "multiplicative nomenclature|tv": "мультипликативной номенклатурой",
   "multiplicative nomenclature|vi": "мультипликативую номенклатуру",
+  "multiplicative [nomenclature]|vi": "мультипликативую",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
@@ -382,8 +390,8 @@
   "nonstandard bonding atom|ro": "атома с нестандартными связями",
   "nonstandard bonding atom|ro*": "атомов с нестандартными связями",
 
-  "oic acid": "оевая кислота",
-  "oic acid|*": "оевые кислоты",
+  "oic acid": "овая кислота",
+  "oic acid|*": "овые кислоты",
 
   "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
   "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
@@ -455,6 +463,7 @@
   "parent structure": "исходная структура",
   "parent structure|ro": "исходной структуры",
   "parent structure|da": "исходной структуре",
+  "parent structure|vi": "исходную структуру",
   "parent structure|tv": "исходной структурой",
   "parent structure|pr": "исходной структуре",
   "parent structure|*": "исходные структура",
@@ -465,6 +474,9 @@
   "parent skeleton": "исходный скелет",
   "parent skeleton|ro": "исходного скелета",
   "parent skeleton|pr": "исходном скелете",
+
+  "parent substituent": "исходный заместитель",
+  "parent substituent|tv": "исходным заместителем",
 
   "peroxol": "пероксол",
 
@@ -608,11 +620,16 @@
   "subsidiary parent|f": "вторичная исходная",
   "subsidiary parent|f,tv": "вторичной исходной",
 
+  "subsidiary substituent": "вторичный заместитель",
+  "subsidiary substituent|*": "вторичные заместители",
+
   "substituent": "заместитель",
   "substituent|ro": "заместителя",
+  "substituent|da": "заместителю",
   "substituent|tv": "заместителем",
   "substituent|*": "заместители",
   "substituent|ro*": "заместителей",
+  "substituent|da*": "заместителям",
   "substituent|pr*": "заместителях",
 
 
@@ -620,6 +637,9 @@
   "substituent chain|ro": "заместительной цепи",
   "substituent chain|*": "заместительные цепи",
   "substituent chain|tv*": "заместительными цепями",
+
+  "substituent component": "замещающий компонент",
+  "substituent component|*": "замещающие компоненты",
 
   "substituent group": "замещающая группа",
   "substituent group|ro": "замещающей группы",
@@ -639,7 +659,10 @@
   "substituent prefix|tv*": "префиксами-заместителями",
 
   "substituted [substituent]": "замещённый",
+  "substituted [substituent]|s": "замещён",
   "substituted [substituent]|*": "замещённые",
+
+  "subtractive modification": "субтрактивная модификация",
 
   "substitutive [name]|*": "заместительные", 
   "substitutive [name]|ro*": "заместительных", 
@@ -655,6 +678,7 @@
   "substitutive nomenclature|tv": "заместительной номенклатурой",
   "substitutive nomenclature|pr": "заместительной номенклатуре",
   "substitutive [nomenclature]|ro": "заместительной",
+  "substitutive [nomenclature]|vi": "заместительную",
 
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",

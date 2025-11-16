@@ -180,7 +180,7 @@ en: Preferred IUPAC names of saturated heteromonocyclic compounds are either Han
 Hantzsch-Widman names, retained names modified by adding the maximum of hydro prefixes, or ‘cyclo’ names 
 described in P-22.2.5 are not preferred IUPAC names, but they may be used in general nomenclature. 
 ru: Предпочтительными названиями ИЮПАК для насыщенных гетеромоноциклических соединений являются названия Ганча-Видмана, 
-описанные в P-22.2.2.1.1, или сохранённые названия, описанные в таблице 2.3. Названия насыщенных циклов, полученные 
+описанные в P-22.2.2.1.1, или сохранённые названия, описанные в &[таблице 2.3]. Названия насыщенных циклов, полученные 
 с использованием гидропрефиксов из названий Ганча-Видмана, сохранённые названия, модифицированные добавлением максимального 
 количества гидропрефиксов, или «цикло»-названия, описанные в P-22.2.5, не являются предпочтительными названиями ИЮПАК, 
 но могут использоваться в общей номенклатуре.
@@ -335,7 +335,7 @@ ru: Сохранённые названия частично насыщенны�
 en: Names listed in Table 3.1 are retained names that are not used as preferred IUPAC names. They are, however 
 acceptable in general nomenclature with full substitution, including characteristic groups expressed as suffixes, but not 
 as fusion components nor as amplificants in Phane Nomenclature. 
-ru: Названия, перечисленные в таблице 3.1, являются &(retained name|tv*) и не используются в качестве предпочтительных названий 
+ru: Названия, перечисленные в &[таблице 3.1], являются &(retained name|tv*) и не используются в качестве предпочтительных названий 
 ИЮПАК. Тем не менее, они приемлемы в общей номенклатуре с полной заменой, включая &(characteristic group|*), выраженные суффиксами, 
 но не в качестве &(fusion component|ro*) и не амплификантов в &(Phane nomenclature|pr).
 

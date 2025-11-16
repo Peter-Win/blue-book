@@ -78,7 +78,7 @@ ru: для N, _n_ = 3
 
 #P-14.1.2+ 
 en: Standard bonding numbers. The bonding number of a skeletal atom is standard when it has the value given in Table 1.3. 
-ru: Стандартные числа связей. Число связей скелетного атома является стандартным, если оно имеет значение, указанное в Таблице 1.3.
+ru: Стандартные числа связей. Число связей скелетного атома является стандартным, если оно имеет значение, указанное в &[Таблице 1.3].
 
 @Table 1.3
 en: Standard bonding numbers for the elements of Groups 13, 14, 15, 16, and 17
@@ -237,7 +237,7 @@ ru: Три типа мультипликативных префиксов исп
 en: Basic multiplicative prefixes denote simple features and, in general, are the first choice among such prefixes to 
 specify multiplicity (ref. 15). They are listed in Table 1.4. 
 ru: Базовые мультипликативные префиксы обозначают простые признаки и, в общем, являются первым выбором среди 
-таких префиксов для указания кратности (ссылка 15). Они перечислены в таблице 1.4.
+таких префиксов для указания кратности (ссылка 15). Они перечислены в &[таблице 1.4].
 
 // https://chemister.ru/Chemie/prefix.htm - переводы отсюда
 

@@ -5,7 +5,8 @@ const buildTable = (part, locale, text, ctx, buildPart) => {
   const {tableId="", cells, cols, subtitle, cls="", sort} = part; 
   let tablePrefix = "";
   if (tableId) {
-    tablePrefix = `${translate("Table", locale)} ${tableId}`;
+    const tblRef = `Table-${tableId}`;
+    tablePrefix = `<a id="${tblRef}">${translate("Table", locale)} ${tableId}</a>`;
   }
   let topCls = "std-table-box";
   if (cls) topCls += " " + cls;

@@ -144,7 +144,7 @@ case of carboxylic acids, amides, nitriles and aldehydes, and also with sulfur t
 and the corresponding amides and hydrazides. They are listed in Table 3.3. 
 ru: Основные суффиксы – это суффиксы, состоящие только из кислорода и/или азота, с углеродом или без него, как в случае 
 карбоновых кислот, амидов, нитрилов и альдегидов, а также с серой для обозначения сульфоновых и сульфиновых кислот, а также 
-соответствующих амидов и гидразидов. Они перечислены в таблице 3.3.
+соответствующих амидов и гидразидов. Они перечислены в &[таблице 3.3].
 
 @p .framed
 en: The suffix ‘peroxol’, for <%ooh%>, has been added to the list of basic suffixes. It is modified by functional replacement 
@@ -355,7 +355,7 @@ en: Derived suffixes are formed in various ways by modifying the basic suffixes 
 governing the elision of the final letter ‘o’ of the functional replacement prefixes and infixes before a vowel. It is elided 
 or not according to traditional usage, for example in the suffixes ‘thioic acid’ and ‘imidic acid’. The preferred suffixes 
 are as follows: 
-ru: Производные суффиксы образуются различными способами путём модификации основных суффиксов из таблицы 3.3. Общего правила, 
+ru: Производные суффиксы образуются различными способами путём модификации основных суффиксов из &[таблицы 3.3]. Общего правила, 
 регулирующего выпадение последней буквы «о» в функциональных замещающих префиксах и инфиксах перед гласной, не существует. 
 Она выпадает или нет в соответствии с традиционным употреблением, например, в суффиксах «тиоевая кислота» и «&(imidic acid)». 
 Предпочтительные суффиксы следующие:
@@ -946,7 +946,7 @@ customary manner, or to suffixes expressing another type of radical or ion, or t
 Names of radicals are formed in the same manner as substituent groups (see P-29.2), with the exception that di- and 
 trivalent radicals centered on a single atom are denoted by the suffixes ‘ylidene’ and ‘ylidyne’, respectively, and never 
 by ‘diyl’ or ‘triyl’. 
-ru: Суффиксы, используемые для обозначения радикальных и ионных центров в &(parent structure|pr), приведены в таблице 3.4. 
+ru: Суффиксы, используемые для обозначения радикальных и ионных центров в &(parent structure|pr), приведены в &[таблице 3.4]. 
 Они классифицированы в порядке убывания старшинства: радикалы > анионы > катионы. Суффиксы добавляются к названию &(parent hydride|ro) 
 общепринятым образом, или к суффиксам, обозначающим другой тип радикала или иона, или к суффиксам, обозначающим &(characteristic group|*).
 Названия радикалов образуются так же, как и названия &(substituent group|ro*) (см. P-29.2), за исключением того, что двух- и 

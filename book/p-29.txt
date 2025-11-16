@@ -1672,7 +1672,7 @@ ru: неограниченная замена колец;
 @item
 en: substitution on the α-position by characteristic atoms or groups that are compulsory substituents (see  
 Table 5.1) or by substituent groups that do not extend the chain.
-ru: замещение в α-положении характерными атомами или группами, являющимися обязательными заместителями (см. табл. 5.1), 
+ru: замещение в α-положении характерными атомами или группами, являющимися обязательными заместителями (см. &[табл. 5.1]), 
 или замещающими группами, не удлиняющими цепь.
 
 @End

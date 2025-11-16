@@ -1,0 +1,1127 @@
+#P-59
+en: Name construction
+ru: Конструирование названия
+
+@Content
+
+#P-59.0
+en: Introduction 
+ru: Введение
+
+en: This Section describes the procedure for the systematic formation of a preferred IUPAC name for an organic 
+compound. This procedure can also be followed for generation of names for general nomenclature. 
+ru: В этом разделе описывается процедура систематического формирования предпочтительного названия ИЮПАК для 
+органического соединения. Эта процедура также может быть использована для формирования названий для общей номенклатуры.
+
+#P-59.1
+en: General methodology 
+ru: Общая методология
+
+en: The procedure for formation of a preferred systematic name for an organic compound involves a number of steps 
+outlined in this and in the following subsections, to be taken as far as they are applicable in the following order. 
+ru: Процедура формирования предпочтительного систематического названия для органического соединения включает ряд шагов, 
+описанных в этом и в следующих подразделах, которые следует выполнять по мере возможности в следующем порядке.
+
+#P-59.1.1+
+en: From the nature of the compound, determine the type(s) of nomenclature (see P-15) and operations (see P-13) 
+to be used. Although the type of nomenclature called ‘substitutive nomenclature’ (see P-15.1) is the preferred type of 
+nomenclature for generating preferred IUPAC names and for general nomenclature, other nomenclature types must be 
+used when specified by specific classes of compounds rules:
+ru: Исходя из природы соединения, определите тип(ы) номенклатуры (см. P-15) и операции (см. P-13), которые будут использоваться. 
+Хотя тип номенклатуры, называемый «&(substitutive nomenclature|tv)» (см. P-15.1), является предпочтительным для формирования 
+предпочтительных названий ИЮПАК и общей номенклатуры, необходимо использовать другие типы номенклатуры, если это указано в 
+правилах для конкретных классов соединений:
+
+@List 1
+
+@item
+en: ‘functional class nomenclature’, for compounds such as esters and acid halides (see P-15.2 and P-51.2 for 
+preferred IUPAC names and for general nomenclature); 
+ru: «&(functional class nomenclature)» для таких соединений, как сложные эфиры и галогенангидриды (см. P-15.2 и P-51.2 
+для предпочтительных названий ИЮПАК и для общей номенклатуры);
+
+@item
+en: ‘multiplicative nomenclature’ (see P-15.3, and P-51.3 for preferred IUPAC names and for general 
+nomenclature); 
+ru: «&(multiplicative nomenclature)» (см. P-15.3 и P-51.3 для предпочтительных названий ИЮПАК и для общей номенклатуры);
+
+@item
+en: ‘skeletal replacement (‘a’) nomenclature’ (see P-15.4 and P-51.4 for preferred IUPAC names and for general 
+nomenclature).
+ru: «номенклатура &(skeletal replacement a|ro)» (см. P-15.4 и P-51.4 для предпочтительных названий ИЮПАК и для общей номенклатуры).
+
+@End
+
+en: When configurations are expressed in the structure, select the type of nomenclature, substitutive or multiplicative 
+nomenclature according to P-93.6, that will take them into consideration. 
+ru: Если в структуре выражены конфигурации, выберите тип номенклатуры, &(substitutive [nomenclature]|vi) или 
+&(multiplicative [nomenclature]|vi), согласно P-93.6, которая будет их учитывать.
+
+#P-59.1.2+
+en: Determine the class to which the compound belongs and the characteristic group to be cited as the suffix as 
+given in P-33, (if any) in accord with the seniority order of classes as indicated in P-41 or as a functional class name 
+(see P-15.2). Only one kind of characteristic group (known as the principal group) can be cited as suffix or functional 
+class name. 
+ru: Определите класс, к которому принадлежит соединение, и &(characteristic group|vi), которая должна быть указана в качестве 
+суффикса, как указано в P-33 (если таковая имеется), в соответствии с порядком старшинства классов, указанным в P-41, 
+или в качестве &(functional class name|ro) (см. P-15.2). Только один вид &(characteristic group|ro) (известный как 
+основная группа) может быть указан в качестве суффикса или &(functional class name|ro).
+
+en: Suffixes listed in P-33 are used to generate both preferred IUPAC names and names in general nomenclature. The order 
+of seniority of suffixes discussed in P-43 is mandatory for constructing preferred IUPAC names and in general 
+nomenclature. All atoms or groups not so cited must be specified as substituent prefixes. 
+ru: Суффиксы, перечисленные в P-33, используются для построения как предпочтительных названий ИЮПАК, так и названий в 
+общей номенклатуре. Порядок старшинства суффиксов, обсуждаемый в P-43, обязателен для построения предпочтительных названий 
+ИЮПАК и в общей номенклатуре. Все атомы или группы, не упомянутые в P-33, должны быть указаны в качестве &(substituent prefix|ro*).
+
+en: Radicals and ions are named using suffixes that have the unique property of being cumulative, both among themselves 
+and in conjunction with certain suffixes that express characteristic groups (see Chapter P-7 for seniority order of 
+radicals and ions to be used to generate preferred IUPAC names and in general nomenclature). 
+ru: Радикалы и ионы именуются с помощью суффиксов, которые обладают уникальным свойством кумуляции, как между собой, 
+так и в сочетании с определенными суффиксами, которые выражают характерные группы (см. главу P-7, где указан порядок 
+старшинства радикалов и ионов, используемый для создания предпочтительных названий ИЮПАК и в общей номенклатуре).
+
+#P-59.1.3+
+en: Select the parent hydride(s), including any appropriate nondetachable prefixes as described in Chapter P-2 and 
+in P-52 for the selection of preferred IUPAC names, or functional parent compound as described in P-34 for preferred 
+IUPAC names and in Chapter P-6 for various classes such as amines, alcohols, etc. which summarizes two aspects of 
+the use of functional parent compounds in substitutive nomenclature, i.e., use as preferred IUPAC name or in general 
+nomenclature and their substitutability. Determine the senior parent structure, either in the presence of a suffix 
+describing the principal characteristic group or in the absence of any such suffix. All required descriptors for indicating 
+changes from standard bonding number and isotopic modifications must be introduced at this stage. 
+ru: Выберите &(parent hydride) (или несколько), включая любые подходящие &(nondetachable [prefix]|*) префиксы, как описано 
+в главе P-2 и в главе P-52 для выбора предпочтительных названий ИЮПАК, или функциональное &(parent compound), как описано 
+в главе P-34 для предпочтительных названий ИЮПАК и в главе P-6 для различных классов, таких как амины, спирты и т. д., 
+которая суммирует два аспекта использования функциональных &(parent compound|ro*) в &(substitutive nomenclature|pr), т. е. 
+использование в качестве предпочтительного названия ИЮПАК или в общей номенклатуре и их заменяемость. Определите старшую 
+&(parent structure|vi), либо при наличии суффикса, описывающего основную &(characteristic group|vi), либо при отсутствии 
+любого такого суффикса. На этом этапе должны быть введены все необходимые дескрипторы для указания изменений от 
+стандартного числа связей и изотопных модификаций.
+
+#P-59.1.4+
+en: Name the parent hydride, as described in P-59.1.3 and the principal characteristic group, if any, according to 
+P-33, or the functional parent compound according to P-34 and Chapter P-6, using rules indicated in P-43 in order to 
+take functional modifications into consideration. For ketones and imines, use Rules discussed in P-58.2 for generating 
+preferred IUPAC names and for general nomenclature. 
+ru: Назовите &(parent hydride), как описано в P-59.1.3, и основную &(characteristic group|vi), если таковая имеется, 
+согласно P-33, или функциональное &(parent compound) согласно P-34 и главе P-6, используя правила, указанные в P-43, 
+чтобы учесть функциональные модификации. Для кетонов и иминов используйте правила, обсуждаемые в P-58.2, для получения 
+предпочтительных названий по ИЮПАК и для общей номенклатуры.
+
+#P-59.1.5+
+en: Determine suffixes and/or prefixes, in accordance with P-15.5, P-57, Chapter P-6, and Appendix 2 using 
+appropriate multiplying prefixes (see P-14.2) and number the parent structure as far as possible using the general rule  
+P-14.4.
+ru: Определите суффиксы и/или префиксы в соответствии с P-15.5, P-57, Главой P-6 и Приложением 2, используя 
+соответствующие умножающие префиксы (см. P-14.2), и пронумеруйте &(parent structure|vi), насколько это возможно, 
+используя общее правило P-14.4.
+
+#P-59.1.6+
+en: Name substituent groups and characteristic groups not cited as principal characteristic groups as prefixes 
+(alphabetized prefixes) in accordance with P-34 which summarizes the use of functional parent compounds in 
+substitutive nomenclature, i.e., use as preferred IUPAC name or in general nomenclature, and P-15.1.8 for their 
+substitutability and P-56 for preferred IUPAC names and for allowed names in general nomenclature, and complete the 
+numbering of the structure, if necessary, according to the numbering rules for nomenclatural features given in P-14.4. 
+ru: Назовите &(substituent group|*) и &(characteristic group|*), не указанные в качестве основных &(characteristic group|ro*), 
+в качестве префиксов (префиксов в алфавитном порядке) в соответствии с P-34, который обобщает использование функциональных 
+&(parent compound|ro*) в &(substitutive nomenclature|pr), т. е. использование в качестве предпочтительного названия ИЮПАК 
+или в общей номенклатуре, и P-15.1.8 для их заменяемости и P-56 для предпочтительных названий ИЮПАК и для разрешенных названий 
+в общей номенклатуре, и при необходимости завершите нумерацию структуры в соответствии с правилами нумерации для номенклатурных 
+признаков, приведенными в P-14.4.
+
+#P-59.1.7+
+en: Assemble the components into a complete name, using rules described in Section P-14 (general rules) related 
+to locants, numbering, alphanumerical order, indicated and added indicated hydrogen and aspects of name writing such 
+as punctuation, enclosing marks, italicization, elision and addition of vowels, and primes as described in P-16. 
+ru: Соберите компоненты в полное имя, используя правила, описанные в разделе P-14 (общие правила), касающиеся локантов, 
+нумерации, алфавитно-цифрового порядка, &(indicated [hydrogen]|ro) и &(added indicated hydrogen|ro), а также аспектов 
+написания имени, таких как пунктуация, заключительные знаки, курсив, опущение и добавление гласных и штрихов, как описано 
+в разделе P-16.
+
+#P-59.1.8+
+en: Complete the name with all required descriptors for stereochemical features in accordance with rules described 
+in Chapter P-9. 
+ru: Дополните название всеми необходимыми дескрипторами стереохимических характеристик в соответствии с правилами, 
+описанными в главе P-9.
+
+#P-59.1.9
+en: Characteristic groups 
+ru: &(Characteristic group|*)
+
+en: In substitutive nomenclature, some characteristic groups can be denoted either as suffixes or prefixes (see P-33 and  
+P-35), but others only as prefixes (see Table 5.1). Functional class names differ in that a separate word (or a suffix in 
+some languages) designating the name of a functional class is associated with a substituent group name describing the 
+reminder of the structure. 
+ru: В &(substitutive nomenclature|pr) некоторые &(characteristic group|*) могут быть обозначены либо суффиксами, либо 
+префиксами (см. P-33 и P-35), а другие — только префиксами (см. &[табл. 5.1]). &(Functional class name|*) отличаются тем, 
+что отдельное слово (или суффикс в некоторых языках), обозначающее название функционального класса, связано с названием 
+&(substituent group|ro), описывающей остаток структуры.
+
+en: Characteristic groups that can be cited as suffixes in substitutive nomenclature are not necessarily identical with groups 
+designated by the name of a corresponding functional class when functional class names are formed (e.g., butanone and 
+ethyl methyl ketone, where ‘one’ denotes =O and ‘ketone’ denotes –CO–). 
+ru: &(Characteristic group|*), которые могут быть указаны в качестве суффиксов в &(substitutive nomenclature|pr), 
+не обязательно идентичны группам, обозначенным именем соответствующего функционального класса, когда образуются 
+&(functional class name|*) (например, бутанон и этилметилкетон, где «он» обозначает =O, а «кетон» обозначает –CO–).
+
+en: The characteristic groups listed in Table 5.1 are always cited as prefixes to the name of the parent structure described in 
+Chapter P-2. Multiplying prefixes (see P-14.2) and locants are added as necessary (see P-14.3). 
+ru: &(Characteristic group|*), перечисленные в &[таблице 5.1], всегда &(cited|*) в качестве префиксов к названию &(parent structure|ro), 
+описанной в главе P-2. При необходимости добавляются умножающие префиксы (см. P-14.2) и локанты (см. P-14.3).
+
+@Table 5.1
+en: Characteristic groups always cited as prefixes in substitutive nomenclature
+ru: &(Characteristic group|*) всегда &(cited|p*) как префиксы в &(substitutive nomenclature|pr)
+
+@EndTable
+
+@Examples -- 5 .left-aligned-cells
+
+@cell
+en: **Characteristic group**
+ru: **&(Characteristic group)**
+
+@cell
+en: **Prefix**
+ru: **Префикс**
+
+@cell .empty-column
+
+@cell
+en: **Characteristic group**
+ru: **&(Characteristic group)**
+
+@cell
+en: **Prefix**
+ru: **Префикс**
+
+@cell
+–Br 
+
+@cell
+en: bromo
+ru: бромо
+
+@cell
+
+@cell
+–IO^{1}
+
+@cell
+en: iodosyl
+ru: иодосил
+// здесь и далее в этой таблице непроверенные русские названия
+
+@cell
+–BrO^{1}
+
+@cell
+en: bromosyl 
+ru: бромосил
+
+@cell
+
+@cell
+–IO_{2}^{1}
+
+@cell
+en: iodyl
+ru: иодил
+
+@cell
+–BrO_{2}^{1}
+
+@cell
+en: bromyl
+ru: бромил
+
+@cell
+
+@cell
+–IO_{3}^{1}
+
+@cell
+en: periodyl
+ru: периодил
+
+@cell
+–BrO_{3}^{1}
+
+@cell
+en: perbromyl
+ru: пербромил
+
+@cell
+
+@cell
+–O-R^{2,3} 
+
+@cell
+en: alkoxy
+ru: алкокси
+
+@cell
+–Cl
+
+@cell
+en: chloro 
+ru: хлоро
+
+@cell
+
+@cell
+–O-O-R^{2,4}
+
+@cell
+en: alkylperoxy
+ru: алкилперокси
+
+@cell
+–ClO^{1}
+
+@cell
+en: chlorosyl 
+ru: хлоросил
+
+@cell
+
+@cell
+=N_{2}
+
+@cell
+en: diazo
+ru: диазо
+
+@cell
+–ClO_{2}^{1}
+
+@cell
+en: chloryl 
+ru: хлорил
+
+@cell
+
+@cell
+–N_{3}
+
+@cell
+en: azido 
+ru: азидо
+
+@cell
+–ClO_{3}^{1}
+
+@cell
+en: perchloryl 
+ru: перхлорил
+
+@cell
+
+@cell
+–NCO^{5}
+
+@cell
+en: isocyanato
+ru: изоцианато
+
+@cell
+–F 
+
+@cell
+en: fluoro
+ru: фторо
+
+@cell
+
+@cell
+–NC
+
+@cell
+en: isocyano
+ru: изоциано
+
+@cell
+–FO^{1}
+
+@cell
+en: fluorosyl 
+ru: фторосил
+
+@cell
+
+@cell
+–NO^{1}
+
+@cell
+en: nitroso 
+ru: нитрозо
+
+@cell
+–FO_{2}^{1}
+
+@cell
+en: fluoryl 
+ru: фторил
+
+@cell
+
+@cell
+–NO_{2}^{1}
+
+@cell
+en: nitro
+ru: нитро
+
+@cell
+–FO_{3}^{1}
+
+@cell
+en: perfluoryl
+ru: перфторил
+
+@cell
+
+@cell
+–S(O)-R^{2,6}
+
+@cell
+en: alkanesulfinyl
+ru: алкансульфинил
+
+@cell
+–I
+
+@cell
+en: iodo
+ru: иодо
+
+@cell
+
+@cell
+–S(O)_{2}-R^{2,6}
+
+@cell
+en: alkanesulfonyl
+ru: алкансульфонил
+
+@End
+
+en: ^{1} And also chalcogen analogs, as thiochlorosyl, selenochloryl, dithiochloryl, and thionitroso. 
+ru: ^{1} А также аналоги халькогенов, такие как тиохлоросил, селенохлорил, дитиохлорил и тионитрозо.
+
+en: ^{2} ‘R’ designates an ‘organic’ substituent group, as methoxy, pentyloxy, phenylperoxy,  
+methanesulfonyl or methylsulfinyl, and benzenesulfonyl or phenylsulfonyl. 
+ru: ^{2} «R» обозначает «органическую» &(substituent group|vi), такую ​​как метокси, пентилокси, фенилперокси, 
+метансульфонил или метилсульфинил, а также бензолсульфонил или фенилсульфонил.
+
+en: ^{3} Also included are chalcogen analogues, such as alkyl- or arylsulfanyl, alkyl- or  
+arylselanyl, and alkyl- or aryltellanyl. 
+ru: ^{3} Также включены аналоги халькогенов, такие как алкил- или арилсульфанил, алкил- или арилселанил 
+и алкил- или арилтелланил.
+
+en: ^{4} Also included are chalcogen analogues, as methoxysulfanyl, methylsulfanyloxy,  
+and methyldisulfanyl. 
+ru: ^{4} Также включены аналоги халькогенов, такие как метоксисульфанил, метилсульфанилокси и метилдисульфанил.
+
+en: ^{5} Also included are chalcogen analogues, as isothiocyanato and isoselenocyanato. 
+ru: ^{5} Также включены аналоги халькогенов, такие как изотиоцианато и изоселеноцианато.
+
+en: ^{6} Includes selenium and tellurium analogues and all chalcogen analogues, as methanesulfinothioyl  
+and benzeneselenotelluronyl. 
+ru: ^{6} Включает аналоги селена и теллура, а также все аналоги халькогенов, такие как метансульфинотиоил 
+и бензолселенотеллуронил.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2@n(1)-CH2@n(2)-CH2@n(3)-Cl
+$>
+
+en: 1,3-dichloropropane (PIN)
+ru: 1,3-дихлорпропан (PIN)
+
+@cell
+<$ C6H5-NO $>
+  
+en: nitrosobenzene (PIN)
+ru: нитрозобензол (PIN)
+
+@End
+
+en: Characteristic groups other than those listed in Table 5.1 may be cited as either suffixes or prefixes to the name of the 
+parent hydride. 
+ru: &(Characteristic group|*), отличные от перечисленных в &[таблице 5.1], могут быть указаны как суффиксы или префиксы 
+к названию &(parent hydride|ro).
+
+en: If characteristic groups other than those given in Table 5.1 are present, one (and only one) kind must be cited as suffix 
+(the principal characteristic group) for classes other than radicals and ions. 
+ru: Если присутствуют &(characteristic group|*), отличные от приведенных в &[таблице 5.1], то для классов, отличных от 
+радикалов и ионов, в качестве суффикса должен быть указан один (и только один) вид (основная &(characteristic group)).
+
+en: When a compound contains more than one kind of characteristic group not given in Table 5.1, the principal 
+characteristic group is the one that characterizes the class occurring earliest (i.e., nearest to the top) in the seniority 
+order of classes (see P-41, P-42 and P-43, if necessary). All other characteristic groups are cited as prefixes. 
+ru: Если соединение содержит более одного типа &(characteristic group|ro*), не указанных в &[таблице 5.1], то основной 
+&(characteristic group|tv) считается та, которая характеризует класс, расположенный наиболее рано (т.е. ближе всего к началу) 
+в порядке старшинства классов (см. P-41, P-42 и P-43, если необходимо). Все остальные &(characteristic group|*) &(cited|*) 
+в виде префиксов.
+
+en: If, and only if, the complete suffix (that is, the suffix plus its multiplying prefixes, if any) begins with a vowel, a 
+terminal letter ‘e’ (if any) of the parent hydride name is elided. For example, ethanol (not ethaneol). Elision or retention 
+of the terminal letter ‘e’ is independent of the presence of numerals between it and the following letter, for example, 
+propan-2-ol (not propane-2-ol). 
+ru: Если и только если полный суффикс (то есть суффикс плюс его умножающие префиксы, если таковые имеются) начинается с гласной, 
+то конечная буква «e» (если таковая имеется) в названии &(parent hydride|ro) опускается (для англ. яз.). 
+Например, ethanol (не ethaneol). 
+Опускание или сохранение конечной буквы «e» не зависит от наличия цифр между ней и следующей буквой, например, 
+propan-2-ol (не propane-2-ol).
+
+en: When a substituent is itself substituted (compound substituent, see P-29.4, P-35.3 and P-46), all the subsidiary 
+substituents are named as prefixes. The substituent bearing the subsidiary substituent is regarded as a parent substituent 
+(analogous to a parent hydride). The nomenclature of the whole substituent is subject to all the procedures adopted for 
+compounds, with two exceptions, which are: 
+ru: Если &(substituent) сам по себе &(substituted [substituent]|s) (&(compound substituent), см. P-29.4, P-35.3 и P-46), 
+все &(subsidiary substituent|*) обозначаются префиксами. &(Substituent), содержащий &(subsidiary substituent), считается 
+&(parent substituent|tv) (аналогично &(parent hydride|da)). Номенклатура всего &(substituent|ro) подчиняется всем процедурам, 
+принятым для соединений, за двумя исключениями:
+
+@List a
+
+@item
+en: that no characteristic group is expressed as a suffix (instead, a suffix such as ‘yl’, ‘ylidene’, etc., is used); and 
+ru: ни одна &(characteristic group) не выражена суффиксом (вместо этого используется такой суффикс, как «ил», «илиден» и т. д.); и
+
+@item
+en: that the point of attachment of the substituent has the lowest permissible locant. 
+ru: что точка присоединения &(substituent|ro) имеет наименьший допустимый локант.
+
+@End
+
+#P-59.1.10
+en: Numbering nomenclatural features
+ru: Нумерация номенклатурных признаков
+
+en: When the parent hydride (principal chain, ring, or ring system), principal group and substituents have been selected and 
+named, the numbering of the complete compound is allocated using the rule of lowest locants. General rules for locants 
+and numbering are described in P-14.4. They do apply each and every time a name is constructed, not only for 
+substitutive and functional class nomenclature, but for all types of nomenclature. 
+ru: После выбора и наименования &(parent hydride|ro) (главной цепи, кольца или кольцевой системы), главной группы и 
+&(substituent|ro*) нумерация всего соединения производится по правилу наименьших локантов. Общие правила выбора локантов и 
+нумерации описаны в разделе P-14.4. Они применяются при построении каждого названия, не только для &(substitutive nomenclature|ro) 
+и &(functional class nomenclature|ro), но и для всех типов номенклатуры.
+
+@p .framed
+en: The list of seniority of structural features that receive lowest possible locants has been refined by reallocating the 
+placement of the ‘a’ prefixes for skeletal replacement (‘a’) nomenclature in chains and by giving a special status 
+of detachable prefix to hydro/dehydro prefixes. 
+ru: Список старшинства структурных признаков, получающих наименьшие возможные локанты, был уточнен путем перераспределения 
+размещения префиксов «a» для номенклатуры &(skeletal replacement a|ro) в цепях и предоставления особого статуса 
+&(detachable [prefix]|ro) префикса префиксам «гидро/дегидро».
+
+en: Insofar as the preceding rules leave a choice, the starting point and direction of numbering of a compound are chosen so 
+as to give lowest locants to the structural features (if present) considered successively in the order given until a decision 
+is reached: 
+ru: Поскольку предыдущие правила оставляют возможность выбора, начальная точка и направление нумерации соединения выбираются 
+таким образом, чтобы дать наименьшие локанты структурным признакам (если они присутствуют), рассматриваемым последовательно 
+в указанном порядке, пока не будет принято решение:
+
+@List a
+
+@item
+en: fixed numbering, as for naphthalene, bicyclo[2.2.2]octane, etc.; 
+ru: фиксированная нумерация, как для нафталина, бицикло[2.2.2]октана и т. д.;
+
+@item
+en: heteroatoms in heterocycles and in acyclic parent structures; 
+ru: гетероатомы в гетероциклах и в ациклических &(parent structure|pr);
+
+@item
+en: indicated hydrogen [for unsubstituted compounds; a higher locant may be needed at another position to provide 
+for a substituent suffix in accordance with structural feature (d)]; 
+ru: &(indicated hydrogen) [для незамещенных соединений; более высокий локант может потребоваться в другом положении для 
+обеспечения суффикса &(substituent|ro) в соответствии со структурной особенностью (d)];
+
+@item
+en: principal group named as suffix; 
+ru: основная группа, названная как суффикс;
+
+@item
+en: ‘added indicated hydrogen’ (consistent with the structure of the compound and in accordance with further 
+substitution); 
+ru: «&(added indicated hydrogen)» (в соответствии со структурой соединения и в соответствии с дальнейшим замещением);
+
+@item
+en: saturation (‘hydro’/‘dehydro’ prefixes) or unsaturation (‘ene’/‘yne’ endings); 
+en: насыщенность (префиксы «гидро»/«дегидро») или ненасыщенность (окончания «ен»/«ин»);
+
+@item:
+en: substituents named as prefixes (low locants are allocated for substituents regardless of kind; then, if necessary, in 
+the order of citation in the name). 
+ru: &(substituent|*), названные в виде префиксов (меньшие локанты присваиваются &(substituent|da*) независимо от вида; 
+далее, при необходимости, в порядке &(citation|ro) в названии).
+
+@End
+
+
+#P-59.2
+en: Examples illustrating the methodology 
+ru: Примеры, иллюстрирующие методологию
+
+@Content
+
+#P-59.2.1
+en: Selection of parent hydrides 
+ru: Выбор &(parent hydride|ro*)
+
+en: After the principal characteristic group has been chosen and named, the parent hydride or functional parent compound 
+is chosen by one of the following methods. For details of numbering, see Chapter P-2 describing the numbering of the 
+various parent hydrides and the general rule of lowest locants as formulated in P-14.3. For the arrangement of prefixes, 
+see the general rule on alphanumerical order described in P-14.5. 
+ru: После выбора и наименования основной &(characteristic group|ro) &(parent hydride) или функциональное &(parent compound) 
+выбирают одним из следующих методов. Подробнее о нумерации см. в главе P-2, где описана нумерация различных &(parent hydride|ro*) 
+и общее правило наименьших локантов, сформулированное в P-14.3. Порядок префиксов см. в общем правиле алфавитно-цифрового 
+порядка, описанном в P-14.5.
+
+#P-59.2.1.1+
+en: If the compound is purely acyclic, the principal chain is chosen as parent hydride by the method described in P-44. 
+ru: Если соединение является чисто ациклическим, то главная цепь выбирается в качестве &(parent hydride|ro) методом, 
+описанным в P-44.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(6)-CH@n(5)<`|CH3>-CH@n(4)=C@n(3)<`|Cl>-C@n(2)<`||O>-CH3@n(1)
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group: 
+ru: Основная группа:
+
+@cell
+<$ {}-C<`||O>-{} $>
+
+@cell
+en: one
+ru: он
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-CH3 $>
+
+@cell
+en: hexane
+ru: гексан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CO-CH3 $>
+
+@cell
+en: hexan-2-one
+ru: гексан-2-он
+
+@cell
+en: Subtractive modification
+ru: &(Subtractive modification)
+
+@cell
+<$ CH3-CH2-CH=CH-CO-CH3 $>
+
+@cell
+en: hex-3-en-2-one
+ru: гекс-3-ен-2-он
+
+@cell
+en: Substituents:
+ru: &(Substituent|*):
+
+@cell
+–Cl
+
+@cell
+en: chloro
+ru: хлор
+
+@cell
+
+@cell
+–OH
+
+@cell
+en: hydroxy
+ru: гидрокси
+
+@cell
+
+@cell
+<$ {}–CH3 $>
+
+@cell
+en: methyl
+ru: метил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3-chloro-6-hydroxy-5-methylhex-3-en-2-one (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3-хлор-6-гидрокси-5-метилгекс-3-ен-2-он (PIN)
+
+en: **Explanation**: The suffix ‘one’ receives the lowest possible locant, ‘2’, thus determining the direction of numbering of 
+the chain. Two hexane chains are possible; the principal chain, in accord with the criteria for selecting the principal 
+chain, is the one that is most substituted (3 substituents compared to 2). Unsaturation is denoted by the ending ‘ene’. 
+The three substituent prefixes are arranged in alphanumerical order to complete the name. 
+ru: **Пояснение**: Суффикс «он» получает наименьший возможный локант, «2», определяя таким образом направление нумерации цепи. 
+Возможны две гексановые цепи; главная цепь, в соответствии с критериями выбора главной цепи, является наиболее замещенной 
+(3 заместителя против 2). Ненасыщенность обозначается окончанием «ен». Три замещающих префикса расположены в алфавитно-цифровом 
+порядке, чтобы завершить название.
+
+#P-59.2.1.2+
+en: If the principal group occurs only in a chain that carries a substituent, the compound is named as an acyclic 
+compound and cyclic component is expressed by a substituent prefix. 
+ru: Если основная группа встречается только в цепи, которая несет &(substituent), соединение именуется как ациклическое 
+соединение, а циклический компонент выражается &(substituent prefix|tv).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`/`\`|/\_q6C@n(5)<_(A-120,L%d:1.25)H3C><_(A-60,L%d)CH2@n(6,-90)-OH>-CH@n(4)=C@n(3,-90,.5)<|Cl>-CH2@n(2)-COOH@n(1)
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ:
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+(C)OOH
+
+@cell
+en: oic acid
+ru: &(oic acid)
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-CH3 $>
+
+@cell
+en: hexane
+ru: гексан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-COOH $>
+
+@cell
+en: hexanoic acid
+ru: гексановая кислота
+
+@cell
+en: Subtractive modification
+ru: &(Subtractive modification)
+
+@cell
+<$ CH3-CH2-CH=CH-CH2-COOH $>
+
+@cell
+en: hex-3-enoic acid
+ru: гекс-3-еновая кислота
+
+@cell
+en: Substituents
+ru: &(Substituent|*)
+
+@cell
+Cl–
+
+@cell
+en: chloro
+ru: хлор
+
+@cell
+
+@cell
+<$ C6H11–{} $>
+
+@cell
+en: cyclohexyl
+ru: циклогексил
+
+@cell
+
+@cell
+HO–
+
+@cell
+en: hydroxy
+ru: гидрокси
+
+@cell
+
+@cell
+<$ CH3–{} $>
+
+@cell
+en: methyl
+ru: метил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3-chloro-5-cyclohexyl-6-hydroxy-5-methylhex-3-enoic acid (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3-хлор-5-циклогексил-6-гидрокси-5-метилгекс-3-еновая кислота (PIN)
+
+en: **Explanation**: The presence of a carboxylic acid group at the end of the chain determines the direction of its numbering. 
+The ‘ene’ ending and the substituent prefixes, in alphanumerical order, are located on the chain in accord with its 
+determined numbering.
+ru: **Пояснение**: Наличие карбоксильной группы в конце цепи определяет направление её нумерации.
+Окончание «ен» и заместители, в алфавитно-цифровом порядке, располагаются в цепи в соответствии с её определённой нумерацией.
+
+#P-59.2.1.3+
+en: If the principal group occurs in two or more carbon chains that are not attached to one another (that is, do not 
+together form a continuous or branched chain but are separated by, for instance, a ring or a heteroatom), and when 
+multiplicative nomenclature is not possible, then the chain carrying the largest number of the principal groups is chosen 
+as the parent hydride for nomenclature; if the numbers of these groups in two or more chains are the same, choice is 
+made by the principles for selection of the principal chain. 
+ru: Если главная группа встречается в двух или более углеродных цепях, которые не соединены друг с другом (то есть не образуют 
+вместе непрерывную или разветвленную цепь, а разделены, например, кольцом или гетероатомом), и когда &(multiplicative nomenclature) 
+невозможна, то в качестве &(parent hydride|ro) для номенклатуры выбирается цепь, несущая наибольшее число главных групп; 
+если число этих групп в двух или более цепях одинаково, выбор делается по принципам выбора главной цепи.
+
+@Examples
+en: Example 1: 
+ru: Пример 1:
+
+@cell
+<$
+@:n(n,a:90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2-CH2-CH2_(h){}-/=\<`//`-`\\>-CH@n(1)<`|OH>-CH2@n(2)-OH
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+OH
+
+@cell
+en: diol
+ru: диол
+
+@cell
+en: Parent hydride: 
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-CH3 $>
+
+@cell
+en: ethane
+ru: этан
+
+@cell
+en: Substituent: 
+ru: &(Substituent):
+
+@cell colspan=2
+<$
+@:n(n,a:90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+HO-CH2-CH2-CH2_(h){}-/=\<`//`-`\\>-@w()
+$>
+
+@cell
+en: Substituent components:
+ru: &(Substituent component|*):
+
+@cell
+OH
+
+@cell
+en: hydroxy
+ru: гидрокси
+
+@cell
+
+@cell
+<$ {}–CH2-CH2-CH3 $>
+
+@cell
+en: propyl
+ru: пропил
+
+@cell
+
+@cell
+<$ {}–C6H5 $>
+
+@cell
+en: phenyl
+ru: фенил
+
+@cell
+en: Substituent prefix:
+ru: &(Substituent prefix): 
+
+@cell colspan=2
+en: 4-(3-hydroxypropyl)phenyl
+ru: 4-(3-гидроксипропил)фенил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+1-[4-(3-hydroxypropyl)phenyl]ethane-1,2-diol (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+1-[4-(3-гидроксипропил)фенил]этан-1,2-диол (PIN)
+
+@Examples
+en: Example 2: In the following example, the longest chain is chosen as parent hydride, in accord with the criteria for 
+selecting the principal chain. 
+ru: Пример 2: В следующем примере в качестве &(parent hydride|ro) выбирается самая длинная цепь в соответствии с критериями 
+выбора основной цепи.
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(1)-CH2@n(2)-CH2@n(3)_(h){}-/=\<`//`-`\\>-CH2-CH2-OH
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+–OH
+
+@cell
+en: ol
+ru: ол
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-CH2-CH3 $>
+
+@cell
+en: propane
+ru: пропан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ CH3-CH2-CH2-OH $>
+
+@cell
+en: propan-1-ol
+ru: пропан-1-ол
+
+@cell
+en: Substituent:
+ru: &(Substituent):
+
+@cell colspan=2
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`//`-`\\<`-@w()>/=\-CH2-CH2-OH
+$>
+
+@cell
+en: Substituent components:
+ru: &(Substituent component|*):
+
+@cell
+–OH 
+
+@cell
+en: hydroxy
+ru: гидрокси
+
+@cell
+
+@cell
+<$ {}–CH2-CH3 $>
+
+@cell
+en: ethyl
+ru: этил
+
+@cell
+
+@cell
+<$ {}–C6H5 $>
+
+@cell
+en: phenyl
+ru: фенил
+
+@cell
+en: Substituent prefix:
+ru: &(Substituent prefix):
+
+@cell colspan=2
+en: 4-(2-hydroxyethyl)phenyl 
+ru: 4-(2-гидроксиэтил)фенил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3-[4-(2-hydroxyethyl)phenyl]propan-1-ol (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3-[4-(2-гидроксиэтил)фенил]пропан-1-ол (PIN)
+
+@Examples
+en: Example 3:
+ru: Пример 3:
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(1')-CH2-CH2@n(3')_(x1.4)/=\<`//`-`\\>-CH2@n(3)-CH2@n(2)-CH2@n(1)-OH
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+OH 
+
+@cell
+en: ol
+ru: ол
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-CH2-CH3 $>
+
+@cell
+en: propane
+ru: пропан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH2@n(1)-OH
+$>
+
+@cell
+en: propan-1-ol
+ru: пропан-1-ол
+
+@cell
+en: Multiplicative connecting group:
+ru: &(Multiplicative connecting group)
+
+@cell
+<$ {}–C6H4–{} $>
+// Ошибка в оригинале. Там C6H5, но так как замещены два узла, то остаётся только 4 водорода.
+
+@cell
+en: 1,4-phenylene
+ru: 1,4-фенилен
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3,3′-(1,4-phenylene)di(propan-1-ol) (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3,3′-(1,4-фенилен)ди(пропан-1-ол) (PIN)
+
+en: **Explanation**: A multiplicative name is formed when identical parent structures are attached symmetrically to a central 
+component (for a preferred IUPAC name the parent structures must be symmetrically substituted). The numbering of 
+the multiplied parent structure, which includes the characteristic group, if any, is retained. 
+ru: **Пояснение**: &(Multiplicative name) образуется путем симметричного присоединения идентичных &(parent structure|ro*) 
+к центральному компоненту (для получения предпочтительного названия по ИЮПАК &(parent structure|*) должны быть симметрично 
+заменены). Нумерация умноженной &(parent structure|ro), включающая &(characteristic group|vi), если таковая имеется, сохраняется.
+
+
+#P-59.2.2
+en: Seniority of heteroatoms over suffixes 
+ru: Старшинство гетероатомов над суффиксами
+
+#P-59.2.3
+en: Seniority of principal characteristic groups over unsaturation 
+ru: Старшинство основных &(characteristic group|ro*) по ненасыщенности
+
+#P-59.2.4
+en: Seniority of ‘ene’ and ‘yne’ endings and hydro prefixes over detachable prefixes 
+ru: Старшинство окончаний «ен» и «ин» и префиксов «гидро» над &(detachable [prefix]|tv*) префиксами
+
+#P-59.2.5
+en: Treatment of detachable prefixes 
+ru: Обработка &(detachable [prefix]|ro*) префиксов
