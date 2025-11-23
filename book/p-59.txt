@@ -1109,14 +1109,1146 @@ ru: **Пояснение**: &(Multiplicative name) образуется путе
 к центральному компоненту (для получения предпочтительного названия по ИЮПАК &(parent structure|*) должны быть симметрично 
 заменены). Нумерация умноженной &(parent structure|ro), включающая &(characteristic group|vi), если таковая имеется, сохраняется.
 
+#P-59.2.1.4+
+en: If the principal group occurs only in a single cyclic system, that cyclic system is chosen as parent hydride for 
+nomenclature. 
+ru: Если основная группа встречается только в одной циклической системе, то эта циклическая система выбирается в качестве 
+&(parent hydride) для номенклатуры.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,-30)`/|\/`|@n(2,-90)<`\>_p6CH2-CH3
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+–OH
+
+@cell
+en: ol
+ru: ол
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ C6H12 $>
+
+@cell
+en: cyclohexane
+ru: циклогексан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ C6H11-OH $>
+
+@cell
+en: cyclohexanol
+ru: циклогексанол
+
+@cell
+en: Substituent:
+ru: &(Substituent):
+
+@cell
+<$ {}–CH2-CH3 $>
+
+@cell
+en: ethyl
+ru: этил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+2-ethylcyclohexan-1-ol (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+2-этилциклогексан-1-ол (PIN)
+
+#P-59.2.1.5+
+en: If the principal group occurs in more than one cyclic system, the cyclic system chosen as parent hydride for 
+nomenclature is in accordance with the criteria for choosing a senior ring or ring system. 
+ru: Если главная группа встречается более чем в одной циклической системе, то циклическая система, выбранная 
+в качестве &(parent hydride|ro) для номенклатуры, соответствует критериям выбора старшего кольца или кольцевой системы.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qr_p6@n(1,-70)_pp6<_q6COOH>@n(2,60)_p6_pp6_p6_p6_q_q_qqr_p6_pp6@n(6,80)<_p6_pp6_p6>_q6_q6_pp6_p6<_q6HOOC>_pp6_p6_pp6
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells .cells-align-top
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+–COOH
+
+@cell
+en: carboxylic acid
+ru: карбоновая кислота
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qr_p6@n(1,-70)_pp6@n(2,0)_p6@n(3,50)_pp6@n(4,110)_p6_p6_q@n(9,-90)_q_qqr_p6@n(5,60)_pp6@n(6,130)_p6@n(7,-170)_pp6@n(8,-110)_p6
+$>
+
+@cell
+en: 9_H_-fluorene
+ru: 9_H_-флуорен
+// http://charchem.org/ru/subst-ref/?langs=*&id=715
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qr_p6@n(1,-70)_pp6@n(2,50)<_q6COOH>_p6_pp6_p6_p6_q_q_qqr_p6_pp6_p6_pp6_p6
+$>
+
+@cell
+en: 9_H_-fluorene-2-carboxylic acid
+ru: 9_H_-флуорен-2-карбоновая кислота
+
+@cell
+en: Substituents:
+ru: &(Substituent|*):
+
+@cell
+<$ –C6H5 $>
+
+@cell
+en: phenyl
+ru: фенил
+
+@cell
+
+@cell
+–COOH
+
+@cell
+en: carboxy
+ru: карбокси
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+6-(4-carboxyphenyl)-9_H_-fluorene-2-carboxylic acid (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+6-(4-карбоксифенил)-9_H_-флуорен-2-карбоновая кислота (PIN)
+
+#P-59.2.1.6+
+en: If the principal group occurs both in a chain and in a cyclic system, the parent hydride for nomenclature is 
+the portion in which the principal group occurs in the greater number; if the number of occurrences of the principal 
+group is the same in two or more portions, the ring or ring system is chosen as parent hydride for nomenclature. 
+ru: Если главная группа встречается как в цепи, так и в циклической системе, то &(parent hydride|tv) для номенклатуры 
+является та часть, в которой главная группа встречается в большем числе раз; если число появлений главной группы одинаково 
+в двух или более частях, то в качестве &(parent hydride|ro) для номенклатуры выбирают кольцо или кольцевую систему.
+
+@Examples
+en: Example 1:
+ru: Пример 1:
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-/-\<`/`-`\>-CH@n(1,90)<`|OH>-CH2@n(2)-CH2@n(3)-CH2@n(4)-CH2@n(5)-CH2@n(6)-OH
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+–OH
+
+@cell
+en: diol
+ru: диол
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-CH3 $>
+
+@cell
+en: hexane
+ru: гексан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(1)-CH2@n(2)-CH2@n(3)-CH2@n(4)-CH2@n(5)-CH2@n(6)-OH
+$>
+
+@cell
+en: hexane-1,6-diol
+ru: гексан-1,6-диол
+
+@cell
+en: Substituent components:
+ru: &(Substituent component|*):
+
+@cell
+<$ {}–C6H11 $>
+
+@cell
+en: cyclohexyl
+ru: циклогексил
+
+@cell
+
+@cell
+<$ –OH $>
+
+@cell
+en: hydroxy
+ru: гидрокси
+
+@cell
+en: Substituent prefix:
+ru: &(Substituent prefix):
+
+@cell colspan=2
+en: 4-hydroxycyclohexyl
+ru: 4-гидроксициклогексил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+1-(4-hydroxycyclohexyl)hexane-1,6-diol (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+1-(4-гидроксициклогексил)гексан-1,6-диол (PIN)
+
+@Examples
+en: Example 2:
+ru: Пример 2:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_(a54,N2)O>@n(1,-30)_q_q@n(4,180)<_q_q@n(2,30)_(a54,N2)O>-CH2-C<`||O>-CH2-CH3
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+(C)O
+
+@cell
+en: dione
+ru: дион
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ |_q_q_q_q $>
+
+@cell
+en: cyclopentane
+ru: циклопентан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_(a54,N2)O>@n(1,-30)_q@n(5,80)_q@n(4,0)_q@n(3,-80)_q@n(2,30)_(a54,N2)O
+$>
+
+@cell
+en: cyclopentane-1,2-dione
+ru: циклопентан-1,2-дион
+
+@cell
+en: Substituents: 
+ru: &(Substituent|*):
+
+@cell
+=O
+
+@cell
+en: oxo
+ru: оксо
+
+@cell
+
+@cell
+<$ CH3-CH2-CH2-CH2–{} $>
+
+@cell
+en: butyl
+ru: бутил
+
+@cell
+en: Substituent prefix:
+ru: &(Substituent prefix):
+
+@cell
+en: 2-oxobutyl
+ru: 2-оксобутил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+4-(2-oxobutyl)cyclopentane-1,2-dione (PIN)  
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+4-(2-оксобутил)циклопентан-1,2-дион (PIN)
+
+#P-59.2.1.7+
+en: If the number of occurrences of the principal group is the same in two or more nomenclaturally significant 
+parts of the compound, preferred IUPAC names are formed by choosing the ring or ring system as parent hydride for 
+nomenclature. 
+ru: Если число появлений главной группы одинаково в двух или более номенклатурно значимых частях соединения, 
+предпочтительные названия ИЮПАК образуются путем выбора кольца или кольцевой системы в качестве &(parent hydride|ro) 
+для номенклатуры.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC\@n(1)|\/`|<`\`/>@n(3)_p6CH2-CH2-CH2-CH2-CH2-CH2-CHO
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+–CHO
+
+@cell
+en: carbaldehyde
+ru: карбальдегид
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ /\|`/`\`| $>
+
+@cell
+en: cyclohexane
+ru: циклогексан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ |`/`\`|/\/CHO $>
+
+@cell
+en: cyclohexanecarbaldehyde
+ru: циклогексанкарбальдегид
+
+@cell
+en: Substituent:
+ru: &(Substituent):
+
+@cell
+<$ –CH2-[CH2]5-CHO $>
+
+@cell
+en: 7-oxoheptyl
+ru: 7-оксогептил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3-(7-oxoheptyl)cyclohexane-1-carbaldehyde (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3-(7-оксогептил)циклогексан-1-карбальдегид (PIN)
+
+en: In general nomenclature, a chain may be chosen as the parent hydride, depending on the importance given to a specific 
+portion (Rule P-44.1.2.2), leading to the name: 7-(3-formylcyclohexyl)heptanal 
+ru: В общей номенклатуре в качестве &(parent hydride|ro) может быть выбрана цепь в зависимости от важности, придаваемой 
+определенной части (Правило P-44.1.2.2), что приводит к названию: 7-(3-формилциклогексил)гептаналь
+
+#P-59.2.1.8+
+en: When a substituent is itself substituted, all the subsidiary substituents are named as prefixes. The substituent 
+bearing the subsidiary substituents is regarded as a ‘parent substituent’ (analogous to a parent compound). The 
+nomenclature of the whole substituent is subject to all the procedures adopted for compounds (for instance, choice of 
+principal chain), with two exceptions, namely: (a) that no suffix is used, and (b) that the point of attachment of the 
+substituent bears the lowest permissible locant number depending on the nomenclature of the substituent group, alkyl or 
+alkanyl.
+ru: Если &(substituent) сам &(substituted [substituent]|s), все его &(subsidiary substituent|*) обозначаются префиксами. 
+&(Substituent), несущий &(subsidiary substituent|*), считается «&(parent substituent|tv)» (аналогично &(parent compound|da)). 
+Номенклатура всего &(substituent|ro) подчиняется всем процедурам, принятым для соединений (например, выбору главной цепи), 
+за двумя исключениями: (a) суффикс не используется, и (b) точка присоединения &(substituent|ro) имеет наименьший 
+допустимый номер локанта в зависимости от номенклатуры &(substituent group|ro), алкильной или алканильной.
+
+@Examples
+
+@cell
+<$
+|<\COOH>`/`\<`/Cl>`|<`\Cl>/\_q6CH2-CH<`|CH2-OH>-CH2-CH<`|Cl>-C<`||O>-CH3
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal group:
+ru: Основная группа:
+
+@cell
+–COOH
+
+@cell
+en: carboxylic acid
+ru: карбоновая кислота
+
+@cell
+en: Parent hydride: 
+ru: &(Parent hydride):
+
+@cell
+<$ /\|`/`\`| $>
+
+@cell
+en: cyclohexane
+ru: циклогексан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ |`/`\`|/\/COOH $>
+
+@cell
+en: cyclohexanecarboxylic acid
+ru: циклогексанкарбоновая кислота
+// http://charchem.org/ru/subst-ref/?id=6794
+
+@cell
+en: Primary substituents:
+ru: Первичные &(substituent|*):
+
+@cell
+–Cl
+
+@cell
+en: chloro
+ru: хлор
+
+@cell
+
+@cell
+<$ {}–CH2-CH2-CH2-CH2-CH2-CH3 $>
+
+@cell
+en: hexyl
+ru: гексил
+
+@cell
+en: Secondary substituents: 
+ru: Вторичные &(substituent|*):
+
+@cell
+–Cl
+
+@cell
+en: chloro
+ru: хлор
+
+@cell
+
+@cell
+=O
+
+@cell
+en: oxo
+ru: оксо
+
+@cell
+
+@cell
+<$ {}–CH2-OH $>
+
+@cell
+en: hydroxymethyl
+ru: гидроксиметил
+
+@cell
+en: Substituted substituents:
+ru: &(Substituted [substituent]|*) &(substituent|*):
+
+@cell colspan=2
+en: 4-chloro-2-(hydroxymethyl)-5-oxohexyl
+ru: 4-хлор-2-(гидроксиметил)-5-оксогексил
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+4,5-dichloro-2-[4-chloro-2-(hydroxymethyl)-5-oxohexyl]cyclohexane-1-carboxylic acid (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+4,5-дихлор-2-[4-хлор-2-(гидроксиметил)-5-оксогексил]циклогексан-1-карбоновая кислота (PIN)
+
 
 #P-59.2.2
 en: Seniority of heteroatoms over suffixes 
 ru: Старшинство гетероатомов над суффиксами
 
+en: Heterocyclic compounds and chains modified by skeletal replacement (‘a’) nomenclature are treated similarly. They are 
+considered as parent compounds with a fixed numbering. As a consequence, heteroatoms have seniority for low locants 
+and suffixes are assigned the next possible lowest locants. 
+ru: Гетероциклические соединения и цепи, модифицированные номенклатурой &(skeletal replacement a|ro), рассматриваются 
+аналогично. Они рассматриваются как &(parent compound|*) с фиксированной нумерацией. Вследствие этого гетероатомы имеют 
+приоритет для меньших локантов, а суффиксам присваиваются следующие возможные меньшие локанты.
+
+@p .framed
+en: Fixed numbering for heteroacyclic parent structures named by skeletal replacement (‘a’) nomenclature is a major 
+change to Rule C-0.6 (ref. 1) in which principal characteristic groups and free valence were preferred over 
+heteroatoms for low locants. 
+ru: Фиксированная нумерация для гетероациклических &(parent structure|ro*), названных по номенклатуре &(skeletal replacement a|ro), 
+является существенным изменением правила C-0.6 (ссылка 1), в котором основные &(characteristic group|*) и свободная валентность 
+были предпочтительны по сравнению с гетероатомами для низкомолекулярных соединений.
+
+#P-59.2.2.1+
+en: For chains the replacement operation is applied to the hydrocarbon parent hydride to create a new parent 
+hydride with a fixed numbering. Suffixes receive the lowest possible locants in accordance with the resulting 
+numbering.
+ru: Для цепочек операция замены применяется к углеводородному &(parent hydride|da) для создания нового &(parent hydride|ro) 
+с фиксированной нумерацией. Суффиксы получают наименьшие возможные локанты в соответствии с полученной нумерацией.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2-O@n(3)-CH2-CH2-O@n(6)-CH2-CH2-O@n(9)-CH2-CH2-O@n(12)-CH2-CH2-COOH@n(15)
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal characteristic group:
+ru: Основная &(characteristic group):
+
+@cell
+–(C)OOH
+
+@cell
+en: oic acid
+ru: &(oic acid)
+
+@cell
+en: Hydrocarbon parent hydride:
+ru: Углеводородный &(parent hydride):
+
+@cell
+<$ CH3-[CH2]13-CH3 $>
+
+@cell
+en: pentadecane
+ru: пентадекан
+
+@cell
+en: Skeletal replacement (‘a’) prefix
+ru: Префикс &(skeletal replacement a|ro)
+
+@cell
+–O–
+
+@cell
+en: oxa
+ru: окса
+
+@cell
+en: Heteroacyclic parent hydride:
+ru: Гетероациклический &(parent hydride):
+
+@cell
+
+@cell
+en: 3,6,9,12-tetraoxapentadecane
+ru: 3,6,9,12-тетраоксапентадекан
+
+@cell .centred colspan=3
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2-O@n(3)-CH2-CH2-O@n(6)-CH2-CH2-O@n(9)-CH2-CH2-O@n(12)-CH2-CH2-CH3@n(15)
+$>
+
+@cell colspan=3
+en: Functionalized heteroacyclic parent hydride:
+ru: &(Functionalized [hydride]) гетероациклический &(parent hydride)
+
+@cell colspan=3 .centred
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2-O@n(3)-CH2-CH2-O@n(6)-CH2-CH2-O@n(9)-CH2-CH2-O@n(12)-CH2-CH2-COOH@n(15)
+$>
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3,6,9,12-tetraoxapentadecan-15-oic acid (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3,6,9,12-тетраоксапентадекан-15-&(oic acid) (PIN)
+
+#P-59.2.2.2+
+en: Heterocyclic compounds having retained or systematic names are considered as parent hydrides. Thus, 
+suffixes are added and assigned lowest possible locants in accordance with the fixed numbering of the heterocyclic ring 
+or ring system. Added indicated hydrogen atoms, if needed, are assigned next lowest possible locants. 
+ru: Гетероциклические соединения с сохраненными или систематическими названиями рассматриваются как &(parent hydride). 
+Таким образом, к ним добавляются суффиксы и присваиваются наименьшие возможные локанты в соответствии с фиксированной 
+нумерацией гетероциклического кольца или кольцевой системы. При необходимости атомам &(added indicated hydrogen|ro) 
+присваиваются следующие наименьшие возможные локанты.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\@n(6,90)<`/HOOC>`||/\\/N@n(1,-90,.55)\\@n(2,-30)|`//`\
+$>
+
+en: quinoline-6-carboxylic acid (PIN)
+ru: хинолин-6-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\@n(6,90)<`//O>`|//\//N@n(1,-90,.55)\@n(2,-30)|`//`\
+$>
+
+en: quinolin-6(2_H_)-one (PIN) 
+ru: хинолин-6(2_H_)-он (PIN)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(3a^1,-80,.6)/\\N@n(4,-30,.5)|@n(5,30)`//@n(6,90)`\@n(6a,90)`//@n(7,90)`\@n(8,150)`||N@n(9,-150,.5)/<\|>@n(9a,-150,.5)`||N@n(1,-150,.5)/@n(2,-90)\\</COOH>@n(3,30)|@n(3a,-30,.5)
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal characteristic group:
+ru: Основная &(characteristic group):
+
+@cell
+–COOH
+
+@cell
+en: carboxylic acid
+ru: карбоновая кислота
+
+@cell
+en: Hydrocarbon parent hydride: 
+ru: Углеводородный &(parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H|/\\@n(4,-30)|@n(5,30)`//@n(6,90)`\@n(6a,90,.5)`//@n(7,90)`\@n(8,150)`||@n(9,-150)/@n(9a,-150,.55)<\|>`||@n(1,-150)/@n(2,-90)\\@n(3,-30)|@n(3a,-30,.55)
+$>
+
+@cell
+en: <%d%>-phenalene
+ru: <%d%>-фенален
+%d:3a^{1}_H_
+
+@cell colspan=3
+en: [Note the new system of numbering for internal atoms in fused systems, 3a^{1} in place of 9b; see P-25.3.3.3.] 
+ru: [Обратите внимание на новую систему нумерации внутренних атомов в &(fused system|pr*), 3a^{1} вместо 9b; см. P-25.3.3.3.]
+
+@cell
+en: Skeletal replacement (‘a’) prefix
+ru: Префикс &(skeletal replacement a|ro)
+
+@cell
+–N<
+
+@cell
+en: aza
+ru: аза
+
+@cell
+en: Heterocyclic parent hydride:
+ru: Гетероциклический &(parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(3a^1,-80,.6)/\\N@n(4,-30,.5)|@n(5,30)`//@n(6,90)`\@n(6a,90,.5)`//@n(7,90)`\@n(8,150)`||N@n(9,-150,.5)/<\|>@n(9a,-150,.55)#
+`||N@n(1,-150,.5)/@n(2,-90)\\@n(3,-30)|@n(3a,-30,.55)
+$>
+
+@cell
+en: <%d%>-tetraazaphenalene
+ru: <%d%>-тетраазафенален
+%d: 1,3a^{1},4,9
+
+@cell
+en: Functionalized heterocyclic  <br>
+parent hydride: 
+ru: &(Functionalized [hydride]) гетероциклический <br>
+&(parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(3a^1,-80,.6)/\\N@n(4,-30,.5)|@n(5,30)`//@n(6,90)`\@n(6a,90)`//@n(7,90)`\@n(8,150)`||N@n(9,-150,.5)/<\|>@n(9a,-150,.5)`||N@n(1,-150,.5)/@n(2,-90)\\</COOH>@n(3,30)|@n(3a,-30,.5)
+$>
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+<%d%>-tetraazaphenalene-3-carboxylic acid (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию по ИЮПАК: <br>
+<%d%>-тетраазафенален-3-карбоновая кислота (PIN)
+%d:1,3a^{1},4,9
+
+
 #P-59.2.3
 en: Seniority of principal characteristic groups over unsaturation 
 ru: Старшинство основных &(characteristic group|ro*) по ненасыщенности
+
+#P-59.2.3.1+
+en: After suffixes, if there is a choice, low locants are assigned to ‘ene’ and ‘yne’ endings, and then to 
+detachable prefixes, if applicable.  
+ru: После суффиксов, если есть выбор, меньшие локанты присваиваются окончаниям «ен» и «ин», а затем отделяемым 
+префиксам, если применимо.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-C@n(4,90)<`||O>-CH2@n(5)-CH2@n(6)-CF3@n(7)
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal characteristic group:
+ru: Основная &(characteristic group):
+
+@cell
+=O
+
+@cell
+en: one
+ru: он
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$ CH3-[CH2]5-CH3 $>
+
+@cell
+en: heptane
+ru: гептан
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$ CH3-[CH2]2-CO-[CH2]2-CH3 $>
+
+@cell
+en: heptan-4-one
+ru: гептан-4-он
+
+@cell
+en: Substituent prefix
+ru: &(Substituent prefix)
+
+@cell
+–F
+
+@cell
+en: fluoro
+ru: фтор
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+7,7,7-trifluorohept-1-en-4-one (PIN)
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+7,7,7-трифторгепт-1-ен-4-он (PIN)
+
+#P-59.2.3.2+
+en: Hydro and dehydro prefixes are used to express a change in the degree of hydrogenation of the parent 
+hydride. In these recommendations, these prefixes are considered detachable but only in the context of numbering; they 
+are not included among the detachable substituent prefixes. In names, they are cited immediately before the name of the 
+parent compound, after those of detachable substituent prefixes arranged in alphanumerical order.
+ru: Префиксы «гидро» и «дегидро» используются для обозначения изменения степени гидрирования &(parent hydride|ro). 
+В данных рекомендациях эти префиксы считаются &(detachable [prefix]|tv*), но только в контексте нумерации; они не включены 
+в число &(detachable [prefix]|ro*) заместителей. В названиях они указываются непосредственно перед названием 
+&(parent compound|ro), после &(detachable [prefix]|ro*) &(substituent prefix|ro*), расположенных в алфавитно-цифровом порядке.
+
+@p .framed
+en: In these recommendations, the prefixes ‘hydro’ and ‘dehydro’ are detachable, but are not included in the category of 
+alphabetized detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2), which is a change from 
+recommendations in earlier editions (ref. 1, 2). When along with the endings ‘ene’ and ‘yne’ they are used to modify 
+parent hydrides, they are regulated by the principle of lowest locants, in accord with the numbering of the parent 
+hydride and after priority has been given to indicated hydrogen, ‘added indicated hydrogen’, and suffixes, when 
+present, as specified in the general rules for numbering (P-14.4). 
+ru: В настоящих рекомендациях приставки «гидро» и «дегидро» являются &(detachable [prefix]|tv*), но не включены в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) префиксов (см. P-14.4; см. также P-15.1.5.2, P-31.2, P-58.2), 
+что является изменением по сравнению с рекомендациями в более ранних изданиях (ссылки 1, 2). Когда они используются вместе 
+с окончаниями «ен» и «ин» для обозначения &(parent hydride|ro*), они регулируются по принципу наименьшего локанта 
+в соответствии с нумерацией &(parent hydride|ro) и после того, как приоритет будет отдан &(indicated hydrogen|da), 
+«&(added indicated hydrogen|da)» и суффиксам, если они присутствуют, как указано в общих правилах нумерации (P-14.4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q@n(3,80)_qq<-COOH>@n(2,-70)_q@n(1,-80)_q>#
+_pp7@n(4,80)_p7@n(5,130)_p7@n(6,180)_p7<_(a-64.3)Br>@n(7,-80)_pp7_p7
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal characteristic group:
+ru: Основная &(characteristic group):
+
+@cell
+–COOH
+
+@cell
+en: carboxylic acid
+ru: карбоновая кислота
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q@n(3,80)_qq@n(2,0)_q@n(1,-80)_qq>_pp7@n(4,80)_p7@n(5,130)_pp7@n(6,180)_p7@n(7,-130)_pp7@n(8,-80)_p7
+$>
+
+@cell
+en: azulene
+ru: азулен
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q@n(3,80)_qq@n(2,-70)<-COOH>_q@n(1,-80)_qq>_pp7@n(4,80)_p7@n(5,130)_pp7@n(6,180)_p7@n(7,-130)_pp7@n(8,-80)_p7
+$>
+
+@cell
+en: azulene-2-carboxylic acid
+ru: азулен-2-карбоновая кислота
+
+@cell
+en: Saturation prefix
+ru: Префикс насыщенности
+
+@cell
+–H
+
+@cell
+en: dihydro
+ru: дигидро
+
+@cell
+en: Substituent prefix
+ru: &(Substituent prefix)
+
+@cell
+–Br
+
+@cell
+en: bromo
+ru: бром
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+7-bromo-5,6-dihydroazulene-2-carboxylic acid (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+7-бром-5,6-дигидроазулен-2-карбоновая кислота (PIN)
+
+#P-59.2.3.3+
+en: Mancude ketones, imines, and other characteristic groups as well as free valences, such as ‘-ylidene’ are 
+named by the ‘added indicated hydrogen’ method. If there is a choice, indicated hydrogen atoms have priority for low 
+locants, then suffixes, ‘added indicated hydrogen’ atoms, and finally hydro prefixes, in that order. 
+ru: &(Mancude)-кетоны, имины и другие &(characteristic group|*), а также свободные валентности, такие как «-илиден», 
+именуются методом «&(added indicated hydrogen|ro)». При наличии выбора &(indicated hydrogen atom|*) имеют приоритет 
+для меньших локантов, затем суффиксы, атомы «&(added indicated hydrogen|ro)» и, наконец, префиксы «гидро», в указанном порядке.
+
+@Examples
+en: Example 1:
+ru: Пример 1:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/@n(5,90)`\@n(6,150)`|@n(7,-150)/@n(8,-90)\//@n(1,-90)\/O`/@n(2,40)|`//`\@n(4a,90,.5)
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Principal characteristic group:
+ru: Основная &(characteristic group):
+
+@cell
+=O
+
+@cell
+en: one
+ru: он
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\@n(8a,-90,.55)//@n(1,-90)\@n(2,-30)||@n(3,30)`/@n(4,90)`\\@n(4a,90,.5)
+$>
+
+@cell
+en: naphthalene
+ru: нафталин
+
+@cell
+en: Functionalized parent hydride
+ru: &(Functionalized parent hydride)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\//@n(1,-90)\<//O>@n(2,40)|`//`\@n(4a,90,.5)
+$>
+
+@cell
+en: naphthalen-<%d%>-one
+ru: нафталин-<%d%>-он
+%d:2(4a_H_)
+
+@cell
+en: Saturation prefix
+ru: Префикс насыщенности
+
+@cell
+**4** –H
+
+@cell
+en: tetrahydro
+ru: тетрагидро
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+5,6,7,8-tetrahydronaphthalen-2(4a_H_)-one (PIN) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+5,6,7,8-тетрагидронафталин-2(4a_H_)-он (PIN)
+
+@Examples
+en: Example 2: 
+ru: Пример 2:
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.55,~){}@;
+||`/`\\`|//\/N<_(y-.5)H>@n(1,90,.6)\@n(2,150)<//@w()>|@n(3,30)`/@n(4,90)`\
+$>
+
+@End
+
+@Examples -- 3 .left-aligned-cells
+
+@cell colspan=3
+en: Analysis
+ru: Анализ
+
+@cell
+en: Free valences:
+ru: Свободные валентности:
+
+@cell
+R=
+
+@cell
+en: ylidene
+ru: илиден
+
+@cell
+en: Parent hydride:
+ru: &(Parent hydride):
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/@n(5,90)`\\@n(6,150)`|@n(7,-150)//@n(8,-90)\@n(8a,-90,.5)//N@n(1,-90,.55)\@n(2,-30)||@n(3,30)`/@n(4,90)`\\@n(4a,90,.5)
+$>
+
+@cell
+en: quinoline
+ru: хинолин
+
+@cell
+en: Parent hydride with  <br>
+free valences
+ru: &(Parent hydride) со <br>
+свободными валентностями
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||`/`\\`|//\/N<_(y-.5)H>@n(1,90,.55)\@n(2,150)<//@w()>|`//`\
+$>
+
+@cell
+en: quinolin-2(1_H_)-ylidene
+ru: хинолин-2(1_H_)-илиден
+
+@End
+
+@p .centred
+en: Together with other rules, this analysis leads to the preferred IUPAC name:  <br>
+3,4-dihydroquinolin-2(1_H_)-ylidene (preferred prefix) 
+ru: В сочетании с другими правилами этот анализ приводит к предпочтительному названию ИЮПАК: <br>
+3,4-дигидрохинолин-2(1_H_)-илиден (предпочтительный префикс)
+
+
+
 
 #P-59.2.4
 en: Seniority of ‘ene’ and ‘yne’ endings and hydro prefixes over detachable prefixes 

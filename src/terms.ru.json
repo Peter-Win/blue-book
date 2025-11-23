@@ -235,6 +235,7 @@
   "functional suffix|tv*": "функциональными суффиксами",
 
   "functionalized parent hydride": "функционализированный исходный гидрид",
+  "functionalized [hydride]": "функционализированный",
 
   "fused ring name": "название конденсированных колец",
 
@@ -254,6 +255,7 @@
   "fused system|*": "конденсированные системы",
   "fused system|ro*": "конденсированных систем",
   "fused system|tv*": "конденсированными системами",
+  "fused system|pr*": "конденсированных системах",
   "fused [system]|ro": "конденсированной",
 
 
