@@ -213,6 +213,8 @@
   "detachable [prefix]|*": "отделяемые",
   "detachable [prefix]|ro*": "отделяемых",
   "detachable [prefix]|tv*": "отделяемыми",
+  "detachable [prefix]|da*": "отделяемым",
+
 
   "functional class name": "название по функциональному классу",
   "functional class name|ro": "названия по функциональному классу",
@@ -632,6 +634,7 @@
   "substituent|*": "заместители",
   "substituent|ro*": "заместителей",
   "substituent|da*": "заместителям",
+  "substituent|tv*": "заместителями",
   "substituent|pr*": "заместителях",
 
 

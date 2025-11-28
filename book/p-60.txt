@@ -1,0 +1,155 @@
+#P6
+en: Chapter 6. Applications to specific classes of compounds
+ru: Глава 6. Применение к отдельным классам соединений
+
+@Content
+
+#P-60
+en: Introduction 
+ru: Введение
+
+en: The recommendations in this Chapter illustrate how the general principles and specific rules set out in the preceding 
+sections are applied to various types of compounds. 
+ru: Рекомендации в этой главе иллюстрируют, как общие принципы и конкретные правила, изложенные в предыдущих разделах, 
+применяются к различным типам соединений.
+
+#P-60.1 
+en: Topical outline
+ru: Тематический план
+
+en: Section P-61 describes hydrocarbons that are named substitutively only by the prefix mode. It includes and exemplifies 
+compounds formed by substituting parent hydrides by substituents derived from other parent hydrides and by 
+characteristic groups that are always used as prefixes when applied to hydrocarbons. 
+ru: В разделе P-61 описываются углеводороды, названия которых замещаются только префиксным способом. Он включает и 
+иллюстрирует соединения, образованные замещением &(parent hydride|ro*) &(substituent|tv*), полученными из других 
+&(parent hydride|ro*), и &(characteristic group|tv*), которые всегда используются в качестве префиксов применительно 
+к углеводородам.
+
+en: Sections P-62 to P-66 include compounds that are named, in substitutive nomenclature, by suffixes and prefixes, and by 
+means of other types of nomenclature. The traditional classes from acids to imines are described (see P-41). 
+ru: Разделы P-62 – P-66 включают соединения, названия которых в &(substitutive nomenclature|pr) определяются суффиксами и 
+префиксами, а также другими видами номенклатуры. Описаны традиционные классы от кислот до иминов (см. P-41).
+
+en: Section P-67 describes nomenclature of organic derivatives of noncarbon acids and their functional replacement 
+analogues. 
+ru: В разделе P-67 описана номенклатура органических производных неуглеродных кислот и их функционально замещенных аналогов.
+
+en: Section P-68 covers the nomenclature of organic compounds of the Groups 13, 14, 15, 16, and 17 elements not included 
+in Sections P-62 to P-67. 
+ru: Раздел P-68 охватывает номенклатуру органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных 
+в разделы P-62 – P-67.
+
+en: Section P-69 describes nomenclature for organometallic compounds.
+ru: В разделе P-69 описана номенклатура металлоорганических соединений.
+
+#P-60.2
+en: Presentation of names 
+ru: Представление имен
+
+en: Names described in this Chapter are presented in a systematic way. General methods recommended to generate IUPAC 
+preferred names are all described in a simplified way with reference to the following full descriptions: 
+ru: Названия, описанные в этой главе, представлены в систематическом порядке. Общие методы, рекомендуемые для получения 
+предпочтительных названий ИЮПАК, описаны в упрощенном виде со ссылкой на следующие полные описания:
+
+@List
+
+@item
+en:  names formed substitutively using suffixes follow the general method described in P-15.1. Substitutive names 
+are formed by adding a suffix such as ‘al’ ‘ol’, ‘yl’, ‘carbaldehyde’, ‘carboxylic acid’, etc., to the name of a 
+parent hydride, with elision of the final letter ‘e’ of the parent hydride, if any, before ‘a’, ‘i’, ‘o’, ‘u’, and ‘y’; 
+ru: Названия, образованные заместительным способом с использованием суффиксов, следуют общему методу, описанному в P-15.1. 
+&(Substitutive name|*) образуются путем добавления суффикса, например, «ал», «ол», «ил», «карбальдегид», «карбоновая кислота» 
+и т. д., к названию &(parent hydride|ro) с выпадением последней буквы «е» исходного гидрида, если таковая имеется, 
+перед «а», «и», «о» и «у»;
+
+@item
+en: names formed substitutively by using prefixes follow the general method. Substitutive names are formed by 
+adding a prefix such as amino, hydroxy, etc., to the name of the parent hydride or parent compound; in order to 
+preserve their formal identity, there is no elision of the last letter of these prefixes; 
+ru: Названия, образованные заместительным путём с помощью префиксов, следуют общему методу. &(Substitutive name|*) образуются 
+путём добавления префикса, например, амино, гидрокси и т. д., к названию &(parent hydride|ro) или &(parent compound|ro); 
+для сохранения их формальной идентичности последняя буква этих префиксов не выпадает;
+
+@item
+en: names formed by functional class nomenclature follow the general method described in P-15.2. Functional 
+class names are formed by citing the name of the class, such as alcohol, oxide, ketone, etc., preceded by the 
+name of the substituent groups cited in alphabetical order and separated by a space, if required;
+ru: Названия, образованные по &(functional class nomenclature|pr), следуют общему методу, описанному в P-15.2. 
+&(Functional class name|*) образуются путем указания названия класса, например, спирт, оксид, кетон и т. д., которому 
+предшествуют названия &(substituent group|ro*), перечисленных в алфавитном порядке и разделенных пробелом, если необходимо;
+
+@item
+en: names formed by skeletal replacement (‘a’) nomenclature follow the methodology described in P-15.4;
+ru: названия, образованные номенклатурой &(skeletal replacement a|ro), описанной в P-15.4;
+
+@item
+en:  functional parents are discussed in terms of preferred names and names that can be used in general 
+nomenclature. 
+ru: &(functional parent|*) обсуждаются с точки зрения предпочтительных имен и имен, которые могут быть использованы в 
+общей номенклатуре.
+
+@End
+
+en: The method to generate preferred IUPAC names is indicated by a phrase such as ‘This method generates preferred 
+IUPAC names’ or ‘Method (1) leads to preferred IUPAC names’. The abbreviation ‘PIN’ is placed after names that are 
+‘preferred IUPAC names’. Names that were recommended in the past but are not included in these recommendations 
+are described parenthetically by the phrase ‘no longer recommended’. For example, the prefix ‘methylene’ is ‘no longer 
+recommended’ in IUPAC nomenclature to designate the <%f%> group.
+ru: Метод генерации предпочтительных названий ИЮПАК обозначается фразой, например, «Этот метод генерирует предпочтительные 
+названия ИЮПАК» или «Метод (1) приводит к предпочтительным названиям ИЮПАК». Аббревиатура «PIN» добавляется после названий, 
+которые являются «предпочтительными названиями ИЮПАК». Названия, которые были рекомендованы в прошлом, но не включены в 
+настоящие рекомендации, описываются в скобках фразой «больше не рекомендуется». Например, префикс «метилен» «больше не 
+рекомендуется» в номенклатуре ИЮПАК для обозначения группы <%f%>.
+%f: <$ {}=CH2 $>
+
+en: Names preceded by ‘not’ are names that are not constructed in accordance with the rule as described in this Chapter. 
+Thus, they are ‘incorrect names’. As they are not alternatives to preferred IUPAC names, they must not be used. For 
+example, the name ‘ethanolamine’, which is still widely used, is badly constructed because of the presence of two 
+suffixes; it is not an alternative to the preferred IUPAC name, ‘2-aminoethan-1-ol’. 
+ru: Названия, которым предшествует «не», не соответствуют правилу, описанному в данной главе. Таким образом, они являются 
+«неправильными названиями». Поскольку они не являются альтернативами предпочтительным названиям ИЮПАК, их использование запрещено. 
+Например, название «этаноламин», которое до сих пор широко используется, построено неудачно из-за наличия двух суффиксов; 
+оно не является альтернативой предпочтительному названию ИЮПАК «2-аминоэтан-1-ол».
+
+
+#P-61
+en: Substitutive nomenclature: prefix mode 
+ru: &(Substitutive nomenclature): префиксный режим
+
+
+
+#P-62
+en: Amines and imines 
+ru: Амины и имины
+
+#P-63
+en: Hydroxy compounds, ethers, peroxols, peroxides and chalcogen analogues 
+ru: Гидроксисоединения, эфиры, пероксолы, пероксиды и аналоги халькогенов
+
+#P-64
+en: Ketones, pseudoketones and heterones, and chalcogen analogues 
+ru: Кетоны, псевдокетоны и гетероны, а также аналоги халькогенов
+
+#P-65
+en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
+ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+
+#P-66
+en: Amides, imides, hydrazides, nitriles, and aldehydes 
+ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений
