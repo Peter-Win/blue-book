@@ -7,6 +7,8 @@
   "added indicated hydrogen|tv": "добавленным указанным водородом",
   "added indicated hydrogen|pr": "добавленном указанном водороде",
 
+  "additive operation|ro": "аддитивной операции",
+
   "amplificant": "амплификант",
   "amplificant|ro": "амплификанта",
   "amplificant|*": "амплификанты",
@@ -54,6 +56,7 @@
   "bonding number": "число связей",
   "bonding number|ro": "числа связей",
   "bonding number|tv": "числом связей",
+  "bonding number|pr": "числе связей",
   "bonding number|tv*": "числами связей",
 
   "bridge prefix": "мостиковый префикс",
@@ -658,7 +661,7 @@
   "substituent group|pr*": "замещающих группах",
 
   "substituent prefix": "префикс-заместитель",
-  "substituent prefix|tv": "префиксами-заместителями",
+  "substituent prefix|tv": "префиксом-заместителем",
   "substituent prefix|*": "префиксы-заместители",
   "substituent prefix|ro*": "префиксов-заместителей",
   "substituent prefix|tv*": "префиксами-заместителями",
@@ -685,8 +688,13 @@
   "substitutive [nomenclature]|ro": "заместительной",
   "substitutive [nomenclature]|vi": "заместительную",
 
+  "substitutive operation|pr": "замещающей операции",
+
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",
+  "substitutive prefix|ro*": "заместительных префиксов",
+
+  "substitution operation|da": "операции замещения",
 
   "substitution pattern": "шаблон замещения",
   "substitution pattern|ro*": "шаблонов замещения",

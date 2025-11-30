@@ -116,6 +116,775 @@ ru: Названия, которым предшествует «не», не с�
 en: Substitutive nomenclature: prefix mode 
 ru: &(Substitutive nomenclature): префиксный режим
 
+@Content
+
+#P-61.0
+en: Introduction 
+ru: Введение
+
+en: This subsection describes the names of compounds formed by substitutive nomenclature that includes only prefixes 
+denoting substituent groups and/or characteristic groups. These prefixes are detachable and cited in a name in 
+alphanumerical order. 
+ru: В этом подразделе описываются названия соединений, образованные по &(substitutive nomenclature|pr), включающей только 
+префиксы, обозначающие &(substituent group|*) и/или &(characteristic group|*). Эти префиксы являются &(detachable [prefix]|tv*) 
+и указываются в названии в алфавитно-цифровом порядке.
+
+en: Hydrocarbyl groups and their corresponding polyvalent groups (substituent groups derived from hydrocarbon parent 
+hydrides) are included in this subsection because they occupy the penultimate rank in the seniority order of classes (see 
+P-41) and thus are treated as prefixes in presence of a higher class. A similar situation prevails for halogen compounds 
+in their standard bonding number, which are at the bottom in the order of seniority of classes (see P-41).
+ru: Гидрокарбильные группы и соответствующие им поливалентные группы (&(substituent group|*), полученные из углеводородных 
+&(parent hydride|ro*)) включены в этот подраздел, поскольку они занимают предпоследнее место в порядке старшинства классов 
+(см. P-41) и, таким образом, рассматриваются как префиксы при наличии более высокого класса. Аналогичная ситуация наблюдается 
+для галогенных соединений в их стандартном числе связей, которые находятся внизу в порядке старшинства классов (см. P-41).
+
+en: Diazo compounds, nitro and nitroso compounds, azides, isocyanates, isocyanides, and fulminates/isofulminates are also 
+included in this Section. Ethers, peroxides, and acetals are not considered in this Section, but are treated at length in 
+association with hydroxy compounds and aldehydes (see P-63.2, P-63.3, and P-66.6.5, respectively). 
+ru: Диазосоединения, нитро- и нитрозосоединения, азиды, изоцианаты, изоцианиды и фульминаты/изофульминаты также включены 
+в этот раздел. Простые эфиры, пероксиды и ацетали в этом разделе не рассматриваются, но подробно рассматриваются в связи с 
+гидроксисоединениями и альдегидами (см. P-63.2, P-63.3 и P-66.6.5 соответственно).
+
+en: The characteristic groups described here (see Table 5.1) are referred to as ‘characteristic groups denoted, in substitutive 
+nomenclature, only as prefixes’ (see R-4.1, ref. 2). This statement must not be interpreted as a must for always using 
+these characteristic groups as prefixes. Substitutive nomenclature is based on a seniority system based on classes. The 
+senior class must be determined first (see P-41). 
+ru: Описанные здесь &(characteristic group|*) (см. &[таблицу 5.1]) называются «&(characteristic group|tv*), обозначаемыми 
+в &(substitutive nomenclature|pr) только префиксами» (см. R-4.1, ссылка 2). Это утверждение не следует толковать как 
+обязательное для постоянного использования этих &(characteristic group|ro*) в качестве префиксов. &(Substitutive nomenclature) 
+основана на системе старшинства, основанной на классах. Старший класс должен быть определен первым (см. P-41).
+
+#P-61.1
+en: General methodology 
+ru: Общая методология
+
+en: Substitutive nomenclature is based on the substitutive operation involving the exchange of one or more hydrogen atoms 
+of a parent hydride or parent compound for another atom or group. This process is expressed by either a prefix or suffix 
+denoting the atom or group being introduced. Substitution is not possible when no hydrogen atoms are present. 
+However, if hydrogen atoms are added to a structure by an additive operation (to a double bond, for example), 
+substitution then becomes possible. The formal addition of hydrogen atoms must precede the substitution operation 
+when atoms or groups denoted by prefixes are involved; thus, they are cited after the alphabetized prefixes. 
+ru: &(Substitutive nomenclature) основана на &(substitutive operation|pr), включающей обмен одного или нескольких атомов 
+водорода &(parent hydride|ro) или &(parent compound|ro) на другой атом или группу. Этот процесс обозначается префиксом 
+или суффиксом, обозначающим вводимый атом или группу. Замещение невозможно при отсутствии атомов водорода. Однако, если атомы 
+водорода добавляются к структуре посредством &(additive operation|ro) (например, к двойной связи), замещение становится 
+возможным. Формальное добавление атомов водорода должно предшествовать &(substitution operation|da), если речь идёт об атомах 
+или группах, обозначенных префиксами; поэтому они указываются после префиксов в алфавитном порядке.
+
+@p .framed
+en: This is a change from previous recommendations. In these recommendations the prefix ‘hydro’ is detachable but not 
+alphabetized with other substituent prefixes. In names, it is cited immediately before the name of the parent hydride, 
+after alphabetized prefixes and before nondetachable prefixes. 
+ru: Это изменение по сравнению с предыдущими рекомендациями. В этих рекомендациях префикс «гидро» &(detachable [prefix]), 
+но не располагается в алфавитном порядке вместе с другими &(substituent prefix|tv*). В названиях он &(cited) непосредственно 
+перед названием &(parent hydride|ro), после префиксов в алфавитном порядке и перед &(nondetachable [prefix]|tv*) префиксами.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\@n(8a,-90,.55)/@n(1,-90)\\|`//`\@n(4a,90,.5)
+$>
+
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\\`|//\<`|H>@n(8a,20)/@n(1,-90)\\|`//`\@n(4a,-25)|H
+$>
+
+en: 4a,8a-dihydronaphthalene (PIN)
+ru: 4а,8а-дигидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\\`|//\<`|H>@n(8a,20)/@n(1,-90)\\|`//`\@n(4a,-25)|Br
+$>
+
+en: 4a-bromo-4a,8a-dihydronaphthalene (PIN)
+ru: 4а-бром-4а,8а-дигидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\\`|//\<`|Cl>@n(8a,20)/@n(1,-90)\\|`//`\@n(4a,-25)|Br
+$>
+
+en: 4a-bromo-8a-chloro-4a,8a-dihydronaphthalene (PIN)
+ru: 4а-бром-8а-хлор-4а,8а-дигидронафталин (PIN)
+
+@End
+
+en: The seniority order of parent structures, the principal chain, and the senior ring system are chosen in accordance with 
+Rule P-44. 
+ru: Порядок старшинства &(parent structure|ro*), основная цепочка и система старшего кольца выбираются в соответствии 
+с Правилом P-44.
+
+en: When there is a choice for numbering, the general rule described in P-14.4 is applied. The starting point and the 
+direction of numbering of a compound are chosen so as to give lowest locants to the following structural features (if 
+present) considered successively in the order given until a decision is reached:
+ru: При наличии выбора нумерации применяется общее правило, описанное в пункте P-14.4. Начальная точка и направление 
+нумерации соединения выбираются таким образом, чтобы наименьшие локанты соответствовали следующим структурным признакам 
+(если таковые имеются), рассматриваемым последовательно в указанном порядке до принятия решения:
+
+@List
+
+@item
+en: fixed numbering, as for naphthalene, bicyclo[2.2.2]octane, etc.;
+ru: фиксированная нумерация, как для нафталина, бицикло[2.2.2]октана и т. д.;
+
+@item
+en:  heteroatoms in heterocycles and in acyclic parent structures;
+ru: гетероатомы в гетероциклах и в ациклических исходных структурах;
+
+@End
+
+@p .framed
+en: This is a change for acyclic parent structures. Heteroatoms in chains are now considered as part of the parent 
+hydride and, as such, have seniority over suffixes for numbering. 
+ru: Это изменение касается ациклических &(parent structure|ro*). Гетероатомы в цепях теперь рассматриваются как часть 
+&(parent hydride) и, как таковые, имеют приоритет над суффиксами при нумерации.
+
+@List c
+
+@item
+en:  indicated hydrogen [for unsubstituted compounds; a higher locant may be needed at another position to provide 
+for a substituent suffix in accordance with structural feature (d)]; 
+ru: &(indicated hydrogen) [для незамещенных соединений; больший локант может потребоваться в другом положении для обеспечения 
+суффикса заместителя в соответствии со структурной особенностью (d)];
+
+@item
+en:  principal group named as suffix; 
+ru: основная группа названа как суффикс;
+
+@item
+en: added indicated hydrogen (consistent with the structure of the compound and in accordance with further 
+substitution); 
+ru: &(added indicated hydrogen) (в соответствии со структурой соединения и в соответствии с дальнейшим замещением);
+
+@item
+en: saturation/unsaturation (‘hydro’/‘dehydro’ prefixes) or unsaturation (‘ene’/‘yne’ endings); 
+ru: насыщенность/ненасыщенность (префиксы «гидро»/«дегидро») или ненасыщенность (окончания «ен»/«ин»);
+
+@End
+
+@p .framed
+en: In acyclic parent structures the order of seniority between unsaturation and length of chain given in earlier 
+recommendations is reversed. Thus, the first criterion to be considered in choosing a preferred parent acyclic chain 
+is the length of the chain; unsaturation is now the second criterion. 
+ru: В ациклических &(parent structure|pr*) порядок старшинства между ненасыщенностью и длиной цепи, указанный в 
+предыдущих рекомендациях, обратен. Таким образом, первым критерием, который следует учитывать при выборе предпочтительной 
+&(parent [chain]|ro) ациклической цепи, является длина цепи; ненасыщенность теперь является вторым критерием.
+
+@List g
+
+@item
+en: substituents named as prefixes (low locants are allocated for substituents regardless of kind; then, if necessary, in 
+the order of citation in the name). 
+ru: &(substituent|*), названные в виде префиксов (меньшие локанты присваиваются &(substituent|da*) независимо от вида; 
+далее, при необходимости, в порядке &(citation|ro) в названии).
+
+@End
+
+
+#P-61.2
+en:  Hydrocarbyl groups and corresponding di- and polyvalent groups 
+ru: Гидрокарбильные группы и соответствующие им ди- и поливалентные группы
+
+en: Only substituted hydrocarbons are discussed here. For substitution on other parent hydrides see P-68.1 for Group 13,  
+P-68.2 for Group 14, P-68.3 for Group 15, P-68.4 for Group 16, and P-68.5 for Group 17.
+ru: Здесь рассматриваются только замещенные углеводороды. О замещении в других &(parent hydride|pr*) см. P-68.1 для группы 13, 
+P-68.2 для группы 14, P-68.3 для группы 15, P-68.4 для группы 16 и P-68.5 для группы 17.
+
+en: Substituted hydrocarbons for which a parent hydride name is not available (see Chapter P-2) have a name that consists 
+of a parent hydride name and appropriate substitutive prefixes derived from other parent hydrides. 
+ru: Замещенные углеводороды, для которых название &(parent hydride|ro) отсутствует (см. главу P-2), имеют название, 
+состоящее из названия &(parent hydride|ro) и соответствующих &(substitutive prefix|ro*), полученных от других &(parent hydride|ro*).
+
+#P-61.2.1
+en: Acyclic hydrocarbons
+ru: Ациклические углеводороды 
+
+en: Names of substituted acyclic hydrocarbons are formed substitutively by selecting the principal chain in accordance with 
+rule P-44. This rule has been modified from previous rules; seniority is now given to the length of the chain rather than 
+to unsaturation (see P-44.3).
+ru: Названия замещённых ациклических углеводородов образуются заместительным путём выбора главной цепи в соответствии 
+с правилом P-44. Это правило было изменено по сравнению с предыдущими правилами; теперь приоритет отдаётся длине цепи, 
+а не ненасыщенности (см. P-44.3).
+
+@p .framed
+en: In a change from previous recomendations, the order of seniority between unsaturation and length of chain given in 
+earlier recommendations is reversed. Thus, the first criterion to be considered in choosing a preferred parent acyclic 
+chain is the length of the chain; unsaturation is now the second criterion. 
+ru: В отличие от предыдущих рекомендаций, порядок старшинства между ненасыщенностью и длиной цепи, указанный в предыдущих 
+рекомендациях, изменился на противоположный. Таким образом, первым критерием, который следует учитывать при выборе 
+предпочтительной родительской ациклической цепи, является длина цепи; ненасыщенность теперь является вторым критерием.
+
+en: The name ‘isoprene’ is retained, but no substitution is allowed. (see P-31.1.2.1). The names ‘isobutane’, ‘isopentane’ 
+and ‘neopentane’ are no longer recommended. 
+ru: Название «изопрен» сохраняется, но замена не допускается (см. P-31.1.2.1). Названия «изобутан», «изопентан» и 
+«неопентан» больше не рекомендуются.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH@n(2,90)<`|CH3>-CH3@n(1)
+$>
+
+en: 2-methylpropane (PIN)  <br>
+(not isobutane)
+ru: 2-метилпропан (PIN) <br>
+(не изобутан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH@n(2,90)<`|CH3>-CH3@n(1)
+$>
+
+en: 2-methylbutane (PIN)  <br>
+(not isopentane)
+ru: 2-метилбутан (PIN) <br>
+(не изопентан)
+
+@cell
+<$ CH3-C-CH3; CH3|#C|CH3 $>
+
+en: 2,2-dimethylpropane (PIN)  <br>
+(not neopentane) 
+ru: 2,2-диметилпропан (PIN) <br>
+(не неопентан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH2@n(4)-C@n(3,90)<`||CH2>-CH2@n(2,90)-CH3@n(1)
+$>
+
+en: 3-methylidenehexane (PIN)  <br>
+(not 2-ethylpent-1-ene; the longer chain now supersedes  <br>
+a shorter unsaturated chain; see P-44.3)
+ru: 3-метилиденгексан (PIN) <br>
+(не 2-этилпент-1-ен; более длинная цепь теперь вытесняет <br>
+более короткую ненасыщенную цепь; см. P-44.3)
+
+@End
+
+#P-61.2.2
+en: Cyclic hydrocarbons
+ru: Циклические углеводороды
+
+en: Names of rings or cyclic systems substituted by rings or ring systems are formed in accordance with the seniority order 
+of rings and ring systems (see P-44.2.1 and P-44.4.1). 
+ru: Названия колец или циклических систем, заменяемых кольцами или кольцевыми системами, образуются в соответствии с 
+порядком старшинства колец и кольцевых систем (см. P-44.2.1 и P-44.4.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/\\|`//`\`||`-|`//`\`/`\\`|//\|r`|/@n(1)\\@n(2,-60)
+$>
+
+en: 2-phenylnaphthalene (PIN)  <br>
+(naphthalene, having two rings, is senior to benzene, that has only one ring; see P-44.2.1) 
+ru: 2-фенилнафталин (PIN) <br>
+(нафталин, имеющий два кольца, старше бензола, имеющего только одно кольцо; см. P-44.2.1)
+
+@cell
+<$ `/`-`\/-\-_(A45)_q4_q4_q4 $>
+
+en: cyclobutylcyclohexane (PIN)  <br>
+(cyclohexane has more ring atoms than cyclobutane; see P-44.2.1) 
+ru: циклобутилциклогексан (PIN) <br>
+(циклогексан имеет больше атомов в кольце, чем циклобутан; см. P-44.2.1)
+
+@cell
+<$ |_q7_q7_q7<_q7_q7_q7>-/=\`//`-`\\ $>
+
+en: phenylcycloheptane (PIN)  <br>
+(cycloheptane has more ring atoms than benzene; see P-44.2.1)
+ru: фенилциклогептан (PIN) <br>
+(циклогептан имеет больше атомов в кольце, чем бензол; см. P-44.2.1)
+
+@cell
+<$ `//`-`\\/=\-/-\`/`-`\ $>
+
+en: cyclohexylbenzene (PIN)  <br>
+(benzene has more multiple bonds than cyclohexane; see P-44.4.1) 
+ru: циклогексилбензол (PIN) <br>
+(бензол имеет больше кратных связей, чем циклогексан; см. P-44.4.1)
+
+@End
+
+#P-61.2.3
+en: Hydrocarbons consisting of rings and chains.
+ru: Углеводороды, состоящие из колец и цепей.
+
+en: Names of cyclic hydrocarbons substituted by chains are formed by substituting chains, saturated or unsaturated, into 
+rings (see P-44.1.2.2). This rule must be strictly applied in the context of preferred IUPAC names. The name ‘toluene’ 
+is retained with no substitution allowed for preferred IUPAC names, but substitution is allowed on both the ring and 
+side chain with certain restrictions (see P-22.1.3) for general nomenclature. The name ‘xylene’ is a preferred IUPAC 
+name, but cannot be substituted and the name ‘mesitylene’ can only be used in general nomenclature and cannot be 
+substituted.
+ru: Названия циклических углеводородов, замещенных цепями, образуются путем замены цепей, насыщенных или ненасыщенных, 
+на кольца (см. P-44.1.2.2). Это правило должно строго применяться в контексте предпочтительных названий ИЮПАК. Название 
+«толуол» сохраняется без возможности замены для предпочтительных названий ИЮПАК, но допускается замена как в кольце, 
+так и в боковой цепи с определенными ограничениями (см. P-22.1.3) для общей номенклатуры. Название «ксилол» является 
+предпочтительным названием ИЮПАК, но не может быть заменено, а название «мезитилен» может использоваться только в общей 
+номенклатуре и не может быть заменено.
+
+en: The names ‘styrene’, ‘stilbene’ and ‘fulvene’ are retained only for general nomenclature. Styrene and stilbene can be 
+ring substituted as prescribed in P-31.1.3.4. There is no substitution allowed for ‘fulvene’ (see P-31.1.3.4).
+ru: Названия «стирол», «стильбен» и «фульвен» сохранены только для общей номенклатуры. Стирол и стильбен могут быть 
+замещены в цикле, как предписано в P-31.1.3.4. Замена для «фульвена» не допускается (см. P-31.1.3.4).
+
+@p .framed
+en: In the 1993 Guide (ref. 2), these parent hydrides were retained but only limited substitution was allowed. 
+ru: В Руководстве 1993 года (ссылка 2) эти &(parent hydride|*) были сохранены, но допускалась лишь ограниченная замена.
+
+@Examples
+
+@cell
+<$ |<\CH3>`//`\`||/\\/CH3 $>
+
+en: 1,2-xylene (PIN)  <br>
+1,2-dimethylbenzene  <br>
+(not _o_-methyltoluene,  <br>
+substitution of toluene by additional methyl groups is not allowed: see P-22.1.3)
+ru: 1,2-ксилол (PIN) <br>
+1,2-диметилбензол <br>
+(не _о_-метилтолуол, <br>
+замена толуола дополнительными метильными группами не допускается: см. P-22.1.3)
+
+@cell
+<$ CH2=CH_(x1.3)//-\\<`/`=`\>-CH=CH2 $>
+
+en: 1,4-diethenylbenzene (PIN)  <br>
+1,4-divinylbenzene
+ru: 1,4-диэтенилбензол (PIN) <br>
+1,4-дивинилбензол
+
+@cell
+<$ |`/`\`|/\_q6CH2-[CH2]8-CH3 $>
+
+en: decylcyclohexane (PIN)  <br>
+(ring preferred to chain, see P-52.2.8) <br>
+1-cyclohexyldecane
+ru: децилциклогексан (PIN) <br>
+(цикл предпочтительнее цепи, см. P-52.2.8) <br>
+1-циклогексилдекан
+
+@cell
+<$ |`/`\`|/\_q6CH2-CH=CH2 $>
+
+en: (prop-2-en-1-yl)cyclohexane (PIN)  <br>
+(ring preferred to chain, see P-52.2.8)  <br>
+3-cyclohexylprop-1-ene <br>
+allylcyclohexane
+ru: (проп-2-ен-1-ил)циклогексан (PIN) <br>
+(кольцо предпочтительнее цепи, см. P-52.2.8) <br>
+3-циклогексилпроп-1-ен <br>
+аллилциклогексан
+
+@cell
+<$ CH3-[CH2]9_(h){}/`|/<`|[CH2]9-CH3>\|<`/`\>\{}_(h)[CH2]9-CH3 $>
+
+en: 1,3,5-tri(decyl)cyclohexane (PIN)  <br>
+(not 1,3,5-tris(decyl)cyclohexane) 
+ru: 1,3,5-три(децил)циклогексан (PIN) <br>
+(не 1,3,5-трис(децил)циклогексан)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,-40)<\C(CH3)3>`//`\`||/\\@n(1)/C(CH3)3
+$>
+
+en: 1,2-di-_tert_-butylbenzene (PIN) 
+ru: 1,2-ди-_трет_-бутилбензол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C\HC<`/H3C>-@n(4,-120)/-\<`/`-`\>@n(1,-60)-CH<\CH3>/CH3
+$>
+
+en: 1,4-di(propan-2-yl)cyclohexane (PIN) 
+ru: 1,4-ди(пропан-2-ил)циклогексан (PIN)
+
+@cell
+<$ \`/`-`\/-/CH2-C<`||CH2>-C<||CH2>-CH2-CH<`|CH3>-CH3 $>
+
+en: (5-methyl-2,3-dimethylidenehexyl)cyclohexane (PIN)  <br>
+[not [2-methylidene-3-(2-methylpropyl)but-3-en-1-yl]cyclohexane;  <br>
+the longer chain is preferred to the shorter unsaturated chains, see P-44.3] 
+ru: (5-метил-2,3-диметилиденгексил)циклогексан (PIN) <br>
+[не [2-метилиден-3-(2-метилпропил)бут-3-ен-1-ил]циклогексан; <br>
+более длинная цепь предпочтительнее более коротких ненасыщенных цепей, см. P-44.3]
+
+@cell
+<$
+CH3-CH<|\||`/`\\`|//>-CH=CH_(x1.2)/-\\<`/`-`\>-CH3
+$>
+
+en: [4-(4-methylcyclohex-3-en-1-yl)but-3-en-2-yl]benzene [PIN; see P-44.3]  <br>
+{not [1-methyl-3-(4-methylcyclohex-3-en-1-yl)prop-2-en-1-yl]benzene;  <br>
+the longest chain is preferred to the shorter chains} 
+ru: [4-(4-метилциклогекс-3-ен-1-ил)бут-3-ен-2-ил]бензол [PIN; см. P-44.3] <br>
+{не [1-метил-3-(4-метилциклогекс-3-ен-1-ил)проп-2-ен-1-ил]бензол; <br>
+более длинная цепь предпочтительнее более коротких}
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\<_q6CH2-@:bb(q)CH2-CH2_(x1.5)@n(1&q,-115)/=\@n(4&q,-55)<-CH3>`//`-`\\@(')>|`//<|CH2-@bb('')>`\`||/`|CH2`|@bb()
+$>
+
+en: 1,1′,1′′-[benzene-1,2,4-triyltri(propane-3,1-diyl)]tris(4-methylbenzene) (PIN)  <br>
+(multiplicative name, numbering shown, see P-51.3)  <br>
+1,2,4-tris[3-(4-methylphenyl)propyl]benzene
+ru: 1,1′,1′′-[бензол-1,2,4-триилтри(пропан-3,1-диил)]трис(4-метилбензол) (PIN) <br>
+(мультипликативное название, нумерация указана, см. P-51.3) <br>
+1,2,4-трис[3-(4-метилфенил)пропил]бензол
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||_q@n(3,130)<_(a54)CH2>_qq_q@n(1,-80)_q
+$>
+
+en: 3-methyl-1_H_-indene (PIN) 
+ru: 3-метил-1_H_-инден (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/@n(5,30)<|CH3>`\\`|//\/@n(1,-90)\@n(2,-30)|`//`\
+$>
+
+en: 5-methyl-1,2-dihydronaphthalene (PIN)
+ru: 5-метил-1,2-дигидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C\CH<`/H3C>-{}_(h)/-\<`/`-`\>-|\\/\//`|`\\`/<||r>`\@n(1)`//@n(2,-120)
+$>
+
+en: 2-[4-(propan-2-yl)cyclohexyl]naphthalene (PIN)  <br>
+2-(4-isopropylcyclohexyl)naphthalene 
+ru: 2-[4-(пропан-2-ил)циклогексил]нафталин (PIN) <br>
+2-(4-изопропилциклогексил)нафталин
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`/`\\`|//\<|>//\||\@n(7)//\||<`/`\\@n(6,90)<`|>`/`\\`/`\`//|\\/<`||r>\//`|>\//\//@n(3,90)<\/\\/\\|`//`\<`|>`//`\`||>`|@n(2)<`\\`/<|>`\\`/>/\\/\//`|`\\`/<||r>`\`//|
+$>
+
+en: 2,3,6,7-tetra(naphthalen-2-yl)anthracene (PIN)
+ru: 2,3,6,7-тетра(нафталин-2-ил)антрацен (PIN)
+
+@End
+
+#P-61.2.4
+en: Structures containing heterocycles
+ru: Структуры, содержащие гетероциклы
+
+en: Names of heterocyclic rings or ring systems substituted by chains or rings or ring systems are formed in accordance 
+with the seniority order of rings or ring systems over chains (see P-44.1.2.2) and with the seniority order of rings and 
+ring systems (see P-44.2).
+ru: Названия гетероциклических колец или кольцевых систем, замещенных цепями или кольцами или кольцевыми системами, 
+образуются в соответствии с порядком старшинства колец или кольцевых систем по отношению к цепям (см. P-44.1.2.2) и с 
+порядком старшинства колец и кольцевых систем (см. P-44.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N@n(1,-90,.55)\\@n(2,30)_q6CH<`|CH3>-C<`||CH-CH3>-CH2-CH2-CH=C<`|CH3>-CH3
+$>
+
+en: 2-(3-ethylidene-7-methyloct-6-en-2-yl)pyridine (PIN)  <br>
+(preferred parent substituent prefix, see P-46.1)  <br>
+2-(2-ethylidene-1,6-dimethylhept-5-en-1-yl)pyridine
+ru: 2-(3-этилиден-7-метилокт-6-ен-2-ил)пиридин (PIN) <br>
+(предпочтительный префикс исходного заместителя, см. P-46.1) <br>
+2-(2-этилиден-1,6-диметилгепт-5-ен-1-ил)пиридин
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/|\||\||`/`\\`|</>`\\`|/l`/`\`||/\l`\`|//\||\@n(6)/N@n(1,,.55)\\@n(2)<|`//`\`||>/\\|`/||`/||\//`|<`\>//`|<`\\l>/`||`\<`/>`||`\`//|
+$>
+
+en: 2,6-bis(benzo[_a_]anthracen-1-yl)pyridine  <br>
+2,6-di(tetraphen-1-yl)pyridine (PIN) 
+ru: 2,6-бис(бензо[_a_]антрацен-1-ил)пиридин  <br>
+2,6-ди(тетрафен-1-ил)пиридин (PIN)
+
+@End
+
+
+#P-61.3
+en: Halogen compounds 
+ru: Галогеновые соединения
+
+en: Halogen compounds in which the halogen atom is in its standard bonding number are always expressed by prefixes in 
+substitutive nomenclature or, as the principal characteristic group or in functional class nomenclature as a separate 
+word. 
+ru: Галогенные соединения, в которых атом галогена находится в своем стандартном &(bonding number|pr), в 
+&(substitutive nomenclature|pr) всегда обозначаются префиксами или, как основная &(characteristic group), в 
+&(functional class nomenclature|pr) — отдельным словом.
+
+#P-61.3.1+
+en: Halogen compounds in which the halogen atom is in its standard bonding number are named in two ways: 
+
+#(1)
+en: by substitutive nomenclature, using the prefixes ‘bromo’, ‘chloro’, ‘fluoro’, and ‘iodo’ and appropriate 
+multiplicative prefixes, as required; 
+ru: по &(substitutive nomenclature|pr), используя префиксы «бром», «хлор», «фтор» и «йод» и соответствующие 
+мультипликативные префиксы, по мере необходимости;
+
+#(2)
+en:  by functional class nomenclature, in which names are formed by citing the name of the organic ‘groups’ 
+followed by the class name ‘fluoride’, ‘chloride’, ‘bromide’, or ‘iodide’, as a separate word, preceded, if 
+necessary, by a multiplicative prefix. Functional class names usually are used to denote simple structures, having 
+one kind of halogen, and are not used to name more complex structures. Additive names, such as stilbene 
+dibromide, are not recommended. 
+ru: по &(functional class nomenclature|pr), в которой названия образуются путём указания названия органических «групп» с 
+последующим указанием названия класса «фторид», «хлорид», «бромид» или «иодид» в виде отдельного слова, которому, при 
+необходимости, предшествует мультипликативный префикс. &(Functional class name|*) обычно используются для обозначения 
+простых структур, содержащих один вид галогена, и не используются для обозначения более сложных структур. 
+Аддитивные названия, такие как стильбендибромид, не рекомендуются.
+
+en: Method (1) leads to preferred IUPAC names (see P-51.1). 
+ru: Метод (1) приводит к предпочтительным названиям ИЮПАК (см. P-51.1).
+
+@Examples
+
+@cell
+<$ CH3-I $>
+
+en: iodomethane (PIN)  <br>
+methyl iodide 
+ru: йодметан (PIN) <br>
+метилйодид
+
+@cell
+<$ C6H5-CH2-Br $>
+
+en: (bromomethyl)benzene (PIN;  <br>
+no substitution on toluene)  <br>
+α-bromotoluene  <br>
+(for toluene substitution rules in general nomenclature; see P-22.1.3)  <br>
+benzyl bromide 
+ru: (бромметил)бензол (PIN; <br>
+без замещения толуолом) <br>
+α-бромтолуол <br>
+(правила замещения толуола в общей номенклатуре см. P-22.1.3) <br>
+бензилбромид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-C@n(2,-120)<`|Cl><|CH3>-CH3@n(3)
+$>
+
+en: 2-chloro-2-methylpropane (PIN)  <br>
+tert-butyl chloride 
+ru: 2-хлор-2-метилпропан (PIN) <br>
+_трет_-бутилхлорид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-CH2@n(1)-CH2@n(2)-Br
+$>
+
+en: 1,2-dibromoethane (PIN)  <br>
+ethylene dibromide
+ru: 1,2-дибромэтан (PIN) <br>
+этилендибромид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C\C<`/H3C><`--Cl>-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-C</CH3><\CH3>--Cl
+$>
+
+en: 1,4-bis(2-chloropropan-2-yl)benzene (PIN)  <br>
+1,4-bis(1-chloro-1-methylethyl)benzene
+ru: 1,4-бис(2-хлорпропан-2-ил)бензол (PIN) <br>
+1,4-бис(1-хлор-1-метилэтил)бензол
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-CHBr@n(1)-CHBr@n(2)-C6H5
+$>
+
+en: 1,1′-(1,2-dibromoethane-1,2-diyl)dibenzene (PIN;  <br>
+multiplicative name, see P-51.3)  <br>
+1,2-dibromo-1,2-diphenylethane (substitutive name)  <br>
+(not stilbene dibromide)
+ru: 1,1′-(1,2-дибромэтан-1,2-диил)дибензол (PIN; <br>
+&(multiplicative name), см. P-51.3) <br>
+1,2-дибром-1,2-дифенилэтан (&(substitutive name)) <br>
+(не стильбендибромид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CF3-CF2-CF2-CF2-CF2-CF2-CF<-CF2-CF2-CF2-CF2-CF3>`|C<`-F3C><-CF3>`|CH3
+$>
+
+en: 1,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,9,9,10,10,11,11,12,12,12-pentacosafluoro-7-(1,1,1,3,3,3-hexafluoro-2-methylpropan-2-yl)dodecane (PIN) <br>
+1,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,9,9,10,10,11,11,12,12,12-pentacosafluoro-7-[2,2,2-trifluoro-1-methyl-1-(trifluoromethyl)ethyl]dodecane
+ru: 1,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,9,9,10,10,11,11,12,12,12-пентакосафторо-7-(1,1,1,3,3,3-гексафторо-2-метилпропан-2-ил)додекан (PIN) <br>
+1,1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,9,9,10,10,11,11,12,12,12-пентакосафтор-7-[2,2,2-трифтор-1-метил-1-(трифторметил)этил]додекан
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl|/@n(1)\\|`//`\`/`\\`|//\@n(8a,20,.5)|@n(4a,-20,.5)|Cl
+$>
+
+en: 4a,8a-dichloro-4a,8a-dihydronaphthalene (PIN)
+ru: 4а,8а-дихлор-4а,8а-дигидронафталин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`||/@n(1,-150)<`|Cl>\\|`//@n(4,150)|CH2-Cl
+$>
+
+en: 1-chloro-4-(chloromethyl)benzene (PIN)  <br>
+α,4-dichlorotoluene  <br>
+(for substitution rules for toluene in general nomenclature; see P-22.1.3) 
+ru: 1-хлор-4-(хлорметил)бензол (PIN) <br>
+α,4-дихлортолуол <br>
+(правила замены толуола в общей номенклатуре см. в P-22.1.3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,90)<_q6CH2-Br>`//`\`||/\\@n(1,-90)_q6CH2-Br
+$>
+
+en: 1,2-bis(bromomethyl)benzene (PIN)  <br>
+α-bromo-2-(bromomethyl)toluene  <br>
+for rules on substitution rules of toluene in general nomenclature, see P-22.1.3  <br>
+[not α,α′-dibromo-o-xylene (no substitution on xylene, see P-22.1.3)] 
+ru: 1,2-бис(бромметил)бензол (PIN) <br>
+α-бром-2-(бромметил)толуол <br>
+Правила замещения толуола в общей номенклатуре см. в P-22.1.3 <br>
+[не α,α′-дибром-о-ксилол (замещения на ксилол нет, см. P-22.1.3)]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH2@n(4)-CH2@n(3)-CHCl@n(2)-CH3@n(1)
+$>
+
+en: 2-chlorohexane (PIN)  <br>
+hexan-2-yl chloride  <br>
+1-methylpentyl chloride
+ru: 2-хлоргексан (PIN) <br>
+гексан-2-илхлорид <br>
+1-метилпентилхлорид
+
+@cell
+<$ F2N-CO-NF2 $>
+  
+en: tetrafluorourea (PIN)  <br>
+tetrafluorocarbonic diamide 
+ru: тетрафтормочевина (PIN) <br>
+тетрафторкарбоновый диамид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q3@n(1)<_q3>-C<`|CH3>=CH-CH2-CH2-Br
+$>
+
+en: (5-bromopent-2-en-2-yl)cyclopropane (PIN)  <br>
+(ring preferred to chain, see P-44.1.2.2;  <br>
+preferred substituent prefix, see P-46.1)  <br>
+(4-bromo-1-methylbut-1-en-1-yl)cyclopropane  <br>
+5-bromo-2-cyclopropylpent-2-ene 
+ru: (5-бромпент-2-ен-2-ил)циклопропан (PIN) <br>
+(кольцо предпочтительнее цепи, см. P-44.1.2.2; <br>
+предпочтительный &(substituent prefix), см. P-46.1) <br>
+(4-бром-1-метилбут-1-ен-1-ил)циклопропан <br>
+5-бром-2-циклопропилпент-2-ен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\`/`\`/`\`|/\/\@n(14,-90,.5)/O@n(1,-90,.55)\|@n(3,-30)\F
+$>
+
+en: 3-fluoro-1-oxacyclotetradecane (PIN)  <br>
+1-oxacyclotetradecan-3-yl fluoride
+ru: 3-фтор-1-оксациклотетрадекан (PIN) <br>
+1-оксациклотетрадекан-3-илфторид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH@n(6,90)<`|Br>-CH2@n(5)-CH2@n(4)-CH2@n(3)-C@n(2,90)<=CH2@n(1,90)>`|CH2-Br
+$>
+
+en: 6-bromo-2-(bromomethyl)hept-1-ene (PIN)  <br>
+2-methylideneheptane-1,6-diyl dibromide 
+ru: 6-бром-2-(бромметил)гепт-1-ен (PIN) <br>
+2-метилиденгептан-1,6-диилдибромид
+
+@End
+
+
+#P-61.4
+en: Diazo compounds 
+ru: Диазосоединения
+
+#P-61.5
+en: Nitro and nitroso compounds 
+ru: Нитро- и нитрозосоединения
+
+#P-61.6
+en: Heterones 
+ru: Гетероны
+
+#P-61.7
+en: Azides 
+
+#P-61.8
+en: Isocyanates 
+ru: Изоцианаты
+
+#P-61.9
+en: Isocyanides 
+ru: Изоцианиды
+
+#P-61.10
+en: Fulminates and isofulminates 
+ru: Фульминаты и изофульминаты
+
+#P-61.11
+en: Polyfunctional compounds 
+ru: Полифункциональные соединения
+
+
 
 
 #P-62
