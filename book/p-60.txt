@@ -850,20 +850,487 @@ en: 6-bromo-2-(bromomethyl)hept-1-ene (PIN)  <br>
 ru: 6-бром-2-(бромметил)гепт-1-ен (PIN) <br>
 2-метилиденгептан-1,6-диилдибромид
 
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(6)_(x1.94,y0.36)@o(5)_(x1.44,y0.72)@o(1)_(x1.92,y1.92)@o(9)_(x0.47,y1.36)@o(10)_(x0.25,y2)@o(11)_(x-0.25,y1.58)@o(29)_(x-0.69,y1.72)@o(28)_(x-1.11,y1.44)#
+@o(47)_(x-1.58,y1.03)@o(48)_(x-2,y0.58)@o(49)_(x-2.36,y0.03)@o(59)_(x-2.17,y-1.17)@o(60)_(x-1.39,y-1.69)@o(52)_(x-0.81,y-1.67)@o(53)_(x-0.25,y-1.72)@o(54)#
+_(x0.36,y-1.94)@o(39)_(x0.86,y-1.56)@o(38)_(x1.81,y-1.81)@o(19)_(x1.75,y-0.89)@o(20)_#o6#
+$color(#777)_(x1,y1.94,H)@o(7)_(x1.42,y0.61,H)@o(8)<-h#o9>_(x-0.14,y2.22,H)@o(25)_(x1.06,y0.72,H)@o(26)<-h#o10>_(x-0.56,y3,H)@o(27)<-h#o28>_(x-1.33,y0.61,H)#
+@o(45)_(x-0.56,y1.75,H)@o(46)<-h#o47>_(x-2.36,y0.75,H)@o(58)<-h#o59>_(x-0.58,y-2.44,H)@o(57)_(x-1.81,y-0.17,H)@o(56)<-h#o60>_(x-1.67,y-2.36,H)@o(55)<-h#o54>#
+_(x1.78,y-1.14,H)@o(41)_(x-0.58,y-2,H)@o(40)<-h#o39>_(x1.56,y-1.31,H)@o(21)<-h#o20>_(x1.86,y0.67,H)@o(22)<-h#o7>_(x0,y1.44,H)@o(23)_(x1.53,y1.44,H)@o(24)<-h#o25>#
+_(x-0.36,y1.11,H)@o(44)<-h#o45>_(x-1.81,y1.19,H)@o(43)<-h#o57>_(x-1.08,y-2.31,H)@o(42)<-h#o41>-h#o23;
+$color()#o19_(x1.97,y0.58)@o(18)_(x1.5,y-0.19)@o(4)<-#o5>_(x1.56,y1.75)@o(3)_(x2.11,y-0.06)@o(2)<-#o1>_(x1.08,y2.44)@o(12)<-#o11>_(x-0.86,y1.06)@o(13)#
+_(x0.31,y1.81)@o(30)<-#o29>_(x-1.14,y1.56)@o(31)<-#o48>_(x-2.36,y-0.39)@o(32)_(x-1.58,y1)@o(50)<-#o49>_(x-2.14,y-0.75)@o(51)<-#o52>_(x-0.17,y-2.03)@o(35)#
+_(x-1.33,y-1.11)@o(36)<-#o53>_(x0.11,y-1.94)@o(37)<-#o38>_(x2.06,y-1.03)@o(17)<-#o18>_(x1.28,y1.36)@o(16)_(x1.89,y-0.5)@o(15)<-#o3>_(x1.08,y1.58)@o(14)#
+<-#o13>_(x-1.58,y1.56)@o(33)<-#o32>_(x-1.61,y-0.81)@o(34)<-#o35>-#o16;
+#o1_(x0.92,y-1.44)CF3; #o9_(x1.28,y-0.75)H
+$>
+
+en: 1-(trifluoromethyl)-1,9-dihydro<%f%>fullerene (PIN) 
+ru: 1-(трифторметил)-1,9-дигидро<%f%>фуллерен (PIN)
+%f:(C_{60}-_I__{h})[5,6]
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(6)_(x1.94,y0.36)@o(5)_(x1.44,y0.72)@o(1)_(x1.92,y1.92)@o(9)_(x0.47,y1.36)@o(10)_(x0.25,y2)@o(11)_(x-0.25,y1.58)@o(29)_(x-0.69,y1.72)@o(28)_(x-1.11,y1.44)#
+@o(47)_(x-1.58,y1.03)@o(48)_(x-2,y0.58)@o(49)_(x-2.36,y0.03)@o(59)_(x-2.17,y-1.17)@o(60)_(x-1.39,y-1.69)@o(52)_(x-0.81,y-1.67)@o(53)_(x-0.25,y-1.72)@o(54)#
+_(x0.36,y-1.94)@o(39)_(x0.86,y-1.56)@o(38)_(x1.81,y-1.81)@o(19)_(x1.75,y-0.89)@o(20)_#o6#
+$color(#777)_(x1,y1.94,H)@o(7)_(x1.42,y0.61,H)@o(8)<-h#o9>_(x-0.14,y2.22,H)@o(25)_(x1.06,y0.72,H)@o(26)<-h#o10>_(x-0.56,y3,H)@o(27)<-h#o28>_(x-1.33,y0.61,H)#
+@o(45)_(x-0.56,y1.75,H)@o(46)<-h#o47>_(x-2.36,y0.75,H)@o(58)<-h#o59>_(x-0.58,y-2.44,H)@o(57)_(x-1.81,y-0.17,H)@o(56)<-h#o60>_(x-1.67,y-2.36,H)@o(55)<-h#o54>#
+_(x1.78,y-1.14,H)@o(41)_(x-0.58,y-2,H)@o(40)<-h#o39>_(x1.56,y-1.31,H)@o(21)<-h#o20>_(x1.86,y0.67,H)@o(22)<-h#o7>_(x0,y1.44,H)@o(23)_(x1.53,y1.44,H)@o(24)<-h#o25>#
+_(x-0.36,y1.11,H)@o(44)<-h#o45>_(x-1.81,y1.19,H)@o(43)<-h#o57>_(x-1.08,y-2.31,H)@o(42)<-h#o41>-h#o23;
+$color()#o19_(x1.97,y0.58)@o(18)_(x1.5,y-0.19)@o(4)<-#o5>_(x1.56,y1.75)@o(3)_(x2.11,y-0.06)@o(2)<-#o1>_(x1.08,y2.44)@o(12)<-#o11>_(x-0.86,y1.06)@o(13)#
+_(x0.31,y1.81)@o(30)<-#o29>_(x-1.14,y1.56)@o(31)<-#o48>_(x-2.36,y-0.39)@o(32)_(x-1.58,y1)@o(50)<-#o49>_(x-2.14,y-0.75)@o(51)<-#o52>_(x-0.17,y-2.03)@o(35)#
+_(x-1.33,y-1.11)@o(36)<-#o53>_(x0.11,y-1.94)@o(37)<-#o38>_(x2.06,y-1.03)@o(17)<-#o18>_(x1.28,y1.36)@o(16)_(x1.89,y-0.5)@o(15)<-#o3>_(x1.08,y1.58)@o(14)#
+<-#o13>_(x-1.58,y1.56)@o(33)<-#o32>_(x-1.61,y-0.81)@o(34)<-#o35>-#o16;
+#o1_(x0.92,y-1.44)F; #o9_(x1.28,y-0.75)F; #o52_(A150,L1.5)F; #o60_(A130,L1.5)F;
+$>
+
+en: 1,9,52,60-tetrafluoro-1,9,52,60-tetrahydro<%f%>fullerene (PIN)  <br>
+<%f%>fullerene-1,9,52,60-tetrayl tetrafluoride 
+ru: 1,9,52,60-тетрафтор-1,9,52,60-тетрагидро<%f%>фуллерен (PIN) <br>
+<%f%>тетраилтетрафторид-1,9,52,60-тетраила фуллерена
+%f:(C_{60}-_I__{h})[5,6]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-SiH2@n(2)-CH2-SiH2@n(4)-CH2-SiH2@n(6)-CH2-SiH2@n(8)-CH2-CH2@n(10)-Cl
+$>
+
+en: 10-chloro-2,4,6,8-tetrasiladecane (PIN)  <br>
+2,4,6,8-tetrasiladecan-10-yl chloride
+en: 10-хлор-2,4,6,8-тетрасиладекан (PIN) <br>
+2,4,6,8-тетрасиладекан-10-илхлорид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH-CH2-CH2-CH2@n(5)-I
+$>
+
+en: 5-iodopent-1-ene (PIN)  <br>
+pent-4-en-1-yl iodide 
+ru: 5-йодопент-1-ен (PIN) <br>
+пент-4-ен-1-ил йодид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-CH2@n(1)-CH2-CH@n(3)=CH-CH2-CH3@n(6)
+$>
+
+en: 1-bromohex-3-ene (PIN)  <br>
+hex-3-en-1-yl bromide
+en: 1-бромгекс-3-ен (PIN) <br>
+гекс-3-ен-1-ил бромид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1,-90)\@n(2,-30)|@n(3,30)`/@n(4,90)`\`|`\\<`|Br>@n(8,-150)`/<`\Br>@n(7,150)||<`/Br>@n(6,90)\<|Br>@n(5,30)//
+$>
+
+en: 5,6,7,8-tetrabromo-1,2,3,4-tetrahydronaphthalene (PIN)  <br>
+5,6,7,8-tetrahydronaphthalene-1,2,3,4-tetrayl tetrabromide  <br>
+(for position of ‘hydro’/‘dehydro’ prefixes in preferred IUPAC names, see P-31.2.1) 
+ru: 5,6,7,8-тетрабром-1,2,3,4-тетрагидронафталин (PIN) <br>
+5,6,7,8-тетрагидронафталин-1,2,3,4-тетраил тетрабромид <br>
+(положение префиксов «гидро»/«дегидро» в предпочтительных названиях ИЮПАК см. в P-31.2.1)
+
 @End
 
+#P-61.3.2
+en: Halogen atoms attached to heteroatoms
+ru: Атомы галогенов, присоединенные к гетероатомам
+
+#P-61.3.2.1+
+en: In P-61.3.1, halogen atoms in their standard bonding number are attached to carbon atoms. The halogen 
+atoms can also be attached to heteroatoms. The prefixes ‘bromo’, ‘chloro’, ‘fluoro’, and ‘iodo’ are used to name 
+halogen compounds when the halogen atoms are attached to <%L%>, and Bi. 
+ru: В P-61.3.1 атомы галогенов в соответствии со стандартным &(bonding number|tv) связаны с атомами углерода. 
+Атомы галогенов также могут быть связаны с гетероатомами. Приставки «бром», «хлор», «фтор» и «йод» используются для 
+обозначения галогеновых соединений, когда атомы галогенов связаны с <%L%> и Bi.
+%L: B, Al, In, Ga, Tl, Si, Ge, Sn, Pb
+
+@Examples
+
+@cell
+<$ Cl-B(CH3)2 $>
+  
+en: chlorodi(methyl)borane (PIN;  <br>
+borane is a preselected name; see P-12.2)  <br>
+dimethylboranyl chloride
+ru: хлорди(метил)боран (PIN; <br>
+боран — это предварительно выбранное название; см. P-12.2) <br>
+диметилборанилхлорид
+
+@cell
+<$ Cl3Si-CH2I  $>
+
+en: trichloro(iodomethyl)silane (PIN;  <br>
+silane is a preselected name; see P-12.2) 
+ru: трихлор(иодметил)силан (PIN; <br>
+силан — это предварительно выбранное название; см. P-12.2)
+
+@cell
+<$ F2Ge=CH2 $>
+  
+en: difluoro(methylidene)germane (PIN;  <br>
+germane is a preselected name; see P-12.2) 
+ru: дифтор(метилиден)герман (PIN; <br>
+герман — это предварительно выбранное название; см. P-12.2)
+
+@cell
+<$ H2P-PH-Cl $>
+
+en: chlorodiphosphane (preselected name;  <br>
+diphosphane is a preselected name see P-12.2) 
+ru: хлордифосфан (предварительно выбранное название; <br>
+дифосфан — это предварительно выбранное название, см. P-12.2)
+
+@End
+
+#P-61.3.2.2+
+en: In naming any compound, its class and its seniority must be determined in accordance with the seniority of 
+classes described in P-41. Halogen atoms linked to nitrogen atoms generate amides of inorganic acids that are senior to 
+halo compounds described in P-61.3.1. Similarly, acid halides or esters of inorganic acids may be created when the 
+halogen atoms are linked to phosphorus or chalcogen atoms. Names must be based on the seniority of classes; some 
+names that were recommended in past recommendations may still be used in general nomenclature. 
+ru: При наименовании любого соединения его класс и старшинство должны определяться в соответствии со старшинством классов, 
+описанных в P-41. Атомы галогенов, связанные с атомами азота, образуют амиды неорганических кислот, которые старше 
+галогенированных соединений, описанных в P-61.3.1. Аналогичным образом, галогенангидриды или сложные эфиры неорганических 
+кислот могут быть получены при связывании атомов галогенов с атомами фосфора или халькогенов. Названия должны основываться 
+на старшинстве классов; некоторые названия, рекомендованные в предыдущих рекомендациях, могут по-прежнему использоваться 
+в общей номенклатуре.
+
+@Examples
+
+@cell
+<$ CH3-NH-Cl $>
+
+en: methylhypochlorous amide (PIN; see P-68.5.3)  <br>
+N-chloromethanamine 
+ru: метилхлорноватистая кислота (PIN; см. P-68.5.3) <br>
+N-хлорметанамин
+
+@cell
+<$ CH3-PH-Cl $>
+
+en: methylphosphinous chloride (PIN; see P-67.1.2.5)  <br>
+chloro(methyl)phosphane 
+ru: метилфосфинистый хлорид (PIN; см. P-67.1.2.5) <br>
+хлор(метил)фосфан
+
+@cell
+<$ CH3-S-Cl $>
+
+en: methyl thiohypochlorite (PIN; see P-67.1.3) 
+ru: метилтиогипохлорит (PIN; см. P-67.1.3)
+
+@End
+
+#P-61.3.2.3+
+en: Compounds containing the groups <%a1%>, <%a2%>, or <%a3%> (X = halogen) are expressed by the following 
+compulsory prefixes in substitutive nomenclature:
+ru: Соединения, содержащие группы <%a1%>, <%a2%> или <%a3%> (X = галоген), выражаются следующими обязательными 
+префиксами в заместительной номенклатуре:
+%a1: <$ –{X}O $>
+%a2: <$ –{X}O2 $>
+%a3: <$ –{X}O3 $>
+
+@Examples 2 -- .left-aligned
+
+@cell
+<$ –{X}O $>
+
+@cell
+en:  chlorosyl (no longer chloroso), bromosyl, iodosyl, fluorosyl
+ru: хлорозил (больше не хлорозо), бромозил, иодозил, фторозил
+
+@cell
+<$ –{X}O2 $>
+
+@cell
+en: chloryl (no longer chloroxy), bromyl, iodyl, fluoryl
+ru: хлорил (больше не хлорокси), бромил, иодил, фторил
+
+@cell
+<$ –{X}O3 $>
+
+@cell
+en: perchloryl, perbromyl, periodyl, perfluoryl 
+ru: перхлорил, пербромил, периодил, перфторил
+
+@End
+
+@Examples
+
+@cell
+<$ C6H5-ClO3 $>
+  
+en: perchlorylbenzene (PIN) 
+ru: перхлорилбензол (PIN)
+
+@cell
+<$ C6H5-IO $>
+
+en: iodosylbenzene (PIN) 
+ru: иодозилбензол (PIN)
+
+@End
+
+#P-61.3.3+
+en: Compounds containing the group <%f%> or similar groups are named substitutively by using prefixes based 
+on the preselected parent hydride name λ^{3}-iodane (see P-21.1 2.1 and P-68.5.1) 
+ru: Соединения, содержащие группу <%f%> или подобные группы, называются замещающе, используя префиксы, основанные на 
+предварительно выбранном названии &(parent hydride|ro) λ^{3}-иодан (см. P-21.1.2.1 и P-68.5.1)
+%f: <$ –I(OH)2 $>
+
+#P-61.3.4
+en: Retained names 
+ru: &(Retained name|*)
+
+en: The retained names ‘bromoform’ for <%a1%>, ‘chloroform’ for <%a2%>, and ‘iodoform’ for <%a3%> are acceptable in general 
+nomenclature. Preferred IUPAC names are substitutive names. 
+ru: &(Retained name|*) «бромоформ» для <%a1%>, «хлороформ» для <%a2%> и «йодоформ» для <%a3%> приемлемы в общей номенклатуре. 
+Предпочтительными названиями ИЮПАК являются &(substitutive name|*).
+%a1: <$ HCBr3 $>
+%a2: <$ HCCl3 $>
+%a3: <$ HCI3 $>
+
+@Examples
+
+@cell
+<$ HCBr3 $>
+  
+en: bromoform  <br>
+tribromomethane (PIN) 
+ru: бромоформ <br>
+трибромметан (PIN)
+
+@End
 
 #P-61.4
 en: Diazo compounds 
 ru: Диазосоединения
 
+en: Compounds containing a group =N_{2} attached to a single carbon atom are named by adding the prefix ‘diazo’ to the 
+name of the parent hydride or functional parent hydride (see also P-74.2.2.2.3). 
+ru: Соединения, содержащие группу =N_{2}, присоединенную к одному атому углерода, называются путем добавления префикса 
+«диазо» к названию &(parent hydride|ro) или функционального &(parent hydride|ro) (см. также P-74.2.2.2.3).
+
+@Examples
+
+@cell
+<$ CH2N2 $>
+  
+diazomethane (PIN) 
+
+@cell
+<$ N2CH-CO-O-C2H5 $>
+  
+en: ethyl diazoacetate (PIN) 
+ru: этилдиазоацетат (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(3)-CO@n(2)-C@n(1,90)<`||N2>-Si{Me}3
+$>
+
+en: 1-diazo-1-(trimethylsilyl)propan-2-one (PIN)  <br>
+1-diazo-1-(trimethylsilyl)acetone
+ru: 1-диазо-1-(триметилсилил)пропан-2-он (PIN) <br>
+1-диазо-1-(триметилсилил)ацетон
+
+@End
+
+
 #P-61.5
 en: Nitro and nitroso compounds 
 ru: Нитро- и нитрозосоединения
 
+#P-61.5.1
+en: Nitro and nitroso compounds 
+ru: Нитро- и нитрозосоединения
+
+en: Compounds containing the <%a%> or <%b%> group are named by means of the prefixes ‘nitro’ and ‘nitroso’, respectively, 
+unless these groups can be named on the basis of the parent structures nitric and nitrous acids, <%c%> and <%d%>, 
+respectively, or their corresponding esters, anhydrides, amides and hydrazides. Derivatives of nitric acid and nitrous 
+acids are described in Section P-67. Acid halides and pseudohalides are described in P-67.1.2.5; amides and hydrazides 
+in P-67.1.2.6; salts, esters and anhydrides in P-67.1.3. 
+ru: Соединения, содержащие группу <%a%> или <%b%>, называются с помощью префиксов «нитро» и «нитрозо» соответственно, 
+за исключением случаев, когда эти группы могут быть названы на основе &(parent structure|ro*) азотной и азотистой кислот, 
+<%c%> и <%d%> соответственно, или их соответствующих эфиров, ангидридов, амидов и гидразидов. Производные азотной и 
+азотистой кислот описаны в разделе P-67. Галогенангидриды и псевдогалогенангидриды описаны в разделе P-67.1.2.5; амиды 
+и гидразиды — в разделе P-67.1.2.6; соли, эфиры и ангидриды — в разделе P-67.1.3.
+%a: <$–NO2$>
+%b: <$–NO$>
+%c: <$ NO2-OH $>
+%d: <$ NO-OH $>
+
+@Examples
+
+@cell
+<$ CH3-NO2 $>
+  
+en: nitromethane (PIN) 
+ru: нитрометан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||/\\<|>/@n(1,-90)\\@n(2,30)/NO2
+$>
+
+en: 2-nitronaphthalene (PIN) 
+ru: 2-нитронафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O`N-@n(4,-120)/=\@n(1,-60)<-NO>`//`-`\\
+$>
+
+en: 1,4-dinitrosobenzene (PIN)
+ru: 1,4-динитрозобензол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|@n(2,-30)\\</NO2>@n(3,30)|`//@n(5,30)<|NO2>`\`||</>@n(1,-90)`\O2`N
+$>
+
+en: 2-methyl-1,3,5-trinitrobenzene (PIN)  <br>
+2,4,6-trinitrotoluene (for substitution rules for toluene  <br>
+in general nomenclature, see P-22.1.3) 
+ru: 2-метил-1,3,5-тринитробензол (PIN) <br>
+2,4,6-тринитротолуол (правила замещения толуола <br>
+в общей номенклатуре см. в P-22.1.3)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2Cl|@n(1,-30)\\|`//@n(4,30)<|NO2>`\`||/
+$>
+
+en: 1-(chloromethyl)-4-nitrobenzene (PIN)  <br>
+α-chloro-4-nitrotoluene (for substitution rules for toluene  <br>
+in general nomenclature, see P-22.1.3)  <br>
+4-nitrobenzyl chloride 
+ru: 1-(хлорметил)-4-нитробензол (PIN) <br>
+α-хлор-4-нитротолуол (правила замещения толуола <br>
+в общей номенклатуре см. P-22.1.3) <br>
+4-нитробензилхлорид
+
+@cell
+<$ CH3-BH-NO2 $>
+  
+en: methyl(nitro)borane (PIN) 
+ru: метил(нитро)боран (PIN)
+
+@cell
+<$ (CH3)3Si-NO2 $>
+  
+en: trimethyl(nitro)silane (PIN)
+ru: триметил(нитро)силан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-PH@n(1)-PH@n(2)-NO
+$>
+
+en: 1-methyl-2-nitrosodiphosphane (PIN)
+ru: 1-метил-2-нитрозодифосфан (PIN)
+
+@End
+
+#P-61.5.2+
+en: In the presence of a characteristic group having seniority to be named as a suffix or a parent structure, nitro 
+and nitroso groups can be attached to any atom. When linked to another nitrogen atom they are not considered to 
+lengthen the nitrogen chain. 
+ru: При наличии &(characteristic group|ro), имеющей приоритет для обозначения суффикса или &(parent structure|ro), 
+нитро- и нитрозогруппы могут быть присоединены к любому атому. При присоединении к другому атому азота они не считаются 
+удлиняющими азотную цепь.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-C@n(3,-135,.5)<_(y-1.2)O`-O2N><_(y1.2)CH3>-C@n(2,90)<_(y-1.2,N2m)N-C(CH3)3>_(x1)COOH@n(1)
+$>
+
+en: 2-(_tert_-butylimino)-3-methyl-3-(nitrooxy)butanoic acid (PIN) 
+ru: 2-(_трет_-бутилимино)-3-метил-3-(нитроокси)бутановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-N@n(\textit{N})<`|NO>-CH3
+$>
+
+en: _N_-methyl-_N_-nitrosourea (PIN)
+ru: _N_-метил-_N_-нитрозомочевина (PIN)
+
+@End
+
+#P-61.5.3
+en: _aci_-Nitro compounds 
+ru: &(aci)-Нитросоединения
+
+en: Compounds containing the group =N(O)OH are named as derivatives of azinic acid, <%a%>, a preselected name, 
+and by using the prefix name hydroxy(oxo)-λ^{5}-azanylidene, when a characteristic group having priority for citation as a 
+suffix is present. The use of the prefix ‘_aci_-nitro’ may be used in general nomenclature (see P-67.1.6). 
+ru: Соединения, содержащие группу =N(O)OH, называются производными азиновой кислоты, <%a%>, с использованием предварительно 
+выбранного названия, а также с использованием префикса гидрокси(оксо)-λ^{5}-азанилиден, если присутствует 
+&(characteristic group), имеющая приоритет при &(citation|pr) в качестве суффикса. Префикс «&(aci)-нитро» может 
+использоваться в общей номенклатуре (см. P-67.1.6).
+%a: <$ H2N(O)-OH $>
+
+@Examples
+
+@cell
+<$ CH3-CH=N(O)-OH $>
+
+en: ethylideneazinic acid (PIN)  <br>
+_aci_-nitroethane
+ru: этилиденазиновая кислота (PIN) <br>
+&(aci)-нитроэтан
+
+@End
+
 #P-61.6
 en: Heterones 
 ru: Гетероны
+
+en: Compounds containing the <%a%>, <%b%>, <%c%> or <%d%> are called heterones (see P-64.1.2.2, P-64.4). In the presence of 
+a more senior characteristic group they are described by the compound prefixes oxophosphanyl, dioxo-λ^{5}-phosphanyl, 
+oxoarsanyl, and dioxo-λ^{5}-arsanyl. 
+ru: Соединения, содержащие <%a%>, <%b%>, <%c%> или <%d%>, называются гетеронами (см. P-64.1.2.2, P-64.4). При наличии 
+более старшей &(characteristic group|ro) они обозначаются приставками оксофосфанил, диоксо-λ^{5}-фосфанил, оксоарсанил 
+и диоксо-λ^{5}-арсанил.
+%a: <$–PO$>
+%b: <$–PO2$>
+%c: <$–AsO$>
+%d: <$–AsO2$>
+
+en: **Note**: In spite of the use of the term ‘phospho’ to describe the <%a%> group as a substituent prefix since 1937, the term 
+‘phospho’ is widely used in biochemical nomenclature in place of phosphono for designating the <%b%> group 
+linked to a heteroatom, as in phosphocholine and 6-phospho-D-glucose; and as an infix to describe phosphoric diesters, 
+as in glycerophosphocholine. Consequently, in these recommendations the term ‘phospho’, and collaterally the terms 
+phosphoroso, arso, and arsenoso, which are still used in CAS index nomenclature, are no longer used. 
+ru: **Примечание**: Несмотря на использование термина «фосфо» для обозначения группы <%a%> в качестве &(substituent prefix|ro) 
+с 1937 года, термин «фосфо» широко используется в биохимической номенклатуре вместо «фосфоно» для обозначения группы <%b%>, 
+связанной с гетероатомом, как в фосфохолине и 6-фосфо-D-глюкозе; и в качестве инфикса для описания фосфорных диэфиров, 
+как в глицерофосфохолине. Следовательно, в настоящих рекомендациях термин «фосфо» и сопутствующие ему термины «фосфорозо», 
+«арсо» и «арсенозо», которые до сих пор используются в номенклатуре индекса CAS, больше не используются.
+%a: <$–PO2$>
+%b: <$–P(O)(OH)2$>
 
 #P-61.7
 en: Azides 

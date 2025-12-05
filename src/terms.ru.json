@@ -1,6 +1,8 @@
 {
   " attantion:comm!": "В ключах нельзя использовать большие буквы!",
 
+  "aci": "_аци_",
+
   "added indicated hydrogen": "добавленный указанный водород",
   "added indicated hydrogen|ro": "добавленного указанного водорода",
   "added indicated hydrogen|da": "добавленному указанному водороду",
@@ -111,6 +113,7 @@
 
   "citation": "цитирование",
   "citation|ro": "цитирования",
+  "citation|pr": "цитировании",
   "cite": "цитировать",
   "cited": "цитируется",
   "cited|p*": "цитируемые",
@@ -661,6 +664,7 @@
   "substituent group|pr*": "замещающих группах",
 
   "substituent prefix": "префикс-заместитель",
+  "substituent prefix|ro": "префикса-заместителя",
   "substituent prefix|tv": "префиксом-заместителем",
   "substituent prefix|*": "префиксы-заместители",
   "substituent prefix|ro*": "префиксов-заместителей",
