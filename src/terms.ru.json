@@ -224,7 +224,9 @@
 
   "functional class name": "название по функциональному классу",
   "functional class name|ro": "названия по функциональному классу",
+  "functional class name|pr": "названии по функциональному классу",
   "functional class name|*": "названия по функциональному классу",
+  "functional class name|ro*": "названий по функциональному классу",
   "functional class name|da*": "названиям по функциональному классу",
 
   "functional class nomenclature": "номенклатура функциональных классов",

@@ -1332,60 +1332,349 @@ ru: **Примечание**: Несмотря на использование �
 %a: <$–PO2$>
 %b: <$–P(O)(OH)2$>
 
+@Examples
+
+@cell
+<$ |`//`\`||/\\/PO2 $>
+
+en: phenyl-λ^{5}-phosphanedione (PIN)  <br>
+dioxo(phenyl)-λ^{5}-phosphane  <br>
+(not phosphobenzene) 
+ru: фенил-λ^{5}-фосфандион (PIN) <br>
+диоксо(фенил)-λ^{5}-фосфан <br>
+(не фосфобензол)
+
+@cell
+<$ CH3-CH<`|CH3>-CH2-NH-AsO $>
+
+en: [(2-methylpropyl)amino]arsanone (PIN)  <br>
+_N_-(2-methylpropyl)-1-oxoarsanamine  <br>
+(not _N_-arsenoso-2-methylpropanamine)
+ru: [(2-метилпропил)амино]арсанон (PIN) <br>
+_N_-(2-метилпропил)-1-оксоарсанамин <br>
+(не _N_-арсенозо-2-метилпропанамин)
+
+@End
+
 #P-61.7
 en: Azides 
+
+en: Compounds containing a <%a%> (<%b%>) group attached to a parent hydride, are named using substitutive 
+nomenclature and the prefix ‘azido’. This method gives preferred IUPAC names rather than names based on the class 
+name ‘azido’ in functional class nomenclature (see also P-74.2.2.2.2). 
+ru: Соединения, содержащие группу <%a%> (<%b%>), присоединённую к &(parent hydride|da), называются по &(substitutive 
+nomenclature|pr) с добавлением префикса «азидо». Этот метод даёт предпочтительные названия по ИЮПАК, а не названия, 
+основанные на названии класса «азидо» в &(functional class nomenclature|pr) (см. также P-74.2.2.2.2).
+%a: <$–N3$>
+%b: <$ –N=N^+=N^– $>
+
+@Examples
+
+@cell
+<$ `/`=`\//-\\-CH2-CH2-N3 $>
+
+en: (2-azidoethyl)benzene (PIN)  <br>
+2-phenylethyl azide  <br>
+(not phenethyl azide) 
+ru: (2-азидоэтил)бензол (PIN) <br>
+2-фенилэтилазид <br>
+(не фенетилазид)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<\N3>@n(3,90)`//`\`/`\\`|//\<||r>/@n(1,-90)\\@n(2,30)/SO3H
+$>
+
+en: 3-azidonaphthalene-2-sulfonic acid (PIN) 
+ru: 3-азидонафталин-2-сульфоновая кислота (PIN)
+
+@End
 
 #P-61.8
 en: Isocyanates 
 ru: Изоцианаты
 
+@p .framed
+en: This is a change from previous recommendations. Preferred IUPAC names are generated substitutively using the 
+prefix ‘isocyanato’ attached directly to a parent hydride. Previously, functional class names were recommended for 
+this class.  
+ru: Это изменение по сравнению с предыдущими рекомендациями. Предпочтительные названия по ИЮПАК формируются путём 
+замещения с помощью префикса «изоцианато», прикреплённого непосредственно к &(parent hydride|da). Ранее для этого класса 
+рекомендовались &(functional class name|*).
+
+en: Compounds containing the –N=C=O group attached to a parent hydride structure, are named by using substitutive 
+nomenclature and the prefix ‘isocyanato’. This method leads to preferred IUPAC names rather than names based on 
+functional class nomenclature and the functional class name ‘isocyanate’. Chalcogen analogues are named by inserting 
+the functional replacement infix ‘thio’, ‘seleno’, or ‘telluro’ into the names ‘isocyanate’ or ‘isocyanato’ just after ‘iso’. 
+ru: Соединения, содержащие группу –N=C=O, присоединённую к структуре &(parent hydride|ro), называются по &(substitutive 
+nomenclature|pr) с добавлением префикса «изоцианато». Этот метод приводит к более предпочтительным названиям по ИЮПАК, 
+чем названия, основанные на &(functional class nomenclature|pr) и &(functional class name|pr) «изоцианат». Аналоги халькогенов 
+называются путём добавления функционального замещающего инфикса «тио», «селено» или «теллуро» к названиям «изоцианат» 
+или «изоцианато» сразу после «изо».
+
+@Examples
+
+@cell
+<$ C6H11-NCO $>
+
+en: isocyanatocyclohexane (PIN)  <br>
+cyclohexyl isocyanate 
+ru: изоцианатоциклогексан (PIN) <br>
+циклогексилизоцианат
+
+@cell
+<$ C6H5-NCS $>
+
+en: isothiocyanatobenzene (PIN)  <br>
+phenyl isothiocyanate 
+ru: изотиоцианатобензол (PIN) <br>
+фенилизотиоцианат
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OC`N-@n(4,-120)//-\\@n(1,-60)<`/`=`\>-SO2-Cl
+$>
+
+en: 4-isocyanatobenzene-1-sulfonyl chloride (PIN) 
+ru: 4-изоцианатобензол-1-сульфонилхлорид (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C_(A60)`/|<`/OC`N>@n(5,90)\/<_p4CH3><_(a30)CH3>@n(3,100,.5)`|`\@n(1,-10,.5)_p4CH2-NCO
+$>
+
+en: 5-isocyanato-1-(isocyanatomethyl)-1,3,3- trimethylcyclohexane (PIN)  <br>
+3-(isocyanatomethyl)-3,5,5- trimethylcyclohexyl isocyanate 
+ru: 5-изоцианато-1-(изоцианатометил)-1,3,3-триметилциклогексан (PIN) <br>
+3-(изоцианатометил)-3,5,5-триметилциклогексилизоцианат
+
+@cell
+<$ H3Si-NCS $>
+
+en: isothiocyanatosilane (PIN;  <br>
+silane is a preselected name; see P-12.2) 
+ru: изотиоцианатосилан (PIN; <br>
+силан — это предварительно выбранное название; см. P-12.2)
+
+@cell
+<$ H2B-NCO $>
+
+en: isocyanatoborane(PIN;  <br>
+borane is a preselected name; see P-12.2) 
+ru: изоцианатоборан (PIN; <br>
+боран — это предварительно выбранное название; см. P-12.2)
+
+@End
+
+en: **Note**: In accordance with the seniority order of classes, the isocyanato group and its chalcogen analogues form acid 
+pseudohalides when attached to the central atom P, As, Sb of inorganic acids (see P-67.1.2.5); these acid pseudohalides 
+have priority over the isocyanates and their chalcogen analogues formed by substitution. See also pseudoketones  
+P-64.3. 
+ru: **Примечание**: В соответствии с порядком старшинства классов изоцианатная группа и её халькогенные аналоги образуют 
+псевдогалогениды кислот при присоединении к центральному атому P, As, Sb неорганических кислот (см. P-67.1.2.5); эти 
+псевдогалогениды кислот имеют приоритет перед изоцианатами и их халькогенными аналогами, образованными замещением. 
+См. также псевдокетоны P-64.3.
+
 #P-61.9
 en: Isocyanides 
 ru: Изоцианиды
+
+@p .framed
+en: This is a change in these recommendations. Preferred IUPAC names are formed substitutively using the prefix 
+‘isocyano’ attached directly to a parent hydride. Previously, functional class names were recommended for this 
+class. 
+ru: Это изменение в данных рекомендациях. Предпочтительные названия по ИЮПАК образуются путём замещения с помощью префикса 
+«изоциано», присоединённого непосредственно к &(parent hydride|da). Ранее для этого класса рекомендовались 
+&(functional class name|*).
+
+en: Compounds containing the –NC group attached to a parent hydride structure, are named by substitutive nomenclature 
+and the prefix ‘isocyano’. This method leads to preferred IUPAC names rather than names based on functional class 
+nomenclature and the functional class name ‘isocyanide’. 
+ru: Соединения, содержащие группу –NC, присоединённую к структуре &(parent hydride|ro), называются по &(substitutive nomenclature|pr) 
+с добавлением префикса «изоциано». Этот метод приводит к более предпочтительным названиям по ИЮПАК, чем названия, основанные 
+на &(functional class nomenclature|pr) и &(functional class name|pr) «изоцианид».
+
+@Examples
+
+@cell
+<$ C6H5-NC $>
+
+en: isocyanobenzene (PIN)  <br>
+phenyl isocyanide 
+ru: изоцианобензол (PIN) <br>
+фенилизоцианид
+
+@cell
+<$ C`N-//-\\<-COOH>`/`=`\ $>
+
+en: 4-isocyanobenzoic acid (PIN)
+ru: 4-изоцианобензойная кислота (PIN)
+
+@End
 
 #P-61.10
 en: Fulminates and isofulminates 
 ru: Фульминаты и изофульминаты
 
+en: The structure of fulminic acid was indicated in the 1979 Recommendations (Rule C-833.1, ref. 1) and in the 1993 
+Recommendations (Rule R-5.7.9.2, ref. 2) as HO-N≡C, and its derivatives were denoted by the class name fulminate 
+and the prefix fulminato. Although consistent with the pseudohalogen cyanate, the structure of this acid in the literature 
+is claimed to be HCNO. Accordingly, the name fulminic acid and that of its substituent group fulminato are not 
+acceptable nor are the names isofulminic acid and isofulminate. The IUPAC preferred name for the structure HCNO is 
+formonitrile oxide (see P-66.5.4.1) and the IUPAC preferred name for its isomer, HO-N=C:, is based on hydroxylamine 
+(see P-68.3.1.1.1). 
+ru: Структура фульминовой кислоты была указана в Рекомендациях 1979 года (Правило C-833.1, ссылка 1) и в Рекомендациях 
+1993 года (Правило R-5.7.9.2, ссылка 2) как HO-N≡C, а её производные обозначались классовым названием «фульминат» 
+с приставкой «фульминато». Несмотря на соответствие псевдогалогенцианату, в литературе утверждается, что структура этой 
+кислоты — HCNO. Соответственно, название «фульминовая кислота» и название её замещающей группы «фульминато» неприемлемы, 
+равно как и названия «изофульминовая кислота» и «изофульминато». Предпочтительным названием ИЮПАК для структуры HCNO 
+является оксид формонитрила (см. P-66.5.4.1), а предпочтительным названием ИЮПАК для его изомера, HO-N=C:, является 
+название гидроксиламина (см. P-68.3.1.1.1).
+
+@p .framed
+en: This is a change from the potentially ambiguous names fulminate and fulminato in previous recommendations to 
+systematic substitutive names.  
+ru: Это изменение потенциально двусмысленных названий фульминант и фульминато в предыдущих рекомендациях на 
+систематические замещающие названия.
+
+@Examples
+
+@cell
+<$ H-C≡N=O $>
+
+en: formonitrile oxide (PIN) 
+ru: оксид формонитрила (PIN)
+
+@cell
+<$ –C≡N=O $>
+
+en: (oxo-λ^{5}-azanylidyne)methyl (preferred prefix)  <br>
+(not isofulminato)  
+ru: (оксо-λ^{5}-азанилидин)метил (предпочтительный префикс) <br>
+(не изофульминато)
+
+@cell
+<$ HO-N=C $>
+
+en: λ^{2}-methylidenehydroxylamine  <br>
+_N_-hydroxy-λ^{2}-methanamine (PIN) 
+ru: λ^{2}-метилиденгидроксиламин <br>
+_N_-гидрокси-λ^{2}-метанамин (ПИН)
+
+@cell
+<$ –O-N=C $>
+
+en: (λ^{2}-methylideneamino)oxy (preferred prefix)  <br>
+(not fulminato)
+ru: (λ^{2}-метилиденамино)окси (предпочтительный префикс) <br>
+(не фульминато)
+
+@End
+
 #P-61.11
 en: Polyfunctional compounds 
 ru: Полифункциональные соединения
 
+en: In substitutive names, detachable prefixes (except for ‘hydro’/‘dehydro’ prefixes), are cited in alphanumerical order. 
+Low locants are assigned to:
+ru: В &(substitutive name|pr*) отделяемые префиксы (за исключением префиксов «гидро»/«дегидро») указываются в 
+алфавитно-цифровом порядке. Меньшие локанты присваиваются:
 
+@p .framed
+en: This is a change from previous recommendations. In these recommendations the prefixes ‘hydro’ and ‘dehydro’ are 
+detachable but not alphabetized with other substituent prefixes. In names, they are cited immediately before the 
+name of the parent hydride, after alphabetized prefixes and before nondetachable prefixes. 
+ru: Это изменение по сравнению с предыдущими рекомендациями. В этих рекомендациях префиксы «гидро» и «дегидро» 
+&(detachable [prefix]|*), но не располагаются в алфавитном порядке вместе с другими &(substituent prefix|tv*). 
+В названиях они &(cited|*) непосредственно перед названием &(parent hydride|ro), после алфавитных префиксов и перед 
+&(nondetachable [prefix]|tv*) префиксами.
 
+@List 1
 
-#P-62
-en: Amines and imines 
-ru: Амины и имины
+@item
+en: the prefixes as a set, and if there is a choice, 
+ru: префиксы как набор, и если есть выбор,
 
-#P-63
-en: Hydroxy compounds, ethers, peroxols, peroxides and chalcogen analogues 
-ru: Гидроксисоединения, эфиры, пероксолы, пероксиды и аналоги халькогенов
+@item
+en: to the prefix that is cited first in a name. 
+ru: к префиксу, который &(cited) первым в имени.
 
-#P-64
-en: Ketones, pseudoketones and heterones, and chalcogen analogues 
-ru: Кетоны, псевдокетоны и гетероны, а также аналоги халькогенов
+@End
 
-#P-65
-en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
-ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+en: In functional class nomenclature, names are formed following the order for compound classes (see P-41) and the order 
+of seniority for halides and pseudohalides (see P-41 and P-65.5.2.1) to choose the principal characteristic group. Names 
+formed substitutively rather than functional class names are preferred IUPAC names. 
+ru: В &(functional class nomenclature|pr) названия образуются в порядке, соответствующем классам соединений (см. P-41), 
+и в порядке старшинства для галогенидов и псевдогалогенидов (см. P-41 и P-65.5.2.1) для выбора основной &(characteristic group|ro). 
+Предпочтительными названиями ИЮПАК являются названия, образованные путем замещения, а не &(functional class name|*).
 
-#P-66
-en: Amides, imides, hydrazides, nitriles, and aldehydes 
-ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+#P-61.11.1+
+en: Low locants are assigned as a set, without regard to kind. 
+ru: Меньшие локанты назначаются как набор, без учета вида.
 
-#P-67
-en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
-parents for naming organic compounds 
-ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
-для наименования органических соединений
+@Examples
 
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+F|\|`//@n(4,30)<|N3>`\`||/@n(1,-30)\@n(2,30)/NO2
+$>
 
+en: 4-azido-1-fluoro-2-nitrobenzene (PIN)  <br>
+4-azido-2-nitrophenyl fluoride
+ru: 4-азидо-1-фтор-2-нитробензол (PIN) <br>
+4-азидо-2-нитрофенилфторид
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:N(n,a)@n(\textit{&n},&a)@;
+CH3-CH2-CH2-N@N(N,90)<`|O`N>-C<`||mNH@N(N'',-80)>-NH@N(N',80)-NO2
+$>
+
+en: _N′_-nitro-_N_-nitroso-_N_-propylguanidine (PIN)
+ru: _N'_-нитро-_N_-нитрозо-_N_-пропилгуанидин (PIN)
+
+@End
+
+#P-61.11.2+
+en: Low locants are assigned to the prefix cited first in the name
+ru: Меньшие локанты присваиваются префиксу, указанному первым в имени
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl3`Si@n(1)-SiH2@n(2)-SiH2@n(3)-SiH2@n(4)-Si@n(5)(CH3)3
+$>
+
+en: 1,1,1-trichloro-5,5,5-trimethylpentasilane (PIN)  <br>
+(pentasilane is a preselected name, see P-12.2) 
+ru: 1,1,1-трихлор-5,5,5-триметилпентасилан (PIN) <br>
+(пентасилан — это предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-CH2@n(1)-CH2@n(2)-Cl
+$>
+
+en: 1-bromo-2-chloroethane (PIN)
+ru: 1-бром-2-хлорэтан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OC`N-@n(4,-120)/=\@n(1,-60)<-N3>`//`-`\\
+$>
+
+en: 1-azido-4-isocyanatobenzene (PIN)  <br>
+4-isocyanatophenyl azide
+ru: 1-азидо-4-изоцианатобензол (PIN) <br>
+4-изоцианатофенилазид
+
+@End

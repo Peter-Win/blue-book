@@ -1,0 +1,484 @@
+#P-62
+en: Amines and imines 
+ru: Амины и имины
+
+@Content
+
+#P-62.0
+en: Introduction 
+ru: Введение
+
+en: The nomenclature of amines and imines is rich in traditions and a variety of methods have been used for constructing 
+their names (see refs. 1 and 2). The rationalization necessary to define preferred IUPAC names is the appropriate 
+opportunity to establish proper names for amines and imines and retain clear and unambiguous methods for choosing 
+the appropriate parent and naming individual compounds. 
+ru: Номенклатура аминов и иминов богата традициями, и для их наименований использовались различные методы (см. ссылки 1 и 2). 
+Рационализация, необходимая для определения предпочтительных названий по ИЮПАК, представляет собой подходящую возможность 
+для установления собственных названий для аминов и иминов, а также для сохранения чётких и однозначных методов выбора 
+подходящего &(parent compound|ro) и наименования отдельных соединений.
+
+en: Rules C-11.4 and C-811-C-815 in the 1979 Recommendations (ref. 1) are superseded, as well as Rules R-5.4.1–R-5.4.3 
+in the 1993 Recommendations (ref. 2). 
+ru: Правила C-11.4 и C-811–C-815 Рекомендаций 1979 года (ссылка 1) заменяются, равно как и правила R-5.4.1–R-5.4.3 
+Рекомендаций 1993 года (ссылка 2).
+
+#P-62.1
+en: General methodology 
+ru: Общая методология
+
+en: The general methodology is based on the following principles: 
+ru: Общая методология основана на следующих принципах:
+
+#(a)
+en: definitions, as given in the Glossary of Class Names Based on Structure (ref. 23), classify amines and imines 
+unambiguously as follows;
+ru: определения, приведенные в Глоссарии названий классов на основе структуры (ссылка 23), однозначно классифицируют 
+амины и имины следующим образом:
+
+@List 1
+
+@item
+en: monoamines are compounds formally derived from ammonia (<%a%>) by replacing one, two, or three of its 
+hydrogen atoms by one, two, or three hydrocarbyl groups by single bonds, thus having the general structures  
+<%b%> (primary amines), <%c%> (secondary amines), <%d%> (tertiary amines); 
+ru: моноамины — это соединения, формально полученные из аммиака (<%a%>) путем замены одного, двух или трех его атомов 
+водорода одной, двумя или тремя гидрокарбильными группами посредством одинарных связей, таким образом имеющие общие структуры 
+<%b%> (первичные амины), <%c%> (вторичные амины), <%d%> (третичные амины);
+%a: <$ NH3 $>
+%b: <$ {R}-NH2 $>
+%c: <$ {R}2NH $>
+%d: <$ {R}3N $>
+
+@item
+en: imines are compounds having the structure <%a%> (R = H or hydrocarbyl), corresponding either to ketimines, 
+<%b%> or to aldimines, <%c%>; 
+ru: имины — это соединения, имеющие структуру <%a%> (R = H или гидрокарбил), соответствующие либо кетиминам, <%b%>, 
+либо альдиминам, <%c%>;
+%a: <$ {R}2C=N{R} $>
+%b: <$ {R}{R′}C=N{R′′} $>
+%c: <$ {R}CH=N{R′} $>
+
+@End
+
+#(b)
+en: amines are senior to imines in the seniority order of classes; 
+ru: амины являются старшими по сравнению с иминами в порядке старшинства классов;
+
+#(c)
+en: methods for naming amines and imines will be restricted to a minimum, preference being given to the substitutive 
+method using the suffixes ‘amine’ and ‘imine’; 
+ru: методы наименования аминов и иминов будут сведены к минимуму, предпочтение отдается заместительному методу с 
+использованием суффиксов «амин» и «имин»;
+
+#(d)
+en: a minimum of traditional names will be retained; 
+ru: минимум традиционных названий будет сохранен;
+
+#(e)
+en: polyamines are further classified as follows; 
+ru: полиамины далее классифицируются следующим образом:
+
+@List 1
+
+@item
+en: simple polyamines are compounds in which all amino groups are attached to the same parent hydride; 
+ru: простые полиамины — это соединения, в которых все аминогруппы присоединены к одному и тому же &(parent hydride|da);
+
+@item
+en: complex polyamines are compounds in which a choice between two or more parent hydrides must be made.
+ru: сложные полиамины — это соединения, в которых необходимо сделать выбор между двумя или более &(parent hydride|tv*).
+
+@End
+
+#P-62.2
+en: Amines 
+ru: Амины
+
+#P-62.2.1
+en: Primary amines 
+ru: Первичные амины
+
+#P-62.2.1.1
+en: Retained names 
+ru: &(Retained name|*)
+
+#P-62.2.1.1.1+
+en: Aniline, for <%a%>, is the only name for a primary amine retained as a preferred IUPAC name for 
+which full substitution is permitted on the ring and the nitrogen atom. It is a Type 2a retained name; for the rules of 
+substitution see P-15.1.8.2. Substitution is limited to substituent groups cited as prefixes in accordance with the 
+seniority of functional groups explicitly expressed or implied in the functional parent compound name. The name 
+benzenamine may be used in general nomenclature. The prefix name ‘anilino’ is retained as the preferred prefix for 
+<%b%> with full substitution allowed. The name ‘phenylamino’ may be used in general nomenclature. 
+ru: Анилин, для <%a%>, является единственным названием первичного амина, сохраненным в качестве предпочтительного названия 
+ИЮПАК, для которого разрешено полное замещение по кольцу и атому азота. Это &(retained name) типа 2a; правила замещения см. 
+в P-15.1.8.2. Замещение ограничено &(substituent group|tv*), указанными в качестве префиксов в соответствии со старшинством 
+функциональных групп, явно выраженным или подразумеваемым в функциональном названии &(parent compound|ro). Название 
+бензоламин может быть использовано в общей номенклатуре. Префиксное название «анилино» сохранено в качестве предпочтительного 
+префикса для <%b%> с возможностью полного замещения. Название «фениламино» может быть использовано в общей номенклатуре.
+%a: <$ C6H5-NH2 $>
+%b: <$ C6H5-NH–{} $>
+
+@Examples
+
+@cell
+<$ `/`=`\//-\\-NH-CH3 $>
+
+en: _N_-methylaniline (PIN)  <br>
+_N_-methylbenzenamine
+ru: _N_-метиланилин (PIN) <br>
+_N_-метилбензоламин
+
+@cell
+<$ Cl-/=\<-NH2>`//`-`\\ $>
+
+en: 4-chloroaniline (PIN)  <br>
+4-chlorobenzenamine
+ru: 4-хлоранилин (PIN) <br>
+4-хлорбензоламин
+
+@cell
+<$ `/`=`\//-\\-NH-{} $>
+
+en: anilino (preferred prefix)  <br>
+phenylamino
+ru: анилино (предпочтительный префикс) <br>
+фениламино
+
+@cell
+<$ Cl-//-\\<`/`=`\>-NH-{} $>
+
+en: 4-chloroanilino (preferred prefix)  <br>
+(4-chlorophenyl)amino 
+ru: 4-хлоранилино (предпочтительный префикс) <br>
+(4-хлорфенил)амино
+
+@End
+
+#P-62.2.1.1.2+
+en: The names ‘toluidine’, ‘anisidine’, and ‘phenetidine’ for which _o_-, _m_-, and _p_- have been used to distinguish 
+isomers, and ‘xylidine’ for which numerical locants, such as 2,3-, have been used, are no longer recommended, nor are 
+the corresponding prefixes ‘toluidino’, ‘anisidino’, ‘phenetidino’, and ‘xylidino’.
+ru: Названия «толуидин», «анизидин» и «фенетидин», для которых для различения изомеров использовались _o_-, _m_- и _p_-, 
+и «ксилидин», для которого использовались числовые коды, такие как 2,3-, больше не рекомендуются, равно как и соответствующие 
+им префиксы «толуидино», «анизидин», «фенетидино» и «ксилидино».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-NH2
+$>
+
+en: 4-methylaniline (PIN)  <br>
+4-methylbenzenamine  <br>
+(not _p_-toluidine)
+ru: 4-метиланилин (PIN) <br>
+4-метилбензоламин <br>
+(не _p_-толуидин)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-NH-{}
+$>
+
+en: 4-methylanilino (preferred prefix)  <br>
+(4-methylphenyl)amino  <br>
+(not _p_-toluidino) 
+ru: 4-метиланилино (предпочтительный префикс) <br>
+(4-метилфенил)амино <br>
+(не _p_-толуидино)
+
+@End
+
+#P-62.2.1.2+
+en: Primary amines, <%a%>, are systematically named in the following ways:
+ru: Первичные амины, <%a%>, систематически называются следующими способами:
+%a: <$ {R}-NH2 $>
+
+@List 1
+
+@item
+en: by adding the suffix ‘amine’ to the name of the parent hydride; 
+ru: путем добавления суффикса «амин» к названию &(parent hydride|ro);
+
+@item
+en: by adding the name of the substituent group R− to the parent hydride ‘azane’; 
+ru: путем добавления названия замещающей группы R− к &(parent hydride|da) «азан»;
+
+@item
+en: by adding the name of the substituent group R− to the term ‘amine’ used as a preselected parent hydride name 
+for <$NH3$>; this method is used only with monoamines. 
+ru: путем добавления названия замещающей группы R− к термину «амин», используемому в качестве предварительно выбранного 
+названия &(parent hydride|ro) для <$NH3$>; этот метод используется только с моноаминами.
+
+@End
+
+en: **Note**: Amine is not a true preselected parent hydride. In these recommendations, it is considered as a ‘pseudo’ parent 
+hydride, based on the premise that this method originated by modification of a functional class name based on the class 
+name amine, for example, ethyl amine. The space in the functional class name is eliminated to form the current name 
+ethylamine 
+ru: **Примечание**: Амин не является истинно предопределенным &(parent hydride|tv). В данных рекомендациях он рассматривается 
+как «псевдо» &(parent hydride), исходя из предположения, что этот метод возник путем модификации &(functional class name|ro), 
+основанного на названии класса «амин», например, «этил амин». Пробел в &(functional class name|ro) удаляется, образуя текущее 
+название «этиламин».
+
+en: Method (1) leads to preferred IUPAC names.
+ru: Метод (1) приводит к предпочтительным названиям ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-NH2@n(\textit{N})
+$>
+
+en: (1) methanamine (PIN)  <br>
+(2) methylazane  <br>
+(3) methylamine 
+ru: (1) метанамин (PIN) <br>
+(2) метилазан <br>
+(3) метиламин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(3)-CH@n(2,90)<`|CH3>-CH2@n(1)-NH2@n(\textit{N})
+$>
+
+en: (1) 2-methylpropan-1-amine (PIN)  <br>
+(2) (2-methylpropyl)azane  <br>
+(3) (2-methylpropyl)amine
+ru: (1) 2-метилпропан-1-амин (PIN) <br>
+(2) (2-метилпропил)азан <br>
+(3) (2-метилпропил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq@n(2,-70,.4)<-NH2>_qO@n(1)_q
+$>
+
+en: 1-benzofuran-2-amine (PIN)  <br>
+(1-benzofuran-2-yl)azane  <br>
+(1-benzofuran-2-yl)amine 
+ru: 1-бензофуран-2-амин (PIN) <br>
+(1-бензофуран-2-ил)азан <br>
+(1-бензофуран-2-ил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N@n(1)\\|`//@n(4,30,.4)<`\>|NH2
+$>
+
+en: quinolin-4-amine (PIN)  <br>
+(quinolin-4-yl)azane  <br>
+(quinolin-4-yl)amine  <br>
+4-quinolylamine 
+ru: хинолин-4-амин (PIN) <br>
+(хинолин-4-ил)азан <br>
+(хинолин-4-ил)амин <br>
+4-хинолиламин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q<_(a54)NH2>@n(3,10)_qq_q@n(1,-80)_q
+$>
+
+en: 1_H_-inden-3-amine (PIN)  <br>
+(1_H_-inden-3-yl)azane  <br>
+(1_H_-inden-3-yl)amine 
+ru: 1_H_-инден-3-амин (PIN) <br>
+(1_H_-инден-3-ил)азан <br>
+(1_H_-инден-3-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_q<_(a54)NH2>@n(3,10)_q_qS@n(1,-80,.6)_q@n(13,-90,.5)`\`/`\`/|\/\/
+$>
+
+en: 1-thiacyclotridecan-3-amine (PIN)  <br>
+(1-thiacyclotridecan-3-yl)azane  <br>
+(1-thiacyclotridecan-3-yl)amine 
+ru: 1-тиациклотридекан-3-амин (PIN) <br>
+(1-тиациклотридекан-3-ил)азан <br>
+(1-тиациклотридекан-3-ил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-CH2-SiH2@n(4)-CH2-S@n(6)-CH2-SiH2@n(8)-CH2-CH2@n(10)-NH2
+$>
+
+en: 2,6-dithia-4,8-disiladecan-10-amine (PIN)  <br>
+(2,6-dithia-4,8-disiladecan-10-yl)azane  <br>
+(2,6-dithia-4,8-disiladecan-10-yl)amine 
+ru: 2,6-дитиа-4,8-дисиладекан-10-амин (PIN) <br>
+(2,6-дитиа-4,8-дисиладекан-10-ил)азан <br>
+(2,6-дитиа-4,8-дисиладекан-10-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,-30)<\CH3>`/`\`|/\@n(1,-90)/NH2
+$>
+
+en: 2-methylcyclohexan-1-amine (PIN)  <br>
+(2-methylcyclohexyl)azane  <br>
+(2-methylcyclohexyl)amine 
+ru: 2-метилциклогексан-1-амин (PIN) <br>
+(2-метилциклогексил)азан <br>
+(2-метилциклогексил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2@n(2)-CH2@n(1)-NH2
+$>
+
+en: 2-chloroethan-1-amine (PIN)  <br>
+(2-chloroethyl)azane  <br>
+(2-chloroethyl)amine
+ru: 2-хлорэтан-1-амин (PIN) <br>
+(2-хлорэтил)азан <br>
+(2-хлорэтил)амин
+
+@End
+
+#P-62.2.1.3+
+en: Amino groups, i.e., <%n%>, attached to heteroatoms 
+ru: Аминогруппы, т.е. <%n%>, присоединенные к гетероатомам.
+%n: <$–NH2$>
+
+en: When attached to heteroatoms, amino groups are expressed as suffixes when representing the principal characteristic 
+group. 
+ru: При присоединении к гетероатомам аминогруппы обозначаются суффиксами, представляющими основную &(characteristic group).
+
+@Examples
+
+@cell
+<$ N`/`-`\/-\-NH2 $>
+
+en: piperidin-1-amine (PIN)  <br>
+(piperidin-1-yl)azane  <br>
+(piperidin-1-yl)amine
+ru: пиперидин-1-амин (PIN) <br>
+(пиперидин-1-ил)азан <br>
+(пиперидин-1-ил)амин
+
+@cell
+<$ (CH3)3Si-NH2 $>
+  
+en: 1,1,1-trimethylsilanamine (PIN)  <br>
+(trimethylsilyl)azane  <br>
+(trimethylsilyl)amine
+ru: 1,1,1-триметилсиланамин (PIN) <br>
+(триметилсилил)азан <br>
+(триметилсилил)амин
+
+@End
+
+#P-62.2.2
+en: Secondary and tertiary amines 
+ru: Вторичные и третичные амины
+
+#P-62.2.2.1+
+en: Symmetrical and unsymmetrical secondary and tertiary amines are named only by the same methods 
+described in P-62.2.1.2.
+ru: Симметричные и несимметричные вторичные и третичные амины называются только теми же методами, 
+которые описаны в пункте P-62.2.1.2.
+
+@List 1
+
+@item
+en: substitutively using the retained name ‘aniline’ or the suffix ‘amine’ and the name of a parent hydride with 
+further _N_-substitution; 
+ru: замещающим образом, используя сохраненное название «анилин» или суффикс «амин» и название &(parent hydride|ro) 
+с дальнейшим _N_-замещением;
+
+@item
+en: substitutively, by prefixing, in alphabetical order when required, the name(s) of the substituent group(s) R, R′ or 
+R′′ to the parent hydride name ‘azane’. In order to avoid ambiguity, the second prefix in a secondary amine, and 
+the second and the third prefixes in a tertiary amines must be enclosed in parentheses when these prefixes denote 
+simple substituents. 
+ru: замещающим образом, путем добавления, при необходимости, в алфавитном порядке, названия(й) замещающей(их) 
+группы(групп) R, R′ или R′′ к названию &(parent hydride|ro) «азан». Во избежание неоднозначности, второй префикс 
+во вторичном амине, а также второй и третий префиксы в третичных аминах должны быть заключены в скобки, если эти 
+префиксы обозначают простые &(substituent|*).
+
+@item
+en: substitutively, by prefixing, in alphabetical order when required, the name(s) of the substituent group(s) R, R′ or 
+R′′ to the parent hydride name ‘amine’. In order to avoid ambiguity, the second prefix in a secondary amine, and 
+the second and the third prefixes in a tertiary amines must be enclosed in parentheses when these prefixes denote 
+simple substituents.
+ru: замещающим образом, путем добавления, при необходимости, в алфавитном порядке, названия(й) замещающей(их) 
+группы(групп) R, R′ или R′′ к названию &(parent hydride|ro) «амин». Во избежание неоднозначности, второй префикс во 
+вторичном амине, а также второй и третий префиксы в третичном амине должны быть заключены в скобки, если эти префиксы 
+обозначают простые &(substituent|*).
+
+@End
+
+en: Method (1) generates preferred IUPAC names. Functional parent names like diethylamine and triethylamine are 
+deprecated. The prefixes in names of such secondary and tertiary amines formed by method (3) are set off by 
+parentheses to distinguish them from these deprecated names. 
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре IUPAC. Функциональные &(parent name|*), такие как 
+диэтиламин и триэтиламин, считаются устаревшими. Префиксы в названиях таких вторичных и третичных аминов, образованных 
+методом (3), выделяются скобками, чтобы отличать их от этих устаревших названий.
+
+
+
+#P-62.3
+en: Imines 
+ru: Имины
+
+#P-62.4
+en: _N_-Substitution of amines and imines by heteroatoms  
+ru: _N_-Замещение аминов и иминов гетероатомами
+
+#P-62.5
+en: Amine oxides, imine oxides and chalcogen analogues 
+ru: Оксиды аминов, оксиды иминов и халькогеновые аналоги
+
+#P-62.6
+en: Amine and imine salts 
+ru: Соли аминов и иминов
+
+
+
+
+#P-63
+en: Hydroxy compounds, ethers, peroxols, peroxides and chalcogen analogues 
+ru: Гидроксисоединения, эфиры, пероксолы, пероксиды и аналоги халькогенов
+
+#P-64
+en: Ketones, pseudoketones and heterones, and chalcogen analogues 
+ru: Кетоны, псевдокетоны и гетероны, а также аналоги халькогенов
+
+#P-65
+en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
+ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+
+#P-66
+en: Amides, imides, hydrazides, nitriles, and aldehydes 
+ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений
