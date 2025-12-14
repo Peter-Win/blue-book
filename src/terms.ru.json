@@ -452,9 +452,10 @@
   "parent hydride|tv*": "исходными гидридами",
   "parent hydride|pr*": "исходных гидридах",
 
-  "parent name": "исходное имя",
-  "parent name|ro": "исходного имени",
-  "parent name|da": "исходному имени",
+  "parent name": "исходное название",
+  "parent name|ro": "исходного названия",
+  "parent name|da": "исходному названию",
+  "parent name|*": "исходные названия",
 
   "parent phane hydrocarbon": "исходный фановый углеводород",
   "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
@@ -471,6 +472,7 @@
   "parent ring system|pr": "исходной кольцевой системе",
 
   "parent [structure]": "исходная",
+  "parent [structure]|vi": "исходную",
   "parent [structure]|*": "исходные",
   "parent structure": "исходная структура",
   "parent structure|ro": "исходной структуры",
@@ -572,6 +574,7 @@
   "retained [name]*": "сохранённые",
   "retained [name]pr*": "сохранённых",
   "retained name": "сохранённое название",
+  "retained name|ro": "сохранённого названия",
   "retained name|*": "сохранённые названия",
   "retained name|ro*": "сохранённых названий",
   "retained name|da*": "сохранённым названиям",
