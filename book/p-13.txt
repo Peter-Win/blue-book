@@ -620,7 +620,7 @@ ru: фенил (предпочтительный префикс)
 <$ {}-O-{} $>
 
 en: oxy (preselected prefix) 
-ru: окси (предпочтительный префикс)
+ru: окси (&(preselected prefix))
 
 @cell
 -->
@@ -682,7 +682,7 @@ ru: пентил (предпочтительный префикс)
 <$ -O- $>
 
 en: oxy (preselected prefix) 
-ru: окси (предпочтительный префикс)
+ru: окси (&(preselected prefix))
 
 @cell
 -->
@@ -697,7 +697,7 @@ ru: пентилокси (предпочтительный префикс)
 <$ Cl-{} $>
 
 en: chloro (preselected prefix)
-ru: хлор (предпочтительный префикс)
+ru: хлор (&(preselected prefix))
 // В русских источниках не используется буква "о" на конце префикса
 
 @cell
@@ -707,7 +707,7 @@ ru: хлор (предпочтительный префикс)
 <$ {}-CO-{} $>
 
 en: carbonyl (preselected prefix)
-ru: карбонил (предпочтительный префикс)
+ru: карбонил (&(preselected prefix))
 
 @cell
 -->
@@ -724,7 +724,7 @@ ru: хлоркарбонил <br>
 <$ {}-NH-{} $>
 
 en: azanediyl <br> (preselected prefix)
-ru: азандиил <br> (предварительно выбранный префикс)
+ru: азандиил <br> (&(preselected prefix))
 
 @cell
 +
@@ -742,7 +742,7 @@ ru: этан-1,2-диил <br> (предпочтительный префикс)
 <$ {}-NH-{} $>
 
 en: azanediyl <br> (preselected prefix)
-ru: азандиил <br> (предварительно выбранный префикс)
+ru: азандиил <br> (&(preselected prefix))
 
 @cell
 -->

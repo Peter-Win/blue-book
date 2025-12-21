@@ -1,0 +1,73 @@
+#P-63
+en: Hydroxy compounds, ethers, peroxols, peroxides and chalcogen analogues 
+ru: Гидроксисоединения, эфиры, пероксолы, пероксиды и аналоги халькогенов
+
+@Content
+
+#P-63.0
+en: Introduction 
+ru: Введение
+
+#P-63.1
+en: Hydroxy compounds and chalcogen analogues 
+ru: Гидроксисоединения и аналоги халькогенов
+
+#P-63.2
+en: Ethers and chalcogen analogues 
+ru: Эфиры и аналоги халькогенов
+
+#P-63.3
+en: Peroxides and chalcogen analogues 
+ru: Пероксиды и аналоги халькогенов
+
+#P-63.4
+en: Hydroperoxides (peroxols) and chalcogen analogues 
+ru: Гидропероксиды (пероксолы) и аналоги халькогенов
+
+#P-63.5
+en: Cyclic ethers, sulfides, selenides, and tellurides 
+ru: Циклические эфиры, сульфиды, селениды и теллуриды
+
+#P-63.6
+en: Sulfoxides and sulfones 
+ru: Сульфоксиды и сульфоны
+
+#P-63.7
+en: Polyfunctional compounds 
+ru: Полифункциональные соединения
+
+#P-63.8
+en: Salts of hydroxy compounds, hydroperoxy compounds and their chalcogen analogues 
+ru: Соли гидроксисоединений, гидропероксидных соединений и их халькогенных аналогов
+
+
+
+
+
+#P-64
+en: Ketones, pseudoketones and heterones, and chalcogen analogues 
+ru: Кетоны, псевдокетоны и гетероны, а также аналоги халькогенов
+
+#P-65
+en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
+ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+
+#P-66
+en: Amides, imides, hydrazides, nitriles, and aldehydes 
+ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

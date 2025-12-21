@@ -387,6 +387,7 @@
   "multiplicative nomenclature|tv": "мультипликативной номенклатурой",
   "multiplicative nomenclature|vi": "мультипликативую номенклатуру",
   "multiplicative [nomenclature]|vi": "мультипликативую",
+  "multiplicative nomenclature|pr": "мультипликативной номенклатуре",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
@@ -480,7 +481,7 @@
   "parent structure|vi": "исходную структуру",
   "parent structure|tv": "исходной структурой",
   "parent structure|pr": "исходной структуре",
-  "parent structure|*": "исходные структура",
+  "parent structure|*": "исходные структуры",
   "parent structure|ro*": "исходных структур",
   "parent structure|tv*": "исходными структурами",
   "parent structure|pr*": "исходных структурах",
@@ -507,6 +508,9 @@
   "phane name|*": "названия фан",
   "phane name|ro*": "названий фан",
   "phane name|pr*": "названиях фан",
+
+  "phane node": "фановый узел",
+  "phane node|ro*": "фановых узлов",
 
   "phane nomenclature": "номенклатура фан",
   "phane nomenclature|ro": "номенклатуры фан",
@@ -564,6 +568,10 @@
   "phane system|ro*": "фановых систем",
   "phane system|da*": "фановым системам",
 
+  "preselected name": "предварительно выбранное название",
+
+  "preselected prefix": "предварительно выбранный префикс",
+
   "quinque": "квинки",
 
   "replacement a prefix": "префикс замещения (‘a’)",
@@ -575,6 +583,7 @@
   "retained [name]pr*": "сохранённых",
   "retained name": "сохранённое название",
   "retained name|ro": "сохранённого названия",
+  "retained name|pr": "сохранённом названии",
   "retained name|*": "сохранённые названия",
   "retained name|ro*": "сохранённых названий",
   "retained name|da*": "сохранённым названиям",
@@ -616,6 +625,8 @@
 
   "skeletal replacement a": "скелетное замещения (‘a’)",
   "skeletal replacement a|ro": "скелетного замещения (‘a’)",
+
+  "skeletal replacement name": "название скелетного замещения (‘a’)",
 
   "spiro atom": "спироатом",
   "spiro atom|*": "спироатомы",

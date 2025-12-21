@@ -132,7 +132,7 @@ const onHeader = (reader) => {
   const headerLine = reader.readLine();
   const h = onLocalParagraph("header", reader);
   h.headerId = headerLine.slice(1).trim();
-  if (/^\([a-z\d]\)/.test(h.headerId)) {
+  if (/^\([a-z\d]+\)/.test(h.headerId)) {
     h.inline = true;
     h.refId = `${reader.prevHeaderId} ${h.headerId}`;
   } else {
@@ -411,7 +411,9 @@ const onPair = (chunks, pos, leftSign, rightSign, type) => {
   const leftPos = content.indexOf(leftSign);
   if (leftPos >= 0) {
     const startPos = leftPos + leftSign.length;
-    const rightPos = content.indexOf(rightSign, startPos);
+    let rightPos = content.indexOf(rightSign, startPos);
+    // Изредка встречается проблема двойной вложенности. Например, верхний индекс для верхнего индекса
+    // Правильное решение пока не найдено. Поэтому в тексте тупо вставлены теги <sup/>
     if (rightPos >= 0) {
       const left = content.slice(0, leftPos);
       const code = content.slice(startPos, rightPos).trim();
