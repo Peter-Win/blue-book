@@ -228,6 +228,7 @@
   "functional class name|*": "названия по функциональному классу",
   "functional class name|ro*": "названий по функциональному классу",
   "functional class name|da*": "названиям по функциональному классу",
+  "functional class name|tv*": "названиями по функциональному классу",
 
   "functional class nomenclature": "номенклатура функциональных классов",
   "functional class nomenclature|ro": "номенклатуры функциональных классов",
@@ -583,6 +584,7 @@
   "retained [name]pr*": "сохранённых",
   "retained name": "сохранённое название",
   "retained name|ro": "сохранённого названия",
+  "retained name|tv": "сохранённым названием",
   "retained name|pr": "сохранённом названии",
   "retained name|*": "сохранённые названия",
   "retained name|ro*": "сохранённых названий",

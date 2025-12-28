@@ -8,9 +8,563 @@ ru: Гидроксисоединения, эфиры, пероксолы, пер
 en: Introduction 
 ru: Введение
 
+en: Traditionally, hydroxy compounds are compounds having one or more hydroxy groups attached to carbon atoms. 
+Alcohols, phenols, ‘enols’ and ‘ynols’ are recognized as important classes of hydroxy compounds. The category is 
+extended so as to include compounds having one or more hydroxy groups attached to atoms other than carbon without 
+being classified as acids as defined in the seniority of classes. For instance, <%a%> is classified and named as a 
+hydroxy compound, silanol, but <%b%> is classified and named as an acid, silicic acid. 
+ru: Традиционно гидроксисоединениями считаются соединения, имеющие одну или более гидроксильных групп, присоединенных 
+к атомам углерода. Спирты, фенолы, «енолы» и «инолы» признаны важными классами гидроксисоединений. Эта категория расширена 
+и включает соединения, имеющие одну или более гидроксильных групп, присоединенных к атомам, отличным от углерода, 
+без классификации в качестве кислот в соответствии с определением старшинства классов. Например, <%a%> классифицируется 
+и называется гидроксисоединением, силанолом, а <%b%> классифицируется и называется кислотой, кремниевой кислотой.
+%a: <$ H3Si-OH $>
+%b: <$ Si(OH)4 $>
+
+@p .framed
+en: The suffix ‘peroxol’ is now introduced to name the group –OOH, formerly named by functional class nomenclature 
+as ‘hydroperoxide’. Chalcogen analogues are names by suffixes such as ‘thioperoxol’, ‘dithioperoxol’, 
+‘selenoperoxol’, and ‘selenothioperoxol’.  
+ru: Суффикс «пероксол» теперь используется для обозначения группы –OOH, ранее обозначавшейся в &(functional class nomenclature|pr) 
+как «гидропероксид». Аналоги халькогенов обозначаются суффиксами, такими как «тиопероксол», «дитиопероксол», 
+«селенопероксол» и «селенотиопероксол».
+
+en: Rules on hydroxy compounds (alcohols and phenols), ethers, hydroperoxides, peroxides, and their chalcogen analogues, 
+discussed as Rules C-201 to C-218 in the 1979 Recommendations (ref. 1) and Rule R-5.5 in the 1993 
+Recommendations (ref. 2) are superseded by the corresponding rules described in this section, P-63. 
+ru: Правила, касающиеся гидроксисоединений (спиртов и фенолов), эфиров, гидропероксидов, пероксидов и их халькогенных 
+аналогов, обсуждавшиеся в качестве правил C-201–C-218 в Рекомендациях 1979 года (ссылка 1) и правила R-5.5 в Рекомендациях 
+1993 года (ссылка 2), заменяются соответствующими правилами, описанными в этом разделе, P-63.
+
+
 #P-63.1
 en: Hydroxy compounds and chalcogen analogues 
 ru: Гидроксисоединения и аналоги халькогенов
+
+en: Names generated substitutively are preferred IUPAC names rather than functional class names or retained names, with 
+the exception of the retained name ‘phenol’ that can be fully substituted. Functional class names are traditional names 
+that are restricted today to alcohols, R-OH, where the R– group is a simple aliphatic or alicyclic group. 
+ru: Названия, полученные путем замещения, являются предпочтительными названиями по номенклатуре IUPAC, а не 
+&(functional class name|tv*) или &(retained name|tv*), за исключением &(retained name|ro) «фенол», которое может быть 
+полностью замещено. &(Functional class name|*) — это традиционные названия, которые сегодня применяются только к спиртам, 
+R-OH, где группа R– представляет собой простую алифатическую или алициклическую группу.
+
+@Content
+
+#P-63.1.1
+en: Retained names 
+ru: &(Retained name|*)
+
+#P-63.1.1.1+
+en: Only one name is retained, phenol, for <%a%>, both as a preferred name and for general nomenclature. 
+The structure is substitutable at any position. Locants 2, 3, and 4 are recommended, not _o_, _m_, and _p_. 
+%a: <$ C6H5-OH $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,30)/OH
+$>
+
+en: phenol (PIN; retained name) 
+ru: фенол (PIN; &(retained name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<\Br>@n(2,90)`//`\`||/\\@n(1,30)/OH
+$>
+
+en: 2-bromophenol (PIN)  <br>
+(not _o_-bromophenol) 
+ru: 2-бромфенол (PIN) <br>
+(не _o_-бромфенол)
+
+@End
+
+#P-63.1.1.2+
+en: The following names are retained but only for general nomenclature and only when unsubstituted. 
+ru: Следующие названия сохраняются, но только для общей номенклатуры и только в том случае, если они не заменены.
+
+@Examples --
+
+@cell
+<$ HO-CH2-CH2-OH $>
+
+en: ethylene glycol  <br>
+ethane-1,2-diol (PIN) 
+ru: этиленгликоль <br>
+этан-1,2-диол (PIN)
+
+@cell
+<$ HO-CH2-CH<`|OH>-CH2-OH $>
+
+en: glycerol  <br>
+propane-1,2,3-triol (PIN) 
+ru: глицерин <br>
+пропан-1,2,3-триол (PIN)
+
+@cell
+<$ HO-CH2-C-CH2OH; CH2OH|#C|CH2OH $>
+
+en: pentaerythritol  <br>
+2,2-bis(hydroxymethyl)propane-1,3-diol (PIN)
+ru: пентаэритритол <br>
+2,2-бис(гидроксиметил)пропан-1,3-диол (PIN)
+
+@cell
+<$ H3C-C-C-CH3; HO|#2|H3C; OH|#3|CH3 $>
+
+en: pinacol  <br>
+2,3-dimethylbutane-2,3-diol (PIN) 
+ru: пинакол <br>
+2,3-диметилбутан-2,3-диол (PIN)
+
+@cell
+<$ H3C-/=\<-OH>`//`-`\\ $>
+
+en: cresol (_p_-isomer shown ; also _o_- and _m_-isomers)  <br>
+4-methylphenol (PIN) 
+ru: крезол (показан _p_-изомер; также _o_- и _m_-изомеры) <br>
+4-метилфенол (PIN)
+
+@cell
+<$ H3C\HC<`/H3C>-/=</OH>\<-CH3>`//`-`\\ $>
+
+en: carvacrol  <br>
+2-methyl-5-(propan-2-yl)phenol (PIN) 
+ru: карвакрол <br>
+2-метил-5-(пропан-2-ил)фенол (PIN)
+
+@cell
+<$ H3C\HC<`/H3C>-/<`\HO>=\<-CH3>`//`-`\\ $>
+
+en: thymol  <br>
+5-methyl-2-(propan-2-yl)phenol (PIN) 
+ru: тимол <br>
+5-метил-2-(пропан-2-ил)фенол (PIN)
+
+@cell
+<$ |<\OH>`//`\`||/\\/OH $>
+
+en: pyrocatehol  <br>
+benzene-1,2-diol (PIN)
+ru: пирокатехол <br>
+бензол-1,2-диол (PIN)
+
+@cell
+<$ HO\=\<-OH>`//`-`\\/ $>
+
+en: resorcinol  <br>
+benzene-1,3-diol (PIN) 
+ru: резорцинол <br>
+бензол-1,3-диол (PIN)
+
+@cell
+<$ HO-//-\\<-OH>`/`=`\ $>
+
+en: hydroquinone  <br>
+benzene-1,4-diol (PIN) 
+ru: гидрохинон <br>
+бензол-1,4-диол (PIN)
+
+@cell
+<$ OH|\|`//<|NO2>`\`||<`\O2`N>/\/NO2 $>
+
+en: picric acid  <br>
+2,4,6-trinitrophenol (PIN) 
+ru: пикриновая кислота <br>
+2,4,6-тринитрофенол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,-30)\\@n(2,-30)|`//`\`//`\`||/\\<|>/
+$>
+
+en: 1-naphthol  <br>
+naphthalen-1-ol (PIN)
+ru: 1-нафтол <br>
+нафтален-1-ол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|\/@n(1,-90)\\@n(2,-30)|`//`\`//@n(10,90)`\`//`\`||/\\<|>/@n(9,-150)\|
+$>
+
+en: 9-anthrol  <br>
+anthracen-9-ol (PIN) 
+ru: 9-антрол <br>
+антрацен-9-ол (PIN)
+
+@End
+
+#P-63.1.2
+en: Systematic names of alcohols, phenols, enols, and ynols  
+ru: Систематические названия спиртов, фенолов, енолов и инолов
+
+en: Hydroxy compounds are named in three ways: 
+ru: Гидроксильные соединения называются тремя способами:
+
+@List 1
+
+@item
+en: substitutively, using the suffix ‘ol’ and the prefix ‘hydroxy’. The presence of several ‘ol’ characteristic groups is 
+denoted by the numerical multiplying prefixes ‘di’, ‘tri’, etc.; the final letter ‘a’ in a multiplying prefix is elided 
+before the suffix ‘ol’. Rule P-44 is applied when a principal chain or a senior ring system must be chosen. When 
+there is a choice for numbering, the starting point and the direction of numbering of a compound are chosen so 
+as to give lowest locants to the ‘ol’ suffixes; 
+ru: замещающим образом, используя суффикс «ол» и префикс «гидрокси». Наличие нескольких &(characteristic group|ro*) «ол» 
+обозначается числовыми умножающими префиксами «ди», «три» и т. д.; последняя буква «а» в умножающем префиксе опускается 
+перед суффиксом «ол». Правило P-44 применяется, когда необходимо выбрать основную цепь или старшую кольцевую систему. 
+При выборе нумерации начальная точка и направление нумерации соединения выбираются таким образом, чтобы суффиксы «ол» 
+получали наименьшие локанты;
+
+@item
+en: by functional class nomenclature and the class term ‘alcohol’; 
+ru: по &(functional class nomenclature|pr) и термину класса «алкоголь»;
+
+@item
+en: as assemblies of identical units by multiplicative nomenclature when the conditions for its use are fulfilled (see 
+P-51.3) 
+ru: как совокупности идентичных единиц по &(multiplicative nomenclature|pr) при соблюдении условий ее использования 
+(см. P-51.3)
+
+@End
+
+en: Method (1) generates preferred IUPAC names. Names as assemblies of identical units, method (3), are preferred to 
+those that are formed by simple substitution (P-51.1.5). 
+ru: Метод (1) генерирует предпочтительные названия IUPAC. Названия, представляющие собой совокупности идентичных единиц, 
+метод (3), предпочтительнее тех, которые образуются простой заменой (P-51.1.5).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,-30)\\@n(2,-90)</NO2>|<\OH>@n(3,90)`//`\`||/
+$>
+
+en: (1) 2-nitrobenzene-1,3-diol (PIN)  <br>
+(not 2-nitroresorcinol) 
+ru: (1) 2-нитробензол-1,3-диол (PIN) <br>
+(не 2-нитрорезорцин)
+// Resorcinol = Резорцин http://charchem.org/ru/subst-ref/?langs=*&id=396
+
+@cell
+<$ CH3-OH $>
+
+en: (1) methanol (PIN)  <br>
+(2) methyl alcohol 
+ru: (1) метанол (PIN) <br>
+(2) метиловый спирт
+
+@cell
+<$ (CH3)3C-OH $>
+
+en: (1) 2-methylpropan-2-ol (PIN)  <br>
+(2) _tert_-butyl alcohol 
+ru: (1) 2-метилпропан-2-ол (PIN) <br>
+(2) _трет_-бутиловый спирт
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3,90)<`|OH>-CH2@n(2)-CH2@n(1)-OH
+$>
+
+en: (1) butane-1,3-diol (PIN) 
+ru: (1) бутан-1,3-диол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(5)-CH2@n(4)-CH@n(3)=CH@n(2)-CH2@n(1)-OH
+$>
+
+en: (1) pent-2-ene-1,5-diol (PIN) 
+ru: (1) пент-2-ен-1,5-диол (PIN)
+
+@cell
+<$ |_q_q<-OH>_q_q $>
+
+en: (1) cyclopentanol (PIN) 
+ru: (1) циклопентанол (PIN)
+
+@cell
+<$ OH|\|<\OH>`//<|OH>`\<`/HO>`||<`\HO>/\/OH $>
+
+en: (1) benzenehexol (PIN)  
+ru: (1) бензолгексол (PIN)
+
+@cell
+<$ 
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-|-`|@n(1,-90)/@n(2)\@n(3)</OH>|`/`\
+$>
+
+en: (1) bicyclo[4.2.0]octan-3-ol (PIN) 
+ru: (1) бицикло[4.2.0]октан-3-ол (PIN)
+
+@cell
+<$ OH|\`\`/||\//`|/N\\|`//`\ $>
+
+en: (1) quinolin-8-ol (PIN)
+ru: (1) хинолин-8-ол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+@:cwa(n)_(a-60)@bt(&n)_(a30)@;
+$L(%L:1.1)\\<-OH>@n(2,175)`/@n(1,-120)`=`\@btc(7)//-@n(3,120)@cwa(8)#
+`||/@btc(1)\\|@n(1,-140)<`//<|OH>@n(2,-100)`\@n(3,-30)>@cwa(2)#
+=\@btc(3)`//`-@n(3,-60)<`\\r<`-HO>@n(2,-10)/@n(1,60)>@cwa(4)#
+||`/@btc(5)`\\`|@n(3,30)<//<`|OH>@n(2,90)\@n(1,150)>@cwa(6)
+$>
+
+en: 1,3,5,7(1,3)-tetrabenzenacyclooctaphane-<%d%>-tetrol (PIN)
+ru: 1,3,5,7(1,3)-тетрабензенациклоокта&(phane)-<%d%>-тетрол (PIN)
+%d:1^{2},3^{2},5^{2},7^{2}
+
+@cell
+<$ OH`|`/`\\`|//\|\//`|`\`// $>
+
+en: (1) naphthalen-4a(2_H_)-ol (PIN)  <br>
+2,4a-dihydronaphthalen-4a-ol  <br>
+(see P-58.2)
+ru: (1) нафтален-4a(2_H_)-ол (PIN) <br>
+2,4a-дигидронафтален-4a-ол <br>
+(см. P-58.2)
+
+@cell
+<$ OH|/\\|`//`\`|`\`//|\\/|OH $>
+
+en: (1) naphthalene-4a,8a-diol (PIN)  <br>
+4a,8a-dihydronaphthalene-4a,8a-diol  <br>
+(see P-58.2) 
+ru: (1) нафталин-4a,8a-диол (PIN) <br>
+4a,8a-дигидронафталин-4a,8a-диол <br>
+(см. P-58.2)
+
+@cell
+<$
+@:o(n)"\small{&n}":o&n@;
+@o(6)_(x1.92,y0.33)@o(5)_(x1.47,y0.69)@o(1)_(x1.97,y1.97)@o(9)_(x0.54,y1.39)@o(10)_(x0.34,y1.97)@o(11)_(x-0.31,y1.58)@o(29)_(x-0.83,y1.67)@o(28)#
+_(x-1.11,y1.58)@o(47)_(x-1.56,y1)@o(48)_(x-2.03,y0.58)@o(49)_(x-2.28,y0.03)@o(59)_(x-2.19,y-1.08)@o(60)_(x-1.53,y-1.78)@o(52)_(x-0.78,y-1.67)@o(53)#
+_(x-0.25,y-1.67)@o(54)_(x0.33,y-2)@o(39)_(x0.89,y-1.58)@o(38)_(x1.78,y-1.64)@o(19)_(x1.89,y-1.08)@o(20)_#1#
+$color(gray)_(x1.03,y1.94,H)@o(7)_(x1.42,y0.61,H)@o(8)<-h#o9>_(x-0.17,y2.17,H)@o(25)_(x1.17,y0.89,H)@o(26)<-h#o10>_(x-0.61,y2.92,H)@o(27)<-h#o28>#
+_(x-1.39,y0.58,H)@o(45)_(x-0.56,y1.67,H)@o(46)<-h#o47>_(x-2.33,y0.81,H)@o(58)<-h#o59>_(x-0.61,y-2.39,H)@o(57)_(x-1.92,y-0.14,H)@o(56)<-h#o60>_(x-1.56,y-2.42,H)#
+@o(55)<-h#o54>_(x1.81,y-1.19,H)@o(41)_(x-0.64,y-1.89,H)@o(40)<-h#o39>_(x1.53,y-1.36,H)@o(21)<-h#o20>_(x1.97,y0.72,H)@o(22)<-h#o7>_(x0,y1.36,H)@o(23)#
+_(x1.5,y1.47,H)@o(24)<-h#o25>_(x-0.36,y1.11,H)@o(44)<-h#o45>_(x-1.72,y1.22,H)@o(43)<-h#o57>_(x-1.19,y-2.28,H)@o(42)<-h#o41>-h#o23$color();
+#o19_(x2.03,y0.36)@o(18)_(x1.58,y-0.14)@o(4)<-#o5>_(x1.53,y1.75)@o(3)_(x2.11,y-0.11)@o(2)<-#o1>_(x1.11,y2.44)@o(12)<-#o11>_(x-0.92,y1.11)@o(13)_(x0.39,y1.75)#
+@o(30)<-#o29>_(x-1.25,y1.56)@o(31)<-#o48>_(x-2.44,y-0.33)@o(32)_(x-1.44,y1.03)@o(50)<-#o49>_(x-2.19,y-0.86)@o(51)<-#o52>_(x-0.22,y-1.97)@o(35)_(x-1.28,y-1.19)#
+@o(36)<-#o53>_(x0.14,y-1.89)@o(37)<-#o38>_(x2.06,y-1.06)@o(17)<-#o18>_(x1.28,y1.42)@o(16)_(x1.97,y-0.56)@o(15)<-#o3>_(x1,y1.67)@o(14)<-#o13>_(x-1.53,y1.56)#
+@o(33)<-#o32>_(x-1.61,y-0.86)@o(34)<-#o35>-#o16; $L(1.4)#o1_(A-55)OH; #o9_(A-30)H
+$>
+
+en: <%c%>fulleren-1(9_H_)-ol (PIN)  <br>
+1,9-dihydro<%c%>fulleren-1-ol  <br>
+(see P-58.2) 
+ru: <%c%>фуллерен-1(9_H_)-ол (PIN) <br>
+1,9-дигидро<%c%>фуллерен-1-ол <br>
+(см. P-58.2)
+%c:(C_{60}-_I__{h})[5,6]
+
+@cell
+<$ HO-/=\<`//`-`\\>-CH2_(x1.4)/=\<-OH>`//`-`\\ $>
+
+en: (3) 4,4′-methylenediphenol (PIN)  <br>
+(1) 4-[(4-hydroxyphenyl)methyl]phenol 
+ru: (3) 4,4′-метилендифенол (PIN) <br>
+(1) 4-[(4-гидроксифенил)метил]фенол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|\`\`/<`\F>||\//`|@n(2',30)_p6CH=mN-CH2-CH2-N=mCH_(A30)|\\/`||</F>`\`/@n(2,150)/`|OH
+$>
+
+en: (3) 2,2′-[ethane-1,2-diylbis(azanylylidenemethanylylidene)]bis(6-fluorophenol)(PIN)  <br>
+(1) 2-fluoro-6-{[(2-{[(3-fluoro-2-hydroxyphenyl)methylidene]amino}ethyl)imino]methyl}phenol 
+ru: (3) 2,2′-[этан-1,2-диилбис(азанилилиденметанилилиден)]бис(6-фторфенол)(PIN) <br>
+(1) 2-фтор-6-{[(2-{[(3-фтор-2-гидроксифенил)метилиден]амино}этил)имино]метил}фенол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/<`|OH>@n(1,-30)\\@n(2,-30)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: (1) 3,4-dihydronaphthalen-1-ol (PIN) 
+ru: (1) 3,4-дигидронафтален-1-ол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||\//`|@n(2,30)</OH>`\\@n(1,-90)`/`\@n(8,-90)`/@n(7,-150)|@n(6,150)\@n(5,90)/
+$>
+
+en: (1) 5,6,7,8-tetrahydronaphthalen-2-ol (PIN)
+ru: (1) 5,6,7,8-тетрагидронафтален-2-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-C@n(2,90)<`||mCH2>-CH2@n(1,90)-OH
+$>
+
+en: (1) 2-methylidenepentan-1-ol (PIN)
+ru: (1) 2-метилиденпентан-1-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-C@n(4,90)<`||mH2C>-CH@n(3)<|OH>-CH2@n(2)-CH3@n(1)
+$>
+
+en: (1) 4-methylidenehexan-3-ol (PIN)  
+ru: (1) 4-метилиденгексан-3-ол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-<_(a54)CH2OH>@n(3,-20)_q<_(a54)CH2-CH2OH>@n(4,-90)_q_q@n(1,-90)<_(a54)HO>_q@n(2,-160)_(a54,N2)H2C
+$>
+
+en: (1) 4-(2-hydroxyethyl)-3-(hydroxymethyl)-2-methylidenecyclopentan-1-ol (PIN)
+ru: (1) 4-(2-гидроксиэтил)-3-(гидроксиметил)-2-метилиденциклопентан-1-ол (PIN)
+
+@cell
+<$
+HO-/=\<`//`-`\\>-/<`\HO>=\<-OH>`//`-<`/HO>`\\
+$>
+
+en: (1) [1,1′-biphenyl]-2,4,4′,6-tetrol (PIN)  <br>
+biphenyl-2,4,4′,6-tetrol 
+ru: (1) [1,1′-бифенил]-2,4,4′,6-тетрол (PIN) <br>
+бифенил-2,4,4′,6-тетрол
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1.1)`//`-`\\@btc(3)/=\@n(1,-170)-@n(4,-10)/@n(5,60)<`\HO>=\@btc(2)@n(1,-175)<`//`-<`/HO>@n(3,-60)`\\>-@n(1,-10)/<`\HO>=\@btc(1)`//`-<`/HO>`\\
+$>
+
+en: (1) [<%a%>-terphenyl]-<%b%>-tetrol (PIN)  <br>
+(in the PIN brackets enclose the name of an assembly requiring  <br>
+locants when suffixes are present; for numbering, see P-28.3)  <br>
+[<%c%>-terphenyl]-<%d%>-tetrol (see P-28.3) 
+ru: (1) [<%a%>-терфенил]-<%b%>-тетрол (PIN) <br>
+(в скобках PIN указано название &(assembly|ro), требующей локантов, <br>
+если присутствуют суффиксы; нумерацию см. в P-28.3) <br>
+[<%c%>-терфенил]-<%d%>-тетрол (см. P-28.3)
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:1^{2},1^{6},2^{3},2^{5}
+%c:1,1′:4′,1′′
+%d:2,3′,5′,6
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1.1)`//`-`\\@btc(1)/=\@n(1,-170)-@n(1,-10)/@n(2,60)<`\HO>=\@n(4,180)@btc(2)<`//`-`\\>-@n(1,-10)/=\@btc(3)`//`-`\\
+$>
+
+en: [<%a%>-terphenyl]-<%b%>-ol (PIN; see P-28.3)  <br>
+[<%c%>-terphenyl]-2′-ol (see P-28.3)
+ru: [<%a%>-терфенил]-<%b%>-ол (PIN; см. P-28.3) <br>
+[<%c%>-терфенил]-2′-ол (см. P-28.3)
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:2^{2}
+%c:1,1′:4′,1′′
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=@n(2,-120)</HO>\@n(1,-70)-@n(1',-110)/<`\OH>@n(2',-55)=\`//`-`\\
+$>
+
+en: (1) [1,1′-biphenyl]-2,2′-diol (PIN)  <br>
+2,2′-biphenol
+ru: (1) [1,1′-бифенил]-2,2′-диол (PIN) <br>
+2,2′-бифенол
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1',-30)\@n(2',-70)`\`/`\\`/||\//<`|>\//`|-@n(2,-110)||\//\//`|`\\`/<|>`\\<`|OH>@n(1,-150)`/
+$>
+
+en: [2,2′-binaphthalene]-1,1′-diol (PIN)  <br>
+2,2′-bi-1-naphthol 
+ru: [2,2′-бинафталин]-1,1′-диол (PIN) <br>
+2,2′-би-1-нафтол
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(8',-30)\`\`/||\//\//`|<`\\@n(1',-90)`/|>@n(2',-70)-@n(2,-110)||@n(3,150)\@n(4,150)<|OH>//\//`|`\\`/<|>`\\@n(1,-90)`/
+$>
+
+en: (1) [2,2′-binaphthalene]-4,8′-diol (PIN)  <br>
+3,7′-bi-1-naphthol
+ru: (1) [2,2′-бинафтален]-4,8′-диол (PIN) <br>
+3,7′-би-1-нафтол
+
+@End
+
+#P-63.1.3
+en: Heterols
+ru: Гетеролы 
+
+en: When the hydroxy group is attached to an atom other than carbon, hydroxy compounds belong to a compound class 
+called heterols. They are classified as hydroxy compounds and named using the suffix ‘ol’, unless they are classified as 
+acids and denoted by a retained name. Names formed using a suffix are preferred to those formed by means of the 
+prefix ‘hydroxy’. 
+ru: Когда гидроксильная группа присоединена к атому, отличному от углерода, гидроксисоединения относятся к классу соединений, 
+называемых гетеролами. Они классифицируются как гидроксисоединения и называются с суффиксом «ол», за исключением случаев, 
+когда они классифицируются как кислоты и обозначаются &(retained name|tv). Названия, образованные с помощью суффикса, 
+предпочтительнее названий, образованных с помощью префикса «гидрокси».
+
+@Examples
+
+@cell
+<$ (CH3)3Si-OH $>
+
+en: trimethylsilanol (PIN)  <br>
+hydroxytri(methyl)silane  <br>
+(silane is a preselected name; see P-12.2)
+ru: триметилсиланол (PIN) <br>
+гидрокситри(метил)силан <br>
+(силан — это &(preselected name); см. P-12.2)
+
+@cell
+<$ (CH3-CH2)2AlOH $>
+
+en: diethylalumanol  <br>
+diethyl(hydroxy)alumane  <br>
+(alumane is a preselected name; see P-12.2) 
+ru: диэтилалюманол <br>
+диэтил(гидрокси)алюман <br>
+(алюман — это &(preselected name); см. P-12.2)
+
+@End
+
+#P-63.1.4
+en: Substitutive nomenclature, prefix mode  
+ru: &(Substitutive nomenclature), префиксный режим
+
+#P-63.1.5
+en: Sulfur, selenium and tellurium analogues of hydroxy compounds 
+ru: Серные, селеновые и теллуровые аналоги гидроксисоединений
+
+
+
 
 #P-63.2
 en: Ethers and chalcogen analogues 
