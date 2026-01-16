@@ -582,6 +582,7 @@
 
   "retained [name]*": "сохранённые",
   "retained [name]pr*": "сохранённых",
+  "retained [name]": "сохранённое",
   "retained name": "сохранённое название",
   "retained name|ro": "сохранённого названия",
   "retained name|tv": "сохранённым названием",

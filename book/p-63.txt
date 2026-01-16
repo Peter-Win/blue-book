@@ -553,22 +553,299 @@ ru: диэтилалюманол <br>
 диэтил(гидрокси)алюман <br>
 (алюман — это &(preselected name); см. P-12.2)
 
+@cell
+<$
+@:n(n,a:-100,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-N@n(1)/-\`/`-`\
+$>
+
+en: piperidin-1-ol (PIN)  <br>
+1-hydroxypiperidine  <br>
+_N_-hydroxypiperidine
+ru: пиперидин-1-ол (PIN) <br>
+1-гидроксипиперидин <br>
+_N_-гидроксипиперидин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q<_(a54)OH>@n(2,10)_qN<-OH>@n(1,-90,.55)_q_q
+$>
+
+en: pyrrolidine-1,2-diol (PIN)  <br>
+1-hydroxypyrrolidin-2-ol  <br>
+_N_-hydroxypyrrolidin-2-ol 
+ru: пирролидин-1,2-диол (PIN) <br>
+1-гидроксипирролидин-2-ол <br>
+_N_-гидроксипирролидин-2-ол
+
+@cell
+<$ P(OH)3 $>
+  
+en: phosphorous acid (retained preselected name)  <br>
+(not phosphanetriol) 
+ru: фосфорная кислота (&(retained [name]) &(preselected name)) <br>
+(не фосфантриол)
+
+@cell
+<$ H2As-OH $>
+
+en: arsinous acid (retained preselected name)  <br>
+(not arsanol) 
+ru: арсиновая кислота (&(retained [name]) &(preselected name)) <br>
+(не арсанол)
+
 @End
 
 #P-63.1.4
 en: Substitutive nomenclature, prefix mode  
 ru: &(Substitutive nomenclature), префиксный режим
 
+en: Hydroxy groups are indicated by the prefix ‘hydroxy’ when:
+ru: Гидроксильные группы обозначаются префиксом «гидрокси», когда:
+
+@List 1
+
+@item
+en: a group having priority for citation as the principal characteristic group is present; or 
+ru: группа, имеющая приоритет для &(citation|ro), поскольку в ней присутствует основная &(characteristic group); или
+
+@item
+en: a hydroxy group cannot be denoted by a suffix.  
+ru: гидроксильная группа не может обозначаться суффиксом.
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH@n(6,90)<`|OH>-CH2@n(5)-CH2@n(4)-CH2@n(3)-CO@n(2)-CH3@n(1)
+$>
+
+en: (1) 6-hydroxyheptan-2-one (PIN) 
+ru: (1) 6-гидроксигептан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(6)-CH2@n(5)-CH2@n(4)-CH@n(3,90)<`|CH2-OH>-CH2@n(2,90)-CH2@n(1)-OH
+$>
+
+en: (2) 3-(hydroxymethyl)hexane-1,6-diol (PIN) 
+ru: (2) 3-(гидроксиметил)гексан-1,6-диол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH_(A100)`\`/|\/`|-CH3@n(3,-80)-CH@n(2)<|OH>-CH2@n(1)-OH
+$>
+
+en: (2) 3-(1-hydroxycyclohexyl)propane-1,2-diol (PIN) 
+ru: (2) 3-(1-гидроксициклогексил)пропан-1,2-диол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/N<|OH>@n(1,150,.5)`\`|/\@n(3,30)/CN
+$>
+
+en: (1) 1-hydroxypiperidine-3-carbonitrile (PIN)
+ru: (1) 1-гидроксипиперидин-3-карбонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-PH-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (1) 3-(hydroxyphosphanyl)propanoic acid (PIN) 
+ru: (1) 3-(гидроксифосфанил)пропановая кислота (PIN)
+
+@End
+
+
 #P-63.1.5
 en: Sulfur, selenium and tellurium analogues of hydroxy compounds 
 ru: Серные, селеновые и теллуровые аналоги гидроксисоединений
 
+en: Sulfur, selenium, and tellurium analogues of hydroxy compounds are named substitutively using the suffixes ‘thiol’, 
+‘selenol’, and ‘tellurol’, and the prefixes ‘sulfanyl’, ‘selanyl’, and ‘tellanyl’, respectively; the presence of several of the 
+same kind of ‘ol’ characteristic groups is denoted by the numerical multiplying prefixes ‘di’, ‘tri’, etc. The prefixes 
+‘mercapto’ (–SH), and ‘hydroseleno’ or selenyl (–SeH), etc. are no longer recommended. 
+ru: Аналоги гидроксисоединений на основе серы, селена и теллура обозначаются замещающим образом с использованием суффиксов 
+«тиол», «селенол» и «теллурол», а также префиксов «сульфанил», «селанил» и «телланил» соответственно; наличие нескольких 
+одинаковых &(characteristic group|ro*) «ол» обозначается числовыми умножающимися префиксами «ди», «три» и т. д. Префиксы 
+«меркапто» (–SH) и «гидроселено» или «селенил» (–SeH) и т. д. больше не рекомендуются.
 
+en: Functional class nomenclature is not used. 
+ru: &(Functional class nomenclature) не используется.
 
+en: Names of assemblies of identical units are formed by methods described in P-15.3 and P-51.3. Names for divalent 
+prefixes are described in P-63.2.5.1. Multiplicative names are preferred to substitutive names when all conditions for 
+their formation are fulfilled (P-51.1.5). 
+ru: Названия &(assembly|ro*) идентичных единиц формируются методами, описанными в P-15.3 и P-51.3. Названия для 
+двухвалентных префиксов описаны в P-63.2.5.1. &(Multiplicative name|*) предпочтительнее &(substitutive name|ro*), 
+если выполнены все условия для их образования (P-51.1.5).
+
+en: The seniority order of sulfur, selenium, and tellurium analogues of hydroxy compounds is: <%ord%>. 
+ru: Порядок приоритета аналогов гидроксисоединений на основе серы, селена и теллура следующий: <%ord%>.
+%ord: O > S > Se > Te
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH@n(2,90)<`|SH>-CH3@n(1)
+$>
+
+en: propane-2-thiol (PIN) 
+ru: пропано-2-тиол (PIN)
+
+@cell
+<$ CH3-CH2-SeH $>
+
+en: ethaneselenol (PIN) 
+ru: этанселенол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH2@n(1)-SH
+$>
+
+en: butane-1,4-dithiol (PIN) 
+ru: бутан-1,4-дитиол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)/SH
+$>
+
+en: benzenethiol (PIN)  <br>
+(not thiophenol)
+ru: бензентиол (PIN) <br>
+(не тиофенол)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(4,150)_qN@n(3,70,.55)_qq<-SH>@n(2,-70)_qS@n(1,-70,.55)_q@n(5,-150)
+$>
+
+en: 4,5-dihydro-1,3-thiazole-2-thiol (PIN)
+ru: 4,5-дигидро-1,3-тиазол-2-тиол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-sulfanylpropanoic acid (PIN) 
+ru: 3-сульфанилпропан&(oic acid) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_p_p<`|SH>_p@n(2',-70)<_p>_(a-54)S;
+`-_p<_(a-54)#S>@n(2,-100)_p<`|SH>_p_p
+$>
+
+en: 2,2′-sulfanediyldi(cyclopentane-1-thiol) (PIN)
+ru: 2,2′-сульфанедиилди(циклопентан-1-тиол) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||<`\HS>@n(1)/\\@n(3)/S_(A0)S\//\||<\SH>`/`\\`|
+$>
+
+en: 3-[(4-sulfanylphenyl)disulfanyl]benzene-1-thiol (PIN)  <br>
+3,4′-disulfanediyldi(benzene-1-thiol)
+ru: 3-[(4-сульфанилфенил)дисульфанил]бензол-1-тиол (PIN) <br>
+3,4′-дисульфандиилди(бензол-1-тиол)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|\`\`/||\//`|@n(2)/S\@n(2')/\||`/`\\`|/`|OH
+$>
+
+en: 2,2′-sulfanediyldiphenol (PIN) <br> 
+2-[(2-hydroxyphenyl)sulfanyl]phenol
+ru: 2,2′-сульфандиилдифенол (PIN) <br>
+2-[(2-гидроксифенил)сульфанил]фенол
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<\SH>@n(2,90)`//`\`||/\\@n(1)/OH
+$>
+
+en: 2-sulfanylphenol (PIN) 
+ru: 2-сульфанилфенол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(4,30)`/@n(3,90)`\@n(2,90)<`/HS>`|<`\HO>@n(1)/\@n(5)_q6CH<`|OH>-CH2-SH
+$>
+
+en: 5-(1-hydroxy-2-sulfanylethyl)-2-sulfanylcyclohexan-1-ol (PIN)  <br>
+(ring preferred to chain, see P-52.2.8)  <br>
+1-(3-hydroxy-4-sulfanylcyclohexyl)-2-sulfanylethan-1-ol 
+ru: 5-(1-гидрокси-2-сульфанилэтил)-2-сульфанилциклогексан-1-ол (PIN) <br>
+(кольцо предпочтительнее цепи, см. P-52.2.8) <br>
+1-(3-гидрокси-4-сульфанилциклогексил)-2-сульфанилетан-1-ол
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CH2@n(4)-CH@n(3,90)<`|SH>-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3,4-bis(sulfanyl)butanoic acid (PIN)  
+ru: 3,4-бис(сульфанил)бутан&(oic acid) (PIN)
+
+@End
 
 #P-63.2
 en: Ethers and chalcogen analogues 
 ru: Эфиры и аналоги халькогенов
+
+@Content
+
+#P-63.2.1
+en: Definitions and general methodology 
+ru: Определения и общая методология
+
+en: Ethers have the general formula R-O-R′, in which R = R′ or R ≠ R′; R and R′ can be any substituent group, aliphatic or 
+cyclic, organyl (the free valence attached to a carbon atom) or organoheteryl (the free valence attached to an atom other 
+than carbon), derived from the parent hydrides described in P-29. 
+ru: Эфиры имеют общую формулу R-O-R′, где R = R′ или R ≠ R′; R и R′ могут представлять собой любую &(substituent group|vi), 
+алифатическую или циклическую, органильную (свободная валентность, связанная с атомом углерода) или органогетерильную 
+(свободная валентность, связанная с атомом, отличным от углерода), полученную из исходных гидридов, описанных в P-29.
+
+#P-63.2.2
+en: Names of substituent groups R′-O–, R′-S–, R′-Se–, and R′-Te–  
+ru: Названия замещающих групп R′-O–, R′-S–, R′-Se– и R′-Te–
+
+#P-63.2.3
+en: Retained names of ethers 
+ru: &(Retained name|*) эфиров
+
+#P-63.2.4
+en: Systematic names of ethers 
+ru: Систематические названия эфиров
+
+#P-63.2.5
+en: Names of chalcogen analogues of ethers: i.e., sulfides, selenides, and tellurides  
+ru: Названия халькогеновых аналогов эфиров: т.е. сульфидов, селенидов и теллуридов.
+
 
 #P-63.3
 en: Peroxides and chalcogen analogues 
