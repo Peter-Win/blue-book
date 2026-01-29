@@ -830,17 +830,571 @@ ru: Эфиры имеют общую формулу R-O-R′, где R = R′ и
 алифатическую или циклическую, органильную (свободная валентность, связанная с атомом углерода) или органогетерильную 
 (свободная валентность, связанная с атомом, отличным от углерода), полученную из исходных гидридов, описанных в P-29.
 
+@Examples
+
+@cell
+<$ CH3-O-CH3 $>
+
+@cell
+<$ (CH3)3Si-O-CH3 $>
+
+@cell
+<$ H3Ge-O-GeH3 $>
+
+@cell
+<$ |`//`\`||/\\_q6O-CH3 $>
+
+@cell
+<$ `-_p_p_pN<_p>_(a-54)O; `-_pN<_(a-54)#O>_p_p_p $>
+
+@End
+
+en: Chalcogen analogues are generically called sulfides, R-S-R′, selenides, R-Se-R′, and tellurides, R-Te-R′. 
+ru: Аналоги халькогенов обычно называют сульфидами (R-S-R′), селенидами (R-Se-R′) и теллуридами (R-Te-R′).
+
+en: Names for ethers and their chalcogen analogues are formed by various methods in accordance with the principles of 
+substitutive nomenclature, multiplicative nomenclature, skeletal replacement (‘a’) nomenclature, phane nomenclature, 
+and functional class nomenclature. However, some ethers and chalcogen analogues are classified as parent hydrides and 
+named as such, for example <%g%>, digermoxane, and similar compounds described in Section P-21.2.3.1. 
+These compounds are thus not named by the methods described in this Section, because their names are subject to 
+selection rules with regard to heteroatom content. 
+ru: Названия эфиров и их халькогенных аналогов формируются различными методами в соответствии с принципами &(substitutive nomenclature|ro), 
+&(multiplicative nomenclature|ro), номенклатуры &(skeletal replacement a|ro), &(phane nomenclature|ro) и &(functional class nomenclature|ro). 
+Однако некоторые эфиры и халькогенные аналоги классифицируются как &(parent hydride) и называются соответственно, например, <%g%>, 
+дигермоксан и подобные соединения, описанные в разделе P-21.2.3.1. Таким образом, эти соединения не называются методами, описанными 
+в этом разделе, поскольку их названия подчиняются правилам отбора в отношении содержания гетероатомов.
+%g: <$ H3Ge-O-GeH3 $>
+
+en: In substitutive nomenclature, when R is different from R′, RH is chosen as parent hydride and R′-O– is cited as a 
+substituent to it. Names of these substituent groups are described in Section P-63.2.2. Functional class nomenclature 
+uses substituent group names for R and R′. 
+ru: В &(substitutive nomenclature|pr), если R отличается от R′, в качестве &(parent hydride|ro) выбирается RH, а в качестве 
+&(substituent|ro) указывается R′-O–. Названия этих &(substituent group|ro*) описаны в разделе P-63.2.2. В 
+&(functional class nomenclature|pr) используются названия &(substituent group|ro*) для R и R′.
+
 #P-63.2.2
 en: Names of substituent groups R′-O–, R′-S–, R′-Se–, and R′-Te–  
 ru: Названия замещающих групп R′-O–, R′-S–, R′-Se– и R′-Te–
+
+#P-63.2.2.1
+en: Systematic names 
+ru: Систематические названия
+
+#P-63.2.2.1.1+
+en: Substituent prefix names for R′-O– groups are formed by concatenation, i.e., by adding the prefix ‘oxy’ to 
+the substituent prefix name for the group R′. These compound prefixes require the numerical multiplying prefixes ‘bis’, 
+‘tris’, etc. 
+ru: Названия &(substituent prefix|ro*) для групп R′-O– образуются путем конкатенации, т.е. путем добавления префикса «окси» к 
+названию &(substituent prefix|ro) группы R′. Для этих составных префиксов требуются числовые множительные префиксы «бис», «трис» и т. д.
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-O- $>
+
+en: pentyloxy (preferred prefix) 
+ru: пентилокси (&(preferred prefix))
+
+@cell
+<$ CH3-CH2-CH<`|CH3>-O-{} $>
+
+en: (butan-2-yl)oxy (preferred prefix)  <br>
+1-methylpropoxy
+ru: (бутан-2-ил)окси (&(preferred prefix)) <br>
+1-метилпропокси
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N@n(1)\\@n(2,30,.4)_q6O-{}
+$>
+
+en: (pyridin-2-yl)oxy (preferred prefix)  <br>
+2-pyridyloxy 
+ru: (пиридин-2-ил)окси (&(preferred prefix)) <br>
+2-пиридилокси
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N`/`-`\/-\@n(1,-80)-O-{}
+$>
+
+en: (piperidin-1-yl)oxy (preferred prefix)  <br>
+piperidinooxy
+ru: (пиперидин-1-ил)окси (&(preferred prefix)) <br>
+пиперидиноокси
+
+@cell
+<$ CH3-CH2-CH<`|CH3>-O-CH2-CH2-{} $>
+
+en: 2-[(butan-2-yl)oxy]ethyl (preferred prefix)
+ru: 2-[(бутан-2-ил)окси]этил (&(preferred prefix))
+
+@cell
+<$ H3Si-O-{} $>
+
+en: silyloxy (preselected prefix)  <br>
+(not siloxy) 
+en: силилокси (&(preselected prefix)) <br>
+(не силокси)
+
+@End
+
+#P-63.2.2.1.2+
+en: Substituent prefixes for the substituent groups R′S–, R′Se–, and R′Te–, are formed by substitution of the 
+groups HS–, ‘sulfanyl’, HSe–, ‘selanyl’; and HTe–, ‘tellanyl’; they require the multiplicative prefixes ‘bis’, ‘tris’, etc. 
+The former names ‘thio’, –S–; ‘seleno’, –Se–; and ‘telluro’, –Te– may be used as additive prefixes in general 
+nomenclature. 
+ru: &(Substituent prefix|*) для групп замещения R′S–, R′Se– и R′Te– образуются путем замещения групп HS–, «сульфанил», 
+HSe–, «селанил»; и HTe–, «телланил»; они требуют мультипликативных префиксов «бис», «трис» и т. д. Первые названия «тио», –S–; 
+«селено», –Se–; и «теллуро», –Te– могут использоваться в качестве аддитивных префиксов в общей номенклатуре.
+
+@Examples
+
+@cell
+<$ CH3-S– $>
+
+en: methylsulfanyl (preferred prefix)  <br>
+methylthio 
+ru: метилсульфанил (&(preferred prefix)) <br>
+метилтио
+
+@cell
+<$ C6H5-Se– $>
+
+en: phenylselanyl (preferred prefix)  <br>
+phenylseleno 
+ru: фенилселенил (&(preferred prefix)) <br>
+фенилселено
+
+@End
+
+#P-63.2.2.1.3+
+en: Divalent groups, such as –O-Y-O– or –S-Y-S–, are named by adding (concatenating) the prefixes ‘oxy’, 
+‘sulfanediyl’, etc. to the name of the divalent group Y. The multiplying prefix ‘bis’ is used in preferred names instead of 
+‘di’ to avoid ambiguity. Parentheses are used after the multiplying prefix ‘bis’, ‘tris’ etc., even around simple prefixes. 
+ru: Двухвалентные группы, такие как –O-Y-O– или –S-Y-S–, называются путем добавления (конкатенации) префиксов «окси», «сульфандиил» 
+и т. д. к названию двухвалентной группы Y. В предпочтительных названиях вместо «ди» используется умножающий префикс «бис», 
+чтобы избежать неоднозначности. После умножающего префикса «бис», «трис» и т. д., даже вокруг простых префиксов, используются скобки.
+
+@Examples
+
+@cell
+<$ {}–O-CH2-O-{} $>
+
+en: methylenebis(oxy) (preferred prefix)  <br>
+(not methylenedioxy) 
+ru: метиленбис(окси) (&(preferred prefix)) <br>
+(не метилендиокси)
+
+@cell
+<$ {}–S-CH2-S–{} $>
+
+en: methylenebis(sulfanediyl) (preferred prefix) 
+ru: метиленбис(сульфанедиил) (&(preferred prefix))
+
+@cell
+<$ {}–CH2-S-CH2–{} $>
+
+en: sulfanediylbis(methylene) (preferred prefix)  <br>
+(not sulfanediyldimethylene) 
+ru: сульфанедиилбис(метилен) (&(preferred prefix)) <br>
+(не сульфанедиилдиметилен)
+
+@End
+
+#P-63.2.2.2
+en: Retained names
+ru: &(Retained name|*)
+
+en: Some contracted names are retained for R-O– substituent groups. They are used both as preferred IUPAC prefixes and 
+in general nomenclature; they are fully substitutable (with the exception of _tert_-butoxy) and are considered as simple 
+prefixes requiring the numerical prefixes ‘di’, ‘tri’, etc. They are: 
+ru: Для замещающих групп R-O– сохраняются некоторые сокращенные названия. Они используются как в качестве предпочтительных 
+префиксов IUPAC, так и в общей номенклатуре; они полностью заменяемы (за исключением _трет_-бутокси) и считаются простыми 
+префиксами, требующими числовых префиксов «ди», «три» и т. д. Это:
+
+@Examples --
+
+@cell
+<$ CH3-O-{} $>
+
+en: methoxy (preferred prefix) 
+ru: метокси (&(preferred prefix))
+
+@cell
+<$ CH3-CH2-O-{} $>
+
+en: ethoxy (preferred prefix) 
+ru: этокси (&(preferred prefix))
+
+@cell
+<$ CH3-[CH2]2-O-{} $>
+
+en: propoxy (preferred prefix) 
+ru: пропокси (&(preferred prefix))
+
+@cell
+<$ CH3-[CH2]3-O-{} $>
+
+en: butoxy (preferred prefix) 
+ru: бутокси (&(preferred prefix))
+
+@cell
+<$ C6H5-O-{} $>
+
+en: phenoxy (preferred prefix) 
+ru: фенокси (&(preferred prefix))
+
+@cell
+<$ (CH3)3C-O-{} $>
+
+en: _tert_-butoxy (preferred prefix)  <br>
+(no substitution) 
+ru: _трет_-бутокси (&(preferred prefix)) <br>
+(замена не допускается)
+
+@End
+
+en: The following prefix is retained for use only in general nomenclature; no substitution is allowed: 
+ru: Следующий префикс сохраняется для использования только в общей номенклатуре; замена не допускается:
+
+@Examples --
+
+@cell
+<$ (CH3)2CH-O-{} $>
+
+en: isopropoxy  <br>
+1-methylethoxy  <br>
+(propan-2-yl)oxy (preferred prefix) 
+ru: изопропокси <br>
+1-метилэтокси <br>
+(пропан-2-ил)окси (&(preferred prefix))
+
+@End
+
+en: The prefixes ‘_sec_-butoxy’ and ‘isobutoxy’ are no longer recommended: 
+ru: Использование префиксов «_сек_-бутокси» и «изобутокси» больше не рекомендуется:
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH(CH3)-O–{} $>
+
+en: (butan-2-yl)oxy (preferred prefix)  <br>
+1-methylpropoxy  <br>
+(not sec-butoxy)  
+ru: (бутан-2-ил)окси (&(preferred prefix)) <br>
+1-метилпропокси <br>
+(не _сек_-бутокси)
+
+@cell
+<$ (CH3)2CH-CH2-O–{} $>
+
+en: 2-methylpropoxy (preferred prefix)  <br>
+(not isobutoxy) 
+ru: 2-метилпропокси (&(preferred prefix)) <br>
+(не изобутокси)
+
+@End
+
 
 #P-63.2.3
 en: Retained names of ethers 
 ru: &(Retained name|*) эфиров
 
+en: Anisole, <%f%>, is the only name in the class of ethers which is retained both as a preferred IUPAC name and for 
+use in general nomenclature. For preferred IUPAC names, no substitution is allowed; for general nomenclature 
+substitution is allowed on the ring and on the side chain under certain conditions (see P-34.1.1.4). 
+ru: Анизол, <%f%>, — единственное название в классе эфиров, которое сохранено как в качестве предпочтительного названия 
+по номенклатуре IUPAC, так и для использования в общей номенклатуре. Для предпочтительных названий по номенклатуре замена 
+не допускается; для общей номенклатуры замена допускается в кольце и в боковой цепи при определенных условиях (см. P-34.1.1.4).
+%f: <$ C6H5-O-CH3 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\<`-Cl>@n(1,-120)/=\@n(4,-60)-O-CH3
+$>
+
+en: 1-chloro-4-methoxybenzene (PIN;  <br>
+no substitution on anisole for PINs)  <br>
+4-chloroanisole
+ru: 1-хлор-4-метоксибензол (PIN; <br>
+нет замещения в анизоле для PIN) <br>
+4-хлоранизол
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\<`-C`H2`-Cl>@n(1,-120)/=\@n(4,-60)-O-CH3
+$>
+
+en: 1-(chloromethyl)-4-methoxybenzene (PIN;  <br>
+no substitution on anisole for PINs)  <br>
+4-(chloromethyl)anisole  <br>
+4-methoxybenzyl chloride  <br>
+(substitution rules for benzyl see P-29.6.2.1)
+ru: 1-(хлорметил)-4-метоксибензол (PIN; <br>
+нет замещения в анизоле для PIN) <br>
+4-(хлорметил)анизол <br>
+4-метоксибензилхлорид <br>
+(правила замещения для бензила см. P-29.6.2.1)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6O-CH3>@n(2,90)`//`\`||/\\@n(1,-90)_q6O-CH3
+$>
+
+en: 1,2-dimethoxybenzene (PIN;  <br>
+no substitution on anisole for PINs)  <br>
+2-methoxyanisole  <br>
+(see P-34.1.1.4 and P-15.1.8.2 for substitution rules for anisole)
+ru: 1,2-диметоксибензол (PIN; <br>
+нет замещения в анизоле для PIN) <br>
+2-метоксианизол <br>
+(см. P-34.1.1.4 и P-15.1.8.2 правила замещения для анизола)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N`O2-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-O-CH2-Cl
+$>
+
+en: 1-(chloromethoxy)-4-nitrobenzene (PIN;  <br>
+no substitution on anisole for PINs)  <br>
+α-chloro-4-nitroanisole  <br>
+(see P-34.1.1.4 and P-15.1.8.2 for substitution rules for anisole) 
+ru: 1-(хлорметокси)-4-нитробензол (PIN; <br>
+нет замещения в анизоле для PIN) <br>
+α-хлор-4-нитроанизол <br>
+(см. P-34.1.1.4 и P-15.1.8.2 для правил замещения в анизоле)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1,-70)-O-CH2-O-@n(1',-120)/=\`//`-`\\
+$>
+
+en: 1,1′-[methylenebis(oxy)]dibenzene (PIN)  <br>
+α-phenoxyanisole
+ru: 1,1'-[метиленбис(окси)]дибензол (PIN) <br>
+α-феноксианизол
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,90)<_q6O-CH3>`//`\`||/\\@n(1,-90)_q6O-CH2-Cl
+$>
+
+en: 1-(chloromethoxy)-2-methoxybenzene (PIN;  <br>
+no substitution on anisole for PINs) <br>
+α-chloro-2-methoxyanisole  <br>
+[not 2-(chloromethoxy)anisole] 
+ru: 1-(хлорметокси)-2-метоксибензол (PIN; <br>
+нет замещения в анизоле для PIN) <br>
+α-хлор-2-метоксианизол <br>
+[не 2-(хлорметокси)анизол]
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1',-70)-@n(1,-120)/=\<`//`-`\\>@n(4,-70)-O-CH3
+$>
+
+en: 4-methoxy-1,1′-biphenyl (PIN)  <br>
+(not 4-phenylanisole;  <br>
+no substitution on anisole for PINs)  <br>
+[not 1-methoxy-4-phenylbenzene;  <br>
+the biphenyl ring system is senior to a single benzene ring] 
+ru: 4-метокси-1,1′-бифенил (PIN) <br>
+(не 4-фениланизол; <br>
+нет замещения в анизоле для PIN) <br>
+[не 1-метокси-4-фенилбензол; <br>
+бифенильное кольцо имеет более высокий приоритет, чем одиночное бензольное кольцо]
+
+@End
+
 #P-63.2.4
 en: Systematic names of ethers 
 ru: Систематические названия эфиров
+
+en: Ethers having the general structure R-O-R′ (R=R′, or R≠R′) have the class name ‘ether’ and are named by one of the 
+five following methods:
+ru: Эфиры, имеющие общую структуру R-O-R′ (R=R′ или R≠R′), относятся к классу «эфир» и называются одним из пяти 
+следующих способов:
+
+@List 1
+
+@item
+en: substitutively by prefixing the name of the R′-O– group to that of the parent hydride RH; 
+ru: замещающим образом путем добавления названия группы R′-O– к названию &(parent hydride|ro) RH;
+
+@item
+en: by functional class nomenclature, using the term ‘ether’ and, when the groups are different, citing the two 
+substituent groups in alphanumerical order; 
+ru: по &(functional class nomenclature|pr), используя термин «эфир» и, если группы различны, указывая две 
+&(substituent group|*) в буквенно-цифровом порядке;
+
+@item
+en: by multiplicative nomenclature, when R and R′ are cyclic components;  
+ru: по &(multiplicative nomenclature|pr), когда R и R′ являются циклическими компонентами;
+
+@item
+en: by skeletal replacement (‘a’) nomenclature; 
+ru: по номенклатуре &(skeletal replacement a|ro);
+
+@item
+en: by phane nomenclature. 
+ru: по &(phane nomenclature|pr).
+
+@End
+
+en: Functional class names based on the class name ‘oxide’ are not recommended.
+ru: Не рекомендуется использовать названия функциональных классов, основанные на названии класса «оксид».
+
+#P-63.2.4.1+
+en: Names of ethers, when R and R′ are both aliphatic groups or when one is cyclic, are formed by method (1), 
+(2), or (4). Method (1) or (4) leads to preferred IUPAC names. 
+ru: Названия эфиров, когда R и R′ являются алифатическими группами или когда одна из них циклическая, образуются методом 
+(1), (2) или (4). Метод (1) или (4) приводит к предпочтительным названиям по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$ CH3-O-CH3 $>
+  
+en: (1) methoxymethane (PIN)  <br>
+(2) dimethyl ether  
+ru: (1) метоксиметан (PIN) <br>
+(2) диметиловый эфир
+
+@cell
+<$ CH3-CH2-O-CH3 $>
+  
+en: (1) methoxyethane (PIN)  <br>
+(2) ethyl methyl ether 
+ru: (1) метоксиэтан (PIN) <br>
+(2) этилметиловый эфир
+
+@cell
+<$ |`//`\`||/\\_q6O-CH3 $>
+
+en: (1) anisole (PIN; retained name)  <br>
+methoxybenzene  <br>
+(2) methyl phenyl ether
+ru: (1) анизол (PIN; &(retained name)) <br>
+метоксибензол <br>
+(2) метилфенилэфир
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||/\\<|>/@n(1)\\@n(2)_q6O-CH3
+$>
+
+en: (1) 2-methoxynaphthalene (PIN)  <br>
+(2) methyl naphthalen-2-yl ether  <br>
+methyl 2-naphthyl ether
+ru: (1) 2-метоксинафталин (PIN) <br>
+(2) метилнафтален-2-иловый эфир <br>
+метил 2-нафтиловый эфир
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2@n(1)-CH2@n(2)-O-CH2-CH3
+$>
+
+en: (1) 1-chloro-2-ethoxyethane (PIN)  <br>
+(2) 2-chloroethyl ethyl ether  <br>
+(not 2-chloroethyl ethyl oxide) 
+ru: (1) 1-хлор-2-этоксиэтан (PIN) <br>
+(2) 2-хлорэтилэтиловый эфир <br>
+(не 2-хлорэтилэтилоксид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CH2@n(1)-CH2@n(2)-O-CH3
+$>
+
+en: (1) 1,2-dimethoxyethane (PIN)  <br>
+(2) ethane-1,2-diyl dimethyl ether 
+ru: (1) 1,2-диметоксиэтан (PIN) <br>
+(2) этан-1,2-диил диметиловый эфир
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CH2@n(1)-CH2@n(2)-O-CH2-CH2-O-CH3
+$>
+
+en: (1) 1-methoxy-2-(2-methoxyethoxy)ethane (PIN)
+ru: (1) 1-метокси-2-(2-метоксиэтокси)этан (PIN)
+
+@End
+
+en: Skeletal replacement (‘a’) nomenclature [method (4)] generates preferred IUPAC names, when the conditions for using 
+this type of nomenclature are met (see P-15.4); otherwise substitutive nomenclature must be used. 
+ru: Номенклатура &(skeletal replacement a|ro) [метод (4)] генерирует предпочтительные названия IUPAC, когда выполняются 
+условия для использования этого типа номенклатуры (см. P-15.4); 
+в противном случае необходимо использовать &(substitutive nomenclature|vi).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O@n(2)-CH2@n(3)-CH2@n(4)-O@n(5)-CH2@n(6)-CH2@n(7)-O@n(8)-CH2@n(9)-CH2@n(10)-O@n(11)-CH3@n(12)
+$>
+
+en: (4) 2,5,8,11-tetraoxadodecane (PIN)  <br>
+(1) 1-methoxy-2-[2-(2-methoxyethoxy)ethoxy]ethane
+ru: (4) 2,5,8,11-тетраоксадодекан (PIN) <br>
+(1) 1-метокси-2-[2-(2-метоксиэтокси)этокси]этан
+
+@End
+
+#P-63.2.4.2+
+en: The names of ethers when both R and R′ groups are cyclic are formed by methods (1), (2), (3), or (5). 
+Method (1), (3), or (5) leads to preferred IUPAC names. 
+ru: Названия эфиров, когда и R, и R′ группы являются циклическими, образуются методами (1), (2), (3) или (5). 
+Метод (1), (3) или (5) приводит к предпочтительным названиям по номенклатуре IUPAC.
+
+en: When method (1), substitutive nomenclature, is used, the senior ring or ring system must be chosen as the parent 
+hydride (see P-44). 
+ru: При использовании метода (1), &(substitutive nomenclature|ro), в качестве &(parent hydride|ro) необходимо выбрать 
+старшее кольцо или кольцевую систему (см. P-44).
+
+@Examples
+
+@cell
+<$ |`//`\`||/\\/O\/\|`/`\`| $>
+
+en: (1) (cyclohexyloxy)benzene (PIN)  <br>
+(2) cyclohexyl phenyl ether 
+ru: (1) (циклогексилокси)бензол (PIN) <br>
+(2) циклогексилфениловый эфир
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1',-70)-@n(1,-110)\\-//`\`=<`/>@n(2,-60)`\O/=/`\\`-`//\
+$>
+
+en: (1) 2-phenoxy-1,1′-biphenyl (PIN)  <br>
+(2) biphenyl-2-yl phenyl ether 
+ru: (1) 2-фенокси-1,1′-бифенил (PIN) <br>
+(2) бифенил-2-илфениловый эфир
+
+@End
+
+
 
 #P-63.2.5
 en: Names of chalcogen analogues of ethers: i.e., sulfides, selenides, and tellurides  
