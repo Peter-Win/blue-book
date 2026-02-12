@@ -1392,67 +1392,257 @@ en: (1) 2-phenoxy-1,1′-biphenyl (PIN)  <br>
 ru: (1) 2-фенокси-1,1′-бифенил (PIN) <br>
 (2) бифенил-2-илфениловый эфир
 
-@End
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/N\\|\O/@n(2,90)`|@n(3,-150)//N@n(4,-90,.55)\||`/N@n(1,90,.55)`\\
+$>
 
+en: (1) 2-[(pyridin-3-yl)oxy]pyrazine (PIN)  <br>
+(2) pyrazin-2-yl 3-pyridyl ether 
+ru: (1) 2-[(пиридин-3-ил)окси]пиразин (PIN) <br>
+(2) пиразин-2-ил 3-пиридиловый эфир
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1',-70)-O-@n(1,-110)/=\`//`-`\\
+$>
+
+en: (3) 1,1′-oxydibenzene (PIN)  <br>
+(1) phenoxybenzene  <br>
+(2) diphenyl ether
+ru: (3) 1,1′-оксидибензол (PIN) <br>
+(1) феноксибензол <br>
+(2) дифенилэфир
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-\\-//<`\`=`/@n(4',-110)>@n(1',-70)-O-\\-//`\`=<`\Cl>@n(2,-60)`/@n(1,-110)
+$>
+
+en: (1) 1-chloro-2-(4-chlorophenoxy)benzene (PIN)  <br>
+(3) 2,4′-dichloro-1,1′-oxydibenzene (numbering shown) <br>
+(2) 2-chlorophenyl 4-chlorophenyl ether 
+ru: (1) 1-хлор-2-(4-хлорфенокси)бензол (PIN) <br>
+(3) 2,4′-дихлор-1,1′-оксидибензол (нумерация указана) <br>
+(2) 2-хлорфенил 4-хлорфениловый эфир
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:120,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)|`//@btc(1)`\`||/\\@n(1,140)@:ob(o,b)/O@bt(&o)\/\\@n(3,140)<|`//@btc(&b)`\`||@n(1,30)>@(2,3)@ob(4,5)/O@bt(6)\@n(1,30)/\\|`//@btc(7)`\`||
+$>
+
+en: (5) 2,4,6-trioxa-1,7(1),3,5(1,3)-tetrabenzenaheptaphane (PIN)  <br>
+(3) 1,1′-oxybis(3-phenoxybenzene) 
+ru: (5) 2,4,6-триокса-1,7(1),3,5(1,3)-тетрабензенагептафан (PIN) <br>
+(3) 1,1′-оксибис(3-феноксибензол)
+
+@End
 
 
 #P-63.2.5
 en: Names of chalcogen analogues of ethers: i.e., sulfides, selenides, and tellurides  
 ru: Названия халькогеновых аналогов эфиров: т.е. сульфидов, селенидов и теллуридов.
 
+en: General methodology 
+ru: Общая методология
 
-#P-63.3
-en: Peroxides and chalcogen analogues 
-ru: Пероксиды и аналоги халькогенов
+en: Sulfides, R-S-R′, selenides R-Se-R′, and tellurides R-Te-R′, are named by the following methods: 
+ru: Сульфиды R-S-R′, селениды R-Se-R′ и теллуриды R-Te-R′ называются следующими методами:
 
-#P-63.4
-en: Hydroperoxides (peroxols) and chalcogen analogues 
-ru: Гидропероксиды (пероксолы) и аналоги халькогенов
+@List 1
 
-#P-63.5
-en: Cyclic ethers, sulfides, selenides, and tellurides 
-ru: Циклические эфиры, сульфиды, селениды и теллуриды
+@item
+en:  by prefixing the names of the substituent groups R′-S–, R′-Se–, or R′-Te–, i.e., R′-sulfanyl, R′-selanyl, and R′
+tellanyl, respectively, to that of the parent hydride, RH; the prefixes ‘R′-thio’, ‘R′-seleno’ and ‘R′-telluro’ may be 
+used in general nomenclature. The prefixes R′-sulfanyl, R′-selanyl, and R′-tellanyl are compulsory prefixes and 
+can be attached to any atom of any parent hydride; 
+ru: путем добавления к названию &(parent hydride|ro) RH приставок R′-S–, R′-Se– или R′-Te–, т.е. R′-сульфанил, R′-селанил 
+и R′-телланил соответственно; в общей номенклатуре могут использоваться приставки «R′-тио», «R′-селено» и «R′-теллуро». 
+Приставки R′-сульфанил, R′-селанил и R′-телланил являются обязательными и могут быть присоединены к любому атому 
+любого &(parent hydride|ro);
 
-#P-63.6
-en: Sulfoxides and sulfones 
-ru: Сульфоксиды и сульфоны
+@item
+en: by functional class nomenclature using the terms sulfide, selenide, and telluride for –S–, –Se–, and –Te–, 
+respectively; 
+ru: по &(functional class nomenclature|pr) с использованием терминов сульфид, селенид и теллурид для –S–, –Se– и –Te– 
+соответственно;
 
-#P-63.7
-en: Polyfunctional compounds 
-ru: Полифункциональные соединения
+@item
+en: by multiplicative nomenclature in the case of cyclic parent hydrides, using the prefixes sulfanediyl, –S– (not 
+thio); selanediyl –Se– (not seleno); and tellanediyl –Te– (not telluro), respectively; 
+ru: с помощью &(multiplicative nomenclature|ro) в случае циклических &(parent hydride|ro*), используя префиксы 
+сульфанедиил, –S– (не тио); селанедиил –Se– (не селено); и телланедиил –Te– (не теллуро) соответственно;
 
-#P-63.8
-en: Salts of hydroxy compounds, hydroperoxy compounds and their chalcogen analogues 
-ru: Соли гидроксисоединений, гидропероксидных соединений и их халькогенных аналогов
+@item
+en:  by skeletal replacement (‘a’) nomenclature;  
+ru: с помощью номенклатуры &(skeletal replacement a|ro);  
 
+@item
+en:  by phane nomenclature; 
+ru: с помощью &(phane nomenclature|ro);
 
+@End
 
+en: Names formed by substituting the parent hydrides oxidane, sulfane, selane, and tellane, <%o%>, <%s%>, <%se%>, 
+and <%te%>, respectively, by the appropriate substituent groups are not recommended. 
+ru: Не рекомендуется использовать названия, образованные заменой &(parent hydride|ro*) оксидана, сульфана, селена 
+и теллана, <%o%>, <%s%>, <%se%> и <%te%> соответственно, соответствующими замещающими группами.
+%o: <$H2O$>
+%s: <$H2S$>
+%se: <$H2Se$>
+%te: <$H2Te$>
 
+en: Names formed by functional replacement nomenclature of the retained name anisole are no longer recommended. Class 
+names such as thiooxide are not recommended.
+ru: Названия, образованные путем функциональной замены &(retained name|ro) анизола, больше не рекомендуются. 
+Названия классов, такие как тиооксид, также не рекомендуются.
 
-#P-64
-en: Ketones, pseudoketones and heterones, and chalcogen analogues 
-ru: Кетоны, псевдокетоны и гетероны, а также аналоги халькогенов
+en: Method (1), substitutive nomenclature, gives preferred IUPAC names; method (3), (4), or (5) generates preferred 
+IUPAC names when the conditions for their use are satisfied. 
+ru: Метод (1), &(substitutive nomenclature), дает предпочтительные названия IUPAC; метод (3), (4) или (5) генерирует 
+предпочтительные названия IUPAC, когда выполняются условия их использования.
 
-#P-65
-en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
-ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+@Examples
 
-#P-66
-en: Amides, imides, hydrazides, nitriles, and aldehydes 
-ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+@cell
+<$ CH3-S-CH3 $>
+  
+en: (1) (methylsulfanyl)methane (PIN)  <br>
+(methylthio)methane  <br>
+(2) dimethyl sulfide
+ru: (1) (метилсульфанил)метан (PIN) <br>
+(метилтио)метан <br>
+(2) диметилсульфид
 
-#P-67
-en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
-parents for naming organic compounds 
-ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
-для наименования органических соединений
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\@n(1',-60)-S-@n(1,-120)/=\`//`-`\\
+$>
 
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+en: (3) 1,1′-sulfanediyldibenzene (PIN)  <br>
+(not 1,1′-thiodibenzene)  <br>
+(1) (phenylsulfanyl)benzene  <br>
+(phenylthio)benzene  <br>
+(2) diphenyl sulfide 
+ru: (3) 1,1′-сульфандиилдибензол (PIN) <br>
+(не 1,1′-тиодибензол) <br>
+(1) (фенилсульфанил)бензол <br>
+(фенилтио)бензол <br>
+(2) дифенилсульфид
 
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\-S-@n(4,-120)/-\NH@n(1,-80,.55)`/`-`\
+$>
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+en: (1) 4-(phenylsulfanyl)piperidine (PIN)  <br>
+4-(phenylthio)piperidine  <br>
+(2) phenyl piperidin-4-yl sulfide
+ru: (1) 4-(фенилсульфанил)пиперидин (PIN) <br>
+4-(фенилтио)пиперидин <br>
+(2) фенилпиперидин-4-илсульфид
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_p_p<_p_p>`-Se`-`//`-`\\/=\
+$>
+
+en: (1) (cyclopentylselanyl)benzene (PIN)  <br>
+(cyclopentylseleno)benzene  <br>
+(2) cyclopentyl phenyl selenide
+ru: (1) (циклопентилселенил)бензол (PIN) <br>
+(циклопентилселено)бензол <br>
+(2) циклопентилфенилселенид
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A135)_p4_p4_p4@n(1,-90)-S-CH<`|CH=CH2>-CH=CH2
+$>
+
+en: (1) [(penta-1,4-dien-3-yl)sulfanyl]cyclobutane (PIN)  <br>
+[(penta-1,4-dien-3-yl)thio]cyclobutane  <br>
+(ring preferred to chain, see P-52.2.8)  <br>
+(2) cyclobutyl penta-1,4-dien-3-yl sulfide <br>
+cyclobutyl 1-ethenylprop-2-en-1-yl sulfide 
+ru: (1) [(пента-1,4-диен-3-ил)сульфанил]циклобутан (PIN) <br>
+[(пента-1,4-диен-3-ил)тио]циклобутан <br>
+(кольцо предпочтительнее цепи, см. P-52.2.8) <br>
+(2) циклобутил пента-1,4-диен-3-ил сульфид <br>
+циклобутил 1-этенилпроп-2-ен-1-ил сульфид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-CH2@n(3)-S@n(4)-CH2@n(5)-S@n(6)-CH2@n(7)-CH@n(8)(CH3)-S@n(9)-CH2@n(10)-S@n(11,-90)-CH3@n(12,-80)
+$>
+
+en: (4) 8-methyl-2,4,6,9,11-pentathiadodecane (PIN; skeletal replacement name)  <br>
+(1) 2-{[(methylsulfanyl)methyl]sulfanyl}-1-[({[(methylsulfanyl)methyl]sulfanyl}methyl)sulfanyl]propane  <br>
+2-{[(methylthio)methyl]thio}-1-[({[(methylthio)methyl]thio}methyl)thio]propane <br>
+(substitutive names) 
+ru: (4) 8-метил-2,4,6,9,11-пентатиадодекан (PIN; &(skeletal replacement name)) <br>
+(1) 2-{[(метилсульфанил)метил]сульфанил}-1-[({[(метилсульфанил)метил]сульфанил}метил)сульфанил]пропан <br>
+2-{[(метилтио)метил]тио}-1-[({[(метилтио)метил]тио}метил)тио]пропан <br>
+(&(substitutive name|*))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-Se-CH@n(2,90)<`|CH3@n(3)>-CH2@n(1)-Se-CH(CH3)2
+$>
+
+en: (1) 1-[(propan-2-yl)selanyl]-2-(propylselanyl)propane (PIN)  <br>
+1-[(propan-2-yl)seleno]-2-(propylseleno)propane  <br>
+(not 2,5-dimethyl-3,6-diselenanonane;  <br>
+skeletal replacement (‘a’) nomenclature requires four heterounits, see P-51.4)
+ru: (1) 1-[(пропан-2-ил)селанил]-2-(пропилселанил)пропан (PIN) <br>
+1-[(пропан-2-ил)селено]-2-(пропилселено)пропан <br>
+(не 2,5-диметил-3,6-диселенононан; <br>
+номенклатура &(skeletal replacement a|ro) требует четырех гетероединиц, см. P-51.4)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:120,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)|`//@btc(1)`\`||/\\@n(1,140)/O@bt(2)@:cy(n)\@n(1,30)/@btc(&n)\\@n(3,140)<|`//`\`||>/@(3)#
+S@bt(4)@cy(5)Se@bt(6)\@n(1,30)/@btc(7)\\|`//`\`||
+$>
+
+en: (5) 2-oxa-4-thia-6-selena-1,7(1),3,5(1,3)-tetrabenzenaheptaphane (PIN; phane name)  <br>
+1-phenoxy-3-{[3-(phenylselanyl)phenyl]sulfanyl}benzene (substitutive name)  <br>
+not 1-[(3-phenoxyphenyl)sulfanyl]-3-(phenylselanyl)benzene (substitutive name) <br>
+(the first substitutive name is correct because phenoxy-phenylselanyl is lower alphabetically than  <br>
+phenoxyphenyl-sulfanyl) 
+ru: (5) 2-окса-4-тиа-6-селена-1,7(1),3,5(1,3)-тетрабензенагептафан (PIN; &(phane name)) <br>
+1-фенокси-3-{[3-(фенилселанил)фенил]сульфанил}бензол (название заместителя) <br>
+не 1-[(3-феноксифенил)сульфанил]-3-(фенилселанил)бензол (название заместителя) <br>
+(первое название заместителя правильное, потому что фенокси-фенилселанил расположен раньше в алфавитном порядке, чем <br>
+феноксифенил-сульфанил _на английском_)
+
+@cell
+<$ `//`-`\\/=\-S-CH3 $>
+
+en: (1) (methylsulfanyl)benzene (PIN)  <br>
+(not thioanisole) 
+ru: (1) (метилсульфанил)бензол (PIN) <br>
+(не тиоанизол)
+
+@cell
+<$ Cl-/=\<`//`-`\\>-Se-CH2-Cl $>
+
+en: (1) 1-chloro-4-[(chloromethyl)selanyl]benzene (PIN)  <br>
+(not α,4-dichloroselenoanisole) 
+ru: (1) 1-хлор-4-[(хлорметил)селанил]бензол (PIN) <br>
+(не α,4-дихлорселеноанизол)
+
+@End
+

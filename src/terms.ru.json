@@ -239,6 +239,9 @@
   "functional parent": "функциональный родитель",
   "functional parent|*": "функциональные родители",
   "functional parent|ro*": "функциональных родителей",
+
+  "functional replacement nomenclature": "номенклатура функционального замещения",
+  "functional replacement nomenclature|ro": "номенклатуры функционального замещения",
   
   "functional suffix": "функциональный суффикс",
   "functional suffix|*": "функциональные суффиксы",
