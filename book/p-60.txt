@@ -1,4 +1,4 @@
-#P6
+#P-6
 en: Chapter 6. Applications to specific classes of compounds
 ru: Глава 6. Применение к отдельным классам соединений
 

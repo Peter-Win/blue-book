@@ -290,7 +290,7 @@ ru: Простые эфиры, затем сульфиды, сульфоксид
 
 @item
 en: Peroxides, then chalcogen analogues with the greater number of the senior chalcogen atom, where <%o%>.
-ru: Пероксиды, затем аналоги халькогенов с большим номером старшего атома халькогена, где <%o%>.
+ru: Пероксиды, затем &(chalcogen analogue|*) с большим номером старшего атома халькогена, где <%o%>.
 %o: O > S > Se > Te
 
 @item

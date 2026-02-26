@@ -65,6 +65,9 @@
 
   "bridged fused hydrocarbon ring system|ro": "системы мостиковых конденсированных углеводородных колец",
 
+  "bridged fused nomenclature": "мостиковая конденсированная номенклатура",
+  "bridged fused nomenclature|ro": "мостиковой конденсированной номенклатуры",
+
   "bridged fused system": "мостиковая конденсированная система",
   "bridged fused system|*": "мостиковые конденсированные системы",
   "bridged fused system|ro*": "мостиковых конденсированных систем",
@@ -96,6 +99,11 @@
 
   "carbohydroxamic acid": "карбогидроксамовая кислота",
   "carbohydroximic acid": "карбогидроксимовая кислота",
+
+  "chalcogen analogue": "халькогеновый аналог",
+  "chalcogen analogue|ro": "халькогенового аналога",
+  "chalcogen analogue|*": "халькогеновые аналоги",
+  "chalcogen analogue|ro*": "халькогеновых аналогов",
 
   "characteristic [group]": "характеристическая",
   "characteristic [group]|*": "характеристические",
@@ -311,6 +319,8 @@
   "fusion site|ro": "точки слияния",
   "fusion site|ro*": "точек слияния",
 
+  "hantzsch-widman|ro": "Ганча-Видмана",
+
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
 
@@ -498,6 +508,7 @@
   "parent substituent|tv": "исходным заместителем",
 
   "peroxol": "пероксол",
+  "peroxol|*": "пероксолы",
 
   "phane": "фан",
   "phane|*": "фаны",
