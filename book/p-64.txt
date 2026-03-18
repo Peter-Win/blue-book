@@ -2,6 +2,1844 @@
 en: Ketones, pseudoketones and heterones, and chalcogen analogues 
 ru: Кетоны, псевдокетоны и гетероны, а также &(chalcogen analogue|*)
 
+#P-64.0
+en: Introduction 
+ru: Введение
+
+en: The substitutive nomenclature of ketones is well established. The suffix ‘one’ is used to denote a principal characteristic 
+group, and the prefix ‘oxo’ is used when a characteristic group having seniority is present. The suffix ‘one’ and the 
+prefix ‘oxo’ were indiscriminately used to name some classes of compounds other than ketones. Full systematization 
+based on the strict application of the suffix ‘one’ for denoting the principal characteristic group =O is recommended in 
+this Section. 
+ru: &(Substitutive nomenclature) кетонов хорошо устоялась. Суффикс «он» используется для обозначения основной &(characteristic 
+group|ro), а префикс «оксо» — когда присутствует &(characteristic group), имеющая приоритет. Суффикс «он» и префикс «оксо» 
+использовались без разбора для наименования некоторых классов соединений, помимо кетонов. В этом разделе рекомендуется 
+полная систематизация, основанная на строгом применении суффикса «он» для обозначения основной &(characteristic group|ro) =O.
+
+en: Traditionally, the nomenclature of ketones was described with that of aldehydes. In these recommendations, the two 
+classes are discussed separately (for aldehydes, see P-66.6), to emphasize the similarities between carboxylic acids and 
+aldehydes with respect to nomenclature. Finally, to avoid fragmentation, the nomenclature of acetals and ketals is 
+discussed with that of aldehydes in Section P-66.6. 
+ru: Традиционно номенклатура кетонов описывалась совместно с номенклатурой альдегидов. В данных рекомендациях эти два класса 
+рассматриваются отдельно (для альдегидов см. P-66.6), чтобы подчеркнуть сходство между карбоновыми кислотами и 
+альдегидами в отношении номенклатуры. Наконец, чтобы избежать фрагментации, номенклатура ацеталей и кеталей обсуждается 
+совместно с номенклатурой альдегидов в разделе P-66.6.
+
+en: Rules on ketones and their chalcogen analogues, discussed as Rules C-311 to C-318 in the 1979 Recommendations (ref. 
+1) and Rules R-5.6.2 in the 1993 Recommendations (ref. 2) are superseded by the corresponding rules described in this 
+Section, P-64.
+ru: Правила, касающиеся кетонов и их &(chalcogen analogue|ro*), рассмотренные в Рекомендациях 1979 года как Правила 
+C-311 – C-318 (ссылка 1) и Правила R-5.6.2 в Рекомендациях 1993 года (ссылка 2), заменяются соответствующими правилами, 
+описанными в этом разделе, P-64.
+
+#P-64.1
+en: Definitions 
+ru: Определения
+
+#P-64.1.1+
+en: Ketones are defined classically as compounds in which a carbonyl group is bonded to two carbon atoms: 
+<%f%> (neither R may be H) (see ref. 23). 
+ru: Кетоны классически определяются как соединения, в которых карбонильная группа связана с двумя атомами углерода: 
+<%f%> (где R, не может быть H) (см. ссылку 23).
+%f: <$ {R}2CO $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-C@n(2,90)<`||O>-CH3@n(1)
+$>
+
+en: butan-2-one (PIN) 
+ru: бутан-2-он (PIN)
+
+@End
+
+#P-64.1.2
+en: Pseudoketones and heterones 
+ru: Псевдокетоны и гетероны
+
+en: The adjunction of these two new subclasses to the general class of ketones, clarifies the general use of suffixes and 
+prefixes in substitutive nomenclature by always giving precedence to suffixes that designate a principal characteristic 
+group. 
+ru: Включение этих двух новых подклассов в общий класс кетонов уточняет общее использование суффиксов и префиксов в 
+&(substitutive nomenclature|pr), всегда отдавая приоритет суффиксам, обозначающим основную &(characteristic group|vi).
+
+#P-64.1.2.1 
+en: Pseudoketones
+ru: Псевдокетоны
+
+en: Pseudoketones are of two types: 
+ru: Псевдокетоны бывают двух типов:
+
+@List
+
+@item
+en: cyclic compounds in which a carbonyl group in a ring is bonded to one or two skeletal heteroatoms; or
+ru: циклические соединения, в которых карбонильная группа в кольце связана с одним или двумя скелетными гетероатомами; или
+
+@item
+en: compounds in which an acyclic carbonyl group is bonded to one or two acyclic skeletal heteroatoms, except 
+nitrogen, halogen, or pseudohalogen atoms, or to a heteroatom of a ring or ring system. When the heteroatom of 
+the ring is a nitrogen atom the compound has been called an unexpressed or ‘hidden amide’. 
+ru: соединения, в которых ациклическая карбонильная группа связана с одним или двумя ациклическими скелетными гетероатомами, 
+за исключением атомов азота, галогена или псевдогалогена, или с гетероатомом кольца или кольцевой системы. Если гетероатомом 
+кольца является атом азота, такое соединение называется невыраженным или «скрытым амидом».
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y-.5)N`\`|/\|@n(2,-40)\O`\`/@n(1,20)
+$>
+
+en: <%a%> piperidin-2-one (PIN) 
+ru: <%a%> пиперидин-2-он (PIN)
+%a: (a)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\|O@n(1,-30)`/@n(2,30)|O`|`\O@n(3,-150)`|/
+$>
+
+en: (a) 1,3-dioxan-2-one (PIN)
+ru: (a) 1,3-диоксан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N`\`|/\|`/|CO@n(1)-CH3@n(2)
+$>
+
+en: (b) 1-(piperidin-1-yl)ethan-1-one (PIN)  <br>
+1-acetylpiperidine (a ‘hidden amide’) 
+ru: (b) 1-(пиперидин-1-ил)этан-1-он (PIN) <br>
+1-ацетилпиперидин (скрытый амид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Si-CO@n(1)-CH3@n(2)
+$>
+
+en: (b) 1-silylethan-1-one (PIN)  <br>
+acetylsilane 
+ru: (b) 1-силилэтан-1-он (PIN) <br>
+ацетилсилан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2P-CO@n(1)-CH2@n(2)-CH3@n(3)
+$>
+
+en: (b) 1-phosphanylpropan-1-one (PIN)  <br>
+propanoylphosphane 
+ru: (b) 1-фосфанилпропан-1-он (PIN) <br>
+пропаноилфосфан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(2)-CO@n(1)-SS-O-CH3
+$>
+
+en: (b) 1-(methoxydisulfanyl)ethan-1-one (PIN)  <br>
+(see also P-68.4.2) 
+ru: (b) 1-(метоксидисульфанил)этан-1-он (PIN) <br>
+(см. также P-68.4.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CO@n(1)-O-S-O-CH3
+$>
+
+en: (b) 1-[(methoxysulfanyl)oxy]propan-1-one (PIN)  <br>
+(see also P-68.4.2) 
+ru: (b) 1-[(метоксисульфанил)окси]пропан-1-он (PIN) <br>
+(см. также P-68.4.2)
+
+@End
+
+#P-64.1.2.2
+en: Heterones
+ru: Гетероны
+
+en: Heterones are compounds having an oxygen atom formally doubly bonded to a heteroatom (see P-61.6 and P-64.4; see 
+also P-68). They are named in the same way as ketones except when expressed as compulsory prefixes, such as sulfonyl 
+(see Table 5.1 and P-59.1.9)
+ru: Гетероны — это соединения, в которых атом кислорода формально связан двойной связью с гетероатомом (см. P-61.6 
+и P-64.4; см. также P-68). Они называются так же, как и кетоны, за исключением случаев, когда используются обязательные 
+префиксы, такие как сульфонил (см. &[Таблицу 5.1] и P-59.1.9).
+
+@Examples
+
+@cell
+<$ CH3-PO2 $>
+  
+en: methyl-λ^{5}-phosphanedione (PIN)  <br>
+methyldi(oxo)-λ^{5}-phosphane  <br>
+(not phosphomethane)
+ru: метил-λ⁵-фосфанедион (PIN) <br>
+метилди(оксо)-λ⁵-фосфан <br>
+(не фосфометан)
+
+@cell
+<$ CH3SiH=O $>
+
+en: methylsilanone (PIN)  <br>
+methyl(oxo)silane  
+ru: метилсиланон (PIN) <br>
+метил(оксо)силан
+
+@cell
+<$ C6H5-P=O $>
+
+en: phenylphosphanone (PIN)  <br>
+oxo(phenyl)phosphane  <br>
+(not phosphorosobenzene) 
+ru: фенилфосфанон (PIN) <br>
+оксо(фенил)фосфан <br>
+(не фосфорозобензол)
+
+@End
+
+
+#P-64.2
+en: Ketones 
+ru: Кетоны
+
+#P-64.2.1
+en: Retained names
+ru: &(Retained name|*)
+
+#P-64.2.1.1+
+en: The name ‘chalcone’ is the only retained name as a preferred IUPAC name and is limited to ring substitution 
+only by characteristic groups lower than ‘ketone’. Chalcone refers only to the _trans_- or (_E_)- stereoisomer. 
+ru: Название «халкон» — единственное сохранившееся название в качестве предпочтительного названия по номенклатуре IUPAC, 
+и оно ограничивается только замещением кольца характерными группами ниже «кетона». Халкон относится только к 
+_транс_- или (_E_)-стереоизомеру.
+// http://charchem.org/ru/subst-ref/?langs=*&id=3370
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|@n(1',-40)\|O`|/`||l/@n(1,-140)`|//\||`/`\\
+$>
+
+en: chalcone (PIN)  <br>
+(2_E_)-1,3-diphenylprop-2-en-1-one 
+ru: халкон (PIN) <br>
+(2_E_)-1,3-дифенилпроп-2-ен-1-он
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH`|/`/@n(2',30)`\@n(3',95)<_q6O`-CH3>`||<`\HO>@n(4',-95)/\\|@n(1',-30)\|O`|/`||l/@n(1,-140)`|//\||@n(3,-30)<`/`\\>_q6O-CH3
+$>
+
+en: 2′,4′-dihydroxy-3,3′-dimethoxychalcone (PIN)  <br>
+(2_E_)-1-(2,4-dihydroxy-3-methoxyphenyl)-3-(3-methoxyphenyl)prop-2-en-1-one 
+ru: 2′,4′-дигидрокси-3,3′-диметоксихалкон (PIN) <br>
+(2_E_)-1-(2,4-дигидрокси-3-метоксифенил)-3-(3-метоксифенил)проп-2-ен-1-он
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH`|/`/@n(2',30)`\`||<`\HO>@n(4',140)/\\|@n(1',-30)\|O`|/`||l/@n(1,-140)`|//\@n(4,30)<_q6CO-NH2>||`/`\\
+$>
+
+en: 4-[(1_E_)-3-(2,4-dihydroxyphenyl)-3-oxoprop-1-en-1-yl]benzamide (PIN)  <br>
+(not 2′,4′-dihydroxychalcone-4-carboxamide) 
+ru: 4-[(1_E_)-3-(2,4-дигидроксифенил)-3-оксопроп-1-ен-1-ил]бензамид (PIN) <br>
+(не 2′,4′-дигидроксихалкон-4-карбоксамид)
+
+@End
+
+#P-64.2.1.2+
+en: For use in general nomenclature, only the names acetone and 1,4-benzoquinone, together with 
+naphthoquinone and anthraquinone with locants, are retained with substitution on the corresponding structures. The 
+name ketene is retained, but only for general nomenclature with substitution restricted to prefixes listed in P-15.1.8.2. 
+The names acetophenone and benzophenone are retained only for general nomenclature, but no substitution is allowed. 
+Substitutive names, systematically constructed, are the preferred IUPAC names for ketones (see P-64.2.2)
+ru: Для использования в общей номенклатуре сохраняются только названия ацетон и 1,4-бензохинон, а также нафтохинон и 
+антрахинон с локантами, с заменой в соответствующих структурах. Название кетен сохраняется, но только для общей номенклатуры, 
+при этом замена ограничена префиксами, перечисленными в P-15.1.8.2. Названия ацетофенон и бензофенон сохраняются только для 
+общей номенклатуры, но замена не допускается. Систематически построенные &(substitutive name|*) являются предпочтительными 
+названиями кетонов по номенклатуре IUPAC (см. P-64.2.2).
+
+@Examples
+
+@cell
+<$ H3C-CO-CH3 $>
+  
+en: acetone  <br>
+propan-2-one (PIN) 
+ru: ацетон <br>
+пропан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O=C@n(1)=CH2@n(2)
+$>
+
+en: ketene  <br>
+ethenone (PIN)
+ru: кетен <br>
+этенон (PIN)
+
+@cell
+<$ `/`=`\//-\\-CO-CH3 $>
+
+en: acetophenone  <br>
+1-phenylethan-1-one (PIN)
+ru: ацетофенон <br>
+1-фенилэтан-1-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O||@n(1,-30)\||`/@n(4,30)|O`|`\`||/
+$>
+
+en: 1,4-benzoquinone  <br>
+cyclohexa-2,5-diene-1,4-dione (PIN)  <br>
+(not benzoquinone) 
+ru: 1,4-бензохинон <br>
+циклогекса-2,5-диен-1,4-дион (PIN) <br>
+(не бензохинон)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|O|@n(1,-30)\||`/@n(4,30)|O`|`\
+$>
+
+en: 1,4-naphthoquinone  <br>
+(1,4 isomer shown)  <br>
+naphthalene-1,4-dione (PIN)  <br>
+(not naphthoquinone) 
+ru: 1,4-нафтохинон <br>
+(показан 1,4-изомер) <br>
+нафтален-1,4-дион (PIN) <br>
+(не нафтохинон)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|O|@n(9,-30)\|l\//`|@n(2,-30)`\\@n(1,-90)`/|`/@n(10,20,.5)|O`|`\
+$>
+
+en: 9,10-anthraquinone  <br>
+anthracene-9,10-dione (PIN)  <br>
+(not anthraquinone)
+ru: 9,10-антрахинон <br>
+антрацен-9,10-дион (PIN) <br>
+(не антрахинон)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\-C_(h)O-/=\`//`-`\\
+$>
+
+en: benzophenone  <br>
+diphenylmethanone (PIN)  <br>
+(not 1,1′-carbonyldibenzene) 
+ru: бензофенон <br>
+дифенилметанон (PIN) <br>
+(не 1,1′-карбонилдибензол)
+
+@End
+
+#P-64.2.1.3+
+en: The following trivial names for ketones have been used in past recommendations but are no longer accepted 
+even in general nomenclature. 
+ru: Следующие тривиальные названия кетонов использовались в предыдущих рекомендациях, но больше не принимаются 
+даже в общей номенклатуре.
+
+@Examples --
+
+@cell
+<$
+`|`\l_(a%a:81.4707)<_(A-120,N2)O>_(a%b:68.5292)<_(A-60,N2)O>_(a%b)_(a%a)`\`/||\//\//`|`\\
+$>
+
+en: acenaphthylene-1,2-dione (PIN)  <br>
+(not acenaphthoquinone) 
+ru: аценафтилен-1,2-дион (PIN) <br>
+(не аценафтохинон)
+
+@cell
+<$ |`//`\`||/\\/`|O|\NH|`//`\ $>
+
+en: isoquinolin-1(2_H_)-one (PIN)  <br>
+[not isoquinolone (1-isomer shown)] 
+ru: изохинолин-1(2_H_)-он (PIN) <br>
+[не изохинолон (показан 1-изомер)]
+
+@cell
+<$ |`//`\`||/\\/N<_(y-.5)H>\/O`/|`//`\ $>
+
+en: quinolin-2(1_H_)-one (PIN)  <br>
+[not quinolone (2-isomer shown)]  
+ru: хинолин-2(1_H_)-он (PIN) <br>
+[не хинолон (показан 2-изомер)]
+
+@cell
+<$ -_q<_(a54,N2)O>_qN<_(y-.5)H>_q_q $>
+
+en: pyrrolidin-2-one (PIN)  <br>
+[not pyrrolidone (2-isomer shown)]
+ru: пирролидин-2-он (PIN) <br>
+[не пирролидон (показан 2-изомер)]
+
+@cell
+<$ C6H5-CO-CO-C6H5 $>
+  
+en: diphenylethanedione (PIN)  <br>
+(not benzil)  
+ru: дифенилэтандион (PIN) <br>
+(не бензил)
+
+@cell
+<$ CH3-CO-CO-CH3 $>
+  
+en: butane-2,3-dione (PIN)  <br>
+(not biacetyl) 
+ru: бутан-2,3-дион (PIN) <br>
+(не биацетил)
+
+@cell
+<$ C6H5-CO-CH2-CH3 $>
+  
+en: 1-phenylpropan-1-one (PIN)  <br>
+(not propiophenone)
+ru: 1-фенилпропан-1-он (PIN) <br>
+(не пропиофенон)
+
+@End
+
+
+#P-64.2.2
+en: Systematic construction of names for ketones
+ru: Систематическое построение названий для кетонов
+
+#P-64.2.2.1+
+en: Acyclic ketones
+ru: Ациклические кетоны
+
+en: Unsubstituted acyclic ketones are systematically named in two ways: 
+ru: Незамещенные ациклические кетоны систематически называются двумя способами:
+
+@List 1
+
+@item
+en: substitutively, using the suffix ‘one’ and the prefix ‘oxo’; the presence of several ‘one’ characteristic groups is 
+denoted by the numerical multiplying prefixes ‘di’, ‘tri’, etc.; the final letter ‘a’ of a numerical multiplying prefix 
+is elided before the suffix ‘-one’, for example, ‘tetrone’; 
+ru: замещающим способом, с использованием суффикса «он» и префикса «оксо»; наличие нескольких &(characteristic group|ro*) 
+«он» обозначается числовыми умножающими префиксами «ди», «три» и т. д.; конечная буква «а» числового умножающего префикса 
+опускается перед суффиксом «-он», например, «тетрон»;
+
+@item
+en:  by functional class nomenclature using the class names ‘ketone’, ‘diketone’ etc.; substituent groups are placed, 
+as separate words, in alphanumerical order before the class name. 
+ru: по &(functional class nomenclature|pr) используются названия классов «кетон», «дикетон» и т. д.; &(substituent group|*) 
+располагаются как отдельные слова в буквенно-цифровом порядке перед названием класса.
+
+@End
+
+en: Method (1) generates preferred IUPAC names. 
+ru: Метод (1) генерирует предпочтительные названия IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CO@n(2)-CH3@n(3)
+$>
+
+en: propan-2-one (PIN)  <br>
+dimethyl ketone  <br>
+acetone
+ru: пропан-2-он (PIN) <br>
+диметилкетон <br>
+ацетон
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CO@n(2)-CH3@n(1)
+$>
+
+en: butan-2-one (PIN)  <br>
+ethyl methyl ketone  <br>
+(not methyl ethyl ketone;  <br>
+groups must be cited in alphanumerical order) 
+ru: бутан-2-он (PIN) <br>
+этилметилкетон <br>
+(не метилэтилкетон; <br>
+группы должны быть указаны в алфавитно-цифровом порядке)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH2@n(6)-CH2@n(5)-CH2@n(4)-CO@n(3)-CH2@n(2)-CH3@n(1)
+$>
+
+en: heptan-3-one (PIN)  <br>
+butyl ethyl ketone
+ru: гептан-3-он (PIN) <br>
+бутилэтилкетон
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(25)-[CH2]5-CO@n(19)-CH2-CO@n(17)-[CH2]7-CO@n(9)-CH2-CO@n(7)-[CH2]5-CH3@n(1)
+$>
+
+en: pentacosane-7,9,17,19-tetrone (PIN) 
+ru: пентакозан-7,9,17,19-тетрон (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH@n(5)(CH3)-CH2@n(4)-CH2@n(3)-CO@n(2)-CH3@n(1)
+$>
+
+en: 5-methylhexan-2-one (PIN)  <br>
+methyl 3-methylbutyl ketone  <br>
+(not isopentyl methyl ketone)
+ru: 5-метилгексан-2-он (PIN) <br>
+метил-3-метилбутилкетон <br>
+(не изопентилметилкетон)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-CH2@n(1)-CO@n(2)-CH3@n(3)
+$>
+
+en: 1-phenylpropan-2-one (PIN)  <br>
+benzyl methyl ketone
+ru: 1-фенилпропан-2-он (PIN) <br>
+бензилметилкетон
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-CO@n(1)-CH3@n(2)
+$>
+
+en: 1-phenylethan-1-one (PIN)  <br>
+acetophenone (no substitution)
+ru: 1-фенилэтан-1-он (PIN) <br>
+ацетофенон (без замещения)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/<`\Cl>=\-CO@n(1)-CH3@n(2)
+$>
+
+en: 1-(3-chlorophenyl)ethan-1-one (PIN)  <br>
+(not 3′-chloroacetophenone;  <br>
+no substitution allowed for acetophenone) 
+ru: 1-(3-хлорфенил)этан-1-он (PIN) <br>
+(не 3′-хлорацетофенон; <br>
+замена для ацетофенона не допускается)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\<`-Cl>//-\\-CO@n(1)-CH2Br@n(2)
+$>
+
+en: 2-bromo-1-(4-chlorophenyl)ethan-1-one (PIN)  <br>
+(not 4-chlorophenacyl bromide;  <br>
+not 2-bromo-4′-chloroacetophenone;  <br>
+no substitution allowed for acetophenone)
+ru: 2-бром-1-(4-хлорфенил)этан-1-он (PIN) <br>
+(не 4-хлорфенацилбромид; <br>
+не 2-бром-4′-хлорацетофенон; <br>
+замена для ацетофенона не допускается)
+
+@cell
+<$ |`//`\`||/\\/C`|O|\//\||`/`\\`| $>
+
+en: diphenylmethanone (PIN)  <br>
+benzophenone  <br>
+diphenyl ketone
+ru: дифенилметанон (PIN) <br>
+бензофенон <br>
+дифенилкетон
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`|`\`//|\\/`|/\\/<_(A-105,N2)O>@n(1,80)_(A0)<_(A-75,N2)O>@n(2,100)\//\|l\//`|`\\`/|`/`\\`|
+$>
+
+en: di(naphthalen-2-yl)ethanedione (PIN)  <br>
+di(2-naphthyl)ethanedione  <br>
+di(2-naphthyl) diketone
+ru: ди(нафталин-2-ил)этандион (PIN) <br>
+ди(2-нафтил)этандион <br>
+ди(2-нафтил)дикетон
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_pp_pO_p<_pp>_(a-54)@:o(n)<`||O>@n(&n)@(1)-@o(2)-@o(3):a; `-_pp<_(a-54)#a>_pN<_(y-.5)H>_p_pp
+$>
+
+en: 1-(furan-2-yl)-3-(1H-pyrrol-2-yl)propane-1,2,3-trione (PIN)  <br>
+1-(2-furyl)-3-(pyrrol-2-yl)propanetrione  <br>
+2-furyl pyrrol-2-yl triketone 
+ru: 1-(фуран-2-ил)-3-(1H-пиррол-2-ил)пропан-1,2,3-трион (PIN) <br>
+1-(2-фурил)-3-(пиррол-2-ил)пропантрион <br>
+2-фурилпиррол-2-илтрикетон
+
+@End
+
+#P-64.2.2.2
+en: Cyclic ketones 
+ru: Циклические кетоны
+
+en: Names of cyclic ketones are formed substitutively by using the suffix ‘one’. As the formation of ketones is achieved by 
+the conversion of a methylene, <%a%>, group into a <%b%> group, the suffix ‘one’ with appropriate locants can be added 
+to the name of parent hydrides having such groups. Methylene groups occur in saturated rings and ring systems and in 
+mancude compounds having indicated hydrogen atoms. 
+ru: Названия циклических кетонов образуются за счет замещения с использованием суффикса «он». Поскольку образование 
+кетонов достигается путем превращения метиленовой группы <%a%> в группу <%b%>, к названию &(parent hydride|ro*), 
+содержащих такие группы, можно добавить суффикс «он» с соответствующими локантами. Метиленовые группы встречаются в 
+насыщенных кольцах и кольцевых системах, а также в &(mancude)-соединениях, содержащих указанные атомы водорода.
+%a: <$ ">"CH2 $>
+%b: <$ ">"C=O $>
+
+en: Compounds not having suitably located indicated hydrogen atoms or composed only of =CH– groups, must be 
+hydrogenated in order to create <%a%> groups; when the hydrogenation operation occurs simultaneously with 
+substitution by the <%b%>, it is called ‘added indicated hydrogen’ (see P-14.7 and P-58.2.2). The ‘added indicated 
+hydrogen’ method generates preferred IUPAC names. 
+ru: Соединения, не имеющие подходящим образом расположенных &(indicated hydrogen atom|ro*) или состоящие только из 
+групп =CH–, должны быть гидрированы для образования групп <%a%>; когда операция гидрирования происходит одновременно с 
+замещением на <%b%>, это называется «&(added indicated hydrogen)» (см. P-14.7 и P-58.2.2). 
+Метод «&(added indicated hydrogen|ro)» позволяет получить предпочтительные названия по номенклатуре IUPAC.
+%a: <$ ">"CH2 $>
+%b: <$ ">"C=O $>
+
+#P-64.2.2.2.1
+en: Alicyclic ketones
+ru: Алициклические кетоны
+
+en: Ketones resulting from the substitution of <%a%> groups are named substitutively using the suffix ‘one’ to designate the 
+principal characteristic group.  
+ru: Кетоны, образующиеся в результате замещения <%a%> групп, называются заместительным образом с использованием суффикса «он» 
+для обозначения основной &(characteristic group|ro).
+%a: <$ ">"CH2 $>
+
+@Examples
+
+@cell
+<$ |_q_q<_q_q>=O $>
+
+en: cyclopentanone (PIN) 
+ru: циклопентанон (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q7:a_q7_q7_q7<_(a64.3,N2)O>@n(2,20)_q7:b<_q7>@n(1,-100)_(x.4,y#b;a)_#a
+$>
+
+en: bicyclo[3.2.1]octan-2-one (PIN) 
+ru: бицикло[3.2.1]октан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(2,-30)_q<_(a54,N2)O>@n(1,-50)_q<_q_q>@n(5,0)`/`-<`//O>@n(7,60)`\/-\
+$>
+
+en: spiro[4.5]decane-1,7-dione (PIN)
+ru: спиро[4.5]декан-1,7-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y-.5)N`\`|/`|O|@n(4,-30)\|`/@n(1,30)
+$>
+
+en: piperidin-4-one (PIN)
+ru: пиперидин-4-он (PIN)
+
+@End
+
+#P-64.2.2.2.2
+en: Ketones derived from mancude parent hydrides
+ru: Кетоны, полученные из &(mancude)-&(parent hydride|ro*)
+
+en: Ketones derived from mancude parent hydrides having indicated hydrogen atoms are named by direct substitution of a 
+<%a%> group as indicated in P-64.2.2.2.1. When no indicated hydrogen is present, the methodology of ‘added indicated 
+hydrogen’ is applied (see P-14.7 and P-58.2.2). 
+ru: Кетоны, полученные из &(mancude)-&(parent hydride|ro*), содержащих &(indicated hydrogen atom|*), именуются путем 
+прямой замены группы <%a%>, как указано в P-64.2.2.2.1. Если &(indicated hydrogen) отсутствует, применяется методология 
+«&(added indicated hydrogen|ro)» (см. P-14.7 и P-58.2.2).
+%a: <$ ">"CH2 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O||@n(4,-30)\||`/O@n(1,90,.55)`\`||/
+$>
+
+en: 4_H_-pyran-4-one (PIN)  <br>
+pyran-4-one
+ru: 4_H_-пиран-4-он (PIN) <br>
+пиран-4-он
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq@n(2,0,.3)_q<_q>@n(1,0)_(a54,N2)O
+$>
+
+en: 1_H_-inden-1-one (PIN)  <br>
+inden-1-one 
+ru: 1_H_-инден-1-он (PIN) <br>
+инден-1-он
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/`|O|@n(1,-30)\@n(2,-30)|`//`\
+$>
+
+en: naphthalen-1(2_H_)-one (PIN)  <br>
+1,2-dihydronaphthalen-1-one  <br>
+(see P-58.2)
+ru: нафтален-1(2_H_)-он (PIN) <br>
+1,2-дигидронафтален-1-он <br>
+(см. P-58.2)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\@n(10,-90)`/||\/l`|/`|O|@n(1,-30)\@n(2,-30)|\O`\@n(3,90)`/`\`/|<\\/`||>`/@n(6,30)|O`|`\@n(7,150)`|@n(8,150)`\O\/
+$>
+
+en: pyrene-1,3,6,8(2_H_,7_H_)-tetrone (PIN)  <br>
+1,2,3,6,7,8-hexahydropyrene-1,3,6,8-tetrone  <br>
+(see P-58.2) 
+ru: пирен-1,3,6,8(2_H_,7_H_)-тетрон (PIN) <br>
+1,2,3,6,7,8-гексагидропирен-1,3,6,8-тетрон <br>
+(см. P-58.2)
+
+@End
+
+#P-64.2.2.2.3
+en: Quinones
+ru: Хиноны
+
+en: No retained quinone names are used as preferred IUPAC names. The name 1,4-benzoquinone, and those of 
+naphthoquinones and anthraquinones with locants, are retained for use in general nomenclature with substitution. All 
+other quinones are named systematically using substitutive nomenclature in accordance with P-64.2.2.2.2. Diketones 
+derived from mancude compounds without indicated hydrogen atoms by conversion of two or four <%a%> groups into 
+<%b%> groups with any rearrangement of double bonds to a quinonoid structure are named systematically (see  
+P-64.2.2.2.2). 
+ru: В качестве предпочтительных названий по номенклатуре ИЮПАК не используются &(retained name|*) хинонов. Название 
+1,4-бензохинон, а также названия нафтохинонов и антрахинонов с локантами сохраняются для использования в общей номенклатуре 
+с замещением. Все остальные хиноны систематически называются с использованием &(substitutive nomenclature|ro) в соответствии 
+с P-64.2.2.2.2. Дикетоны, полученные из &(mancude)-соединений без &(indicated hydrogen atom|ro*) путем превращения двух или 
+четырех групп <%a%> в группы <%b%> с любой перегруппировкой двойных связей в хиноидную структуру, 
+систематически называются (см. P-64.2.2.2.2).
+%a: <$ =CH– $>
+%b: <$ ">"C=O $>
+
+@Examples
+
+@cell
+<$ O||\/O`/|`//`\`||/ $>
+
+en: cyclohexa-3,5-diene-1,2-dione (PIN)  <br>
+(not 1,2-benzoquinone)  <br>
+(not _o_-benzoquinone) 
+ru: циклогекса-3,5-диен-1,2-дион (PIN) <br>
+(не 1,2-бензохинон) <br>
+(не _o_-бензохинон)
+
+@cell
+<$ ||`/|O`|`\`||/`|O|\/Cl $>
+
+en: 2-chlorocyclohexa-2,5-diene-1,4-dione (PIN)  <br>
+2-chloro-1,4-benzoquinone  <br>
+(not 2-chloro-_p_-benzoquinone) 
+ru: 2-хлорциклогекса-2,5-диен-1,4-дион (PIN) <br>
+2-хлор-1,4-бензохинон <br>
+(не 2-хлор-_p_-бензохинон)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/`|O|@n(1,-20)\/O`/@n(2,30)|`//`\
+$>
+
+en: naphthalene-1,2-dione (PIN)  <br>
+1,2-naphthoquinone
+ru: нафталин-1,2-дион (PIN) <br>
+1,2-нафтохинон
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl`/|`/|O`|@n(4,30)`\`//`\`||/\\<|>/`|O|@n(1,-30)\@n(2,20)|@n(3,-20)\N_(a54)_q_q_q_q
+$>
+
+en: 2-chloro-3-(pyrrolidin-1-yl)naphthalene-1,4-dione (PIN)  <br>
+2-chloro-3-(pyrrolidin-1-yl)-1,4-naphthoquinone 
+ru: 2-хлор-3-(пирролидин-1-ил)нафтален-1,4-дион (PIN) <br>
+2-хлор-3-(пирролидин-1-ил)-1,4-нафтохинон
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//@n(10,90)`\`|r`\`//|\\/`|/@n(9,-90)\\/`|O|@n(1,-20)\/O`/@n(2,30)|`//`\
+$>
+
+en: anthracene-1,2-dione (PIN)  <br>
+1,2-anthraquinone
+ru: антрацен-1,2-дион (PIN) <br>
+1,2-антрахинон
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`|r`\@n(9,-30)`|O|`/|r`/`\\`|//\|\|O`|@n(10,20,.45)/`|/@n(1,-90)\\@n(2,30)/CH3
+$>
+
+en: 2-methylanthracene-9,10-dione (PIN)  <br>
+2-methyl-9,10-anthraquinone
+ru: 2-метилантрацен-9,10-дион (PIN) <br>
+2-метил-9,10-антрахинон
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||\N@n(1,90,.55)//@n(2,30)`|`\\`/`\`|O|@n(5,-20)`/||\|O`|@n(8,20)/
+$>
+
+en: quinoline-5,8-dione (PIN)  <br>
+(not quinoline-5,8-quinone) 
+ru: хинолин-5,8-дион (PIN) <br>
+(не хинолин-5,8-хинон)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\||`/@n(6,30)|O`|`\`//`\`||/\\<|>/`||/`|O|@n(12,-30,.5)\|l\//`|@n(2,-30)`\\@n(1,-90)`/|`/
+$>
+
+en: chrysene-6,12-dione (PIN)  <br>
+(not chrysene-6,12-quinone) 
+ru: хризен-6,12-дион (PIN) <br>
+(не хризен-6,12-хинон)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\r/_(a-81.4707)<_(A-60,N2)O>@n(2,20)`-<_(A-120,N2)O>@n(1,160)_(a-68.5292)\|\//`|`\\
+$>
+
+en: acenaphthylene-1,2-dione (PIN)  <br>
+(not acenaphthoquinone)
+ru: аценафтилен-1,2-дион (PIN) <br>
+(не аценафтохинон)
+
+@End
+
+#P-64.2.2.3 
+en: Seniority order for numbering 
+ru: Порядок старшинства при нумерации
+
+en: When there is a choice for numbering, the starting point and the direction of numbering of a compound are chosen so as 
+to give lowest locants to the structural features (if present) listed in P-14.4. Rule P-52.2.8 is applied when a choice for 
+the principal chain or senior ring system is required. 
+ru: Если есть выбор нумерации, начальная точка и направление нумерации соединения выбираются таким образом, чтобы наименьшие 
+локанты соответствовали структурным элементам (если они присутствуют), перечисленным в пункте P-14.4. Правило P-52.2.8 
+применяется, когда требуется выбор основной цепи или старшей кольцевой системы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q@n(3,80)_q@n(2,0)_q<_q>@n(1,10)_(a54,N2)O
+$>
+
+en: 2,3-dihydro-1_H_-inden-1-one (PIN; see P-58.2)  <br>
+indan-1-one 
+ru: 2,3-дигидро-1_H_-инден-1-он (PIN; см. P-58.2) <br>
+инден-1-он
+
+@cell
+<$ |0_q<_(a54,N2)O>_q_qSe_q`\`/`\`/|\/\/ $>
+
+en: 1-selenacyclotridecan-3-one (PIN) 
+ru: 1-селенациклотридекан-3-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-SiH2@n(2)-CH2-SiH2@n(4)-CH2-SiH2@n(6)-CH2-SiH2@n(8)-CH2-CO@n(10)-CH3@n(11)
+$>
+
+en: 2,4,6,8-tetrasilaundecan-10-one (PIN) 
+ru: 2,4,6,8-тетрасилаундекан-10-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)=CH@n(3)-CO@n(2)-CH3@n(1)
+$>
+
+en: but-3-en-2-one (PIN) 
+ru: бут-3-ен-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-C@n(4)%C@n(3)-CO@n(2)-CH3@n(1)
+$>
+
+en: pent-3-yn-2-one (PIN)
+ru: пент-3-ин-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CO@n(3)-C@n(4)%CH@n(5)
+$>
+
+en: pent-1-en-4-yn-3-one (PIN)
+ru: пент-1-ен-4-ин-3-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2-CH2-C@n(3,90)<`||CH2>-CO@n(2,90)-CH3@n(1)
+$>
+
+en: 3-methylidenehexan-2-one (PIN) 
+ru: 3-метилиденгексан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a:126,L:.5)<_(a&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-70,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,126,1.2)@;
+@:fu(a,n,l,nR:5,nL:2)_(A&a)_pp<_pO@btc(&n)@n(1)_p<_(a-54)&l>@n(&nL)_pp>@n(&nR)_(a-54)@;
+$L(%L:1.1)$slope(45)@fu(0,1,:a,2,5)<_(a-75,N2)O>@bt(2,-20,.5)\@bt(3):b;
+@fu(90,4,#b)@bt(5)`/@bt(6):c; @fu(180,7,#c)@bt(8)`\@bt(9):d; @fu(-90,10,#d)@bt(11)//@bt(12)
+$>
+
+en: 1,4,7,10(2,5)-tetrafuranacyclododecaphan-11-en-2-one (PIN) 
+ru: 1,4,7,10(2,5)-тетрафуранациклододекафан-11-ен-2-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(9,-90)\|<`/@n(10,90)`\>@n(4a,90)\@n(4,90)/@n(3,30,.4)`|@n(2,30)/O`/`\`|O|@n(1,-30)`/@n(9a,-90)
+$>
+
+en: 3,4,4a,9,9a,10-hexahydroanthracene-1,2-dione (PIN)  <br>
+3,4,4a,9,9a,10-hexahydro-1,2-anthraquinone  <br>
+1,2,3,4,4a,9,9a,10-octahydroanthracene-1,2-dione (see P-58.2)
+ru: 3,4,4a,9,9a,10-гексагидроантрацен-1,2-дион (PIN) <br>
+3,4,4a,9,9a,10-гексагидро-1,2-антрахинон <br>
+1,2,3,4,4a,9,9a,10-октагидроантрацен-1,2-дион (см. P-58.2)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/`|O|@n(1,-30)\@n(2,-30)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: 3,4-dihydronaphthalen-1(2H)-one (PIN)  <br>
+1,2,3,4-tetrahydronaphthalen-1-one (see P-58.2) 
+ru: 3,4-дигидронафтален-1(2H)-он (PIN) <br>
+1,2,3,4-тетрагидронафтален-1-он (см. P-58.2)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/<`|COOH>@n(1,-30)\@n(2,-30)|@n(3,30)`/@n(4,30)<||O>`\
+$>
+
+en: 4-oxo-1,2,3,4-tetrahydronaphthalene-1-carboxylic acid (PIN)
+ru: 4-оксо-1,2,3,4-тетрагидронафтален-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`|\@n(4,-90)/@n(3,30)`|@n(2,-30)`\@n(1,-90)`/|@n(4a,-150)`/|O`|@n(5,150)`\`||/\\
+$>
+
+en: 5-oxo-1,3,4,5-tetrahydronaphthalene-4a(2_H_)-carboxylic acid (PIN)
+ru: 5-оксо-1,3,4,5-тетрагидронафтален-4a(2_H_)-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(3,60)_q@n(2,40)<_(a54)COOH>_qO@n(1,-90,.55)_q<_(a54,N2)O>@n(5,140)_q@n(4,120)
+$>
+
+en: 5-oxo-2,5-dihydrofuran-2-carboxylic acid (PIN) 
+ru: 5-оксо-2,5-дигидрофуран-2-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_qq@n(2,40)<_(a54)COOH>_qO@n(1,-90,.55)_q<_(a54,N2)O>@n(5,140)_q@n(4,120)
+$>
+
+en: 5-oxo-4,5-dihydrofuran-2-carboxylic acid (PIN) 
+ru: 5-оксо-4,5-дигидрофуран-2-карбоновая кислота (PIN)
+
+@End
+
+#P-64.2.2.4
+en: Ketenes 
+ru: Кетены
+
+en: Ketene is the class name for <%a%> and its derivatives; the name ketene can be used in general nomenclature to 
+name the unsubstituted structure and derivatives named by compulsory prefixes (see Table 5.1). Other derivatives are 
+named by using the principles for naming ketones. 
+ru: Кетен — это название класса соединений <%a%> и его производных; название кетен может использоваться в общей 
+номенклатуре для обозначения незамещенной структуры и производных, обозначаемых обязательными префиксами 
+(см. &[Таблицу 5.1]). Другие производные обозначаются с использованием принципов наименования кетонов.
+%a: <$ H2C=C=O $>
+
+@Examples
+
+@cell
+<$
+CH3-CH2-CH2-CH2-C<=C=O>`|CH2`-CH2`-CH2`-CH3
+$>
+
+en: 2-butylhex-1-en-1-one (PIN)  <br>
+(not dibutylketene) 
+ru: 2-бутилгекс-1-ен-1-он (PIN) <br>
+(не дибутилкетен)
+
+@cell
+<$ `/`-`\/-\=C=O $>
+
+en: cyclohexylidenemethanone (PIN)
+ru: циклогексилиденметанон (PIN)
+
+@cell
+<$ Br2C=C=O $>
+
+en: dibromoethenone (PIN)  <br>
+dibromoketene
+ru: дибромэтенон (PIN) <br>
+дибромкетен
+
+@End
+
+
+#P-64.3
+en: Pseudoketones
+ru: Псевдокетоны 
+
+en: Pseudoketones are compounds having a carbonyl group joined to a carbon atom and a heteroatom, <%a%>, or to two 
+heteroatoms, <%b%>, where X ≠ F, Cl, Br, I, pseudohalogen, or acyclic N. These compounds are named 
+substitutively using the suffix ‘one’, in accordance with rules expressed for ketones, when required. 
+ru: Псевдокетоны — это соединения, имеющие карбонильную группу, соединенную с атомом углерода и гетероатомом, <%a%>, 
+или с двумя гетероатомами, <%b%>, где X ≠ F, Cl, Br, I, псевдогалоген или ациклический N. Эти соединения называются 
+замещающим образом с использованием суффикса «он» в соответствии с правилами, выраженными для кетонов, если это необходимо.
+%a: –C-CO-X–
+%b: –X-CO-X–
+
+#P-64.3.1+
+en: Cyclic anhydrides, esters and amides are named as pseudoketones; the resulting names are preferred IUPAC names. 
+ru: Циклические ангидриды, сложные эфиры и амиды называются псевдокетонами; полученные названия являются 
+предпочтительными названиями по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q<_(a54,N2)O>@n(2)_qO@n(1)_q<_q>@n(5)_(a54,N2)O
+$>
+
+en: oxolane-2,5-dione (PIN)  <br>
+succinic anhydride (see P-65.7.7)
+ru: оксолан-2,5-дион (PIN) <br>
+янтарный ангидрид (см. P-65.7.7)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q7_q7<_(a64.3,N2)O>@n(2,130)_q7N<_(y-.5)H>@n(1,90,.55)_q7_q7_q7
+$>
+
+en: azepan-2-one (PIN)  <br>
+hexano-6-lactam (see P-66.1.5.1) 
+ru: азепан-2-он (PIN) <br>
+гексано-6-лактам (см. P-66.1.5.1)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(3,90,.55)_q<_(a54,N2)O>@n(2,40)_qN<_(y-.5)H>@n(1,-20,.5)_q@n(5,-160)_q@n(4,-170)_(a54,N2)O
+$>
+
+en: imidazolidine-2,4-dione (PIN)
+ru: имидазолидин-2,4-дион (PIN)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q<_(a54,N2)O>@n(2,40)_qN<_(y-.5)H>@n(1,-30,.5)_q_q
+$>
+
+en: pyrrolidin-2-one (PIN)  <br>
+(not 2-pyrrolidone) 
+ru: пирролидин-2-он (PIN) <br>
+(не 2-пирролидон)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N<_(y-.5)H>@n(1,-30,.5)\/O`/@n(2,30)|`//`\
+$>
+
+en: quinolin-2(1_H_)-one (PIN)  <br>
+(not 1,2-dihydroquinolin-2-one) 
+ru: хинолин-2(1_H_)-он (PIN) <br>
+(не 1,2-дигидрохинолин-2-он)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/`|O|@n(1,-30)\NH@n(2,60,.6)|`//`\
+$>
+
+en: isoquinolin-1(2_H_)-one (PIN)  <br>
+(not 1,2-dihydroisoquinolin-1-one) 
+ru: изохинолин-1(2_H_)-он (PIN) <br>
+(не 1,2-дигидроизохинолин-1-он)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q<_(a54,N2)O>@n(3)_q@n(2,,.4)_qN<_(y-.5)H>@n(1)_q
+$>
+
+en: 1,2-dihydro-3_H_-indol-3-one (PIN) <br> 
+(not 1_H_-indol-3(2_H_)-one; see P-58.2) 
+ru: 1,2-дигидро-3_H_-индол-3-он (PIN) <br>
+(не 1_H_-индол-3(2_H_)-он; см. P-58.2)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1,-100,.55)/`|O|@n(2,-30)\NH@n(3,-80,.55)|\O`\@n(4,90)`/@n(5,90)`\`/O/@n(6,90)`|
+$>
+
+en: 1,3-diazinane-2,4,6-trione (PIN)  <br>
+pyrimidine-2,4,6(1_H_,3_H_,5_H_)-trione  
+ru: 1,3-диазинан-2,4,6-трион (PIN) <br>
+пиримидин-2,4,6(1_H_,3_H_,5_H_)-трион
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1,-100,.55)/`|O|@n(2,-30)\NH@n(3,-80,.55)|\O`\@n(4,90)`/N<_(y.5)H>@n(5,-90,.55)`\`/O/@n(6,90)`|
+$>
+
+en: 1,3,5-triazinane-2,4,6-trione (PIN) <br> 
+1,3,5-triazine-2,4,6(1_H_,3_H_,5_H_)-trione  
+ru: 1,3,5-триазинан-2,4,6-трион (PIN) <br>
+1,3,5-триазин-2,4,6(1_H_,3_H_,5_H_)-трион
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(4,150)_qq@n(3,70)_q@n(2,-70)<_qO@n(1,-90,.55)_q@n(5,150)_(a54,N2)O>=#
+@n(3',-110)_(a54)@n(4',110)_qq@n(5',30)`|O@n(1',-40,.55)_q<_q>@n(2',-40)_(a54,N2)O
+$>
+
+en: 2′_H_,5_H_-[2,3′-bifuranylidene]-2′,5-dione (PIN)
+ru: 2′_H_,5_H_-[2,3′-бифуранилиден]-2′,5-дион (PIN)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/O/@n(5,-150)`|/O@n(1,-90,.55)\@n(2,45)//`|@n(2',150,.5)`\O\/O@n(1',-82,.55)\||`/@n(4',90)`\@n(3',90)
+$>
+
+en: 2′_H_,4′_H_-[2,3′-bipyranylidene]-2′,5(6_H_)-dione (PIN) 
+ru: 2′_H_,4′_H_-[2,3′-бипиранилиден]-2′,5(6_H_)-дион (PIN)
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\@n(5,150)`|@n(6,150)`\O\/O@n(1,-90,.55)\@n(2,50)//`|@n(2',-150,.4)/O@n(1',-82,.55)\||`/@n(4',30)|O`|`\@n(3',90)
+$>
+
+en: 2′_H_,4′_H_-[2,3′-bipyranylidene]-4′,6(5_H_)-dione (PIN)
+ru: 2′_H_,4′_H_-[2,3′-бипиранилиден]-4′,6(5_H_)-дион (PIN)
+
+@End
+
+#P-64.3.2+
+en: Acyclic pseudoketones, including those in which the carbonyl group is linked to a heteroatom of a heterocycle 
+(hidden amides, for instance), are named substitutively by using the suffix ‘one’ to indicate the principal function. This 
+method is preferred to that using acyl groups, when present, to denote the –CO-R group. 
+ru: Ациклические псевдокетоны, включая те, в которых карбонильная группа связана с гетероатомом гетероцикла (например, 
+скрытые амиды), называются заместительно с использованием суффикса «он» для обозначения основной функции. Этот метод 
+предпочтительнее метода, использующего ацильные группы, если они присутствуют, для обозначения группы –CO-R.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:0,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N`\`|/\|`/@n(1,30)|CO-CH2-CH3
+$>
+
+en: 1-(piperidin-1-yl)propan-1-one (PIN)  <br>
+1-propanoylpiperidine  <br>
+1-(1-oxopropyl)piperidine  <br>
+(a hidden amide) 
+ru: 1-(пиперидин-1-ил)пропан-1-он (PIN) <br>
+1-пропаноилпиперидин <br>
+1-(1-оксопропил)пиперидин <br>
+(скрытый амид)
+
+@cell
+<$
+@:n(n,a:0,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(4,-90)\@n(3,-30)|@n(2,30)`/N<`\>@n(1,30)|CO-CH3
+$>
+
+en: 1-(3,4-dihydroquinolin-1(2_H_)-yl)ethan-1-one (PIN)  <br>
+1-acetyl-1,2,3,4-tetrahydroquinoline  <br>
+(a hidden amide)
+ru: 1-(3,4-дигидрохинолин-1(2_H_)-ил)этан-1-он (PIN) <br>
+1-ацетил-1,2,3,4-тетрагидрохинолин <br>
+(скрытый амид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CO@n(1)-OO-S-CH3
+$>
+
+en: 1-[(methylsulfanyl)peroxy]propan-1-one (PIN)  <br>
+(see also P-68.4.2.4) 
+ru: 1-[(метилсульфанил)перокси]пропан-1-он (PIN) <br>
+(см. также P-68.4.2.4)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)3Si-CO@n(1)-CH3@n(2)
+$>
+
+en: 1-(trimethylsilyl)ethan-1-one (PIN)  <br>
+acetyltri(methyl)silane 
+ru: 1-(триметилсилил)этан-1-он (PIN) <br>
+ацетилтри(метил)силан
+
+@End
+
+
+#P-64.4
+en: Heterones
+ru: Гетероны 
+
+en: Heterones are compounds having an oxygen atom formally doubly bonded to a heteroatom, see P-64.1.2.2; for heterols, 
+see P-63.1.3; for heteroimines, see P-62.3.1.3; see also P-68.3.2.3.1 and P-68.4.3.2; and see also P-68. They are named 
+in the same way as ketones except when they are expressed as compulsory prefixes, such as sulfonyl (see Table 5.1 and 
+P-59.1.9). 
+ru: Гетероны — это соединения, имеющие атом кислорода, формально связанный двойной связью с гетероатомом (см. P-64.1.2.2; 
+для гетеролов см. P-63.1.3; для гетероиминов см. P-62.3.1.3; см. также P-68.3.2.3.1 и P-68.4.3.2; и см. также P-68). 
+Они называются так же, как и кетоны, за исключением случаев, когда они выражаются обязательными префиксами, такими как 
+сульфонил (см. &[Таблицу 5.1] и P-59.1.9).
+
+@Content
+
+%P-64.4.1
+en: Acyclic heterones 
+ru: Ациклические гетероны
+
+#P-64.4.1+
+en: Acyclic heterones are compounds having an oxygen atom doubly bonded to a heteroatom. They may be named in two ways.
+ru: Ациклические гетероны — это соединения, в которых атом кислорода имеет двойную связь с гетероатомом. Их можно назвать 
+двумя способами.
+
+@List 1
+
+@item
+en: by the suffix ‘one’; 
+ru: с помощью суффикса «он»;
+
+@item
+en: by functional class names using the class name ‘oxide’ when the oxygen atom is bonded to a S, Se, Te, P, As, 
+Sb, or Bi atom. 
+ru: по &(functional class name|da*), используя название класса «оксид», когда атом кислорода связан с атомом 
+S, Se, Te, P, As, Sb или Bi.
+
+@End
+
+en: Method (1) leads to preferred IUPAC names.
+ru: Метод (1) приводит к предпочтительным названиям IUPAC.
+
+en: The distinction between ketones, ‘C-CO-C’, and aldehydes, ‘C-CHO’, is not retained for naming compounds having the 
+oxygen atom linked to a heteroatom. Sulfones, sulfoxides, and related chalcogen compounds are exceptions (see  
+P-63.6) 
+ru: Различие между кетонами, «C-CO-C», и альдегидами, «C-CHO», не сохраняется при наименовании соединений, в которых 
+атом кислорода связан с гетероатомом. Исключением являются сульфоны, сульфоксиды и родственные халькогеновые соединения 
+(см. P-63.6).
+
+@Examples
+
+@cell
+<$ HP=O $>
+
+en: (1) phosphanone (preselected name; see P-74.2.1.4)  <br>
+(2) phosphane oxide  <br>
+phosphine oxide 
+ru: (1) фосфанон (предварительно выбранное название; см. P-74.2.1.4) <br>
+(2) оксид фосфана <br>
+оксид фосфина
+
+@cell
+<$ (CH3)2Si=O $>
+
+en: (1) dimethylsilanone (PIN) 
+ru: (1) диметилсиланон (PIN)
+
+@cell
+<$ (C6H5)3PO $>
+
+en: (1) triphenyl-λ^{5}-phosphanone (PIN, see P-74.2.1.4)  <br>
+(2) triphenylphosphane oxide  <br>
+triphenylphosphine oxide 
+ru: (1) трифенил-λ^{5}-фосфанон (PIN, см. P-74.2.1.4) <br>
+(2) оксид трифенилфосфана <br>
+оксид трифенилфосфина
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@:so(n)--S<`||O><||O>@n(&n,130)@(1)@so(2)-/=\`//`-`\\
+$>
+
+en: (1) 1-methyl-2-phenyl-1λ^{6},2λ^{6}-disulfane-1,1,2,2-tetrone (PIN)  <br>
+(2) methyl phenyl disulfone 
+ru: (1) 1-метил-2-фенил-1λ^{6},2λ^{6}-дисульфан-1,1,2,2-тетрон (PIN) <br>
+(2) метилфенилдисульфон
+
+@End
+
+
+#P-64.4.2
+en: Thioketone and thioaldehyde oxides 
+ru: Оксиды тиокетона и тиоальдегида
+
+en: Thioketone oxides are named by three methods. 
+ru: Оксиды тиокетона называют тремя способами.
+
+@List 1
+
+@item
+en: substitutively, as heterones, using the λ-convention and the suffix ‘one’; 
+ru: замещающим образом, в качестве гетеронов, используя λ-конвенцию и суффикс «он»;
+
+@item
+en: by functional class nomenclature, using the class names ‘oxide’, and ‘dioxide’, as required;
+ru: по &(functional class nomenclature|pr), используя названия классов «оксид» и «диоксид» по мере необходимости;
+
+@item
+en: substitutively, based on the preferred parent structure.
+ru: замещающим образом, на основе предпочтительной &(parent structure|ro).
+
+@End
+
+en: Method (1) leads to preferred IUPAC names.
+ru: Метод (1) приводит к предпочтительным названиям IUPAC.
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH=S=O $>
+
+en: (1) propylidene-λ^{4}-sulfanone (PIN)  <br>
+(2) propanethial oxide  <br>
+(3) 1-(oxosulfanylidene)propane
+ru: (1) пропилиден-λ^{4}-сульфанон (PIN) <br>
+(2) оксид пропанетиала <br>
+(3) 1-(оксосульфанилиден)пропан
+
+@End
+
+en: When a group <%a%> or <%b%> is part of a ring system, oxygen atom(s) are expressed substitutively by the suffix ‘-one’ 
+added to the name of the heterocycle in which the sulfur atoms are designated as λ^{4} or λ^{6} atoms (see P-14.1.3). This 
+method generates preferred IUPAC names rather than those based on functional class nomenclature, in which the class 
+name ‘oxide’ follows the name of the heterocycle, or substitutively using parent structures having nonstandard bonding 
+chalcogen atoms. 
+ru: Когда группа <%a%> или <%b%> является частью кольцевой системы, атом(ы) кислорода обозначаются замещающим образом 
+суффиксом «-он», добавляемым к названию гетероцикла, в котором атомы серы обозначаются как атомы λ^{4} или λ^{6} 
+(см. P-14.1.3). Этот метод генерирует предпочтительные названия по номенклатуре IUPAC, а не те, которые основаны на 
+&(functional class nomenclature|pr), где название класса «оксид» следует за названием гетероцикла, или замещающим образом 
+с использованием &(parent structure|ro*), имеющих атомы халькогенов с нестандартным числом связей.
+%a: <$ {}–SO–{} $>
+%b: <$ {}–SO2–{} $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-30)_qS@n(1,-30)<`||O>_q_qq
+$>
+
+en: 1_H_-1λ^{4}-thiophen-1-one (PIN)  <br>
+thiophene oxide  <br>
+1-oxo-1_H_-1λ^{4}-thiophene
+ru: 1_H_-1λ^{4}-тиофен-1-он (PIN) <br>
+оксид тиофена <br>
+1-оксо-1_H_-1λ^{4}-тиофен
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O_(A-60,N2)S@n(5)`\`|l`\`//|\\/`|/S@n(10)\|l\//`|@n(2,-30,.4)`\\@n(1,,.4)`/|`/_(A60,N2)O
+$>
+
+en: 5_H_-λ^{6}-thianthrene-5,5-dione (PIN)  <br>
+thianthrene 5,5-dioxide  <br>
+5,5-dioxo-5_H_-5λ^{6}-thianthrene 
+ru: 5_H_-λ^{6}-тиантрен-5,5-дион (PIN) <br>
+тиантрен-5,5-диоксид <br>
+5,5-диоксо-5_H_-5λ^{6}-тиантрен
+
+@End
+
+#P-64.5
+en: Carbonyl groups as prefixes 
+ru: Карбонильные группы в качестве префиксов
+
+en: When a carbonyl group is not the principal characteristic group expressed as a suffix, it is denoted by a prefix. The 
+traditional group ‘acetonyl’, for <%a%>, is retained for use in general nomenclature only; the names 
+‘acetonylidene’ and ‘acetonylidyne’ are not recommended even for general nomenclature. Three types of prefixes are 
+used in the formation of preferred IUPAC names: 
+ru: Если карбонильная группа не является основной &(characteristic group|tv), выраженной в виде суффикса, она обозначается 
+префиксом. Традиционная группа «ацетонил» для <%a%> сохраняется только для использования в общей номенклатуре; 
+названия «ацетонилиден» и «ацетонилидин» не рекомендуются даже для общей номенклатуры. 
+При формировании предпочтительных названий IUPAC используются три типа префиксов:
+%a: <$CH3-CO-CH2–{}$>
+
+@List 1
+
+@item
+en: the prefix ‘oxo’ when the doubly bonded oxygen atom (ketone, pseudoketone or heterone group) is not in 
+position 1 of a side chain. Lowest possible locants are assigned to suffixes, and then to prefixes; 
+ru: префикс «оксо», когда атом кислорода с двойной связью (кетон, псевдокетон или гетерон) находится не в позиции 1 
+боковой цепи. Наименьшие возможные локанты присваиваются суффиксам, а затем префиксам;
+
+@item
+en: carbonyl groups in position 1 of a side chain, i.e., –CO-R, are described by the appropriate acyl group name (see 
+P-65.4 for names of acyl groups); 
+ru: Карбонильные группы в положении 1 боковой цепи, т.е. –CO-R, обозначаются соответствующим названием ацильной группы 
+(см. P-65.4 для названий ацильных групп);
+
+@item
+en: the group –CO– is named in substitutive nomenclature as the acyl group ‘carbonyl’; the group =C=O is named in 
+substitutive nomenclature as ‘oxomethylidene’; the substituent group –CHO is named in substitutive 
+nomenclature as the acyl group ‘formyl’. 
+ru: Группа –CO– в &(substitutive nomenclature|pr) называется ацильной группой «карбонил»; группа =C=O в заместительной 
+номенклатуре называется «оксометилиден»; заместительная группа –CHO в &(substitutive nomenclature|pr) называется 
+ацильной группой «формил».
+
+@End
+
+#P-64.5.1
+en: Ketones
+ru: Кетоны
+
+en: The prefix ‘oxo’ and/or acyl prefixes are used to denote carbonyl groups when: 
+ru: Префикс «оксо» и/или префикс «ацил» используются для обозначения карбонильных групп, когда:
+
+@List
+
+@item
+en: all carbonyl or oxo groups cannot be cited as suffixes; or 
+ru: все карбонильные или оксогруппы не могут быть указаны в качестве суффиксов; или
+
+@item
+en: in the presence of a characteristic group having priority to be cited as suffix. 
+ru: при наличии &(characteristic group|ro), имеющей приоритетное право быть упомянутой в качестве суффикса.
+
+@End
+
+@Examples
+
+@cell
+<$ 
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\`|/`|O|@n(1,-30)\@n(2,30)_q6CH2-CO-CH3
+$>
+
+en: 2-(2-oxopropyl)cyclohexan-1-one (PIN)  <br>
+(ring preferred to chain; see P-52.2.8)  <br>
+2-acetonylcyclohexan-1-one  <br>
+1-(2-oxocyclohexyl)propan-2-one
+ru: 2-(2-оксопропил)циклогексан-1-он (PIN) <br>
+(кольцо предпочтительнее цепи; см. P-52.2.8) <br>
+2-ацетонилциклогексан-1-он <br>
+1-(2-оксоциклогексил)пропан-2-он
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(9)-CH2@n(8)-CH2@n(7)-CO@n(6)-CH@n(5,90)<`|CO-CH3>-CO@n(4,90)-CH2@n(3)-CH2@n(2)-CH3@n(1)
+$>
+
+en: 5-acetylnonane-4,6-dione (PIN)  <br>
+[not 5-(1-oxoethyl)nonane-4,6-dione] 
+ru: 5-ацетилнонан-4,6-дион (PIN) <br>
+[не 5-(1-оксоэтил)нонан-4,6-дион]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CO@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-oxobutanoic acid (PIN)  <br>
+(not acetylacetic acid)
+ru: 3-оксобутановая кислота (PIN) <br>
+(не ацетилуксусная кислота)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`|r`\`|O|@n(9,-30)`/|r`/`\\`|//\|\|O`|@n(10,20,.5)/`|/@n(1,-90)\\@n(2,30)_q6COOH
+$>
+
+en: 9,10-dioxo-9,10-dihydroanthracene-2-carboxylic acid (PIN)  <br>
+(not 9,10-anthraquinone-2-carboxylic acid) 
+ru: 9,10-диоксо-9,10-дигидроантрацен-2-карбоновая кислота (PIN) <br>
+(не 9,10-антрахинон-2-карбоновая кислота)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-/=\<`//`-`\\@n(1,120)>@n(4,60)-`|O|-@n(4',120)/=\<`//`-`\\>@n(1',60)-COOH
+$>
+
+en: 4,4′-carbonyldibenzoic acid (PIN; multiplicative name)  <br>
+4,4′-(oxomethylene)dibenzoic acid  <br>
+4-(4-carboxybenzoyl)benzoic acid (substitutive name) 
+ru: 4,4′-карбонилдибензойная кислота (PIN; &(multiplicative name)) <br>
+4,4′-(оксометилен)дибензойная кислота <br>
+4-(4-карбоксибензоил)бензойная кислота (&(substitutive name))
+
+@End
+
+#P-64.5.2
+en: Pseudoketones
+ru: Псевдокетоны
+
+#P-64.5.2.1+
+en: In cyclic pseudoketones, the prefix ‘oxo’ and/or acyl group prefixes are used to denote a carbonyl group:
+ru: В циклических псевдокетонах префикс «оксо» и/или префикс ацильной группы используются для обозначения карбонильной группы:
+
+@List
+
+@item
+en: when all carbonyl groups cannot be cited as suffixes; or 
+ru: когда все карбонильные группы не могут быть указаны в качестве суффиксов; или
+
+@item
+en: in the presence of a characteristic group having priority to be cited as suffix; 
+ru: при наличии &(characteristic group|ro), имеющей приоритетное право быть упомянутой в качестве суффикса;
+
+@End
+
+en: Acyl prefixes are used to name pseudoketones (‘hidden amides’) having the structure R-CO-N< where the nitrogen 
+atom is part of a ring or ring system; however, this method is recommended only for general nomenclature. Preferred 
+IUPAC names are formed systematically (see P-64.2.2)
+ru: Ацильные префиксы используются для наименования псевдокетонов («скрытых амидов»), имеющих структуру R-CO-N<, 
+где атом азота является частью кольца или кольцевой системы; однако этот метод рекомендуется только для общей номенклатуры. 
+Предпочтительные названия по номенклатуре IUPAC формируются систематически (см. P-64.2.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|\O`\@n(2,-30)`/N<_(y.5)H>@n(1,30)`\`|/\@n(3,-90)_q6CH2-CO-CH3
+$>
+
+en: 3-(2-oxopropyl)piperidin-2-one (PIN)  <br>
+(ring preferred to chain, see P-52.2.8)  <br>
+3-acetonylpiperidin-2-one  <br>
+1-(2-oxopiperidin-3-yl)propan-2-one
+ru: 3-(2-оксопропил)пиперидин-2-он (PIN) <br>
+(кольцо предпочтительнее цепи, см. P-52.2.8) <br>
+3-ацетонилпиперидин-2-он <br>
+1-(2-оксопиперидин-3-ил)пропан-2-он
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q7<_(a64.3)CO-CH2-CH3>@n(3,70)_q7<_(a64.3,N2)O>@n(2,30)_q7P<_(y-.5)H>@n(1,-150)_q7_q7_q7
+$>
+
+en: 3-propanoylphosphepan-2-one (PIN)  <br>
+3-propionylphosphepan-2-one
+ru: 3-пропаноилфосфепан-2-он (PIN) <br>
+3-пропионилфосфепан-2-он
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q<_(a54)COOH>@n(2,50)_qO@n(1,-90,.55)_q<_(a54,N2)O>@n(5,130)_q
+$>
+
+en: 5-oxooxolane-2-carboxylic acid (PIN) 
+ru: 5-оксооксолан-2-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,150)`\`|/\|`/|CO-CH2-CH3
+$>
+
+en: 1-(piperidin-1-yl)propan-1-one (PIN)  <br>
+1-propanoylpiperidine  <br>
+(a ‘hidden amide’)  <br>
+1-propionylpiperidine 
+ru: 1-(пиперидин-1-ил)пропан-1-он (PIN) <br>
+1-пропаноилпиперидин <br>
+(скрытый амид) <br>
+1-пропионилпиперидин
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,150)`\`|l`\`//|\\/`|/@n(4,-90)\@n(3,-30)|@n(2,30)`/|CO-CH3
+$>
+
+en: 1-(3,4-dihydroquinolin-1(2_H_)-yl)ethan-1-one (PIN)  <br>
+1-acetyl-1,2,3,4-tetrahydroquinoline  <br>
+(a ‘hidden amide’)
+ru: 1-(3,4-дигидрохинолин-1(2_H_)-ил)этан-1-он (PIN) <br>
+1-ацетил-1,2,3,4-тетрагидрохинолин <br>
+(скрытый амид)
+
+@End
+
+#P-64.5.2.2+
+en: Acyclic pseudoketones are named in the same way; traditionally they have been named using acyl groups. 
+ru: Ациклические псевдокетоны называются аналогичным образом; традиционно их называют, используя ацильные группы.
+
+@Examples
+
+@cell
+<$ H2P-CO-CH2-CH2-CH3 $>
+  
+en: 1-phosphanylbutan-1-one (PIN)  <br>
+butanoylphosphane 
+ru: 1-фосфанилбутан-1-он (PIN) <br>
+бутаноилфосфан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Si-CO@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-oxo-4-silylbutanoic acid (PIN)  <br>
+3-(silanecarbonyl)propanoic acid  <br>
+3-(silylcarbonyl)propanoic acid
+ru: 4-оксо-4-силилбутановая кислота (PIN) <br>
+3-(силанкарбонил)пропановая кислота <br>
+3-(силилкарбонил)пропановая кислота
+
+@End
+
+
+#P-64.6
+en: Chalcogen analogues of ketones, pseudoketones and heterones 
+ru: &(Chalcogen analogue|*) кетонов, псевдокетонов и гетеронов
+
+#P-64.6.1+
+en: Chalcogen analogues of ketones, pseudoketones and heterones are named by using the following suffixes and prefixes: 
+ru: &(Chalcogen analogue|*) кетонов, псевдокетонов и гетеронов, относящиеся к халькогенам, называются с использованием 
+следующих суффиксов и префиксов:
+
+@p .left-offset
+en: =S ‘-thione’ and ‘sulfanylidene’ (preferred to ‘thioxo’) <br>
+=Se ‘-selone’ and ‘selanylidene’ (preferred to ‘selenoxo’) <br>
+=Te ‘-tellone’ and ‘tellanylidene’ (preferred to ‘telluroxo’) 
+ru: =S ‘-тион’ и ‘сульфанилиден’ (предпочтительнее ‘тиоксо’) <br>
+=Se ‘-&(selone)’ и ‘селеналиден’ (предпочтительнее ‘селеноксо’) <br>
+=Te ‘-&(tellone)’ и ‘телланилиден’ (предпочтительнее ‘теллуроксо’)
+
+en: Acyl group prefixes are named by functional replacement of O by S, Se, and Te using infixes (see P-65.1.7). The use of 
+functional replacement prefixes ‘thio’ or ‘seleno’ with retained names is no longer recommended; all preferred IUPAC 
+names are systematically constructed. 
+ru: Префиксы ацильных групп называются путем функциональной замены O на S, Se и Te с использованием инфиксов (см. P-65.1.7). 
+Использование функциональных префиксов замены «тио» или «селено» с сохраненными названиями больше не рекомендуется; 
+все предпочтительные названия IUPAC формируются систематически.
+
+@p .framed
+en: The use of the prefixes ‘sulfanylidene’, ‘selanylidene’ and ‘tellanylidene’, for =S, =Se, and =Te, respectively, is a 
+change for designating of chalcogen analogs of the ‘oxo’ prefix in preferred IUPAC names. The prefixes ‘thioxo’, 
+‘selenoxo’, and ‘telluroxo’ derived by functional replacement nomenclature may be used in general nomenclature. 
+ru: Использование префиксов «сульфанилиден», «селенилиден» и «телланилиден» для =S, =Se и =Te соответственно является 
+изменением при обозначении аналогов халькогенов префикса «оксо» в предпочтительных названиях IUPAC. Префиксы «тиоксо», 
+«селеноксо» и «теллуроксо», полученные методом функциональной замены, могут использоваться в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CS@n(2)-CH3@n(1)
+$>
+
+en: butane-2-thione (PIN) 
+ru: бутан-2-тион (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2)-CSe@n(3)-CH2@n(4)-CH2@n(5)-CH3@n(6)
+$>
+
+en: hexane-3-selone (PIN) 
+ru: гексан-3-&(selone) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CS@n(4)-CH2@n(3)-CS@n(2)-CH3@n(1)
+$>
+
+en: pentane-2,4-dithione (PIN) 
+ru: пентан-2,4-дитион (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CS@n(2)-CH3@n(1)
+$>
+
+en: propane-2-thione (PIN)  <br>
+(not thioacetone)
+ru: пропан-2-тион (PIN) <br>
+(не тиоацетон)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CS@n(4)-CH@n(3,90)<`|CS-CH3>-CS@n(2,90)-CH3@n(1)
+$>
+
+en: 3-(ethanethioyl)pentane-2,4-dithione (PIN)  <br>
+3-(thioacetyl)pentane-2,4-dithione  <br>
+3-(1-sulfanylideneethyl)pentane-2,4-dithione 
+ru: 3-(этантиоил)пентан-2,4-дитион (PIN) <br>
+3-(тиоацетил)пентан-2,4-дитион <br>
+3-(1-сульфанилиденэтил)пентан-2,4-дитион
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CS@n(6)-CH2@n(5)-CH@n(4,90)<`|CSe-CH2-CH3>-CH2@n(3,90)-CS@n(2,90)-CH3@n(1,90)
+$>
+
+en: 4-(propaneselenoyl)heptane-2,6-dithione (PIN)  <br>
+4-(1-selanylidenepropyl)heptane-2,6-dithione 
+ru: 4-(пропанселеноил)гептан-2,6-дитион (PIN) <br>
+4-(1-селанилиденпропил)гептан-2,6-дитион
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/`|S|@n(9,-30)\|l\//`|@n(2,-30)`\`|S|@n(1,-30)`/|`/|S`|@n(10,20,.55)`\
+$>
+
+en: anthracene-1,9,10(2_H_)-trithione (PIN) 
+ru: антрацен-1,9,10(2_H_)-тритион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|N_qq_qN<_q_qq>-`|S|-N_(a54)_qqN_q_qq_q
+$>
+
+en: di(1_H_-imidazol-1-yl)methanethione (PIN) 
+ru: ди(1_H_-имидазол-1-ил)метанетион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(3,90,.55)_q<_(a55,N2)S>@n(2,-90)_qS@n(1,-90,.55)_q_q@n(4,-170)_(a55,N2)S
+$>
+
+en: 1,3-thiazolidine-2,4-dithione (PIN) 
+ru: 1,3-тиазолидин-2,4-дитион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q7_q7<_(a64.3,N2)S>@n(2,30)_q7N<_(y-.5)H>@n(1,-30)_q7_q7_q7
+$>
+
+en: azepane-2-thione (PIN) 
+ru: азепан-2-тион (PIN)
+
+@End
+
+
+#P-64.7
+en: Polyfunctional ketones, pseudoketones and heterones 
+ru: Полифункциональные кетоны, псевдокетоны и гетероны
+
+
+
+
+#P-64.8
+en: Acyloins
+
+
+
 #P-65
 en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
 ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
