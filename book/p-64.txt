@@ -1825,6 +1825,73 @@ $>
 en: azepane-2-thione (PIN) 
 ru: азепан-2-тион (PIN)
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CS@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-sulfanylidenebutanoic acid (PIN)  <br>
+3-thioxobutanoic acid 
+ru: 3-сульфанилиденбутановая кислота (PIN) <br>
+3-тиоксобутановая кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-C<`||Se>-CH2-CH2_(x1.4)//-\\<`/`=`\@n(4,-120)>@n(1,-60)-COOH
+$>
+
+en: 4-(3-selanylidenebutyl)benzoic acid (PIN)  <br>
+4-(3-selenoxobutyl)benzoic acid
+ru: 4-(3-селенилиденбутил)бензойная кислота (PIN) <br>
+4-(3-селеноксобутил)бензойная кислота
+
+@End
+
+#P-64.6.2
+en: Seniority order of suffixes 
+ru: Порядок старшинства суффиксов
+
+en: The order of seniority of ketonic suffixes is <%order%>. Lowest locants are assigned in accordance with that order.  
+ru: Порядок старшинства кетоновых суффиксов следующий: <%order%>. Наименьшие локанты назначаются в соответствии с этим порядком.
+%order: C=O > C=S > C=Se > C=Te
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CS@n(4)-CH2@n(3)-CO@n(2)-CH3@n(1)
+$>
+
+en: 4-sulfanylidenepentan-2-one (PIN)  <br>
+4-thioxopentan-2-one 
+ru: 4-сульфанилиденпентан-2-он (PIN) <br>
+4-тиоксопентан-2-он
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(4,-140)<_(a54,N2)O>_qN<_(y.5)H>@n(3,20,.5)_q<=S>@n(2,-70)_qS@n(1,-90,.55)_q@n(5,-150)
+$>
+
+en: 2-sulfanylidene-1,3-thiazolidin-4-one (PIN)  <br>
+2-thioxo-1,3-thiazolidin-4-one
+ru: 2-сульфанилиден-1,3-тиазолидин-4-он (PIN) <br>
+2-тиоксо-1,3-тиазолидин-4-он
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N``\`=`/\\-<\\O>@n(2',0,.5)/@n(1',-70)-<`||S>-N@n(1,-100)/=\`//`-<`\>@n(2,180,.5)`//O
+$>
+
+en: 1,1′-carbonothioyldi(pyridin-2(1_H_)-one) (PIN)  <br>
+1,1′-thiocarbonyldi(pyridin-2(1_H_)-one) 
+ru: 1,1'-карбонотиоилди(пиридин-2(1_H_)-он) (PIN) <br>
+1,1'-тиокарбонилди(пиридин-2(1_H_)-он)
+
 @End
 
 
@@ -1832,34 +1899,222 @@ ru: азепан-2-тион (PIN)
 en: Polyfunctional ketones, pseudoketones and heterones 
 ru: Полифункциональные кетоны, псевдокетоны и гетероны
 
+#P-64.7.1+
+en: Ketones, pseudoketones and heterones, and their chalcogen analogues in the order <%ord%>, are 
+senior to hydroxy compounds and their chalcogen analogues, amines, and imines in the seniority order of classes. In the 
+presence of a characteristic group having priority to be cited as suffix as described in P-64.5 and P-64.6, they are cited 
+as prefixes (see P-41). 
+ru: Кетоны, псевдокетоны и гетероны, а также их &(chalcogen analogue|*) в порядке <%ord%>, занимают более высокое положение 
+в порядке старшинства классов по сравнению с гидроксисоединениями и их &(chalcogen analogue|tv*), аминами и иминами. 
+При наличии &(characteristic group|ro), имеющей приоритетное право быть упомянутой в качестве суффикса, как описано в 
+P-64.5 и P-64.6, они упоминаются в качестве префиксов (см. P-41).
+%ord: =O > =S > =Se > =Te
 
+@Examples
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH@n(6,90)<`|OH>-C<||CH2>@n(5,-90)-C<`||O>@n(4,90)-C@n(3,-90)<||CH2>-CH@n(2,90)<`|OH>-CH3@n(1)
+$>
+
+en: 2,6-dihydroxy-3,5-dimethylideneheptan-4-one (PIN)
+ru: 2,6-дигидрокси-3,5-диметилиденгептан-4-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CO@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-oxobutanoic acid (PIN) 
+ru: 3-оксобутановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y1.3)<_(a64.3)HO>@n(6,100)_q7:a_q7_q7<=O>@n(3,70)_q7@n(2,-60)_q7@n(1,-100)<_q7>_(y#1;2,x-.3)N@n(8,-110,.55)<_#a>_(x.8)CH3
+$>
+
+en: 6-hydroxy-8-methyl-8-azabicyclo[3.2.1]octan-3-one  <br>
+6-hydroxy-8-methyltropan-3-one
+ru: 6-гидрокси-8-метил-8-азабицикло[3.2.1]октан-3-он <br>
+6-гидрокси-8-метилтропан-3-он
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_q<_(a54,N2)O>@n(2,70)_qN@n(1,-40)<`|OH>_q<_q>@n(5,110)_(a54,N2)O
+$>
+
+en: 1-hydroxy-1_H_-pyrrole-2,5-dione (PIN)
+ru: 1-гидрокси-1_H_-пиррол-2,5-дион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q7@n(3,80)<_(a64.3)NH2>_q7@n(2,20)<_(a64.3,N2)O>_q7N<_(y-.5)H>@n(1,-150)_q7_q7_q7
+$>
+
+en: 3-aminoazepan-2-one (PIN)
+ru: 3-аминоазепан-2-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q<_(a54,N2)NH>@n(3,0)_qNH@n(2,-70,.55)_q<_(a54,N2)O>@n(1,-10)_q
+$>
+
+en: 3-imino-2,3-dihydro-1_H_-isoindol-1-one (PIN)
+ru: 3-имино-2,3-дигидро-1_H_-изоиндол-1-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_qN<_q_q>-CO@n(1)-C@n(2,-60,.65)<_(y-1.4)C6H5><_(y1.5)C6H5>-CH@n(3)<_(y.8)CH3>-CH2@n(4)-N/-\O`/`-`\
+$>
+
+en: 3-methyl-4-(morpholin-4-yl)-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-one (PIN)
+ru: 3-метил-4-(морфолин-4-ил)-2,2-дифенил-1-(пирролидин-1-ил)бутан-1-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CF3@n(8)-CF2-CF2-CF2-CF2-CF2-CF2-CO@n(1)-N/-\<`/`-`\>-CO-N`|/\|l\//`|`\\`/|`/`\
+$>
+
+en: 1-[4-(3,4-dihydroisoquinoline-2(1_H_)-carbonyl)piperidin-1-yl]-2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctan-1-one <br>
+(PIN, the locants for the fluoro substituents are required, see P-14.3.4.5) 
+ru: 1-[4-(3,4-дигидроизохинолин-2(1_H_)-карбонил)пиперидин-1-ил]-2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-пентадекафтороктан-1-он <br>
+(PIN, необходимы локанты для фторсодержащих заместителей, см. P-14.3.4.5)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl\@n(2,-90)/`|O|@n(1,-30)\</OH>@n(6,30)||<\Cl>@n(5,90)`/|O`|@n(4,30)`\<`/HO>@n(3,90)`||
+$>
+
+en: 2,5-dichloro-3,6-dihydroxycyclohexa-2,5-diene-1,4-dione (PIN)  <br>
+2,5-dichloro-3,6-dihydroxy-1,4-benzoquinone 
+ru: 2,5-дихлор-3,6-дигидроксициклогекса-2,5-диен-1,4-дион (PIN) <br>
+2,5-дихлор-3,6-дигидрокси-1,4-бензохинон
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(8,-150)`//|\\/`|l/`|O|@n(9,-30)\|l\//<\CH3>@n(3,90)`|@n(2,-30)`\\<`|OH>@n(1,-30)`/|`/|O`|@n(10,20,.5)`\`|`\
+$>
+
+en: 1,8-dihydroxy-3-methylanthracene-9,10-dione (PIN)  <br>
+1,8-dihydroxy-3-methyl-9,10-anthraquinone
+ru: 1,8-дигидрокси-3-метилантрацен-9,10-дион (PIN) <br>
+1,8-дигидрокси-3-метил-9,10-антрахинон
+
+@End
+
+#P-64.7.2+
+en: There is no seniority order difference between ketones and pseudoketones. When necessary, the maximum 
+number of carbonyl groups or doubly bonded oxygen atoms, the seniority order between chains and rings, and between 
+rings and ring systems, are considered, as appropriate. 
+ru: Между кетонами и псевдокетонами нет различий в порядке старшинства. При необходимости учитывается максимальное 
+количество карбонильных групп или атомов кислорода с двойной связью, порядок старшинства между цепями и кольцами, 
+а также между кольцами и кольцевыми системами.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O=/-\<`/`-`\>-S<`||O><||O>@n(1,-130)--S<`||O><||O>@n(2,-50)-/-\<`/`-`\>=O
+$>
+
+en: 1,2-bis(4-oxocyclohexyl)-1λ^{6},2λ^{6}-disulfane-1,1,2,2-tetrone (PIN)  <br>
+[the heterone with four doubly bonded oxygen atoms is senior to cyclohexanone,  <br>
+which has only one carbonyl group (see P-44.1.1)] 
+ru: 1,2-бис(4-оксоциклогексил)-1λ^{6},2λ^{6}-дисульфан-1,1,2,2-тетрон (PIN) <br>
+[гетерон с четырьмя двойными связями атомов кислорода старше циклогексанона, <br>
+который имеет только одну карбонильную группу (см. P-44.1.1)]
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O|<_(a54,N2)O>@n(2,80)_q_q<_q_q@n(1,-110,.55)>@n(4,-70)-/-\<`/`-`\>=O
+$>
+
+en: 4-(4-oxocyclohexyl)oxolan-2-one (PIN)  <br>
+[not 4-(2-oxooxolan-4-yl)cyclohexanone;  <br>
+a heterocyclic ring is senior to a carbocyclic ring, see P-44.2.1] 
+ru: 4-(4-оксоциклогексил)оксолан-2-он (PIN) <br>
+[не 4-(2-оксооксолан-4-ил)циклогексанон; <br>
+гетероциклическое кольцо имеет более высокий приоритет, чем карбоциклическое кольцо, см. P-44.2.1]
+
+@End
+
+#P-64.7.3+
+en: When an oxygen atom of a ketone, pseudoketone, or heterone is replaced by a sulfur, selenium or tellurium 
+atom, the seniority order for expression as the suffix is <%ord%>. 
+ru: Когда атом кислорода в кетоне, псевдокетоне или гетероне заменяется атомом серы, селена или теллура, порядок приоритета 
+для выражения в качестве суффикса следующий: <%ord%>.
+%ord: O > S > Se > Te
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CS-CH2_(h){}\|\/`|<`\`/>_p6CH2@n(1)-CO@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: 1-[3-(2-sulfanylidenebutyl)cyclohexyl]butan-2-one (PIN)  <br>
+1-[3-(2-thioxobutyl)cyclohexyl]butan-2-one
+ru: 1-[3-(2-сульфанилиденбутил)циклогексил]бутан-2-он (PIN) <br>
+1-[3-(2-тиоксобутил)циклогексил]бутан-2-он
+
+@End
 
 #P-64.8
 en: Acyloins
+ru: Ацилоины
 
+en: α-Hydroxy ketones, <%a%>, in which R is an alkyl, aryl, or a heterocyclic group, have the class name 
+‘acyloins’ and are named by substitutive nomenclature as substituted ketones, in accordance with the seniority order: 
+ketones > hydroxy compounds (see P-41). Names ending in ‘oin’ are not recommended. 
+ru: α-Гидроксикетоны, <%a%>, в которых R представляет собой алкильную, арильную или гетероциклическую группу, имеют 
+классовое название «ацилоины» и называются по заместительной номенклатуре как замещенные кетоны в соответствии с порядком 
+старшинства: кетоны > гидроксисоединения (см. стр. 41). Названия, оканчивающиеся на «оин», не рекомендуются.
+%a: <$ {R}CH(OH)-CO-{R} $>
 
+@Examples
 
-#P-65
-en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
-ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3)(OH)-CO@n(2)-CH3@n(1)
+$>
 
-#P-66
-en: Amides, imides, hydrazides, nitriles, and aldehydes 
-ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+en: 3-hydroxybutan-2-one (PIN)  <br>
+(not acetoin)
+ru: 3-гидроксибутан-2-он (PIN) <br>
+(не ацетоин)
 
-#P-67
-en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
-parents for naming organic compounds 
-ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
-для наименования органических соединений
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\-CH@n(2)<`|OH>-CO@n(1)_(x1.4)/=\`//`-`\\
+$>
 
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+en: 2-hydroxy-1,2-diphenylethan-1-one (PIN)
+ru: 2-гидрокси-1,2-дифенилэтан-1-он (PIN)
 
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||_q_qq<_qO_q>-CH@n(2)<`|OH>-CO@n(1)_(x1.4)_(a54,N2)_q_qq_qO_q
+$>
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+en: 1,2-di(furan-2-yl)-2-hydroxyethan-1-one (PIN)  <br>
+1,2-di(2-furyl)-2-hydroxyethan-1-one 
+ru: 1,2-ди(фуран-2-ил)-2-гидроксиэтан-1-он (PIN) <br>
+1,2-ди(2-фурил)-2-гидроксиэтан-1-он
+
+@End

@@ -1,0 +1,2329 @@
+#P-65
+en: Acids, acyl halides and pseudohalides, salts, esters, and anhydrides  
+ru: Кислоты, ацилгалогениды и псевдогалогениды, соли, сложные эфиры и ангидриды
+
+@Content
+
+#P-65.0
+en: Introduction 
+ru: Введение
+
+en: This Chapter includes acids named substitutively by means of suffixes, that is, carboxylic acids, sulfonic, sulfinic, and 
+analogous selenium and tellurium acids. Their derivatives, such as esters, acyl halides, and anhydrides, are also 
+included. Salts are included in this Section although anions are formally treated in Chapter P-7. Carbon acids not named 
+substitutively, i.e., carbonic acid, cyanic acid, and the di- and polynuclear carbon acids are also included here. 
+Mononuclear and polynuclear inorganic (noncarbon) acids used as parent structures for organic derivatives are 
+discussed in Section P-67. 
+ru: В этой главе рассматриваются кислоты, названные замещающим образом с помощью суффиксов, то есть карбоновые кислоты, 
+сульфоновые, сульфиновые и аналогичные селеновые и теллуровые кислоты. Также включены их производные, такие как сложные эфиры, 
+ацилгалогениды и ангидриды. Соли также включены в этот раздел, хотя анионы формально рассматриваются в главе P-7. 
+Углеродные кислоты, не названные замещающим образом, то есть угольная кислота, циановая кислота, а также ди- и полинуклеарные 
+углеродные кислоты, также включены здесь.
+Моноядерные и полинуклеарные неорганические (неуглеродные) кислоты, используемые в качестве &(parent structure|ro) для 
+органических производных, обсуждаются в разделе P-67.
+
+en: The hydrogen atom of an acid group is not substitutable for the purposes of substitutive nomenclature; replacement of 
+acid hydrogen atoms by specific atoms or groups is called ‘functionalization’, as other classes are generated, for 
+example esters. Substitution takes place when other hydrogen atoms in the structure are exchanged with other atoms or 
+groups, as illustrated by the name ‘chloroacetic acid’. 
+ru: Атом водорода кислотной группы не является замещаемым с точки зрения &(substitutive nomenclature|ro); замена атомов водорода 
+кислотной группы на определенные атомы или группы называется «функционализацией», поскольку при этом образуются другие классы 
+соединений, например, сложные эфиры. Замещение происходит, когда другие атомы водорода в структуре заменяются другими 
+атомами или группами, как это показано на примере названия «хлоруксусная кислота».
+
+#P-65.1
+en: Carboxylic acids and functional replacement analogues 
+ru: Карбоновые кислоты и аналоги функционального замещения
+
+en: Carboxylic acids have the structure <%a%>, where R can be a hydrogen atom. Nitrogenous analogues are 
+carboxylic acids in which =O has been replaced by <%b%>, <%c%>, <%d%>, or in which –OH has been replaced by <%f%>. 
+Chalcogen analogues are carboxylic acids in which one or two oxygen atoms have been replaced by sulfur, 
+selenium, or tellurium atoms.
+ru: Карбоновые кислоты имеют структуру <%a%>, где R может быть атомом водорода. Азотистые аналоги — это карбоновые кислоты, 
+в которых =O заменено на <%b%>, <%c%>, <%d%>, или в которых –OH заменено на <%f%>.
+&(Chalcogen analogue|*) — это карбоновые кислоты, в которых один или два атома кислорода заменены атомами серы, селена или теллура.
+%a: <$ {R}-C(=O)-OH $>
+%b: <$ {}=NH $>
+%c: <$ {}=NNH2 $>
+%d: <$ {}=N-OH $>
+%f: <$ {}-NH-OH $>
+
+en: Names of α-amino acids, as well as carboxylic acids derived from carbohydrates, are not covered extensively in this 
+Chapter. Traditional names are maintained, as recommended in specialized publications (refs. 18, 27), and listed in 
+Chapter P-10 devoted to natural products. 
+ru: Названия α-аминокислот, а также карбоновых кислот, полученных из углеводов, в этой главе подробно не рассматриваются. 
+Сохраняются традиционные названия, как это рекомендуется в специализированных публикациях (ссылки 18, 27), и они перечислены 
+в главе P-10, посвященной природным продуктам.
+
+@Content
+
+#P-65.1.1
+en: Retained names
+ru: &(Retained name|*)
+
+en: Carboxylic acids derived from natural sources were often given trivial names reminiscent of their animal or vegetable 
+origin. In both 1979 and 1993, the list of these trivial names was significantly reduced, systematic names being recommended. 
+ru: Карбоновые кислоты природного происхождения часто получали тривиальные названия, напоминающие об их животном или 
+растительном происхождении. В 1979 и 1993 годах список таких тривиальных названий был значительно сокращен, и были рекомендованы 
+систематические названия.
+
+#P-65.1.1.1
+en: Retained names as preferred IUPAC names
+ru: &(Retained name|*) как предпочтительные названия IUPAC
+
+en: Only the following five carboxylic acids retained names and are also preferred IUPAC names. All can be 
+functionalized, but only acetic acid, benzoic acid, and oxamic acid can be substituted according to P-15.1.8.2.1; for 
+substitution rules regarding formic acid, see P-65.1.8. Systematic substitutive names are used to generate acids modified 
+by functional replacement. 
+ru: Только следующие пять &(retained name|ro*) карбоновых кислот являются предпочтительными названиями по номенклатуре IUPAC. 
+Все они могут быть функционализированы, но только уксусная кислота, бензойная кислота и оксаминовая кислота могут быть 
+замещены согласно P-15.1.8.2.1; правила замещения муравьиной кислоты см. в P-65.1.8. Систематические &(substitutive name|*) 
+используются для получения кислот, модифицированных функциональным замещением.
+
+@Examples --
+
+@cell
+<$ HCOOH $>
+
+en: formic acid (PIN)  <br>
+methanoic acid 
+ru: муравьиная кислота (PIN) <br>
+метановая кислота
+
+@cell
+<$ HOOC-COOH $>
+
+en: oxalic acid (PIN)  <br>
+ethanedioic acid 
+ru: щавелевая кислота (PIN) <br>
+этандиовая кислота
+
+@cell
+<$ CH3-COOH $>
+
+en: acetic acid (PIN)  <br>
+ethanoic acid 
+ru: уксусная кислота (PIN) <br>
+этановая кислота
+
+@cell
+<$ C6H5-COOH $>
+
+en: benzoic acid (PIN)  <br>
+benzenecarboxylic acid
+ru: бензойная кислота (PIN) <br>
+бензолкарбоновая кислота
+
+@cell
+<$ H2N-CO-COOH $>
+
+en: oxamic acid (PIN)  <br>
+amino(oxo)acetic acid
+ru: оксаминовая кислота (PIN) <br>
+амино(оксо)уксусная кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=3468
+
+@End
+
+#P-65.1.1.2
+en: Retained names only for general nomenclature
+ru: &(Retained name) только для общей номенклатуры
+
+#P-65.1.1.2.1+
+en: The following names are retained, but only for general nomenclature, with substitution according to  
+P-15.1.8.2.1 allowed (see also P-34). 
+ru: Следующие названия сохраняются, но только для общей номенклатуры, с возможностью замены в соответствии с 
+P-15.1.8.2.1 (см. также P-34).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_qq@n(2,40)<_(a54)COOH>_qO@n(1,-90,.55)_q_qq
+$>
+
+en: 2-furoic acid (also 3-isomer)  <br>
+furan-2-carboxylic acid (PIN)
+ru: 2-фуроевая кислота (также 3-изомер) <br>
+фуран-2-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC\`/@n(6,180)\\@n(5,120)-@n(4,60)//@n(3,60)<-COOH>`\@n(2,-60)`=@n(1,-60)
+$>
+
+en: isophthalic acid  <br>
+benzene-1,3-dicarboxylic acid (PIN)
+ru: изофталевая кислота <br>
+бензол-1,3-дикарбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<\COOH>@n(2,90)`//`\`||/\\@n(1,-90)/COOH
+$>
+
+en: phthalic acid  <br>
+benzene-1,2-dicarboxylic acid (PIN)
+ru: фталевая кислота <br>
+бензол-1,2-дикарбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: terephthalic acid  <br>
+benzene-1,4-dicarboxylic acid (PIN)
+ru: терефталевая кислота <br>
+бензол-1,4-дикарбоновая кислота (PIN)
+
+@End
+
+#P-65.1.1.2.2+
+en: The following names are retained for general nomenclature with functionalization but no substitution is 
+allowed. Functionalization leads to anhydrides, salts, and esters, for example, the formation of esters leads to names 
+such as methyl butyrate. 
+ru: Следующие названия сохраняются для общей номенклатуры при функционализации, но замена не допускается. 
+Функционализация приводит к образованию ангидридов, солей и сложных эфиров; например, образование сложных эфиров приводит 
+к таким названиям, как метилбутират.
+
+@Examples --
+
+@cell
+<$ CH2=CH-COOH $>
+
+ru: acrylic acid  <br>
+prop-2-enoic acid (PIN) 
+
+@cell
+<$ HOOC-[CH2]4-COOH $>
+
+en: adipic acid  <br>
+hexanedioic acid (PIN) 
+ru: адипиновая кислота <br>
+гександиовая кислота (PIN)
+
+@cell
+<$ CH3-CH2-CH2-COOH $>
+
+en: butyric acid  <br>
+butanoic acid (PIN)
+ru: масляная кислота <br>
+бутановая кислота (PIN)
+
+@cell
+<$ C6H5-CH=CH-COOH $>
+
+en: cinnamic acid (‘_E_’ configuration implied)  <br>
+3-phenylprop-2-enoic acid (PIN;  <br>
+‘_E_’ and ‘_Z_‘ isomers) 
+ru: коричная кислота (подразумевается конфигурация «_E_») <br>
+3-фенилпроп-2-еновая кислота (PIN; <br>
+изомеры «_E_» и «_Z_»)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC/C<`\H>==C<\H>/COOH
+$>
+
+en: fumaric acid  <br>
+(2_E_)-but-2-enedioic acid (PIN)
+ru: фумаровая кислота <br>
+(2_E_)-бут-2-ендиовая кислота (PIN)
+
+@cell
+<$ HOOC-[CH2]3-COOH $>
+
+en: glutaric acid  <br>
+pentanedioic acid (PIN)
+ru: глутаровая кислота <br>
+пентандиовая кислота (PIN)
+
+@cell
+<$ HOOC-CH2-COOH $>
+
+en: malonic acid  <br>
+propanedioic acid (PIN) 
+ru: малоновая кислота <br>
+пропандиовая кислота (PIN)
+
+@cell
+<$ CH2=C(CH3)-COOH $>
+
+en: methacrylic acid  <br>
+2-methylprop-2-enoic acid (PIN) 
+ru: метакриловая кислота <br>
+2-метилпроп-2-еновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\N@n(1,-170)/=\@n(4,-60)-COOH
+$>
+
+en: isonicotinic acid  <br>
+pyridine-4-carboxylic acid (PIN)
+ru: изоникотиновая кислота <br>
+пиридин-4-карбоновая кислота (PIN)
+
+@cell
+<$ HOOC\C<`/H>==C<\H>/COOH $>
+
+en: maleic acid  <br>
+(2_Z_)-but-2-enedioic acid (PIN)
+ru: малеиновая кислота <br>
+(2_Z_)-бут-2-ендиовая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||/\\<|>/@n(1,-90)\\@n(2,30)/COOH
+$>
+
+en: 2-naphthoic acid (also 1-isomer) <br>
+naphthalene-2-carboxylic acid (PIN) 
+ru: 2-нафтойная кислота (также 1-изомер) <br>
+нафтален-2-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/N@n(1,-90,.55)\\@n(2,-30)|@n(3,90)\COOH
+$>
+
+en: nicotinic acid  <br>
+pyridine-3-carboxylic acid (PIN) 
+ru: никотиновая кислота <br>
+пиридин-3-карбоновая кислота (PIN)
+
+@cell
+<$
+$L(1.2)HOOC-[CH2]7\C<`/H>==C<\H>/[CH2]7-COOH
+$>
+
+en: oleic acid  <br>
+(9_Z_)-octadec-9-enoic acid (PIN) 
+ru: олеиновая кислота <br>
+(9_Z_)-октадец-9-еновая кислота (PIN)
+
+@cell
+<$ CH3-[CH2]14-COOH $>
+
+en: palmitic acid  <br>
+hexadecanoic acid (PIN) 
+ru: пальмитиновая кислота <br>
+гексадекановая кислота (PIN)
+
+@cell
+<$ CH3-CH2-COOH $>
+
+en: propionic acid  <br>
+propanoic acid (PIN) 
+ru: пропионовая кислота <br>
+пропановая кислота (PIN)
+
+@cell
+<$ CH3-[CH2]16-COOH $>
+
+en: stearic acid  <br>
+octadecanoic acid (PIN) 
+ru: стеариновая кислота <br>
+октадекановая кислота (PIN)
+
+@cell
+<$ HOOC-CH2-CH2-COOH $>
+
+en: succinic acid  <br>
+butanedioic acid (PIN) 
+ru: янтарная кислота <br>
+бутандиовая кислота (PIN)
+
+@cell
+<$ CH3-CO-OOH $>
+
+en: peracetic acid  <br>
+ethaneperoxoic acid (PIN) 
+ru: перуксусная кислота <br>
+этанпероксоевая кислота (PIN)
+
+@cell
+<$ C6H5-CO-OOH $>
+
+en: perbenzoic acid  <br>
+benzenecarboperoxoic acid (PIN)
+ru: пербензойная кислота <br>
+бензолкарбопероксоевая кислота (PIN)
+
+@cell
+<$ H-CO-OOH $>
+
+en: performic acid  <br>
+methaneperoxoic acid (PIN; see P-65.1.4.1)  
+
+@cell
+<$ (HOOC-CH)2N-CH2-CH2-N(CH2-COOH)2 $>
+  
+en: ethylenediaminetetraacetic acid  <br>
+_N_,_N_′-(ethane-1,2-diyl)bis[_N_-(carboxymethyl)glycine]  <br>
+2,2′,2′′,2′′′-(ethane-1,2-diyldinitrilo)tetraacetic acid 
+ru: этилендиаминтетрауксусная кислота <br>
+_N_,_N_′-(этан-1,2-диил)бис[_N_-(карбоксиметил)глицин] <br>
+2,2′,2′′,2′′′-(этан-1,2-диилдинитрило)тетрауксусная кислота
+
+@End
+
+#P-65.1.1.2.3+
+en: The names citric acid, lactic acid, glyceric acid, pyruvic acid, and tartaric acid, related to natural products, 
+are also retained; no substitution is recommended, but the formation of salts and esters is allowed. 
+ru: Сохраняются также названия лимонной кислоты, молочной кислоты, глицериновой кислоты, пировиноградной кислоты и 
+винной кислоты, относящиеся к природным продуктам; замена названий не рекомендуется, но допускается образование солей 
+и сложных эфиров.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.53)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(1)-C@n(2,-60,.6)<|OH><_(y-1.2)COOH>-CH2@n(3)-COOH
+$>
+
+en: citric acid  <br>
+2-hydroxypropane-1,2,3-tricarboxylic acid (PIN) 
+ru: лимонная кислота <br>
+2-гидроксипропан-1,2,3-трикарбоновая кислота (PIN)
+
+@cell
+<$ HO-C<`|COOH><-H>|CH2-OH $>
+
+en: glyceric acid  <br>
+2,3-dihydroxypropanoic acid (PIN)
+ru: глицериновая кислота <br>
+2,3-дигидроксипропановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH@n(2)<`|OH>-COOH@n(1)
+$>
+
+en: lactic acid  <br>
+2-hydroxypropanoic acid (PIN) 
+ru: молочная кислота <br>
+2-гидроксипропановая кислота (PIN)
+
+@cell
+<$ CH3-CO-COOH $>
+
+en: pyruvic acid  <br>
+2-oxopropanoic acid (PIN) 
+ru: пировиноградная кислота <br>
+2-оксопропановая кислота (PIN)
+
+@cell
+<$ HOOC-[CH(OH)]2-COOH $>
+
+en: tartaric acid  <br>
+2,3-dihydroxybutanedioic acid (PIN)  <br>
+(to denote configuration, see P-102.5.6.6.5) 
+ru: винная кислота <br>
+2,3-дигидроксибутандиовая кислота (PIN) <br>
+(для обозначения конфигурации см. P-102.5.6.6.5)
+
+@End
+
+en: Names of α-amino acids related to peptides and proteins are also retained (see P-103). Some names, for example 
+‘glycine’ for <%a%>, are used to form systematic substitutive names (see P-103.2). Names of carboxylic acids 
+derived from retained names of carbohydrates are also used as systematic sustitutive names (see P-102.5.6.6). 
+ru: Названия α-аминокислот, родственных пептидам и белкам, также сохранены (см. P-103). Некоторые названия, например 
+«глицин» для <%a%>, используются для образования систематических замещающих названий (см. P-103.2). Названия карбоновых кислот, 
+полученные из сохраненных названий углеводов, также используются в качестве систематических замещающих названий (см. P-102.5.6.6).
+%a: <$ H2N-CH2-COOH $>
+
+#P-65.1.1.2.4+
+en: The following trivial names are no longer recommended.
+ru: Следующие тривиальные названия больше не рекомендуются.
+
+@Examples --
+
+@cell
+<$ HC≡C-COOH $>
+
+en: prop-2-ynoic acid (PIN)  <br>
+(not propiolic acid) 
+ru: проп-2-иновая кислота (PIN) <br>
+(не пропиоловая кислота)
+
+@cell
+<$ (CH3)2CH-COOH $>
+
+en: 2-methylpropanoic acid (PIN) <br>
+(not isobutyric acid) 
+ru: 2-метилпропановая кислота (PIN) <br>
+(не изомасляная кислота)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-C@n(3)<`||O>-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-oxobutanoic acid (PIN)  <br>
+(not acetoacetic acid) 
+ru: 3-оксобутановая кислота (PIN) <br>
+(не ацетоуксусная кислота)
+
+@cell
+<$ |<\NH2>`//`\`||/\\/COOH $>
+
+en: 2-aminobenzoic acid (PIN)  <br>
+[not anthranilic acid (1,2-isomer only)] 
+ru: 2-аминобензойная кислота (PIN) <br>
+[не антраниловая кислота (только 1,2-изомер)]
+
+@cell
+<$ (C6H5)2C(OH)-COOH $>
+
+en: hydroxydi(phenyl)acetic acid (PIN)  <br>
+(not benzilic acid) 
+ru: гидроксиди(фенил)уксусная кислота (PIN) <br>
+(не бензиловая кислота)
+
+@cell
+<$ HO-CH2-COOH $>
+
+en: hydroxyacetic acid (PIN)  <br>
+(not glycolic acid) 
+ru: гидроксиуксусная кислота (PIN) <br>
+(не гликолевая кислота)
+
+@cell
+<$ OHC-COOH $>
+
+en: oxoacetic acid (PIN)  <br>
+(not glyoxylic acid) 
+ru: оксоуксусная кислота (PIN) <br>
+(не глиоксиловая кислота)
+
+@End
+
+#P-65.1.2
+en: Systematic names
+ru: Систематические названия 
+
+#P-65.1.2.1+
+// В оригинале этот пункт не обозначен, но ссылки на него есть
+en: Carboxylic acids are named substitutively using the suffix ‘oic acid’ or ‘carboxylic acid’ and the prefix ‘carboxy’ to 
+describe chain are named by replacing the final ‘e’ of the name of the corresponding hydrocarbon by the suffix ‘oic 
+acid’. No locants are necessary to denote the positions of the carboxylic acid groups in a hydrocarbon chain; locants are 
+used when hydrocarbon chains are modified by skeletal replacement, as shown in P-15.4.3.2.3. Except for formic acid, 
+acetic acid, oxalic acid (see P-65.1.1.1), and oxamic acid (see P-65.1.1.1), systematically formed names are preferred 
+IUPAC names; the names given in P-65.1.1.2 are retained names for use in general nomenclature. 
+ru: Названия карбоновых кислот заменяются суффиксом «&(oic acid)» или «карбоновая кислота», а префикс «карбокси» используется 
+для обозначения цепи путем замены конечной буквы «е» в названии соответствующего углеводорода на суффикс «&(oic acid)». 
+Для обозначения положения карбоксильных групп в углеводородной цепи не требуются локанты; локанты используются, когда 
+углеводородные цепи модифицируются путем замены скелета, как показано в P-15.4.3.2.3. За исключением муравьиной кислоты, 
+уксусной кислоты, щавелевой кислоты (см. P-65.1.1.1) и оксаминовой кислоты (см. P-65.1.1.1), предпочтительными названиями 
+по номенклатуре IUPAC являются систематически сформированные названия; названия, приведенные в P-65.1.1.2, являются 
+&(retained name|tv*) для использования в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: butanoic acid (PIN)  <br>
+butyric acid
+ru: бутан&(oic acid) (PIN) <br>
+масляная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-[CH2]8-COOH@n(1)
+$>
+
+en: decanoic acid (PIN) 
+ru: декан&(oic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(12)-[CH2]10-COOH@n(1)
+$>
+
+en: dodecanedioic acid (PIN)
+ru: додеканди&(oic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(15)-@:cco(n)CH2-CH2-O@n(&n)-@(12)@cco(9)@cco(3)CH2-COOH@n(1)
+$>
+
+en: 3,6,9,12-tetraoxapentadecan-1-oic acid (PIN)
+ru: 3,6,9,12-тетраоксапентадекан-1-&(oic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(15)-@:cco(n)CH2-CH2-O@n(&n)-@(12)@cco(9)@cco(6)@cco(3)-CH2-CH3@n(1)
+$>
+
+en: 3,6,9,12-tetraoxapentadecan-15-oic acid (PIN)
+ru: 3,6,9,12-тетраоксапентадекан-15-&(oic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(15)-@:csc(n)CH2-S@n(&n)-CH2-@(13)@csc(10)CH2-@csc(6)@csc(3)COOH@n(1)
+$>
+
+en: 3,6,10,13-tetrathiapentadecane-1,15-dioic acid (PIN) 
+ru: 3,6,10,13-тетратиапентадекан-1,15-ди&(oic acid) (PIN)
+// ошибка в оригинале: в формуле исправлен локант 12 на 13 (название правильное)
+
+@End
+
+#P-65.1.2.2+
+en: The suffix ‘carboxylic acid’ is used for all carboxylic acids not covered by P-65.1.2.1, except for benzoic 
+acid, a retained name (see P-65.1.1.1). The carboxy group can be attached to any atom, carbon or heteroatom, of any 
+parent hydride; the proper methodology must be applied in the case of mancude parent hydrides as exemplified in  
+P-65.1.2.3. 
+ru: Суффикс «карбоновая кислота» используется для всех карбоновых кислот, не охваченных пунктом P-65.1.2.1, 
+за исключением бензойной кислоты, название которой сохранено (см. P-65.1.1.1). Карбоксильная группа может быть присоединена 
+к любому атому, углероду или гетероатому, любого &(parent hydride|ro); в случае большинства &(parent hydride|ro*) необходимо 
+применять соответствующую методику, как показано в пункте P-65.1.2.3.
+
+#P-65.1.2.2.1+
+en: If an unbranched chain is linked to more than two carboxy groups, all carboxy groups are named from the 
+parent hydride by substitutive use of the suffix ‘carboxylic acid’, preceded by the appropriate numerical prefix ‘tri’, 
+‘tetra’ etc. and appropriate locants. 
+ru: Если неразветвленная цепь связана с более чем двумя карбоксильными группами, все карбоксильные группы обозначаются 
+от &(parent hydride|ro) путем замещения суффиксом «карбоновая кислота», которому предшествует соответствующий числовой 
+префикс «три», «тетра» и т. д., а также соответствующие локанты.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH2@n(5)-CH2@n(4)-CH@n(3,90)<`|COOH>-CH2@n(2,90)-CH2@n(1)-COOH
+$>
+
+en: pentane-1,3,5-tricarboxylic acid (PIN)
+ru: пентан-1,3,5-трикарбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HOOC)2CH@n(1)-CH@n(2)(COOH)2
+$>
+
+en: ethane-1,1,2,2-tetracarboxylic acid (PIN) 
+ru: этан-1,1,2,2-тетракарбоновая кислота (PIN)
+
+@End
+
+#P-65.1.2.2.2+
+en: Carboxy groups attached to cyclic parent hydrides or heteroacyclic parent hydrides are always named by 
+using the suffix ‘carboxylic acid’. 
+ru: Карбоксильные группы, присоединенные к циклическим или гетероациклическим гидридам, всегда обозначаются с 
+использованием суффикса «карбоновая кислота».
+
+@Examples
+
+@cell
+<$ |_q_q<_q_q>-COOH $>
+
+en: cyclopentanecarboxylic acid (PIN)
+ru: циклопентанкарбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//N@n(1,90,.55)`\`||/\\@n(3,30)/COOH
+$>
+
+en: pyridine-3-carboxylic acid (PIN)  <br>
+nicotinic acid
+ru: пиридин-3-карбоновая кислота (PIN) <br>
+никотиновая кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_qN<_q_q>@n(1,-80,.55)--COOH
+$>
+
+en: pyrrolidine-1-carboxylic acid (PIN)
+ru: пирролидин-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/\\|@n(2,30)`/N@n(1,30,.5)<`\>|COOH
+$>
+
+en: quinoline-1(2_H_)-carboxylic acid (PIN)
+ru: хинолин-1(2_H_)-карбоновая кислота (PIN)
+
+@cell
+<$ H3Si-O-SiH2-COOH $>
+
+en: disiloxanecarboxylic acid (PIN) 
+ru: дисилоксанкарбоновая кислота (PIN)
+
+@cell
+<$ H2N-NH-COOH $>
+
+en: hydrazinecarboxylic acid (PIN)  <br>
+carbonohydrazidic acid (see P-65.2.1.4)  <br>
+(not carbazic acid) 
+ru: гидразинкарбоновая кислота (PIN) <br>
+карбоногидразидовая кислота (см. P-65.2.1.4) <br>
+(не карбазиновая кислота)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/_qqN@n(1,-30)_qO@n(2,-120,.5)_qN@n(3,-170)_qq|<`/HOOC>@n(4,90)\\/`|<`\>_ppN_pO_pN_pp
+$>
+
+en: [benzo[1,2-_c_:3,4-_c_′]bis([1,2,5]oxadiazole)]-4-carboxylic acid (PIN)
+ru: [бензо[1,2-_c_:3,4-_c_′]бис([1,2,5]оксадиазол)]-4-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/-\@n(4,-60)<`/`-`\>-CH2_(x1.6)@n(4',-120)/-\@n(1',-60)<`/`-`\>-COOH
+$>
+
+en: 4,4′-methylenedi(cyclohexane-1-carboxylic acid) (PIN) 
+ru: 4,4′-метиленди(циклогексан-1-карбоновая кислота) (PIN)
+
+@End
+
+#P-65.1.2.2.3
+en: The prefixes ‘carboxy’ and ‘oxalo’ 
+ru: Приставки «карбокси» и «оксало»
+
+en: When another group is present that has priority for citation as suffix, for example, a free valence, or when all carboxylic 
+acid groups cannot be described by a suffix, carboxylic acid groups, –COOH, are indicated by the preferred prefix 
+‘carboxy’ (also used in general nomenclature). The prefix ‘oxalo’ is recommended as the preferred prefix for –CO-CO-OH, 
+but cannot be used to lengthen a carbon chain. In general nomenclature, the compound prefix ‘carboxycarbonyl’ 
+may be used, but the compound prefix ‘carboxyformyl’ is not recommended. 
+ru: Если присутствует другая группа, имеющая приоритет при &(citation|pr) в качестве суффикса, например, свободная валентность, 
+или если все карбоксильные группы не могут быть описаны суффиксом, карбоксильные группы –COOH обозначаются предпочтительным 
+префиксом «карбокси» (также используемым в общей номенклатуре). Префикс «оксало» рекомендуется в качестве предпочтительного 
+префикса для –CO-CO-OH, но не может использоваться для удлинения углеродной цепи. В общей номенклатуре может использоваться 
+составной префикс «карбоксикарбонил», но составной префикс «карбоксиформил» не рекомендуется.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|N^+\\|`//<|COOH>`\`||/_(x1.8,N0)Cl^-
+$>
+
+en: 4-carboxy-1-methylpyridin-1-ium chloride (PIN)
+ru: 4-карбокси-1-метилпиридин-1-&(ium) хлорид (PIN)
+
+@cell
+<$ {}–CH2-CH2-COOH $>
+
+en: 2-carboxyethyl (preferred prefix) 
+ru: 2-карбоксиэтил (&(preferred prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.52)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH@n(3,90)<_(y-1.2)CH2-COOH>-CH2@n(4)-CH2@n(5)-CH2@n(6)-COOH@n(7)
+$>
+
+en: 3-(carboxymethyl)heptanedioic acid (PIN) 
+ru: 3-(карбоксиметил)гептандиовая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|N^+@n(1,-150,.5)\|@n(3,-30)<_q6CO-COOH>`/<_(A-120):a>`\`|/_(A60)_#a
+$>
+
+en: 1-methyl-3-oxalo-1-azabicyclo[2.2.2]octan-1-ium (PIN)
+ru: 1-метил-3-оксало-1-азабицикло[2.2.2]октан-1-&(ium) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH2@n(2)-CO@n(3)-COOH
+$>
+
+en: 3-carboxy-3-oxopropyl (preferred prefix)  <br>
+(not 2-oxaloethyl) 
+ru: 3-карбокси-3-оксопропил (&(preferred prefix)) <br>
+(не 2-оксалоэтил)
+
+@End
+
+#P-65.1.2.3
+en: Seniority order for numbering
+ru: Порядок старшинства при нумерации
+
+en: When required, numbering is based on the seniority order given in P-14.4.
+ru: При необходимости нумерация осуществляется в соответствии с порядком старшинства, указанным в пункте P-14.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_p7_p7_p7_p7_p7_p7/O@n(1)\|@n(3,-30,.4)<\COOH>`/`\
+$>
+
+en: 1-oxacycloundecane-3-carboxylic acid (PIN) 
+ru: 1-оксациклоундекан-3-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-@:hcc(n,h:O)&h@n(&n)-CH2-CH2-@(2)@hcc(5)@hcc(8)@hcc(11,S)COOH@n(14)
+$>
+
+en: 2,5,8-trioxa-11-thiatetradecan-14-oic acid (PIN) 
+ru: 2,5,8-триокса-11-тиаттетрадекан-14-&(oic acid) (PIN)
+
+@End
+
+@p .framed
+en: Heteroatoms in chains are now considered to be an integral part of the parent hydride and as such they have 
+seniority over suffixes for numbering (see P-14.4; see also P-15.4). 
+ru: В настоящее время гетероатомы в цепочках считаются неотъемлемой частью &(parent hydride|ro) и, следовательно, 
+имеют приоритет над суффиксами при нумерации (см. P-14.4; см. также P-15.4).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(8)-CH2@n(7)-CH2@n(6)-CH2@n(5)-CH2@n(4)-CH2@n(3)-C@n(2,90)<`||mCH-CH3>-COOH@n(1)
+$>
+
+en: 2-ethylideneoctanoic acid (PIN)  <br>
+[not 2-hexylbut-2-enoic acid; see P-44.3, criterion (b)] 
+ru: 2-этилиденоктановая кислота (PIN) <br>
+[не 2-гексилбут-2-еновая кислота; см. P-44.3, критерий (b)]
+
+@cell
+<$
+@:n(n,a,L:.35)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`|`/`\\`|//\@n(8a,160,.5)|@n(4a,-20,.5)\//`|@n(2,-30)`\\@n(1,-90)`/_(y-1.5)COOH
+$>
+
+en: naphthalene-4a,8a-dicarboxylic acid (PIN; see P-58.2)  <br>
+4a,8a-dihydronaphthalene-4a,8a-dicarboxylic acid 
+ru: нафталин-4a,8a-дикарбоновая кислота (PIN; см. P-58.2) <br>
+4a,8a-дигидронафталин-4a,8a-дикарбоновая кислота
+
+@cell
+<$
+@:n(n,a,L:.35)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A-30,N2)@n(1,-90)\@n(2,-30)|`//`\@n(4a,-30,.5)`|`\`//|\\/|COOH
+$>
+
+en: naphthalene-4a(2_H_)-carboxylic acid (PIN; see P-58.2)  <br>
+2,4a-dihydronaphthalene-4a-carboxylic acid
+ru: нафталин-4a(2_H_)-карбоновая кислота (PIN; см. P-58.2) <br>
+2,4a-дигидронафталин-4a-карбоновая кислота
+
+@End
+
+#P-65.1.2.4
+en: Polyfunctional carboxylic acids
+ru: Полифункциональные карбоновые кислоты
+
+en: Systematic names of substituted carboxylic acids are formed by adding appropriate prefixes, such as ‘oxo’, ‘hydroxy’, 
+‘amino’, ‘imino’, ‘halo’, ‘nitro’, etc., to the name of the acid. Prefixes are not ranked as functional entities; they are 
+cited in a name in alphabetical order (except for hydro/dehydro) which is also used to assign lowest locants when 
+required. 
+ru: Систематические названия замещенных карбоновых кислот образуются путем добавления соответствующих префиксов, 
+таких как «оксо», «гидрокси», «амино», «имино», «гало», «нитро» и т. д., к названию кислоты. Префиксы не ранжируются по 
+функциональным группам; они &(cited|*) в названии в алфавитном порядке (за исключением гидро/дегидро), который также 
+используется для присвоения наименьших локантов при необходимости.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CO@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 5-oxohexanoic acid (PIN) 
+ru: 5-оксогексановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 5-aminopentanoic acid (PIN)
+ru: 5-аминопентановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-/@n(5,-60)-\\<-COOH>@n(1,60)`/`=<`/Br>@n(3,60)`\@n(4,120)/`\Br
+$>
+
+en: 3,5-dibromo-4-hydroxybenzoic acid (PIN)  
+ru: 3,5-дибром-4-гидроксибензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-`/`-`\\/<`\O2`N>@n(5,180)=\@n(1,60)`/@n(2,120)_q6NH2
+$>
+
+en: 2-amino-5-nitrobenzoic acid (PIN)  <br>
+(not 5-nitroanthranilic acid;  <br>
+anthranilic acid is not a retained name)
+ru: 2-амино-5-нитробензойная кислота (PIN) <br>
+(не 5-нитроантраниловая кислота; <br>
+антраниловая кислота не является &(retained name|tv))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-CH@n(1)<`|OH>-CH@n(2)<`|COOH>-CO@n(3)-COOH
+$>
+
+en: 1-hydroxy-3-oxopropane-1,2,3-tricarboxylic acid (PIN)  <br>
+[not 3-hydroxy-1-oxopropane-1,2,3-tricarboxylic acid;  <br>
+lowest locants are attributed to prefixes that are cited first, see P-14.4 (g)] 
+ru: 1-гидрокси-3-оксопропан-1,2,3-трикарбоновая кислота (PIN) <br>
+[не 3-гидрокси-1-оксопропан-1,2,3-трикарбоновая кислота; <br>
+наименьшие локанты приписываются префиксам, которые указаны первыми, см. P-14.4 (g)]
+
+@cell
+<$ (HO-CH2-CH2-O)2CH-COOH $>
+
+en: bis(2-hydroxyethoxy)acetic acid (PIN) 
+ru: бис(2-гидроксиэтокси)уксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S-CH2@n(4)-CH2@n(3)-CO@n(2)-COOH@n(1)
+$>
+
+en: 4-(methylsulfanyl)-2-oxobutanoic acid (PIN)  <br>
+[not 4-(methylthio)-2-oxobutyric acid] 
+ru: 4-(метилсульфанил)-2-оксобутановая кислота (PIN) <br>
+[не 4-(метилтио)-2-оксобутировая кислота]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-S-C`H2-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-COOH
+$>
+
+en: 4-[(hydroxysulfanyl)methyl]benzoic acid (PIN)  <br>
+[not 4-(sulfenomethyl)benzoic acid] 
+ru: 4-[(гидроксисульфанил)метил]бензойная кислота (PIN) <br>
+[не 4-(сульфенометил)бензойная кислота]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br|@n(8,-30)\`\`/@n(7,-90)<`\Br>||<`/Br>@n(6,90)\<|Br>@n(5,30)//`|/<`|COOH>@n(9,-30)\\|<`//`\>\@n(4,90)/@n(3,30)`|@n(2,-30)`\@n(1,-90)`/
+$>
+
+en: 5,6,7,8-tetrabromo-1,2,3,4-tetrahydroanthracene-9-carboxylic acid (PIN)  <br>
+(not 1,2,3,4-tetrabromo-5,6,7,8-tetrahydroanthracene-9-carboxylic acid  <br>
+hydro/dehydro prefixes are given lowest possible locants before other detachable prefixes; see P-14.4) 
+ru: 5,6,7,8-тетрабром-1,2,3,4-тетрагидроантрацен-9-карбоновая кислота (PIN) <br>
+(не 1,2,3,4-тетрабром-5,6,7,8-тетрагидроантрацен-9-карбоновая кислота <br>
+префиксы гидро/дегидро получают наименьшие возможные локанты перед другими &(detachable [prefix]|tv*) префиксами; см. P-14.4)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC_(A60)\@n(2,-30)||@n(3,30)`/<|OH>@n(4,30)`\@n(5,150)`||@n(6,-150)/@n(1,-20)_(A-60)CH2-CO-COOH
+$>
+
+en: 1-(2-carboxy-2-oxoethyl)-4-hydroxycyclohexa-2,5-diene-1-carboxylic acid (PIN)  <br>
+1-carboxy-4-hydroxy-α-oxocyclohexa-2,5-dienepropanoic acid  <br>
+(a conjunctive name, see P-15.6) 
+ru: 1-(2-карбокси-2-оксоэтил)-4-гидроксициклогекса-2,5-диен-1-карбоновая кислота (PIN) <br>
+1-карбокси-4-гидрокси-α-оксоциклогекса-2,5-диенпропановая кислота <br>
+(&(conjunctive name), см. P-15.6)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH@n(2)=CH@n(3)-C@n(4,90)<`|OH>=CH@n(5,-80)-C@n(6,90)<`||O>-CH2@n(7)-COOH@n(8)
+$>
+
+en: 4-hydroxy-6-oxoocta-2,4-dienedioic acid (PIN)  <br>
+(not 5-hydroxy-3-oxoocta-4,6-dienedioic acid;  <br>
+unsaturation is senior to detachable prefixes for numbering)
+ru: 4-гидрокси-6-оксоокта-2,4-диендиовая кислота (PIN) <br>
+(не 5-гидрокси-3-оксоокта-4,6-диендиовая кислота; <br>
+ненасыщенность имеет более высокий приоритет, чем &(detachable [prefix]|*) префиксы при нумерации)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-H2C@n(2)-N<_(y%h:-1.3)CH2@n(2')`-HOOC>-CH2-CH2-N<_(y%h)CH2@n(2'')-COOH>-C`H2@n(2''')-COOH
+$>
+
+en: 2,2′,2′′,2′′′-(ethane-1,2-diyldinitrilo)tetraacetic acid (see P-15.3.2.1)  <br>
+_N_,_N_′-(ethane-1,2-diyl)bis[_N_-(carboxymethyl)glycine] 
+ru: 2,2′,2′′,2′′′-(этан-1,2-диилдинитрило)тетрауксусная кислота (см. P-15.3.2.1) <br>
+_N_,_N_′-(этан-1,2-диил)бис[_N_-(карбоксиметил)глицин]
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-H2C-N@n(\textit{N′})<_(y%h:-1.2)CH2`-CH2`-HO>-CH2-CH2-N@n(\textit{N})<_(y%h)CH2-COOH>-C`H2-COOH
+$>
+
+en: _N_-(carboxymethyl)-_N′_-(2-hydroxyethyl)-_N_,_N′_-(ethane-1,2-diyl)diglycine  <br>
+2,2′-({2-[(carboxymethyl)(2-hydroxyethyl)amino]ethyl}azanediyl)diacetic acid  
+ru: _N_-(карбоксиметил)-_N′_-(2-гидроксиэтил)-_N_,_N′_-(этан-1,2-диил)диглицин <br>
+2,2′-({2-[(карбоксиметил)(2-гидроксиэтил)амино]этил}азандиил)диуксусная кислота
+
+@End
+
+#P-65.1.3
+en: Carboximidic, carbohydrazonic, carbohydroximic, and carbohydroxamic acids
+ru: &(Carboximidic [acid]), карбогидразоновая, &(carbohydroximic [acid]) и &(carbohydroxamic [acid]) кислоты
+
+@Content
+
+#P-65.1.3.1
+en: Carboximidic acids
+ru: &(Carboximidic acid|*)
+
+#P-65.1.3.1.1
+en: Substitutive nomenclature, suffix mode
+ru: &(Substitutive nomenclature), суффиксный режим
+
+en: The name of an acid in which the carbonyl oxygen atom of a carboxylic acid group has been replaced by =NH is 
+formed by functional replacement nomenclature and the infix ‘imid(o)’ to modify the ‘ic acid’ or ‘oic acid’ ending of 
+the retained name of an acid; or the ‘oic acid’ or ‘carboxylic acid’ suffix of a systematic name of an acid, to ‘imidic 
+acid’ or ‘carboximidic acid’. 
+ru: Название кислоты, в которой атом кислорода карбонильной группы карбоксильной группы заменен на =NH, образуется
+при помощи &(functional replacement nomenclature|ro) и добавления инфикса «имид(о)» для изменения окончания «ая кислота» 
+или «&(oic acid)» в сохраненном названии кислоты; или суффикса «&(oic acid)» или «карбоновая кислота» в систематическом 
+названии кислоты на «&(imidic acid)» или «&(carboximidic acid)».
+
+en: Preferred names of imidic acids are those derived from systematic substitutive preferred IUPAC names of carboxylic 
+acids.
+ru: Предпочтительное название &(imidic acid|ro*) — это название, полученное из систематических замещающих предпочтительных названий карбоновых кислот по номенклатуре ИЮПАК.
+
+@p .framed
+en: The use of systematic substitutive names for imidic acids is a change for formic acid, acetic acid, benzoic acid, and 
+oxalic acid.  
+ru: Использование систематических &(substitutive name|ro*) для &(imidic acid|ro*) является изменением для муравьиной кислоты, 
+уксусной кислоты, бензойной кислоты и щавелевой кислоты.
+
+@Examples
+
+@cell
+<$ HC(=NH)-OH $>
+
+en: methanimidic acid (PIN)  <br>
+formimidic acid 
+ru: метан&(imidic acid) (PIN) <br>
+форм&(imidic acid)
+
+@cell
+<$ CH3-C(=NH)-OH $>
+
+en: ethanimidic acid (PIN)  <br>
+acetimidic acid 
+ru: этан&(imidic acid) (PIN) <br>
+ацет&(imidic acid)
+
+@cell
+<$ C6H5-C(=NH)-OH $>
+
+en: benzenecarboximidic acid (PIN)  <br>
+benzimidic acid 
+ru: бензен&(carboximidic acid) (PIN) <br>
+бенз&(imidic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-C@n(1)(=NH)-OH
+$>
+
+en: butanimidic acid (PIN)  <br>
+butyrimidic acid 
+ru: бутан&(imidic acid) (PIN) <br>
+бутир&(imidic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(4)(=NH)-CH2@n(3)-CH2@n(2)-C@n(1)(=NH)-OH
+$>
+
+en: butanediimidic acid (PIN)  <br>
+succinimidic acid 
+ru: бутанди&(imidic acid) (PIN) <br>
+янтарно&(imidic acid)
+// имид янтарной кислоты, он же Сукцинимид - это другое соединение, которое является циклом https://xumuk.ru/organika/278.html
+// а это соединение не найдено. поэтому традиционное название выдумано.
+
+@cell
+<$ HO-C(=NH)-C(=NH)-OH $>
+
+en: ethanediimidic acid (PIN)  <br>
+oxalimidic acid 
+ru: этанди&(imidic acid) (PIN) <br>
+оксал&(imidic acid)
+// здесь тоже название придумано
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\`|/\_q6C<`||mNH>-OH
+$>
+
+en: cyclohexanecarboximidic acid (PIN)
+ru: циклогексан&(carboximidic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6C(=NH)-OH>@n(2,90)`//`\`||/\\@n(1,-90)_q6C(=NH)-OH
+$>
+
+en: benzene-1,2-dicarboximidic acid (PIN)  <br>
+phthalimidic acid 
+ru: бензол-1,2-ди&(carboximidic acid) (PIN) <br>
+фтал&(imidic acid)
+// Это соединение тоже не найдено. 
+// Ближайшее из похожих - Фталимид https://ru.wikipedia.org/wiki/%D0%A4%D1%82%D0%B0%D0%BB%D0%B8%D0%BC%D0%B8%D0%B4
+
+@End
+
+#P-65.1.3.1.2
+en: Substitutive nomenclature, prefix mode
+ru: &(Substitutive nomenclature), префиксный режим
+
+en: When another group is present that has seniority for citation as principal group, the following prefixes are used: 
+ru: При наличии другой группы, которая имеет приоритет в &(citation|pr) в качестве основной группы, используются 
+следующие префиксы:
+
+@List 1
+
+@item
+en: the compound prefix ‘_C_-hydroxycarbonimidoyl’ used to denote the acyl group <%a%> is formed by 
+concatenation based on the simple prefix carbonimidoyl, <%b%>, derived from carbonimidic acid (see P-65.2.1.5); 
+ru: &(Compound [prefix]) префикс «_C_-гидроксикарбонимидоил», используемый для обозначения ацильной группы <%a%>, 
+образуется путем конкатенации на основе простого префикса карбонимидоил, <%b%>, производного от 
+карбон&(imidic acid|ro) (см. P-65.2.1.5);
+%a: –C(=NH)-OH
+%b: –C(=NH)–
+
+@item
+en: a combination of the simple prefixes ‘hydroxy’ and ‘imino’ at the end of a carbon chain is used in preferred 
+IUPAC names rather than the compound prefix ‘_C_-hydroxycarbonimidoyl’.
+ru: комбинация простых префиксов «гидрокси» и «имино» в конце углеродной цепи используется в предпочтительных названиях 
+по номенклатуре IUPAC скорее, чем &(compound [prefix]) префикс «_C_-гидроксикарбонимидоил».
+
+@End
+
+en: **Note 1**: The italicized letter ‘_C_’ is used to avoid potential confusion with _N_-hydroxy substitution.
+ru: **Примечание 1**: Курсивная буква «_C_» используется во избежание возможной путаницы с _N_-гидроксильным замещением.
+
+en: **Note 2**: The name carbonohydroximoyl, for <%a%>, is not used to generate preferred IUPAC names. 
+ru: **Примечание 2**: Название карбоногидроксимоил для <%a%> не используется для формирования предпочтительных 
+названий по номенклатуре IUPAC.
+%a: –C(=NH)-OH
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q@n(2,60)<_(a54)C(=NH)-OH>_q<`|COOH>@n(1,-30)_q_q
+$>
+
+en: (1) 2-(_C_-hydroxycarbonimidoyl)cyclopentane-1-carboxylic acid (PIN)
+ru: (1) 2-(_C_-гидроксикарбонимидоил)циклопентан-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-C(=NH)-OH
+$>
+
+en: (1) 4-(_C_-hydroxycarbonimidoyl)benzoic acid (PIN) 
+ru: (1) 4-(_С_-гидроксикарбонимидоил)бензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(4)(=NH)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (2) 4-hydroxy-4-iminobutanoic acid (PIN)  <br>
+(1) 3-(C-hydroxycarbonimidoyl)propanoic acid
+ru: (2) 4-гидрокси-4-иминобутановая кислота (PIN) <br>
+(1) 3-(C-гидроксикарбонимидоил)пропановая кислота
+
+@cell
+<$ H3C-C<`|SH>=N-O-NH-CH2-S-NH-CH2-CHO $>
+
+en: _N_-{[({[(2-oxoethyl)amino]sulfanyl}methyl)amino]oxy}ethanimidothioic acid (PIN)  <br>
+(see P-65.1.5.2) 
+ru: _N_-{[({[(2-оксоэтил)амино]сульфанил}метил)амино]окси}этанимидоти&(oic acid) (PIN) <br>
+(см. P-65.1.5.2)
+
+@End
+
+#P-65.1.3.2
+en: Carbohydrazonic acids
+ru: Карбогидразоновые кислоты
+
+#P-65.1.3.2.1
+en: Substitutive nomenclature, suffix mode 
+ru: &(Substitutive nomenclature), суффиксный режим
+
+en: The name of an acid in which the carbonyl oxygen atom of a carboxylic acid group has been replaced by <%a%> is 
+formed by functional replacement nomenclature. The infix ‘hydrazon(o)’ is used to modify the ‘ic acid’ or ‘oic acid’ 
+ending of the retained name of an acid; or the ‘oic acid’ or ‘carboxylic acid’ suffix of a systematic name of an acid is 
+changed to ‘hydrazonic acid’ or ‘carbohydrazonic acid’. 
+ru: Название кислоты, в которой карбонильный атом кислорода карбоксильной группы заменен на <%a%>, образуется 
+методом &(functional replacement nomenclature|ro). Инфикс «гидразон(о)» используется для изменения окончания «ая-кислота» 
+или «&(oic acid)» в &(retained name|pr) кислоты; или суффикс «&(oic acid)» или «карбоновая кислота» в систематическом 
+названии кислоты изменяется на «гидразоновая кислота» или «карбогидразоновая кислота».
+%a: <$ =NNH2 $>
+
+en: Preferred IUPAC names for hydrazonic acids are those derived from systematic preferred IUPAC names of carboxylic 
+acids. 
+ru: Предпочтительные названия по номенклатуре ИЮПАК для гидразоновых кислот выводятся из систематических предпочтительных 
+названий карбоновых кислот.
+
+@p .framed
+en: The use of systematic substitutive names for hydrazonic acids is a change for formic acid, acetic acid, benzoic 
+acid, and oxalic acid.  
+ru: Использование систематических &(substitutive name|ro*) для гидразоновых кислот является изменением для 
+муравьиной кислоты, уксусной кислоты, бензойной кислоты и щавелевой кислоты.
+
+@Examples
+
+@cell
+<$ H-C(=N-NH2)-OH $>
+
+en: methanehydrazonic acid (PIN)  <br>
+formohydrazonic acid 
+ru: метангидразоновая кислота (PIN) <br>
+формогидразоновая кислота
+
+@cell
+<$ CH3-C(=N-NH2)-OH $>
+
+en: ethanehydrazonic acid (PIN)  <br>
+acetohydrazonic acid 
+ru: этангидразоновая кислота (PIN) <br>
+ацетогидразоновая кислота
+
+@cell
+<$ C6H5-C(=N-NH2)-OH $>
+
+en: benzenecarbohydrazonic acid (PIN)  <br>
+benzohydrazonic acid 
+ru: бензолкарбогидразоновая кислота (PIN) <br>
+бензогидразоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-C@n(1)(=N-NH2)-OH
+$>
+
+en: butanehydrazonic acid (PIN)  <br>
+butyrohydrazonic acid 
+ru: бутангидразоновая кислота (PIN) <br>
+бутирогидразоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(4)(=N-NH2)-CH2@n(3)-CH2@n(2)-C@n(1)(=N-NH2)-OH
+$>
+
+en: butanedihydrazonic acid (PIN)  <br>
+succinohydrazonic acid 
+ru: бутандигидразоновая кислота (PIN) <br>
+сукциногидразоновая кислота
+
+@cell
+<$ HO-C(=N-NH2)-C(=N-NH2)-OH $>
+
+en: ethanedihydrazonic acid (PIN)  <br>
+oxalohydrazonic acid 
+ru: этандигидразоновая кислота (PIN) <br>
+оксалогидразоновая кислота
+
+@cell
+<$ |`/`\`|/\_q6C<-OH>`||N-NH2 $>
+
+en: cyclohexanecarbohydrazonic acid (PIN)
+ru: циклогексанкарбогидразоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6C(=N-NH2)-OH>@n(2,90)`//`\`||/\\@n(1)_q6C(=N-NH2)-OH
+$>
+
+en: benzene-1,2-dicarbohydrazonic acid (PIN)  <br>
+phthalohydrazonic acid 
+ru: бензол-1,2-дикарбогидразоновая кислота (PIN) <br>
+фталогидразоновая кислота
+
+@End
+
+#P-65.1.3.2.2
+en: Substitutive nomenclature, prefix mode
+ru: &(Substitutive nomenclature), префиксный режим
+
+en: When another group is present that has seniority for citation as principal group, the following prefixes are used:
+ru: При наличии другой группы, которая имеет приоритет в &(citation|pr) в качестве основной группы, 
+используются следующие префиксы:
+
+@List 1
+
+@item
+en: the compound prefix ‘_C_-hydroxycarbonohydrazonoyl’ used to denote the acyl group <%a%> is formed 
+by concatenation based on the simple prefix name carbonohydrazonoyl, <%b%>, derived from 
+carbonohydrazonic acid (see P-65.2.1.5). The substitutive name hydrazinylidene(hydroxy)methyl may be used 
+in general nomenclature; 
+ru: &(Compound [prefix]) префикс «_C_-гидроксикарбоногидразоноил», используемый для обозначения ацильной группы <%a%>, 
+образуется путем конкатенации на основе простого префикса названия карбоногидразоноил, <%b%>, производного от 
+карбоногидразоновой кислоты (см. P-65.2.1.5). В общей номенклатуре может использоваться &(substitutive name) 
+гидразинилиден(гидрокси)метил;
+%a: <$ {}–C(=N-NH2)-OH $>
+%b: <$ {}–C(=NNH2)–{} $>
+
+@item
+en: the combination of the simple prefixes ‘hydroxy’ and ‘hydrazinylidene’ at the end of a carbon chain is used in 
+preferred IUPAC names rather than the compound prefixes ‘_C_-hydroxycarbonohydrazonoyl’ or 
+‘hydrazinylidene(hydroxy)methyl’. 
+ru: в предпочтительных названиях по номенклатуре IUPAC используется сочетание простых префиксов «гидрокси» и 
+«гидразинилиден» в конце углеродной цепи, а не &(compound [prefix]|*) префиксы «_C_-гидроксикарбоногидразоноил» ​​или 
+«гидразинилиден(гидрокси)метил».
+
+@End
+
+en: **Note**: The italicized letter ‘_C_’ is used to avoid potential confusion with _N_-hydroxy substitution. 
+ru: **Примечание**: Курсивная буква «_C_» используется во избежание возможной путаницы с _N_-гидроксильным замещением.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q<_(a54)C(=N-NH2)-OH>@n(2,55)_q<`|COOH>@n(1,-30)_q_q
+$>
+
+en: (1) 2-(_C_-hydroxycarbonohydrazonoyl)cyclopentane-1-carboxylic acid (PIN)
+ru: (1) 2-(_C_-гидроксикарбоногидразоноил)циклопентан-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-C(=N-NH2)-OH
+$>
+
+en: (1) 4-(_C_-hydroxycarbonohydrazonoyl)benzoic acid (PIN) 
+ru: (1) 4-(_С_-гидроксикарбоногидразоноил)бензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(5)(=N-NH2)-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (2) 5-hydrazinylidene-5-hydroxypentanoic acid (PIN)  <br>
+(1) 4-(_C_-hydroxycarbonohydrazonoyl)butanoic acid 
+ru: (2) 5-гидразинилиден-5-гидроксипентановая кислота (PIN) <br>
+(1) 4-(_C_-гидроксикарбоногидразоноил)бутановая кислота
+
+@End
+
+
+#P-65.1.3.3
+en: Carbohydroximic acids 
+ru: &(Carbohydroximic acid|*)
+
+#P-65.1.3.3.1
+en: Substitutive nomenclature, suffix mode 
+ru: &(Substitutive nomenclature), суффиксный режим
+
+en: Acids in which the carbonyl oxygen atom of a carboxylic acid group has been replaced by =N-OH are named as  
+_N_-hydroxy derivatives of imidic acids named as described in P-65.1.3.1. This method is used to generate preferred 
+IUPAC names. 
+ru: Кислоты, в которых карбонильный атом кислорода карбоксильной группы заменен на =N-OH, называются 
+_N_-гидроксипроизводными имидовых кислот, как описано в P-65.1.3.1. Этот метод используется для получения 
+предпочтительных названий по номенклатуре IUPAC.
+
+en: **Note**: The following former methodology is no longer used for preferred IUPAC names: 
+ru: **Примечание**: Следующая прежняя методология больше не используется для предпочтительных названий IUPAC:
+
+en: The name formed by modifying the ‘-oic acid’ or ‘-carboxylic acid’ suffix of a systematically named acid, or the ‘-ic 
+acid’ ending of the retained name of an acid to ‘-hydroximic acid’ or ‘-carbohydroximic acid’. The letter ‘o’ is added 
+for euphony between ‘h’ and a preceding consonant. 
+ru: Название, образованное путем изменения суффикса «-&(oic acid)» или «-карбоновая кислота» в названии систематически 
+именуемой кислоты, или окончания «-ая кислота» в &(retained name|pr) кислоты на «-гидроксимовая кислота» или 
+«-карбогидроксимовая кислота». Буква «о» добавляется для благозвучия между «г» и предшествующей согласной.
+
+en: This former method may be still used in general nomenclature.  
+ru: Этот формирующий метод может по-прежнему использоваться в общей номенклатуре.
+
+@Examples
+
+@cell
+<$ CH3-C(=N-OH)-OH $>
+
+en: _N_-hydroxyethanimidic acid (PIN)  <br>
+acetohydroximic acid
+ru: _N_-гидроксиэтан&(imidic acid) (PIN) <br>
+ацето&(hydroximic acid)
+
+@cell
+<$ C6H5-C(=N-OH)-OH $>
+
+en: _N_-hydroxybenzenecarboximidic acid (PIN)  <br>
+benzohydroximic acid
+ru: _N_-гидроксибензол&(carboximidic acid) (PIN) <br>
+бензо&(hydroximic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-C@n(1)(=N-OH)-OH
+$>
+
+en: _N_-hydroxybutanimidic acid (PIN)  <br>
+butyrohydroximic acid  <br>
+butanohydroximic acid 
+ru: _N_-гидроксибутан&(imidic acid) (PIN) <br>
+бутиро&(hydroximic acid) <br>
+бутано&(hydroximic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(4)(=N:a-OH)-CH2@n(3)-CH2@n(2)-C@n(1)(=N:b-OH)-OH; #a@n(\textit{N}^4,-78); #b@n(\textit{N}^1,-78)
+$>
+
+en: _N_^{1},_N_^{4}-dihydroxybutanediimidic acid  <br>
+succinohydroximic acid  <br>
+butanedihydroximic acid
+ru: _N_^{1},_N_^{4}-дигидроксибутанди&(imidic acid) <br>
+сукцино&(hydroximic acid) <br>
+бутанди&(hydroximic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_qq_qN<_(y.5)H>@n(1,30)_q<_qq>@n(2,-50,.4)_(a54)C<`|OH>==N@n(\textit{N}^2,-75)-OH
+$>
+
+en: _N_^{2}-hydroxy-1_H_-pyrrole-2-carboximidic acid (PIN)  <br>
+pyrrole-2-carbohydroximic acid 
+ru: _N_^{2}-гидрокси-1_H_-пиррол-2-&(carboximidic acid) (PIN) <br>
+пиррол-2-&(carbohydroximic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nn(i)@n(\textit{N}^&i,-75,.55)@;
+HO-N@nn(4)==C<`|OH>-@n(4,-120,)/=\@n(1,-60)<`//`-`\\>-C<`|OH>==N@nn(1)-OH
+$>
+
+en: <%n%>-dihydroxybenzene-1,4-dicarboximidic acid (PIN)  <br>
+terephthalohydroximic acid 
+ru: <%n%>-дигидроксибензол-1,4-ди&(carboximidic acid) (PIN) <br>
+терефтало&(hydroximic acid)
+%n: _N_^{1},_N_′^{4}
+
+@End
+
+#P-65.1.3.3.2
+en: Substitutive nomenclature, prefix mode 
+ru: &(Substitutive nomenclature), префиксный режим
+
+en: When another group is present that has seniority for citation as principal group, the following prefixes are used:
+ru: При наличии другой группы, которая имеет приоритет в &(citation|pr) в качестве основной группы,
+используются следующие префиксы:
+
+@List 1
+
+@item
+en: ‘_C_,_N_-dihydroxycarbonimidoyl’ to denote the group –C(=N-OH)-OH; 
+ru: ‘_C_,_N_-дигидроксикарбонимидоил’ для обозначения группы –C(=N-OH)-OH;
+
+@item
+en: the combination of the prefixes ‘hydroxy’ and ‘hydroxyimino’ at the end of a carbon chain is used in preferred 
+IUPAC names rather than the prefix ‘dihydroxycarbonimidoyl’. 
+ru: В предпочтительных названиях по номенклатуре IUPAC используется сочетание префиксов «гидрокси» и «гидроксиимино» 
+на конце углеродной цепи, а не префикс «дигидроксикарбонимидоил».
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q<_(a54)C(=N-OH)-OH>@n(2,50)_q<`|COOH>@n(1,-30)_q_q
+$>
+
+en: (1) 2-(_C_,_N_-dihydroxycarbonimidoyl)cyclopentane-1-carboxylic acid (PIN) 
+ru: (1) 2-(_C_,_N_-дигидроксикарбонимидоил)циклопентан-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-C(=N-OH)-OH
+$>
+
+en: (1) 4-(_C_,_N_-dihydroxycarbonimidoyl)benzoic acid (PIN)
+ru: (1) 4-(_C_,_N_-дигидроксикарбонимидоил)бензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(5)(=N-OH)-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (2) 5-hydroxy-5-(hydroxyimino)pentanoic acid (PIN)  <br>
+(1) 4-(_C_,_N_-dihydroxycarbonimidoyl)butanoic acid
+ru: (2) 5-гидрокси-5-(гидроксиимино)пентановая кислота (PIN) <br>
+(1) 4-(_C_,_N_-дигидроксикарбонимидоил)бутановая кислота
+
+@End
+
+%P-65.1.3.4
+en: Hydroxamic acids
+ru: &(Hydroxamic acid|*)
+
+#P-65.1.3.4+
+en: Hydroxamic acids have the generic structure R-CO-NH-OH and are named as _N_-hydroxy amides (see  
+P-66.1.1.3.2). The suffixes ‘hydroxamic acid’ and ‘carbohydroxamic acid’ are no longer recommended for preferred 
+IUPAC names but may be used in general nomenclature
+ru: &(Hydroxamic acid|*) имеют общую структуру R-CO-NH-OH и называются _N_-гидроксиамидами (см. P-66.1.1.3.2). 
+Суффиксы «&(hydroxamic acid)» и «&(carbohydroxamic acid)» больше не рекомендуются для предпочтительных названий 
+по номенклатуре IUPAC, но могут использоваться в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO-NH@n(\textit{N})-PH
+$>
+
+en: _N_-hydroxyacetamide (PIN)  <br>
+acetohydroxamic acid 
+ru: _N_-гидроксиацетамид (PIN) <br>
+ацето&(hydroxamic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\`|/\_q6CO-NH@n(\textit{N})-OH
+$>
+
+en: _N_-hydroxycyclohexanecarboxamide (PIN)  <br>
+cyclohexanecarbohydroxamic acid
+ru: _N_-гидроксициклогексанкарбоксамид (PIN) <br>
+циклогексанкарбо&(hydroxamic acid)
+
+@End
+
+
+#P-65.1.4
+en: Peroxycarboxylic acids 
+ru: Пероксикарбоновые кислоты
+
+en: The general methodology for modifying acids expressed by suffixes by functional replacement nomenclature is to use 
+modified suffixes in the same way as for unmodified acids. A major change and simplification is recommended, i.e., 
+suffixes are always modified by infixes. 
+ru: Общая методология модификации кислот, выраженных суффиксами, с помощью &(functional replacement nomenclature|ro) 
+заключается в использовании модифицированных суффиксов так же, как и для немодифицированных кислот. 
+Рекомендуется существенное изменение и упрощение, а именно: суффиксы всегда модифицируются инфиксами.
+
+#P-65.1.4.1+
+en: Peroxycarboxylic acids are named systematically using the following suffixes:
+ru: Пероксикарбоновые кислоты систематически называются с использованием следующих суффиксов:
+
+@Examples --
+
+@cell
+en: <%a%> peroxoic acid  
+ru: <%a%> пероксоевая кислота
+%a: –(C)O-OOH
+
+@cell
+en: <%a%> carboperoxoic acid 
+ru: <%a%> карбопероксоевая кислота
+%a: –CO-OOH
+
+@End
+
+en: Retained names of carboxylic acids are modified by the prefix ‘peroxy’. Preferred IUPAC names are formed by 
+functional replacement of systematic carboxylic acid names. 
+ru: &(Retained name|*) названия карбоновых кислот изменяются с добавлением префикса «перокси». Предпочтительные названия 
+по номенклатуре IUPAC образуются путем функциональной замены систематических названий карбоновых кислот.
+
+@p .framed
+en: The use of systematic substitutive names for peroxycarboxylic acids is a change for formic acid, acetic acid, benzoic 
+acid, oxalic acid, and oxamic acid. 
+ru: Использование систематических &(substitutive name|ro*) для пероксикарбоновых кислот представляет собой изменение 
+названий муравьиной кислоты, уксусной кислоты, бензойной кислоты, щавелевой кислоты и оксаминовой кислоты.
+
+@Examples
+
+@cell
+<$ HCO-OOH $>
+
+en: methaneperoxoic acid (PIN)  <br>
+peroxyformic acid  <br>
+performic acid
+ru: метанпероксоевая кислота (PIN) <br>
+пероксимуравьиная кислота <br>
+пермуравьиная кислота
+
+@cell
+<$ CH3-CO-OOH $>
+
+en: ethaneperoxoic acid (PIN)  <br>
+peroxyacetic acid  <br>
+peracetic acid
+ru: этанпероксоевая кислота (PIN) <br>
+пероксиуксусная кислота <br>
+перуксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-[CH2]4-CO@n(1)-OOH
+$>
+
+en: hexaneperoxoic acid (PIN) 
+ru: гексанпероксоевая кислота (PIN)
+
+@cell
+<$ C6H5-CO-OOH $>
+
+en: benzenecarboperoxoic acid (PIN)  <br>
+peroxybenzoic acid  <br>
+perbenzoic acid 
+ru: бензолкарбопероксоевая кислота (PIN) <br>
+пероксибензоевая кислота <br>
+пербензоевая кислота
+
+@cell
+<$ H2N-CO-CO-OOH $>
+
+en: amino(oxo)ethaneperoxoic acid (PIN)  <br>
+peroxyoxamic acid 
+ru: амино(оксо)этанпероксоевая кислота (PIN) <br>
+пероксиоксаминовая кислота
+
+@cell
+<$ |`/`\`|/\_q6CO-OOH $>
+
+en: cyclohexanecarboperoxoic acid (PIN)
+ru: циклогексанкарбопероксоевая кислота (PIN)
+
+@cell
+<$ HOO-CO-CO-OOH $>
+
+en: ethanediperoxoic acid (PIN)  <br>
+diperoxyoxalic acid 
+ru: этанедипероксоевая кислота (PIN) <br>
+дипероксищавелевая кислота 
+
+@End
+
+#P-65.1.4.2+
+en: When another group is present that has priority for citation as a suffix (see seniority of classes, P-41), the 
+following prefixes are used: 
+ru: Если присутствует другая группа, имеющая приоритет при &(citation|pr) в качестве суффикса (см. старшинство классов, P-41), 
+используются следующие префиксы:
+
+@List 1
+
+@item
+en: the simple functional replacement prefix ‘carbonoperoxoyl-’ or the compound prefix ‘hydroperoxycarbonyl-’, 
+formed by concatenation based on the simple acyl group ‘carbonyl’, for >C=O (see P-65.2.1.5) is used to denote 
+the acyl group –C(O)-OOH as a substituent; the prefix ‘carbonoperoxoyl’ is used in preferred IUPAC names, 
+except as noted below in (2); 
+ru: для обозначения ацильной группы –C(O)-OOH в качестве &(substituent|ro) используется простой &(functional replacement prefix) 
+«карбонпероксоил-» или &(compound [prefix]) префикс «гидропероксикарбонил-», образованный путем конкатенации на основе 
+простой ацильной группы «карбонил», для >C=O (см. P-65.2.1.5); префикс «карбонпероксоил» используется в предпочтительных 
+названиях IUPAC, за исключением случаев, отмеченных ниже в (2);
+
+@item
+en: the combination of the simple prefixes ‘hydroperoxy and oxo’ at the end of a carbon chain is used in preferred 
+IUPAC names rather than the prefix ‘hydroperoxycarbonyl-’ or the prefix ‘carbonoperoxoyl-’. 
+ru: на конце углеродной цепи в предпочтительных названиях по номенклатуре IUPAC используется сочетание простых префиксов 
+«гидроперокси» и «оксо», а не префикс «гидропероксикарбонил-» или префикс «карбопероксиил-».
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOO-CO@n(6)-[CH2]4-COOH@n(1)
+$>
+
+en: (2) 6-hydroperoxy-6-oxohexanoic acid (PIN)  <br>
+(1) 5-carbonoperoxoylpentanoic acid  <br>
+5-(hydroperoxycarbonyl)pentanoic acid 
+ru: (2) 6-гидроперокси-6-оксогексановая кислота (PIN) <br>
+(1) 5-карбонпероксиилпентановая кислота <br>
+5-(гидропероксикарбонил)пентановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6CO-OOH>@n(2,90)`//`\`||/\\@n(1)/COOH
+$>
+
+en: (1) 2-carbonoperoxoylbenzoic acid (PIN)  <br>
+(2) 2-(hydroperoxycarbonyl)benzoic acid  <br>
+monoperoxyphthalic acid (see P-65.1.4.1) 
+ru: (1) 2-карбонпероксиилбензойная кислота (PIN) <br>
+(2) 2-(гидропероксикарбонил)бензойная кислота <br>
+монопероксифталевая кислота (см. P-65.1.4.1)
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N^+<_(x1.5,N0)Cl^->@n(1,-150)`/||\//<`|`\\>@n(3,-30,.4)_p6CO-OOH
+$>
+
+en: (1) 3-carbonoperoxoylpyridin-1-ium chloride (PIN)  <br>
+3-(hydroperoxycarbonyl)pyridin-1-ium chloride
+ru: (1) 3-карбонпероксикарбонилпиридин-1-&(ium) хлорид (PIN) <br>
+3-(гидропероксикарбонил)пиридин-1-&(ium) хлорид
+
+@End
+
+//---------------
+
+#P-65.1.5
+en: Chalcogen analogues of carboxylic acids 
+ru: &(Chalcogen analogue|*) карбоновых кислот
+
+#P-65.1.5.1
+en: Functional replacement in systematic names of carboxylic acids
+ru: Функциональная замена в систематических названиях карбоновых кислот
+
+en: Replacement of oxygen atom(s) of a carboxylic acid group by another chalcogen is indicated by the affixes ‘thio’, 
+‘seleno’, and ‘telluro’. These names do not differentiate between tautomeric forms of mixed chalcogen acids; such 
+nonspecificity may be shown in a structure such as: 
+ru: Замена атома(ов) кислорода карбоксильной группы на другой халькоген обозначается аффиксами «тио», «селено» и «теллуро». 
+Эти названия не различают таутомерные формы смешанных халькогеновых кислот; такая неспецифичность может быть 
+продемонстрирована в структуре, подобной:
+
+@Examples -- 3
+
+@cell
+<$ {}-C$padding(.1){{{}<_(y-%h:.6,N0)O><_(y%h,N0)S>}}H $>
+
+@cell
+en: or
+ru: или
+
+@cell
+<$ {}–C{{{O/S}}}H $>
+
+@End
+
+en: In names, tautomeric groups in mixed chalcocarboxylic acids, such as –CO-SH or –CS-OH, –S(O)-SH or –S(S)-OH, 
+are distinguished by prefixing italic element symbols, such as _O_ or _S_, respectively, to the term ‘acid’, for example, 
+thioic _S_-acid for –(C)O-SH and carbothioic _O_-acid for –CS-OH. Normally, these locants are omitted, because the exact 
+position of chalcogen atoms is not known or important in acids; such letter locants are used mainly in naming esters. 
+ru: В названиях таутомерные группы в смешанных халькокарбоновых кислотах, такие как –CO-SH или –CS-OH, –S(O)-SH или 
+–S(S)-OH, различаются путем добавления к термину «кислота» курсивных символов элементов, таких как _O_ или _S_, 
+соответственно, например, тиовая _S_-кислота для –(C)O-SH и карботиовая _O_-кислота для –CS-OH. Обычно эти обозначения 
+опускаются, поскольку точное положение атомов халькогена неизвестно или не имеет значения в кислотах; такие буквенные 
+обозначения используются в основном при наименовании сложных эфиров.
+
+en: When the position of chalcogen atoms is undetermined, the prefix for the unmodified acid, i.e. ‘carboxy’ for –COOH, is 
+used and modified by functional replacement using prefixes, as in ‘thiocarboxy’ for –C{O/S}H, and is enclosed in 
+parentheses to avoid the possibility of ambiguity. The order of seniority of these suffixes is fully described in Section  
+P-43. 
+ru: Когда положение атомов халькогена не определено, используется префикс для немодифицированной кислоты, т.е. «карбокси» 
+для –COOH, который модифицируется путем функциональной замены с использованием префиксов, как в случае «тиокарбокси» 
+для –C{O/S}H, и заключается в скобки, чтобы избежать возможности неоднозначности. Порядок старшинства этих суффиксов 
+подробно описан в разделе P-43.
+
+en: When the position of chalcogen atoms is known, combinations of prefixes such as ‘hydroxy- and sulfanylidene-’ or 
+‘sulfanyl- and oxo-’ are used in acyclic compounds. Compound prefixes such as ‘(hydroxycarbonothioyl)-’ and 
+‘(sulfanylcarbonyl)-’ are used when required as a substituent (see P-65.2.1.6). The compound prefixes are formed by 
+concatenation using simple acyl prefixes derived from carbonic acids (see P-65.2.1.5)
+ru: Когда положение атомов халькогена известно, в ациклических соединениях используются комбинации префиксов, 
+таких как «гидрокси- и сульфанилиден-» или «сульфанил- и оксо-». При необходимости в качестве &(substituent|ro) используются 
+&(compound [prefix]|*) префиксы, такие как «(гидроксикарбонотиоил)-» и «(сульфанилкарбонил)-» (см. P-65.2.1.6). 
+&(Compound [prefix]|*) префиксы образуются путем конкатенации с использованием простых ацильных префиксов, полученных 
+из карбоновых кислот (см. P-65.2.1.5).
+
+en: The seniority order between acids and acids modified by functional replacement is discussed in P-43 and expressed in 
+Table 4.3. In presence of unmodified acids cited as suffix, modified acids are cited as prefixes.
+ru: Порядок приоритета между кислотами и кислотами, модифицированными путем функциональной замены, обсуждается в P-43 
+и представлен в &[таблице 4.3]. При наличии немодифицированных кислот, указанных в качестве суффикса, модифицированные 
+кислоты указаны в качестве префикса.
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-CS-OH $>
+
+en: hexanethioic _O_-acid (PIN) 
+ru: гексан&(thioic [acid]) _O_-кислота (PIN)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-C{{{S/Se}}}H $>
+
+en: hexaneselenothioic acid (PIN) 
+ru: гексанеселено&(thioic acid) (PIN)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-CSe-SH $>
+
+en: hexaneselenothioic _S_-acid (PIN) 
+ru: гексанеселено&(thioic [acid]) _S_-кислота (PIN)
+
+@cell
+<$ H{{{S/O}}}C-CH2-CH2-CH2-CH2-C{{{O/S}}}H $>
+
+en: hexanebis(thioic acid) (PIN) 
+ru: гексанбис(&(thioic acid)) (PIN)
+
+@cell
+<$ HS-SC-CH2-CH2-CH2-CH2-CS-SH $>
+
+en: hexanebis(dithioic acid) (PIN) 
+ru: гексанбис(ди&(thioic acid)) (PIN)
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-C{{{O/Se}}}H $>
+
+en: hexaneselenoic acid (PIN) 
+ru: гексан&(selenoic acid) (PIN)
+
+@cell
+<$ H{{{S/O}}}C-CH2-CH2-C{{{O/S}}}H $>
+
+en: butanebis(thioic acid) (PIN)
+ru: бутанбис(&(thioic acid)) (PIN)
+
+@cell
+<$ N`/`-`\/-\-CS-SH $>
+
+en: piperidine-1-carbodithioic acid (PIN)
+ru: пиперидин-1-карбоди&(thioic acid) (PIN)
+
+@cell
+<$ `/`-`\/-\-C<`||mS>-SeH $>
+
+en: cyclohexanecarboselenothioic _Se_-acid (PIN)
+ru: циклогексанкарбоселено&(thioic [acid]) _Se_-кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C-C`S-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: 4-(ethanethioyl)benzoic acid (PIN)  <br>
+4-(thioacetyl)benzoic acid
+ru: 4-(этантиоил)бензойная кислота (PIN) <br>
+4-(тиоацетил)бензойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H{{{S/O}}}C-CH2@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 5-(thiocarboxy)pentanoic acid (PIN) 
+ru: 5-(тиокарбокси)пентановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CO@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-oxo-4-sulfanylbutanoic acid (PIN)  <br>
+3-(sulfanylcarbonyl)propanoic acid 
+ru: 4-оксо-4-сульфанилбутановая кислота (PIN) <br>
+3-(сульфанилкарбонил)пропановая кислота
+
+@cell
+<$ HO-CS-CH2-CH2-COOH $>
+
+en: 4-hydroxy-4-sulfanylidenebutanoic acid (PIN) 
+ru: 4-гидрокси-4-сульфанилиденбутановая кислота (PIN)
+
+@cell
+<$ HS-CO-COOH $>
+
+en: oxo(sulfanyl)acetic acid (PIN) 
+ru: оксо(сульфанил)уксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C`S-@n(4,-120)/=@n(2,-120)</COOH>\N@n(1,20)`//`-`\\
+$>
+
+en: 4-(hydroxycarbonothioyl)pyridine-2-carboxylic acid (PIN)
+ru: 4-(гидроксикарбонотиоил)пиридин-2-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-C`O-@n(4,-120)/=@n(2,-120)</COOH>\N@n(1,20)`//`-`\\
+$>
+
+en: 4-(sulfanylcarbonyl)pyridine-2-carboxylic acid (PIN)
+ru: 4-(сульфанилкарбонил)пиридин-2-карбоновая кислота (PIN)
+
+@cell
+<$ CH3-CH2-C(=NH)-SH $>
+
+en: propanimidothioic acid (PIN)
+ru: пропанимидо&(thioic acid) (PIN)
+
+@cell
+<$ CH3-CH2-CH2-C(=NNH2)-SeH $>
+
+en: butanehydrazonoselenoic acid (PIN)
+ru: бутангидразоно&(selenoic acid) (PIN)
+
+@cell
+<$ |_q_q<_q_q>-C<`||mN-SH>-OH $>
+
+en: _N_-sulfanylcyclopentanecarboximidic acid (PIN)
+ru: _N_-сульфанилциклопентан&(carboximidic acid) (PIN)
+
+@cell
+<$ `/`-`\/-\-C<-SeH>`||mN-OH $>
+
+en: _N_-hydroxycyclohexanecarboximidoselenoic acid (PIN)
+ru: _N_-гидроксициклогексанкарбоксимидо&(selenoic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-S-C@n(3,90)<`|H2N>==CH@n(2)-CS@n(1)-SH
+$>
+
+en: 3-amino-3-(ethylsulfanyl)prop-2-ene(dithioic acid) (PIN) 
+ru: 3-амино-3-(этилсульфанил)проп-2-ен(ди&(thioic acid)) (PIN)
+
+@End
+
+#P-65.1.5.2
+en: Functional replacement in retained names of carboxylic acids 
+ru: Функциональная замена в &(retained name|pr*) карбоновых кислот
+
+en: Preferred names of chalcogen analogues of monocarboxylic acids are formed using the suffixes ‘thioic acid’, ‘selenoic 
+acid’, ‘telluroic acid’ or ‘carbothioic acid’, ‘carboselenoic acid’, ‘carbotelluroic acid’ and names of appropriate parent 
+hydrides, even in the case of formic acid, acetic acid, and benzoic acid. 
+ru: Предпочтительные названия &(chalcogen analogue|ro*) монокарбоновых кислот образуются с использованием суффиксов 
+«&(thioic acid)», «&(selenoic acid)», «&(telluroic acid)» или «карбо&(thioic acid)», «карбо&(selenoic acid)», 
+«карбо&(telluroic acid)» и названий соответствующих &(parent hydride|ro*), даже в случае муравьиной кислоты, уксусной кислоты 
+и бензойной кислоты.
+
+@p .framed
+en: The use of systematic substitutive names for chalcogen analogues of monocarboxylic acids is a change for formic 
+acid, acetic acid, benzoic acid, oxalic acid, and oxamic acid. 
+ru: Использование систематических &(substitutive name|ro*) для &(chalcogen analogue|ro*) монокарбоновых кислот представляет 
+собой изменение для муравьиной кислоты, уксусной кислоты, бензойной кислоты, щавелевой кислоты и оксаминовой кислоты.
+
+en: Chalcogen analogues of monocarboxylic acids with retained names may also be named by placing the prefix ‘thio’, 
+‘seleno’, or ‘telluro’ in front of the name of the acid. 
+ru: &(Chalcogen analogue|*) кислот с халькогенами, сохранившие свои названия, также могут быть названы путем добавления 
+префикса «тио», «селено» или «теллуро» перед названием кислоты.
+
+en: Chalcogen analogues of dicarboxylic acids are named systematically; retained names are not used for naming chalcogen 
+analogues of dicarboxylic acids. 
+ru: &(Chalcogen analogue|*) дикарбоновых кислот классифицируются систематически; 
+&(retained name|*) не используются для наименования &(chalcogen analogue|ro*) дикарбоновых кислот.
+
+en: The symbols _O_, _S_, _Se_, and _Te_ are used to specify the structure of the acid, as indicated in P-65.1.5.1. 
+ru: Символы _O_, _S_, _Se_ и _Te_ используются для обозначения структуры кислоты, как указано в P-65.1.5.1.
+
+@Examples
+
+@cell
+<$ CH3-CS-OH $>
+
+en: ethanethioic _O_-acid (PIN)  <br>
+thioacetic _O_-acid 
+ru: этан&(thioic [acid]) _O_-кислота (PIN) <br>
+тиоуксусная _O_-кислота
+
+@cell
+<$ C6H5-C{{{O/Se}}}H $>
+
+en: benzenecarboselenoic acid (PIN)  <br>
+selenobenzoic acid 
+ru: бензолкарбо&(selenoic acid) (PIN) <br>
+селенобензойная кислота
+
+@cell
+<$ HCO-SH $>
+
+en: methanethioic _S_-acid (PIN)  <br>
+thioformic _S_-acid 
+ru: метан&(thioic [acid]) _S_-кислота (PIN) <br>
+тиомуравьиная _S_-кислота
+
+@cell
+<$ H2N-CO-CO-C{{{O/S}}}H $>
+
+en: 3-amino-2,3-dioxopropanethioic acid (PIN)
+ru: 3-амино-2,3-диоксопропан&(thioic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H{{{S/O}}}C-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-(thiocarboxy)butanoic acid (PIN)  <br>
+(not thioglutaric acid)
+ru: 4-(тиокарбокси)бутановая кислота (PIN) <br>
+(не тиоглутаровая кислота)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CO@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-oxo-4-sulfanylbutanoic acid (PIN)  <br>
+(not thiosuccinic acid)
+ru: 4-оксо-4-сульфанилбутановая кислота (PIN) <br>
+(не тиоянтарная кислота)
+
+@cell
+<$ H{{{S/O}}}C-COOH $> 
+
+en: (thiocarboxy)formic acid  <br>
+(see P-65.1.8.2) 
+ru: (тиокарбокси)муравьиная кислота <br>
+(см. P-65.1.8.2)
+
+@cell
+<$ HO-CS-COOH $>
+
+en: hydroxy(sulfanylidene)acetic acid (PIN) 
+ru: гидрокси(сульфанилиден)уксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6C{{{O/S}}}H>@n(2,90)`//`\`||/\\@n(1)_q6C{{{O/S}}}H
+$>
+
+en: benzene-1,2-dicarbothioic acid (PIN)  <br>
+(not 1,2-dithiophthalic acid)
+ru: бензол-1,2-дикарбо&(thioic acid) (PIN) <br>
+(не 1,2-дитиофталевая кислота)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6C{{{O/S}}}H>@n(2,90)`//`\`||/\\@n(1)_q6CO-SH
+$>
+
+en: 2-(thiocarboxy)benzene-1-carbothioic _S_-acid (PIN)  <br>
+(not 1,2-dithiophthalic _S_-acid) 
+ru: 2-(тиокарбокси)бензол-1-карбо&(thioic [acid]) _S_-кислота (PIN) <br>
+(не 1,2-дитиофталевая _S_-кислота)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-CO-SeH
+$>
+
+en: 4-(selanylcarbonyl)benzoic acid (PIN)  <br>
+(not selenoterephthalic _Se_-acid) 
+ru: 4-(селанилкарбонил)бензойная кислота (PIN) <br>
+(не селенотерефталевая _Se_-кислота)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6CS-SH>@n(2,90)`//`\`||/\\@n(1,-90)_q6CS-SH
+$>
+
+en: benzene-1,2-dicarbodithioic acid (PIN)  <br>
+(not tetrathiophthalic acid) 
+ru: бензол-1,2-дикарбоди&(thioic acid) (PIN) <br>
+(не тетратиофталевая кислота)
+
+@cell
+<$ HS-CS-CS-SH $>
+
+en: ethanebis(dithioic acid) (PIN)  <br>
+(not tetrathiooxalic acid)
+ru: этанбис(ди&(thioic acid)) (PIN) <br>
+(не тетратиооксалевая кислота)
+
+@End
+
+#P-65.1.5.3
+en: Functional replacement in peroxycarboxylic acids
+ru: Функциональная замена в пероксикарбоновых кислотах
+
+en: Peroxy acid suffixes can be modified by S, Se, and Te using functional replacement nomenclature. Italic prefixes in 
+front of the term ‘acid’ are used for specificity, where necessary (see Table 4.3 for more suffixes modified by functional 
+replacement and their seniority order). Preferred names are all formed by using appropriate suffixes and parent 
+hydrides, even in the case of derivatives of formic acid, acetic acid, and benzoic acid. 
+ru: Суффиксы пероксикислот могут быть изменены на S, Se и Te с использованием &(functional replacement nomenclature|ro). 
+Курсивные префиксы перед термином «кислота» используются для специфичности, где это необходимо (см. &[Таблицу 4.3] для 
+получения дополнительной информации о суффиксах, измененных функциональным замещением, и порядке их приоритета). 
+Предпочтительные названия образуются с использованием соответствующих суффиксов и &(parent hydride|ro*), даже в случае 
+производных муравьиной кислоты, уксусной кислоты и бензойной кислоты.
+
+@p .framed
+en: The use of systematic substitutive names for chalcogen analogues of peroxycarboxylic acids is a change for formic 
+acid, acetic acid, benzoic acid, and oxalic acid. 
+ru: Использование систематических &(substitutive name|ro*) для &(chalcogen analogue|ro*) пероксикарбоновых кислот 
+представляет собой изменение для муравьиной кислоты, уксусной кислоты, бензойной кислоты и щавелевой кислоты.
+
+@Examples .left-aligned-cells
+
+@cell
+en: <%a%> (thioperoxoic) _OS_-acid (preferred suffix)  
+ru: <%a%> (тиопероксоевая) _OS_-кислота (&(preferred suffix))
+%a: –(C)O-OSH
+
+@cell
+en: <%a%> (dithioperoxo)selenoic acid (preferred suffix)
+ru: <%a%> (дитиопероксо)&(selenoic acid) (&(preferred suffix))
+%a: –(C)Se-SSH
+
+@cell
+en: <%a%> carbo(thioperoxoic) _SO_-acid (preferred suffix)
+ru: <%a%> карбо(тиопероксоевая) _SO_-кислота (&(preferred suffix))  
+%a: –CO-SOH
+
+@cell
+en: <%a%> carboperoxothioic acid (preferred suffix)  
+ru: <%a%> карбопероксотиовая кислота (&(preferred suffix))
+%a: –CS-OOH
+
+@cell
+en: <%a%> dithiocarboperoxoic acid (preferred suffix; location of sulfur atom unknown) 
+ru: <%a%> дитиокарбопероксоевая кислота (&(preferred suffix); местоположение атома серы неизвестно)
+%a: <$ {}–COS2H $>
+
+@End
+
+en: The recommended suffixes, and their seniority order, are fully discussed in Section P-43.
+ru: Рекомендуемые суффиксы и порядок их приоритета подробно обсуждаются в разделе P-43.
+
+@Examples
+
+@cell
+<$ CH3-CO-OSH $>
+
+en: ethane(thioperoxoic) _OS_-acid (PIN)  <br>
+(not peroxythioacetic _OS_-acid) 
+ru: этан(тиопероксоевая) _OS_-кислота (PIN) <br>
+(не перокситиоуксусная _OS_-кислота)
+
+@cell
+<$ C6H5-CO-SOH $>
+
+en: benzenecarbo(thioperoxoic) _SO_-acid (PIN)  <br>
+(not peroxothiobenzoic _SO_-acid)
+ru: бензолкарбо(тиопероксоевая) _SO_-кислота (PIN) <br>
+(не пероксотиобензоевая _SO_-кислота)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||/\\<|>/@n(1,-90)\\@n(2,30)_q6CS-OOH
+$>
+
+en: naphthalene-2-carboperoxothioic acid (PIN)  <br>
+(not peroxythio-2-naphthoic acid)
+ru: нафталин-2-карбопероксо&(thioic acid) (PIN) <br>
+(не перокситио-2-нафтиевая кислота)
+
+@End
+
+en: Compound prefixes, such as ‘sulfanyloxy’ and ‘oxo’ and ‘hydroxysulfanyl’ and ‘sulfanylidene’ at the end of acyclic 
+chains are used to generate preferred IUPAC names. Appropriate prefixes constructed by concatenation based on simple 
+acyl groups derived from carbonic and related acids (see P-65.2.1.5) are also used in preferred IUPAC names. Letter 
+locants such as ‘_SO_’ and ‘_OS_’ are required to specify structures of thioperoxy groups (see also P-63.4.2.2). 
+ru: Для формирования предпочтительных названий по номенклатуре IUPAC используются &(compound [prefix]|*) префиксы, 
+такие как «сульфанилокси» и «оксо», а также «гидроксисульфанил» и «сульфанилиден» в конце ациклических цепей. 
+В предпочтительных названиях по номенклатуре IUPAC также используются соответствующие префиксы, построенные путем 
+конкатенации на основе простых ацильных групп, полученных из угольной и родственных кислот (см. P-65.2.1.5). Для указания 
+структур тиопероксигрупп необходимы буквенные локанты, такие как «_SO_» и «_OS_» (см. также P-63.4.2.2).
+
+en: Prefixes derived by functional replacement nomenclature have only limited use because there is no accepted method to 
+unambiguously describe precise structures of thioperoxy groups. 
+ru: Префиксы, полученные с помощью &(functional replacement nomenclature|ro), имеют лишь ограниченное применение, 
+поскольку не существует общепринятого метода для однозначного описания точных структур тиопероксидных групп.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-O-CS@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-sulfanylidene-4-(sulfanyloxy)butanoic acid (PIN)  <br>
+3-[(_SO_-thiohydroperoxy)carbonothioyl]propanoic acid (see P-63.4.2.2)  <br>
+[not 3-carbono(thioperoxo)thioylpropanoic acid; ambiguous name] 
+ru: 4-сульфанилиден-4-(сульфанилокси)бутановая кислота (PIN) <br>
+3-[(_SO_-тиогидроперокси)карбонотиоил]пропановая кислота (см. P-63.4.2.2) <br>
+[не 3-карбоно(тиопероксо)тиоилпропановая кислота; неоднозначное название]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOS2C@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(dithiocarbonoperoxoyl)propanoic acid (PIN)  <br>
+(location of sulfur atoms unknown) 
+ru: 3-(дитиокарбонпероксоил)пропановая кислота (PIN) <br>
+(расположение атомов серы неизвестно)
+
+@cell
+<$ HOS2C-COOH $>
+
+en: (dithiocarbonoperoxoyl)formic acid (PIN)  <br>
+(location of sulfur atoms unkown) 
+ru: (дитиокарбонпероксил)муравьиная кислота (PIN) <br>
+(расположение атомов серы неизвестно)
+
+@cell
+<$ HOS-CO-COOH $>
+
+en: (hydroxysulfanyl)oxoacetic acid (PIN)
+ru: (гидроксисульфанил)оксоуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOS-C`O-@n(4,-120)/-\<`/`-`\>@n(1,-60)-COOH
+$>
+
+en: 4-[(hydroxysulfanyl)carbonyl]cyclohexanecarboxylic acid (PIN)  <br>
+4-[(_OS_-thiohydroperoxy)carbonyl]cyclohexanecarboxylic acid 
+ru: 4-[(гидроксисульфанил)карбонил]циклогексанкарбоновая кислота (PIN) <br>
+4-[(_OS_-тиогидроперокси)карбонил]циклогексанкарбоновая кислота
+
+@End
+
+//---------------
+
+#P-65.1.6
+en: Amic, anilic, and aldehydic acids 
+ru: Аминная, анилиновая и альдегидная кислоты
+
+//---------------
+
+#P-65.1.7
+en: Acyl groups derived from carboxylic and related acids  
+ru: Ацильные группы, полученные из карбоновых и родственных кислот
+
+//---------------
+
+#P-65.1.8
+en: Formic acid
+ru: Муравьиная кислота 
+
+
+#P-65.2
+en: Carbonic, cyanic, and di- and polycarbonic acids 
+ru: Угольная, циановая, ди- и полиугольные кислоты
+
+#P-65.3
+en: Sulfur, selenium, and tellurium acids with chalcogen atoms directly linked to a parent hydride 
+ru: Серные, селеновые и теллуровые кислоты, в которых атомы халькогена непосредственно связаны с &(parent hydride|tv)
+
+#P-65.4
+en: Acyl groups as substituent groups 
+ru: Ацильные группы как &(substituent group|*)
+
+#P-65.5
+en: Acyl halides and pseudohalides 
+ru: Ацилгалогениды и псевдогалогениды
+
+
+#P-65.6
+en: Salts and esters 
+ru: Соли и сложные эфиры
+
+#P-65.7
+en: Anhydrides and their analogues 
+ru: Ангидриды и их аналоги
+
+
+
+
+
+
+
+
+
+#P-66
+en: Amides, imides, hydrazides, nitriles, and aldehydes 
+ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

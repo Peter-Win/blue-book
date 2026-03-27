@@ -98,12 +98,20 @@
   "bridging nomenclature": "мостиковая номенклатура",
 
   "carbohydroxamic acid": "карбогидроксамовая кислота",
+  "carbohydroxamic [acid]": "карбогидроксамовая",
   "carbohydroximic acid": "карбогидроксимовая кислота",
+  "carbohydroximic acid|*": "карбогидроксимовые кислоты",
+  "carbohydroximic [acid]": "карбогидроксимовая",
+
+  "carboximidic [acid]": "карбоксимидная",
+  "carboximidic acid": "карбоксимидная кислота",
+  "carboximidic acid|*": "карбоксимидные кислоты",
 
   "chalcogen analogue": "халькогеновый аналог",
   "chalcogen analogue|ro": "халькогенового аналога",
   "chalcogen analogue|*": "халькогеновые аналоги",
   "chalcogen analogue|ro*": "халькогеновых аналогов",
+  "chalcogen analogue|tv*": "халькогеновыми аналогами",
 
   "characteristic [group]": "характеристическая",
   "characteristic [group]|*": "характеристические",
@@ -250,6 +258,8 @@
 
   "functional replacement nomenclature": "номенклатура функционального замещения",
   "functional replacement nomenclature|ro": "номенклатуры функционального замещения",
+
+  "functional replacement prefix": "префикс функционального замещения",
   
   "functional suffix": "функциональный суффикс",
   "functional suffix|*": "функциональные суффиксы",
@@ -330,6 +340,7 @@
   "hydrazonic acid|*": "гидразоновые кислоты",
 
   "hydroxamic acid": "гидроксамовая кислота",
+  "hydroxamic acid|*": "гидроксамовые кислоты",
   "hydroximic acid": "гидроксимовая кислота",
 
   "icos": "эйкоз",
@@ -361,9 +372,10 @@
   "interparent component|da*": "промежуточным компонентам",
   "interparent component|tv*": "промежуточными компонентами",
 
-  "imidic acid": "имидовая кислота",
-  "imidic acid|*": "имидовые кислоты",
-  "imidic acid|ro*": "имидовых кислот",
+  "imidic acid": "имидная кислота",
+  "imidic acid|ro": "имидной кислоты",
+  "imidic acid|*": "имидные кислоты",
+  "imidic acid|ro*": "имидных кислот",
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
@@ -583,7 +595,10 @@
   "phane system|ro*": "фановых систем",
   "phane system|da*": "фановым системам",
 
+  "polycarbonic acid|*": "полиугольные кислоты",
+
   "preferred prefix": "предпочтительный префикс",
+  "preferred suffix": "предпочтительный суффикс",
 
   "preselected name": "предварительно выбранное название",
 
@@ -607,6 +622,7 @@
   "retained name|ro*": "сохранённых названий",
   "retained name|da*": "сохранённым названиям",
   "retained name|tv*": "сохранёнными названиями",
+  "retained name|pr*": "сохранённых названиях",
 
   "[ring] assembly|comment": "часто имеет прилагательные, которые сейчас в женском роде. Если изменить на 'ансамбль', то нужно исправлять",
   "[ring] assembly": "сборка",
