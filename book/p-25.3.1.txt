@@ -1,0 +1,2768 @@
+#P-25.3
+en: Constructing fusion names 
+ru: Создание имён слияния
+
+@Content
+
+#P-25.3.1
+en: Definitions, terminology, and general principles 
+ru: Определения, терминология и общие принципы
+
+#P-25.3.1.1
+en: Definitions 
+ru: Определения
+
+#P-25.3.1.1.1+
+en: _ortho_-Fused. Two rings that have only two atoms and one bond in common are said to be _ortho_-fused 
+ru: _орто_-слитые. Два кольца, которые имеют только два атома и одну общую связь, называются _орто_-слитыми
+
+@Examples
+
+@cell
+<$ 
+`//`\`||/\\|\//`|`\\`/ 
+$>
+
+en: The two benzene rings of the naphthalene skeletal ring system are _ortho_-fused. 
+ru: Два бензольных кольца скелетной кольцевой системы нафталина _орто_-конденсированы.
+
+@End
+
+#P-25.3.1.1.2+
+en: _ortho_- and _peri_-Fused. In a polycyclic compound a ring _ortho_-fused to different sides of two other rings 
+that are themselves _ortho_-fused together (i.e. there are three common atoms between the first ring and the other two) is 
+said to be _ortho_- and _peri_-fused to the other two rings. 
+ru: _орто_- и _пери_-конденсированные. В полициклическом соединении кольцо, _орто_-конденсированное с разными 
+сторонами двух других колец, которые сами _орто_-конденсированы вместе (т. е. между первым кольцом и двумя другими есть 
+три общих атома), называется _орто_- и _пери_-конденсированным с двумя другими кольцами.
+
+@Examples
+
+@cell
+<$
+`|`\\`/|\r|`//`\`||/\/\\|`//`\
+$>
+
+en: The phenalene skeleton is composed of three benzene rings,  <br>
+each _ortho_- and _peri_-fused to the other two 
+ru: Скелет феналена состоит из трех бензольных колец, <br>
+каждое _орто_- и _пери_-конденсировано с двумя другими
+// Ошибка в оригинале. Нет вещества phenylene. Есть Phenalene
+// http://charchem.org/ru/subst-ref/?id=716
+
+@End
+
+#P-25.3.1.1.3+
+en: Fusion atom. Any atom of a fused ring system that is common to two or more rings.
+ru: Атом слияния. Любой атом конденсированной кольцевой системы, который является общим для двух или более колец.
+
+#P-25.3.1.1.4+
+en: Peripheral atom. Any atom that forms part of the outer perimeter of a fused ring system. 
+ru: Периферийный атом. Любой атом, который образует часть внешнего периметра конденсированной кольцевой системы.
+
+#P-25.3.1.1.5+
+en: Interior atom. Any fusion atom that is not peripheral. 
+ru: Внутренний атом. Любой атом слияния, который не является периферийным.
+
+#P-25.3.1.2
+en: Terminology
+ru: Терминология
+
+#P-25.3.1.2.1+
+en: Components of a fused ring system. Fusion components are mancude or ring systems that can be named 
+without the application of any fusion nomenclature principles. Fused ring systems that do not have such a name are 
+named by joining together the names of appropriately selected fusion components.
+ru: Компоненты системы слитых колец. Компоненты слияния — это манкудные или кольцевые системы, которые могут быть 
+названы без применения каких-либо принципов номенклатуры слияния. Системы слитых колец, не имеющие такого названия, 
+называются путем объединения названий соответствующим образом выбранных компонентов слияния.
+
+#P-25.3.1.2.2+
+en: Parent component. The parent component according to the terminology of the 1998 recommendations (ref. 
+4) (referred to as base component in the 1979 publication, ref. 1; and principal component in the 1993 
+Recommendations, ref. 2) is the one with highest seniority according to the criteria given in P-25.3.2.4. A parent 
+component may be mono- or polycyclic, but it must be a mancude ring or ring system. Its name is never modified and is 
+cited last in the name of the fused system. 
+ru: Исходный компонент. Исходный компонент в соответствии с терминологией рекомендаций 1998 г. (ссылка 4) (называемый 
+базовым компонентом в публикации 1979 г., ссылка 1; и главным компонентом в Рекомендациях 1993 г., ссылка 2) — это компонент 
+с наивысшим старшинством в соответствии с критериями, приведенными в P-25.3.2.4. Исходный компонент может быть моно- или 
+полициклическим, но он должен быть кольцом mancude или кольцевой системой. Его название никогда не изменяется и приводится 
+последним в названии конденсированной системы.
+
+#P-25.3.1.2.3
+en: Attached component 
+ru: Прикрепленный компонент
+
+en: The components of a fused ring system not included in the parent component are called attached components. The 
+attached components are called first-order, second-order, etc. attached components when they correspond to the first, 
+second, etc. attached component reached when moving away from the parent component across fusion sites. An 
+attached component may be mono- or polycyclic, but it must be a mancude ring or ring system. Fusion sites are bold 
+lines in the following examples. 
+ru: Компоненты конденсированной кольцевой системы, не входящие в исходный компонент, называются прикреплёнными компонентами. 
+Прикрепленные компоненты называются присоединенными компонентами первого, второго порядка и т. д., когда они соответствуют 
+первому, второму и т. д. присоединенному компоненту, достигнутому при удалении от родительского компонента через сайты 
+слияния. Прикрепленный компонент может быть моно- или полициклическим, но он должен быть манкуде-кольцом или кольцевой 
+системой. В следующих примерах места слияния обозначены жирными линиями.
+
+@Examples
+
+@cell
+<$
+|`//`\`||/N\\/\\_(A90,w2)<`//`\>_q7_qq7_q7_(P-7,w2)<_qq7_q7>_p6O_p6_pp6_p6_pp6
+$>
+
+@End
+
+en: **Explanation**: The bicyclic component at the left end of the above structure is the parent component, the seven
+membered ring fused to the parent component is the first-order attached component; the six-membered ring fused to the 
+first-order attached component is the second-order attached component. 
+ru: **Пояснение**: Бициклический компонент на левом конце приведенной выше структуры является исходным компонентом, 
+семичленное кольцо, слитое с исходным компонентом, является прикреплённым компонентом первого порядка; 
+шестичленное кольцо, слитое с прикреплённым компонентом первого порядка, является прикреплённым компонентом второго порядка.
+
+#P-25.3.1.2.4+
+en: Interparent components. In a system that consists of two (or more) parent components _ortho_- or _ortho_- and 
+_peri_-fused to the same attached component, the latter is called an interparent component. Likewise, if two (or more) 
+parent components are fused to three or more appropriately attached components, there will be two first- order 
+interparent components and a second-order interparent component. Fourth-, fifth-, etc. order components may be 
+present in more complex systems. 
+ru: Промежуточные компоненты. В системе, состоящей из двух (или более) исходных компонентов, _орто_- или _орто_- и 
+_пери_-слитых с одним и тем же прикреплённым компонентом, последний называется промежуточным компонентом. Аналогично, 
+если два (или более) исходных компонента слиты с тремя или более надлежащим образом прикреплёнными компонентами, то будет 
+два промежуточных компонента первого порядка и промежуточный компонент второго порядка. Компоненты четвертого, пятого 
+и т. д. порядка могут присутствовать в более сложных системах.
+
+@Examples
+
+@cell
+<$
+_(A90,w2)_pp7_p7_pp7N_p7_pp7_p7=_(A90,w2)<`->\\/_(A-90,w2)<`\\`/>-_(A90,w2)<`=>_q7_qq7_q7N_qq7_q7_qq7
+$>
+
+@End
+
+en: **Explanation**: The two seven-membered rings are the parent components; the two four-membered rings are the first 
+order interparent components; the six-membered ring is the second-order interparent component. 
+ru: **Пояснение**: Два семичленных кольца являются исходными компонентами; два четырехчленных кольца являются промежуточными 
+компонентами первого порядка; шестичленное кольцо является промежуточным компонентом второго порядка.
+
+#P-25.3.1.3
+en: General principles
+ru: Общие принципы
+
+en: ‘_ortho_-Fused’ or ‘_ortho_- and _peri_-fused’ polycyclic ring systems with the maximum number of noncumulative double 
+bonds (mancude) that have no accepted retained or systematic name described in sections P-25.1 and P-25.2 are named 
+by prefixing to the name of a component ring or ring system (the parent component) designations of the other 
+component(s) (attached components). For fused ring systems in preferred IUPAC names, see P-52.2.4. 
+ru: «_орто_-слитые» или «_орто_- и _пери_-слитые» полициклические кольцевые системы с максимальным числом некумулятивных 
+двойных связей (mancude), которые не имеют принятого сохраненного или систематического названия, описанного 
+в разделах P-25.1 и P-25.2, называются путем добавления префикса к названию компонента кольца или кольцевой системы 
+(исходного компонента) обозначений других компонентов (прикреплённых компонентов). Для конденсированных кольцевых систем 
+в предпочтительных названиях ИЮПАК см. P-52.2.4.
+
+en: The parent component is selected by applying criteria of seniority as described in P-25.3.2.4 below. In a fusion name, 
+the name of the parent component is that of the component itself. The names of attached components are formed by 
+replacing the last letter ‘e’ by ‘o’ in the name of the component, i.e., indeno from indene (or by adding the letter ‘o’ 
+when no final letter ‘e’ is present, i.e., pyrano from pyran) or by other means described in P-25.3.2.2 below. There is no 
+elision of the final letter ‘o’ or ‘a’ before a vowel (see Rule FR-4.7, ref. 4). 
+ru: Исходный компонент выбирается путем применения критериев старшинства, как описано в P-25.3.2.4 ниже. В имени слияния 
+имя исходного компонента является именем самого компонента. Имена прикреплённых компонентов образуются путем замены 
+последней буквы «e» на «o» в имени компонента, т. е. indeno из indene (или путем добавления буквы «o», когда конечная 
+буква «e» отсутствует, т. е. pyrano из pyran) или другими способами, описанными в P-25.3.2.2 ниже. Не допускается 
+выпадение конечной буквы «o» или «a» перед гласной (см. Правило FR-4.7, ссылка 4).
+
+en: Locants that describe structural features of components, such as positions of heteroatoms, are kept with the name of the 
+component and are enclosed within square brackets. 
+ru: Локанты, описывающие структурные особенности компонентов, такие как положения гетероатомов, сохраняются вместе с 
+названием компонента и заключаются в квадратные скобки.
+
+en: **Note**: In preferred IUPAC names the elision of the final letter ‘o’ of ‘acenaphtho’, ‘benzo’, ‘naphtho’ and ‘perylo’ and 
+the final letter ‘a’ of the monocyclic prefixes ‘cyclopropa’, ‘cyclobuta’, etc. is not recommended as indicated in FR-4.7 
+of the 1998 publication, ref. 4; hence, ‘benzo[_g_]isoquinoline’ rather than ‘benz[_g_]isoquinoline’. However this elision as 
+recommended in the 1979 recommendations (Rule A-21.4, ref. 1) may be continued in general nomenclature. 
+ru: **Примечание**: В предпочтительных названиях ИЮПАК исключение последней буквы «о» в «аценафто», «бензо», «нафто» и 
+«перило» и последней буквы «а» моноциклических префиксов «циклопропа», «циклобута» и т. д. не рекомендуется, как указано 
+в FR-4.7 публикации 1998 г., ссылка 4; следовательно, «бензо[_g_]изохинолин» вместо «бенз[_g_]изохинолин». 
+Однако это исключение, рекомендованное в рекомендациях 1979 г. (Правило A-21.4, ссылка 1), может быть продолжено 
+в общей номенклатуре.
+
+en: Isomers are distinguished by lettering, continuously, each peripheral side of the parent component (including sides 
+whose locants are distinguished by letters, for example, 2a,3a) using the italic letters _a_, _b_, _c_, etc., beginning with _a_ for 
+the side numbered ‘1,2’, _b_ for ‘2,3’ etc.. To the letter as early in the alphabet as possible that denotes the side where the 
+fusion occurs are prefixed, if necessary, the numbers of the positions of attachment of the other component. These 
+numbers are chosen to be as low as is consistent with the numbering of the compound and their order conforms to the 
+direction of lettering of the parent component. In this document these letters and numbers are placed within the 
+structure of the ring or ring system. 
+ru: Изомеры различаются буквенным обозначением, непрерывно, каждой периферийной стороны исходного компонента 
+(включая стороны, локанты которых обозначены буквами, например, 2a,3a) с использованием курсивных букв _a_, _b_, _c_ и т. д., 
+начиная с _a_ для стороны с номером «1,2», _b_ для «2,3» и т. д. Букве, расположенной как можно раньше в алфавите и 
+обозначающей сторону, где происходит слияние, при необходимости приписываются номера позиций присоединения другого компонента. 
+Эти номера выбираются настолько низкими, насколько это согласуется с нумерацией соединения, а их порядок соответствует 
+направлению буквенного обозначения родительского компонента. В этом документе эти буквы и цифры помещаются в структуру 
+кольца или кольцевой системы.
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_p7@n(d,-70,.8)_pp7@n(e,-30,.8)_p7@n(f,40,.6)_pp7@n(g,80,.6)_p7@n(h,120,.6)_pp7@n(i,180,.7)>_qq@n(c,-120,.8)_q@n(b,155,.6)_qq@n(a,100,.6)<_q@n(j,10,.5)>#
+<_(a54,L.8,N0){}_m(x%h:1.7,y%v:0.6)_m(y2.2)_(x-%h,y%v,>){}_(y.5,x-2,N0){}"`direction of lettering`">#
+_(x2.8,y-.7,N0):n1$slope(60)@n(1,180)\\@n(2,120)-@n(3,60)//@n(4)`\@n(4a,0,.6)//@n(5,0)`\@n(6,-60)`=@n(7,-120)`/@n(8,180)\\<->@n(8a,180,.6)`/#
+_(x-1,y-.5,N0){}_m(x-.3,y%c:1.3)_m(x.6,y%c)_(x1.4,>){}_(x-1.4,y.5,N0){}"`direction of numbering`"
+$>
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_p7_pp7_p7_pp7_p7_pp7>_qq_q_qqr@n(a,100,.6)<_q>@n(1,-20,.5)_p6_p6r_q6_qq6_q6_qq6_q6_q6_p6_pp6_p6@n(2,-50,.5)
+$>
+
+@cell
+en: azulene (PIN) + naphthalene (PIN) <br>
+(parent component) (attached component)
+ru: азулен (PIN) + нафталин (PIN) <br>
+(исходный компонент) (прикреплённый компонент)
+
+@cell
+
+@cell
+en: naphtho[1,2-_a_]azulene (PIN) 
+ru: нафто[1,2-_a_]азулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_p7@n(d,-70,.8)_pp7@n(e,-30,.8)_p7@n(f,40,.6)_pp7@n(g,80,.6)_p7@n(h,120,.6)_pp7@n(i,180,.7)>_qq@n(c,-120,.8)_q@n(b,155,.6)_qq@n(a,100,.6)<_q@n(j,10,.5)>#
+<_(a54,L.8,N0){}_m(x%h:1.7,y%v:0.6)_m(y2.2)_(x-%h,y%v,>){}_(y.5,x-2,N0){}"`direction of lettering`">#
+_(x3.1,y-.6,N0)@n(1,90)`\\@n(2,150)`|@n(3,-150)//@n(4,-90)\|\@n(8,90)//@n(7,30)`|@n(6,-30)`\\@n(5,-90)`/@n(4a,-90,.6)|@n(8a,90,.6)`/_(y1.1,N0){}<_m(x-1.2)_m(x-.9,y-1.2)_(y-1.2,>)>"`direction of numbering`"
+$>
+
+@cell
+-->
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_p7_pp7_p7_pp7_p7_pp7>_qq_q_qqr@n(a,90,.6)<_q>@n(2,-20,.5)_p6_pp6_p6_p6r_q6_qq6_q6_qq6_q6_q6_p6@n(1,-55,.5)
+$>
+// Ошибка в оригинале. Перепутаны местами локанты 1 и 2.
+
+@cell
+en: azulene (PIN) + naphthalene (PIN) <br>
+(parent component) (attached component)
+ru: азулен (PIN) + нафталин (PIN) <br>
+(исходный компонент) (прикреплённый компонент)
+
+@cell
+
+@cell
+en: naphtho[2,1-a]azulene (PIN)  
+ru: нафто[2,1-_a_]азулен (PIN)
+
+@End
+
+en: The numbers and letters, separated by commas when required, are enclosed in square brackets and placed immediately 
+after the designation of the attached component; there is no space or hyphen either preceding or following the brackets. 
+Hyphens separate the two parts of a fusion descriptor, i.e., numbers and italicized letters. This expression merely 
+defines the manner of fusion of the components. Indicated hydrogen atoms are added to the names, as required, using 
+locants characterizing the fused system. 
+ru: Цифры и буквы, разделенные запятыми, когда это необходимо, заключаются в квадратные скобки и располагаются сразу 
+после обозначения присоединенного компонента; пробел или дефис не допускаются ни до, ни после скобок.
+Дефисы разделяют две части дескриптора слияния, т. е. цифры и выделенные курсивом буквы. Это выражение просто определяет 
+способ слияния компонентов. Указанные атомы водорода добавляются к названиям по мере необходимости с использованием 
+локантов, характеризующих слитую систему.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y1.2)_q@n(3,90)_qq_qSe@n(1,-90,.6)_q@n(a,10,.7)_q@n(b,-50,.7)@n(3,-140)_p@n(4,90)_pp_pSe@n(6,-90,.6)@n(1,90,.6)_p@n(2,140)
+$>
+
+en: selenopheno[2,3-_b_]selenophene (PIN)
+ru: селенофено[2,3-_b_]селенофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y1.3)_q@n(3,90)_qq_qSe@n(1,-90,.6)_q@n(a,10,.7)_qo@n(b,-65,.7)@n(4,-140,.55)_pp@n(4,90)_pSe@n(5,180,.6)@n(1,0,.6)_p@n(2,80,.6)_pp@n(3,140,.55)
+$>
+
+en: selenopheno[3,4-_b_]selenophene (PIN)
+ru: селенофено[3,4-_b_]селенофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y1.3)_q@n(3,90)_qq_qSe@n(1,-90,.6)_q@n(a,10,.7)_q@n(b,-50,.7)@n(2,-150,.5)_pSe@n(1,-80,.6)_p_pp@n(6,-80)_p@n(3,150,.5)
+$>
+
+en: selenopheno[3,2-_b_]selenophene (PIN) 
+ru: селенофено[3,2-_b_]селенофен (PIN)
+
+@End
+
+en: _ortho_- and _peri_-Fused ring systems require a fusion descriptor that indicates all fused bonds. All letters referring to the 
+parent component are cited, but only locants of the nonfused atoms of the attached component are indicated. Letters are 
+not separated by commas in the fusion descriptor. 
+ru: _ortho_- и _peri_-Конденсированные кольцевые системы требуют дескриптора слияния, который указывает все конденсированные 
+связи. Все буквы, относящиеся к родительскому компоненту, цитируются, но указываются только локанты неконденсированных 
+атомов присоединенного компонента. Буквы не разделяются запятыми в дескрипторе слияния.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)N@n(1,-20,.5)\@n(2,-90,.5)@n(e,180,.7)/@n(3,-160,.5)_(a-81.4707)`-_(a-68.5292)`/|r`/`\\`|//\|\/`|r|\//`|`\\@n(d,120,.7)
+$>
+
+en: 6_H_-pyrrolo[3,2,1-_de_]acridine
+ru: 6_H_-пирроло[3,2,1-_de_]акридин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$color(gray)`|$color()@n(1,-90,.5)/@n(n,125,.7)`|/\\|`//@n(8,-100,.6)`\`|`\`//|@n(2,-40,.5)\`\@n(m,70,.7)`/`\`//|\\/`|r|\N//\//@n(b,-115,.7)`|@n(a,-175,.7);
+#1_(x-1.4,y-1.2,N0)_m(x.7,y2.2)_m(x1.3,y-3)_(x.7,y1.7,>)
+$>
+
+en: naphtho[2,1,8-_mna_]acridine
+ru: нафто[2,1,8-_mna_]акридин
+
+@End
+
+#P-25.3.2
+en: Constructing two-component fusion names 
+ru: Построение двухкомпонентных слитных имен
+
+en: A component may be monocyclic or polycyclic. Systematic construction proceeds stepwise as follows. 
+ru: Компонент может быть моноциклическим или полициклическим. 
+Систематическое построение осуществляется поэтапно следующим образом.
+
+@Content
+
+#P-25.3.2.1
+en: Selecting and naming parent components for fusion nomenclature 
+ru: Выбор и наименование исходных компонентов для номенклатуры fusion
+
+#P-25.3.2.1.1+
+en: Monocyclic hydrocarbons (annulenes).
+ru: Моноциклические углеводороды (аннулены).
+
+en: Monocyclic parent components are named as [_n_]annulenes where n represent the number of carbon atoms. The series 
+starts at _n_ = 7, because the retained name ‘benzene’ is preferred for _n_ = 6. The use of the name ‘annulene’ in fusion 
+nomenclature was recommended in the 1993 Guide (see R-2.3.1.2, ref. 2) to obviate the potential ambiguity of using 
+contracted traditional names, such as cycloheptene to denote 1,3,5-cycloheptatriene. 
+ru: Моноциклические исходные компоненты называются как [_n_]аннулены, где n представляет число атомов углерода. 
+Серия начинается с _n_ = 7, поскольку сохраненное название «бензол» предпочтительнее для _n_ = 6. 
+Использование названия «аннулен» в номенклатуре синтеза было рекомендовано в Руководстве 1993 года (см. R-2.3.1.2, ссылка 2), 
+чтобы избежать потенциальной двусмысленности использования сокращенных традиционных названий, таких как циклогептен 
+для обозначения 1,3,5-циклогептатриена.
+
+@Examples
+
+@cell
+<$ =_q7_qq7_q7_q7_qq7_q7 $>
+
+en: 1_H_-[7]annulene  <br>
+(no longer cycloheptene as fusion component)  <br>
+cyclohepta-1,3,5-triene (PIN) 
+ru: 1_H_-[7]аннулен <br>
+(больше не циклогептен как компонент слияния) <br>
+циклогепта-1,3,5-триен (PIN)
+
+@cell
+<$ `/`\\`|//\//\||`/`\\ $>
+
+en: [10]annulene  <br>
+(no longer cyclodecene as fusion component)  <br>
+cyclodeca-1,3,5,7,9-pentaene (PIN)
+ru: [10]аннулен <br>
+(больше не циклодецен как компонент слияния) <br>
+циклодека-1,3,5,7,9-пентаен (PIN)
+
+@End
+
+#P-25.3.2.1.2+
+en: Heteromonocycles
+ru: Гетеромоноциклы
+
+en: The retained names given in Table 2.2, except for ‘isothiazole’, ‘isoxazole’, ‘thiazole’, and ‘oxazole’, and Hantzsch
+Widman names for unsaturated heteromonocycles (see P-22.2.2) are used as parent components in fusion nomenclature. 
+The names ‘isothiazole’, ‘isoxazole’, ‘thiazole’, and ‘oxazole’, although permitted in general nomenclature, are not 
+recommended for the names of components in preferred IUPAC fusion names. The Hantzsch-Widman names  
+1,2-thiazole, 1,2-oxazole, 1,3- thiazole, and 1,3-oxazole, respectively, must be used; the locants are enclosed in square 
+brackets in the completed fusion name. 
+ru: Сохраненные названия, приведенные в &[Таблице 2.2], за исключением «изотиазол», «изоксазол», «тиазол» и «оксазол», 
+а также названия Ганча-Видмана для ненасыщенных гетеромоноциклов (см. P-22.2.2) используются в качестве исходных 
+компонентов в номенклатуре слияния.
+Названия «изотиазол», «изоксазол», «тиазол» и «оксазол», хотя и разрешены в общей номенклатуре, не рекомендуются для 
+названий компонентов в предпочтительных названиях слияния ИЮПАК. Необходимо использовать названия Ганча-Видмана 
+1,2-тиазол, 1,2-оксазол, 1,3-тиазол и 1,3-оксазол соответственно; локанты заключаются в квадратные скобки в завершенном 
+названии слияния.
+
+en: Heteromonocycles having more than ten members and the maximum number of noncumulative double bonds whose 
+names are denoted by the ‘ine’ ending described in P-25.2.2.1.2 are used as parent components in preferred IUPAC 
+fusion names. 
+ru: Гетеромоноциклы, имеющие более десяти членов и максимальное число некумулятивных двойных связей, названия которых 
+обозначены окончанием «ine», описанным в P-25.2.2.1.2, используются в качестве исходных компонентов в предпочтительных 
+названиях слияний ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)O@n(1,-90,.6)\@n(2,-90,.5)//@n(3,-90)\@n(4,-30)||@n(5,30)`/@n(6,90)`\\@n(7,90,.5)`/O@n(8,90,.6)`\@n(9,90,.5)`//@n(10,90)`\@n(11,90,.6)`//@n(12,90)`\@n(13,150,.5)`||@n(14,-150,.5)/@n(15,-90)\\@n(16,-90,.5)/@n(17,-90)\\@n(18,-90,.6)/
+$>
+
+en: 1,8-dioxacyclooctadecine  <br>
+1,8-dioxacyclooctadeca-2,4,6,9,11,13,15,17-octaene (PIN)
+ru: 1,8-диоксациклооктадецин <br>
+1,8-диоксациклооктадека-2,4,6,9,11,13,15,17-октаен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`//N@n(4,90,.6)`\@n(5,90,.5)`//@n(6,90)`\@n(7,90,.5)`//N@n(8,90,.6)`\@n(9,150)`||@n(10,-150,.5)/N@n(11,-90,.6)\\@n(12,-90,.6)/@n(13,-90)\\@n(14,-90,.6)/
+$>
+
+en: 2_H_-1,4,8,11-oxatriazacyclotetradecine  <br>
+1-oxa-4,8,11-triazacyclotetradeca-3,5,7,9,11,13-hexaene (PIN) 
+ru: 2_H_-1,4,8,11-оксатриазациклотетрадецин <br>
+1-окса-4,8,11-триазациклотетрадека-3,5,7,9,11,13-гексаен (PIN)
+
+@End
+
+#P-25.3.2.1.3+
+en: Names of the hydrocarbons and heterocycles described in Sections P-25.1.2 and  
+P-25.2.2 and retained names listed in &[Tables 2.2], &[2.7], and &[2.8] are used as parent components for preferred IUPAC 
+fusion names. 
+ru: Названия углеводородов и гетероциклов, описанные в разделах P-25.1.2 и P-25.2.2, а также сохраненные названия, 
+перечисленные в &[таблицах 2.2], &[2.7] и &[2.8], используются в качестве исходных компонентов для предпочтительных названий 
+слияний ИЮПАК.
+
+#P-25.3.2.2
+en: Prefixes for attached components 
+ru: Префиксы для прикреплённых компонентов
+
+#P-25.3.2.2.1+
+en: Monocyclic hydrocarbon prefixes for attached components other than ‘benzo’ are formed by dropping ‘ne’ 
+from the name of the appropriate saturated monocyclic hydrocarbon. These names represent the form with the 
+maximum number of noncumulative double bonds. There is no upper ring-size limit to this criterion. 
+ru: Префиксы моноциклических углеводородов для прикреплённых компонентов, отличных от «бензо», образуются путем удаления 
+«н» из названия соответствующего насыщенного моноциклического углеводорода. Эти названия представляют форму с максимальным 
+числом некумулятивных двойных связей. Для этого критерия нет верхнего предела по размеру кольца.
+
+@Examples
+
+@cell
+<$ ||_p3_p3 $>
+
+en: cyclopropa (preferred prefix)  <br>
+(from cyclopropane, PIN) 
+ru: циклопропа (предпочтительный префикс) <br>
+(от циклопропана, PIN)
+
+@cell
+<$ -||`-`|| $>
+
+en: cyclobuta (preferred prefix)  <br>
+(from cyclobutane, PIN) 
+ru: циклобута (предпочтительный префикс) <br>
+(от циклобутана, PIN)
+
+@cell
+<$ -_qq_q_q_qq $>
+
+en: cyclopenta (preferred prefix)  <br>
+(from cyclopentane, PIN) 
+ru: циклопента (предпочтительный префикс)
+(от циклопентана, PIN)
+
+@cell
+<$ =_q7_qq7_q7_q7_qq7_q7 $>
+
+en: cyclohepta (preferred prefix)  <br>
+(from cycloheptane, PIN)  <br>
+(not [7]annuleno)
+ru: циклогепта (предпочтительный префикс) <br>
+(от циклогептана, PIN) <br>
+(не [7]аннулено)
+
+@cell
+<$ $slope(45)-\\|`//`-`\\`|// $>
+
+en: cycloocta (preferred prefix)  <br>
+(from cyclooctane, PIN)  <br>
+(not [8]annuleno)
+ru: циклоокта (предпочтительный префикс) <br>
+(от циклооктана, PIN) <br>
+(не [8]аннулено)
+
+@End
+
+#P-25.3.2.2.2+
+en: Prefixes for attached components derived from the name of a parent component described in P-25.3.2.1.2 
+and P-25.3.2.1.3 are named by changing the final letter ‘e’ into the letter ‘o’ or by adding the letter ‘o’ when no final 
+letter ‘e’ is present.
+ru: Префиксы для прикреплённых компонентов, полученные из имени исходного компонента, описанного в P-25.3.2.1.2 
+и P-25.3.2.1.3, именуются путем замены конечной буквы «e» на букву «o» или путем добавления буквы «o», если конечная 
+буква «e» отсутствует.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.2)_qqN@n(2,170,.5)_qN<_(y-.5)H>@n(1,90,.6)_q_qq
+$>
+
+en: pyrazolo (preferred prefix)  <br>
+(from pyrazole, PIN) 
+ru: пиразоло (предпочтительный префикс) <br>
+(от пиразол, PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Se@n(1,-90,.6)\@n(2,-30)|`//`\`||/
+$>
+
+en: selenopyrano (preferred prefix)  <br>
+(from selenopyran, PIN) 
+ru: селенопирано (предпочтительный префикс) <br>
+(от селенопиран, PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=@n(4,60)_q7@n(3,20)_qq7@n(2,-20)_q7S@n(1,-90,.6)_q7@n(7,-160)_qq7@n(6,160)_q7@n(5,120)
+$>
+
+en: thiepino (preferred prefix)  <br>
+(from thiepine, PIN) 
+ru: тиепино (предпочтительный префикс) <br>
+(от тиепин, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=68
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_p_pp_p_pp>_qq_q@n(2,0)_qq@n(1,-80)_q
+$>
+
+en: pentaleno (preferred prefix)  <br>
+(from pentalene, PIN)
+ru: пенталено (предпочтительный префикс) <br>
+(от пентален, PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`//N@n(4,90,.6)`\@n(5,90,.5)`//@n(6,90)`\@n(7,90,.5)`//N@n(8,90,.6)`\@n(9,150)`||@n(10,-150,.5)/N@n(11,-90,.6)\\@n(12,-90,.6)/@n(13,-90)\\@n(14,-90,.6)/
+$>
+
+en: 1,4,8,11-oxatriazacyclotetradecino (preferred prefix)  <br>
+(from 1,4,8,11-oxatriazacyclotetradecine, see P-25.2.2.1.2, P-25.3.2.1.2) 
+ru: 1,4,8,11-оксатриазациклотетрадецино (предпочтительный префикс) <br>
+(из 1,4,8,11-оксатриазациклотетрадецина, см. P-25.2.2.1.2, P-25.3.2.1.2)
+
+@End
+
+#P-25.3.2.2.3
+en: Retained prefixes
+ru: Сохраненные префиксы
+
+en: Only the following contracted prefixes are retained for preferred IUPAC fusion names. The contracted prefixes 
+acenaphtho, perylo, isoquino, and quino are retained but are only used in general nomenclature. 
+ru: Только следующие сокращенные префиксы сохраняются для предпочтительных названий слияний ИЮПАК. 
+Сокращенные префиксы аценафто, перило, изохино и квино сохраняются, но используются только в общей номенклатуре.
+
+@List *
+
+@item
+en: anthra (preferred prefix) (from anthracene, PIN) 
+ru: антра (предпочтительный префикс) (от антрацен, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=373
+
+@item
+en: naphtho (preferred prefix) (from naphthalene, PIN) 
+ru: нафто (предпочтительный префикс) (от нафталин, PIN)
+
+@item
+en: benzo (preferred prefix) (from benzene, PIN) 
+ru: бензо (предпочтительный префикс) (от бензол, PIN)
+
+@item
+en: phenanthro (preferred prefix) (from phenanthrene, PIN) 
+ru: фенантро (предпочтительный префикс) (от фенантрен, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=798
+
+@item
+en: furo (preferred prefix) (from furan, PIN) 
+ru: фуро (предпочтительный префикс) (от фуран, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=48
+
+@item
+en: imidazo (preferred prefix) (from imidazole, PIN) 
+ru: имидазо (предпочтительный префикс) (от имидазол, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=1900
+
+@item
+en: pyrido (preferred prefix) (from pyridine, PIN) 
+ru: пиридо (предпочтительный префикс) (от пиридин, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=29
+
+@item
+en: pyrimido (preferred prefix) (from pyrimidine, PIN) 
+ru: пиримидо (предпочтительный префикс) (от пиримидин, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=158
+
+@item
+en: thieno (preferred prefix) (from thiophene, PIN) 
+ru: тиено (предпочтительный префикс) (от тиофен, PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=49
+
+@End
+
+#P-25.3.2.3
+en: Orientation of fused ring systems 
+ru: Ориентация конденсированных кольцевых систем
+
+#P-25.3.2.3.1
+en: Drawing of ring structures
+ru: Рисунок кольцевых структур
+
+en: For the purpose of selecting parent components and for numbering of fused ring systems, the structures of fused ring 
+compounds must be drawn in a specific manner according to a set of criteria that must be applied in order until a 
+decision is reached. Individual rings of a polycyclic ‘_ortho_-fused’ or ‘_ortho_- and _peri_-fused’ hydrocarbon ring system 
+are drawn in such a way so that as many as possible of the various individual rings are arranged in horizontal rows. If 
+the compound requires distorted rings not shown above see P-25.3.2.2. Such rows are characterized by a horizontal axis 
+that divides each individual ring into two approximate halves. Permitted shapes for three- to eight-membered rings are 
+as follows: 
+ru: Для выбора исходных компонентов и нумерации конденсированных кольцевых систем структуры конденсированных кольцевых 
+соединений должны быть нарисованы определенным образом в соответствии с набором критериев, которые должны применяться 
+по порядку до тех пор, пока не будет принято решение. Отдельные кольца полициклической «_орто_-конденсированной» или 
+«_орто_- и _пери_-конденсированной» углеводородной кольцевой системы нарисованы таким образом, чтобы как можно больше 
+различных отдельных колец были расположены в горизонтальных рядах. Если соединение требует искаженных колец, 
+не показанных выше, см. P-25.3.2.2. Такие ряды характеризуются горизонтальной осью, которая делит каждое отдельное кольцо 
+на две приблизительные половины. Допустимые формы для трех-восьмичленных колец следующие:
+
+@Examples --
+
+@cell
+@p .flex-row
+en: <% f1 %> or <% f2 %>
+ru: <% f1 %> <span>или</span> <% f2 %>
+%f1: <$ |_p3_p3 $>
+%f2: <$ |_q3_q3 $>
+
+@cell
+<$ -|`-`| $>
+
+@cell
+@p .flex-row
+en: <% f1 %> or <% f2 %>
+ru: <% f1 %> или <% f2 %>
+%f1: <$ `|/\|_#1 $>
+%f2: <$ |\/`|_#1 $>
+
+@cell
+<$ /\|`/`\`| $>
+
+@cell
+@p .flex-row
+en: <% f1 %> or <% f2 %>
+ru: <% f1 %> или <% f2 %>
+%f1: <$ |\/`|_(a-21.47)`-_(a-68.53) $>
+%f2: <$ `|/\|_(a21.47)`-_(a68.53) $>
+
+@cell
+<$ $slope(30)|\-/`|`\`-`/ $>
+
+@cell
+@p .flex-row
+en: <% f1 %> or <% f2 %> or <% f3 %> or <% f4 %>
+ru: <% f1 %> или <% f2 %> или <% f3 %> или <% f4 %>
+%f1: <$ |\_(x1)/`|_(a-21.47)`-{•}`-_(a-68.53) $>
+%f2: <$ `|/_(x1)\|_(a21.47)`-{•}`-_(a68.53) $>
+%f3: <$ $slope(30)|\_(x2,w2)/`|`\`-{•}`-`/ $>
+%f4: <$ $slope(30)`|/_(x2,w2)\|`/`-{•}`-`\ $>
+
+@End
+
+@Examples
+
+@cell
+<$
+|`/`\<_(x-1,y-.5,N0){}:a>`|/\/\|<_(x-$3)>\/`|<_(x-$3)>_(a21.47)-_(a68.53)|<`/`\>_q3<_q3>_(x1,N0)_(pa,H)
+$>
+
+en: a horizontal row and its horizontal axis 
+ru: горизонтальный ряд и его горизонтальная ось
+
+@End
+
+#P-25.3.2.3.2
+en: Distorted ring shapes
+ru: Искаженные формы колец
+
+en: If a compound cannot be drawn only using the shapes shown in P-25.3.2.3.1 a distorted ring shape will be required. The 
+distorted ring should be as small as possible. 
+ru: Если соединение невозможно нарисовать только с помощью фигур, показанных в P-25.3.2.3.1, потребуется искаженная 
+кольцевая форма. Искаженное кольцо должно быть как можно меньше.
+
+@Examples 3
+
+@cell
+<$ \|`/`\`|/`|_(x$3)|<`/>\</`|`\`/>|_(x-$3) $>
+
+en: only preferred shapes used
+ru: используются только предпочтительные формы
+
+@cell
+en: not
+ru: не
+
+@cell
+<$ `\`/`\`|/:L\<|>_(x$3)|<`/>\/`|`\<`/>_(x#1,y-1)_#L $>
+
+en: distorted five-membered ring 
+ru: искаженное пятичленное кольцо
+
+@cell
+<$
+`|/`|_(a-21.47)`-HN_(a-68.53,L.9)_(y.7)_#2`\`/|\/_(x$3)O`|<`\>/`|`\`/
+$>
+
+en: only preferred shapes used  <br>
+(the separation to show the <br>
+seven-membered is not fused to <br>
+the left hand ring does not <br>
+count as distortion)
+ru: используются только предпочтительные формы <br>
+(разделение, показывающее, что семичленный элемент <br>
+не слит с левым кольцом, <br>
+не считается искажением)
+
+@cell
+en: not
+ru: не
+
+@cell
+<$ 
+|`\`/|\/\O/`|<_(x-$3)|>/<\|`/`\>`|_(A-140)N<_(y-.5)H>`-_#1
+$>
+
+en: distorted seven-membered ring
+ru: искаженное семичленное кольцо
+
+@cell
+<$ `/|\/`|<`\>/\<|`/`\>/`|`\`/<|>_#1 $>
+
+en: distorted four-membered ring
+ru: искаженное четырехчленное кольцо
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+$slope(30)`\`/|\/`|-|<`->\/`|`\<`/>_(x-$32,y-.9)`-_#2
+$>
+
+en: distorted six-membered ring
+ru: искаженное шестичленное кольцо
+
+@End
+
+#P-25.3.2.3.3
+en: Criteria for selection of the preferred orientation 
+ru: Критерии выбора предпочтительной ориентации
+
+en: Polycyclic fused ring systems are oriented in accordance with the following criteria considered in order until a decision 
+is reached: 
+ru: Полициклические конденсированные кольцевые системы ориентируются в соответствии со следующими критериями, 
+рассматриваемыми по порядку до тех пор, пока не будет принято решение:
+
+#(a)
+en: maximum number of rings in a horizontal row;
+ru: максимальное количество колец в горизонтальном ряду;
+
+en: Fused ring systems are drawn in order to achieve the maximum number of _ortho_-fused rings, with vertical common 
+bonds, in a horizontal row. The relevant vertical bonds are always those furthest apart. If the correct orientation is not 
+immediately apparent the horizontal row is bisected by a horizontal axis and a vertical axis to form four quadrants. 
+Rings, which are not bisected by the horizontal axis, do not belong to the main row and are not considered in the 
+counting of rings in the main row. 
+ru: Конденсированные кольцевые системы рисуются для достижения максимального количества _орто_-слитых колец с вертикальными 
+общими связями в горизонтальном ряду. Соответствующие вертикальные связи всегда находятся дальше всего друг от друга. 
+Если правильная ориентация не очевидна сразу, горизонтальный ряд делится пополам горизонтальной осью и вертикальной осью, 
+образуя четыре квадранта. Кольца, которые не делятся пополам горизонтальной осью, не принадлежат к основному ряду и 
+не учитываются при подсчете колец в основном ряду.
+
+@Examples
+
+@cell
+<$
+|`/`\<`\0{}:L>`|/\/:t\/\<\0{}:R>|_(x-$3)<`|>_(x-$3);
+#L_(pR,H); #t`|0{}_(y3.5,H)
+$>
+
+en: 3 rings in horizontal row 
+ru: 3 кольца в горизонтальном ряду
+
+@cell
+<$
+|`/`\<`\0{}:L>`|/\/\<|_(x-$3)>/`|_(x-$3)<|>`\0_(y4,H); #L_(x5.8,H)
+$>
+
+en: 2 rings in horizontal row
+ru: 2 кольца в горизонтальном ряду
+
+@End
+
+en: Accordingly, polyacenes are senior to polyaphenes for an equal number of rings, and anthracene is senior to 
+phenanthrene
+ru: Соответственно, полиацены старше полиафенов при равном числе колец, а антрацен старше фенантрена
+
+#(b)
+en: maximum number of rings in upper right quadrant; 
+ru: максимальное количество колец в правом верхнем квадранте;
+
+en: In the preferred orientation, the maximum number of rings must appear above and to the right of the horizontal row 
+(upper right quadrant). For this purpose, the center of the horizontal row is defined as the central common bond if there 
+is an even number of rings in the row, and the center of the central ring if there is an odd number of rings. In counting 
+rings in a quadrant those rings that are divided by an axis are considered as two halves, and a ring bisected by both axes, 
+counts as four quarters (one in each quadrant). Rings that are bisected by the horizontal axis but are not directly _ortho_-
+fused to the main row are not considered when counting how many rings are in the horizontal row. 
+ru: В предпочтительной ориентации максимальное количество колец должно располагаться выше и правее горизонтального ряда 
+(верхний правый квадрант). Для этой цели центр горизонтального ряда определяется как центральная общая связь, если в ряду 
+четное количество колец, и центр центрального кольца, если нечетное количество колец. При подсчете колец в квадранте те 
+кольца, которые разделены осью, считаются двумя половинами, а кольцо, разделенное обеими осями, считается четырьмя 
+четвертями (по одному в каждом квадранте). Кольца, разделенные горизонтальной осью, но не слитые напрямую в _орто_-положении 
+с основным рядом, не учитываются при подсчете количества колец в горизонтальном ряду.
+
+@Examples 3
+
+@cell
+<$
+|`/`\<`\0{}:L>`|/\/`|<`\`/|>/\|`/<`\>|`/`\|0{}_(y-5,H); #L_(x5.8,H)
+$>
+
+en: (correct orientation) <br>
+2 rings in horizontal row  <br>
+2 rings in upper right quadrant <br>
+ru: (правильная ориентация) <br>
+2 кольца в горизонтальном ряду <br>
+2 кольца в правом верхнем квадранте <br>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+|`/`\`|/`|<`\`/|\>/\|<`/`\>\<\0{}:R>|`/`\|0{}_(y-5,H); #R_(x-5.8,H)
+$>
+
+en: (incorrect orientation) <br>
+2 rings in horizontal row  <br>
+1 ring in upper right quadrant 
+ru: (неправильная ориентация) <br>
+2 кольца в горизонтальном ряду <br>
+1 кольцо в правом верхнем квадранте
+
+@cell
+<$
+|`/`\<`\0{}:L>`|/\/`|`\`|/\</`|`\`/|>|<`/>\|`/<`\>|`/`\|0{}_(y-7,H); #L_(x5.5,H)
+$>
+
+en: (correct orientation) <br>
+2 rings in the horizontal row  <br>
+3½ rings in upper right quadrant 
+ru: (правильная ориентация) <br>
+2 кольца в горизонтальном ряду <br>
+3½ кольца в правом верхнем квадранте
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+`/`\`/<`/0{}:L>|\/<`|`|0{}_(y3,H)>\/`|`\`|/\|<`/>\/<`|`\`/>\<\0{}:R>|`/`\`|; #L_(H)#R
+$>
+
+en: (incorrect orientation) <br>
+2 (not 3) rings in the horizontal row  <br>
+3 rings in upper right quadrant 
+ru: (неправильная ориентация) <br>
+2 (а не 3) кольца в горизонтальном ряду <br>
+3 кольца в правом верхнем квадранте
+
+@End
+
+en: Accordingly, phenanthrene (1½ rings in the upper right quadrant) is senior to phenalene [1 ring (two ½ rings) in the 
+upper right quadrant]. 
+ru: Соответственно, фенантрен (1½ кольца в правом верхнем квадранте) старше феналена [1 кольцо (два ½ кольца) 
+в правом верхнем квадранте].
+
+#(c)
+en: minimum number of rings in the lower left quadrant; 
+ru: минимальное количество колец в нижнем левом квадранте;
+
+@Examples 3 single
+
+@cell
+<$
+\|`/`\<`\0{}:L>`|/`|/\:t<|`/>/\|<`/`\>\<\0{}:R>|`/<`\`|>|`/`\`|</>`\;
+#t`|0_(y6,H); #L_(H)#R
+$>
+
+en: (correct orientation) <br>
+3 rings in horizontal row  <br>
+1¾ rings in upper right quadrant <br>
+¾ ring in lower left quadrant 
+ru: (правильная ориентация) <br>
+3 кольца в горизонтальном ряду <br>
+1¾ кольца в правом верхнем квадранте <br>
+¾ кольца в левом нижнем квадранте
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+/\|`/`\`|`\<`\0{}:L>`|/<\|>`|/\:t<|`/>/\|<`/`\>\<\0_(H)#L>|`/`\<`|>`/; #t`|0{}_(y6,H)
+$>
+
+en: (incorrect orientation) <br>
+3 rings in horizontal row  <br>
+1¾ ring in upper right quadrant  <br>
+1¾ ring in lower left quadrant
+ru: (неправильная ориентация) <br>
+3 кольца в горизонтальном ряду <br>
+1¾ кольцо в правом верхнем квадранте <br>
+1¾ кольцо в левом нижнем квадранте
+
+@End
+
+#(d)
+en: maximum number of rings above the horizontal row. 
+ru: максимальное количество колец над горизонтальным рядом.
+
+@Examples 5
+
+@cell
+<$
+|`/`\<`\0{}:L>`|/\/\|<_(x-$3)>\/`|`\<`/>`|`\`/`/_q3`|`|0{}_(y4.4,H); #L_(x7,H)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+|`/`\<`\0{}:L>`|/\/\|<_(x-$3)>|/<_q3>/`|`\<`/>`|`\`/|_(y-2,N0)_(y5,H); #L_(x7,H)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+`/`\<`\0{}:L>`|/\|\|:b\/`|`\<`/>`|`|\<_p3_(x-$3)>\|`/; #b|0_(y-5,H); #L_(x7,H)
+$>
+
+@cell
+// Left column
+en: (correct orientation) <br>
+3 rings in horizontal row  <br>
+1¾ rings in upper right quadrant <br>
+¾ ring in lower left quadrant <br>
+3½ rings above horizontal row <br>
+ru: (правильная ориентация) <br>
+3 кольца в горизонтальном ряду <br>
+1¾ кольца в правом верхнем квадранте <br>
+¾ кольца в левом нижнем квадранте <br>
+3½ кольца над горизонтальным рядом <br>
+
+@cell
+
+@cell
+// Middle column
+en: (incorrect orientation) <br>
+3 rings in horizontal row  <br>
+1¾ ring in upper right quadrant  <br>
+¾ ring in lower left quadrant  <br>
+2½ rings above horizontal row
+ru: (неправильная ориентация) <br>
+3 кольца в горизонтальном ряду <br>
+1¾ кольцо в правом верхнем квадранте <br>
+¾ кольцо в левом нижнем квадранте <br>
+2½ кольца над горизонтальным рядом
+
+@cell
+
+@cell
+// right column
+en: (incorrect orientation) <br>
+3 rings in horizontal row  <br>
+1¾ ring in upper right quadrant  <br>
+¾ ring in lower left quadrant  <br>
+2½ rings above horizontal row
+ru: (неправильная ориентация) <br>
+3 кольца в горизонтальном ряду <br>
+1¾ кольцо в правом верхнем квадранте <br>
+¾ кольцо в левом нижнем квадранте <br>
+2½ кольца над горизонтальным рядом
+
+@End
+
+#P-25.3.2.4
+en: Seniority criteria for selecting parent components 
+ru: Критерии старшинства для выбора исходных компонентов
+
+en: The components of the fused ring system are selected and named according to P-25.3.2.1 and P-25.3.2.2. When it is 
+necessary to locate nomenclatural features, such as indicated hydrogen or atoms with nonstandard bonding numbers, 
+another system of locants must be used, i.e., the locants that are used to number the completed fused ring system. In 
+these recommendations, such locants are placed outside the structure, as shown for retained names in &[Tables 2.2], &[2.7], 
+and &[2.8]. This system is fully explained and exemplified in P-25.3.3. 
+ru: Компоненты конденсированной кольцевой системы выбираются и именуются в соответствии с P-25.3.2.1 и P-25.3.2.2. 
+Когда необходимо локализовать номенклатурные признаки, такие как указанный водород или атомы с нестандартными связями, 
+должна использоваться другая система локантов, т. е. локанты, которые используются для нумерации завершенной 
+конденсированной кольцевой системы. В этих рекомендациях такие локанты размещаются вне структуры, как показано для 
+сохраненных названий в &[таблицах 2.2], &[2.7] и &[2.8]. Эта система полностью объяснена и проиллюстрирована в P-25.3.3.
+
+en: If there is a choice for selecting the parent component, the following criteria are considered, in order, until a decision 
+can be made:
+ru: Если есть возможность выбора исходного компонента, то следующие критерии рассматриваются по порядку, 
+пока не будет принято решение:
+
+#(a)
+en: a component containing at least one of the heteroatoms occurring earlier in the following order: <% order %>;
+ru: компонент, содержащий по крайней мере один из гетероатомов, встречающихся ранее в следующем порядке: <% order %>;
+%order: N > F > Cl > Br > I > O > S > Se > Te > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)\//`|`\\N`/@n(a,0,.6)||r@n(b,-60,.6)@n(5,-170,.5)_p7_pp7_p7<_qq_q_qq_q>_p7_pp7_p7@n(6,170,.5)
+$>
+
+en: azuleno[6,5-_b_]pyridine (PIN)  <br>
+[pyridine (heterocycle) is senior to azulene (carbocycle)] 
+ru: азулено[6,5-_b_]пиридин (PIN) <br>
+[пиридин (гетероцикл) старше азулена (карбоцикла)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)-\@n(r,-90,.7):n1@n(1,-170,.55)`//`-`\\/`\\/=\@n(8,-170,.55)<`//@n(s,-40,.7)>$slope(30)/@n(1,-90)\O@n(2,-90,.6)/@n(a,120,.6)@n(3,-90)\\r@n(b,170,.7)/O@n(c,120,.6)@n(5,-90,.6)\//r\O@n(8,-60,.6)_(A20):R;
+#n1\@n(q,-120,.8)@n(18,90)/O@n(p,-170,.7)@n(17,90,.6)\//l\O@n(14,90,.6)/@n(l,-170,.7)\\l/O@n(11,70,.6)_(A-20)@n(i,-170,.7)//#R@n(h,130,.7)
+$>
+// Ошибка в оригинале - 1\O/2 - очевидно, внешний локант 2 должен быть у кислорода. 
+
+en: 1_H_,18_H_-naphtho[1,8-_rs_][1,4,7,10,13,16]hexaoxacyclohenicosine (PIN)  <br>
+[1,4,7,10,13,16-hexaoxacyclohenicosine (heterocycle) is senior to naphthalene (carbocycle)] 
+ru: 1_H_,18_H_-нафто[1,8-_rs_][1,4,7,10,13,16]гексаоксациклогеникозин (PIN)  <br>
+[1,4,7,10,13,16-гексаоксациклогеникозин (гетероцикл) старше нафталина (карбоцикл)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/\\@n(3,150,.5)|@n(2,-160,.45)<`/O`\>@n(c,-65,.65)_qq_qN@n(a,160,.6)_qq_q
+$>
+
+en: [1]benzopyrano[2,3-_c_]pyrrole (PIN)  <br>
+(pyrrole is senior to 1-benzopyran N > O)  <br>
+chromeno[2,3-_c_]pyrrole
+ru: [1]бензопирано[2,3-_c_]пиррол (PIN) <br>
+(пиррол старше 1-бензопирана N > O) <br>
+хромено[2,3-_c_]пиррол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_pp_pO_p_pp@n(c,120,.6)>@n(3,-20)_q7S@n(4,-70,.6)_q7_qq7_q7_q7S@n(1,70,.6)_q7@n(2,20)
+$>
+
+en: 2_H_-[1,4]dithiepino[2,3-_c_]furan (PIN)  <br>
+(furan is senior to dithiepine; O > S)
+ru: 2_H_-[1,4]дитиепино[2,3-_c_]фуран (PIN) <br>
+(фуран старше дитиепина; O > S)
+
+@End
+
+#(b)
+en: a component containing the greater number of rings; 
+ru: компонент, содержащий большее количество колец;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(b,-120,.7)@n(2,-30)\N@n(1,-90,.6)//`|`\\N`/@n(3,20)`\\`/||l<\//@n(a,-170,.8)>_pHN@n(6,90,.6)_p_ppl<_p>_q6_qq6_q6_qq6_q6
+$>
+
+en: 6_H_-pyrazino[2,3-_b_]carbazole (PIN)  
+[carbazole (3 rings) is senior to quinoxaline (2 rings)] 
+ru: 6_H_-пиразино[2,3-_b_]карбазол (PIN)
+[карбазол (3 кольца) старше хиноксалина (2 кольца)]
+
+@End
+
+#(c)
+en: A component containing the larger ring at the first point of difference when comparing rings in order of decreasing 
+size; 
+ru: Компонент, содержащий большее кольцо в первой точке различия при сравнении колец в порядке убывания размера;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\\`/||\O@n(4,90,.6)/@n(a,-170,.6)`|@n(b,120,.6)@n(2,25)_pO@n(1,-80,.6)_p@n(2,0)_p@n(3,80)_pp@n(3,-40,.5)
+$>
+
+en: 2_H_-furo[3,2-_b_]pyran (PIN)  <br>
+[pyran (6 ring) preferred to furan (5 ring)] 
+ru: 2_H_-фуро[3,2-_b_]пиран (PIN) <br>
+[пиран (6 кольцо) предпочтительнее фурана (5 кольцо)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/\\@n(2,150,.5)|@n(3,-150,.5)<`//`\>@n(f,-65,.6)_q7_qq7_q7_q7<_qq7_q7>_p@n(c,110,.6)_pp@n(b,170,.7)_p@n(a,-100,.6)_pp
+$>
+
+en: naphtho[2,3-_f_]azulene (PIN)  <br>
+[azulene (7,5 rings) preferred to naphthalene (6,6 rings)]
+ru: нафто[2,3-_f_]азулен (PIN) <br>
+[азулен (7,5 колец) предпочтительнее нафталина (6,6 колец)]
+
+@End
+
+#(d)
+en: A component containing the greater number of heteroatoms of any kind;  
+ru: Компонент, содержащий наибольшее число гетероатомов любого вида;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)||l@n(3,-30,.5)\@n(4,90)//@n(3,20)`|@n(2,-30)`\\N@n(1,-90,.6)@n(1,90,.6)`/@n(2,20,.5)`\@n(c,60,.6)`//N|O@n(a,-65,.65)\@n(5,90)/@n(d,-120,.6)
+$>
+
+en: 5_H_-pyrido[2,3-_d_][1,2]oxazine (PIN)  <br>
+[oxazine (2 heteroatoms) preferred to pyridine (1 heteroatom)] 
+ru: 5_H_-пиридо[2,3-_d_][1,2]оксазин (PIN) <br>
+[оксазин (2 гетероатома) предпочтительнее пиридина (1 гетероатом)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r@n(2,-150,.5)_pO@n(1,-80,.6)@n(4,100,.6)_p@n(5,180)_pp@n(6,-100)_p@n(3,150,.5)|@n(d,-65,.65)_qO@n(c,-130,.65)@n(3,80,.6)_q@n(b,155,.65)@n(2,0)_qO@n(a,85,.55)@n(1,-80,.6)_q
+$>
+
+en: 2_H_-furo[2,3-_d_][1,3]dioxole (PIN)  <br>
+[dioxole (2 heteroatoms) preferred to furan (1 heteroatom)] 
+ru: 2_H_-фуро[2,3-_d_][1,3]диоксол (PIN) <br>
+[диоксол (2 гетероатома) предпочтительнее фурана (1 гетероатом)]
+
+@End
+
+#(e)
+en: A component containing the greater variety of heteroatoms; 
+ru: Компонент, содержащий большее разнообразие гетероатомов;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|l_q@n(c,-130,.75)@n(3,80)_qqP@n(b,160,.7)@n(2,0,.5)_qO@n(a,80,.6)@n(1,-80,.6)_q|@n(d,-55,.75)@n(4,-150)_pO@n(4,100,.6)@n(3,-80,.6)_p@n(5,180)@n(2,0)_pO@n(1,80,.6)_p@n(5,150)
+$>
+
+en: 5_H_-[1,3]dioxolo[4,5-_d_][1,2]oxaphosphole (PIN)  <br>
+[1,3]dioxolo[_d_][1,2]oxaphosphole  <br>
+(an O and a P atom preferred to two O atoms )
+ru: 5_H_-[1,3]диоксоло[4,5-_d_][1,2]оксафосфол (PIN) <br>
+[1,3]диоксоло[_d_][1,2]оксафосфол <br>
+(атом O и P предпочтительнее двух атомов O)
+
+@End
+
+#(f)
+en: A component containing the greater number of heteroatoms most senior when considered in the order: <% order %>.
+ru: Компонент, содержащий наибольшее число гетероатомов, являющихся наиболее старшими при рассмотрении в порядке: <% order %>.
+%order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl 
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|r_qN@n(3,80,.6)_qq@n(2,0)@n(b,160,.75)_qS@n(1,-80,.6)@n(a,80,.6)_q|@n(d,-65,.7)@n(5,-150,.5)_pSe@n(4,110,.6)@n(1,-70,.6)_p@n(5,180)@n(2,10,.5)_ppN@n(3,70,.6)@n(6,-110,.6)_p@n(4,150,.5)
+$>
+
+en: [1,3]selenazolo[5,4-_d_][1,3]thiazole (PIN)  <br>
+(S,N senior to Se,N)
+ru: [1,3]селеназоло[5,4-_d_][1,3]тиазол (PIN) <br>
+(S,N старше Se,N)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)||r@n(3,-150,.5)`/Se`\`||/O@n(1,90,.6)\@n(2,150,.5)/O@n(a,130,.7)\||`/S`\@n(b,-65,.7)
+$>
+
+en: [1,4]oxaselenino[2,3-_b_][1,4]oxathiine (PIN) (O,S senior to O,Se) 
+ru: [1,4]оксаселенино[2,3-_b_][1,4]оксатиин (PIN) (O,S старше O,Se)
+
+@End
+
+#(g)
+en: A component containing the greatest number of rings in a horizontal row when it is drawn in the preferred 
+orientation according to P-25.3.2.3; 
+ru: Компонент, содержащий наибольшее количество колец в горизонтальном ряду, когда он нарисован в предпочтительной 
+ориентации согласно P-25.3.2.3;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/\\|<`//N`\>\//`|@n(b,120,.65)<`\\@n(a,70,.6)`/>@n(4,30)/\<//`|`\\`/||>|N@n(1,-140,.6)`//@n(2,-100,.5)`\@n(3,-30)
+$>
+
+en: quinolino[4,3-_b_]acridine (PIN)  <br>
+[acridine (3 rings in horizontal row)  <br>
+preferred to phenanthridine (2 rings in horizontal row)] 
+ru: хинолино[4,3-_b_]акридин (PIN) <br>
+[акридин (3 кольца в горизонтальном ряду) <br>
+предпочтительнее фенантридина (2 кольца в горизонтальном ряду)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|@n(r,65,.65)/@n(a,120,.6)\\@n(b,170,.6)|@n(c,-120,.6)`//`\`//r@n(q,0,.6)`\@n(p,60,.6)<`||/\\>`/`\\`/||\//<`|>\//<`|>\//`|
+$>
+
+en: benzo[_pqr_]tetraphene (PIN)  <br>
+[tetraphene (3 rings in horizontal row)  <br>
+preferred to chrysene or pyrene (2 rings in horizontal row)] 
+
+@End
+
+#(h)
+en: A component with the lower locants for heteroatoms;
+ru: Компонент с нижними локантами для гетероатомов;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)||@n(d,-125,.65)`/`\\N`|N@n(a,60,.6)//\@n(4,30)/N\\|@n(1,-130,.5)`//N@n(2,-90,.6)`\@n(3,-30)
+$>
+
+en: pyrazino[2,3-_d_]pyridazine (PIN)  <br>
+(locants ‘1,2’ of pyridazine preferred to locants ‘1,4’ of pyrazine)
+ru: пиразино[2,3-_d_]пиридазин (PIN) <br>
+(локанты «1,2» пиридазина предпочтительнее локантов «1,4» пиразина)
+
+@End
+
+#(i)
+en: A component with the lower locants for the heteroatoms when considered in the order: <% order %>;
+ru: Компонент с меньшими локантами для гетероатомов при рассмотрении в порядке: <% order %>;
+%order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl 
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|r@n(d,-65,.65)@n(4,-150,.5)_pS@n(3,-80,.6)@n(4,100,.6)_pHN@n(2,0,.45)@n(5,-110,.6)_pO@n(1,80,.6)@n(6,-110,.6)_p@n(5,150,.5)|_qN<_(y.5)H>@n(3,30,.6)@n(c,-130,.7)_qS@n(2,0,.5)@n(b,160,.65)_qO@n(1,-90,.6)@n(a,80,.5)_q
+$>
+
+en: 3_H_,5_H_-[1,3,2]oxathiazolo[4,5-_d_][1,2,3]oxathiazole (PIN)  <br>
+(locants ‘1,2,3’ are lower than ‘1,3,2’) 
+ru: 3_H_,5_H_-[1,3,2]оксатиазоло[4,5-_d_][1,2,3]оксатиазол (PIN)  <br>
+(локанты ‘1,2,3’ ниже, чем ‘1,3,2’)
+
+@End
+
+#(j)
+en: A component with the lower locants for the peripheral fusion carbon atoms (see P-25.3.3.1 for numbering of fusion 
+carbon atoms). 
+ru: Компонент с нижними локантами для периферических атомов углерода слияния (см. P-25.3.3.1 для нумерации атомов углерода 
+слияния).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$slope(60)`\\`-`//\-r`-`/\l`/`=`\//-\-//`\/_(a%a:81.4707)@n(4,150)|@n(5,-150)<_(a%b:68.5292)>$slope()\\/`|<`\`//@n(k,60,.6)>//\//r<_(a-%a)`=@n(a,39,.7)_(a-%b)>\||`/`\\<`|>`/`\\
+$>
+
+en: acephenanthyleno[5,4-_k_]aceanthrylene (PIN)  <br>
+(the locant 2a in aceanthrylene is lower than 3a in acephenanthrylene;  <br>
+see the following structures) 
+ru: ацефенантилено[5,4-_k_]ацеантрилен (PIN) <br>
+(местоположение 2a в ацеантрилене ниже, чем 3a в ацефенантрилене; <br>
+см. следующие структуры)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/\/@n(2a,-30,.6)_(a-81.4707)@n(2,-30)`=@n(1,-150)_(a-68.5292)\|<`//`\>\//`|`\\
+$>
+
+en: aceanthrylene (PIN) 
+ru: ацеантрилен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`||@n(3,-30)`\@n(2,-90)`//@n(1,-150)|\/@n(3a,-30,.5)_(a%a:81.4707)_(a%b:68.5292,N2)_(a%b)`|`\`/`\\`/||\//<`|>\//
+$>
+
+en: acephenanthrylene (PIN) 
+ru: ацефенантрилен (PIN)
+
+@End
+
+%P-25.3.2.5
+en: Assembling components and naming fused ring systems 
+ru: Сборка компонентов и наименование систем конденсированных колец
+
+#P-25.3.2.5+
+en: Assembling components and naming fused ring systems. The following criteria are also considered when 
+assembling components and naming fused ring systems. 
+ru: Сборка компонентов и наименования конденсированных кольцевых систем. 
+Следующие критерии также учитываются при сборке компонентов и наименовании конденсированных кольцевых систем.
+
+#P-25.3.2.5.1+
+en: A heteroatom common to two components must be indicated in the name of each component. 
+ru: Гетероатом, общий для двух компонентов, должен быть указан в названии каждого компонента.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|N@n(1,-150,.5)<_p_pp_pN_pp@n(2,140,.5)>@n(b,-65,.7)_q_qq_qS_q@n(a,0,.7)
+$>
+
+en: imidazo[2,1-_b_][1,3]thiazole (PIN)
+ru: имидазо[2,1-_b_][1,3]тиазол (PIN)
+
+@End
+
+#P-25.3.2.5.2+
+en: An atom with a nonstandard bonding number is indicated by the ‘λ’ (lambda) convention (see P-14.1.3) 
+The nonstandard bonding number _n_ is indicated as a superscript to the symbol λ, for example λ^{5}; this symbol follows 
+the locant of the atom with the nonstandard bonding number in accordance with the numbering of the fused system and 
+is cited at the beginning of the name of the fused ring system. 
+ru: Атом с нестандартным числом связей обозначается условным обозначением «λ» (лямбда) (см. P-14.1.3)
+Нестандартное число связей _n_ указывается как верхний индекс к символу λ, например λ^{5}; этот символ следует за 
+местоположением атома с нестандартным числом связей в соответствии с нумерацией конденсированной системы и указывается 
+в начале названия конденсированной кольцевой системы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)P`\:a`/||@n(a,-55,.8)\@n(b,-120,.7)//:b`|@n(d,115,.8)@n(5,-30,1.1)@n(1,30,.5)#
+<_(a80)@n(6,-30)_pp7_p6_pp6_#b@n(2,-30)>#
+_(a40,N2)@n(4,-30)_q7@n(3,-30)_qq6@n(2,-90)_q6@n(1,-150)_(N2)#a
+$>
+
+en: 5λ^{5}-phosphinino[2,1-_d_]phosphinolizine (PIN) 
+ru: 5λ^{5}-фосфинино[2,1-_d_]фосфинолизин (PIN)
+
+@End
+
+#P-25.3.2.5.3+
+en: Indicated hydrogen is cited at the beginning of the name preceded by the appropriate locants of the fused 
+ring system. 
+ru: Указанный водород указывается в начале названия, 
+перед ним указываются соответствующий локант конденсированной кольцевой системы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(2,-30)\N@n(1,-90,.6)@n(4,90,.6)//@n(3,30)`|@n(2,-30)`\\N@n(1,-90,.6)`/@n(3,30)`\\`/||l<\@n(5,90)//@n(a,-170,.7)@n(b,-120,.65)>#
+_pHN@n(6,90,.6)_p_ppl<_p>_q6_qq6_q6_qq6_q6
+$>
+
+en: 6_H_-pyrazino[2,3-_b_]carbazole (PIN)
+ru: 6_H_-пиразино[2,3-_b_]карбазол (PIN)
+
+@End
+
+#P-25.3.3
+en: Numbering of fused ring systems 
+ru: Нумерация конденсированных кольцевых систем
+
+en: Fused ring systems with retained names, systematic names, or fused names are systematically numbered in the same 
+manner. Anthracene, phenanthrene, acridine, carbazole, xanthene and its chalcogen analogues, purine, and 
+cyclopenta[_a_]phenanthrene are exceptions; traditional numberings are retained. Two types of numbering are to be 
+considered. 
+ru: Конденсированные кольцевые системы с сохраненными названиями, систематическими названиями или конденсированными 
+названиями систематически нумеруются одинаково. Антрацен, фенантрен, акридин, карбазол, ксантен и его халькогенные аналоги, 
+пурин и циклопента[_a_]фенантрен являются исключениями; традиционная нумерация сохраняется. 
+Следует рассмотреть два типа нумерации.
+
+@Content
+
+#P-25.3.3.1
+en: Numbering of peripheral skeletal atoms 
+ru: Нумерация периферических скелетных атомов
+
+#P-25.3.3.1.1+
+en: The numbering of peripheral atoms in the preferred orientation starts from the uppermost ring. If there is 
+more than one uppermost ring, the ring furthest to the right is chosen. Numbering starts from the nonfused atom most 
+counterclockwise in the ring selected and proceeds in a clockwise direction around the system, including fusion 
+heteroatoms but not fusion carbon atoms. Each fusion carbon atom is given the same number as the immediately 
+preceding nonfusion skeletal atom, modified by a Roman letter ‘a’, ‘b’, ‘c’, ‘d’, etc. 
+ru: Нумерация периферийных атомов в предпочтительной ориентации начинается с самого верхнего кольца. 
+Если имеется более одного самого верхнего кольца, выбирается кольцо, самое дальнее справа. 
+Нумерация начинается с неконденсированного атома, самого против часовой стрелки в выбранном кольце, 
+и продолжается по часовой стрелке вокруг системы, включая гетероатомы слияния, но не атомы углерода слияния. 
+Каждому атому углерода слияния присваивается тот же номер, что и непосредственно предшествующему неконденсированному 
+скелетному атому, модифицированный латинской буквой «a», «b», «c», «d» и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`|@n(1,-150)//@n(2,-90)\@n(3,-30)||@n(4,30)`/N@n(5,30,.6)|@n(6,30)`//@n(7,90)`\N@n(8,90,.6)`/@n(9,90)`\\@n(10,150,.5)`|@n(11,-150,.5)//@n(12,-90)\<|>@n(12a,-100,.55)//@n(12b,-150,.75)<\>
+$>
+
+en: dipyrido[1,2-_a_:2′,1′-_c_]pyrazine (PIN) 
+ru: дипиридо[1,2-_a_:2′,1′-_c_]пиразин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//@n(7,90)`\@n(8,150)`||@n(9,-150)/@n(10,-90)\\@n(10a,-90,.6)/@n(11,-90)\\|<`//@n(6,90)`\@n(6a,90,.5)>@n(5a,90,.5)\@n(5,90)//`|<`\\@n(12,-90)`/@n(11a,-90,.6)>@n(12a,-90,.6)/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(4,90)`\@n(4a,90,.5)
+$>
+
+en: tetracene (PIN) 
+ru: тетрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`||@n(1,-150)/@n(2,-90)\\@n(3,-30)|@n(4,30)`//|@n(5,30)`//@n(6,90)`\`//@n(7,90)`\`//@n(8,90)`\@n(9,150)`||`\@n(10,150,.5)`||@n(11,-150,.5)/@n(12,-90)\\@n(13,-30,.5)|<`/@n(9a,150,.5)>@n(13a,-45,.7)\\<|@n(7a,90,.5)>@n(13b,-90,.5)/@n(14,-90)\\<|@n(6a,90,.5)>@n(14a,-90,.5)/@n(14b,-145,.8)\@n(4a,30,.5)
+$>
+
+en: benzo[_m_]tetraphene (PIN) 
+ru: бензо[_m_]тетрафен (PIN)
+
+@End
+
+en: If the uppermost ring does not have a nonfusion atom, then numbering starts in the next ring encountered when 
+proceeding around the system in a clockwise direction.  
+ru: Если в самом верхнем кольце нет неконденсированного атома, то нумерация начинается со следующего кольца, 
+встречающегося при движении по системе по часовой стрелке.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|/\\@n(1,-30)|@n(2)`//@n(3,90)`\`//@n(4,90)`\`//@n(5,90)`\@n(6,150)`||@n(6,-150)/@n(8,-90)\\<|>@n(8a,-90,.5)/\r`\@n(8b,-90,.5)_#3@n(8c,-90,.5)
+$>
+
+en: cyclopropa[_de_]anthracene (PIN)
+ru: циклопропа[_de_]антрацен (PIN)
+
+@End
+
+en: Sections FR-5.3, FR-5.4 and FR-5.5 in ref. 4 describe numbering for more complex structures. 
+ru: Разделы FR-5.3, FR-5.4 и FR-5.5 в ссылке 4 описывают нумерацию для более сложных структур.
+
+en: In particular, the orientation and numbering of helicenes has been changed. Recommended numbering and former 
+numbering for hexahelicene are shown below. 
+ru: В частности, изменена ориентация и нумерация гелиценов. Рекомендуемая нумерация и прежняя нумерация для 
+гексагелицена показаны ниже.
+
+en: Higher helicenes follow the same pattern. A helicene is oriented so that a terminal ring is located in the upper right 
+quadrant; numbering always begins in this terminal ring.
+ru: Высшие гелицены следуют той же схеме. Гелицен ориентирован так, что терминальное кольцо расположено в правом 
+верхнем квадранте; нумерация всегда начинается с этого терминального кольца.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)/`|@n(16a,20,.6)`\r@n(12a,-160,.7)`|@n(13,-150,.5)//@n(14,-90)\@n(15,160,.7)||@n(16,-160,.7)`/`\`/@n(12,-150,.5)||@n(11,150,.5)\@n(10a,160,.7)||:n10@n(10,150,.5)\@n(9,90)_(x%L:1.33,y#n10,N2):n8a@n(8a,90,.5)`|@n(16c,-90,.5)<`\\#2@n(16b,-35,.7)>_(x%L,y#2)@n(16d,-150,.75)\@n(6a,30,.5)<|@n(7,30)`//@n(8,90)_#n8a>//@n(6,30)`|@n(5,-30)`\\@n(4a,-30,.5)`/@n(16e,170,.7)|`|`\@n(1,-30,.5)`||@n(2,30,.5)/@n(3,-90)\\@n(4,-30)|
+$>
+
+en: hexahelicene (PIN)  <br>
+(new orientation and numbering) 
+ru: гексагелицен (PIN) <br>
+(новая ориентация и нумерация)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)/`|@n(12,145,.6)`\\@n(11,99,.6)`/@n(10,-150,.5)||@n(9,150)\@n(8a,150,.6)||@n(8,150)\@n(7,90)//@n(6a,90,.5)`|@n(12b,-90,.5)`\l@n(12a,-40,.65)\/@n(12c,-150,.75)\@n(4a,30,.5)<|@n(5,30)`//@n(6,90)`\>//@n(4,30)`|@n(3,-30)`\\@n(2a,-30,.55)<_(y-1.5):n2>`/@n(12d,160,.7)|`|_(A-135)@n(12e,100,.6)`//@n(13,-90,.6)`\@n(14,-40,.65)`||@n(15,-150,.5)/@n(16,-90)\\@n(16a,-90,.6)<|>/@n(1,-90)\\#n2@n(2,-30)
+$>
+
+en: **Note**: Orientation and numbering no longer recommended;  <br>
+but still in use by CAS for the ring system having the name  <br>
+phenanthro[3,4-_c_]phenanthrene, ref. 22
+ru: **Примечание**: Ориентация и нумерация больше не рекомендуются; <br>
+но все еще используются CAS для кольцевой системы с названием <br>
+фенантро[3,4-_c_]фенантрен, ссылка 22
+
+@End
+
+#P-25.3.3.1.2+
+en: If alternative numberings for a ring system remain after the application of P-25.3.3.1.1 (including 
+alternative locations for heteroatoms), the following criteria are applied in order until a decision is reached: 
+ru: Если после применения P-25.3.3.1.1 остаются альтернативные нумерации для кольцевой системы (включая альтернативные 
+местоположения гетероатомов), следующие критерии применяются по порядку до тех пор, пока не будет принято решение:
+
+#(a)
+en: low locants are assigned to heteroatoms, considered as a set without regard to the kind of heteroatom;
+ru: низкие локанты присваиваются гетероатомам, рассматриваемым как набор без учета вида гетероатома;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_p@n(5,100)_pp@n(6,180)_p@n(7,-100)_pp@n(7a,-100,.5)/O@n(1,-90,.6)\@n(2,-30)||@n(3,30)`/@n(4,90)`\\@n(4a,100,.5)
+$>
+
+en: cyclopenta[b]pyran (PIN) 
+ru: циклопента[b]пиран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r_pHN@n(4,80,.6)_p@n(5,180)_pp@n(6,-100)_p|@n(3a,90,.5)_qO@n(3,80,.6)_q@n(2,0)_qS@n(1,-80,.6)_q@n(6a,-90,.5)
+$>
+
+en: 2_H_,4_H_-[1,3]oxathiolo[5,4-_b_]pyrrole (PIN)
+ru: 2_H_,4_H_-[1,3]оксатиоло[5,4-_b_]пиррол (PIN)
+
+@End
+
+#(b)
+en: low locants are assigned to heteroatoms in the order: <% order %>;
+ru: меньшие локанты присваиваются гетероатомам в порядке: <% order %>;
+%order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r_p@n(4,100)_pp@n(5,180)_pS@n(6,-100,.6)_p|@n(3a,90,.5)_q@n(3,80)_qq@n(2,0)_qO@n(1,-80,.6)_q@n(6a,-90,.5)
+$>
+
+en: thieno[2,3-_b_]furan (PIN)
+ru: тиено[2,3-_b_]фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r_pS@n(4,100,.6)_p@n(5,180)_pp@n(6,-100)_p|@n(3a,90,.5)_qN@n(3,80,.6)_qq@n(2,0)_qNH@n(1,-80,.6)_q@n(6a,-90,.5)
+$>
+
+en: 1_H_-thieno[2,3-_d_]imidazole (PIN) 
+ru: 1_H_-тиено[2,3-_d_]имидазол (PIN)
+
+@End
+
+#(c)
+en: low locants are assigned to fusion carbon atoms;  
+ru: меньшие локанты назначаются углеродным атомам слияния;
+
+@Examples 5
+
+@cell colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_qq@n(3,80)_q@n(2,0)_qq@n(1,-80)_q>@n(3a,80,.5)_p7@n(4,80)_pp7@n(5,120)_p7@n(6,180)_pp7@n(7,-120)_p7@n(8,-80)_pp7@n(8a,-80,.5)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_p@n(6,100)_pp@n(7,180)_p@n(8,-100)_pp>@n(5a,100,.5)_qq7@n(5,100)_q7@n(4,60)_qq7@n(3,0)_q7@n(2,-60)_qq7@n(1,-100)_q7@n(8a,-100,.5)
+$>
+
+@cell colspan=5
+en: azulene (PIN) <br>
+**Explanation**: The locants ‘3a,8a’ are lower than ‘5a,8a’.
+ru: азулен (PIN) <br>
+**Пояснение**: Локанты «3a,8a» меньше, чем «5a,8a».
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N|<_ppN@n(5,100,.6)_p@n(6,180)_pp@n(7,-100)_p>@n(4a,100,.5)\N@n(4,90,.6)//@n(3,30)`|@n(2,-30)`\\N@n(1,-90,.6)`/@n(8,-90,.6)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(4,90,.6)`/N@n(5,90,.6)`\\@n(6,150)`|@n(7,-150)//N@n(8,-90,.6)\|_q@n(3,80)_qq@n(2,0)_qN@n(1,-80,.6)_qq@n(8a,-80,.5)
+$>
+
+@cell
+en: nor
+ru: и не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N@n(5,90,.6)\N@n(4,90,.6)//@n(3,30)`|@n(2,-30)`\\N@n(1,-90,.6)`/|_p@n(6,100)_pp@n(7,180)_pN@n(8,-100,.6)_pp@n(8a,-100,.5)
+$>
+
+@cell colspan=5
+en: imidazo[1,2-_b_][1,2,4]triazine (PIN) <br>
+**Explanation**: The locant ‘4a’ is lower than ‘8a’. 
+ru: имидазо[1,2-_b_][1,2,4]триазин (PIN) <br>
+**Пояснение**: Локант «4a» ниже, чем «8a».
+
+@End
+
+#(d)
+en: low locants are assigned to fusion rather than nonfusion heteroatoms of the same element; 
+ru: меньшие локанты сначала относятся к слитым, а затем к неслитым гетероатомам одного и того же элемента;
+
+@Examples 3 single
+
+@cell
+<$
+$L(1.2)N@n(5,90,.6)`-`|N@n(11,-80,.6)<_q_qqr<_qN@n(6,90,.6)_qq@n(5a,80)>@n(6a,130,.5)_p6@n(7,130)_pp6@n(8,180)_p6@n(9,-100)_pp6@n(10,-80)_p6@n(10a,-60,.7)>-@n(11a,-90,.5)|_q_qqr<_qN@n(12,-80,.6)_qq>@n(12a,-60,.6)_p6@n(1,-60)_pp6@n(2,-10)_p6@n(3,70)_pp6@n(4,120)_p6@n(4a,130,.5)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|N@n(6,90,.6)_p_pl_q6@n(10,-120)_qq6@n(9,170)_q6@n(8,120)_qq6@n(7,50)_q6@n(6a,50,.5)_q6@n(10a,-130,.6)_pN@n(11,-100,.6)_pp@n(11a,-80,.5)-N@n(12,-100,.6)|@n(5a,100)<`->_qqN@n(5,90,.6)_q_qqr<_q>@n(12a,-130,.7)_p6@n(1,-120)_pp6@n(2,-60)_p6@n(3,0)_pp6@n(4,60)_p6@n(4a,70,.5)
+$>
+
+@cell colspan=3
+en: [1,3]diazeto[1,2-_a_:3,4-_a_′]bis([1,3]benzimidazole) (PIN) <br>
+[1,3]diazeto[1,2-_a_:3,4-_a_′]dibenzimidazole <br>
+**Explanation**: The locant ‘5’ is lower than ‘6’. 
+ru: [1,3]диазето[1,2-_a_:3,4-_a_′]бис([1,3]бензимидазол) (PIN) <br>
+[1,3]диазето[1,2-_a_:3,4-_a_′]дибензимидазол <br>
+**Пояснение**: Локант «5» меньше, чем «6».
+
+@End
+
+#(e)
+en: low locants are assigned so that an interior heteroatom is nearer (i.e., fewer bonds in the pathway) to the lowest 
+numbered fusion peripheral atom (see P-25.3.3.2 for interior numbering); 
+ru: меньшие локанты назначаются таким образом, чтобы внутренний гетероатом находился ближе (т.е. меньше связей в пути) 
+к периферическому атому слияния с наименьшим номером (см. P-25.3.3.2 для внутренней нумерации);
+
+@Examples 3 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)\|`/@n(6,90)`\@n(7,150)`||@n(8,-150)/@n(8a,-150,.6)`||@n(9,-150)/@n(10,-90)\\|N@n(11,-150,.6)`/|@n(5a,90,.5)\@n(5,90)//@n(4,30)`|@n(3a,30,.6)<`\>//@n(3,30)`|@n(2,-30)`\\@n(1,-90)`/@n(10a,-90,.6)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)\N@n(11,-90,.6)|`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//@n(8a,-150,.6)`|@n(9,-150)//@n(10,-90)\|l\<||@n(4,30)`/@n(5,90)`\\@n(5a,90,.5)>@n(3a,30,.6)/@n(3,30)`||@n(2,-30)`\@n(1,-90)`/@n(10a,-90,.6)|`/
+$>
+
+@cell colspan=3
+en: 6_H_-quinolizino[3,4,5,6-_ija_]quinoline (PIN) <br>
+Explanation: The locant ‘3a’ next to the nitrogen atom is lower than ‘5a’. 
+ru: 6_H_-хинолизино[3,4,5,6-_ija_]хинолин (PIN) <br>
+**Пояснение**: Локант «3a» рядом с атомом азота ниже, чем «5a».
+
+@End
+
+#(f)
+en: low locants are assigned to indicated hydrogen atoms (expressed or implied); 
+ru: меньшие локанты присвоены указанным атомам водорода (выраженным или подразумеваемым);
+
+@Examples 3
+
+@cell colspan=3
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//@n(8,90)`\@n(9,150)`||@n(10,-150,.5)/@n(11,-90)\\|@n(7b,90,.5)\/r\@n(4,-30)||@n(5,30)`/@n(6,90)`\\@n(7,150)`|@n(7a,135,.6)/@n(3b,-20,.6)`|@n(3a,20,.6)`\\l<`/@n(11a,-90,.5)>@n(11b,-140,.7)_p@n(1,-120)_p@n(2,-80)_pp@n(3,-10)_p
+$>
+
+en: 1_H_-cyclopenta[_l_]phenanthrene (PIN) 
+ru: 1_H_-циклопента[_l_]фенантрен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r_pHN@n(4,90,.6)_p@n(5,180)_ppN@n(6,-100,.6)_p|@n(3a,90,.5)_qO@n(3,90,.6)_q@n(2,0)_qO@n(1,-90,.6)_q@n(6a,-90,.5)
+$>
+
+en: 2_H_,4_H_-[1,3]dioxolo[4,5-_d_]imidazole <br>
+correct 
+ru: 2_H_,4_H_-[1,3]диоксоло[4,5-_d_]имидазол <br>
+правильно
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|r_pN@n(4,100,.6)_pp@n(5,180)_pHN@n(6,-100,.6)_p|@n(3a,90,.5)_qO@n(3,90,.6)_q@n(2,0)_qO@n(1,-90,.6)_q@n(6a,-90,.5)
+$>
+
+en: 2_H_,6_H_-[1,3]dioxolo[4,5-_d_]imidazole <br>
+incorrect 
+ru: 2_H_,6_H_-[1,3]диоксоло[4,5-_d_]имидазол <br>
+неправильно
+
+@End
+
+en: **Explanation**: The locant set ‘2,4’ for indicated hydrogen atoms is lower than ‘2,6’. 
+ru: **Пояснение**: Набор локантов «2,4» для указанных атомов водорода ниже, чем «2,6».
+
+#P-25.3.3.2
+en: Numbering of interior heteroatoms 
+ru: Нумерация внутренних гетероатомов
+
+#P-25.3.3.2.1+
+en: Interior heteroatoms that are not identified by skeletal replacement (‘a’) nomenclature are numbered after 
+the peripheral atoms continuing the established number sequence [see also P-25.3.3.1.2 (e)]. Compare the numbering of 
+interior carbon atoms (see P-25.3.3.3). 
+ru: Внутренние гетероатомы, которые не идентифицированы скелетной замещающей (‘a’) номенклатурой, нумеруются после 
+периферийных атомов, продолжая установленную последовательность номеров [см. также P-25.3.3.1.2 (e)]. 
+Сравните нумерацию внутренних атомов углерода (см. P-25.3.3.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N|_(a%a:81.4707,N2)@n(6,110)_(a%b:68.5292)@n(7,-170)_(a%b,N2)\@n(8,-90,.6)/<_(a%a)@n(4,-10)_(a%b,N2)@n(5,70)_(a%b)@n(5a,90,.5)>@n(3a,-20,.6)`||@n(3,-30)`\O@n(2,-90,.6)`/@n(1,-150)|@n(7a,-160,.6)
+$>
+
+en: 1_H_-[1,4]oxazino[3,4,5-_cd_]pyrrolizine (PIN) 
+ru: 1_H_-[1,4]оксазино[3,4,5-_cd_]пирролизин (PIN)
+
+@End
+
+#P-25.3.3.2.2+
+en: If there is a choice, the shortest pathway in terms of the number of bonds from each heteroatom to the 
+periphery is determined. The lower number is given to the heteroatom whose shortest pathway connects to the lowest 
+numbered peripheral atom. 
+ru: Если есть выбор, то определяется кратчайший путь по числу связей от каждого гетероатома до периферии. 
+Меньший номер дается гетероатому, кратчайший путь которого соединяется с периферийным атомом с наименьшим номером.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|N@n(10,-50,.7)`/_(a%a:81.4707,N2)@n(7,180)_(a%b:68.5292)@n(8,-100)_(a%b,N2)@n(8a,-100,.5)/@n(8b,-140,.5)\N@n(9,-90,.6)</_(a-%a,N2)@n(2,-30)`-@n(1,-150)_(a-%b,N2)>#
+|<_(a-%a)@n(4,60)_(a-%b,N2)@n(3,0)_(a-%b)@n(2a,-30,.5)>@n(4a,80,.5)`//;
+#N\@n(4b,30,.5)_(a%a)@n(5,70)`=@n(6,110)_(a%b)@n(6a,150,.5)
+$>
+
+en: pyrazino[2,1,6-_cd_:3,4,5-_c_′_d_′]dipyrrolizine (PIN) <br>
+**Explanation**: The heteroatom numbered ‘9’ is one bond away from ‘2a’, which is lower than ‘4b’. 
+ru: пиразино[2,1,6-_cd_:3,4,5-_c_′_d_′]дипирролизин (PIN) <br>
+**Пояснение**: Гетероатом с номером «9» находится на одну связь дальше от «2a», что ниже, чем «4b».
+
+@End
+
+#P-25.3.3.2.3+
+en: If there is a choice between heteroatoms of different elements, the lower locant is assigned in accordance 
+with the order <% order %>;
+ru: Если есть выбор между гетероатомами разных элементов, то низший локант назначается в соответствии с 
+порядком <% order %>;
+%order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl 
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)P@n(14,90,.6)`/`\@n(10,150,.5)`||@n(11,-150,.5)/@n(12,-90)\\@n(12a,-100,.55)/@n(12b,-140,.85)`||@n(1,-150)/@n(2,-90)\\@n(3,-30)|<`/N@n(13,-90,.6)`\>@n(3a,-30,.6)\\@n(4,-30)|@n(5,30)`//@n(6,90)`\<`|>@n(6a,80,.5)`//@n(6b,40,.6)<`\`|>|@n(7,30)`//@n(8,90)`\@n(9,150)`||@n(9a,150,.6)
+$>
+
+en: phosphinolizino[4′,5′,6′:3,4,5][1,4]azaphosphinino[2,1,6-_de_]quinolizine (PIN) <br>
+**Explanation**: The nitrogen atom has a lower locant than the phosphorus atom. 
+ru: фосфинолизино[4′,5′,6′:3,4,5][1,4]азафосфинино[2,1,6-_de_]хинолизин (PIN) <br>
+**Пояснение**: Атом азота имеет меньший локант, чем атом фосфора.
+
+@End
+
+#P-25.3.3.3
+en: Numbering of interior carbon atoms 
+ru: Нумерация внутренних атомов углерода
+
+#P-25.3.3.3.1+
+en: Interior atoms are numbered by identifying the minimum number of bonds linking them to a peripheral 
+atom. The locant for the interior atom is that of the peripheral atom with a superscript number corresponding to the 
+number of bonds between the two atoms. The previous rule (Rule A-22.2 in ref. 1), which is still used in CAS index 
+nomenclature, recommended that interior atoms follow the highest numbered peripheral atom adding Roman letters in 
+sequence to the appropriate peripheral number. 
+ru: Внутренние атомы нумеруются путем определения минимального числа связей, соединяющих их с периферийным атомом. 
+Локантом для внутреннего атома является локант периферийного атома с надстрочным номером, соответствующим числу связей 
+между двумя атомами. Предыдущее правило (правило A-22.2 в ссылке 1), которое все еще используется в номенклатуре 
+индекса CAS, рекомендовало, чтобы внутренние атомы следовали за периферийным атомом с наивысшим номером, добавляя 
+римские буквы в последовательности к соответствующему периферийному номеру.
+
+en: **Note**: This is a major change to the rules for interior numbering of carbon atoms recommended in the 1998 publication 
+on fusion nomenclature (see FR-5.5.2 in ref. 4).
+ru: **Примечание**: Это существенное изменение правил внутренней нумерации атомов углерода, рекомендованных 
+в публикации 1998 года по номенклатуре слияния (см. FR-5.5.2 в ссылке 4).
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\`|l/@n(1,-90)\\@n(2,-30)|@n(3,30)`//@n(3a,30,.6)|@n(4)`//@n(5,90)`\`|/@n(3a^1,-25,.7)`|@n(10a,-90,.6)`\@n(10,-90)`//@n(9,-150)|\r@n(5a^1,-80,.55)`\@n(8a,-150,.6)`/@n(8,-150)||@n(7,150)\@n(6,90)//@n(5a,90,.5)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\`|l/@n(1,-90)\\@n(2,-30)|@n(3)`//@n(3a,30,.6)|@n(4,30)`//@n(5,90)`\`|/@n(10b,-20,.6)`|@n(10a,-90,.6)`\@n(10,-90)`//@n(9,-150)|\r@n(10c,-90,.6)`\@n(8a,-150,.6)`/@n(8,-150)||@n(7,150)\@n(6,90)//@n(5a,90,.5)
+$>
+
+@cell
+en: pyrene (PIN)  <br>
+(recommended numbering) 
+ru: пирен (PIN) <br>
+(рекомендуемая нумерация)
+
+@cell colspan=2
+en: **Note**: Former numbering, no longer  <br>
+recommended but still used in CAS index nomenclature. 
+ru: **Примечание**: Прежняя нумерация, больше не <br>
+рекомендуется, но все еще используется в номенклатуре индекса CAS.
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|/`|@n(3,-30)`\\@n(2,-90)`/@n(1,-150)|\r@n(3a^1,-80,.55)`\@n(9a,-150,.6)`/@n(9,-150)||@n(8,150)\@n(7,90)//@n(6a,90,.5)\@n(6,90)//@n(5,30)`|@n(4,-30)`\\@n(3a,-30,.6)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|/`|@n(3,-30)`\\@n(2,-90)`/@n(1,-150)|\r@n(9b,-90,.55)`\@n(9a,-150,.6)`/@n(9,-150)||@n(8,150)\@n(7,90)//@n(6a,90,.5)\@n(6,90)//@n(5,30)`|@n(4,-30)`\\@n(3a,-30,.6)
+$>
+
+@cell
+en: 1_H_-phenalene (PIN)  <br>
+(recommended numbering) 
+ru: 1_H_-фенален (PIN) <br>
+(рекомендуемая нумерация)
+
+@cell colspan=2
+en: **Note**: Former numbering, no longer recommended  <br>
+but still used in CAS index nomenclature. 
+ru: **Примечание**: Прежняя нумерация, больше не рекомендуется, <br>
+но все еще используется в номенклатуре индекса CAS.
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N`|//@n(1,-90)\@n(2)|`/`\@n(12,90,.6)`/`\<`|@n(10,-150,.5)//@n(11,-90)\@n(11a,-90,.6)>@n(9a,-150,.6)`//@n(9,-150)|@n(8,150)\\@n(7,90)/`|l@n(6a^1,-80,.6)|@n(6a,90,.6)\@n(6,90)/`|l@n(2a^1,-80,.6)|@n(5a,90,.6)\@n(5,90)//@n(4,30)`|@n(3,-30)`\\@n(2a,-30,.6)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)N`|//@n(1,-90)\@n(2)|`/`\@n(12,90,.6)`/`\<`|@n(10,-150,.5)//@n(11,-90)\@n(11a,-90,.6)>@n(9a,-150,.6)`//@n(9,-150)|@n(8,150)\\@n(7,90)/`|l@n(12b,-90,.6)|@n(6a,90,.6)\@n(6,90)/`|l@n(12a,-90,.6)|@n(5a,90,.6)\@n(5,90)//@n(4,30)`|@n(3,-30)`\\@n(2a,-30,.6)
+$>
+
+@cell
+en: 2_H_,6_H_-quinolizino[3,4,5,6,7-_defg_]acridine (PIN)  <br>
+(recommended numbering)
+ru: 2_H_,6_H_-хинолизино[3,4,5,6,7-_defg_]акридин (PIN) <br>
+(рекомендуемая нумерация)
+
+@cell colspan=2
+en: **Note**: Former numbering, no longer recommended  <br>
+but still used in CAS index nomenclature.
+ru: **Примечание**: Прежняя нумерация, больше не рекомендуется, <br>
+но все еще используется в номенклатуре индекса CAS.
+
+@End
+
+#P-25.3.3.3.2+
+en: If there is a choice of locants for interior carbon atom, lower locants are selected. 
+ru: Если есть возможность выбора локантов для внутреннего атома углерода, выбираются нижние локанты.
+
+@Examples 3 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`\\r:b9`|@n(1,-150)//@n(2,-90)\@n(3)||:a3`/@n(3a^1,30,.6)|<\@n(3b^1,-80,.6)|:a6>@n(3a^2,100,.8)`/@n(6b^1,-80,.55)`\<_#b9@n(9b,-170,.6)>@n(9a,-150,.6)`//@n(9,-150)|@n(8,150)\\@n(7,90)/`|l|@n(6b,80)_#a6@n(6a,100)\\@n(6,90)/@n(5,30)`||@n(4,-30)`\`/l/@n(3b,-30,.6)_#a3@n(3a,-10,.6)
+$>
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`\\r:b9`|@n(1,-150)//@n(2,-90)\@n(3)||:a3`/@n(9c,30,.5)|<\@n(9e,-90,.6)|:a6>@n(9d,100,.6)`/@n(6c,-90,.6)`\<_#b9@n(9b,-170,.6)>@n(9a,-150,.6)`//@n(9,-150)|@n(8,150)\\@n(7,90)/`|l|@n(6b,80)_#a6@n(6a,100)\\@n(6,90)/@n(5,30)`||@n(4,-30)`\`/l/@n(3b,-30,.6)_#a3@n(3a,-10,.6)
+$>
+
+@cell
+en: 3a^{2}_H_-benzo[3,4]pentaleno[2,1,6,5-_jklm_]fluorene (PIN)  <br>
+(recommended numbering)  
+ru: 3a^{2}_H_-бензо[3,4]пенталено[2,1,6,5-_jklm_]флуорен (PIN) <br>
+(рекомендуемая нумерация)
+
+@cell
+
+@cell
+en: **Note**: Former numbering, no longer recommended  <br>
+but still used in CAS index nomenclature. 
+ru: **Примечание**: Прежняя нумерация, больше не рекомендуется, <br>
+но все еще используется в номенклатуре индекса CAS.
+
+@End
+
+#P-25.3.4
+en: Constructing polycomponent fusion names 
+ru: Построение поликомпонентных имён слияния
+
+en: When several nonidentical components must be considered, one, and only one, can be the parent component. All other 
+components are attached components. A component attached directly to the parent component is called a ‘first-order 
+attached component’. A component attached to a first-order attached component is called a ‘second-order’ attached 
+component, and so on. The parent and the first-order attached components are named as indicated for two component 
+systems (see P-25.3.2). 
+ru: Когда необходимо рассмотреть несколько неидентичных компонентов, один и только один может быть исходным компонентом. 
+Все остальные компоненты являются прикрепленными компонентами. Компонент, прикрепленный непосредственно к исходному 
+компоненту, называется «прикрепленным компонентом первого порядка». Компонент, прикрепленный к прикрепленному компоненту 
+первого порядка, называется прикрепленным компонентом «второго порядка» и т. д. Исходный и прикрепленный компоненты 
+первого порядка именуются так, как указано для двухкомпонентных систем (см. P-25.3.2).
+
+#P-25.3.4.1
+en: Three types of fusion names are considered in these recommendations. 
+ru: В данных рекомендациях рассматриваются три типа слитных имен.
+
+@Content
+
+#P-25.3.4.1.1
+en: Fusion names composed of first- and higher-order attached components 
+ru: Имена слияния, состоящие из присоединенных компонентов первого и более высокого порядка
+
+en: The procedure for indicating common bond(s) between a first-order attached component and a higher-order attached 
+component follows that for the attachment of the parent compound to the first-order attached component except that 
+numerical locants are used instead of letters and the two sets of locants are separated by a colon. The locants of second
+order attached components are primed to contrast with those of first-order attached components. The locants of third
+order attached components are doubly primed, and so on. 
+ru: Процедура указания общей связи(ей) между присоединенным компонентом первого порядка и присоединенным компонентом 
+более высокого порядка следует процедуре для присоединения исходного соединения к присоединенному компоненту 
+первого порядка, за исключением того, что вместо букв используются числовые локанты, а два набора локантов разделены 
+двоеточием. Локанты присоединенных компонентов второго порядка имеют штрих, чтобы контрастировать с локантами 
+присоединенных компонентов первого порядка. Локанты присоединенных компонентов третьего порядка имеют двойной штрих и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|`/`\\`|//\//N\<|`/N`\\>//\@n(a,-170,.7)<|@n(b,-120,.6)`/`\\_(x1,y-1.2,N0)_m(x%c:.6,y%v:.3)_m(y.6)_(x-%c,y%v,>)>#
+@n(2,30,.5)//N\@n(6,160,.5)||r@n(5,-160,.5)<`/N`\\@n(3,-30,.5)>@n(4′,-30,.5)_qN_qq@n(2′,175,.6)_qN@n(1′,105,.6)<_q@n(5′,30,.5)>@n(1′′,-10,.6)_p6_pp6_p6_pp6_p6@n(2′′,-50,.5)
+$>
+
+en: pyrido[1′′,2′′:1′,2′]imidazo[4′,5′:5,6]pyrazino[2,3-_b_]phenazine (PIN)
+ru: пиридо[1'',2'':1',2']имидазо[4',5':5,6]пиразино[2,3-_b_]феназин (PIN)
+
+@End
+
+
+#P-25.3.4.1.2
+en: Identical attached components 
+ru: Идентичные присоединенные компоненты
+
+
+en: A multiplicity of components that are identical and are all fused to a parent component or an attached component is 
+indicated by the use of the prefix ‘di’, ‘tri’, etc. (or ‘bis’, ‘tris’, etc.). The multiplying prefix is not considered in 
+determining the alphabetical order of attached components in names of polycomponent fusion names (see P-25.3.4.2.3). 
+A colon separates the sets of locants, and a comma is used when letters only are present. 
+ru: Множество компонентов, которые идентичны и все слиты с родительским компонентом или присоединенным компонентом, 
+обозначается использованием префикса «ди», «три» и т. д. (или «бис», «трис» и т. д.). 
+Префикс умножения не учитывается при определении алфавитного порядка присоединенных компонентов в именах поликомпонентных 
+слитых имен (см. P-25.3.4.2.3).
+Двоеточие разделяет наборы локантов, а запятая используется, когда присутствуют только буквы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@n(3′,-150,.5)_p_pp_pO_p@n(2′,140,.5)//\<_(x-.6,y.2,N0)_m(y-%v:.4,x%h:-.3)_m(x-.5)_(y%v,x%h,>)>||@n(b,-120,.8)<`/N@n(a,-60,.8)`\\@n(e,-60,.8)>@n(3,-30,.5)_q_qq_qO_q@n(2,30,.5)
+$>
+
+en: difuro[3,2-b:2′,3′-_e_]pyridine (PIN)
+ru: дифуро[3,2-b:2′,3′-_e_]пиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)`/O`\`||/\\@n(3,140,.5)|@n(2,-150,.5)@n(b,-60,.8)\\N/`|l`\@n(d,60,.8)<`/>@n(3′,-30,.6)`||/O\||@n(5′,-150,.6)`/@n(4′,-90,.5)|\//`|@n(g,120,.7)<`\@n(e,120,.7)>@n(3,40,.5)_pp_p_pO_p@n(2,-40,.5)
+$>
+
+en: 5_H_-furo[3,2-_g_]dipyrano[2,3-b:3′,4′,5′-_de_]quinoline (PIN)  <br>
+(furo before dipyrano) 
+ru: 5_H_-фуро[3,2-_g_]дипирано[2,3-b:3',4',5'-_de_]хинолин (PIN) <br>
+(фуро перед дипирано)
+
+@End
+
+#P-25.3.4.1.3
+en: Multiparent names
+ru: Мультиисходные имена
+
+en: Multiple occurrences of the parent component in a multiparent system is indicated by the use of multiplying prefixes, 
+‘di’, ‘tri’, etc, or ‘bis’, ‘tris’, etc. To distinguish between the parent components, the second has primed locants, the 
+third double primed, etc. 
+ru: Многократное появление исходного компонента в мультиисходной системе обозначается использованием умножающих префиксов, 
+«di», «tri» и т. д., или «bis», «tris» и т. д. Чтобы различать родительские компоненты, второй имеет штрихованные локанты, 
+третий — двойной штрих и т. д.
+
+@p .framed
+en: The use of enclosing parentheses following ‘di’, ‘tri’, etc., indicating multiple occurrences of a parent component in 
+these recommendations is a change from the recommendations in the 1998 publication on fusion nomenclature (ref. 4). 
+ru: Использование закрывающих скобок после «di», «tri» и т. д., указывающих на многократное появление исходного компонента 
+в этих рекомендациях, является изменением по сравнению с рекомендациями в публикации 1998 года по номенклатуре слияний 
+(ссылка 4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_qq:R@n(2,160,.5)_q@n(1,90,.5)<_q:L@n(5,20,.5)_qq><_(A-70)O_p7_pp6_pS_#R@n(b,-110,.7)>_(A-110)O_q7_qq6_qS_#L@n(b′,-70,.7)
+$>
+
+en: cyclopenta[1,2-_b_:1,5-_b_′]bis([1,4]oxathiine) (PIN) 
+ru: циклопента[1,2-_b_:1,5-_b_']бис([1,4]оксатиин) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_ppN_pO_pN_pp@n(c′,120,.7)@n(3,30)/@n(2,90)\@n(1,150)<|`//`\@n(4,-30)>@n(c,-120,.7)_qqN_qO_qN_qq
+$>
+
+en: benzo[1,2-c:3,4-_c_′]bis([1,2,5]oxadiazole) (PIN) 
+ru: бензо[1,2-c:3,4-_c_′]бис([1,2,5]оксадиазол) (PIN)
+
+@End
+
+#P-25.3.4.2
+en: Constructing polycomponent fusion names
+ru: Построение поликомпонентных имён слияния
+
+en: Polycomponent fusion names are constructed by using specific orders of seniority and rules. They are elaborated as 
+follows.
+ru: Поликомпонентные имена слияния строятся с использованием определенных порядков старшинства и правил. 
+Они разрабатываются следующим образом.
+
+@Content
+
+#P-25.3.4.2.1
+en: Order of seniority for selecting parent components 
+ru: Порядок старшинства для выбора родительских компонентов
+
+en: When there are two or more locations for a parent component in a fused ring structure, the following criteria are applied 
+sequentially until a complete distinction is obtained. In the examples below, the senior location is identified by a solid 
+box and other locations with a dashed box. 
+ru: Если в структуре конденсированных колец есть два или более местоположений для исходного компонента, 
+следующие критерии применяются последовательно до тех пор, пока не будет получено полное различие. 
+В приведенных ниже примерах старшее месторасположение обозначено сплошным прямоугольником, 
+а другие местоположения — пунктирным прямоугольником.
+
+en: The senior location is:
+ru: Старшее местоположение:
+
+#(a)
+en: the location that enables the whole ring system to be named by fusion nomenclature, thus excluding names of 
+bridged fused systems; 
+ru: местоположение, которое позволяет назвать всю кольцевую систему по номенклатуре слияния, 
+тем самым исключая названия мостиковых слитых систем;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)$dblAlign(r)`=_p7@:w(b,L)<_(a-64.3):&L>&b<_(a180,L0.55,N0){}_(a90,L1.7,N0):&L1>@(_pp7,a)@w(_p7,b)@w(_pp7,c)@w(_p7,d)<_(a-64.3,N2l):e>_p7;
+#a=#a1-#b=#b1-#c=#c1-#d=#d1-#e;
+@:T(a,b,L,R)&a-0&b_(a0,L.6,N0){}<_(a-90,L%d:1.6,N0){}:&L>_(a90,L%d,N0){}:&R@(#b1,#1,p4,p1)@T(#1,#b1,p2,p3);
+$color(gray)#p1_#p2_#p3_#p4_#p1;
+#3_(y1.3,x-.1,N0){}_(y-%v1:3.2,H)_(x%h1:4.4,H)_(y%v1,H)_(x-%h1,H)
+$>
+
+en: cyclopenta[_ij_]pentaleno[2,1,6-_cde_]azulene (PIN)  <br>
+(not 1,9-methenopentaleno[1,6-_ef_]azulene  <br>
+nor 1,9-methenodicyclopenta[_cd_,_f_]azulene;  <br>
+names including the prefix ‘metheno’ are bridged fused ring names) 
+ru: циклопента[_ij_]пенталено[2,1,6-_cde_]азулен (PIN) <br>
+(не 1,9-метенопенталено[1,6-_ef_]азулен <br>
+и не 1,9-метенодициклопента[_cd_,_f_]азулен; <br>
+названия, включающие префикс «метено», являются названиями мостиковых конденсированных колец)
+
+@End
+
+#(b)
+en: the location that results in a name that does not require attached components higher than first-order. For didactic 
+purposes only, names of attached components of higher order than first-order are written in bold type; 
+ru: местоположение, которое приводит к имени, не требующему присоединенных компонентов выше первого порядка. 
+Только в дидактических целях имена присоединенных компонентов более высокого порядка, чем первый порядок, 
+написаны жирным шрифтом;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-<_q_qq_q_qq>@n(h,140,.65)_pp7_p7@n(j,-100,.7)<_qq_q_qr_p6_pp6_p6_pp6_p6_p6_q>_p7_pp7_p7<_p7>_qq_q:a@n(a,-40,.6)<_qq_q>_pp6_p6_pp6<_p6_pp6>_q6_qq6_q6_qq6_q6;
+$color(gray)#1_(x-2.3,y-.4,N0)_(y%v1:3.5)_(x%h1:4.6)_(y-%v1)_(x-%h1);
+#1_(x-1,y-2,N0)_(y%v2:4.7,H)_(x%h2:3,H)_(y-%v2,H)_(x-%h2,H);
+#1_(x-.5,y-.8,N0)_(A20,L%h3:5,H)_(a90,L%v3:2.8,H)_(a90,L%h3,H)_(a90,L%v3,H)
+$>
+
+en: cyclopenta[_h_]indeno[2,1-_f_]naphtho[2,3-_a_]azulene (PIN)  <br>
+(not benzo[_a_]**benzo**[5,6]indeno[2,1-_f_]cyclopenta[_h_]azulene  <br>
+nor **benzo**[5,6]indeno[1,2-_e_]indeno[2,1-_h_]azulene;  <br>
+there is no second-order component in the recommended name) 
+ru: циклопента[_h_]индено[2,1-_f_]нафто[2,3-_a_]азулен (PIN) <br>
+(не бензо[_a_]**бензо**[5,6]индено[2,1-_f_]циклопента[_h_]азулен <br>
+и не **бензо**[5,6]индено[1,2-_e_]индено[2,1-_h_]азулен; <br>
+в рекомендуемом названии нет компонента второго порядка)
+
+@End
+
+#(c)
+en: the location that results in the maximum number of first-order attached components, second-order attached 
+components, etc. This criterion results in the minimum number of higher-order attached components; hence, fewer 
+primed fusion descriptors are required; 
+ru: местоположение, которое приводит к максимальному количеству присоединенных компонентов первого порядка, 
+присоединенных компонентов второго порядка и т. д. Этот критерий приводит к минимальному количеству присоединенных 
+компонентов более высокого порядка; следовательно, требуется меньшее количество дескрипторов слияния с праймингом;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`//`\`||/\\|\//`|`\`|/<\\|`//>`|`\\`/|r`/`\\`|//\|\|`/;
+$color(gray)#1_(x-.5,y1,N0)_(y-%v1:6.5)_(x%h1:3.8)_(y%v1)_(x-%h1);
+#1_(x2.5,y-.2,N0){}_(A-150,L%h2:6.5,H)_(a90,L%v2:3.9,H)_(a90,L%h2,H)_(a90,L%v2,H)
+$>
+
+en: dibenzo[_c_,_g_]phenanthrene  <br>
+(not naphtho[2,1-_c_]phenanthrene;  <br>
+two attached components preferred to one) 
+ru: дибензо[_c_,_g_]фенантрен <br>
+(не нафто[2,1-_c_]фенантрен; <br>
+два присоединенных компонента предпочтительнее одного)
+
+@End
+
+#(d)
+en: a location that permits the expression of the maximum number of identical attached components with multiplicative 
+prefixes;
+ru: местоположение, позволяющее выразить максимальное количество идентичных присоединенных компонентов с 
+мультипликативными префиксами;
+
+@Examples
+
+@cell
+<$
+`\\`/||\//`|/\\l<|`//`\>/`||l<`\`//|>/\\r<|`//`\>/`||<`\`//|>/\\r<|`//`\>/`||l<`\`//|>/\\<|`//`\>/`||`\`//|;
+$color(gray)#2_(y-.4,N0):a_(A30,L%d:4.5)_(A-30,L6)_(y-%d)_#a;
+#1_(A30,L2.5,N0):b_(y-%d,H)_(A-30,L5.8,H)_(A30,L%d,H)-h#b
+$>
+
+en: dinaphtho[1,2-_c_:2′,1′-_m_]picene (PIN)  <br>
+(not benzo[_c_]phenanthreno[2,1-_m_]picene) 
+ru: динафто[1,2-_c_:2′,1′-_m_]пицен (PIN) <br>
+(не бензо[_c_]фенантрено[2,1-_m_]пицен)
+
+@End
+
+#(e)
+en: a location that uses a senior interparent component; 
+ru: местоположение, которое использует старший компонент взаимодействия с родителями;
+
+@Examples
+
+@cell
+<$
+\|`//`\N`||/`||/\\|`/r/\<|`//`\>//`|`\<`/>`||:c/\\|`/r/\<|`//`\>//`|N`\\`/;
+$color(gray)#1_(x-1.5,y-.3,N0)_(y%v1:2.7)_(x%h1:4.5)_(y-%v1)_(x-%h1);
+#1_(y-2.2,x.4,N0)_(A120,L%a2:4.8,H)_(a-90,L%b2:2.6,H)_(a-90,L%a2,H)_(a-90,L%b2,H);
+#c_(x-.2,y-.8,N0)_(x%a3:4.1,H)_(y%b3:2.5,H)_(x-%a3,H)_(y-%b3,H);
+#c_(x-.4,y-1,N0)_(x%a4:4.5)_(y%b4:2.9)_(x-%a4)_(y-%b4)
+$>
+
+en: anthra[2,1,9-_def_:6,5,10-_d_′_e_′_f_′]diisoquinoline (PIN)  <br>
+(not phenanthro[2,1,10-_def_:7,8,9-_d_′_e_′_f_′]diisoquinoline;  <br>
+anthracene is senior to phenanthrene) 
+ru: антра[2,1,9-_def_:6,5,10-_d_′_e_′_f_′]диизохинолин (PIN) <br>
+(не фенантро[2,1,10-_def_:7,8,9-_d_′_e_′_f_′]диизохинолин; <br>
+антрацен старше фенантрена)
+
+@End
+
+#(f)
+en: a location that results in preferred attached components, first-order, then second-order, etc. This criterion is 
+embellished and illustrated in the original publication (see FR-3.3.1 in ref. 4). 
+ru: местоположение, которое приводит к предпочтительным присоединенным компонентам, первого порядка, затем второго порядка 
+и т. д. Этот критерий расширен и проиллюстрирован в оригинальной публикации (см. FR-3.3.1 в ссылке 4).
+
+
+#P-25.3.4.2.2
+en: Order of seniority for selecting attached components 
+ru: Порядок старшинства для выбора присоединенных компонентов
+
+en: After selection of the parent component (see P-25.3.2.4) [or parent components and interparent component(s) if a 
+multiparent name is chosen], other rings are identified as far as possible as attached components. If there is a choice, 
+first-order attached components are considered first, then second-order attached components, etc. The following criteria 
+are applied in order only until a complete decision is made:
+ru: После выбора родительского компонента (см. P-25.3.2.4) [или исходных компонентов и межродительских компонентов, 
+если выбрано мультиисходное имя], другие кольца идентифицируются по возможности как присоединенные компоненты. 
+Если есть выбор, сначала рассматриваются присоединенные компоненты первого порядка, затем присоединенные компоненты 
+второго порядка и т. д. Следующие критерии применяются только по порядку, пока не будет принято окончательное решение:
+
+en: **Note**: In the examples below, the preferred attached component is marked with a solid box and the alternatives with 
+dashed boxes. 
+ru: **Примечание**: В приведенных ниже примерах предпочтительный присоединенный компонент отмечен сплошной рамкой, 
+а альтернативные варианты — пунктирными рамками.
+
+#(a)
+en: if there are alternative first-order attached components, the senior ring or ring system is selected. The same 
+procedure is applied to second-order attached components, and so on; 
+ru: если есть альтернативные присоединенные компоненты первого порядка, выбирается старшее кольцо или система колец. 
+Та же процедура применяется к присоединенным компонентам второго порядка и т. д.;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/\r_qN_qq_qO@n(1,-90,.6)_q\|`/r|\\/`||`\`/`\`||r_q_qq_q@n(8,100)_q;
+$color(gray)#1_(x-.8,y.1,N0)_(A60,L%a1:4.2)_(a-90,L%b1:2.5)_(a-90,L%a1)_(a-90,L%b1);
+#1_(x-2,y-.7,N0)_(y%b2:2.8,H)_(x%a2:4,H)_(y-%b2,H)_(x-%a2,H)
+$>
+
+en: 8_H_-cyclopenta[3,4]naphtho[1,2-_d_][1,3]oxazole (PIN)  <br>
+(not 8_H_-benzo[6,7]indeno[5,4-_d_][1,3]oxazole;  <br>
+naphthalene is senior to indene) 
+ru: 8_H_-циклопента[3,4]нафто[1,2-_d_][1,3]оксазол (PIN) <br>
+(не 8_H_-бензо[6,7]индено[5,4-_d_][1,3]оксазол; <br>
+нафталин старше индена)
+
+@End
+
+#(b)
+en: the location that has lowest locants as a set for fusion of first-order attached components to the parent component;
+ru: местоположение, имеющее самые низкие локанты как набор для слияния присоединенных компонентов первого порядка с 
+исходным компонентом;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\\`|//\//\|<`/`\\>_qq_q_q<_qq>_p6_p6<_pp6_p6<_pp6>_q_qq_qO_q>_q_qqr<_q_qq>_p6_pp6r<_p6_pp6_p6>_q7@n(5,0)_q7_qq7_q7_qq7@n(1,120)_q7;
+$color(gray)#1_(x-.7,y-.1,N0)_(A-20,L%a1:5.6)_(a90,L%b1:3.3)_(a90,L%a1)_(a90,L%b1);
+#1_(x2.1,y.8,N0)_(A-82,L%a2:5.5,H)_(a90,L%b2:2.7,H)_(a90,L%a2,H)_(a90,L%b2,H)
+$>
+
+en: 5_H_-benzo[6,7]cyclohepta[4′,5′]indeno[1′,2′:3,4]fluoreno[2,1-_b_]furan (PIN)  <br>
+(not 5_H_-benzo[5′,6′]indeno[1′,2′:1,2]cyclohepta[7,8]fluoreno[4,3-_b_]furan;  <br>
+locants 1,2 are lower than 3,4 for the ‘fluoreno’ attached component) 
+ru: 5_H_-бензо[6,7]циклогепта[4′,5′]индено[1′,2′:3,4]флуорено[2,1-_b_]фуран (PIN) <br>
+(не 5_H_-бензо[5′,6′]индено[1′,2′:1,2]циклогепта[7,8]флуорено[4,3-_b_]фуран; <br>
+локанты 1,2 ниже, чем 3,4 для присоединенного компонента «флуорено»)
+
+
+@End
+
+#(c)
+en: the location that has lowest locants for fusion to the parent component in order of citation.
+ru: местоположение, имеющее наименьшие локанты для слияния с исходным компонентом в порядке цитирования.
+
+@Examples
+
+@cell
+<$
+\`\`/||\//`|/\\|\|r_q_qq_qS_q|`/`\r`/|l`/`\\`|:a//\|\//`|`\`|/r`/`\;
+$color(gray)#1_(y-1.4,N0)_(A30,L%a1:5.15)_(a90,L%b1:3.4)_(a90,L%a1)_(a90,L%b1);
+#1_(x.6,y-.4,N0)_(x%b2:3.2,H)_(y%a2:5.8,H)_(x-%b2,H)_(y-%a2,H);
+#a_(x-1,y.3,N0)_(A-30,L%a3:6,H)_(a90,L%b3:3.1,H)_(a90,L%a3,H)_(a90,L%b3,H)
+$>
+
+en: naphtho[2′,1′:3,4]phenanthro[1,2-_b_]thiophene (PIN)  <br>
+(not naphtho[2′,1′:3,4]phenanthro[2,1-_b_]thiophene,  <br>
+not dibenzo[3,4:5,6]phenanthro[9,10-_b_]thiophene;  <br>
+the locants ‘1,2’ for the ‘phenanthro’ attached component, in order of citation, are lower than ‘2,1’ or ‘9,10’) 
+ru: нафто[2′,1′:3,4]фенантро[1,2-_b_]тиофен (PIN) <br>
+(не нафто[2′,1′:3,4]фенантро[2,1-_b_]тиофен, <br>
+не дибензо[3,4:5,6]фенантро[9,10-_b_]тиофен; <br>
+локанты «1,2» для присоединенного компонента «фенантро» в порядке цитирования ниже, чем «2,1» или «9,10»)
+
+@End
+
+en: This procedure is continued exploring outwards to the senior second-order attached components. 
+ru: Эта процедура продолжается в направлении наружу к старшим присоединенным компонентам второго порядка.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\\`|//\//N\|<`/`\\>\\/`|<`\`//>_pp_p_p:a<_pp>_q6N_q6<_p_pp_p_p>_qq6_q6<_qq6>_p6_pp6_p6_pp6_p6;
+$color(gray)#a_(x-.7,y-.6,N0)_(A-24,L%a1:4.2)_(a90,L%b1:2.7)_(a90,L%a1)_(a90,L%b1);
+#a_(y-1.2,x-.2,N0)_(x%b2:2.4,H)_(y%a2:4,H)_(x-%b2,H)_(y-%a2,H)
+$>
+
+en: 7_H_-pyrrolo[2′′,1′′:1′,2′]isoquinolino[4′,3′:4,5]cyclopenta[1,2-_b_]acridine (PIN)  <br>
+(not 7_H_-benzo[7′,8′]indolizino[6′,5′:4,5]cyclopenta[1,2-_b_]acridine;  <br>
+isoquinoline is senior to indolizine)  
+ru: 7_H_-пирроло[2′′,1′′:1′,2′]изохинолино[4′,3′:4,5]циклопента[1,2-_b_]акридин (PIN) <br>
+(не 7_H_-бензо[7′,8′]индолизино[6′,5′:4,5]циклопента[1,2-_b_]акридин; <br>
+изохинолин старше индолизина)
+
+@End
+
+
+#P-25.3.4.2.3
+en: Order of citation of fusion prefixes 
+ru: Порядок цитирования префиксов слияния
+
+#P-25.3.4.2.3.1+
+en: Fusion between two attached components is indicated by the method described in P-25.3.2. 
+All attached components are cited in front of the parent component. Each second-order attached component is 
+cited in front of the first-order attached component to which it is fused, and so on to higher order attached components. 
+If there are two or more different components, or sets of components, attached to a lower order component, they are 
+cited in alphabetical order.
+ru: Слияние между двумя присоединенными компонентами обозначается методом, описанным в P-25.3.2.
+Все присоединенные компоненты цитируются перед родительским компонентом. Каждый присоединенный компонент второго порядка 
+цитируется перед присоединенным компонентом первого порядка, с которым он слит, и так далее до присоединенных компонентов 
+более высокого порядка.
+Если к компоненту более низкого порядка присоединены два или более различных компонента или набора компонентов, они
+цитируются в алфавитном порядке.
+
+@Examples
+
+@cell
+<$
+|_q_qq_qO_q`\\`/|l_p_pp_pS_p|\N//
+$>
+
+en: furo[3,2-_b_]thieno[2,3-_e_]pyridine (PIN)  <br>
+(furo is cited before thieno) 
+ru: фуро[3,2-_b_]тиено[2,3-_e_]пиридин (PIN) <br>
+(фуро цитируется перед тиено)
+
+@cell
+<$ //N\|<_qN_qq_qN_qq>`//N`\`|_q_qql<_qN_qq>_p_pp_pO_p $>
+
+en: furo[2′,3′:4,5]pyrrolo[2,3-_b_]imidazo[4,5-_e_]pyrazine (PIN)  <br>
+(furo...pyrrolo is cited before imidazo) 
+ru: фуро[2′,3′:4,5]пирроло[2,3-_b_]имидазо[4,5-_e_]пиразин (PIN) <br>
+(фуро...пирроло цитируется перед имидазо)
+// здесь снова не решенный вопрос насчет того что на разных языках будет не одинаковый порядок
+
+@End
+
+en: **Note**: In the case of the indacenes, if the only distinction is between _as_-indacene and _s_-indacene, then the italic 
+characters are considered. Otherwise, they are treated as indacene for consideration of alphabetical order. It should be 
+noted that _s_-indacene is senior to _as_-indacene in the order of seniority of components. 
+ru: **Примечание**: В случае индаценов, если единственное различие заключается между _as_-индаценом и _s_-индаценом, 
+то рассматриваются курсивные символы. В противном случае они рассматриваются как индацен для рассмотрения в алфавитном 
+порядке. Следует отметить, что _s_-индацен старше _as_-индацена в порядке старшинства компонентов.
+
+@Examples --
+
+@cell
+<$
+`\\N`/|<_pp_p<_p_pp>_qq6_q6_q6<_qq6_q6>_p_pp_p_pp>\//`|_p_pp_p<_p>_qq6_q6_qq6_q6<_q6>_pp_p_pp_p
+$>
+
+en: _as_-indaceno[2,3-_b_]-_s_-indaceno[1,2-_e_]pyridine (PIN) 
+ru: _as_-индацено[2,3-_b_]-_s_-индацено[1,2-_e_]пиридин (PIN)
+
+@End
+
+#P-25.3.4.2.3.2+
+en: If two or more identical components are fused to a third component, they are cited together using 
+multiplying prefixes (‘di’, ‘tri’, etc.; or ‘bis’, ‘tris’, etc.). The citation of different components is in alphabetical order of 
+the names of the components, just as for simple multiplicative prefixes in substitutive nomenclature. The multiplicative 
+prefix is considered only when it is an integral part of a multipart fusion prefix. 
+ru: Если два или более идентичных компонента объединены с третьим компонентом, они цитируются вместе с использованием 
+умножающих префиксов («ди», «три» и т. д.; или «бис», «трис» и т. д.). Цитирование различных компонентов осуществляется 
+в алфавитном порядке названий компонентов, как и для простых умножающих префиксов в заместительной номенклатуре. 
+Умножающий префикс учитывается только тогда, когда он является неотъемлемой частью многокомпонентного слитного префикса.
+
+@Examples
+
+@cell
+<$
+`\\`/|<_pp_pO_p_pp>\N//`|_pO_p_pp_p
+$>
+
+en: difuro[3,2-_b_:3′,4′-_e_]pyridine (PIN) 
+ru: дифуро[3,2-_b_:3',4'-_e_]пиридин (PIN)
+
+@cell
+<$
+`/|<`/O`\`||/\\>\\N/`|l`\`||/O\||`/|\//`|<`\>_pp_p_pO_p
+$>
+
+en: 5_H_-furo[3,2-_g_]dipyrano[2,3-_b_:3′,4′,5′-_de_]quinoline (PIN)  <br>
+(furo is cited before pyrano) 
+ru: 5_H_-фуро[3,2-_g_]дипирано[2,3-_b_:3′,4′,5′-_de_]хинолин (PIN) <br>
+(фуро указывается перед пирано)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q3@n(1,-90)_q3`//\-</N`\\>_pp7_p7<_qq_q_qq_q>_p7O_p7_p7<_pp7>_q_qq_q_qq
+$>
+
+en: 1_H_-cyclopropa[_b_]dicyclopenta[2,3:6,7]oxepino[4,5-_e_]pyridine (PIN)  <br>
+(not 1_H_-dicyclopenta[2,3:6,7]oxepino[4,5-_b_]cyclopropa[_e_]pyridine;  <br>
+cyclopropa is cited before dicyclopentaoxepino, which is treated as one component) 
+ru: 1_H_-циклопропа[_b_]дициклопента[2,3:6,7]оксепино[4,5-_e_]пиридин (PIN) <br>
+(не 1_H_-дициклопента[2,3:6,7]оксепино[4,5-_b_]циклопропа[_e_]пиридин; <br>
+циклопропа указана перед дициклопентаоксепино, который рассматривается как один компонент)
+
+@End
+
+#P-25.3.4.2.3.3+
+en: If two or more groups of components differ only by virtue of the fusion locants within the group, these 
+locants are used to determine the order of citation of prefixes; lower locant sets are cited earlier. 
+ru: Если две или более групп компонентов различаются только локантами слияния внутри группы, то эти локанты 
+используются для определения порядка цитирования префиксов; наборы локантов с меньшим значением цитируются раньше.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)`\`/|r@n(2′′′,-155,.75)_p7O@n(17,80,.6)@n(1′′′,-100,.45)_p7@n(7′′′,-50,.7)_pp7r<_q@n(20,-120)_q_qq_q>@n(6′′′,-20,.7)_p7_pp7@n(22,-90)_p7@n(3′′′,160,.65)|@n(j,-70,.8)\/l#
+_p7O@n(11,-60,.7)@n(1′′,120,.7)_p7@n(12,0)_pp7@n(6′′,-110,.6)_p7@n(5′′,-80,.6)<_qq_q_qq_q>_p7@n(16,170,.6)_p7@n(3′′,30,.6)_p7@n(2′′,80,.6)@n(h,-170,.8)#
+`|//N@n(10,60,.6)`|`\<`/N@n(23,160,.7)||>`||/@n(a,120,.8)@n(2,-140,.5)<_q7O@n(3,-20,.6)@n(1,170,.5)_q7@n(2,-60)_qq7@n(1,-120)_q7_qq7l@n(4,-30,.5)<_p@n(24,90)_pp_p@n(26,-100)_p@n(5,0,.5)>_q7@n(3,-90,.5)>#
+\\|@n(c,-120,.8)<`//>@n(2′,-20,.5)_q7O@n(1′,-80,.6)@n(9,100,.6)_q7_qq7@n(6′,180,.6)_q7@n(5′,140,.6)<_q7@n(4,-100)_q7@n(3′,20,.5)>_pp@n(5,-110)_p_pp_p
+$>
+
+en: 4_H_,16_H_,20_H_,26_H_-cyclopenta[4,5]oxepino[3,2-_a_]bis(cyclopenta[5,6]oxepino)[3′,2′-_c_:2′′,3′′-_h_]cyclopenta[6′′′,7′′′]oxepino[2′′′,3′′′-_j_]phenazine (PIN) 
+ru: 4_H_,16_H_,20_H_,26_H_-циклопента[4,5]оксепино[3,2-_a_]бис(циклопента[5,6]оксепино)[3′,2′-_c_:2′′,3′′-_h_]циклопента[6′′′,7′′′]оксепино[2′′′,3′′′-_j_]феназин (PIN)
+
+@End
+
+#P-25.3.4.2.3.4+
+en: If two or more groups of components only differ by virtue of heteroatom locants, these locants are used 
+to determine the order; lower locant sets are cited earlier. 
+ru: Если две или более групп компонентов отличаются только локантами гетероатомов, то эти локанты используются для 
+определения порядка; меньшие наборы локантов указываются раньше.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|N@n(a,-70,.7)@n(3,-150,.6)_p_pp_pO_p@n(2,150,.5)//\@n(c,-170,.7)<|`//`\>@n(4,-100,.5)_qq_qNH@n(2,-90,.6)_qO@n(1,-100,.6)_q@n(5,-30,.45)
+$>
+
+en: 2_H_-[1,2]oxazolo[5,4-_c_][1,3]oxazolo[3,2-_a_]pyridine (PIN) 
+ru: 2_H_-[1,2]оксазоло[5,4-_c_][1,3]оксазоло[3,2-_a_]пиридин (PIN)
+
+@End
+
+
+#P-25.3.4.2.4
+en: Order of seniority of locants (letters and numbers) 
+ru: Порядок старшинства локантов (буквы и цифры)
+
+en: If there is a choice of locants, letters, or numerals (consistent with the numbering of the component), the lower letters or 
+numbers are selected in accordance with the following criteria, which are considered in order until a complete decision 
+can be made: 
+ru: Если есть возможность выбора между локантами, буквами или цифрами (в соответствии с нумерацией компонента), 
+то выбираются меньшие буквы или цифры в соответствии со следующими критериями, которые рассматриваются по порядку до тех пор, 
+пока не будет принято окончательное решение:
+
+#(a)
+en: parent component letters as a set;  
+ru: буквы исходного компонента как набор;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_q<_p6_p6<_pp6_p6_pp6>@n(a,-160,.7)@n(3,-80,.5)_q_qqN_q_qq@n(4,-10,.5)>_qqN_q_qqr_p6_pp6_p6@n(h,40,.65)<_pp6_p6>@n(2,130,.5)_qO_q_qq_q@n(3,-170)
+$>
+
+en: furo[3,2-_h_]pyrrolo[3,4-_a_]carbazole (PIN)  <br>
+(not furo[2,3-_b_]pyrrolo[3,4-_i_]carbazole;  <br>
+_a_,_h_ is lower than _b_,_i_) 
+ru: фуро[3,2-_h_]пирроло[3,4-_a_]карбазол (PIN) <br>
+(не фуро[2,3-_b_]пирроло[3,4-_i_]карбазол; <br>
+_a_,_h_ меньше, чем _b_,_i_)
+
+@End
+
+#(b)
+en: Parent component letters in order of citation;
+ru: Буквы исходных компонентов в порядке цитирования;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|@n(b,-60,.7)@n(3,-140,.5)_pp_pO_p_pp@n(4,140,.5)/N\\|@n(e,-120,.7)<`//N`\>@n(3,-30,.5)_q_qq_qS_q@n(2,30,.5)
+$>
+
+en: furo[3,4-_b_]thieno[2,3-_e_]pyrazine (PIN)  <br>
+(not furo[3,4-_e_]thieno[2,3-_b_]pyrazine;  <br>
+_b_..._e_ is lower than _e_..._b_) 
+ru: фуро[3,4-_b_]тиено[2,3-_e_]пиразин (PIN) <br>
+(не фуро[3,4-_e_]тиено[2,3-_b_]пиразин; <br>
+_b_..._e_ меньше, чем _e_..._b_)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`\@n(10,-90)`/O|\\/@n(4,-150)@n(b,-60,.7)`|@n(3,150)//`|O/@n(2,-90)\||`/@n(3',-90)<`\@n(2',-30,.5)>@n(d,170,.7)||`/N`\\
+$>
+
+en: 2_H_,10_H_-dipyrano[4,3-_b_:2′,3′-_d_]pyridine (PIN)  <br>
+(not 2_H_,10_H_-dipyrano[2,3-_d_:4′,3′-_b_]pyridine;  <br>
+_b_..._d_ is lower than _d_..._b_) 
+ru: 2_H_,10_H_-дипирано[4,3-_b_:2′,3′-_d_]пиридин (PIN) <br>
+(не 2_H_,10_H_-дипирано[2,3-_d_:4′,3′-_b_]пиридин; <br>
+_b_..._d_ меньше, чем _d_..._b_)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(l,-60,.7)@n(1,-160,.45)<_p_p<_p_pp@n(2,140,.5)>_qq6_q6_qq6_q6_qq6>\\/`|<`\\`/>/`||r/\\|\@n(1',-90,.5)<_(a-81.4707)_(a%b:-68.5292,N2)_(a%b)>@n(a,-170,.6)||`/`\\<`|/r`/@n(n,10,.7)@n(7',-80,.5)`\@n(6',-20,.5)@n(m,60,.6)>`/`\\
+$>
+
+en: diindeno[1,2-_i_:6′.7′,1′-_mna_]anthracene (PIN)  <br>
+(not diindeno[6,7,1-_mna_:1′,2′-_i_]anthracene;  <br>
+_i_..._mna_ is lower than _mna_..._i_)
+ru: дииндено[1,2-_i_:6′.7′,1′-_mna_]антрацен (PIN) <br>
+(не дииндено[6,7,1-_mna_:1′,2′-_i_]антрацен; <br>
+_i_..._mna_ меньше, чем _mna_..._i_)
+
+@End
+
+#(c)
+en: Set of locants of the first-order attached components for fusion to the parent component; 
+ru: Набор локантов присоединенных компонентов первого порядка для слияния с исходным компонентом;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(3',-25,.5)_q_qq_qO_q@n(2',25,.5)@n(6,140)`\\N`/||@n(3,-30,.5)\/l@n(5,-150)`/@n(4,-90,.5)@n(a,-170,.7)|`//`\`||r</>_qHN_q_qqr<_q>_p6_pp6_p6_pp6_p6
+$>
+
+en: 10_H_-furo[3′,2′:5,6]pyrido[3,4-_a_]carbazole (PIN)  <br>
+(not 10_H_-furo[2′,3′:2,3]pyrido[5,4-_a_]carbazole;  <br>
+the locant set ‘3,4’ is lower than ‘4,5’ for attaching pyrido to carbazole)
+ru: 10_H_-фуро[3′,2′:5,6]пиридо[3,4-_a_]карбазол (PIN) <br>
+(не 10_H_-фуро[2′,3′:2,3]пиридо[5,4-_a_]карбазол; <br>
+локантный набор «3,4» меньше, чем «4,5» для присоединения пиридо к карбазолу)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_pO_p_pp_p@n(b',126,.6)>@n(5,-40,.5)_qq_q_qq@n(2,110,.5)_q@n(1,30)_pO_p_pp_p@n(b,-160,.6)
+$>
+
+en: cyclopenta[1,2-_b_:5,1-_b_′]difuran (PIN, a multiparent name)  <br>
+(not cyclopenta[1,2-_b_:2,3-_b_′]difuran;  <br>
+the locant set ‘1,1,2,5’ is lower than ‘1,2,2,3’) 
+ru: циклопента[1,2-_b_:5,1-_b_′]дифуран (PIN, мультиисходное имя) <br>
+(не циклопента[1,2-_b_:2,3-_b_′]дифуран; <br>
+локантный набор «1,1,2,5» меньше, чем «1,2,2,3»)
+
+@End
+
+#(d)
+en: First-order attached component locants for fusion to the parent component in order of citation;
+ru: Локанты присоединенных компонентов первого порядка для слияния с исходным компонентом в порядке цитирования;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_ppN_p_pl_q6_qq6_q6_qq6_q6_q6_p@n(b,120,.6)>@n(4,-20)_q7_qq7_q7O@n(1,180,.5)_q7_q7<_qq7@n(5,30,.5)>@n(6,80,.5)_p_ppN_pN_pp@n(7,130)
+$>
+
+en: pyrazolo[4′,3′:6,7]oxepino[4,5-_b_]indole (PIN)  <br>
+(not pyrazolo[3′,4′:2,3]oxepino[5,4-b]indole;  <br>
+the locant set ‘4,5’ is lower than ‘5,4’)
+ru: пиразоло[4′,3′:6,7]оксепино[4,5-_b_]индол (PIN) <br>
+(не пиразоло[3′,4′:2,3]оксепино[5,4-b]индол; <br>
+локантный набор «4,5» меньше, чем «5,4»)
+
+@End
+
+#(e)
+en: Locants for lower-order attached components as a set for fusion to higher-order attached component; 
+ru: Локанты для присоединенных компонентов низшего порядка как набор для слияния с присоединенным компонентом высшего порядка;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|<_p7_pp7_p7O_p7_pp7_p7@n(d,120,.7)>@n(2,-30,.5)_qq7_q7@n(4,-120)_q7<_qq7_q7_qq7@n(1,30,.5)>@n(5,170,.5)@n(2',40,.5)_p6O_p6_pp6_p6_pp6@n(3',-10,.5)
+$>
+
+en: pyrano[3′,2′:4,5]cyclohepta[1,2-_d_]oxepine (PIN)  <br>
+(not pyrano[2′,3′:5,6]cyclohepta[1,2-_d_]oxepine;  <br>
+the locant set ‘4,5’ is lower than ‘5,6’)
+ru: пирано[3′,2′:4,5]циклогепта[1,2-_d_]оксепин (PIN) <br>
+(не пирано[2′,3′:5,6]циклогепта[1,2-_d_]оксепин; <br>
+локантный набор «4,5» меньше, чем «5,6»)
+
+@End
+
+#(f)
+en: Locants for lower-order attached components for fusion to higher-order attached components in order of citation; 
+ru: Локанты для присоединенных компонентов низшего порядка для слияния с присоединенными компонентами высшего порядка 
+в порядке цитирования;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|`//`\`||/\\/N\\|@n(b,-120,.6)<`//`\>@n(2,-20)_q7_qq7@n(4,-120,.5)_q7@n(5,180)<_q7_qq7_q7@n(1,20)>@n(2',70,.55)_ppN_p_pp_p@n(3',10,.6)
+$>
+
+en: pyrrolo[3′,2′:4,5]cyclohepta[1,2-_b_]quinoline (PIN)  <br>
+(not pyrrolo[2′,3′:5,4]cyclohepta[1,2-_b_]quinoline;  <br>
+the locant set ‘4,5’ is lower than ‘5,4’) 
+ru: пирроло[3′,2′:4,5]циклогепта[1,2-_b_]хинолин (PIN) <br>
+(не пирроло[2′,3′:5,4]циклогепта[1,2-_b_]хинолин; <br>
+локантный набор «4,5» меньше, чем «5,4»)
+
+@End
+
+#(g)
+en: Locants for higher-order attached components as a set for fusion to the lower-order attached component. 
+ru: Локанты для присоединенных компонентов более высокого порядка как набор для слияния с присоединенным компонентом 
+более низкого порядка.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`/_p_pp_p:a@n(1',140,.5)_p@n(6,-30)\\r<|`//`\`||>@n(5,-60)@n(7',130,.6)_(A0)_q8@n(3,-160)`|@n(e,60,.6)`\<_(A180)`//#a@n(7,40,.5)>@n(1,110)@n(d,-10,.6)`||/\\N|`/@n(2,150)/\||`/`\\
+$>
+
+en: 7_H_-indeno[7′,1′:5,6,7]cycloocta[1,2,3-_de_]quinoline (PIN)  <br>
+(not 7_H_-indeno[3′,4′:5,6,7]cycloocta[1,2,3-_de_]quinoline;  <br>
+the locant set ‘1′,7′’ is lower than ‘3′,4′’) 
+ru: 7_H_-индено[7′,1′:5,6,7]циклоокта[1,2,3-_de_]хинолин (PIN) <br>
+(не 7_H_-индено[3′,4′:5,6,7]циклоокта[1,2,3-_de_]хинолин; <br>
+локантный набор «1′,7′» меньше, чем «3′,4′»)
+
+@End
+
+#(h)
+en: Locants for higher-order components in fusion to lower-order components in order of citation.  
+ru: Локанты для компонентов высшего порядка в слиянии с компонентами низшего порядка в порядке цитирования.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|<@n(4,-140,.5)_pp@n(3,-90,.5)_p@n(2,-10,.5)<_pO_p@n(5,150,.5)>_qq_qN_qqN_q@n(c,-160,.7)>@n(4',-20,.5)_q7_qq7_q7S_q7@n(7',130,.6)_q7<_qq7@n(5',20,.6)>@n(6',70,.6)@n(2'',-40,.5)_p6O_p6_pp6_p6_pp6@n(3'',-90,.6)
+$>
+
+en: pyrano[2′′,3′′:6′,7′]thiepino[4′,5′:4,5]furo[3,2-_c_]pyrazole (PIN)  <br>
+(not pyrano[3′′,2′′:2′,3′]thiepino[5′,4′:4,5]furo[3,2-_c_]pyrazole;  <br>
+the locant set ‘4′,5′’ is lower than ‘5′,4′’) 
+ru: пирано[2′′,3′′:6′,7′]тиепино[4′,5′:4,5]фуро[3,2-_c_]пиразол (PIN) <br>
+(не пирано[3′′,2′′:2′,3′]тиепино[5′,4′:4,5]фуро[3,2-_c_]пиразол; <br>
+локантный набор «4′,5′» ниже, чем «5′,4′»)
+
+@End

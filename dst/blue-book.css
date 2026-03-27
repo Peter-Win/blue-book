@@ -1,3 +1,9 @@
+.echem-formula:not([data-src]) {
+  max-width: 1em;
+  max-height: 1em;
+  overflow: hidden;
+}
+
 div {margin: 0; padding: 0;}
 
 :root {
@@ -9,6 +15,8 @@ body {
   font-size: 18px;
   color: var(--text-color);
 }
+
+h2, h3 { text-transform: uppercase; }
 
 h4, h5, h6 {
   font-size: 1.1rem;
@@ -32,6 +40,12 @@ h4, h5, h6 {
 .std-table-box.left-aligned {
   align-items: flex-start;
 }
+.std-table-box.cells-align-top td {vertical-align: top;}
+
+.std-table-box td.middle {vertical-align: middle;}
+.std-table-box td.top {vertical-align: top;}
+
+
 .std-table-title {
   font-weight: bold;
   text-align: center;
@@ -131,10 +145,52 @@ a.wrong-part {
   margin: 1rem 0 0.5rem 0;
 }
 
-.p-ref {
+.p-ref, .tbl-ref {
   white-space: nowrap;
 }
 
 .empty-column {
   min-width: 4rem;
 }
+
+.bottom-space {
+  margin-bottom: 1rem;
+}
+
+.term {
+  text-decoration: underline dotted #CCC;
+  font-style: normal;
+  color: #007;
+}
+
+.two-col-list, .two-col-grid {
+  display: grid;
+  column-gap: 2em;
+  row-gap: 0.2em;
+
+  & > * {
+    margin: 0;
+    padding: 0;
+  }
+}
+.two-col-list {
+  grid-template-columns: auto 1fr;
+}
+.two-col-grid {
+  grid-template-columns: auto auto;
+  display: inline-grid;
+}
+
+
+.colspan2 {
+  grid-column: span 2;
+}
+
+/* для уменьшения абстрактных элементов */
+.small-abs i {
+  font-size: 80%;
+}
+
+.has-inline-formula svg {margin-bottom: -0.5em;}
+
+.empty-column { width: 5em;}

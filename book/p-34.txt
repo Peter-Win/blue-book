@@ -1,0 +1,1009 @@
+#P-34
+en: Functional parent compounds 
+ru: Функциональные &(parent compound|*)
+
+@Content
+
+#P-34.0
+en: Introduction 
+ru: Введение
+
+en: Many trivial and semisystematic names have been used in organic chemistry. As systematic names have been 
+increasingly recommended, the number of retained names (trivial and semisystematic) has been gradually reduced, in 
+the 1979 Rules (ref. 1) and again in the 1993 Guide (ref. 2). Functional parent compounds have been defined and 
+discussed in Section P-15.1.2 dealing with substitutive nomenclature. This subsection describes the 2005 codification of 
+the list of functional parent compounds established in 1993 as far as their classification as preferred IUPAC names or 
+names that are to be used only in general and specialized (see Chapter P-10) nomenclature is concerned.
+ru: В органической химии используется множество тривиальных и полусистематических названий. По мере того, как систематические 
+названия всё чаще рекомендуются, число &(retained name|ro*) (тривиальных и полусистематических) постепенно сокращалось 
+в Правилах 1979 г. (ссылка 1) и затем в Руководстве 1993 г. (ссылка 2). Функциональные &(parent compound|*) определены и 
+обсуждаются в разделе P-15.1.2, посвящённом &(substitutive nomenclature|pr). В этом подразделе описывается кодификация 2005 г. 
+списка функциональных &(parent compound|ro*), составленного в 1993 г., в части их классификации как предпочтительных названий 
+ИЮПАК или названий, которые должны использоваться только в общей и специальной (см. главу P-10) номенклатуре.
+
+en: Names recommended as preferred IUPAC names are described in the following section, P-34.1. Names that are 
+recommended for general and specialized nomenclature are discussed in P-34.2, Chapter P-6, and Chapter P-10 along 
+with systematic substitutive names recommended for the different classes of compounds. 
+ru: Названия, рекомендуемые в качестве предпочтительных названий ИЮПАК, описаны в следующем разделе P-34.1. Названия, 
+рекомендуемые для общей и специальной номенклатуры, обсуждаются в P-34.2, главах P-6 и P-10, а также систематические замещающие 
+названия, рекомендуемые для различных классов соединений.
+
+#P-34.1
+en: Retained functional parent compounds 
+ru: Сохраненные функциональные &(parent compound|*)
+
+en: The retained names of the following functional parent compounds are used as preferred IUPAC names, as well as in 
+general and specialized nomenclature. The lists in P-34.1.1 and P-34.1.2 are exhaustive for preferred IUPAC names; for 
+more retained names of functional parent compounds recommended for use in general and specialized nomenclature, 
+see P-34.1.3. The type of substitution (allowed or not) is specified for each compound in accordance with the general 
+methodology indicated in P-15.1.8.
+ru: &(Retained name|*) следующих функциональных &(parent compound|ro*) используются в качестве предпочтительных названий ИЮПАК, 
+а также в общей и специальной номенклатуре. Списки предпочтительных названий ИЮПАК, представленные в P-34.1.1 и P-34.1.2, 
+являются исчерпывающими; другие сохранившиеся названия функциональных исходных соединений, рекомендуемые для использования 
+в общей и специальной номенклатуре, см. в P-34.1.3. Тип замещения (допустимый или нет) указывается для каждого соединения 
+в соответствии с общей методологией, изложенной в P-15.1.8.
+
+en: Inorganic functional parent compounds are acids and related compounds denoted by retained names that are preselected 
+(see P-12.2); they are discussed in P-34.1.4. 
+ru: Неорганические функциональные &(parent compound|*) — это кислоты и родственные соединения, обозначаемые сохраненными 
+названиями, которые выбираются заранее (см. P-12.2); они обсуждаются в P-34.1.4.
+
+@Content
+
+#P-34.1.1
+en: Organic functional parent compounds (arranged by characteristic group class) 
+ru: Органические функциональные &(parent compound|*) (сортированные по характерным группам)
+
+#P-34.1.1.1
+en: Acids
+ru: Кислоты
+
+@Examples --
+
+@cell
+<$ CH3-COOH $>
+
+en: acetic acid (PIN)  <br>
+(substitution allowed; see P-65.1.1.1)  <br>
+ethanoic acid 
+ru: уксусная кислота (PIN) <br>
+(допускается замена; см. P-65.1.1.1) <br>
+уксусная кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)/COOH
+$>
+
+en: benzoic acid (PIN) <br> 
+(substitution allowed; see P-65.1.1.1)  <br>
+benzenecarboxylic acid 
+ru: бензойная кислота (PIN) <br>
+(замещение допускается; см. P-65.1.1.1) <br>
+бензолкарбоновая кислота
+
+@cell
+<$ H2N-COOH $>
+
+en: carbamic acid (PIN) <br>
+(substitution allowed; see P-65.2.1.1)  <br>
+carbonamidic acid  
+ru: карбаминовая кислота (PIN) <br>
+(допускается замена; см. P-65.2.1.1) <br>
+карбамидная кислота
+// http://charchem.org/ru/subst-ref/?id=900
+
+@cell
+<$ HO-CO-OH $>
+
+en: carbonic acid (PIN) (see P-65.2.1) 
+ru: угольная кислота (PIN) (см. P-65.2.1)
+// http://charchem.org/ru/subst-ref/?id=242
+
+@cell
+<$ NC-OH $>
+
+en: cyanic acid (PIN)  <br>
+carbononitridic acid (see P-65.2.2) 
+ru: циановая кислота (PIN) <br>
+карбонитридная кислота (см. P-65.2.2)
+// http://charchem.org/ru/subst-ref/?id=3079
+
+@cell
+<$ H-COOH $>
+
+en: formic acid (PIN)  <br>
+(limited substitution see P-65.1.8)  <br>
+methanoic acid 
+ru: муравьиная кислота (PIN) <br>
+(ограниченная замена, см. P-65.1.8) <br>
+метановая кислота
+// http://charchem.org/ru/subst-ref/?id=8
+
+@cell
+<$ HOOC-COOH $>
+
+en: oxalic acid (PIN)  <br>
+(see P-65.1.1.1)  <br>
+ethanedioic acid 
+ru: щавелевая кислота (PIN) <br>
+(см. P-65.1.1.1) <br>
+этандиовая кислота
+// http://charchem.org/ru/subst-ref/?id=430
+
+@cell
+<$ H2N-CO-COOH $>
+
+en: oxamic acid (PIN)  <br>
+(substitution allowed; see P-65.1.6.1)  <br>
+amino(oxo)acetic acid 
+ru: оксаминовая кислота (PIN) <br>
+(замещение допускается; см. P-65.1.6.1) <br>
+амино(оксо)уксусная кислота
+// http://charchem.org/ru/subst-ref/?id=3468
+
+@cell
+<$ H2N-C(=NH)-OH $>
+
+en: carbamimidic acid  <br>
+(PIN; see P-65.2.1.3)  <br>
+carbonamidimidic acid 
+ru: карбамид&(imidic acid) <br>
+(PIN; см. P-65.2.1.3) <br>
+карбонамид&(imidic acid)
+
+@End
+
+#P-34.1.1.2
+en: Carbonyl compounds
+ru: Карбонильные соединения
+
+@Examples --
+
+@cell
+<$ OHC-CHO $>
+
+en: ethanedial (PIN) <br>
+glyoxal  
+ru: этандиаль (PIN) <br>
+глиоксаль
+
+@End
+
+#P-34.1.1.3
+en: Hydroxycompounds 
+ru: Гидроксисоединения
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)/OH
+$>
+
+en: phenol (PIN)  <br>
+(substitution allowed; P-63.1.1.1)  <br>
+benzenol 
+ru: фенол (PIN) <br>
+(допускается замена; P-63.1.1.1) <br>
+бензоло́л
+// бензоло́л - наиболее похожий русский вариант для benzenol
+
+@End
+
+#P-34.1.1.4
+en: Ethers
+ru: Эфиры
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)_(A-30)O-CH3
+$>
+
+en: anisole (PIN)  <br>
+(no substitution on anisole for PINs;  <br>
+for general nomenclature substitution is permitted on the ring and on the α-methoxy group <br>
+only by groups listed in P-15.1.8.2.2; see also P-63.2.3)  <br>
+methoxybenzene 
+ru: анизол (PIN) <br>
+(для PIN на анизол не допускается замещение; <br>
+для общей номенклатуры допускается замещение в кольце и α-метоксигруппе <br>
+только группами, перечисленными в P-15.1.8.2.2; см. также P-63.2.3) <br>
+метоксибензол
+
+@End
+
+#P-34.1.1.5
+en: Nitrogenous compounds
+ru: Азотистые соединения
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)/NH2@n(N,-90,.6)
+$>
+
+en: aniline (PIN);  <br>
+(full substitution, see P-62.2.1.1.1)  <br>
+benzenamine 
+ru: анилин (PIN); <br>
+(полное замещение, см. P-62.2.1.1.1) <br>
+бензоламин
+// бензоламин - такое название есть
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4,-90)=CH@n(3)-N@n(2)=NH@n(1)
+$>
+
+en: formazan (PIN)  <br>
+(see P-68.3.1.3.5)  <br>
+(diazenylmethylidene)hydrazine
+ru: формазан (PIN) <br>
+(см. P-68.3.1.3.5) <br>
+(диазенилметилиден)гидразин
+// http://charchem.org/ru/subst-ref/?id=6769
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(N)-C(=NH:c)-NH2@n(N',-80); #c@n(N'',-70,.65)
+$>
+
+en: guanidine (PIN)  <br>
+(substitution allowed; see P-66.4.1.2.1)  <br>
+carbonimidic diamide
+ru: гуанидин (PIN) <br>
+(замещение допускается; см. P-66.4.1.2.1) <br>
+карбонимидовый диамид
+// карбонимидовый диамид - такого названия в русскоязычных источниках не найдено.
+// впрочем, carbonimidic diamide - тоже отсутствует в справочниках
+
+@cell
+<$ H2N-OH $>
+
+en: hydroxylamine  <br>
+(preselected name) (see P-68.3.1.1.1)
+ru: гидроксиламин <br>
+(предварительно выбранное название) (см. P-68.3.1.1.1)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(N',-80)-CO@n(2)-CO@n(1)-NH2@n(N)
+$>
+
+en: oxamide (PIN)  <br>
+(substitution allowed; see P-66.1.1.1.2.1)  <br>
+oxalic diamide 
+ru: оксамид (PIN) <br>
+(допускается замена; см. P-66.1.1.1.2.1) <br>
+щавелевокислый диамид
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(N,-90)@n(1,90)-CO@n(2,90)-NH2@n(N',-80)@n(3,90)
+$>
+
+en: urea (PIN)  <br>
+(substitution allowed; see P-66.1.6.1.1)  <br>
+carbonic diamide
+ru: мочевина (PIN) <br>
+(допускается замена; см. P-66.1.6.1.1) <br>
+диамид угольной кислоты
+
+@End
+
+#P-34.1.2
+en: Organic functional parent compounds (arranged alphabetically)  
+ru: Органические функциональные &(parent compound|*) (в алфавитном порядке)
+// В алфавитном порядке для английского языка
+
+@Table sort() .left-aligned-cells .cells-align-top
+
+@th
+en: Retained name (PIN) or preselected name
+ru: &(Retained name) (PIN) или предварительно выбранное имя
+
+@th
+en: Alternative names
+ru: Альтернативные названия
+
+@td
+en: acetic acid (substitution allowed; see P-65.1.1.1)
+ru: уксусная кислота (допускается замещение; см. P-65.1.1.1)
+
+@td
+en: ethanoic acid
+ru: этановая кислота
+
+@td
+en: aniline (substitution allowed; see P-62.2.1.1.1) 
+ru: анилин (допускается замещение; см. P-62.2.1.1.1)
+
+@td
+en: benzenamine
+ru: бензоламин
+
+@td
+en: anisole (no substitution on anisole for PINs; for general nomenclature <br>
+substitution is permitted on the ring and on the α-methoxy group only by <br>
+groups listed in P-15.1.8.2; see also P-63.2.3) 
+ru: анизол (замещение на анизол для PIN не допускается; для общей номенклатуры <br>
+допускается замещение на кольце и на α-метоксигруппе только группами, <br>
+перечисленными в P-15.1.8.2; см. также P-63.2.3)
+
+@td
+en: methoxybenzene
+ru: метоксибензол
+
+@td
+en: benzoic acid (substitution allowed; see P-65.1.1.1)
+ru: бензойная кислота (допускается замещение; см. P-65.1.1.1)
+
+@td
+en: benzenecarboxylic acid
+ru: бензолкарбоновая кислота
+
+@td
+en: carbamic acid (substitution allowed; see P-65.2.1.1)
+ru: карбаминовая кислота (допускается замещение; см. P-65.2.1.1)
+
+@td
+en: carbonimidic diamide
+ru: карбонимидовый диамид
+
+@td
+en: carbamimidic acid (substitution allowed; see P-65.2.1.3)
+ru: карбам&(imidic acid) (допускается замещение; см. P-65.2.1.3)
+
+@td
+
+@td
+en: carbonic acid (see P-65.2) 
+ru: угольная кислота (см. P-65.2)
+
+@td
+
+@td
+en: cyanic acid (see P-65.2.2)
+ru: циановая кислота (см. P-65.2.2)
+
+@td
+en: carbononitridic acid
+ru: карбонитридная кислота
+
+@td
+en: formazan (substitution allowed; see (hydrazinylidenemethyl)diazene  
+P-68.3.1.3.5)
+ru: формазан (замещение допускается; см. (гидразинилиденметил)диазен
+P-68.3.1.3.5)
+
+@td
+en: (diazenylmethylidene)hydrazine 
+ru: (диазенилэтилиден)гидразин
+
+@td
+en: formic acid (limited substitution allowed; see P-65.1.8) 
+ru: муравьиная кислота (допускается ограниченная замена; см. P-65.1.8)
+
+@td
+en: methanoic acid
+ru: метановая кислота
+
+@td
+en: guanidine (substitution allowed; see P-66.4.1.2.1)
+ru: гуанидин (допускается замещение; см. P-66.4.1.2.1)
+
+@td
+en: carbonimidic diamide
+ru: карбонимидовый диамид
+
+@td
+en: hydroxylamine (special substitution; see P-68.3.1.1.1)
+ru: гидроксиламин (специальное замещение; см. P-68.3.1.1.1)
+
+@td
+
+@td
+en: oxamide (substitution allowed; see P-66.1.1.1.2)
+ru: оксамид (допускается замещение; см. P-66.1.1.1.2)
+
+@td
+en: oxalic diamide
+ru: щавелевокислый диамид
+
+@td
+en: oxamic acid (substitution allowed; see P-65.1.6.1) 
+ru: оксамовая кислота (допускается замещение; см. P-65.1.6.1)
+
+@td
+
+@td
+en: oxalic acid (see P-65.1.1.1) 
+ru: щавелевая кислота (см. P-65.1.1.1)
+
+@td
+en: ethanedioic acid 
+ru: этандиовая кислота
+
+@td
+en: phenol (substitution allowed; see P-63.1.1.1)
+ru: фенол (допускается замена; см. P-63.1.1.1)
+
+@td
+en: benzenol
+ru: бензоло́л
+
+@td
+en: urea (substitution allowed; see P-66.1.6.1.1)
+ru: мочевина (допускается замена; см. P-66.1.6.1.1)
+
+@td
+en: carbonic diamide 
+ru: диамид угольной кислоты
+
+@EndTable
+
+
+#P-34.1.3
+en: Organic functional parent compounds for general and specialized nomenclature 
+ru: Органические функциональные &(parent compound|*) для общей и специальной номенклатуры
+
+en: Functional parent compounds that were recommended in the 1979 recommendations (ref. 1) and /or the 1993 Guide 
+(ref. 2) past can be used in general organic nomenclature. They are also used in biochemical nomenclature, the 
+nomenclature of polymers, and in the nomenclature of natural products. Their formulae and names are described in 
+Chapters P-6 and P-10. The different classes are: hydroxy compounds and ethers (see P-63), carbonyl compounds (see 
+P-64), carboxylic acids (see P-65), amines (see P-62), sulfur compounds (see P-66.1.1.4.2) and sulfamic acid (see  
+P-67.1.2.4.1.1), acyclic polynitrogen compounds (see P-66.1.6, P-68.3.1.3), and halogen compounds (see P-68.5). 
+ru: Функциональные &(parent compound|*), рекомендованные в рекомендациях 1979 г. (ссылка 1) и/или Руководстве 1993 г. 
+(ссылка 2), могут использоваться в общей органической номенклатуре. Они также используются в биохимической номенклатуре, 
+номенклатуре полимеров и номенклатуре природных продуктов. Их формулы и названия описаны в главах P-6 и P-10. 
+Различают следующие классы: гидроксисоединения и простые эфиры (см. P-63), карбонильные соединения (см. P-64), 
+карбоновые кислоты (см. P-65), амины (см. P-62), соединения серы (см. P-66.1.1.4.2) и сульфаминовая кислота (см. P-67.1.2.4.1.1), 
+ациклические полиазотистые соединения (см. P-66.1.6, P-68.3.1.3) и галогеновые соединения (см. P-68.5).
+
+en: Structures of alkaloids, steroids, terpenes, and similar compounds are given in Appendix 3. 
+ru: Структуры алкалоидов, стероидов, терпенов и подобных соединений приведены в Приложении 3.
+
+#P-34.1.4
+en: Inorganic functional parent compounds 
+ru: Неорганические функциональные &(parent compound|*)
+
+en: These compounds are described in P-67.1.1 and P-67.2.1. 
+ru: Эти соединения описаны в P-67.1.1 и P-67.2.1.
+
+
+
+#P-34.2
+en: Substituent groups related to functional parent compounds 
+ru: &(Substituent group|*), связанные с функциональными &(parent compound|tv*)
+
+#P-34.2.1
+en: Organic substituent groups (arranged by classes)  
+ru: Органические &(substituent group|*) (сгруппированные по классам)
+
+#P-34.2.1.1
+en: Acyl groups
+ru: Ацильные группы
+
+@Examples --
+
+@cell
+<$ CH3-CO–{} $>
+
+en: acetyl (preferred prefix) <br>
+(full substitution allowed except that the carbon chain cannot be extended see P-65.1.7.2.1)  <br>
+ethanoyl  <br>
+1-oxoethyl 
+ru: ацетил (предпочтительный префикс) <br>
+(допускается полное замещение, за исключением того, что углеродная цепь не может быть удлинена, см. P-65.1.7.2.1) <br>
+этаноил <br>
+1-оксоэтил
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)_(A-30)CO-{}
+$>
+
+en: benzoyl (preferred prefix)  <br>
+(full substitution, see P-65.1.7.2.1)  <br>
+benzenecarbonyl 
+ru: бензоил (предпочтительный префикс) <br>
+(полное замещение, см. P-65.1.7.2.1) <br>
+бензолкарбонил
+
+@cell
+<$ H2N-C(=NH)–{} $>
+
+en: carbamimidoyl (preferred prefix)  <br>
+(full substitution, see P-65.2.1.5 )  <br>
+_C_-aminocarbonimidoyl 
+ru: карбамимидоил (предпочтительный префикс) <br>
+(полное замещение, см. P-65.2.1.5) <br>
+_C_-аминокарбонимидоил
+
+@cell
+<$ H2N-CO–{} $>
+
+en: carbamoyl (preferred prefix)  <br>
+(full substitution, see P-65.2.1.5 )  <br>
+aminocarbonyl
+ru: карбамоил (предпочтительный префикс) <br>
+(полное замещение, см. P-65.2.1.5) <br>
+аминокарбонил
+
+@cell
+<$ {}–CO–{} $>
+
+en: carbonyl (preferred prefix)  <br>
+(see P-65.2.1.5 ) 
+ru: карбонил (предпочтительный префикс) <br>
+(см. P-65.2.1.5)
+
+@cell
+<$ H2N-CO-CO–{} $>
+
+en: oxamoyl (preferred prefix)  <br>
+(full substitution; see P-66.1.1.4.1.2 ) 
+ru: оксамоил (предпочтительный префикс) <br>
+(полное замещение; см. P-66.1.1.4.1.2)
+
+@cell
+<$ H-CO–{} $>
+
+en: formyl (preferred prefix)  <br>
+(limited substitution; see P-65.1.7.2.1 )  <br>
+oxomethyl 
+ru: формил (предпочтительный префикс) <br>
+(ограниченное замещение; см. P-65.1.7.2.1) <br>
+оксометил
+
+@cell
+<$ {}–CO-CO–{} $>
+
+en: oxalyl (preferred prefix)  <br>
+(see P-65.1.7.2.1)  <br>
+ethanedioyl  <br>
+dioxoethanediyl 
+ru: оксалил (предпочтительный префикс) <br>
+(см. P-65.1.7.2.1) <br>
+этандиоил <br>
+диоксоэтандиил
+
+@End
+
+#P-34.2.1.2
+en: Substituent groups derived from hydroxy compounds 
+ru: &(Substituent group|*), полученные из гидроксисоединений
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)_(A-30)O-{}
+$>
+
+en: phenoxy (preferred prefix)  <br>
+(full substitution; see P-63.2.2.2) 
+ru: фенокси (предпочтительный префикс) <br>
+(полная замена; см. P-63.2.2.2)
+
+@End
+
+#P-34.2.1.3
+en: Nitrogenous substituent group names
+ru: ru: Названия азотистых &(substituent group|ro*)
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,-90,.5)_(A-30)NH-{}
+$>
+
+en: anilino (preferred prefix)  <br>
+(full substitution; see P-62.2.1.1.1)  <br>
+phenylamino 
+ru: анилино (предпочтительный префикс) <br>
+(полная замена; см. P-62.2.1.1.1) <br>
+фениламино
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4)=CH@n(3)-N@n(2)=N@n(1)-{}
+$>
+
+en: formazan-1-yl (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2)  <br>
+(hydrazinylidenemethyl)diazenyl 
+ru: формазан-1-ил (предпочтительный префикс) <br>
+(полное замещение; см. P-68.3.1.3.5.2) <br>
+(гидразинилиденметил)диазенил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1)=N@n(2)-CH@n(3)=N@n(4)-NH@n(5)-{}
+$>
+
+en: formazan-5-yl (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2)  <br>
+(diazenylmethylidene)hydrazinyl 
+ru: формазан-5-ил (предпочтительный префикс) <br>
+(полное замещение; см. P-68.3.1.3.5.2) <br>
+(диазенилметилиден)гидразинил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4)=C@n(3,90)<`|{}>-N@n(2)=NH@n(1)
+$>
+
+en: formazan-3-yl (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2)  <br>
+diazenyl(hydrazinylidene)methyl 
+ru: формазан-3-ил (предпочтительный префикс) <br>
+(полное замещение; см. P-68.3.1.3.5.2) <br>
+диазенил(гидразинилиден)метил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-HN@n(5)-N@n(4)=CH@n(3)-N@n(2)=N@n(1)-{}
+$>
+
+en: formazan-1,5-diyl (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2)
+ru: формазан-1,5-диил (предпочтительный префикс) <br>
+(полная замена; см. P-68.3.1.3.5.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1)=N@n(2)-C@n(3,90)<`|{}>=N@n(4)-NH@n(5)-{}
+$>
+
+en: formazan-3,5-diyl (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2) 
+ru: формазан-3,5-диил (предпочтительный префикс) <br>
+(полная замена; см. P-68.3.1.3.5.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}=N@n(5)-N@n(4)=CH@n(3)-N@n(2)=N@n(1)-{}
+$>
+
+en: formazan-1-yl-5-ylidene (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2) 
+ru: формазан-1-ил-5-илиден (предпочтительный префикс) <br>
+(полная замена; см. P-68.3.1.3.5.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}=N@n(5)-N@n(4)=C@n(3,90)<`|{}>-N@n(2)=NH@n(1)
+$>
+
+en: formazan-3-yl-5-ylidene (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2) 
+ru: формазан-3-ил-5-илиден (предпочтительный префикс) <br>
+(полная замена; см. P-68.3.1.3.5.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-HN@n(5)-N@n(4)=C@n(3,90)<`|{}>-N@n(2)=N@n(1)-{}
+$>
+
+en: formazan-1,3,5-triyl (preferred prefix)  <br>
+(full substitution; see P-68.3.1.3.5.2) 
+ru: формазан-1,3,5-триил (предпочтительный префикс) <br>
+(полная замена; см. P-68.3.1.3.5.2)
+
+@cell
+<$ H2N-C(=NH)-NH-{} $>
+
+en: carbamimidoylamino (preferred prefix)  <br>
+(see P-66.4.1.2.1.3)  <br>
+guanidino
+ru: карбамимидоиламино (предпочтительный префикс) <br>
+(см. P-66.4.1.2.1.3) <br>
+гуанидино
+
+@cell
+<$ (H2N)2C=N-{} $>
+
+en: (diaminomethylidene)amino (preferred prefix)  <br>
+(see P-66.4.1.2.1.3) 
+en: (диаминометилиден)амино (предпочтительный префикс) <br>
+(см. P-66.4.1.2.1.3)
+
+@cell
+<$ H2N-CO-CO-NH-{} $>
+
+en: oxamoylamino (preferred prefix)  <br>
+(see P-66.1.1.4.5.1) 
+ru: оксамоиламино (предпочтительный префикс) <br>
+(см. P-66.1.1.4.5.1)
+
+@cell
+<$ {}-HN-CO-NH-{} $>
+
+en: oxalylbis(azanediyl) (preferred prefix)  <br>
+(see P-66.1.1.4.5.2)
+ru: оксалилбис(азандиил) (предпочтительный префикс) <br>
+(см. P-66.1.1.4.5.2)
+
+@cell
+<$ H2N-CO-NH-{} $>
+
+en: carbamoylamino (preferred prefix)  <br>
+(see P-66.1.6.1.1.3)  <br>
+(not ureido)
+ru: карбамоиламино (предпочтительный префикс) <br>
+(см. P-66.1.6.1.1.3) <br>
+(не уреидо)
+
+@cell
+<$ {}-HN-CO-NH-{} $>
+
+en: carbonylbis(azanediyl) (preferred prefix)  <br>
+(see P-66.1.6.1.1.3) 
+ru: карбонилбис(азандиил) (предпочтительный префикс) <br>
+(см. P-66.1.6.1.1.3)
+
+@End
+
+#P-34.2.2
+en: Organic substituent groups (arranged alphabetically) 
+ru: Органические &(substituent group|*) (в алфавитном порядке)
+// Не очень понятна логика, по которой алфавитный порядок определяется в оригинале.
+// Например, formazan-5-yl стоит почему-то раньше чем formazan-1-yl-5-ylidene
+// или oxamoylamino перед oxalylbis(azanediyl), хотя "l" в алфавите раньше чем "m"
+// Но здесь сортировка выполняется автоматически
+
+@Table sort() .cells-align-top .left-aligned-cells
+
+@th
+en: Preferred Prefxes
+ru: Предпочтительные префиксы
+
+@th
+en: Alternative names 
+ru: Альтернативные названия
+
+@td
+en: acetyl (substitution allowed except that the carbon chain cannot be extended; <br>
+see P-65.1.7.2.1)
+ru: ацетил (замещение допускается, за исключением того, что углеродная цепь не может быть удлинена; <br>
+см. P-65.1.7.2.1)
+
+@td
+en: ethanoyl
+ru: этаноил
+
+@td
+en: anilino (full substitution allowed; see P-62.2.1.1.1) 
+ru: анилино (полная замена разрешена; см. P-62.2.1.1.1)
+
+@td
+en: phenylamino
+ru: фениламино
+
+@td
+en: benzoyl (substitution allowed; see P-65.1.7.2.1)
+ru: бензоил (замещение разрешено; см. P-65.1.7.2.1)
+
+@td
+en: benzenecarbonyl  <br>
+phenylcarbonyl 
+ru: бензолкарбонил <br>
+фенилкарбонил
+
+@td
+en: carbamimidoyl (substitution allowed; P-65.2.1.5) 
+ru: карбамимидоил (замещение разрешено; P-65.2.1.5)
+
+@td
+en: _C_-aminocarbonimidoyl
+ru: _C_-аминокарбонимидоил
+
+@td
+en: carbamimidoylamino (see P-66.4.1.2.1.3)
+ru: карбамимидоиламино (см. P-66.4.1.2.1.3)
+
+@td
+
+@td
+en: carbamoyl (substitution allowed; see P-65.2.1.5)
+ru: карбамоил (замещение разрешено; см. P-65.2.1.5)
+
+@td
+en: aminocarbonyl
+ru: аминокарбонил
+
+@td
+en: carbamoylamino (see P-66.1.6.1.1.3)
+ru: карбамоиламино (см. P-66.1.6.1.1.3)
+
+@td
+
+@td
+en: carbonyl (see P-65.2.1.5) 
+ru: карбонил (см. P-65.2.1.5)
+
+@td
+
+@td
+en: carbonylbis(azanediyl) (see P-66.1.6.1.1.3) 
+ru: карбонилбис(азандиил) (см. P-66.1.6.1.1.3)
+
+@td
+
+@td
+en: (diaminomethylidene)amino (see P-66.4.1.2.1.3)
+ru: (диаминометилиден)амино (см. P-66.4.1.2.1.3)
+
+@td
+
+@td
+en: formazan-1,5-diyl (substitution allowed; P-68.3.1.3.5.2)
+ru: формазан-1,5-диил (замещение разрешено; P-68.3.1.3.5.2)
+
+@td
+
+@td
+en: formazan-3,5-diyl (substitution allowed; P-68.3.1.3.5.2)
+ru: формазан-3,5-диил (замещение разрешено; P-68.3.1.3.5.2)
+
+@td
+
+@td
+en: formazan-1,3,5-triyl (substitution allowed; see P-68.3.1.3.5.2)
+ru: формазан-1,3,5-триил (замещение разрешено; см. P-68.3.1.3.5.2)
+
+@td
+
+@td
+en: formazan-1-yl (substitution allowed; see P-68.3.1.3.5.2)
+ru: формазан-1-ил (замещение разрешено; см. P-68.3.1.3.5.2)
+
+@td
+en: (hydrazinylidenemethyl)diazenyl
+ru: (гидразинилиденметил)диазенил
+
+@td
+en: formazan-3-yl (substitution allowed; see P-68.3.1.3.5.2)
+ru: формазан-3-ил (замещение разрешено; см. P-68.3.1.3.5.2)
+
+@td
+en: diazenyl(hydrazinylidene)methyl
+ru: диазенил(гидразинилиден)метил
+
+@td
+en: formazan-5-yl (substitution allowed; see P-68.3.1.3.5.2)
+ru: формазан-5-ил (замещение разрешено; см. P-68.3.1.3.5.2)
+
+@td
+en: (diazenylmethylidene)hydrazinyl
+ru: (диазенилметилиден)гидразинил
+
+@td
+en: formazan-1-yl-5-ylidene (substitution allowed; <br>
+see P-68.3.1.3.5.2)
+ru: формазан-1-ил-5-илиден (замещение разрешено; <br>
+см. P-68.3.1.3.5.2)
+
+@td
+
+@td
+en: formazan-3-yl-5-ylidene (substitution allowed; <br>
+see P-68.3.1.3.5.2) 
+ru: формазан-3-ил-5-илиден (замещение разрешено; <br>
+см. P-68.3.1.3.5.2)
+
+@td
+
+@td
+en: formazan-3-yl-5-ylidene (substitution allowed; see P-68.3.1.3.5.2)
+ru: формазан-3-ил-5-илиден (замещение разрешено; см. P-68.3.1.3.5.2)
+
+@td
+
+@td
+en: formyl (limited substitution allowed; see P-65.1.7.2.1)
+ru: формил (допускается ограниченное замещение; см. P-65.1.7.2.1)
+
+@td
+en: methanoyl
+ru: метаноил
+
+@td
+en: oxamoylamino (see P-66.1.1.4.5.1)
+ru: оксамоиламино (см. P-66.1.1.4.5.1)
+
+@td
+
+@td
+en: oxalylbis(azanediyl) (see P-66.1.1.4.5.2)
+ru: оксалилбис(азандиил) (см. P-66.1.1.4.5.2)
+
+@td
+
+@td
+en: oxamoyl (substitution allowed; see P-66.1.1.4.1.2) 
+ru: оксамоил (замещение разрешено; см. P-66.1.1.4.1.2)
+
+@td
+
+@td
+en: oxalyl (see P-65.1.7.2.1)
+ru: оксалил (см. P-65.1.7.2.1)
+
+@td
+en: ethanedioyl
+ru: этандиоил
+
+@td
+en: phenoxy (substitution allowed; see P-63.2.2.2)
+ru: фенокси (замещение допускается; см. P-63.2.2.2)
+
+@td
+en: phenyloxy
+ru: фенилокси
+
+@EndTable
+
+#P-34.2.3
+en: Substituent group names derived from organic compounds used in general and specialized nomenclature
+ru: Названия &(substituent group|ro*), полученные из органических соединений, используемые в общей и специальной номенклатуре
+
+en: These are discussed in Chapters P-6 and P-10.
+ru: Они обсуждаются в главах P-6 и P-10.
+
+#P-34.2.4
+en: Preselected substituent group names
+ru: Предварительно выбранные названия &(substituent group|ro*)
+
+@Examples
+
+@cell
+<$ {}–NH-OH $>
+
+en: hydroxyamino (preselected prefix)  <br>
+(see P-68.3.1.1.1.5) 
+ru: гидроксиамино (предварительно выбранный префикс) <br>
+(см. P-68.3.1.1.1.5)
+
+@cell
+<$ $slope(25){}\N<`/{}>-OH $> 
+
+en: hydroxyazanediyl (preselected prefix)  <br>
+(see P-68.3.1.1.1.5) 
+ru: гидроксиазандиил (предварительно выбранный префикс) <br>
+(см. P-68.3.1.1.1.5)
+
+@cell
+<$ {}–O-NH2 $>
+  
+en: aminooxy (preselected prefix)  <br>
+(see P-68.3.1.1.1.5) 
+ru: аминоокси (предварительно выбранный префикс) <br>
+(см. P-68.3.1.1.1.5)
+
+@End

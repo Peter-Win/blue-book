@@ -1,0 +1,707 @@
+#P-35
+en: Prefixes corresponding to characteristic groups 
+ru: Префиксы, соответствующие &(characteristic group|da*)
+
+@Content
+
+#P-35.0
+en: Introduction 
+ru: Введение
+
+en: Prefixes used to designate characteristic groups in substitutive nomenclature are those having free valence(s) attached to 
+an atom of Group 17 (F, Cl, Br, and I) or Group 16 (O, S, Se, and Te), or to nitrogen. They have retained names or they 
+are formed systematically by the methods described for substituent groups derived from parent hydrides (see P-29). 
+Oxygen and nitrogen atoms can also be attached to a carbon atom, for example <%a%>, <%b%>, and <%c%>, 
+or to a chalcogen atom, for example <%d%>, <%e%>. These prefixes correspond to suffixes listed in P-33, 
+for example the prefix ‘hydroxy’ for <%f%> corresponds to the suffix ‘ol’ for the same group. Prefixes are also 
+derived from functional parents as defined in Sections P-34 and P-15.1.2, in particular acyl groups such as ‘acetyl’, for 
+<%g%>, derived from acetic acid, and phosphoryl, for <%h%>. 
+ru: Префиксы, используемые для обозначения &(characteristic group|ro*) в &(substitutive nomenclature|pr), — это те, у которых 
+свободная(ые) валентность(и) связана(ы) с атомом группы 17 (F, Cl, Br и I) или группы 16 (O, S, Se и Te), или с азотом. 
+Они получают &(retained name|*) или они формируются систематически методами, описанными для &(substituent group|ro*), 
+полученных из &(parent hydride|ro*) (см. P-29). Атомы кислорода и азота также могут быть связаны с атомом углерода, например, 
+<%a%>, <%b%> и <%c%>, или с атомом халькогена, например, <%d%>, <%e%>. Эти префиксы соответствуют суффиксам, перечисленным в P-33, 
+например, префикс «гидрокси» для <%f%> соответствует суффиксу «ол» для той же группы. Префиксы также происходят от 
+&(functional parent|ro*), как определено в разделах P-34 и P-15.1.2, в частности ацильные группы, такие как «ацетил», для <%g%>, 
+полученный от уксусной кислоты, и фосфорил, для <%h%>.
+%a: <$ {}–CO-OH $>
+%b: <$ {}–CO-NH2 $>
+%c: <$ {}–CO-CH2-CH3 $>
+%d: <$ {}–S(O)2-OH $>
+%e: <$ {}–Se(O)2-OH $>
+%f: <$ {}–OH $>
+%g: <$ {}–CO-CH3 $>
+%h: <$ {}–PO"<" $>
+
+en: Prefixes may have both a retained name and a systematic name only one of which can be a preferred IUPAC name. In 
+order to facilitate the selection of preferred IUPAC names, clear indications are given in Chapter P-6 for each class of 
+compounds. The prefixes are also alphabetically listed in Appendix 2, with indications concerning their status as 
+preferred IUPAC names as well as their use in substitutive nomenclature and as functional replacement prefixes. 
+ru: Префиксы могут иметь как &(retained name), так и систематическое название, только одно из которых может быть 
+предпочтительным названием ИЮПАК. Для облегчения выбора предпочтительных названий ИЮПАК в главе P-6 для каждого класса соединений 
+даны четкие указания. Префиксы также перечислены в алфавитном порядке в Приложении 2 с указанием их статуса как предпочтительных 
+названий ИЮПАК, а также их использования в &(substitutive nomenclature|pr) и в качестве функциональных замещающих префиксов.
+
+en: In this Section, the different types of prefixes used in substitutive nomenclature and in multiplicative nomenclature are 
+described.
+ru: В этом разделе описываются различные типы префиксов, используемых в &(substitutive nomenclature|pr) 
+и мультипликативной номенклатуре.
+
+#P-35.1
+en: General methodology 
+ru: Общая методология
+
+en: Substitutive prefixes corresponding to characteristic groups and functional parent compounds may be classified as 
+simple (see P-29.1.1), compound (see P-29.1.2), and complex (see P-29.1.3); mixed substituent groups are complex 
+substituent groups formed by the combination of substitutive and additive operations.
+ru: &(Substitutive prefix|*), соответствующие &(characteristic group|da*) и функциональным &(parent compound|da*), 
+можно классифицировать как простые (см. P-29.1.1), &(compound [prefix]|*) (см. P-29.1.2) и &(complex [prefix]|*) (см. P-29.1.3); 
+смешанные &(substituent group|*) представляют собой сложные &(substituent group|*), образованные путем комбинации 
+замещающих и аддитивных операций.
+
+en: The multiple occurrence of simple prefixes is denoted by the basic numerical terms ‘di’, ‘tri’, etc., or by the derived 
+prefixes ‘bis’, ‘tris’, ‘tetrakis’, etc., in order to distinguish between two simple prefixes and those including a basic 
+multiplying term, for example disulfanyl, ‘–SSH’, and bis(sulfanyl), two –SH groups. Compound and mixed substituent 
+prefixes require the derived multiplying terms ‘bis’, ‘tris’, ‘tetrakis’, etc., to designate their multiplicity in substitutive 
+nomenclature. 
+ru: Множественность простых префиксов обозначается основными числовыми терминами «ди», «три» и т. д., или производными 
+префиксами «бис», «трис», «тетракис» и т. д., чтобы различать два простых префикса и префиксы, включающие основной умножающий 
+термин, например, дисульфанил, «–SSH» и бис(сульфанил), две группы –SH. 
+Для &(compound [prefix]|ro*) и &(mixed substituent prefix|ro*) требуются производные умножающие термины «бис», «трис», «тетракис» 
+и т. д. для обозначения их кратности в &(substitutive nomenclature|pr).
+
+en: Simple prefixes are either retained or systematically formed as follows:
+ru: Простые префиксы либо сохраняются, либо систематически образуются следующим образом:
+
+@List 1
+
+@item
+en: by subtracting hydrogen atom(s) from parent hydrides (described as substituent groups derived from parent 
+hydrides in Section P-29), for example ‘sulfanyl’, <%a%>, and ‘diselanyl’, <%b%>; from functional parent 
+compounds, for example acetonyl, <%c%>; or from a contracted name, for example ‘methoxy’, <%d%>; 
+ru: путем вычитания атома(ов) водорода из &(parent hydride|ro*) (описанных как &(substituent group|*), полученные из 
+&(parent hydride|ro*) в разделе P-29), например, «сульфанил», <%a%>, и «диселанил», <%b%>; из функциональных &(parent compound|ro*), 
+например, ацетонил, <%c%>; или из сокращенного названия, например, «метокси», <%d%>;
+%a: <$ {}–SH $>
+%b: <$ {}–SeSeH $>
+%c: <$ CH3-CO-CH2–{} $>
+%d: <$ CH3-O–{} $>
+
+@item
+en: acyl groups are formed by subtracting all <%o%> groups from oxoacids for example ‘acetyl’, <%a%>, and 
+‘carbonyl’, <%b%>. 
+ru: ацильные группы образуются путем вычитания всех групп <%o%> из оксокислот, например, «ацетил», <%a%>, и «карбонил», <%b%>.
+%o: <$ {}−OH $>
+%a: <$ CH3-CO–{} $>
+%b: <$ ">"C=O $>
+
+@End
+
+
+#P-35.2
+en: Simple prefixes denoting characteristic groups 
+ru: Простые префиксы, обозначающие &(characteristic group|*)
+
+#P-35.2.1
+en: Retained traditional prefixes
+ru: Сохранённые традиционные префиксы
+
+@Examples --
+
+@cell
+–F
+
+en: fluoro (preselected prefix)
+ru: фтор (предварительно выбранный префикс) 
+
+@cell
+–Cl 
+
+en: chloro (preselected prefix) 
+ru: хлор (предварительно выбранный префикс)
+
+@cell
+–Br 
+
+en: bromo (preselected prefix) 
+ru: бром (предварительно выбранный префикс)
+
+@cell
+–I 
+
+en: iodo (preselected prefix) 
+ru: иод (предварительно выбранный префикс)
+
+@cell
+–OH 
+
+en: hydroxy (preselected prefix) 
+ru: гидрокси (предварительно выбранный префикс)
+
+@cell
+=O 
+
+en: oxo (preselected prefix) 
+ru: оксо (предварительно выбранный префикс)
+
+@cell
+–O– 
+
+en: oxy (preselected prefix) 
+ru: окси (предварительно выбранный префикс)
+
+@cell
+–COOH
+
+en: carboxy (preferred prefix) 
+ru: карбокси (предварительно выбранный префикс)
+
+@cell
+<$ {}-SO2-OH $>
+
+en: sulfo (preselected prefix)  <br>
+selenono (Se instead of S; preselected prefix)  <br>
+tellurono (Te instead of S; preselected prefix)
+ru: сульфо (предварительно выбранный префикс) <br>
+селеноно (Se вместо S; предварительно выбранный префикс) <br>
+теллуроно (Te вместо S; предварительно выбранный префикс)
+
+@cell
+–SO-OH
+
+en: sulfino (preselected prefix)  <br>
+selenino (Se instead of S; preselected prefix)  <br>
+tellurino (Te instead of S; preselected prefix) 
+ru: сульфино (предварительно выбранный префикс) <br>
+селенино (Se вместо S; предварительно выбранный префикс) <br>
+теллурино (Te вместо S; предварительно выбранный префикс)
+
+@cell
+–NH2
+  
+en: amino (preselected prefix) 
+ru: амино (предварительно выбранный префикс)
+
+@cell
+–N3
+  
+en: azido (preselected prefix) 
+ru: азидо (предварительно выбранный префикс)
+
+@cell
+=NH  
+
+en: imino (to the same atom; preselected prefix) 
+ru: имино (к тому же атому; предварительно выбранный префикс)
+
+@cell
+–N<  
+
+en: nitrilo (to different atoms; preselected prefix)
+ru: нитрило (к разным атомам; предварительно выбранный префикс)
+
+@End
+
+en: **Note**: In order to distinguish between HN= and –HN– (both are commonly called ‘imino’), and between –N< and –N= 
+(both are commonly called ‘nitrilo’), systematic names based on the parent hydride azane are recommended for the 
+latter in each pair. 
+ru: **Примечание**: Чтобы различать HN= и –HN– (оба обычно называются «имино»), а также –N< и –N= (оба обычно называются «нитрило»), 
+для последнего в каждой паре рекомендуются систематические названия, основанные на &(parent hydride|pr) азане.
+
+@Examples --
+
+@cell
+=N2
+  
+en: diazo (preselected prefix) 
+ru: диазо (предварительно выбранный префикс)
+
+@cell
+–NC  
+
+en: isocyano (preferred prefix) 
+ru: изоциано (предпочтительный префикс)
+
+@cell
+–CN  
+
+en: cyano (preferred prefix) 
+ru: циано (предпочтительный префикс)
+
+@cell
+–NCO 
+
+en: isocyanato (preferred prefix)  <br>
+isothiocyanato (S instead of O; preferred prefix)  <br>
+isoselenocyanato (Se instead of O; preferred prefix)  <br>
+isotellurocyanato (Te instead of O; preferred prefix) 
+ru: изоцианато (предпочтительный префикс) <br>
+изотиоцианато (S вместо O; предпочтительный префикс) <br>
+изоселеноцианато (Se вместо O; предпочтительный префикс) <br>
+изотеллуроцианато (Te вместо O; предпочтительный префикс)
+
+@End
+
+#P-35.2.2+
+en: Substituents formed by subtracting one or more hydrogen atoms from mono- and dinuclear parent hydrides 
+(see P-21.1, P-21.2). 
+ru: &(Substituent|*), образованные путем вычитания одного или нескольких атомов водорода из моно- и биядерных 
+&(parent hydride|ro*) (см. P-21.1, P-21.2).
+
+@Examples
+
+@cell
+–SH  
+
+en: sulfanyl (preselected prefix)  <br>
+(not mercapto) 
+ru: сульфанил (предварительно выбранный префикс) <br>
+(не меркапто)
+
+@cell
+–S–
+
+en: sulfanediyl (preselected prefix)  <br>
+thio 
+ru: сульфандиил (предварительно выбранный префикс) <br>
+тио
+
+@cell
+=S  
+
+en: sulfanylidene (preselected prefix)  <br>
+thioxo 
+ru: сульфанилиден (предварительно выбранный префикс) <br>
+тиоксо
+
+@cell
+–SS– 
+
+en: disulfanediyl (preselected prefix)  <br>
+dithio 
+ru: дисульфандиил (предварительно выбранный префикс) <br>
+дитио
+
+@cell
+–SeH 
+
+en: selanyl (preselected prefix)  <br>
+(not selenyl) 
+ru: селанил (предварительно выбранный префикс) <br>
+(не селенил)
+
+@cell
+–Se–  
+
+en: selanediyl (preselected prefix)  <br>
+seleno 
+ru: селенедиил (предварительно выбранный префикс) <br>
+селено
+
+@cell
+=Se  
+
+en: selanylidene (preselected prefix)  <br>
+selenoxo 
+ru: селенилиден (предварительно выбранный префикс) <br>
+селеноксо
+
+@cell
+–SeSe–  
+
+en: diselanediyl (preselected prefix)  <br>
+diseleno 
+ru: диcеландиил (предварительно выбранный префикс) <br>
+Диселено
+
+@cell
+–TeH  
+
+en: tellanyl (preselected prefix) 
+ru: телланил (предварительно выбранный префикс)
+
+@cell
+–Te– 
+
+en: tellanediyl (preselected prefix)  <br>
+telluro 
+ru: телландиил (предварительно выбранный префикс) <br>
+теллуро
+
+@cell
+=Te  
+
+en: tellanylidene (preselected prefix)  <br>
+telluroxo 
+ru: телланилиден (предварительно выбранный префикс) <br>
+теллуроксо
+
+@cell
+–TeTe–  
+
+en: ditellanediyl (preselected prefix)  <br>
+ditelluro 
+ru: дителландиил (предварительно выбранный префикс) <br>
+дителлуро
+
+@cell
+<$ H2N-NH–{} $> 
+
+en: hydrazinyl (preslected prefix)  <br>
+diazanyl 
+ru: гидразинил (предварительно выбранный префикс) <br>
+диазанил
+
+@cell
+HN=N–
+
+en: diazenyl (preselected prefix)
+ru: диазенил (предварительно выбранный префикс)
+
+@cell
+–NH– 
+
+en: azanediyl (preselected prefix) (to different atoms) 
+ru: азандиил (предварительно выбранный префикс) (к разным атомам)
+
+@End
+
+@p .framed
+en: The systematic name based on the parent hydride azane is the preferred IUPAC name for –HN– in order to 
+distinguish between HN= and –HN– both of which are commonly called ‘imino’
+ru: Систематическое название, основанное на &(parent hydride|pr) азане, является предпочтительным названием ИЮПАК для –HN–, 
+чтобы различать HN= и –HN–, которые оба обычно называют «имино».
+
+@Examples --
+
+@cell
+–N=  
+
+en: azanylylidene (preselected prefix) (to different atoms)  
+ru: азанилилиден (предварительно выбранный префикс) (к разным атомам)
+
+@cell
+≡N  
+
+en: azanylidyne (preselected prefix) (to the same atom) 
+ru: азанилидин (предварительно выбранный префикс) (к тому же атому)
+
+@End
+
+@p .framed
+en: The systematic name based on the parent hydride azane is the preferred IUPAC names for –N= in order to 
+distinguish between –N< and –N= both of which are commonly called ‘nitrilo’.  
+ru: Систематическое название, основанное на исходном гидриде азане, является предпочтительным названием ИЮПАК 
+для –N=, чтобы различать –N< и –N=, оба из которых обычно называются «нитрило».
+
+#P-35.2.3
+en: Simple prefixes derived from functional parent compounds
+ru: Простые префиксы, полученные от функциональных &(parent compound|ro*)
+
+en: A few simple prefixes are derived from functional parent compounds described in P-34 and in P-67. 
+ru: Несколько простых префиксов получены из функциональных &(parent compound|ro*), описанных в P-34 и P-67.
+
+@Examples
+
+@cell
+–CO–  
+
+en: carbonyl (preferred prefix; see P-65.2.1.5) 
+ru: карбонил (предпочтительный префикс; см. P-65.2.1.5)
+
+@cell
+–PO<  
+
+en: phosphoryl (preselected prefix; see P-67.1.4.1.1.2) 
+ru: фосфорил (предварительно выбранный префикс; см. P-67.1.4.1.1.2)
+
+@cell
+<$ {}-SO2-{} $>
+
+en: sulfonyl (preselected prefix; see P-65.3.2.3)  <br>
+sulfuryl 
+ru: сульфонил (предварительно выбранный префикс; см. P-65.3.2.3) <br>
+сульфурил
+
+@cell
+–SO–  
+
+en: sulfinyl (preselected prefix; see P-65.3.2.3)  <br>
+thionyl 
+ru: сульфинил (предварительно выбранный префикс; см. P-65.3.2.3) <br>
+тионил
+
+@cell
+<$ {}–SeO2–{} $>
+
+en: selenonyl (preselected prefix; see P-65.3.2.3) 
+ru: селенонил (предварительно выбранный префикс; см. P-65.3.2.3)
+
+@cell
+–SeO–  
+
+en: seleninyl (preselected prefix; see P-65.3.2.3) 
+ru: селенинил (предварительно выбранный префикс; см. P-65.3.2.3)
+
+@cell
+<$ {}-TeO2-{} $>
+
+en: telluronyl (preselected prefix; see P-65.3.2.3) 
+ru: теллуронил (предварительно выбранный префикс; см. P-65.3.2.3)
+
+@cell
+–TeO–  
+
+en: tellurinyl (preselected prefix; see P-65.3.2.3) 
+ru: теллуринил (предварительно выбранный префикс; см. P-65.3.2.3)
+
+@cell
+<$ CH3-CO-{} $>
+
+en: acetyl (preferred prefix; see P-65.1.7.2.1) 
+ru: ацетил (предпочтительный префикс; см. P-65.1.7.2.1)
+
+@cell
+<$ C6H5-CO-{} $>
+
+en: benzoyl (preferred prefix; see P-65.1.7.2.1) 
+ru: бензоил (предпочтительный префикс; см. P-65.1.7.2.1)
+
+@End
+
+#P-35.3
+en: Compound substituent prefixes 
+ru: &(Compound substituent prefix|*)
+
+#P-35.3.1+
+en: Names of compound prefixes derived from suffixes or functional parent compounds may be formed by 
+substituting simple prefixes into other simple prefixes. When there is a choice, P-57.4 provides for the selection of a 
+preferred compound prefix. 
+ru: Названия &(compound [prefix]|ro*) префиксов, образованных от суффиксов или функциональных &(parent compound|ro*), 
+могут быть образованы путём замены простых префиксов другими простыми префиксами. При наличии выбора P-57.4 предоставляет 
+возможность выбора предпочтительного &(compound [prefix]|ro) префикса.
+
+@Examples 2 .left-aligned-cells
+
+@cell
+–SSeH
+
+@cell
+en: selanylsulfanyl (preselected prefix)
+ru: селанилсульфанил (предварительно выбранный префикс)
+
+@cell
+–NH-Cl
+
+@cell
+en: chloroamino (preselected prefix) 
+ru: хлорамино (предварительно выбранный префикс)
+
+@cell
+<$ {}-NH-CH3 $>
+
+@cell
+en: methylamino (preferred prefix)
+ru: метиламино (предпочтительный префикс)
+
+@cell
+–PH-Cl
+
+@cell
+en: chlorophosphanyl (preselected prefix)
+ru: хлорфосфанил (предварительно выбранный префикс)
+
+@End
+
+#P-35.3.2+
+en: Names of compound prefixes derived from suffixes or functional parent compounds may be formed by the 
+additive operation called concatenation. This is used to assemble simple mono-, di-, tri-, and tetravalent prefixes. 
+Hydrocarbyl divalent substituents can be attached to prefixes expressing characteristic groups. This method is used 
+when no hydrogen atoms are present for substitution (see P-15.1); it is also used to form substituent groups in 
+multiplicative nomenclature (see P-15.3.1.2.2) 
+ru: Названия &(compound [prefix]|ro*) префиксов, образованные от суффиксов или функциональных &(parent compound|ro*), могут 
+быть образованы с помощью операции сложения, называемой конкатенацией. Она используется для объединения простых моно-, ди-, трёх- 
+и четырёхвалентных префиксов. Гидрокарбильные двухвалентные заместители могут быть присоединены к префиксам, выражающим 
+&(characteristic group|*). Этот метод используется, когда отсутствуют атомы водорода для замещения (см. P-15.1); он также 
+используется для образования &(substituent group|ro*) в мультипликативной номенклатуре (см. P-15.3.1.2.2).
+
+@Examples 2 .left-aligned-cells
+
+@cell
+<$ {}–O-CH2-CH2-CH2-CH2-CH3 $>
+
+@cell
+en: pentyloxy (preferred prefix) 
+ru: пентилокси (предпочтительный префикс)
+
+@cell
+<$ {}–O-CH2-C6H5 $>
+
+@cell
+en: benzyloxy (preferred prefix) 
+ru: бензилокси (предпочтительный префикс)
+
+@cell
+–CO-Cl
+
+@cell
+en: carbonochloridoyl (preferred prefix)  <br>
+chlorocarbonyl 
+ru: карбонохлоридоил (предпочтительный префикс) <br>
+хлорокарбонил
+
+@cell
+–C(=NH)-OH
+
+@cell
+en: _C_-hydroxycarbonimidoyl (preferred prefix)  <br>
+hydroxy(imino)methyl
+ru: _C_-гидроксикарбонимидоил (предпочтительный префикс) <br>
+гидрокси(имино)метил
+
+@cell
+<$ {}–C(=N-NH2)-OH $>
+
+@cell
+en: _C_-hydroxycarbonohydrazonoyl (preferred prefix)  <br>
+hydrazinylidene(hydroxy)methyl 
+ru: _C_-гидроксикарбоногидразоноил (предпочтительный префикс) <br>
+гидразинилиден(гидрокси)метил
+
+@cell
+<$ {}–O-CH2-CH2-O–{} $>
+
+@cell
+en: ethane-1,2-diylbis(oxy) (preferred prefix) 
+ru: этан-1,2-диилбис(окси) (предпочтительный префикс)
+
+@cell
+<$ $slope(20)\N<`/>-CH2-N<\>/ $>
+
+@cell
+en: methylenedinitrilo (preferred prefix)
+ru: метилендинитрило (предпочтительный префикс)
+
+@cell
+<$ $slope(20){}\P<||S><`/{}>-CH2-P<||S><\{}>/{} $>
+
+@cell
+en: methylenebis(phosphorothioyl) (preferred prefix)
+ru: метиленбис(фосфоротиоил) (предпочтительный префикс)
+
+@End
+
+#P-35.4
+en: Complex substituent prefixes 
+ru: &(Complex substituent prefix|*)
+
+#P-35.4.1+
+en: Names of complex substituent prefixes may be formed by substituting a simple or compound substituent prefix 
+into a compound substituent prefix. When there is a choice, P-57.4 provides for the selection of a preferred complex 
+substituent prefix. 
+ru: Названия &(complex substituent prefix|ro*) могут быть образованы путём замены простого или &(compound substituent prefix|ro) 
+на &(compound substituent prefix). При наличии выбора, P-57.4 предоставляет возможность выбора предпочтительного 
+&(complex substituent prefix|ro).
+
+@Examples 2 .left-aligned-cells
+
+@cell
+–NH-S-SeH
+
+@cell
+en: (selanylsulfanyl)amino (preselected prefix)
+ru: (селанилсульфанил)амино (предварительно выбранный префикс)
+
+@cell
+<$ {}–NH-CH2Cl $>
+
+@cell
+en: (chloromethyl)amino (preferred prefix) 
+ru: (хлорметил)амино (предпочтительный префикс)
+
+@cell
+<$ Cl-//-\\<`/`=`\>-CH2-O-{} $>
+
+@cell
+en: (4-chlorophenyl)methoxy (preferred prefix) 
+ru: (4-хлорфенил)метокси (предпочтительный префикс)
+
+@cell
+<$ {}–PH-NH-OCH3 $>
+
+@cell
+en: (methoxyamino)phosphanyl (preferred prefix)
+ru: (метоксиамино)фосфанил (предпочтительный префикс)
+
+@End
+
+#P-35.4.2+
+en: Names of complex substituent prefixes may be formed by adding simple or compound substituent prefixes to a 
+compound substituent prefix by the process called ‘concatenation’. 
+ru: Названия &(complex substituent prefix|ro*) могут быть образованы путем добавления простых или &(compound substituent prefix|ro*) 
+к &(compound substituent prefix|da) с помощью процесса, называемого «конкатенацией».
+
+@Examples 2 .left-aligned-cells
+
+@cell
+<$ {}–CO-O-CH2-C6H5 $>
+
+@cell
+en: (benzyloxy)carbonyl (preferred prefix) 
+ru: (бензилокси)карбонил (предпочтительный префикс)
+
+@cell
+<$ {}–O-CS-OCH3 $>
+
+@cell
+en: (methoxycarbonothioyl)oxy (preferred prefix) 
+ru: (бензилокси)карбонил (предпочтительный префикс)
+
+@cell
+<$ {}–CS-O-P(O)(OCH3)2 $>
+
+@cell
+en: [(dimethoxyphosphoryl)oxy]carbonothioyl (preferred prefix) 
+ru: [(диметоксифосфорил)окси]карбонотиоил (предпочтительный префикс)
+
+@End
+
+#P-35.5
+en: Mixed substituent prefixes 
+ru: &(Mixed substituent prefix|*)
+
+#P-35.5.1+
+en: Mixed substituent prefix names are formed by combining the substitutive and additive operations.  
+ru: Имена &(mixed substituent prefix|ro*) образуются путем объединения замещающих и аддитивных операций.
+
+@Examples 2 .left-aligned-cells
+
+@cell
+<$ CH3-CH2-O-SO-NH–{} $>
+
+@cell
+en: (ethoxysulfinyl)amino (preferred prefix)
+ru: (этоксисульфинил)амино (предпочтительный префикс)
+
+@cell
+<$ CH3-CO-S-CO–{} $>
+
+@cell
+en: (acetylsulfanyl)carbonyl (preferred prefix) 
+ru: (ацетилсульфанил)карбонил (предпочтительный префикс)
+
+@cell
+<$ CH3-CO-O-NH-SO-O–{} $>
+
+@cell
+en: {[(acetyloxy)amino]sulfinyl}oxy (preferred prefix)
+ru: {[(ацетилокси)амино]сульфинил}окси (предпочтительный префикс)
+
+@cell
+<$ (HS)2(O)P-NH–{} $>
+
+@cell
+en: [bis(sulfanyl)phosphoryl]amino (preselected prefix) 
+ru: [бис(сульфанил)фосфорил]амино (предварительно выбранный префикс)
+
+@End

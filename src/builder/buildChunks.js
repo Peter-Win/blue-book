@@ -1,5 +1,6 @@
 const { ChemSys } = require("charchem2");
 const { drawTag } = require("charchem2/dist/utils/xml/drawTag");
+const { buildTerm } = require("./buildTerm");
 
 /**
  * 
@@ -13,7 +14,7 @@ const buildChunks = (chunks, params, doc) => {
 }
 
 const buildLocalChunks = (locs, locale, params, ctx) => {
-  return buildChunks(locs[locale] ?? locs["*"], params, ctx)
+  return buildChunks(locs[locale] ?? locs["*"] ?? locs.en, params, ctx)
 }
 
 const buildChunk = (chunk, params, ctx) => {
@@ -22,7 +23,12 @@ const buildChunk = (chunk, params, ctx) => {
     return content;
   }
   if (type === "formula") {
-    return `<span class="echem-formula">${ChemSys.esc(content)}</span>`
+    let s = content;
+    s = s.replace(/@:n\(.*"(&n)">@;/g, (a) => a.replace("&n", "\\small{&n}"));
+    s = s.replace(/@:iso\(.*@;/g, (s)=>s.replace(`&v`, `\\color{gray}\\textit{&v}`));
+    s = s.replace(/@:fl\(.*@;/g, (s)=>s.replace(`&v`, `\\color{gray}\\textit{&v}`));
+    s = s.replaceAll("@n(N)", "@n(\\textit{N})");
+    return `<span class="echem-formula">${ChemSys.esc(s)}</span>`
   }
   if (type === "param") {
     const paramChunks = params[content];
@@ -44,10 +50,30 @@ const buildChunk = (chunk, params, ctx) => {
     if (chunk.part) {
       attrs.href = ctx.makeRef(content);
       attrs["class"] = "p-ref";
+      ctx.goodRefs++;
     } else {
       attrs["class"] = "wrong-part";
+      ctx.badRefs++;
     }
     return drawTag("a", attrs) + content + `</a>`;
+  }
+  if (type === "refTable") {
+    const attrs = {};
+    if (chunk.part) {
+      attrs.href = ctx.makeRef(`Table-${chunk.tableNumber}`);
+      attrs["class"] = "tbl-ref";
+      ctx.goodRefs++;
+    } else {
+      attrs["class"] = "wrong-part";
+      ctx.badRefs++;
+    }
+    return drawTag("a", attrs) + content + `</a>`;
+  }
+  if (type === "term") {
+    return buildTerm(content, ctx.terms);
+  }
+  if (type === "ringsDef") {
+    return content.replace(/\d+/g, c => `<sub>${c}</sub>`);
   }
 
   return `<strong style="color: red">${type}</strong>`;

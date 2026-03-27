@@ -1,0 +1,722 @@
+#P-25.5
+en: Limitations of fusion nomenclature: three components _ortho_- and _peri_-fused together 
+ru: Ограничения номенклатуры слияния: три компонента _орто_- и _пери_-слиты вместе
+
+en: The fusion principles described in P-25.1 through P-25.3 apply only between pairs of components. It is not possible by 
+these principles to name a system in which a third component is _ortho_- and _peri_-fused to two components that are 
+themselves _ortho_- or _ortho_- and _peri_-fused together. It is important to recall that benzo heterocycles are considered as 
+one component, thus permitting the construction of names that would not otherwise be possible. 
+ru: Принципы слияния, описанные в разделах с P-25.1 по P-25.3, применяются только между парами компонентов. 
+Эти принципы не позволяют назвать систему, в которой третий компонент _орто_- и _пери_-слит с двумя компонентами, 
+которые сами _орто_- или _орто_- и _пери_-слиты вместе. Важно помнить, что бензогетероциклы рассматриваются как один 
+компонент, что позволяет строить названия, которые в противном случае были бы невозможны.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_p7N_pp7_p7_pp7_p7_pp7/\\|<`/`\\>\\/`|`\<`/>`||/\\|`/l/\<||`/`\\>/O`|@n(2,-30)`\O@n(1,-90,.6)`/
+$>
+
+en: 2_H_-[1,3]benzodioxino[6′,5′,4′:10,5,6]anthra[2,3-_b_]azepine (PIN)  <br>
+**Note**: A normal fusion name is not possible when the four components  <br>
+azepine, anthracene, 1,3-dioxine and benzene are treated individually;  <br>
+therefore, the use of a benzo name component is necessary;  <br>
+1-benzazepine cannot be the parent ring because this would require breaking of the attached component having a <br>
+retained name, anthra, which is not allowed, see P-25.3.5.
+ru: 2_H_-[1,3]бензодиоксино[6′,5′,4′:10,5,6]антра[2,3-_b_]азепин (PIN) <br>
+**Примечание**: Обычное название слияния невозможно, когда четыре компонента <br>
+азепин, антрацен, 1,3-диоксин и бензол рассматриваются по отдельности; <br>
+поэтому необходимо использование компонента названия бензо; <br>
+1-бензазепин не может быть родительским кольцом, поскольку это потребовало бы разрыва присоединенного компонента, <br>
+имеющего сохраненное название, антра, что не допускается, см. P-25.3.5.
+
+@End
+
+en: When a third component is _ortho_- and _peri_-fused to two components that are themselves _ortho_- or _ortho_- and _peri_-fused 
+together, the following procedures are applied in order until a name can be formed. 
+ru: Когда третий компонент _орто_- и _пери_-слит с двумя компонентами, которые сами _орто_- или _орто_- и _пери_-слиты вместе, 
+применяются следующие процедуры по порядку, пока не будет сформировано имя.
+
+#P-25.5.1
+en: Skeletal replacement (‘a’) nomenclature 
+ru: Номенклатура скелетного замещения (‘a’)
+
+#P-25.5.1.1+
+en: If the corresponding hydrocarbon fused ring system can be named by fusion principles or has a retained 
+name, then heteroatoms are identified by skeletal replacement (‘a’) nomenclature using the appropriate ‘a’ prefixes (see 
+P-22.2.3). The numbering of the fused hydrocarbon system is not altered by the ‘a’ prefixes. 
+ru: Если соответствующая углеводородная конденсированная кольцевая система может быть названа по принципам слияния или 
+имеет сохраненное название, то гетероатомы идентифицируются по скелетной заместительной (‘a’) номенклатуре с использованием 
+соответствующих префиксов ‘a’ (см. P-22.2.3). Нумерация конденсированной углеводородной системы не изменяется префиксами ‘a’.
+
+en: When the fusion principles discussed in P-25.1 through P-25.3 do apply, no skeletal replacement (‘a’) name is 
+recommended. The procedure is valid only for cases described in P-25.5. 
+ru: Когда применяются принципы слияния, обсуждаемые в P-25.1 — P-25.3, не рекомендуется использовать названия 
+скелетной замены (‘a’). Процедура действительна только для случаев, описанных в P-25.5.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.6)==N@n(2,-90,.6)_(a%b:68.5292)`//r<`\_(a%a:81.4707)>|<_(a%a,N2)N@n(5,90,.6)_(a%b)N@n(6,180,.5)_(a%b,N2)>_(a-%a)N@n(4,90,.6)_(a-%b,N2)N@n(3,30,.5)_(a-%b)
+$>
+
+en: 1,2,3,4,5,6-hexaazacyclopenta[_cd_]pentalene (PIN)
+ru: 1,2,3,4,5,6-гексаазациклопента[_cd_]пентален (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`/`\\`|N@n(9,-150,.5)//\N|\\/`||N@n(4,-30,.5)`\<`/@n(3a^1,-70,.6)>@n(3a,-30,.5)`||l@n(3)`\`//N@n(1,-150,.5)|
+$>
+
+en: 1,3a^{1},4,9-tetraazaphenalene (PIN)
+ru: 1,3a^{1},4,9-тетраазафенален (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|_pp7@n(7,80)_p7N:lb_p7:lc_p7N:lt@n(i',88,.75)_p7@n(12,-90)_p7@n(f',120,.7)//@n(13,-90)\|<`//@n(6,90)`\>@n(f,-70,.7)_q7@n(5,100)_q7N:rb_q7:rc_q7N:rt@n(i,85,.75)_q7@n(14,-100)_qq7;
+#lc`-l_qN@n(a',-40,.7)@n(9,150,.6)_qq@n(8,90)_q@n(7a,70,.6);
+#lc`-@n(j',35,.9)_pN_pp@n(11,-90)_p@n(11a,-70,.6);
+#rc-l@n(j,150,.7)_pN@n(3,30,.6)@n(a,-130,.7)_pp@n(4,90)_#rb@n(4a,110,.6);
+#rc-_qN@n(2,-30,.6)_qq@n(1,-90)_#rt@n(14a,-110,.6)
+$>
+
+en: 5_H_,12_H_-2,3,4a,7a,9,10,11a,14a-octaazadicyclopenta[_ij_:_i_′_j_′]benzo[1,2-_f_:4,5-_f_′]diazulene (PIN)
+ru: 5_H_,12_H_-2,3,4a,7a,9,10,11a,14a-октаазадициклопента[_ij_:_i_'_j_']бензо[1,2-_f_:4,5-_f_']диазулен (PIN)
+
+@End
+
+#P-25.5.1.2+
+en: If the fused ring system can only be named using skeletal (‘a’) replacement nomenclature, any heteroatoms 
+in bridge are also named using skeletal replacement (‘a’) nomenclature. The replacement terms are cited at the front of 
+the corresponding hydrocarbon bridged fused ring system. 
+ru: Если конденсированная кольцевая система может быть названа только с использованием скелетной (‘a’) заместительной 
+номенклатуры, любые гетероатомы в мостике также называются с использованием скелетной заместительной (‘a’) номенклатуры. 
+Замещающие термины приводятся в начале соответствующей углеводородной мостиковой конденсированной кольцевой системы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|_qq7:b@n(5,100)_q7:rb_q7:rc_q7:rt_q7:t<_qq7>@n(8,-100)_(x.2,y#t;b)O@n(9,0,.5)_#b;
+#rc-l_qO@n(2,-30,.5)_q@n(1,-90)=#rt;
+#rc-_pO@n(3,30,.5)_p=#rb
+$>
+
+en: 2,3,9-trioxa-5,8-methanocyclopenta[_cd_]azulene (PIN) 
+ru: 2,3,9-триокса-5,8-метаноциклопента[_cd_]азулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|_p8`=_p8`||_p8=:tr_p8_(a-67.5)<_pO@n(3,30,.5)_p=#2>@n(2a,-20,.5)_qq_q@n(1,-120)_#tr;
+#1@n(2a^1,28,.65)`-`/O@n(10,-10,.6)\#3
+$>
+
+en: 1_H_-3,10-dioxa-2a^{1},5-ethanocycloocta[_cd_]pentalene (PIN) 
+ru: 1_H_-3,10-диокса-2a^{1},5-этаноциклоокта[_cd_]пентален (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)\</_(a-%a:81.4707)@n(2,-70)_(a-%b:68.5292)S@n(1,-80,.6)_(a-%b)>||l<_(a-%a)O@n(4,80,.6)_(a-%b)_(a-%b,N2)>`/:b@n(5,90)`\`||l<_q@n(8,-100)_qq_qO@n(6,120,.6)_q>@n(8a,-110,.5)$color(gray)/$color()@n(8b,-150,.5)#
+_(A-97,L1.8)_(A160,N2r)<_#b>@n(10,150,.5)_pO@n(11,180,.6)_p_pp_p@n(9,-40)
+$>
+
+en: 2_H_,5_H_-4,6,11-trioxa-1-thia-5,8b-[1,2]epicyclopentacyclopenta[_cd_]-_s_-indacene (PIN) 
+ru: 2_H_,5_H_-4,6,11-триокса-1-тиа-5,8b-[1,2]эпициклопентациклопента[_cd_]-_s_-индацен (PIN)
+
+@End
+
+#P-25.5.2+
+en: Selection of a less senior hydrocarbon parent component 
+ru: Выбор менее старшего углеводородного материнского компонента
+
+en: A less preferred hydrocarbon parent component is selected that will permit a fusion name. Second and third choice 
+parent components are chosen according to the seniority order for selecting the senior parent component (see  
+P-25.3.2.4).
+ru: Выбран менее предпочтительный углеводородный родительский компонент, который позволит использовать имя слияния. 
+Второй и третий выбор родительских компонентов осуществляется в соответствии с порядком старшинства для выбора 
+старшего родительского компонента (см. P-25.3.2.4).
+
+@Examples
+
+@cell
+<$ $L(1.1)/\\r|<_q_qq_q<_q>`\\l_#2>`//`\`|`\\`/`\\`/||\//<`|>\// $>
+
+en: cyclobuta[1,7]indeno[5,6-_b_]naphthalene (PIN)  <br>
+(anthracene cannot be selected as senior parent component;  <br>
+naphthalene, not indene, is next in seniority order for selection as a parent component) 
+ru: циклобута[1,7]индено[5,6-_b_]нафталин (PIN) <br>
+(антрацен не может быть выбран в качестве старшего родительского компонента; <br>
+нафталин, а не инден, является следующим по старшинству для выбора в качестве родительского компонента)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/\\r|<_q_qq@n(2,0)_q<_q>`\\l@n(1,-90)_#2>`//`\`|`\\`/`\\`/`\N@n(10,-90,.6)`//|\\/`|r|\//<`|>\//
+$>
+
+en: 10-azacyclobuta[1,7]indeno[5,6-_b_]anthracene (PIN)  <br>
+[neither quinoline nor pyridine can be used as the senior parent component because  <br>
+neither naphthalene nor anthracene, respectively, can be used as the senior attached component;  <br>
+therefore ‘a’ nomenclature must be used (see P-25.5.1) and since the preferred hydrocarbon tetracene cannot be used, <br>
+the next senior component, anthracene, is chosen as the parent component] 
+ru: 10-азациклобута[1,7]индено[5,6-_b_]антрацен (PIN) <br>
+[ни хинолин, ни пиридин не могут быть использованы в качестве старшего исходного компонента, поскольку ни нафталин, <br>
+ни антрацен, соответственно, не могут быть использованы в качестве старшего присоединенного компонента; <br>
+поэтому необходимо использовать номенклатуру «a» (см. P-25.5.1) и поскольку предпочтительный углеводород тетрацен 
+не может быть использован, следующий старший компонент, антрацен, выбирается в качестве родительского компонента]
+
+@End
+
+#P-25.5.3
+en: Use of bridging nomenclature
+ru: Использование мостиковой номенклатуры
+
+en: A bridged fused system (see Section P-25.4) is used to generate names for structures that cannot be named by normal 
+fusion nomenclature. A fused system is first envisaged; additional rings are created by using bridges. 
+ru: Мостовая система слияния (см. раздел P-25.4) используется для генерации названий структур, которые не могут быть 
+названы обычной номенклатурой слияния. Сначала рассматривается слияние систем; дополнительные кольца создаются 
+с помощью мостов.
+
+@Examples
+
+@cell
+// Исправленный вариант взят из
+// https://iupac.qmul.ac.uk/bibliog/BBerrors.html
+// Page 287, P-25.5.3, example 1
+// Правая структура осталась такой же, как в оригинале. Хотя там тоже проблемы с нумерацией: нет 21 и пропуск между 10 b 11.
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//:n17`\:n18`||@n(20,-150,.5)/@n(21,-90)\\|\@n(17,90)//`|<`\\@n(22,-90)`/>/@n(1,-90)\\@n(2,-30)|`/<`\>||@n(16,150,.5)\/<`|@n(3,-30)`\\>\\:n4@n(4,-30)|:n5@n(5,30)`//`\<`||r>`/@n(15,-150,.5)||l\<//@n(6,30)`|>|@n(7,30)`//@n(8,90)`\`|</>`\\@n(14,-90)`/||l<\@n(9,90)//>`/@n(10,90)`\\@n(11,150,.5)`|:n11/:n12\;
+#n17@n(18,30,.5)_(y#n4;n5,x-.8)@n(24,0,.5)<_(N2r)#n12@n(13,-30,.5)>_(x-1.1,N0)@n(23,180,.5)<_#n18@n(19,180,.5)>_(N2L)#n11@n(12,170,.5);
+#n4\0{}_(x4,<){}_(x1,y#n11,N0)#
+@n(11,-150)|\\@n(10,90)/`||r<`\@n(12,-90)`//>/@n(13,-90)\\|<`//@n(9,90)`\>\@n(8,90)//@n(7,30)`|`\<`/>`||@n(14,-150,.5)/\<|@n(6,30)`//>//@n(5,30)`|@n(4,-30)`\\`/|`|`\@n(15,150,.5)`||/<\\@n(3,-30)|>`|@n(2,-30)`\\@n(1,-90)`/|<\>`//@n(16,90)`\`|</@n(22,-90)\\>`\\@n(20,-90)`/@n(19,-150,.5)||@n(18,150,.5)\@n(17,90)//
+$>
+
+en: 12,19:13,18-di(metheno)dinaphtho[2,3-_a_:2′,3′-_o_]pentaphene (PIN) 
+ru: 12,19:13,18-ди(метено)динафто[2,3-_a_:2',3'-_o_]пентафен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`=_q8||_q8=:n5@n(5,60)_q8:rb`||l<$color(gray)_q8$color()>_(a67.5)<_p_pp_#rb>_qq:n2@n(2,-60)_qO@n(1,-100,.6)_#1;
+#n5_(y-1.3)<_#2@n(9,-120)>_(A-65,L1.4)_#n2
+$>
+
+en: 1-oxa-5,9,2-(epiethane[1,1,2]triyl)cycloocta[_cd_]pentalene (PIN)
+ru: 1-окса-5,9,2-(эпиэтан[1,1,2]триил)циклоокта[_cd_]пентален (PIN)
+
+@End
+
+
+#P-25.6
+en: Fused ring systems with skeletal atoms with nonstandard bonding numbers 
+ru: Конденсированные кольцевые системы со скелетными атомами с нестандартными числами связей
+
+en: The λ-convention is used to describe atoms with nonstandard bonding numbers (ref. 13) in fused ring systems. The 
+symbol λ^{_n_} is used, where ‘_n_’ is the bonding number of the atoms; it is cited immediately after the locant denoting the 
+atom having the nonstandard bonding number. The symbol _H_, denoting indicated hydrogen atom(s) with the 
+appropriate locant(s), if present, is cited at the front of the complete name. 
+ru: λ-соглашение используется для описания атомов с нестандартным числом связей (ссылка 13) в конденсированных кольцевых 
+системах. Используется символ λ^{_n_}, где ‘_n_’ — число связей атомов; он приводится сразу после локанта, обозначающего 
+атом с нестандартным числом связей. Символ _H_, обозначающий указанный(е) атом(ы) водорода с соответствующим(и) локантом(ами), 
+если он(и) присутствует(ют), приводится в начале полного названия.
+
+en: The λ symbol is used with all ring systems described in this section with retained and fusion names, bi- and 
+polyalicyclic as well as heterocycles formed by skeletal replacement (‘a’) nomenclature, as described above in P-25.5.1. 
+Atoms with nonstandard bonding numbers in fused ring systems are indicated only in the complete ring system, not in 
+component rings. Names and numbering are unchanged, unless a choice must be made between two otherwise 
+equivalent atoms; in which case, low locants are attributed to atoms with the higher bonding numbers, for example λ^{6} 
+before λ^{4}.
+ru: Символ λ используется со всеми кольцевыми системами, описанными в этом разделе с сохраненными и слитыми названиями, 
+би- и полиалициклическими, а также гетероциклами, образованными скелетной заменой (‘a’) номенклатурой, как описано выше 
+в P-25.5.1. Атомы с нестандартными числами связей в слитых кольцевых системах указываются только в полной кольцевой системе, 
+а не в составных кольцах. Названия и нумерация не изменяются, если только не нужно сделать выбор между двумя в остальном 
+эквивалентными атомами; в этом случае атомам с более высокими числами связей приписываются меньшие локанты, например, 
+λ^{6} перед λ^{4}.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+S@n(7,-90,.6)|r_p@n(4,100)_pp@n(5,180)_pS@n(6,-90,.6)_p|_q@n(3,80)_qq@n(2,0)_qS@n(1,-90,.6)_q
+$>
+
+en: 7λ^{4}-[1,2]dithiolo[5,1-_e_][1,2]dithiole (PIN) 
+ru: 7λ^{4}-[1,2]дитиоло[5,1-_e_][1,2]дитиол (PIN)
+// Это есть в списке ошибок, но оригинал содержит правильную версию.
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||r`/P<_(y.5)H2>@n(5,-90,.6)`\\`|//\/O@n(1,-90,.6)\@n(2,-30)|`//`\
+$>
+
+en: 2_H_-5λ^{5}-phosphinino[3,2-_b_]pyran (PIN) 
+ru: 2_H_-5λ^{5}-фосфинино[3,2-_b_]пиран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||r_q7S@n(5,90,.6)_q7_qq7_q7@n(2,-60)_qq7S<_(y-.5)H>@n(1,90,.6)_q7
+$>
+
+en: 1λ^{4},5-benzodithiepine (PIN) 
+ru: 1λ^{4},5-бензодитиепин (PIN)
+
+@End
+
+en: After the maximum number of noncumulative double bonds has been assigned, any ring atom with a bonding number 
+of three or higher connected to adjacent ring atoms by single bonds only and carrying one or more hydrogen atoms, is 
+designated by the indicated hydrogen symbol _H_. If there is a choice, such ring atoms are selected for low locants.
+ru: После того, как максимальное число некумулятивных двойных связей назначено, любой кольцевой атом с числом связей 
+три или выше, соединенный с соседними кольцевыми атомами только одинарными связями и несущий один или несколько атомов 
+водорода, обозначается указанным символом водорода _H_. Если есть возможность выбора, такие кольцевые атомы выбираются 
+для меньших локантов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_p<_q6_qq6_q6@n(2,-30)_q6@n(1,-120)_qq6>_ppS<_(y.5)H>@n(5,-90,.6)_p_ppl_q6_qq6_q6_qq6_q6
+$>
+
+en: 2_H_-5λ^{4}-dibenzo[_b_,_d_]thiophene (PIN) 
+ru: 2_H_-5λ^{4}-дибензо[_b_,_d_]тиофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\|_qq7_q7O@n(4,30,.5)_q7IH@n(3,180)_q7O@n(2,-30,.5)_q7@n(1,-100)_qq7
+$>
+
+en: 3_H_-3λ^{3},2,4-benziodadioxepine (PIN) 
+ru: 3_H_-3λ^{3},2,4-бензиодадиоксепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\/@n(3,30)`|SH@n(2,140,.5)`\\@n(1,-90)`/|_p7_pp7_p7_pp7_p7_pp7
+$>
+
+en: 3_H_-2λ^{4}-cyclohepta[_c_]thiopyran (PIN) 
+ru: 3_H_-2λ^{4}-циклогепта[_c_]тиопиран (PIN)
+
+@End
+
+#P-25.7
+en: Double bonds, indicated hydrogen, and the δ-convention 
+ru: Двойные связи, обозначенные водородом, и δ-конвенция
+
+en: The treatment of double bonds is formalized in fusion nomenclature. A maximum of noncumulative double bonds must 
+be present in fused and bridged fused systems. When hydrogen atoms are in excess at specific positions, they are 
+denoted in names by indicated hydrogen atom(s). However, the presence of cumulative formal double bonds is also 
+possible. This feature is expressed by the δ-convention (delta-Convention) (see ref. 24). These two aspects of fused and 
+bridged fused systems are described in this Section.
+ru: Обработка двойных связей формализована в номенклатуре слияния. Максимальное количество некумулятивных двойных связей 
+должно присутствовать в слитых и мостиковых слитых системах. Когда атомы водорода находятся в избытке в определенных 
+положениях, они обозначаются в названиях указанием атома(ов) водорода. Однако наличие кумулятивных формальных двойных 
+связей также возможно. Эта особенность выражается δ-конвенцией (дельта-конвенцией) (см. ссылку 24). Эти два аспекта 
+слитых и мостиковых слитых систем описаны в этом разделе.
+
+#P-25.7.1
+en: Indicated hydrogen 
+ru: Указанный водород
+
+#P-25.7.1.1
+en: Maximum number of noncumulative double bonds 
+ru: Максимальное количество некумулятивных двойных связей
+
+en: The names of polycyclic fused ring systems are considered to correspond to the structure with the maximum number of 
+noncumulative double bonds consistent with the appropriate bonding number of the skeletal atoms. To achieve this 
+result, components are fused together and noncumulative double bonds are introduced into the completed fused system. 
+Hydrogen atoms not attached to atoms connected by double bonds are denoted as indicated hydrogen atom(s). 
+ru: Названия полициклических конденсированных кольцевых систем считаются соответствующими структуре с максимальным 
+числом некумулятивных двойных связей, соответствующим соответствующему числу связей скелетных атомов. Для достижения 
+этого результата компоненты сливаются вместе и в завершенную конденсированную систему вводятся некумулятивные двойные связи. 
+Атомы водорода, не присоединенные к атомам, соединенным двойными связями, обозначаются как указанные атомы водорода.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_pN_pp_p_pp>_qq_q@n(2,0)_qqN@n(1,-90,.6)_q
+$>
+
+en: pyrrolo[3,2-_b_]pyrrole (PIN)
+ru: пирроло[3,2-_b_]пиррол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_qS@n(3,90,.6)_q@n(2,0)_qO@n(1,-90,.6)_q
+$>
+
+en: 2_H_-1,3-benzoxathiole (PIN)
+ru: 2_H_-1,3-бензоксатиол (PIN)
+
+@End
+
+en: If atoms with nonstandard bonding numbers are present, they must be indicated using the  
+λ-convention (and if necessary the δ-convention). The stated bonding number is used in assigning noncumulative 
+double bonds. 
+ru: Если присутствуют атомы с нестандартными числами связей, они должны быть обозначены с использованием λ-конвенции 
+(и при необходимости δ-конвенции). Указанное число связей используется при назначении некумулятивных двойных связей.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//N``\`||/\\|\//SH@n(3,-140,.5)`|`\\N@n(1,-90)`/
+$>
+
+en: 3λ^{4}-pyrido[3,2-_d_][1,3]thiazine (PIN) 
+ru: 3λ^{4}-пиридо[3,2-_d_][1,3]тиазин (PIN)
+
+@End
+
+en: In bridged fused systems, the distribution of noncumulative double bonds in the parent fused ring system is 
+accomplished after allowance has been made for the bonds existing between the bridge(s) and the fused ring system. 
+Rings that are part of a bridge are treated separately, after consideration of the free valences of the bridge. 
+ru: В мостиковых конденсированных системах распределение некумулятивных двойных связей в исходной конденсированной 
+кольцевой системе выполняется после учета связей, существующих между мостиком(ами) и конденсированной кольцевой системой. 
+Кольца, являющиеся частью моста, рассматриваются отдельно, после рассмотрения свободных валентностей моста.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-`|-|`/`\\`|//\@n(8a,-90,.6)/@n(1,-90)_(x-%d:.3,y1)O_(x%d,y1)<`\@n(4a,90,.5)>@n(4,90)//`|`\\
+$>
+
+en: 1,4-epoxy-4a,8a-ethanonaphthalene (PIN) 
+ru: 1,4-эпокси-4a,8a-этанонафталин (PIN)
+
+@cell
+// !!! Есть подозрение, что локант 4 (верхний) - это ошибка. Скорее всего, 4 у нижнего O. А вместо 4 должно быть 8.
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)|r$color()_p7O_p7:n5@n(5,120)_p7@n(6,180)_p7_pp7@n(4,-70)_p7|_qO_q:n2@n(2,0)_qO@n(1,-90,.6)_q;
+#n5_(A-45,N2r)_(A-17,L1.7)_#n2
+$>
+
+en: 2_H_,6_H_-2,5-(epiethanylylidene)[1,3]dioxolo[4,5-_b_]oxepine (PIN) 
+ru: 2_H_,6_H_-2,5-(эпиэтанилилииден)[1,3]диоксоло[4,5-_b_]оксепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)`|$color()`\`//|@n(6,150)<//r:a>\//\//`|PH2@n(2,-90,.6)<`\@n(1,-90)`//>`/_#a
+$>
+
+en: 2_H_-2λ^{5}-2,6-(epiethanylylidene)isophosphinoline (PIN)
+ru: 2_H_-2λ^{5}-2,6-(эпиэтанилиден)изофосфинолин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/|r`/`\\`|//\|\N:b@n(10,90,.6)/\//`|`\\@n(1,-90)`/|l`|$color(gray)`\$color()@n(9,-150)_(A-100)_(A10)<_#b>_qq_qN<_(y-.5)H>@n(13,110,.6)_q_qq
+$>
+
+en: 9_H_,13_H_-9,10-[3,4]epipyrroloacridine (PIN)
+ru: 9_H_,13_H_-9,10-[3,4]эпипирролоакридин (PIN)
+
+@End
+
+#P-25.7.1.2
+en: Localized double bonds 
+ru: Локализованные двойные связи
+
+en: If it is necessary to identify isomers that differ only by virtue of the location of localized double bonds, this 
+differentiation is indicated by the use of the Greek letter Δ. The locant cited corresponds to the first cited locant of the 
+localized double bond. 
+ru: Если необходимо идентифицировать изомеры, которые различаются только расположением локализованных двойных связей, 
+то эта дифференциация обозначается греческой буквой Δ. Приведенный локант соответствует первому приведенному локанту 
+локализованной двойной связи.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_p7<_(a-64.3)CH3>@n(6,120)_pp7_p7_pp7_p7_pp7|0@n(5a,90,.6)_qq7_q7_qq7_q7_qq7<_(a64.3)CH3>@n(1,-60)_q7@n(10a,-90,.65)
+$>
+
+en: 1,6-dimethyl-Δ^{1}-heptalene (PIN) 
+ru: 1,6-диметил-Δ^{1}-гептален (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_pp7<_(a-64.3)CH3>@n(6,120)_p7_pp7_p7_pp7_p7|0@n(5a,90,.6)_q7_qq7_q7_qq7_q7<_(a64.3)CH3>@n(1,-60)_qq7@n(10a,-90,.65)
+$>
+
+en: 1,6-dimethyl-Δ^{1(10a)}-heptalene (PIN) 
+ru: 1,6-диметил-Δ^{1(10a)}-гептален (PIN)
+
+@End
+
+#P-25.7.1.3
+en: Citation of indicated hydrogen
+ru: Цитирование указанного водорода
+
+#P-25.7.1.3.1+
+en: When a name applies equally to two or more isomeric systems with the maximum number of 
+noncumulative double bonds and when the name can be made specific by indicating the position of one or more 
+hydrogen atoms in the structure, this specifically is accomplished by adding to the name the italicized symbol _H_ for 
+each of these hydrogen atoms, preceded by the appropriate locant(s). 
+ru: Когда название в равной степени применимо к двум или более изомерным системам с максимальным числом некумулятивных 
+двойных связей и когда название можно сделать конкретным, указав положение одного или нескольких атомов водорода 
+в структуре, это достигается добавлением к названию курсивного символа _H_ для каждого из этих атомов водорода, 
+которому предшествуют соответствующие локанты.
+
+en: In preferred IUPAC names, all indicated hydrogen atoms must be cited when the names are constructed in accordance 
+with the principles of fusion nomenclature
+ru: В предпочтительных названиях ИЮПАК все указанные атомы водорода должны быть указаны, если названия составлены 
+в соответствии с принципами номенклатуры слияния
+
+en: In general IUPAC nomenclature, omission of indicated hydrogen atoms is permitted in some parent fused ring systems, 
+when unsubstituted, for example indene rather than 1_H_-indene, but 1_H_-indene-3-carboxylic acid. Omission of indicated 
+hydrogen in general nomenclature is permitted in the following ring systems: 
+ru: В общей номенклатуре ИЮПАК допускается пропуск указанных атомов водорода в некоторых родительских конденсированных 
+кольцевых системах, когда они незамещены, например, инден, а не 1_H_-инден, но 1_H_-инден-3-карбоновая кислота. 
+Пропуск указанного водорода в общей номенклатуре допускается в следующих кольцевых системах:
+
+@Examples -- 2 .left-aligned-cells
+
+@cell
+en: fluorene
+ru: флуорен 
+
+@cell
+9_H_
+
+@cell
+en: indene
+ru: инден
+
+@cell
+1_H_
+
+@cell
+en: phenalene
+ru: фенален
+
+@cell
+1_H_
+
+@cell
+en: indazole
+ru: индазол
+
+@cell
+1_H_
+
+@cell
+en: indole
+ru: индол 
+
+@cell
+1_H_
+
+@cell
+en: isochromene (and chalcogen analogues)
+ru: изохромен (и халькогеновые аналоги)
+
+@cell
+1_H_
+
+@cell
+en: isoindole
+ru: изоиндол
+
+@cell
+2_H_
+
+@cell
+en: perimidine
+ru: перимидин
+
+@cell
+1_H_
+
+@cell
+en: purine
+ru: пурин
+
+@cell
+7_H_
+
+@cell
+en: pyrrole
+ru: пиррол 
+
+@cell
+1_H_
+
+@cell
+en: xanthene
+ru: ксантен
+
+@cell
+9_H_
+
+@End
+
+en: Omission of indicated hydrogen is also permitted in general nomenclature if no ambiguity would result, for example 
+1,3-benzodioxole, rather than 2_H_-1,3-benzodioxole. 
+ru: В общей номенклатуре допускается также пропуск указанного водорода, если это не приведет к двусмысленности, 
+например, 1,3-бензодиоксол, а не 2_H_-1,3-бензодиоксол.
+
+#P-25.7.1.3.2
+en: Indicated hydrogen with _ortho_-, and _ortho_ and _peri_-fused systems 
+ru: Указанный водород с _орто_-, _орто_ и _пери_-конденсированными системами
+
+en: Indicated hydrogen is identified by the locant of the relevant position and cited at the front of the names of the whole 
+ring system, including replacement terms, if any.  
+ru: Указанный водород идентифицируется по местоположению соответствующей позиции и указывается в начале названия всей 
+кольцевой системы, включая термины замены, если таковые имеются.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//N`\`||/\\|_q_qq_qN<_(y-.5)H>@n(1,100,.6)_q
+$>
+
+en: 1_H_-pyrrolo[3,2-_b_]pyridine (PIN)
+ru: 1_H_-пирроло[3,2-_b_]пиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1,-90,.6)-@n(2,-60)_(a%b:68.5292,N2)`/|<_(a-%a:81.4707)_(a-%b,N2)_(a-%b)>`//`\@n(6,150)`|O@n(7,-150,.5)/\r`\_(a%a)
+$>
+
+en: 6_H_-1,7-dioxacyclopenta[_cd_]indene (PIN) 
+ru: 6_H_-1,7-диоксациклопента[_cd_]инден (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_pp_pS_p_pp>_q@n(3,80)_qS@n(2,0,.5)_q@n(1,-80)_q
+$>
+
+en: 1_H_,3_H_-thieno[3,4-_c_]thiophene (PIN) 
+ru: 1_H_,3_H_-тиено[3,4-_c_]тиофен (PIN)
+
+@End
+
+#P-25.7.1.3.3
+en: Indicated hydrogen with bridged fused ring systems
+ru: &(Indicated hydrogen) с &(bridged fused ring system|tv*)
+
+en: All indicated hydrogen atoms are indicated at the front of the complete name. 
+ru: Все указанные атомы водорода приводятся в начале полного названия.
+
+en: **Note**: Citation of indicated hydrogen in bridged fused ring systems in this manner is completely consistent with its 
+citation for spiro atoms (see P-24.3.2) and ring assemblies (see P-28.2.3).
+ru: **Примечание**: Цитирование &(indicated hydrogen|ro) в &(bridged fused ring system|pr*) таким образом полностью 
+согласуется с его цитированием для &(spiro atom|ro*) (см. P-24.3.2) и &(ring assembly|ro*) (см. P-28.2.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|@n(7,-150)<-:a>/\\|<`-_#a>@n(4a,90,.5)\//`|@n(2,-30)`\O@n(1,-90,.6)`/
+$>
+
+en: 2_H_,7_H_-4a,7-ethano-1-benzopyran (PIN)  <br>
+2_H_,7_H_-4a,7-ethanochromene 
+ru: 2_H_,7_H_-4a,7-этано-1-бензопиран (PIN) <br>
+2_H_,7_H_-4a,7-этанохромен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-`|<_p@n(1,-80)_p@n(2,0)_pp_p>_qq7_q7@n(7,-120)<_(A30)_#1>_qq7_q7_qq7_q7@n(3a,80,.5)
+$>
+
+en: 1_H_-3a,7-ethanoazulene (PIN) 
+ru: 1_H_-3a,7-этаноазулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`/`\\`/||\//<`|>\//<`|>\:b@n(5,90)//\//`|<_p@n(1,-80)_pN@n(2,0,.5)_pp_p>`\\`/<|>$color(gray)`\\$color()@n(12,-140,.5)_(y-1.3)`|O/@n(15,-90)\||`/`\r\_#b
+$>
+
+en: 1_H_,15_H_-12,5-[2,3]epipyranoanthra[2,3-_f_]isoindole (PIN)
+ru: 1_H_,15_H_-12,5-[2,3]эпипираноантра[2,3-_f_]изоиндол (PIN)
+
+@End
+
+#P-25.7.2
+en: The δ-convention
+ru: δ-конвенция
+
+
+en: The presence of contiguous formal double bonds at a skeletal atom in a cyclic parent hydride whose name normally 
+implies the maximum number of noncumulative double bonds is described by the symbol δ^{_c_}, where ‘_c_’ is the number of 
+double bonds directly attached to the identified atom (see ref. 24). The δ^{_c_} symbol is cited immediately after an 
+expressed locant for the skeletal atom in the name of the compound and follows the λ^{_n_} symbol, if present. 
+ru: Наличие смежных формальных двойных связей у скелетного атома в циклическом родительском гидриде, название которого 
+обычно подразумевает максимальное число некумулятивных двойных связей, описывается символом δ^{_c_}, где «_c_» — число 
+двойных связей, непосредственно присоединенных к идентифицированному атому (см. ссылку 24). Символ δ^{_c_} указывается 
+сразу после выраженного локанта для скелетного атома в названии соединения и следует за символом λ^{_n_}, если он присутствует.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_p_pp@n(8,180)_pp_p//r\||r<`/`\\>\//`|`\\@n(1,-90)`/
+$>
+
+en: 8δ^{2}-benzo[9]annulene (PIN)
+ru: 8δ^{2}-бензо[9]аннулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|r_p_ppS@n(5,180,.5)_pp_p|_q_qqS@n(2,0,.5)_qq@n(1,-80)_q
+$>
+
+en: 2λ^{4}δ^{2},5λ^{4}δ^{2}-thieno[3,4-c]thiophene (PIN)
+ru: 2λ^{4}δ^{2},5λ^{4}δ^{2}-тиено[3,4-c]тиофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_pp_pS_p_pp>_q_qqS@n(2,0,.5)_qq@n(1,-80)_q
+$>
+
+en: 2λ^{4}δ^{2}-thieno[3,4-_c_]thiophene (PIN)
+ru: 2λ^{4}δ^{2}-тиено[3,4-_c_]тиофен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)`|$color()`\`//|</:a>@n(6,150)\\/\\/`||P@n(2,-30,.5)<`\@n(1,-90)`//>`//r_#a
+$>
+
+en: 2λ^{5}δ^{2}-6,2-(epiethanylylidene)isophosphinoline (PIN) 
+ru: 2λ^{5}δ^{2}-6,2-(эпиетанилиден)изофосфинолин (PIN)
+
+@End
+

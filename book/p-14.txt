@@ -78,7 +78,7 @@ ru: для N, _n_ = 3
 
 #P-14.1.2+ 
 en: Standard bonding numbers. The bonding number of a skeletal atom is standard when it has the value given in Table 1.3. 
-ru: Стандартные числа связей. Число связей скелетного атома является стандартным, если оно имеет значение, указанное в Таблице 1.3.
+ru: Стандартные числа связей. Число связей скелетного атома является стандартным, если оно имеет значение, указанное в &[Таблице 1.3].
 
 @Table 1.3
 en: Standard bonding numbers for the elements of Groups 13, 14, 15, 16, and 17
@@ -237,7 +237,7 @@ ru: Три типа мультипликативных префиксов исп
 en: Basic multiplicative prefixes denote simple features and, in general, are the first choice among such prefixes to 
 specify multiplicity (ref. 15). They are listed in Table 1.4. 
 ru: Базовые мультипликативные префиксы обозначают простые признаки и, в общем, являются первым выбором среди 
-таких префиксов для указания кратности (ссылка 15). Они перечислены в таблице 1.4.
+таких префиксов для указания кратности (ссылка 15). Они перечислены в &[таблице 1.4].
 
 // https://chemister.ru/Chemie/prefix.htm - переводы отсюда
 
@@ -317,7 +317,7 @@ ru: ди, до
 
 @td
 en: icosa
-ru: эйкоза
+ru: &(icos)а
 // https://en.wikipedia.org/wiki/Icosane  -> Эйкозан
 
 @td
@@ -619,7 +619,7 @@ ru: тетрадека
 
 @cell
 en: henicosa
-ru: генэйкоза
+ru: ген&(icos)а
 
 @cell
 22
@@ -741,7 +741,7 @@ ru: бис
 
 @cell
 en: quinque
-ru: квинки
+ru: &(quinque)
 
 @cell
 8
@@ -829,7 +829,7 @@ included in these recommendations. They are used in phane nomenclature to indica
 P-26.4.3); for numbering in ring assemblies (see P-28.3); to denote interior positions in fused ring systems (see  
 P-25.3.3.3); and in von Baeyer descriptors for spiro ring systems (see P-24.2.2). They are also used in steroid (ref. 16 
 and P-101.7.1.1), tetrapyrrole (ref. 17), and amino acid and peptide nomnclature (ref. 18 and P-103.2.1). 
-ru: Составные локанты, например, 3^{2}, 2a^{1}, _N_^{2′} и _O_^{3}, были разработаны в последние годы для различных целей 
+ru: &(Composite locant|*), например, 3^{2}, 2a^{1}, _N_^{2′} и _O_^{3}, были разработаны в последние годы для различных целей 
 и включены в эти рекомендации. Они используются в номенклатуре фан для указания позиций в амплификантах (см. P-26.4.3); 
 для нумерации в кольцевых сборках (см. P-28.3); для обозначения внутренних позиций в конденсированных кольцевых 
 системах (см. P-25.3.3.3); и в дескрипторах фон Байера для спирокольцевых систем (см. P-24.2.2). Они также используются 
@@ -1447,8 +1447,8 @@ ru: (1) гетероатомы в цепях теперь считаются ч�
 
 en: (2) hydro/dehydro prefixes are now classified as detachable prefixes but are not included in the category of 
 alphabetized detachable prefixes; they are cited directly before the name of the parent hydride [see item (e) below].
-ru: (2) префиксы гидро/дегидро теперь классифицируются как отделяемые префиксы, но не включены в категорию 
-алфавитно-упорядоченных отделяемых префиксов; они указываются непосредственно перед названием исходного гидрида 
+ru: (2) префиксы гидро/дегидро теперь классифицируются как &(detachable [prefix]|*) префиксы, но не включены в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) префиксов; они указываются непосредственно перед названием &(parent hydride|ro) 
 [см. пункт (e) ниже].
 
 </div>
@@ -1501,7 +1501,7 @@ ru: 1-гермациклотетрадекан-3-карбонитрил (PIN)
 #(b)
 en: indicated hydrogen for unsubstituted compounds; a higher locant may be needed at another position to 
 accommodate a substituent suffix in accordance with structural feature (d);
-ru: указан водород для незамещенных соединений; более высокий локант может потребоваться в другом положении 
+ru: &(indicated hydrogen) для незамещенных соединений; больший локант может потребоваться в другом положении 
 для размещения суффикса заместителя в соответствии со структурной особенностью (d);
 
 @Examples
@@ -1578,7 +1578,7 @@ ru: циклогекс-3-ен-1-ил (предпочтительный преф�
 #(d)
 en: ‘added indicated hydrogen’ (consistent with the structure of the compound and in accordance with further 
 substitution); 
-ru: «добавлен указанный водород» (в соответствии со структурой соединения и в соответствии с дальнейшей заменой);
+ru: «&(added indicated hydrogen)» (в соответствии со структурой соединения и в соответствии с дальнейшей заменой);
 
 @Examples
 
@@ -2319,7 +2319,7 @@ _N_^{1}-[2-({2-[(ацетилдиметилсилил)метокси]этил}а
 
 #P-14.7 
 en: Indicated and ‘added indicated hydrogen’
-ru: Указанный и «добавленный указанный водород»
+ru: &(Indicated [hydrogen]) и «&(added indicated hydrogen)»
 
 #P-14.7.1+
 en: Indicated hydrogen. Under certain circumstances it is necessary to indicate in the name of a mancude ring or 

@@ -1,0 +1,547 @@
+#P-26.5
+en: Skeletal replacement (‘a’) nomenclature in phane nomenclature 
+ru: Номенклатура &(skeletal replacement a|ro) в &(phane nomenclature|pr)
+
+en: Skeletal replacement (‘a’) nomenclature is applied in two ways in phane nomenclature: 
+ru: Номенклатура &(skeletal replacement a|ro) применяется двумя способами в &(phane nomenclature|pr):
+
+@List 1
+
+@item
+en: to name phane parent hydrides having heteroatoms located in the simplified parent skeleton, i.e., heteroatoms 
+not in names of amplification prefixes; 
+ru: для обозначения &(phane parent hydride|ro*), имеющих гетероатомы, расположенные в упрощенном &(parent skeleton|pr), 
+т.е. гетероатомы, отсутствующие в названиях &(amplification prefix|ro*);
+
+@item
+en: to indicate heteroatoms in heterocyclic amplificants whose names cannot be used as amplification prefixes 
+because they, themselves, are named by skeletal replacement (‘a’) nomenclature, for example, 
+heteromonocycles having more than ten members and  polycyclic von Baeyer systems.
+ru: для обозначения гетероатомов в гетероциклических амплификантах, названия которых не могут быть использованы в качестве 
+&(amplification prefix|ro*), поскольку они сами по себе названы по номенклатуре &(skeletal replacement a|ro), например, 
+гетеромоноциклы, имеющие более десяти членов, и полициклические системы фон Байера.
+
+@End
+
+en: The general principles, conventions, and rules described for skeletal replacement (‘a’) nomenclature in Section P-15.4 
+are fully applicable to the appropriate phane parent hydrides. 
+ru: Общие принципы, соглашения и правила, описанные для номенклатуры &(skeletal replacement a|ro) в разделе P-15.4, 
+полностью применимы к соответствующим &(phane parent hydride|da*).
+
+#P-26.5.1+
+en: Skeletal replacement (‘a’) nomenclature in simplified phane names is accomplished in two steps. First, the 
+parent phane hydrocarbon is named and then the heteroatoms are denoted by means of nondetachable ‘a’ prefixes cited 
+in front of the name so created. Locants for the heteroatoms are assigned according to the numbering of the simplified 
+parent skeleton. 
+ru: Номенклатура &(skeletal replacement a|ro) в упрощенных &(phane name|pr*) выполняется в два этапа. 
+Сначала дается название &(parent phane hydrocarbon|da), а затем гетероатомы обозначаются с помощью неотделяемых префиксов ‘a’, 
+которые указываются перед таким образом созданным названием. Локанты для гетероатомов назначаются в соответствии с нумерацией 
+упрощенного &(parent skeleton|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\@bt(1,120,%L)/=\@n(1,-170)-S@bt(2)-/=\@n(4,-170)@bt(3,120,%L)<`//`-`\\@n(1,-10)>-S@bt(4)-/=\@n(4,-170)@bt(5,120,%L)<`//`-`\\@n(1,-10)>-S@bt(6)-/=\@bt(7,120,%L)`//`-`\\@n(1,-10)
+$>
+
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)@:r(n){●}@n(&n)@(1)/@:x(n){X}@n(&n)@(2)\@r(3)/@x(4)\@r(5)/@x(6)\@r(7)
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+
+en: Step 1: 1,7(1),3,5(1,4)-tetrabenzenaheptaphane <br>
+Step 2: 2,4,6-trithia-1,7(1),3,5(1,4)-tetrabenzenaheptaphane (PIN) 
+ru: Шаг 1: 1,7(1),3,5(1,4)-тетрабензолагепта&(phane) <br>
+Шаг 2: 2,4,6-тритиа-1,7(1),3,5(1,4)-тетрабензолагепта&(phane) (PIN)
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.2)O|N_pp:a@n(3,-90)_p@bt(1,125,%L)_pp@n(5,70)<_p>#
+_(a-54,L1.35)@bt(8)`\S@bt(7,,.6)`/@bt(6)_(A120)#
+@n(4,90,.4)\|`/@n(1,-90,.4)@bt(5,120,%L)<`\`|/>_(A60)@bt(4)\S@bt(3,,.6)/@bt(2)_#a
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){X}@n(3,90,.6)_(A-22.5)@n(2,45)_q8{●}@n(1,0,.6)_q8@n(8,-45)_q8{X}@n(7,,.6)_q8@n(6,-135)_q8{●}@n(5,180,.6)_q8@n(4,135)_q8
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+en: Step 1: 1(3,5)-[1,2]oxazola-5(1,4)-cyclohexanacyclooctaphane  <br>
+Step 2: 3,7-dithia-1(3,5)-[1,2]oxazola-5(1,4)-cyclohexanacyclooctaphane (PIN) <br>
+**Note**: The use of brackets in the name of the first amplificant is a change from PHI-4.2 of ref. 5. 
+ru: Шаг 1: 1(3,5)-[1,2]оксазола-5(1,4)-циклогексанациклоокта&(phane) <br>
+Шаг 2: 3,7-дитиа-1(3,5)-[1,2]оксазола-5(1,4)-циклогексанациклоокта&(phane) (PIN) <br>
+**Примечание**: использование скобок в названии первого амплификанта является изменением по сравнению с PHI-4.2 ссылки 5.
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:120,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(45)/O@bt(28,-45)-\-O@bt(31,%i:-120)/-\O@bt(34,%i)-#
+$slope(60)/=\@n(1,-170)@bt(1,,%L)<`//`-`\\@n(4,-10)>$slope(45)-O@bt(2,%i)/-\O@bt(5,%i)-/-O@bt(8,-90)\#
+_(y2.4)`/O@bt(11,-45)`-`\`-O@bt(14,%i)`/`-`\O@bt(17,%i)`-$slope(60)`//`-`\\@n(4,-20)</=\@n(1,-160)@bt(18,120,%L)>#
+$slope(45)`-O@bt(19,%i)`/`-`\O@bt(22,%i)`-`/`-O@bt(25,-90)`\_#1
+$>
+
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)/{X}@n(28)\/\{X}@n(31)/\/{X}@n(34)\{●}@n(1)/{X}@n(2)\/\{X}@n(5)/\/{X}@n(8)\|`/{X}@n(11,90)`\`/`\{X}@n(14,90)`/`\`/{X}@n(17,90)`\{●}@n(18,90)`/{X}@n(19,90)`\`/`\{X}@n(22,90)`/`\`/{X}@n(25,90)`\`|
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+en: Step 1: 1,18(1,4)-dibenzenacyclotetratriacontaphane  <br>
+Step 2: 2,5,8,11,14,17,19,22,25,28,31,34-dodecaoxa-1,18(1,4)-dibenzenacyclotetratriacontaphane (PIN)
+ru: Шаг 1: 1,18(1,4)-дибензонациклотетратриаконта&(phane) <br>
+Шаг 2: 2,5,8,11,14,17,19,22,25,28,31,34-додекаокса-1,18(1,4)-дибензонациклотетратриаконта&(phane) (PIN)
+
+@End
+
+#P-26.5.2
+en: Skeletal replacement (‘a’) nomenclature in amplificants 
+ru: Номенклатура &(skeletal replacement a|ro) в амплификантах
+
+en: Locants for heteroatoms in amplificants are assigned according to the numbering of the simplified skeleton and the 
+position of heteroatoms in the amplificants following the instructions in P-26.4 for substituent locants. Thus, positions 
+of heteroatoms in amplificants are described by composite locants. 
+ru: Локанты для гетероатомов в амплификантах назначаются в соответствии с нумерацией упрощенного скелета и положением 
+гетероатомов в амплификантах в соответствии с инструкциями в P-26.4 для замещающих локантов. Таким образом, положения 
+гетероатомов в амплификантах описываются составными локантами.
+
+@Examples
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:120,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)N@n(1,80,.6)\@n(2,150)|-O@n(4,90,.6)_p8|_p8O@n(7,-90,.6)`-|`/N:b@n(10,-90,.6)`\`|`-O@n(13,-80,.6)_p8`|_p8O@n(16,80,.6)-`|@n(18,30,.5)/@bt(3,120,3)#
+_(y-.7)@bt(2,45)_(x-4)|$dblAlign(r)`//@n(3,-90,.5)<`\`||/@bt(1,120,1)\\@n(1,150,.5)>|@bt(8)_(a30)@bt(7,60)_q6@bt(6,90)|@n(3,80,.5)\||#
+<_(x#b)@bt(4,45)_#b>@n(1,-150,.5)`/@bt(5,,1)`\\`|//
+$>
+
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}@n(1,-100,.6)-@n(2,-60)_p8{●}@n(3,-30,.6)|@n(4,30)_p8{●}@n(5,80,.6)`-_p8_p8@n(8,-150)_p8
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+ru: упрощенный скелет <br>
+● = суператом <br>
+
+</div>
+</div>
+
+en: step 1: 3(1,10)-cyclooctadecana-1,5(1,3)-dibenzenacyclooctaphane <br>
+3^{4},3^{7},3^{13},3^{16}-tetraoxa-3^{1},3^{10}-diaza-3(1,10)-cyclooctadecana-1,5(1,3)-dibenzenacyclooctaphane (PIN) 
+ru: шаг 1: 3(1,10)-циклооктадекана-1,5(1,3)-дибензонациклоокта&(phane) <br>
+3^{4},3^{7},3^{13},3^{16}-тетраокса-3^{1},3^{10}-диаза-3(1,10)-циклооктадекана-1,5(1,3)-дибензонациклоокта&(phane) (PIN)
+
+@End
+
+en: **Note**: Since the numbering of the heteroamplificant is fixed by the locants of the corresponding hydrocarbon 
+amplificant, the numbering of the heteroatoms may not correspond to the numbering of the heteromonocycle itself. 
+ru: **Примечание**: Поскольку нумерация гетероамплификанта фиксируется локантами соответствующего углеводородного амплификанта, 
+нумерация гетероатомов может не соответствовать нумерации самого гетеромоноцикла.
+
+#P-26.5.3
+en: Simultaneous skeletal replacement (‘a’) in simplified skeletal names and amplificants
+ru: Одновременное &(skeletal replacement a) в упрощенных скелетных названиях и амплификантах
+
+en: When skeletal replacement occurs in both simplified skeletons and in amplificants both P-26.5.1 and P-26.5.2 are 
+applied. 
+ru: Когда скелетное замещение происходит как в упрощенных скелетах, так и в амплификантах, применяются как P-26.5.1, 
+так и P-26.5.2.
+
+@Examples single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`\`|/@bt(1,95,1.2)\|`/@n(4,-70,.5)_(x-.5,y-%L)O@n(7,0)_(x.5,y-%L)@n(1,70,.5)#
+`|@bt(2)/O@bt(3)\/\O@bt(6,-120)/\/O@bt(9)\|@n(1,80,.5)\||`/@n(4,-80)@bt(11,120,%L)<`\\`|//>|`/O@bt(13)`\`/`\O@bt(16,-120)`/`\`/O@bt(19)`\`|
+$>
+
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){X}@n(3)|0{X}@n(19,90)_p@n(20,100,.4)_p{●}@n(1,180)_p@n(2,-100,.4)_p/\/{X}@n(6)\/\{X}@n(9)|0{X}@n(13,90)<_q_q{●}@n(11,0)_q_q>`/`\`/{X}@n(16,90)`\`/`\
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+en: Step 1: 1(1,4)-bicyclo[2.2.1]heptana-11(1,4)-benzenacycloicosaphane  <br>
+Step 2: 1^{7},3,6,9,13,16,19-heptaoxa-1(1,4)-bicyclo[2.2.1]heptana-11(1,4)-benzenacycloicosaphane (PIN) 
+
+@End
+
+#P-26.5.4
+en: Numbering of heterophane parent hydrides with respect to heteroatoms 
+ru: Нумерация &(heterophane parent hydride|ro*) по отношению к гетероатомам
+
+en: When there is a choice for numbering heterocyclic amplificants named by skeletal replacement (‘a’) nomenclature or 
+for numbering simplified phane skeletons in which skeletal replacement has taken place, the following criteria are 
+applied, in the order given, until a decision is reached. 
+ru: Когда есть выбор между нумерацией гетероциклических амплификантов, названных по номенклатуре &(skeletal replacement a|ro), 
+или между нумерацией упрощенных &(phane skeleton|ro), в которых произошла скелетная замена, применяются следующие критерии 
+в указанном порядке до тех пор, пока не будет принято решение.
+
+#P-26.5.4.1+
+en: Lowest locants are assigned to heteroatoms considered without regard to the nature of the heteroatom, first 
+for the set of primary locants for the heteroatoms, i.e., the locants of the simplified skeleton (without including any 
+superscript numbers), and then, if these locants are identical, with regard to the set of the complete heteroatom locants, 
+which include the primary and the superscript numbers. 
+ru: Наименьшие локанты присваиваются гетероатомам, рассматриваемым без учета природы гетероатома, сначала для набора 
+первичных локантов гетероатомов, т.е. локантов упрощенного скелета (без включения каких-либо надстрочных чисел), а затем, 
+если эти локанты идентичны, относительно набора полных локантов гетероатомов, включающих первичные и надстрочные числа.
+
+@Examples
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(30)$dblAlign(r)`//`\@n(3,-30)`||/@bt(1,120,%L)\\|@n(1,-140)\S@bt(2)|`/\O@bt(5)|`/|`//@bt(7,120,%L)`\`||@n(3,20)</\\@n(1,140)>`\@bt(8)`|/`\`|@bt(12)/
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)-0<_q7_q7{X}@n(2,-30)_q7{●}@n(1,-90,.6)_q7@n(12,-150)_q7_q7>_p7{X}@n(5,30)_p7_p7{●}@n(7,90,.6)_p7_p7_p7
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+
+en: not
+ru: не
+
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(30)$dblAlign(r)`//`\@n(3,-30)`||/@bt(7,120,%L)\\|@n(1,-140)\S@bt(6)|`/\O@bt(3)|@bt(2,,.4)`/|`//@bt(1,120,%L)`\`||@n(3,20)</\\@n(1,140)>`\@bt(12)`|/`\`|@bt(8)/
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)-0<_q7_q7{X}@n(6,-30)_q7{●}@n(7,-90,.6)_q7_q7_q7>_p7{X}@n(3,30)_p7@n(2,60,.4)_p7{●}@n(1,90,.6)_p7@n(12,120)_p7_p7
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+@cell
+en: Step 1 : 1,7(1,3)-dibenzenacyclododecaphane [**(I)** and **(II)**]  <br>
+Step 2: 5-oxa-2-thia-1,7(1,3)-dibenzenacyclododecaphane **(I)** (PIN)  <br>
+[not 3-oxa-6-thia-1,7(1,3)-dibenzenacyclododecaphane **(II)**;  <br>
+the locant set of the heteroatoms in **(I)** , ‘2,5’,  <br>
+is lower than the locant set in **(II)**, ‘3,6’]
+ru: Шаг 1: 1,7(1,3)-дибензонациклододека&(phane) [**(I)** и **(II)**] <br>
+Шаг 2: 5-окса-2-тиа-1,7(1,3)-дибензонациклододека&(phane) **(I)** (PIN) <br>
+[не 3-окса-6-тиа-1,7(1,3)-дибензонациклододека&(phane) **(II)**; <br>
+локантный набор гетероатомов в **(I)**, ‘2,5’, <br>
+меньше локантного набора в **(II)**, ‘3,6’]
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(60)@n(5,120)<`-`/_(A155):L>\@n(4,180)`/@n(3,180)@bt(5,60,%L)\NH@n(2,180,.5)`/@n(1,-120)<`-`\_(A-155)_#L>#
+|@bt(4,60)$slope(30)$dblAlign(r)\/@bt(3,120,%L)\\@n(1,140,.5)<|`//`\`||@n(3,30,.5)>/O@bt(2,60)`|#
+$slope(60)<-/_(A-25):R>@n(1,-60)`\@n(2,0)/@n(3,0)@bt(1,60,%L)`\@n(4,0)/:t@n(5,60)-@n(6,120)\@n(7,120)_(A25)NH@n(8,150,.5)_#R;
+#t_(y-.8,x#1;t;t)O@bt(7,80)_(x#1;1;t)@bt(6,60)_#1
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)-{X}@n(7,-60,.6)_p7{●}@n(1,-20,.6)_p7{X}@n(2,30,.5)_p7{●}@n(3,90,.6)_p7@n(4,150)_p7{●}@n(5,-160,.6)_p7@n(6,-120)
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+@cell
+en: Step 1: 1,5(1,5)-dicycloundecana-3(1,3)-benzenacycloheptaphane  <br>
+Step 2: 2,7-dioxa-1^{8},5^{2}-diaza-1,5(1,5)-dicycloundecana-3(1,3)-benzenacycloheptaphane (PIN)  <br>
+[not 4,6-dioxa-1^{2},5^{8}-diaza-1,5(1,5)-dicycloundecana-3(1,3)-benzenacycloheptaphane;  <br>
+the primary locant set for the heteroatoms in the PIN, cited for comparison  <br>
+in ascending order ‘1,2,5,7’, is lower than the locant set ‘1,4,5,6’] 
+ru: Шаг 1: 1,5(1,5)-дициклоундекан-3(1,3)-бензонациклогепта&(phane) <br>
+Шаг 2: 2,7-диокса-1^{8},5^{2}-диаза-1,5(1,5)-дициклоундекан-3(1,3)-бензонациклогепта&(phane) (PIN) <br>
+[не 4,6-диокса-1^{2},5^{8}-диаза-1,5(1,5)-дициклоундекан-3(1,3)-бензонациклогепта&(phane); <br>
+первичный набор локантов для гетероатомов в PIN, приведенный для сравнения в <br>
+порядке возрастания ‘1,2,5,7’, ниже, чем набор локантов ‘1,4,5,6’]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\N/=\@n(4,-170,.5)@bt(1,120,%L)-S@bt(2)-/=\@n(4,-170,.5)@bt(3,120,%L)<`//`-`\\@n(1,-10,.5)>-Se@bt(4)-/=\@n(4,-170,.5)@bt(5,120,%L)<`//`-`\\@n(1,-10,.5)>-O@bt(6)-/=\@bt(7,120,%L)`//`-`\\@n(1,-10,.5)
+$>
+
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)@:r(n){●}@n(&n)@(1)/@:x(n){X}@n(&n)@(2)\@r(3)/@x(4)\@r(5)/@x(6)\@r(7)
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+
+@cell
+en: 6-oxa-2-thia-4-selena-1(4)-pyridina-3,5(1,4),7(1)-tribenzenaheptaphane (PIN)  <br>
+[not 2-oxa-6-thia-4-selena-7(4)-pyridina-1(1),3,5(1,4)-tribenzenaheptaphane;  <br>
+the senior amplificant ‘pyridina’ must receive the lowest possible locant]
+ru: 6-окса-2-тиа-4-селена-1(4)-пиридина-3,5(1,4),7(1)-трибензолагепта&(phane) (PIN) <br>
+[не 2-окса-6-тиа-4-селена-7(4)-пиридина-1(1),3,5(1,4)-трибензолагепта&(phane); <br>
+старший амплификант «пиридина» должен получить наименьший возможный локант]
+
+@End
+
+#P-26.5.4.2+
+en: Lowest locants are assigned to heteroatoms considered in the order of their seniority: 
+<%order%> (see P-15.4), first with regard to the set for primary 
+locants for heteroatoms, i.e., the locants of the simplified skeleton (the locants without including any superscript 
+numbers), and then, if these locants are identical, to the set of the complete heteroatom locants, which includes the 
+primary locants and the superscript numbers (see P-26.4.3.3). 
+ru: Наименьшие локанты присваиваются гетероатомам, рассматриваемым в порядке их старшинства: <%order%> (см. P-15.4), 
+сначала по отношению к набору первичных локантов для гетероатомов, т.е. локантов упрощенного скелета (локантов без 
+включения каких-либо верхних индексов), а затем, если эти локанты идентичны, по отношению к набору полных локантов 
+гетероатомов, который включает первичные локанты и верхние индексы (см. P-26.4.3.3).
+%order: O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl
+
+@Examples
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\@n(4,-10,.5)@bt(1,120,%L)<`-HN:L@bt(6,90,.6)>/=\@n(1,-170)-S@bt(2,-90,.6)_(y2.4)@bt(3,-45)`-`//`-`\\@n(4,-10)</=\@n(1,-170)@bt(4,120,%L)>`-@bt(5,-45)_#L
+$>
+
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){●}@n(1,-90,.6)\{X}@n(2,-30,.5)|@n(3,30)`/{●}@n(4,90,.6)`\@n(5,150)`|{X}@n(6,-150,.5)/
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+@cell
+en: Step 1: 1,4(1,4)-dibenzenacyclohexaphane <br>
+Step 2: 2-thia-6-aza-1,4(1,4)-dibenzenacyclohexaphane (PIN) <br>
+[not 6-thia-2-aza-1,4(1,4)-dibenzenacyclohexaphane;  <br>
+since the replacement (‘a’) prefix ‘thia’ is senior to ‘aza’ in skeletal replacement (‘a’) <br>
+nomenclature (see P-15.4), it must be given the lower locant] 
+ru: Шаг 1: 1,4(1,4)-дибензонациклогекса&(phane) <br>
+Шаг 2: 2-тиа-6-аза-1,4(1,4)-дибензонациклогекса&(phane) (PIN) <br>
+[не 6-тиа-2-аза-1,4(1,4)-дибензонациклогекса&(phane); <br>
+поскольку &(replacement a prefix) ‘тиа’ старше ‘аза’ в номенклатуре &(skeletal replacement a|ro) <br>
+(см. P-15.4), ей должен быть присвоен меньший локант]
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(60)`-`\`-`\@bt(5,120,%f:2.7)/-/-\O@n(14,100,.6)-@n(1,120)<`|O:L@bt(4,-60,.5)>\@n(2,180)`/@n(3,-120)`-S@n(4,-120,.6)`/@n(5,-120)#
+\O@bt(6,,.6)$slope(30)-@bt(7,1200)\@bt(8)/@bt(9,120)\@bt(10)/@bt(11,90)-O@bt(12,,.6)#
+$slope(60)/@n(5,-60)`\O@n(4,-60,.5)`-@n(3,-60)`\@n(2,0)/@n(1,60)<`|O:R@bt(2,60,.6)>-S@n(14,60,.6)/-\-\@bt(1,120,%f)`/`-`/`-;
+-_pp<_(a-54)#R>@n(2,-170)_pO@n(1,-90,.6)@bt(3,125,1.2)_p@n(5,-10)<_#L>_pp
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){X}@n(4)|0_p_p{X}@n(6,180,.5)_p{●}@n(5)_p/{●}@n(3)\{X}@n(2)|0<`/`\>_q_q{X}@n(12,0)_q{●}@n(1)_q
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+*: **(I)**
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:60,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)$slope(60)`-`\`-`\@bt(1,120,%f:2.7)/-/-\O@n(14,100,.6)-@n(1,120)<`|O:L@bt(2,-60,.5)>\@n(2,180)`/@n(3,-120)`-S@n(4,-120,.6)`/@n(5,-120)#
+\O@bt(12,,.6)$slope(30)-@bt(11,1200)\@bt(10)/@bt(9,120)\@bt(8)/@bt(7,90)-O@bt(6,,.6)#
+$slope(60)/@n(5,-60)`\O@n(4,-60,.5)`-@n(3,-60)`\@n(2,0)/@n(1,60)<`|O:R@bt(4,60,.6)>-S@n(14,60,.6)/-\-\@bt(5,120,%f)`/`-`/`-;
+-_pp<_(a-54)#R>@n(5,-170)_pO@n(1,-90,.6)@bt(3,125,1.2)_p@n(2,-10)<_#L>_pp
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1){X}@n(2)|0_p_p{X}@n(12,180,.7)_p{●}@n(1)_p/{●}@n(3)\{X}@n(4)|0<`/`\>_q_q{X}@n(6,0)_q{●}@n(5)_q
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+*: **(II)**
+
+@cell
+en: Step 1: 3(2,5)-furana-1,5(1,5)-dicyclotetradecanacyclododecaphane  <br>
+Step 2: 1^{4},2,4,5^{14},6,12-hexaoxa-1^{14},5^{4}-dithia-3(2,5)-furana-1,5(1,5)-dicyclotetradecanacyclododecaphane **(I)** (PIN)  <br>
+[not 1^{14},2,4,5^{4},6,12-hexaoxa-1^{4},5^{14}-dithia-3(2,5)-furana-1,5(1,5)-dicyclotetradecanacyclododecaphane **(II)**;  <br>
+application of P-26.5.4.1 reveals that both the primary locant sets and the primary locant sets  <br>
+including the composite locants for the heteroatoms without regard to the kind of heteroatom  <br>
+are the same for both names, namely, <%L1%> and <%L2%>, respectively.  <br>
+The primary locant sets for the senior prefix ‘oxa’ are also the same in both cases, <%L3%>,  <br>
+but for the locant sets including composite locants, the locant set for the prefix ‘oxa’ in **(I)**, the PIN,  <br>
+namely, <%L4%>, is lower than the locant set, <%L5%>, for oxa in (II)] 
+ru: Шаг 1: 3(2,5)-фурана-1,5(1,5)-дициклотетрадеканоциклододека&(phane) <br>
+Шаг 2: 1^{4},2,4,5^{14},6,12-гексаокса-1^{14},5^{4}-дитиа-3(2,5)-фурана-1,5(1,5)-дициклотетрадеканоциклододека&(phane) **(I)** (PIN) <br>
+[не 1^{14},2,4,5^{4},6,12-гексаокса-1^{4},5^{14}-дитиа-3(2,5)-фурана-1,5(1,5)-дициклотетрадеканоциклододека&(phane) **(II)**; <br>
+применение P-26.5.4.1 показывает, что как первичные наборы локантов, так и наборы первичных локантов, <br>
+включающие составные локанты для гетероатомов без учета вида гетероатома, <br>
+одинаковы для обоих имен, а именно, <%L1%> и <%L2%> соответственно. <br>
+Первичные наборы локантов для старшего префикса «окса» также одинаковы в обоих случаях, <%L3%>, <br>
+но для наборов локантов, включающих составные локанты, набор локантов для префикса «окса» в **(I)**, PIN, <br>
+а именно, <%L4%>, меньше, чем набор локантов, <%L5%>, для окса в (II)]
+%L1: ‘1,1,2,4,5,5,6,12’
+%L2: ‘1^{4},1^{14},2,4,5^{4},5^{14},6,12’
+%L3: ‘1,2,4,5,6,12’
+%L4: ‘1^{4},2,4,5^{14},6,12’
+%L5: ‘1^{14},2,4,5^{4},6,12’
+
+@cell
+<div class="flex-row">
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)`//`-`\\N@bt(1,120,%L)/=\@n(4,-170)-O@bt(2)-/=\@n(4,-170)@bt(3,120,%L)<`//`-`\\@n(1,-10)>-Se@bt(4)-/=\@n(4,-170)@bt(5,120,%L)<`//`-`\\@n(1,-10)>-S@bt(6)-/=\N@bt(7,120,%L)`//`-`\\@n(4,-10)
+$>
+
+<div>
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(%L:1.1)@:r(n){●}@n(&n)@(1)/@:x(n){X}@n(&n)@(2)\@r(3)/@x(4)\@r(5)/@x(6)\@r(7)
+$>
+
+en: simplified skeleton <br>
+● = superatom <br>
+X = heteroatom
+ru: упрощенный скелет <br>
+● = суператом <br>
+X = гетероатом
+
+</div>
+</div>
+
+@cell
+en: 2-oxa-6-thia-4-selena-1,7(4)-dipyridina-3,5(1,4)-dibenzenaheptaphane (PIN)  <br>
+[not 6-oxa-2-thia-4-selena-1,7(4)-dipyridina-3,5(1,4)-dibenzenaheptaphane;  <br>
+the senior replacement (‘a’) prefix ‘oxa’ must receive the lowest locant] 
+ru: 2-окса-6-тиа-4-селена-1,7(4)-дипиридина-3,5(1,4)-дибензонагепта&(phane) (PIN) <br>
+[не 6-окса-2-тиа-4-селена-1,7(4)-дипиридина-3,5(1,4)-дибензонагепта&(phane); <br>
+старший &(replacement a prefix) ‘окса’ должен получить наименьший локант]
+
+@End
+
+#P-26.6
+en: Other aspects of phane nomenclature
+ru: Другие аспекты &(phane nomenclature|ro)
+
+en: Part II of phane nomenclature, ref. 6, discusses (1) phane parent hydrides substituted by characteristic groups cited as 
+suffixes. Examples are given in P-62.2.5.3 for amines, in P-63.1.2 for hydroxy compounds, and in P-64.2.2.3 for 
+ketones; and (2) the modification of the degree of hydrogenation; a topic more fully developed in Sections P-31.1.6 and 
+P-31.2.3.3.4. 
+ru: Часть II &(phane nomenclature|ro), ссылка 6, обсуждает (1) &(phane parent hydride|*), замещенные характерными группами, 
+указанными как суффиксы. Примеры приведены в P-62.2.5.3 для аминов, в P-63.1.2 для гидроксисоединений и в P-64.2.2.3 для кетонов; 
+и (2) изменение степени гидрирования; тема, более полно разработанная в разделах P-31.1.6 и P-31.2.3.3.4.

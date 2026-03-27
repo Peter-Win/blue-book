@@ -70,10 +70,11 @@ ru: Операция замены включает в себя обмен одн
 #P-13.2.1.1+ 
 en: By replacement (‘a’) prefixes representing the element being introduced. This type of replacement is called 
 ‘skeletal replacement’. The most common type of replacement in the nomenclature of organic compounds is 
-replacement of carbon atoms by one or more of the following elements: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb.
-ru: По замене (‘a’) префиксов, представляющих вводимый элемент. Этот тип замены называется ‘скелетной заменой’. 
+replacement of carbon atoms by one or more of the following elements: <%list%>.
+ru: По &(replacement a prefix|da*), представляющим вводимый элемент. Этот тип замены называется ‘скелетной заменой’. 
 Наиболее распространенным типом замены в номенклатуре органических соединений является замена атомов углерода 
-одним или несколькими из следующих элементов: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb.
+одним или несколькими из следующих элементов: <%list%>.
+%list: O, S, Se, Te, N, P, As, Sb, Bi, Si, Ge, Sn, Pb
 
 @Examples
 
@@ -89,7 +90,7 @@ ru: циклотетрадекан (PIN)
 en: silacyclotetradecane (PIN) <br>
 [replacement (‘a’) prefix = ‘sila’] 
 ru: силациклотетрадекан (PIN) <br>
-[замена (‘a’) префикс = ‘сила’]
+[&(replacement a prefix) = ‘сила’]
 
 @cell
 <$ //_(a-%pa:81.4707)_(a-%pb:68.5292,N2)_(a-%pb)\|<_(a%pa,N2)_(a%pb)_(a%pb,N2)>_(a-%pa)_(a-%pb,N2)_(a-%pb) $>
@@ -103,7 +104,7 @@ ru: циклопента[_cd_]пентален (PIN)
 en: 1,2,3,4,5,6-hexaazacyclopenta[_cd_]pentalene (PIN) <br>
 [replacement (‘a’) prefix = ‘aza’] 
 ru: 1,2,3,4,5,6-гексаазациклопента[_cd_]пентален (PIN) <br>
-[замена (‘a’) префикс = ‘аза’]
+[&(replacement a prefix) = ‘аза’]
 
 @End
 
@@ -129,7 +130,7 @@ $>
 en: 1-carba-nido-pentaborane(5) (PIN) <br>
 [replacement (‘a’) prefix = ‘carba’; carbon replacing boron; see P-68.1.1.2.1] 
 ru: 1-карба-нидо-пентаборан(5) (PIN) <br>
-[замена (‘a’) префикс = ‘карба’; углерод заменяет бор; см. P-68.1.1.2.1]
+[&(replacement a prefix) = ‘карба’; углерод заменяет бор; см. P-68.1.1.2.1]
 
 @cell
 <$
@@ -140,7 +141,7 @@ $>
 en: (4βH)-4-carbayohimban <br>
 [replacement (‘a’) prefix = ‘carba’; carbon replacing nitrogen; see P-101.4] 
 ru: (4βH)-4-карбайохимбан <br>
-[замена (‘a’) префикс = ‘карба’; углерод заменяет азот; см. P-101.4]
+[&(replacement a prefix) = ‘карба’; углерод заменяет азот; см. P-101.4]
 // Yohimban: http://charchem.org/en/subst-ref/?id=6696
 
 @End
@@ -228,7 +229,7 @@ selenobenzoic acid <br>
 selenium replaces either =O or –O–)
 // Не точный перевод.
 // К сожалению, selenoic acid не найдено ни в pubchem, ни в chemspider, ни даже в google
-ru: бензолкарбоселеновая кислота (PIN) <br>
+ru: бензолкарбо&(selenoic acid) (PIN) <br>
 (замена инфикса = селен(o)’; <br>
 селен заменяет либо =O, либо –O–) <br>
 селенобензойная кислота <br>
@@ -293,8 +294,8 @@ en: In specific instances, the prefixes ‘thio’, ‘seleno’, and ‘telluro
 replacement occurs with the cyclic parent hydrides having retained names, i.e., morpholine (see Table 2.3), pyran (see 
 Table 2.2), chromene, isochromene, and xanthene (see Table 2.8), chromane and isochromane (see Table 3.1). 
 ru: В определенных случаях префиксы «тио», «селено» и «теллуро» указывают на скелетную модификацию. 
-Эта замена происходит с циклическими исходными гидридами, имеющими сохраненные названия, т. е. морфолин (см. Таблицу 2.3), 
-пиран (см. Таблицу 2.2), хромен, изохромен и ксантен (см. Таблицу 2.8), хроман и изохроман (см. Таблицу 3.1).
+Эта замена происходит с циклическими исходными гидридами, имеющими сохраненные названия, т. е. морфолин (см. &[Таблицу 2.3]), 
+пиран (см. &[Таблицу 2.2]), хромен, изохромен и ксантен (см. &[Таблицу 2.8]), хроман и изохроман (см. &[Таблицу 3.1]).
 
 @Examples 3
 
@@ -619,7 +620,7 @@ ru: фенил (предпочтительный префикс)
 <$ {}-O-{} $>
 
 en: oxy (preselected prefix) 
-ru: окси (предпочтительный префикс)
+ru: окси (&(preselected prefix))
 
 @cell
 -->
@@ -681,7 +682,7 @@ ru: пентил (предпочтительный префикс)
 <$ -O- $>
 
 en: oxy (preselected prefix) 
-ru: окси (предпочтительный префикс)
+ru: окси (&(preselected prefix))
 
 @cell
 -->
@@ -696,7 +697,7 @@ ru: пентилокси (предпочтительный префикс)
 <$ Cl-{} $>
 
 en: chloro (preselected prefix)
-ru: хлор (предпочтительный префикс)
+ru: хлор (&(preselected prefix))
 // В русских источниках не используется буква "о" на конце префикса
 
 @cell
@@ -706,7 +707,7 @@ ru: хлор (предпочтительный префикс)
 <$ {}-CO-{} $>
 
 en: carbonyl (preselected prefix)
-ru: карбонил (предпочтительный префикс)
+ru: карбонил (&(preselected prefix))
 
 @cell
 -->
@@ -723,7 +724,7 @@ ru: хлоркарбонил <br>
 <$ {}-NH-{} $>
 
 en: azanediyl <br> (preselected prefix)
-ru: азандиил <br> (предварительно выбранный префикс)
+ru: азандиил <br> (&(preselected prefix))
 
 @cell
 +
@@ -741,7 +742,7 @@ ru: этан-1,2-диил <br> (предпочтительный префикс)
 <$ {}-NH-{} $>
 
 en: azanediyl <br> (preselected prefix)
-ru: азандиил <br> (предварительно выбранный префикс)
+ru: азандиил <br> (&(preselected prefix))
 
 @cell
 -->
@@ -1392,7 +1393,7 @@ ru: нитрило <br>
 en: 2,2′,2′′-nitrilotriacetic acid <br>
 N,N-bis(carboxymethyl)glycine (see P-103.1, Table 10.4)
 ru: 2,2′,2′′-нитрилотриуксусная кислота <br>
-N,N-бис(карбоксиметил)глицин (см. P-103.1, Таблица 10.4)
+N,N-бис(карбоксиметил)глицин (см. P-103.1, &[Таблица 10.4])
 // http://charchem.org/ru/subst-ref/?id=542
 
 @cell
@@ -1746,7 +1747,7 @@ monosaccharide (aldose or ketose) or monosaccharide derivative, is indicated by 
 preceded by a pair of locants identifying the two hydroxy groups involved. The prefix ‘anhydro’ is placed in a name in 
 accordance with the principles of alphabetical order (see P-102.5.6.7.1). 
 ru: Внутримолекулярные эфиры, формально возникающие путем отщепления воды от двух гидроксильных групп одной молекулы 
-моносахарида (альдозы или кетозы) или производного моносахарида, обозначаются отделяемой приставкой «ангидро», 
+моносахарида (альдозы или кетозы) или производного моносахарида, обозначаются &(detachable [prefix]|tv) префиксом «ангидро», 
 которой предшествует пара локантов, идентифицирующих две вовлеченные гидроксильные группы. Приставка «ангидро» 
 помещается в название в соответствии с принципами алфавитного порядка (см. P-102.5.6.7.1).
 

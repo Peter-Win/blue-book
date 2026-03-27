@@ -1,0 +1,645 @@
+#P-62.3
+en: Imines 
+ru: Имины
+
+en: Imines are characterized by a double bond between a carbon atom and a nitrogen atom. Thus, _N_-substituted imines,  
+<%a%> or <%b%>, must be classified as imines and not as amines in spite of the fact that there is a single 
+bond between a carbon atom and the nitrogen atom; amines must have three single bonds linked to at least one carbon 
+atom (see P-62.1). Imines must have a double bond between a carbon atom and the nitrogen. Compounds having the 
+general structure <%c%> or <%d%> are called generically ‘aldimines’ and ‘ketimines’, respectively. 
+ru: Имины характеризуются наличием двойной связи между атомом углерода и атомом азота. Таким образом, _N_-замещенные имины, 
+<%a%> или <%b%>, должны классифицироваться как имины, а не как амины, несмотря на наличие одинарной связи между атомом 
+углерода и атомом азота; амины должны иметь три одинарные связи, связанные как минимум с одним атомом углерода (см. P-62.1). 
+Имины должны иметь двойную связь между атомом углерода и атомом азота. Соединения, имеющие общую структуру <%c%> или <%d%>, 
+называются соответственно «альдиминами» и «кетиминами».
+%a: R-CH=N-R′
+%b: R(R′)C=N-R′′
+%c: R-CH=NR′
+%d: R(R′)C=NR′′
+
+#P-62.3.1
+en: Substitutive names for imines
+ru: &(Substitutive name|*) для иминов
+
+#P-62.3.1.1+
+en: All imines are named substitutively using the suffix ‘imine’; the presence of several ‘imine’ characteristic 
+groups is denoted by the numerical multiplying prefixes ‘di’, ‘tri’, etc. When there is a choice for numbering, the 
+methodology described in P-62.2.4 for amines is recommended to generate preferred IUPAC names 
+ru: Все имины называются замещающим образом с использованием суффикса «имин»; наличие нескольких &(characteristic group|ro*) 
+«имин» обозначается числовыми умножающими префиксами «ди», «три» и т. д. При наличии выбора нумерации рекомендуется 
+использовать методологию, описанную в P-62.2.4 для аминов, для получения предпочтительных названий по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH@n(1)=NH@n(N)
+$>
+
+en: hexan-1-imine (PIN)
+ru: гексан-1-имин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH=N@n(N)-CH3
+$>
+
+en: _N_-methylethanimine (PIN)  <br>
+[not _N_-ethylidenemethanamine;  <br>
+nor _N_-ethylidene(methyl)amine] 
+ru: _N_-метилэтанимин (PIN) <br>
+[не _N_-этилиденметанамин; <br>
+и не _N_-этилиден(метил)амин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-/=\<`//`-`\\>-CH@n(1)=N@n(N)-/=\<`//`-`\\>-Cl
+$>
+
+en: _N_,1-bis(4-chlorophenyl)methanimine (PIN)  <br>
+(cf. the following example) 
+ru: _N_,1-бис(4-хлорфенил)метанимин (PIN) <br>
+(см. также следующий пример)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-/=\<`//`-`\\>-CH@n(1)=N@n(N)-/=\<`//`-`\\>-NH2
+$>
+
+en: 4-{[(4-chlorophenyl)methylidene]amino}aniline (PIN)  
+ru: 4-{[(4-хлорфенил)метилиден]амино}анилин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q<=NH>@n(2,-70,.4)_qS@n(1)_q
+$>
+
+en: thiolan-2-imine (PIN)
+ru: тиолан-2-имин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1)\@n(2,,.45)/NH`/|`//`\`//`\`||/\\|
+$>
+
+en: naphthalen-2(1_H_)-imine (PIN)  <br>
+1,2-dihydronaphthalen-2-imine (see P-58.2.5)
+ru: нафталин-2(1_H_)-имин (PIN) <br>
+1,2-дигидронафталин-2-имин (см. P-58.2.5)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/@n(1,90,.4)<`||mN@n(\textit{N}^1)-CH3>\||`/<`\>@n(4,-90,.4)||N@n(\textit{N}^4,77,.65)-CH3
+$>
+
+en: _N_^{1},_N_^{4}-dimethylnaphthalene-1,4-diimine (PIN; see also P-16.9.2)  <br>
+_N,N′_-dimethylnaphthalene-1,4-diimine (see also P-58.2.2.3)  <br>
+_N,N′_-dimethyl-1,4-dihydronaphthalene-1,4-diimine  <br>
+[not _N,N′_-dimethyl-1,4-naphthoquinone diimine; <br>
+two suffixes of different kinds are incompatible]  <br>
+[not _N,N′_-(naphthalene-1,4-diylidene)bis(methanamine)]  <br>
+[not _N,N′_-(naphthalene-1,4-diylidene)bis(methylamine)]  <br>
+[not dimethyl(naphthalene-1,4-diylidene)bis(amine)]
+ru: _N_^{1},_N_^{4}-диметилнафтален-1,4-диимин (PIN; см. также P-16.9.2) <br>
+_N,N′_-диметилнафтален-1,4-диимин (см. также P-58.2.2.3) <br>
+_N,N′_-диметил-1,4-дигидронафтален-1,4-диимин <br>
+[не _N,N′_-диметил-1,4-нафтохинон диимин; <br>
+два суффикса разных типов несовместимы] <br>
+[не _N,N′_-(нафталин-1,4-дилиден)бис(метанамин)] <br>
+[не _N,N′_-(нафталин-1,4-дилиден)бис(метиламин)] <br>
+[не диметил(нафталин-1,4-дилиден)бис(амин)]
+
+@End
+
+#P-62.3.1.2+
+en: The prefix ‘imino’ for =NH is used in presence of characteristic groups having seniority over imines. In 
+multiplicative nomenclature, the prefix ‘azanylylidene’ is used for –N=. Substituent groups attached to rings, ring 
+systems or heteroatoms of the type <%f%>, where R– is a ring or a chain, are named as acyl groups (see imidic 
+acids, P-65.1.3.1 and acyl groups P-65.2). 
+ru: Префикс «имино» для =NH используется в присутствии &(characteristic group|ro*), имеющих приоритет над иминами. 
+В &(multiplicative nomenclature|pr) префикс «азанилилиден» используется для –N=. &(Substituent group|*), присоединенные 
+к кольцам, кольцевым системам или гетероатомам типа <%f%>, где R– — кольцо или цепь, называются ацильными группами 
+(см. имидовые кислоты, P-65.1.3.1 и ацильные группы P-65.2).
+%f: R-(C=NH)–
+
+@Examples
+
+@cell
+<$ O||\|\NH`\`/`\`/HN/`|/ $>
+
+en: 3,5-diiminocyclohexan-1-one (PIN) 
+ru: 3,5-дииминоциклогексан-1-он (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-C<`||mNH>-CH2_(a40)/\</COOH>@n(1,30)|`/`\`|@n(3,150)
+$>
+
+en: 3-(2-iminopropyl)cyclohexane-1-carboxylic acid (PIN) 
+ru: 3-(2-иминопропил)циклогексан-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q@n(2,60)<_(a54,N2)O>_qN@n(1,90,.55)<_(y-.5)H>_q<_q>@n(5,120)_(a54,N2)HN
+$>
+
+en: 5-iminopyrrolidin-2-one (PIN)  <br>
+(not 5-imino-2-pyrrolidone) 
+ru: 5-иминопирролидин-2-он (PIN) <br>
+(не 5-имино-2-пирролидон)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH||@n(4,-30)\||`/@n(1,30)|O`|`\`||/
+$>
+
+en: 4-iminocyclohexa-2,5-dien-1-one (PIN)  <br>
+(not _p_-benzoquinone monoimine) 
+en: 4-иминоциклогекса-2,5-диен-1-он (PIN) <br>
+(не _p_-бензохинон моноимин)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=@n(1,-110)</OH>\@n(2,-60)-CH=N-CH2-CH2-N=C_(h)H-@n(2',-120)/<`\HO>@n(1',-60)=\`//`-`\\
+$>
+
+en: 2,2′-[ethane-1,2-diylbis(azanylylidenemethanylylidene)]diphenol (PIN) 
+ru: 2,2′-[этан-1,2-диилбис(азанилилиденметанилилиден)]дифенол (PIN)
+
+@End
+
+#P-62.3.1.3
+en: Imino groups attached to heteroatoms (heteroimines) 
+ru: Иминогруппы, присоединенные к гетероатомам (гетероимины)
+
+en: Compounds containing the group X=NH, where X is a heteroatom and =NH the principal characteristic group, are 
+named as imines; the prefix ‘imino’ is used to express the =NH group when another characteristic group has seniority 
+over imines.
+ru: Соединения, содержащие группу X=NH, где X — гетероатом, а =NH — основная &(characteristic group), называются иминами; 
+префикс «имино» используется для обозначения группы =NH, когда другая характеристическая группа имеет приоритет над иминами.
+
+@Examples
+
+@cell
+<$ CH3-P=NH  $>
+
+en: 1-methylphosphanimine (PIN) 
+ru: 1-метилфосфанимин (PIN)
+
+@cell
+<$ (CH3)2Si=N-C6H5 $>
+  
+en: 1,1-dimethyl-N-phenylsilanimine (PIN)  <br>
+(silane is a preselected name, see P-12.2) 
+ru: 1,1-диметил-N-фенилсиланимин (PIN) <br>
+(силан — это &(preselected name), см. P-12.2)
+
+@cell
+<$ CH3-N=SiH-CH2-CO-O-CH3 $>
+  
+en: methyl [(methylimino)silyl]acetate (PIN)  <br>
+(silyl is a preselected prefix, see P-12.2)
+ru: метил [(метилимино)силил]ацетат (PIN) <br>
+(силил — это &(preselected prefix), см. P-12.2)
+
+@End
+
+#P-62.3.1.4
+en: Carbodiimides
+ru: Карбодиимиды
+
+en: The hypothetical compound HN=C=NH is named systematically ‘methanediimine’. Its derivatives are named as 
+substitution products thereof. These names are preferred to those based on the retained name ‘carbodiimide’, which now 
+should be used only as a class name. 
+ru: Гипотетическое соединение HN=C=NH систематически называется «метандиимин». Его производные называются как продукты 
+замещения. Эти названия предпочтительнее тех, которые основаны на &(retained name|pr) «карбодиимид», которое теперь следует 
+использовать только как название класса.
+
+@Examples
+
+@cell
+<$ C6H11-N=C=N-C6H11 $>
+  
+en: dicyclohexylmethanediimine (PIN)  <br>
+(formerly dicyclohexylcarbodiimide)
+ru: дициклогексилметандиимин (PIN) <br>
+(ранее дициклогексилкарбодиимид)
+
+@End
+
+
+#P-62.4
+en: _N_-Substitution of amines and imines by heteroatoms  
+ru: _N_-Замещение аминов и иминов гетероатомами
+
+en: Traditionally, substitution on the nitrogen atom of amines and imines was allowed for all characteristic groups cited as 
+prefixes (see Table 5.1). This approach is maintained in these recommendations, unless a higher class is formed that 
+must be named in accordance with the seniority of classes (see P-41). 
+ru: Традиционно замещение на атоме азота в аминах и иминах допускалось для всех &(characteristic group|ro*), &(cited|ro*) 
+в качестве префиксов (см. &[Таблицу 5.1]). Этот подход сохраняется и в данных рекомендациях, за исключением случаев 
+образования более высокого класса, который должен быть назван в соответствии со старшинством классов (см. P-41).
+
+en: This new rule is applied to prefixes such as Cl and other halogen atoms, <%a%> and other acyl similar groups, <%b%>,  
+<%c%>, <%d%>, <%e%>, <%f%>, and even <%g%> groups and chalcogen analogues. 
+ru: Это новое правило применяется к префиксам, таким как Cl и другие атомы галогенов, <%a%> и другие ацилподобные группы, 
+<%b%>, <%c%>, <%d%>, <%e%>, <%f%> и даже <%g%> группы и аналоги халькогенов.
+%a: –BrO
+%b: –NO
+%c: <$ –NO2 $>
+%d: –OR
+%e: <$ –SO2-{R} $>
+%f: –SO-R
+%g: –OH
+
+@p .framed
+en: This is a change. In accordance with the seniority of classes (see P-41), compounds such as <%a%>, <%b%>, 
+and <%c%> are now named as derivatives of amides (see P-67.1.2.6). Compounds such as <%d%> are named 
+as _N_-derivatives of the senior amine (see P-68.3.1.1.1). 
+ru: Это изменение. В соответствии со старшинством классов (см. P-41), соединения, такие как <%a%>, <%b%> и <%c%>, 
+теперь называются производными амидов (см. P-67.1.2.6). Соединения, такие как <%d%>, называются _N_-производными старшего 
+амина (см. P-68.3.1.1.1).
+%a: R-NH-Cl
+%b: R-NH-NO
+%c: <$ {R}-NH-NO2 $>
+%d: R-NH-OH
+
+en: Substitution of amines is permitted by –OR , –SR, –SeR, and –TeR groups, where R is an alkyl or aryl substituent 
+group. 
+ru: Замещение аминов допускается группами –OR, –SR, –SeR и –TeR, где R представляет собой алкильную или арильную 
+&(substituent group|vi).
+
+@Examples
+
+@cell
+<$ CH3-CH2-NH-O-CH3 $>
+
+en: _N_-methoxyethanamine (PIN, see P-68.3.1.1.1.3) 
+ru: _N_-метоксиэтанамин (PIN, см. P-68.3.1.1.1.3)
+
+@cell
+<$ CH3-CH2-NH-OH $>
+
+en: _N_-hydroxyethanamine (PIN)  <br>
+_N_-ethylhydroxylamine 
+ru: _N_-гидроксиэтанамин (PIN) <br>
+_N_-этилгидроксиламин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-NH@n(N)-Cl
+$>
+
+en: ethylhypochlorous amide (PIN)  <br>
+_N_-chloroethanamine  
+ru: этилгипохлористый амид (PIN) <br>
+_N_-хлорэтанамин
+// https://pubchem.ncbi.nlm.nih.gov/compound/12815210
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(N)-NO
+$>
+
+en: methylnitrous amide (PIN)  <br>
+_N_-nitrosomethanamine 
+ru: метилнитрозамид (PIN) <br>
+_N_-нитрозометанамин
+
+@cell
+<$ CH3-N(NO2)2 $>
+  
+en: methyl(nitro)nitramide (PIN)  <br>
+_N,N_-dinitromethanamine <br>
+ru: метил(нитро)нитрамид (PIN) <br>
+_N,N_-динитрометанамин <br>
+
+@cell
+<$ CH3-NH-BrO $>
+
+en: methylbromous amide (PIN)  <br>
+_N_-bromosylmethanamine 
+ru: метилбромамид (PIN) <br>
+_N_-бромзилметанамин
+
+@End
+
+
+#P-62.5
+en: Amine oxides, imine oxides and chalcogen analogues 
+ru: Оксиды аминов, оксиды иминов и халькогеновые аналоги
+
+en: Amine oxides, imine oxides, and their chalcogen analogues are named:
+ru: Оксиды аминов, оксиды иминов и их халькогенные аналоги называются:
+
+@List 1
+
+@item
+en: by functional class nomenclature using the class names ‘oxide’, ‘sulfide’, ‘selenide’, and ‘telluride’ provided that 
+unambiguous superscripted N locants can be used, if necessary ; 
+ru: по &(functional class nomenclature|pr) с использованием названий классов «оксид», «сульфид», «селенид» и «теллурид» 
+при условии, что при необходимости могут использоваться однозначные надстрочные локаторы _N_;
+
+@item
+en:  by use of prefixes derived from the parent name λ^{5}-azane; 
+ru: с использованием префиксов, производных от &(parent name|ro) λ^{5}-азан;
+
+@item
+en: as zwitterions (see P-74.2.1.2). 
+ru: в виде цвиттерионов (см. P-74.2.1.2).
+
+@End
+
+en: Method (1) is used when one amine or imine oxide is present. Because of the zwitterionic nature of a nitrogen oxide, 
+amine and imine oxides are placed with zwitterions in the order of compound classes (see P-41). Thus, amine and imine 
+oxides are named by method (1) and all other amino groups, if present, are named as substituent groups by using the 
+prefix ‘amino’. Method (2) is used when the oxide is on a nitrogen atom of a substituent group; the locant _N_ is used 
+before the term ‘oxide’ when locants are present in the name of the amine. 
+ru: Метод (1) используется, когда присутствует один оксид амина или имина. Ввиду цвиттерионной природы оксида азота, оксиды
+аминов и иминов располагаются вместе с цвиттерионами в порядке классов соединений (см. стр. 41). Таким образом, амин- и 
+имин-оксиды называются методом (1), а все остальные аминогруппы, если они присутствуют, называются как &(substituent group|*) 
+с использованием префикса «амино». Метод (2) используется, когда оксид находится на атоме азота &(substituent group|ro); локант 
+_N_ используется перед термином «оксид», если локанты присутствуют в названии амина.
+
+en: Method (1) or (2), as appropriate, leads to preferred IUPAC names as illustrated below. Names of zwitterions are 
+described in P-74.2.1.2. 
+ru: Метод (1) или (2), в зависимости от ситуации, приводит к предпочтительным названиям по номенклатуре IUPAC, 
+как показано ниже. Названия цвиттерионов описаны в P-74.2.1.2.
+
+@Examples
+
+@cell
+en: <%a%> or <%b%>  
+ru: <%a%> или <%b%>
+%a: <$ (CH3)3NO $>
+%b: <$ (CH3)3N^+-O^– $>
+
+en: (1) _N,N_-dimethylmethanamine _N_-oxide (PIN)  <br>
+(trimethyl)amine oxide  <br>
+(3) (trimethylazaniumyl)oxidanide (see P-74.2.1.2) 
+ru: (1) _N,N_-диметилметанамин _N_-оксид (PIN) <br>
+(триметил)амин оксид <br>
+(3) (триметилазанийил)оксиданид (см. P-74.2.1.2)
+
+@cell
+<$ CH2=N(O)Cl $>
+
+en: (1) _N_-chloromethanimine _N_-oxide (PIN)  <br>
+(3) [chloro(methylidene)azaniumyl]oxidanide (see also P-74.2.1.2)
+ru: (1) _N_-хлорметанимин _N_-оксид (PIN) <br>
+(3) [хлор(метилиден)азанийил]оксиданид (см. также P-74.2.1.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N-CH2-CH2-CH<`|NO_(h-)(CH3)2>-CH2-CH2-N(CH3)2
+$>
+
+en: 1,5-bis(dimethylamino)-_N,N_-dimethylpentan-3-amine _N_-oxide (PIN)  <br>
+(not _N_^{1},_N_^{1},_N_^{3},_N_^{3},_N_^{5},_N_^{5}-hexamethylpentane-1,3,5-triamine _N_^{3}-oxide;  <br>
+the _N_-oxide is classified as a zwitterion and it is the preferred characteristic group) 
+ru: 1,5-бис(диметиламино)-_N,N_-диметилпентан-3-амин _N_-оксид (PIN) <br>
+(не _N_^{1},_N_^{1},_N_^{3},_N_^{3},_N_^{5},_N_^{5}-гексаметилпентан-1,3,5-триамин _N_^{3}-оксид; <br>
+_N_-оксид классифицируется как цвиттерион и является предпочтительной &(characteristic group|tv))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N-CH2-CH2-CH<`|N_(h)(CH3)2>_(x1.2)CH2-CH2-N(O)(CH3)2
+$>
+
+en: 3,5-bis(dimethylamino)-_N,N_-dimethylpentan-1-amine _N_-oxide (PIN)  <br>
+(not <%n%>-hexamethylpentane-1,3,5-triamine _N_^{1}-oxide;  <br>
+the _N_-oxide is classified as a zwitterion and it is the preferred characteristic group) 
+ru: 3,5-бис(диметиламино)-_N,N_-диметилпентан-1-амин _N_-оксид (PIN) <br>
+(не <%n%>-гексаметилпентан-1,3,5-триамин _N_^{1}-оксид; <br>
+_N_-оксид классифицируется как цвиттерион и является предпочтительной &(characteristic group|tv))
+%n:_N_^{1},_N_^{1},_N_^{3},_N_^{3},_N_^{5},_N_^{5}
+
+@cell
+<$ (CH3)2N-CH2-CH2-CH2-CH2-CH2-N(O)(CH3)2 $>
+  
+en: 5-(dimethylamino)-_N,N_-dimethylpentane-1-amine _N_-oxide (PIN)  <br>
+(not <%n%>-tetramethylpentane-1,5-diamine _N_^{1}-oxide;  <br>
+the _N_-oxide is classified as a zwitterion and it is the preferred characteristic group) 
+%n:_N_^{1},_N_^{1},_N_^{5},_N_^{5}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-C`O_(A-30)@n(3,-150)`||/<`|COOH>@n(5,-30)\\|<`//`\>@n(1,-30)_q6CH2-CH2-NH2O
+$>
+
+en: (1) 2-(3-carbamoyl-5-carboxyphenyl)ethan-1-amine _N_-oxide (PIN)  <br>
+3-(2-aminoethyl)-5-carbamoylbenzoic acid _N_^{3}-oxide <br>
+(3) {[2-(3-carbamoyl-5-carboxyphenyl)ethyl]azaniumyl}oxidanide (see also P-74.2.1.2) 
+ru: (1) 2-(3-карбамоил-5-карбоксифенил)этан-1-амин _N_-оксид (PIN) <br>
+3-(2-аминоэтил)-5-карбамоилбензойная кислота _N_^{3}-оксид <br>
+(3) {[2-(3-карбамоил-5-карбоксифенил)этил]азанийил}оксиданид (см. также P-74.2.1.2)
+
+@cell
+<$ "•"CH2-CH2-NH2O $>  
+
+en: (2) 2-(oxo-λ^{5}-azanyl)ethyl (PIN)  <br>
+(3) 2-(oxidoazaniumyl)ethyl
+ru: (2) 2-(оксо-λ^{5}-азанил)этил (PIN) <br>
+(3) 2-(оксидоазанийил)этил
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)N(O)-CH2_(h){}\@n(3)||\//`|<`\\`/>@n(1)_p6CH2-CH2-N(O)(CH3)2
+$>
+
+en: (2) 2-(3-{[dimethyl(oxo)-λ^{5}-azanyl]methyl}phenyl)-_N,N_-dimethylethan-1-amine _N_-oxide (PIN)  <br>
+2-{3-[(dimethylamino)methyl]phenyl}-_N,N_-dimethylethan-1-amine _N_^{1},_N_^{3}-dioxide  <br>
+(3) 2-(3-{[dimethyl(oxido)azaniumyl]methyl}phenyl)-_N,N_-dimethylethan-1-amine _N_-oxide  <br>
+(see also P-74.2.1.2) 
+ru: (2) 2-(3-{[диметил(оксо)-λ^{5}-азанил]метил}фенил)-_N,N_-диметилэтан-1-амин _N_-оксид (PIN) <br>
+2-{3-[(диметиламино)метил]фенил}-_N,N_-диметилэтан-1-амин _N_^{1},_N_^{3}-диоксид <br>
+(3) 2-(3-{[диметил(оксидо)азанийил]метил}фенил)-_N,N_-диметилэтан-1-амин _N_-оксид <br>
+(см. также P-74.2.1.2)
+
+@cell
+<$ (CH3-CH2)3NS $>
+
+en: (1) _N,N_-diethylethanamine _N_-sulfide (PIN)  <br>
+(triethyl)amine sulfide  <br>
+(3) (triethylazaniumyl)sulfanide (see also P-74.2.1.2)
+ru: (1) _N,N_-диэтилэтанамин _N_-сульфид (PIN) <br>
+(триэтил)амин сульфид <br>
+(3) (триэтилазанийил)сульфанид (см. также P-74.2.1.2)
+
+@End
+
+
+
+#P-62.6
+en: Amine and imine salts 
+ru: Соли аминов и иминов
+
+#P-62.6.1
+en: Cation and anion names
+ru: Названия катионов и анионов
+
+en: Salts of tetravalent nitrogen <%a%> (where one R group represents the parent hydride of the amine or imine and the 
+other groups are hydrogen atoms or substituent groups) are named by one of the following methods: 
+ru: Соли четырехвалентного азота <%a%> (где одна группа R представляет собой &(parent hydride) амина или имина, а другие 
+группы — атомы водорода или &(substituent group|*)) называются одним из следующих способов:
+%a: <$ {R}4N^+ {X}^– $>
+
+@List 1
+
+@item
+en: by adding the suffix ‘ium’ to the name of the amine or imine, with elision of the terminal letter ‘e’, if present, 
+substituent groups being cited as prefixes, and the name of the anion added as a separate word; 
+ru: путем добавления суффикса «&(ium)» к названию амина или имина, с опущением конечной буквы «e», если она присутствует, 
+при этом замещающие группы указываются в качестве префиксов, а название аниона добавляется как отдельное слово;
+
+@item
+en: by substituting the parent hydride ‘azanium’, <%n%>; 
+ru: путем замены &(parent hydride) «азан&(ium)», <%n%>;
+%n: <$ NH4^+ $>
+
+@item
+en: by substituting the parent hydride ‘ammonium’, <%n%>, for quaternary salts only. 
+ru: путем замены &(parent hydride) «аммоний», <%n%>, только на четвертичные соли.
+%n: <$ NH4^+ $>
+
+@End
+
+en: Method (1) leads to preferred IUPAC names. 
+ru: Метод (1) приводит к предпочтительным названиям IUPAC.
+
+@Examples
+
+@cell
+<$
+CH3-$pos(-90)N^+_(h)H3_(x1.2,N0)Cl^-
+$>
+
+en: (1) methanaminium chloride (PIN)  <br>
+(2) methylazanium chloride 
+ru: (1) хлорид метанаминия (PIN) <br>
+(2) хлорид метилазания
+
+@cell
+<$ CH3-CH2-$pos(-90)N^+_(h)H2-CH3-0Br^- $>
+
+en: (1) _N_-methylethanaminium bromide (PIN)  <br>
+(2) ethyl(methyl)azanium bromide 
+ru: (1) _N_-метилэтанамин&(ium) бромид (PIN) <br>
+(2) этил(метил)азан&(ium) бромид
+
+@cell
+<$ CH3-CH2-$pos(-90)N^+_(h)H(CH3)2-0I^- $>
+
+en: (1) _N,N_-dimethylethanaminium iodide (PIN)  <br>
+(2) ethyldi(methyl)azanium iodide 
+ru: (1) _N,N_-диметилэтанамин&(ium) йодид (PIN) <br>
+(2) этилди(метил)азан&(ium) йодид
+
+@cell
+<$ (CH3)4N^+ I^– $>
+
+en: (1) _N,N,N_-trimethylmethanaminium iodide (PIN)  <br>
+(2) tetramethylazanium iodide  <br>
+(3) tetramethylammonium iodide
+ru: (1) _N,N,N_-триметилметанаминий йодид (PIN) <br>
+(2) тетраметилазаний йодид <br>
+(3) тетраметиламмоний йодид
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\_q6N$pos(-90)^+_(h)H2-CH3-0Br^-
+$>
+
+en: (1) _N_-methylanilinium bromide (PIN)  <br>
+_N_-methylbenzenaminium bromide  <br>
+(2) methyl(phenyl)azanium bromide 
+ru: (1) _N_-метиланилиний бромид (PIN) <br>
+_N_-метилбензенаминий бромид <br>
+(2) метил(фенил)азаний бромид
+
+@cell
+<$ -N^+<_(a54)CH3>_qq<-0Cl^->_qS_q_qq $>
+
+en: (1) 3-methyl-1,3-thiazol-3-ium chloride (PIN) 
+ru: (1) 3-метил-1,3-тиазол-3-&(ium) хлорид (PIN)
+
+@cell
+<$ CH3-CH=N$pos(-90)^+_(h)H-CH3-0Cl^- $>
+
+en: (1) _N_-methylethaniminium chloride (PIN)  <br>
+(2) ethylidene(methyl)azanium chloride 
+ru: (1) _N_-метилэтанимин&(ium) хлорид (PIN) <br>
+(2) этилиден(метил)азан&(ium) хлорид
+
+@cell
+<$
+|`//`\`||/\\_q6N$pos(-90)^+_(h)H=CH-CH3-0Br^-
+$>
+
+en: (1) N-phenylethaniminium bromide (PIN)  <br>
+(2) ethylidene(phenyl)azanium bromide 
+ru: (1) N-фенилэтанимин&(ium) бромид (PIN) <br>
+(2) этилиден(фенил)азан&(ium) бромид
+
+@End
+
+#P-62.6.2
+en: Salts of indefinite structure (adducts) 
+ru: Соли неопределенной структуры (аддукты)
+
+en: When the above rule cannot be applied because the structure is indefinite, amine and imine salts are named as organic
+inorganic adducts, see P-14.8.2. Formulas for these adducts are written as described in P-14.8. Names are constructed in 
+the order that the formulas are written. Preferred IUPAC names cannot be assigned to salts that include inorganic acids 
+pending the development of rules for choosing preferred IUPAC names for inorganic substances. 
+ru: Если вышеуказанное правило не может быть применено из-за неопределенности структуры, соли аминов и иминов называются 
+органическими/неорганическими аддуктами, см. P-14.8.2. Формулы этих аддуктов записываются, как описано в P-14.8. Названия 
+составляются в порядке написания формул. Предпочтительные названия по номенклатуре IUPAC не могут быть присвоены солям, 
+содержащим неорганические кислоты, до разработки правил выбора предпочтительных названий по номенклатуре IUPAC для 
+неорганических веществ.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2|@n(1,-150)\$C()@n(2,30)|$C()`//<|NH2>@n(4,150)`\`||/\_q6CH2-CH3 * HCl
+$>
+
+en: 2-ethylbenzene-1,4-diamine—hydrogen chloride (1/1) 
+ru: 2-этилбензол-1,4-диамин—хлористый водород (1/1)
+
+@cell
+<$
+2-NH_q<_(a54)N(CH3)2>_qS_q$C()_q * H2SO4
+$>
+
+en: _N,N_-dimethyl-1,3-thiazolidin-2-amine—sulfuric acid (2/1)
+ru: _N,N_-диметил-1,3-тиазолидин-2-амин—серная кислота (2/1)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-SO2-OH * $C()-_q<_(a54)NH2>@n(1)_q$C()_q@n(3)<_q>_(a54)H2N
+$>
+
+en: methanesulfonic acid—cyclopentane-1,3-diamine (1/1) (PIN) 
+ru: метансульфоновая кислота—циклопентан-1,3-диамин (1/1) (PIN)
+
+@End

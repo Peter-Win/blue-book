@@ -84,11 +84,9 @@ const onTopLevelCmd = (reader) => {
     parseFig(reader, resFig[1]);
     return;
   }
-  if (/^@p(\s|$)/.test(curLine)) {
-    const part = onLocalParagraph("p", reader);
+  if (isParagraph(curLine)) {
+    const part = onParagraph(reader, curLine);
     addPartToDocument(reader.ctx.doc, part);
-    const clsRes = /\s\.([-a-z\d]+)(\s|$)/.exec(curLine);
-    if (clsRes) part.cls = clsRes[1];
     return;
   }
   if (/^@Content/.test(curLine)) {
@@ -115,6 +113,14 @@ const onTopLevelCmd = (reader) => {
   // reader.error("Unrecognized construction", 0);
 }
 
+const isParagraph = (curLine) => /^@p(\s|$)/.test(curLine);
+const onParagraph = (reader, curLine) => {
+    const part = onLocalParagraph("p", reader);
+    const clsRes = /\s\.([-a-z\d]+)(\s|$)/.exec(curLine);
+    if (clsRes) part.cls = clsRes[1];
+    return part;
+}
+
 const onShortHeader = (reader) => {
   const headerLine = reader.readLine();
   const h = onLocalParagraph("header", reader);
@@ -126,7 +132,7 @@ const onHeader = (reader) => {
   const headerLine = reader.readLine();
   const h = onLocalParagraph("header", reader);
   h.headerId = headerLine.slice(1).trim();
-  if (/^\([a-z]\)/.test(h.headerId)) {
+  if (/^\([a-z\d]+\)/.test(h.headerId)) {
     h.inline = true;
     h.refId = `${reader.prevHeaderId} ${h.headerId}`;
   } else {
@@ -147,7 +153,15 @@ const parseTable = (reader) => {
   part.cells = [];
   part.cols = 0;
   part.subtitle = [];
-  if (res) part.tableId = res[1];
+  part.cls = firstLine.split(/\s+/).filter(s => s[0]===".").map(s => s.slice(1)).join(" ");
+  const sortRes = /\s+sort\(([^\)]*)\)/.exec(firstLine);
+  if (sortRes) {
+    part.sort = sortRes[1] || "1";
+  }
+  if (res) {
+    part.tableId = res[1];
+    reader.ctx.doc.tablesMap[part.tableId] = part;
+  }
   addPartToDocument(reader.ctx.doc, part);
   let curCell = null;
   while (!reader.isEnd) {
@@ -163,6 +177,10 @@ const parseTable = (reader) => {
       const rcs = /colspan=(\d+)/.exec(line);
       if (rcs) {
         curCell.colspan = +rcs[1];
+      }
+      const rrs = /rowspan=(\d+)/.exec(line);
+      if (rrs) {
+        curCell.rowspan = +rrs[1];
       }
       part.cells.push(curCell);
       if (line.includes(";") && !part.cols) {
@@ -208,7 +226,7 @@ const parseFig = (reader, figId) => {
   part.figId = figId;
 }
 
-const parseList = (reader) => {
+const parseList = (reader, ownerItem) => {
   const firstLine = reader.readLine();
   const chunks = firstLine.split(/\s/);
   const part = {
@@ -218,18 +236,27 @@ const parseList = (reader) => {
     items: [],
     nums: chunks[1],
   }
-  addPartToDocument(reader.ctx.doc, part);
+  if (ownerItem) {
+    ownerItem.push(part);
+  } else {
+    addPartToDocument(reader.ctx.doc, part);
+  }
   let curItem = [];
 
   while (!reader.isEnd) {
     const line = reader.readLine();
     if (!line.trim()) continue;
+    if (line.startsWith("@List")) {
+      parseList(reader, curItem);
+      continue;
+    }
     if (line.trim() === "@End") break;
     if (line.startsWith("@item")) {
       curItem = [];
       part.items.push(curItem);
       continue;
     }
+    reader.goPrevLine();
     const itemPart = onLocalParagraph("p", reader);
     curItem.push(itemPart);
   }
@@ -241,11 +268,19 @@ const parseExamples = (reader) => {
   const part = onLocalParagraph("examples", reader);
   const sCols = params.find(p => /^\d+$/.test(p));
   const noTitle = params.find(p => p === "--");
+  const single = params.find(p => p === "single");
+  const multi = params.find(p => p === "multi");
   const extCls = params.find(p => /^\.[-a-z\d]+$/.test(p));
 
   part.cells = [];
   part.cols = +sCols || 1;
-  part.noTitle = !!noTitle;
+  if (noTitle) {
+    part.specTitle = "none";
+  } else if (single) {
+    part.specTitle = "single";
+  } else if (multi) {
+    part.specTitle = "multi";
+  }
   if (extCls) part.extCls = extCls.slice(1);
   addPartToDocument(reader.ctx.doc, part);
 
@@ -271,9 +306,15 @@ const parseExamples = (reader) => {
     if (htmlPart) {
       curCell.p.push(htmlPart);
       continue;
-    }  
-    if (!cellBegin) reader.goPrevLine();
-    const cellItem = onLocalParagraph("p", reader);
+    } 
+    const firstLine = cellBegin ? reader.readLine() : line;
+    let cellItem;
+    if (isParagraph(firstLine)) {
+      cellItem = onParagraph(reader, firstLine);
+    } else {
+      reader.goPrevLine();
+      cellItem = onLocalParagraph("p", reader);
+    }
     curCell.p.push(cellItem);
     cellBegin = false;
   }
@@ -334,10 +375,10 @@ const onLocalParagraph = (type, reader) => {
     params: {},
   }
   Object.entries(locDict).forEach(([key, val]) => {
-    res.loc[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1));
+    res.loc[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1), reader.ctx.doc);
   })
   Object.entries(params).forEach(([key, val]) => {
-    res.params[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1));
+    res.params[key] = makeChunksFromLine(val, (msg) => reader.error(msg, -1), reader.ctx.doc);
   });
   return res;
 }
@@ -370,7 +411,9 @@ const onPair = (chunks, pos, leftSign, rightSign, type) => {
   const leftPos = content.indexOf(leftSign);
   if (leftPos >= 0) {
     const startPos = leftPos + leftSign.length;
-    const rightPos = content.indexOf(rightSign, startPos);
+    let rightPos = content.indexOf(rightSign, startPos);
+    // Изредка встречается проблема двойной вложенности. Например, верхний индекс для верхнего индекса
+    // Правильное решение пока не найдено. Поэтому в тексте тупо вставлены теги <sup/>
     if (rightPos >= 0) {
       const left = content.slice(0, leftPos);
       const code = content.slice(startPos, rightPos).trim();
@@ -413,7 +456,7 @@ const replaceSingle = (chunks, pos, pattern, result) => {
   return false;
 }
 
-const makeChunksFromLine = (line, onError) => {
+const makeChunksFromLine = (line, onError, doc) => {
   const chunks = [{
     type: "text",
     content: line,
@@ -423,12 +466,17 @@ const makeChunksFromLine = (line, onError) => {
   while (i < chunks.length) {
     const chunk = chunks[i];
     if (chunk.type === "text") {
-      if (onPair(chunks, i, "<$", "$>", "formula")) continue;
+      if (onPair(chunks, i, "<$", "$>", "formula")) {
+        doc.formulasCount++;
+        continue;
+      }
       if (onPair(chunks, i, "<%", "%>", (name) => ({
         type: "param",
         content: name,
       }))) continue;
       if (onPair(chunks, i, "**", "**", "b")) continue;
+      if (onPair(chunks, i, "&(", ")", onTherm)) continue;
+      if (onPair(chunks, i, "<+", "+>", "ringsDef")) continue;
       if (onPair(chunks, i, "_{", "}", "sub")) continue;
       if (onPair(chunks, i, "^{", "}", "sup")) continue;
       if (onPair(chunks, i, "_", "_", "i")) continue;
@@ -442,10 +490,24 @@ const makeChunksFromLine = (line, onError) => {
         ];
         onPair(chunk.content, 0, "_", "_", "i");
       }
+    } else if (chunk.type==="b" && typeof chunk.content === "string") {
+      // Пока костыль, который предполагает, что термин занимает всё содержимое тега b
+      // const res = /^&\((.*)\)$/.exec(chunk.content);
+      // if (res) {
+      //   chunk.content = [onTherm(res[1])]
+      // }
+      chunk.content = makeChunksFromLine(chunk.content, onError, doc);
     }
     i++;
   }
   return chunks.filter(chunk => !!chunk.content);
+}
+
+const onTherm = (content) => {
+  return {
+    type: "term",
+    content,
+  }
 }
 
 module.exports = {parseFile};

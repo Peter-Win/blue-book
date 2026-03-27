@@ -1,0 +1,1386 @@
+#P-62
+en: Amines and imines 
+ru: Амины и имины
+
+@Content
+
+#P-62.0
+en: Introduction 
+ru: Введение
+
+en: The nomenclature of amines and imines is rich in traditions and a variety of methods have been used for constructing 
+their names (see refs. 1 and 2). The rationalization necessary to define preferred IUPAC names is the appropriate 
+opportunity to establish proper names for amines and imines and retain clear and unambiguous methods for choosing 
+the appropriate parent and naming individual compounds. 
+ru: Номенклатура аминов и иминов богата традициями, и для их наименований использовались различные методы (см. ссылки 1 и 2). 
+Рационализация, необходимая для определения предпочтительных названий по ИЮПАК, представляет собой подходящую возможность 
+для установления собственных названий для аминов и иминов, а также для сохранения чётких и однозначных методов выбора 
+подходящего &(parent compound|ro) и наименования отдельных соединений.
+
+en: Rules C-11.4 and C-811-C-815 in the 1979 Recommendations (ref. 1) are superseded, as well as Rules R-5.4.1–R-5.4.3 
+in the 1993 Recommendations (ref. 2). 
+ru: Правила C-11.4 и C-811–C-815 Рекомендаций 1979 года (ссылка 1) заменяются, равно как и правила R-5.4.1–R-5.4.3 
+Рекомендаций 1993 года (ссылка 2).
+
+#P-62.1
+en: General methodology 
+ru: Общая методология
+
+en: The general methodology is based on the following principles: 
+ru: Общая методология основана на следующих принципах:
+
+#(a)
+en: definitions, as given in the Glossary of Class Names Based on Structure (ref. 23), classify amines and imines 
+unambiguously as follows;
+ru: определения, приведенные в Глоссарии названий классов на основе структуры (ссылка 23), однозначно классифицируют 
+амины и имины следующим образом:
+
+@List 1
+
+@item
+en: monoamines are compounds formally derived from ammonia (<%a%>) by replacing one, two, or three of its 
+hydrogen atoms by one, two, or three hydrocarbyl groups by single bonds, thus having the general structures  
+<%b%> (primary amines), <%c%> (secondary amines), <%d%> (tertiary amines); 
+ru: моноамины — это соединения, формально полученные из аммиака (<%a%>) путем замены одного, двух или трех его атомов 
+водорода одной, двумя или тремя гидрокарбильными группами посредством одинарных связей, таким образом имеющие общие структуры 
+<%b%> (первичные амины), <%c%> (вторичные амины), <%d%> (третичные амины);
+%a: <$ NH3 $>
+%b: <$ {R}-NH2 $>
+%c: <$ {R}2NH $>
+%d: <$ {R}3N $>
+
+@item
+en: imines are compounds having the structure <%a%> (R = H or hydrocarbyl), corresponding either to ketimines, 
+<%b%> or to aldimines, <%c%>; 
+ru: имины — это соединения, имеющие структуру <%a%> (R = H или гидрокарбил), соответствующие либо кетиминам, <%b%>, 
+либо альдиминам, <%c%>;
+%a: <$ {R}2C=N{R} $>
+%b: <$ {R}{R′}C=N{R′′} $>
+%c: <$ {R}CH=N{R′} $>
+
+@End
+
+#(b)
+en: amines are senior to imines in the seniority order of classes; 
+ru: амины являются старшими по сравнению с иминами в порядке старшинства классов;
+
+#(c)
+en: methods for naming amines and imines will be restricted to a minimum, preference being given to the substitutive 
+method using the suffixes ‘amine’ and ‘imine’; 
+ru: методы наименования аминов и иминов будут сведены к минимуму, предпочтение отдается заместительному методу с 
+использованием суффиксов «амин» и «имин»;
+
+#(d)
+en: a minimum of traditional names will be retained; 
+ru: минимум традиционных названий будет сохранен;
+
+#(e)
+en: polyamines are further classified as follows; 
+ru: полиамины далее классифицируются следующим образом:
+
+@List 1
+
+@item
+en: simple polyamines are compounds in which all amino groups are attached to the same parent hydride; 
+ru: простые полиамины — это соединения, в которых все аминогруппы присоединены к одному и тому же &(parent hydride|da);
+
+@item
+en: complex polyamines are compounds in which a choice between two or more parent hydrides must be made.
+ru: сложные полиамины — это соединения, в которых необходимо сделать выбор между двумя или более &(parent hydride|tv*).
+
+@End
+
+#P-62.2
+en: Amines 
+ru: Амины
+
+#P-62.2.1
+en: Primary amines 
+ru: Первичные амины
+
+#P-62.2.1.1
+en: Retained names 
+ru: &(Retained name|*)
+
+#P-62.2.1.1.1+
+en: Aniline, for <%a%>, is the only name for a primary amine retained as a preferred IUPAC name for 
+which full substitution is permitted on the ring and the nitrogen atom. It is a Type 2a retained name; for the rules of 
+substitution see P-15.1.8.2. Substitution is limited to substituent groups cited as prefixes in accordance with the 
+seniority of functional groups explicitly expressed or implied in the functional parent compound name. The name 
+benzenamine may be used in general nomenclature. The prefix name ‘anilino’ is retained as the preferred prefix for 
+<%b%> with full substitution allowed. The name ‘phenylamino’ may be used in general nomenclature. 
+ru: Анилин, для <%a%>, является единственным названием первичного амина, сохраненным в качестве предпочтительного названия 
+ИЮПАК, для которого разрешено полное замещение по кольцу и атому азота. Это &(retained name) типа 2a; правила замещения см. 
+в P-15.1.8.2. Замещение ограничено &(substituent group|tv*), указанными в качестве префиксов в соответствии со старшинством 
+функциональных групп, явно выраженным или подразумеваемым в функциональном названии &(parent compound|ro). Название 
+бензоламин может быть использовано в общей номенклатуре. Префиксное название «анилино» сохранено в качестве предпочтительного 
+префикса для <%b%> с возможностью полного замещения. Название «фениламино» может быть использовано в общей номенклатуре.
+%a: <$ C6H5-NH2 $>
+%b: <$ C6H5-NH–{} $>
+
+@Examples
+
+@cell
+<$ `/`=`\//-\\-NH-CH3 $>
+
+en: _N_-methylaniline (PIN)  <br>
+_N_-methylbenzenamine
+ru: _N_-метиланилин (PIN) <br>
+_N_-метилбензоламин
+
+@cell
+<$ Cl-/=\<-NH2>`//`-`\\ $>
+
+en: 4-chloroaniline (PIN)  <br>
+4-chlorobenzenamine
+ru: 4-хлоранилин (PIN) <br>
+4-хлорбензоламин
+
+@cell
+<$ `/`=`\//-\\-NH-{} $>
+
+en: anilino (preferred prefix)  <br>
+phenylamino
+ru: анилино (предпочтительный префикс) <br>
+фениламино
+
+@cell
+<$ Cl-//-\\<`/`=`\>-NH-{} $>
+
+en: 4-chloroanilino (preferred prefix)  <br>
+(4-chlorophenyl)amino 
+ru: 4-хлоранилино (предпочтительный префикс) <br>
+(4-хлорфенил)амино
+
+@End
+
+#P-62.2.1.1.2+
+en: The names ‘toluidine’, ‘anisidine’, and ‘phenetidine’ for which _o_-, _m_-, and _p_- have been used to distinguish 
+isomers, and ‘xylidine’ for which numerical locants, such as 2,3-, have been used, are no longer recommended, nor are 
+the corresponding prefixes ‘toluidino’, ‘anisidino’, ‘phenetidino’, and ‘xylidino’.
+ru: Названия «толуидин», «анизидин» и «фенетидин», для которых для различения изомеров использовались _o_-, _m_- и _p_-, 
+и «ксилидин», для которого использовались числовые коды, такие как 2,3-, больше не рекомендуются, равно как и соответствующие 
+им префиксы «толуидино», «анизидин», «фенетидино» и «ксилидино».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-NH2
+$>
+
+en: 4-methylaniline (PIN)  <br>
+4-methylbenzenamine  <br>
+(not _p_-toluidine)
+ru: 4-метиланилин (PIN) <br>
+4-метилбензоламин <br>
+(не _p_-толуидин)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-NH-{}
+$>
+
+en: 4-methylanilino (preferred prefix)  <br>
+(4-methylphenyl)amino  <br>
+(not _p_-toluidino) 
+ru: 4-метиланилино (предпочтительный префикс) <br>
+(4-метилфенил)амино <br>
+(не _p_-толуидино)
+
+@End
+
+#P-62.2.1.2+
+en: Primary amines, <%a%>, are systematically named in the following ways:
+ru: Первичные амины, <%a%>, систематически называются следующими способами:
+%a: <$ {R}-NH2 $>
+
+@List 1
+
+@item
+en: by adding the suffix ‘amine’ to the name of the parent hydride; 
+ru: путем добавления суффикса «амин» к названию &(parent hydride|ro);
+
+@item
+en: by adding the name of the substituent group R− to the parent hydride ‘azane’; 
+ru: путем добавления названия замещающей группы R− к &(parent hydride|da) «азан»;
+
+@item
+en: by adding the name of the substituent group R− to the term ‘amine’ used as a preselected parent hydride name 
+for <$NH3$>; this method is used only with monoamines. 
+ru: путем добавления названия замещающей группы R− к термину «амин», используемому в качестве предварительно выбранного 
+названия &(parent hydride|ro) для <$NH3$>; этот метод используется только с моноаминами.
+
+@End
+
+en: **Note**: Amine is not a true preselected parent hydride. In these recommendations, it is considered as a ‘pseudo’ parent 
+hydride, based on the premise that this method originated by modification of a functional class name based on the class 
+name amine, for example, ethyl amine. The space in the functional class name is eliminated to form the current name 
+ethylamine 
+ru: **Примечание**: Амин не является истинно предопределенным &(parent hydride|tv). В данных рекомендациях он рассматривается 
+как «псевдо» &(parent hydride), исходя из предположения, что этот метод возник путем модификации &(functional class name|ro), 
+основанного на названии класса «амин», например, «этил амин». Пробел в &(functional class name|ro) удаляется, образуя текущее 
+название «этиламин».
+
+en: Method (1) leads to preferred IUPAC names.
+ru: Метод (1) приводит к предпочтительным названиям ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-NH2@n(\textit{N})
+$>
+
+en: (1) methanamine (PIN)  <br>
+(2) methylazane  <br>
+(3) methylamine 
+ru: (1) метанамин (PIN) <br>
+(2) метилазан <br>
+(3) метиламин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(3)-CH@n(2,90)<`|CH3>-CH2@n(1)-NH2@n(\textit{N})
+$>
+
+en: (1) 2-methylpropan-1-amine (PIN)  <br>
+(2) (2-methylpropyl)azane  <br>
+(3) (2-methylpropyl)amine
+ru: (1) 2-метилпропан-1-амин (PIN) <br>
+(2) (2-метилпропил)азан <br>
+(3) (2-метилпропил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q_qq@n(2,-70,.4)<-NH2>_qO@n(1)_q
+$>
+
+en: 1-benzofuran-2-amine (PIN)  <br>
+(1-benzofuran-2-yl)azane  <br>
+(1-benzofuran-2-yl)amine 
+ru: 1-бензофуран-2-амин (PIN) <br>
+(1-бензофуран-2-ил)азан <br>
+(1-бензофуран-2-ил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/N@n(1)\\|`//@n(4,30,.4)<`\>|NH2
+$>
+
+en: quinolin-4-amine (PIN)  <br>
+(quinolin-4-yl)azane  <br>
+(quinolin-4-yl)amine  <br>
+4-quinolylamine 
+ru: хинолин-4-амин (PIN) <br>
+(хинолин-4-ил)азан <br>
+(хинолин-4-ил)амин <br>
+4-хинолиламин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q<_(a54)NH2>@n(3,10)_qq_q@n(1,-80)_q
+$>
+
+en: 1_H_-inden-3-amine (PIN)  <br>
+(1_H_-inden-3-yl)azane  <br>
+(1_H_-inden-3-yl)amine 
+ru: 1_H_-инден-3-амин (PIN) <br>
+(1_H_-инден-3-ил)азан <br>
+(1_H_-инден-3-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|0_q<_(a54)NH2>@n(3,10)_q_qS@n(1,-80,.6)_q@n(13,-90,.5)`\`/`\`/|\/\/
+$>
+
+en: 1-thiacyclotridecan-3-amine (PIN)  <br>
+(1-thiacyclotridecan-3-yl)azane  <br>
+(1-thiacyclotridecan-3-yl)amine 
+ru: 1-тиациклотридекан-3-амин (PIN) <br>
+(1-тиациклотридекан-3-ил)азан <br>
+(1-тиациклотридекан-3-ил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-CH2-SiH2@n(4)-CH2-S@n(6)-CH2-SiH2@n(8)-CH2-CH2@n(10)-NH2
+$>
+
+en: 2,6-dithia-4,8-disiladecan-10-amine (PIN)  <br>
+(2,6-dithia-4,8-disiladecan-10-yl)azane  <br>
+(2,6-dithia-4,8-disiladecan-10-yl)amine 
+ru: 2,6-дитиа-4,8-дисиладекан-10-амин (PIN) <br>
+(2,6-дитиа-4,8-дисиладекан-10-ил)азан <br>
+(2,6-дитиа-4,8-дисиладекан-10-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,-30)<\CH3>`/`\`|/\@n(1,-90)/NH2
+$>
+
+en: 2-methylcyclohexan-1-amine (PIN)  <br>
+(2-methylcyclohexyl)azane  <br>
+(2-methylcyclohexyl)amine 
+ru: 2-метилциклогексан-1-амин (PIN) <br>
+(2-метилциклогексил)азан <br>
+(2-метилциклогексил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2@n(2)-CH2@n(1)-NH2
+$>
+
+en: 2-chloroethan-1-amine (PIN)  <br>
+(2-chloroethyl)azane  <br>
+(2-chloroethyl)amine
+ru: 2-хлорэтан-1-амин (PIN) <br>
+(2-хлорэтил)азан <br>
+(2-хлорэтил)амин
+
+@End
+
+#P-62.2.1.3+
+en: Amino groups, i.e., <%n%>, attached to heteroatoms 
+ru: Аминогруппы, т.е. <%n%>, присоединенные к гетероатомам.
+%n: <$–NH2$>
+
+en: When attached to heteroatoms, amino groups are expressed as suffixes when representing the principal characteristic 
+group. 
+ru: При присоединении к гетероатомам аминогруппы обозначаются суффиксами, представляющими основную &(characteristic group).
+
+@Examples
+
+@cell
+<$ N`/`-`\/-\-NH2 $>
+
+en: piperidin-1-amine (PIN)  <br>
+(piperidin-1-yl)azane  <br>
+(piperidin-1-yl)amine
+ru: пиперидин-1-амин (PIN) <br>
+(пиперидин-1-ил)азан <br>
+(пиперидин-1-ил)амин
+
+@cell
+<$ (CH3)3Si-NH2 $>
+  
+en: 1,1,1-trimethylsilanamine (PIN)  <br>
+(trimethylsilyl)azane  <br>
+(trimethylsilyl)amine
+ru: 1,1,1-триметилсиланамин (PIN) <br>
+(триметилсилил)азан <br>
+(триметилсилил)амин
+
+@End
+
+#P-62.2.2
+en: Secondary and tertiary amines 
+ru: Вторичные и третичные амины
+
+#P-62.2.2.1+
+en: Symmetrical and unsymmetrical secondary and tertiary amines are named only by the same methods 
+described in P-62.2.1.2.
+ru: Симметричные и несимметричные вторичные и третичные амины называются только теми же методами, 
+которые описаны в пункте P-62.2.1.2.
+
+@List 1
+
+@item
+en: substitutively using the retained name ‘aniline’ or the suffix ‘amine’ and the name of a parent hydride with 
+further _N_-substitution; 
+ru: замещающим образом, используя сохраненное название «анилин» или суффикс «амин» и название &(parent hydride|ro) 
+с дальнейшим _N_-замещением;
+
+@item
+en: substitutively, by prefixing, in alphabetical order when required, the name(s) of the substituent group(s) R, R′ or 
+R′′ to the parent hydride name ‘azane’. In order to avoid ambiguity, the second prefix in a secondary amine, and 
+the second and the third prefixes in a tertiary amines must be enclosed in parentheses when these prefixes denote 
+simple substituents. 
+ru: замещающим образом, путем добавления, при необходимости, в алфавитном порядке, названия(й) замещающей(их) 
+группы(групп) R, R′ или R′′ к названию &(parent hydride|ro) «азан». Во избежание неоднозначности, второй префикс 
+во вторичном амине, а также второй и третий префиксы в третичных аминах должны быть заключены в скобки, если эти 
+префиксы обозначают простые &(substituent|*).
+
+@item
+en: substitutively, by prefixing, in alphabetical order when required, the name(s) of the substituent group(s) R, R′ or 
+R′′ to the parent hydride name ‘amine’. In order to avoid ambiguity, the second prefix in a secondary amine, and 
+the second and the third prefixes in a tertiary amines must be enclosed in parentheses when these prefixes denote 
+simple substituents.
+ru: замещающим образом, путем добавления, при необходимости, в алфавитном порядке, названия(й) замещающей(их) 
+группы(групп) R, R′ или R′′ к названию &(parent hydride|ro) «амин». Во избежание неоднозначности, второй префикс во 
+вторичном амине, а также второй и третий префиксы в третичном амине должны быть заключены в скобки, если эти префиксы 
+обозначают простые &(substituent|*).
+
+@End
+
+en: Method (1) generates preferred IUPAC names. Functional parent names like diethylamine and triethylamine are 
+deprecated. The prefixes in names of such secondary and tertiary amines formed by method (3) are set off by 
+parentheses to distinguish them from these deprecated names. 
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре IUPAC. Функциональные &(parent name|*), такие как 
+диэтиламин и триэтиламин, считаются устаревшими. Префиксы в названиях таких вторичных и третичных аминов, образованных 
+методом (3), выделяются скобками, чтобы отличать их от этих устаревших названий.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-NH@n(\textit{N})-C6H5
+$>
+
+en: (1) _N_-phenylaniline (PIN)  <br>
+(2) diphenylazane  <br>
+(3) (diphenyl)amine  <br>
+(not azanediyldibenzene;  <br>
+the retained name ‘aniline’ must be used for all its _N_ derivatives) 
+ru: (1) _N_-фениланилин (PIN) <br>
+(2) дифенилазан <br>
+(3) (дифенил)амин <br>
+(не азанедилдибензол; <br>
+для всех его _N_-производных необходимо использовать &(retained name) «анилин»)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3-CH2)2N@n(\textit{N})-CH2@n(1)-CH3@n(2)
+$>
+
+en: (1) _N,N_-diethylethanamine (PIN)  <br>
+(2) triethylazane  <br>
+(3) (triethyl)amine
+ru: (1) _N,N_-диэтилэтанамин (PIN) <br>
+(2) триэтилазан <br>
+(3) (триэтил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2@n(2)-CH2@n(1)-NH@n(\textit{N})-CH2-CH2-Cl
+$>
+
+en: 2-chloro-_N_-(2-chloroethyl)ethan-1-amine (PIN)  <br>
+bis(2-chloroethyl)azane  <br>
+bis(2-chloroethyl)amine  <br>
+(not 2,2′-dichlorodiethylamine) 
+ru: 2-хлор-_N_-(2-хлорэтил)этан-1-амин (PIN) <br>
+бис(2-хлорэтил)азан <br>
+бис(2-хлорэтил)амин <br>
+(не 2,2′-дихлордиэтиламин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH2@n(1)-NH@n(\textit{N})-CH2-CH2-Cl
+$>
+
+en: (1) _N_-(2-chloroethyl)propan-1-amine (PIN)  <br>
+(2) (2-chloroethyl)(propyl)azane  <br>
+(3) (2-chloroethyl)(propyl)amine  <br>
+[not _N_-(2-chloroethyl)propylamine]  
+ru: (1) _N_-(2-хлорэтил)пропан-1-амин (PIN) <br>
+(2) (2-хлорэтил)(пропил)азан <br>
+(3) (2-хлорэтил)(пропил)амин <br>
+[не _N_-(2-хлорэтил)пропиламин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-CH2@n(1)-N<-CH2-CH3>`|CH2-CH2-CH3
+$>
+
+en: (1) _N_-ethyl-_N_-propylbutan-l-amine (PIN)  <br>
+(2) butyl(ethyl)(propyl)azane  <br>
+(3) butyl(ethyl)(propyl)amine  <br>
+(not _N_-ethyl-_N_-propylbutylamine) 
+ru: (1) _N_-этил-_N_-пропилбутан-1-амин (PIN) <br>
+(2) бутил(этил)(пропил)азан <br>
+(3) бутил(этил)(пропил)амин <br>
+(не _N_-этил-_N_-пропилбутиламин)
+
+@cell
+<$ H3Si-NH-SiH3 $>
+  
+en: (1) _N_-silylsilanamine (preselected name) <br>
+(2) disilylazane  <br>
+(3) (disilyl)amine  <br>
+(not disilazane; see P-21.2.3.1)
+ru: (1) _N_-силилсиланамин (предварительно выбранное название) <br>
+(2) дисилилазан <br>
+(3) (дисилил)амин <br>
+(не дисилизанан; см. P-21.2.3.1)
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//N@n(1,90,.6)`\`||/\\@n(3,30,.4)/N<_(y-.5)H>\/\\|`//`\`||
+$>
+
+en: (1) _N_-phenylpyridin-3-amine (PIN)  <br>
+(2) phenyl(pyridin-3-yl)azane  <br>
+(3) phenyl(pyridin-3-yl)amine  <br>
+[not _N_-(pyridin-3-yl)aniline] 
+ru: (1) _N_-фенилпиридин-3-амин (PIN) <br>
+(2) фенил(пиридин-3-ил)азан <br>
+(3) фенил(пиридин-3-ил)амин <br>
+[не _N_-(пиридин-3-ил)анилин]
+
+@End
+
+#P-62.2.2.2+
+en: Selection of the principal chain or senior ring system in secondary and tertiary amines. 
+ru: Выбор основной цепи или старшей кольцевой системы во вторичных и третичных аминах.
+
+en: Names of amines formed substitutively by using the retained name aniline or the suffix ‘amine’ are based on a principal 
+chain and a senior ring system (see P-44.1). When a choice for parent hydride is possible between a ring and a chain, 
+the ring is preferred. In names using ‘amine’ as a parent hydride, substituent groups expressed as prefixes are cited in 
+alphanumerical order; the prefix(es) immediately preceding the term ‘amine’ is (are) enclosed in parentheses. 
+ru: Названия аминов, образованных замещенным путем с использованием &(retained name|ro) анилин или суффикса «амин», 
+основаны на основной цепи и старшей кольцевой системе (см. стр. 44.1). Если возможен выбор &(parent hydride|ro) между 
+кольцом и цепью, предпочтение отдается кольцу. В названиях, использующих «амин» в качестве &(parent hydride|ro), 
+&(substituent group|*), выраженные в виде префиксов, указываются в алфавитно-цифровом порядке; префикс(ы), непосредственно 
+предшествующий(ие) термину «амин», заключен(ы) в скобки.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2C@n(5)=C@n(4,90)<`|CH3>-C@n(3,90)%C@n(2)-CH2@n(1)-N@n(\textit{N})(CH2-CH2-CH3)2
+$>
+
+en: (1) 4-methyl-N,N-dipropylpent-4-en-2-yn-1-amine (PIN)  <br>
+(2) (4-methylpent-4-en-2-yn-1-yl)di(propyl)azane  <br>
+(3) (4-methylpent-4-en-2-yn-1-yl)di(propyl)amine 
+ru: (1) 4-метил-N,N-дипропилпент-4-ен-2-ин-1-амин (ПИН) <br>
+(2) (4-метилпент-4-ен-2-ин-1-ил)ди(пропил)азан <br>
+(3) (4-метилпент-4-ен-2-ин-1-ил)ди(пропил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C@n(1)-CH@n(2,90)<`|N@n(\textit{N})(CH3)2>_(x1.4)CH@n(3,90)=CH@n(4,90)_(x1.3)/-\\<`/`-`\>-CH3
+$>
+
+en: _N,N_-dimethyl-4-(4-methylcyclohex-3-en-1-yl)but-3-en-2-amine (PIN)  <br>
+dimethyl[4-(4-methylcyclohex-3-en-1-yl)but-3-en-2-yl]azane  <br>
+dimethyl[4-(4-methylcyclohex-3-en-1-yl)but-3-en-2-yl]amine
+ru: _N,N_-диметил-4-(4-метилциклогекс-3-ен-1-ил)бут-3-ен-2-амин (PIN) <br>
+диметил[4-(4-метилциклогекс-3-ен-1-ил)бут-3-ен-2-ил]азан <br>
+диметил[4-(4-метилциклогекс-3-ен-1-ил)бут-3-ен-2-ил]амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH@n(3,90)<-C@n(2,90)%CH@n(1,90)>`|N@n(\textit{N})(CH3)2
+$>
+
+en: _N,N_-dimethylpent-1-yn-3-amine (PIN)  <br>
+dimethyl(pent-1-yn-3-yl)azane  <br>
+dimethyl(pent-1-yn-3-yl)amine
+ru: _N,N_-диметилпент-1-ин-3-амин (PIN) <br>
+диметил(пент-1-ин-3-ил)азан <br>
+диметил(пент-1-ин-3-ил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-CH2@n(1)-NH@n(\textit{N})-CH=CH2
+$>
+
+en: _N_-ethenylbutan-1-amine (PIN)  <br>
+butyl(ethenyl)azane  <br>
+butyl(ethenyl)amine
+ru: _N_-этенилбутан-1-амин (PIN) <br>
+бутил(этенил)азан <br>
+бутил(этенил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2C=C<`|CH3>-CH2-N@n(\textit{N})<-CH2@n(1)-C<`|CH3>@n(2,90,.5)=CH2@n(3,90,.5)>_(y1.2)CH2-C(CH3)2-CH3
+$>
+
+en: _N_-(2,2-dimethylpropyl)-2-methyl-N-(2-methylprop-2-en-1-yl)prop-2-en-1-amine (PIN)  <br>
+(2,2-dimethylpropyl)bis(2-methylprop-2-en-1-yl)azane  <br>
+(2,2-dimethylpropyl)bis(2-methylprop-2-en-1-yl)amine
+ru: _N_-(2,2-диметилпропил)-2-метил-N-(2-метилпроп-2-ен-1-ил)проп-2-ен-1-амин (PIN) <br>
+(2,2-диметилпропил)бис(2-метилпроп-2-ен-1-ил)азан <br>
+(2,2-диметилпропил)бис(2-метилпроп-2-ен-1-ил)амин
+
+@cell
+<$ |`//`\`||/\\/N<_(y-.5)H>\/\|`/`\`| $>
+
+en: _N_-cyclohexylaniline (PIN)  <br>
+cyclohexyl(phenyl)azane  <br>
+cyclohexyl(phenyl)amine
+ru: _N_-циклогексиланилин (PIN) <br>
+циклогексил(фенил)азан <br>
+циклогексил(фенил)амин
+
+@cell
+<$
+`-_qq_qN<_(y.5)H>_q<_qq>_(a54)N:n_(y.5)H; `-_qq<_(a54)#n>_qO_q_qq
+$>
+
+en: _N_-(furan-2-yl)-1_H_-pyrrol-2-amine (PIN)  <br>
+(furan-2-yl)(1_H_-pyrrol-2-yl)azane  <br>
+2-furyl(1_H_-pyrrol-2-yl)azane  <br>
+(furan-2-yl)(1_H_-pyrrol-2-yl)amine  <br>
+2-furyl(1_H_-pyrrol-2-yl)amine 
+ru: _N_-(фуран-2-ил)-1_H_-пиррол-2-амин (PIN) <br>
+(фуран-2-ил)(1_H_-пиррол-2-ил)азан <br>
+2-фурил(1_H_-пиррол-2-ил)азан <br>
+(фуран-2-ил)(1_H_-пиррол-2-ил)амин <br>
+2-фурил(1_H_-пиррол-2-ил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q3<_q3>-NH@n(\textit{N})-CH2-CH2-CH2-CH3
+$>
+
+en: _N_-butylcyclopropanamine (PIN)  <br>
+butyl(cyclopropyl)azane  <br>
+(not _N_-cyclopropylbutan-1-amine)  <br>
+butyl(cyclopropyl)amine 
+ru: _N_-бутилциклопропанамин (PIN) <br>
+бутил(циклопропил)азан <br>
+(не _N_-циклопропилбутан-1-амин) <br>
+бутил(циклопропил)амин
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`/`\\`|//\|l`|/@n(1,-90)\\@n(2)/N<_(y-.5)H>@n(\textit{N},90,.55)\@n(1)||\//\@n(5,90)/@n(6,30)`|@n(7,-30)`\@n(8)`/<|>`\\@n(2)`/
+$>
+
+en: _N_-(5,6,7,8-tetrahydronaphthalen-2-yl)naphthalen-2-amine (PIN)  <br>
+2-naphthyl(5,6,7,8-tetrahydro-2-naphthyl)azane  <br>
+2-naphthyl(5,6,7,8-tetrahydro-2-naphthyl)amine  <br>
+[not 5,6,7,8-tetrahydrodi(2-naphthyl)amine] 
+ru: _N_-(5,6,7,8-тетрагидронафтален-2-ил)нафтален-2-амин (PIN) <br>
+2-нафтил(5,6,7,8-тетрагидро-2-нафтил)азан <br>
+2-нафтил(5,6,7,8-тетрагидро-2-нафтил)амин <br>
+[не 5,6,7,8-тетрагидроди(2-нафтил)амин]
+
+@End
+
+#P-62.2.3+
+en: When all amino groups cannot be expressed as suffixes, or when the <%a%> group is not the principal 
+characteristic group, the prefix ‘amino’ is used in preferred IUPAC names. The prefix azanyl may be used in general 
+nomenclature. The substituent prefix name ‘anilino’ is a preferred IUPAC prefix and substitution is allowed (see  
+P-62.2.1.1.1). 
+ru: Если не все аминогруппы могут быть выражены в виде суффиксов, или если группа <%a%> не является основной 
+&(characteristic group|tv), в предпочтительных названиях по номенклатуре IUPAC используется префикс «амино». В общей 
+номенклатуре может использоваться префикс «азанил». Название &(substituent prefix|ro) «анилино» является предпочтительным 
+префиксом по номенклатуре IUPAC, и замещение допускается (см. P-62.2.1.1.1).
+%a: <$ –NH2 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(3)-CH@n(2,90)<_(y-1.1)CH2-NH2>-CH2@n(1)-NH2
+$>
+
+en: 2-(aminomethyl)propane-1,3-diamine (PIN)  <br>
+2-(azanylmethyl)propane-1,3-diamine
+ru: 2-(аминометил)пропан-1,3-диамин (PIN) <br>
+2-(азанилметил)пропан-1,3-диамин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-aminopropanoic acid (PIN)  <br>
+3-azanylpropanoic acid 
+ru: 3-аминопропановая кислота (PIN) <br>
+3-азанилпропановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||<`\HOOC>@n(1)/\\@n(3)/N<_(y-.5)H>\/\\|`//`\`||
+$>
+
+en: 3-anilinobenzoic acid (PIN)  <br>
+3-(phenylamino)benzoic acid
+ru: 3-анилинбензойная кислота (PIN) <br>
+3-(фениламино)бензойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||<`\HO>@n(1)/\\@n(3)/N<`|CH3>\/\\|`//`\`||
+$>
+
+en: 3-(N-methylanilino)phenol (PIN)  <br>
+3-[methyl(phenyl)amino]phenol
+ru: 3-(N-метиланилино)фенол (PIN) <br>
+3-[метил(фенил)амино]фенол
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-S@n(1,50,.5)_q<_(a54,N2)S>@n(2,50)_qN<`|NH2>@n(3,-150,.5)_q<_(a54,N2)O>@n(4,115)_q
+$>
+
+en: 3-amino-2-sulfanylidene-1,3-thiazolidin-4-one (PIN)  <br>
+3-amino-2-thioxo-1,3-thiazolidin-4-one  <br>
+(see also P-64.6.1) 
+ru: 3-амино-2-сульфанилиден-1,3-тиазолидин-4-он (PIN) <br>
+3-амино-2-тиоксо-1,3-тиазолидин-4-он <br>
+(см. также P-64.6.1)
+
+@End
+
+en: Preferred IUPAC names for prefixes corresponding to <%a%>, <%b%>, or <%c%> are formed by prefixing the names of 
+the groups R and R′ to the prefix ‘amino’, for example ‘methylamino’ for <%d%>. Prefixes such as azanyl and 
+azanylidene may be used in general nomenclature. 
+ru: Предпочтительные названия по номенклатуре IUPAC для префиксов, соответствующих <%a%>, <%b%> или <%c%>, образуются 
+путем добавления названий групп R и R′ к префиксу «амино», например, «метиламино» для <%d%>. В общей номенклатуре могут 
+использоваться такие префиксы, как азанил и азанилиден.
+%a: <${}–NH{R}$>
+%b: <${}–N{R}{R′}$>
+%c: <${}–N{R}2$>
+%d: <${}–NH-CH3$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3NH)2CH@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4,4-bis(methylamino)butanoic acid (PIN)  <br>
+4,4-bis(methylazanyl)butanoic acid 
+en: 4,4-бис(метиламино)бутановая кислота (PIN) <br>
+4,4-бис(метилазанил)бутановая кислота
+
+@cell
+<$ (H3Si)2N-CH2-COOH $>
+
+en: _N,N_-disilylglycine  <br>
+(disilylamino)acetic acid  <br>
+(disilylazanyl)acetic acid  <br>
+[not (disilazan-2-yl)acetic acid] 
+ru: _N,N_-дисилилглицин <br>
+(дисилиламино)уксусная кислота <br>
+(дисилилазанил)уксусная кислота <br>
+[не (дисилазан-2-ил)уксусная кислота]
+
+@cell
+<$ H3Si-HN-SiH2–{} $>
+
+en: (silylamino)silyl (preselected prefix)  <br>
+(silylazanyl)silyl  <br>
+(not disilazan-1-yl) 
+ru: (силиламино)силил (&(preselected prefix)) <br>
+(силилазанил)силил <br>
+(не дисилазан-1-ил)
+
+@End
+
+#P-62.2.4
+en: Polyamines 
+ru: Полиамины
+
+#P-62.2.4.1+
+en: Simple polyamines are compounds in which all amino groups are attached to the same parent hydride 
+ru: Простые полиамины — это соединения, в которых все аминогруппы присоединены к одному и тому же &(parent hydride|da).
+
+#P-62.2.4.1.1+
+en: There are no retained names for simple polyamines that are used as preferred IUPAC names. However, in 
+general nomenclature the name ‘benzidine’ may be used but only for the 4,4′-isomer, with substitution allowed as 
+described in P-15.1.8.2 for a Type 2 retained name. The prefix ‘benzidino’ is retained with full substitution. 
+ru: В настоящее время не существует устоявшихся названий простых полиаминов, которые использовались бы в качестве 
+предпочтительных названий по номенклатуре ИЮПАК. Однако в общей номенклатуре может использоваться название «бензидин», 
+но только для 4,4′-изомера, при этом допускается замена, как описано в P-15.1.8.2 для устоявшегося названия типа 2. 
+Префикс «бензидино» сохраняется при полной замене.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(2',60)`=@n(3',120)`\<`-H2N>@n(4',-120)//@n(5',-110)-@n(6',-60)\\@n(1',-60)-@n(1,-120)/@n(2,-120)=@n(3,-60)\@n(4,-60)<-NH2>`//@n(5,60)`-@n(6,120)`\\
+$>
+
+en: benzidine  <br>
+[1,1′-biphenyl]-4,4′-diamine (PIN)
+ru: бензидин <br>
+[1,1′-бифенил]-4,4′-диамин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\<`-H2N>@n(4',-120)//-\\@n(1',-60)-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-NH-{}
+$>
+
+en: benzidino <br>
+(4′-amino[1,1′-biphenyl]-4-yl)amino (preferred prefix) 
+ru: benzidino <br>
+(4′-амино[1,1′-бифенил]-4-ил)амино (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=<`/H3C>@n(3',60)`\<`-H2N>@n(4',-120)//-\\@n(1',-60)-@n(1,-120)/=\@n(4,-60)<-NH2>`//<\CH3>@n(3,120)`-`\\
+$>
+
+en: 3,3′-dimethylbenzidine  <br>
+3,3′-dimethyl[1,1′-biphenyl]-4,4′-diamine (PIN)
+ru: 3,3′-диметилбензидин <br>
+3,3′-диметил[1,1′-бифенил]-4,4′-диамин (PIN)
+
+@End
+
+en: Di- and triamines, etc. are named similarly to monoamines. The locant of the parent hydride to which the nitrogen atom 
+is attached is cited as a superscript to the letter locant _N_, for example, _N_^{2}, _N_^{5}, etc.. 
+ru: Ди- и триамины и т. д. называются аналогично моноаминам. Локант &(parent hydride|ro), к которому присоединен атом азота, 
+указывается в виде верхнего индекса перед буквенным локантом _N_, например, _N_^{2}, _N_^{5} и т. д.
+
+#P-62.2.4.1.2+
+en: Two or more ‘amine’ groups attached to the same parent hydride are indicated by an appropriate 
+multiplying numerical prefix ‘di’, ‘tri’, ‘tetra’, etc. The terminal letter ‘a’ of a numerical prefix is elided before the 
+suffix amine, i. e., ‘tetramine’, not ‘tetraamine’. Numerical locants, including ‘1’ in the case of amines derived from 
+mononuclear parent hydrides, are used to denote substitution on atoms of the parent hydride and ‘_N_’ locants for 
+substitution on the nitrogen atom for amines named by method (1). Method (2) is used only for monoamines. 
+ru: Две или более «аминных» групп, присоединенных к одному и тому же &(parent hydride|da), обозначаются соответствующим 
+умножающимся числовым префиксом «ди», «три», «тетра» и т. д. Конечная буква «а» числового префикса опускается перед 
+суффиксом «амин», т. е. «тетрамин», а не «тетраамин». Числовые локанты, включая «1» в случае аминов, полученных из 
+моноядерных &(parent hydride|ro*), используются для обозначения замещения на атомах &(parent hydride|ro), а локанты «_N_» — 
+для обозначения замещения на атоме азота для аминов, названных методом (1). Метод (2) используется только для моноаминов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N}^2)-CH2@n(2)-CH2@n(1)-NH2@n(\textit{N}^1)
+$>
+
+en: ethane-1,2-diamine (PIN)  <br>
+ethylenediamine
+ru: этан-1,2-диамин (PIN) <br>
+этилендиамин
+
+@cell
+<$
+@:n(n,a:-80,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\<`-H2N>@n(4',-120)//<`\H2N>@n(3',-60)-\\@n(1',-60)-@n(1,-120)/=@n(3,-120)</NH2>\<-NH2>@n(4,-60)`//`-`\\
+$>
+
+en: [1,1′-biphenyl]-3,3′,4,4′-tetramine (PIN;  <br>
+note the elision of ‘a’ from ‘tetra’ in ‘tetramine’) 
+ru: [1,1′-бифенил]-3,3′,4,4′-тетрамин (PIN; <br>
+обратите внимание на опущение буквы «а» из слова «тетра» в слове «тетрамин»)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(\textit{N}^3)-CH2@n(3)-CH2@n(2)-CH2@n(1)-NH@n(\textit{N}^1)-CH2-CH3
+$>
+
+en: _N_^{1}-ethyl-_N_^{3}-methylpropane-1,3-diamine (PIN)
+ru: _N_^{1}-этил-_N_^{3}-метилпропан-1,3-диамин (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2)-C@n(3)<_(A-120,L%d:1.1)HN@n(\textit{N′}^3,-80)`-H3C><_(A-60,L%d)NH@n(\textit{N}^3,-80)-CH2-CH3>-CH2@n(4)-CH2@n(5)-CH3@n(6)
+$>
+
+en: _N_^{3}-ethyl-_N′_^{3}-methylhexane-3,3-diamine (PIN)
+ru: _N_^{3}-этил-_N′_^{3}-метилгексан-3,3-диамин (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH-CH2@n(1)-CH2@n(2)-C@n(3)<_(A-120,L%d:1.1)HN@n(\textit{N′}^3,-80)`-H3C><_(A-60,L%d)NH@n(\textit{N}^3,-80)-CH2-CH3>-CH2@n(4)-CH2@n(5)-CH2@n(6)-NH2
+$>
+
+en: _N_^{3}-ethyl-_N_^{1},_N′_^{3}-dimethylhexane-1,3,3,6-tetramine (PIN) 
+ru: _N_^{3}-этил-_N_^{1},_N′_^{3}-диметилгексан-1,3,3,6-тетрамин (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH@n(4)<`|NH`-CH3>-CH2@n(3)-C@n(2)<_(A-120,L%d:1.1)H2N><_(A-60,L%d)CH3>-CH3@n(1)
+$>
+
+en: _N_^{4},2-dimethylpentane-2,4-diamine (PIN) 
+ru: _N_^{4},2-диметилпентан-2,4-диамин (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{R}-NH@n(\textit{N}^5)-CH2@n(5)-CH2@n(4)-CH2@n(3)-CH@n(2,90)<_(y-1.2)NH@n(\textit{N}^2)-{R′′}>-CH2@n(1)-NH@n(\textit{N}^1)-{R′}
+$>
+
+en: R = R′ = R′′ = H   &nbsp; pentane-1,2,5-triamine (PIN)  <br>
+R = R′ = H; R′′ = <%m%> &nbsp; _N_^{2}-methylpentane-1,2,5-triamine (PIN) <br>
+R = H; R′ = <%m%>; R′′ = <%e%> &nbsp; _N_^{2}-ethyl-_N_^{1}-methylpentane-1,2,5-triamine(PIN) 
+%m: <${}–CH3$>
+%e: <${}–CH2-CH3$>
+
+@End
+
+#P-62.2.4.1.3+
+en: Complex polyamines, i.e., compounds in which a choice between two or more parent hydrides must be 
+made, are systems composed of two or more secondary and/or tertiary amines. 
+ru: Сложные полиамины, то есть соединения, в которых необходимо сделать выбор между двумя или более &(parent hydride|tv*), 
+представляют собой системы, состоящие из двух или более вторичных и/или третичных аминов.
+
+en: In complex polyamines a senior parent amine structure must be chosen. The senior parent amine structure is chosen in 
+accordance with the choice of a principal chain or a senior ring or ring system, as described in P-44, or the preferred 
+IUPAC name must be chosen in accordance with P-45. Alphanumerical order is applied when necessary. Multiplicative 
+nomenclature, skeletal replacement (‘a’) nomenclature, or phane nomenclature are used when the conditions required 
+by these types of nomenclature are fulfilled. 
+ru: В сложных полиаминах необходимо выбрать &(parent structure|vi) амина. Выбор &(parent structure|ro) амина 
+осуществляется в соответствии с выбором главной цепи или основного кольца или кольцевой системы, как описано в пункте P-44, 
+или же предпочтительное название по номенклатуре IUPAC выбирается в соответствии с пунктом P-45. При необходимости 
+применяется буквенно-цифровой порядок. &(Multiplicative nomenclature), номенклатура &(skeletal replacement a|ro) 
+или &(phane nomenclature) используются, когда выполняются условия, требуемые этими типами номенклатуры.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(2)-CH2@n(1)-NH@n(\textit{N}^1)-CH2-NH2
+$>
+
+en: _N_^{1}-(aminomethyl)ethane-1,2-diamine (PIN)  <br>
+[regular substitutive nomenclature;  <br>
+the diamine having the longest carbon chain is chosen as parent structure; see P-44.3] 
+ru: _N_^{1}-(аминометил)этан-1,2-диамин (PIN) <br>
+[регулярная номенклатура замещения; <br>
+в качестве &(parent structure|ro) выбирается диамин с самой длинной углеродной цепью; см. P-44.3]
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N@n(\textit{N}^2)-CH2@n(2)-CH2@n(1)-N<`|CH3>@n(\textit{N}^1,80,.6)-CH2-CH2-NH2
+$>
+
+en: _N_^{1}-(2-aminoethyl)-_N_^{1},_N_^{2},_N_^{2}-trimethylethane-1,2-diamine (PIN; numbering shown)  <br>
+(the most substituted diamine is chosen as parent structure; P-45.2.1)  <br>
+[not _N_^{1},_N_^{1}-dimethyl-2,2′-(methylazanediyl)di(ethan-1-amine);  <br>
+even in general nomenclature the parent name must be a diamine;  <br>
+ethanamine is a monoamine] 
+ru: _N_^{1}-(2-аминоэтил)-_N_^{1},_N_^{2},_N_^{2}-триметилэтан-1,2-диамин (PIN; нумерация указана) <br>
+(в качестве &(parent structure|ro) выбран наиболее замещенный диамин; P-45.2.1) <br>
+[не _N_^{1},_N_^{1}-диметил-2,2′-(метилазанедиил)ди(этан-1-амин); <br>
+даже в общей номенклатуре &(parent name) должно быть диамином; <br>
+этанамин является моноамином]
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N}^2)-CH2-CH2-NH@n(\textit{N}^1)-CH2@n(1)-CH2@n(2)-NH-CH2@n(2′)-CH2@n(1′)-NH@n(\textit{N}^{1′},-70)-CH2-CH2-NH2@n(\textit{N}^{2′},-70)
+$>
+
+en: _N_^{1},_N_^{1′}-[azanediyldi(ethane-2,1-diyl)]di(ethane-1,2-diamine) [PIN;  <br>
+the parent structure is a diamine and multiplicative nomenclature (see P-15.3; P-51.3; P-62.2.5)  <br>
+allows four amine characteristic groups to be included in the name; numbering shown]  <br>
+_N_^{1}-(2-aminoethyl)-_N_^{2}-{2-[(2-aminoethyl)amino]ethyl}ethane-1,2-diamine (substitutive name)  <br>
+[not 2,2′-azanediylbis[_N_-(2-aminoethyl)ethan-1-amine] [substitutive name;  <br>
+even in general nomenclature, the parent structure must be a diamine; ethanamine is a monoamine]]
+ru: _N_^{1},_N_^{1′}-[азанедиилди(этан-2,1-диил)]ди(этан-1,2-диамин) [PIN; <br>
+&(parent structure) — диамин, и используется &(multiplicative nomenclature) (см. P-15.3; P-51.3; P-62.2.5) <br>
+позволяет включать в название четыре аминогруппы; нумерация указана] <br>
+_N_^{1}-(2-аминоэтил)-_N_^{2}-{2-[(2-аминоэтил)амино]этил}этан-1,2-диамин (&(substitutive name)) <br>
+[не 2,2′-азанедиилбис[_N_-(2-аминоэтил)этан-1-амин] [&(substitutive name); <br>
+даже в общей номенклатуре &(parent structure) должна быть диамином; этанамин — это моноамин]]
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2-NH@n(\textit{N}^2)-CH2-CH2-NH@n(\textit{N}^1)-CH2-CH2-NH-CH2-CH2-NH2
+$>
+
+en: _N_^{1}-{2-[(2-aminoethyl)amino]ethyl}-_N_^{2}-(aminomethyl)ethane-1,2-diamine (PIN)  <br>
+[not _N_^{2}-(aminomethyl)-_N_^{1}-{2-[(2-aminoethyl)amino]ethyl}ethane-1,2-diamine;  <br>
+‘aminoethyl’ precedes ‘aminomethyl’ in alphanumerical order; P-14.5]  <br>
+[not _N_^{1}-(2-aminoethyl)-_N_^{2}-(aminomethyl)-2,2′-azanediyldi(ethan-1-amine);  <br>
+the preferred IUPAC name must be a diamine] 
+ru: _N_^{1}-{2-[(2-аминоэтил)амино]этил}-_N_^{2}-(аминометил)этан-1,2-диамин (PIN) <br>
+[не _N_^{2}-(аминометил)-_N_^{1}-{2-[(2-аминоэтил)амино]этил}этан-1,2-диамин; <br>
+«аминоэтил» предшествует «аминометилу» в буквенно-цифровом порядке (в английском языке); P-14.5] <br>
+[не _N_^{1}-(2-аминоэтил)-_N_^{2}-(аминометил)-2,2′-азанедиилди(этан-1-амин); <br>
+предпочтительное название по номенклатуре IUPAC должно быть диамином]
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(14)-CH2-NH@n(12)-CH2-CH2-NH@n(9)-CH2-CH2-NH@n(6)-CH2-CH2-NH@n(3)-CH2-CH2@n(1)-NH2
+$>
+
+en: 3,6,9,12-tetraazatetradecane-1,14-diamine (PIN)  <br>
+(skeletal replacement (‘a’) name; see P-15.4)  <br>
+_N_^{1},_N_^{2}-bis{2-[(2-aminoethyl)amino]ethyl}ethane-1,2-diamine (substitutive name) 
+ru: 3,6,9,12-тетраазатетрадекан-1,14-диамин (PIN) <br>
+(&(skeletal replacement name); см. P-15.4) <br>
+_N_^{1},_N_^{2}-бис{2-[(2-аминоэтил)амино]этил}этан-1,2-диамин (&(substitutive name))
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2-CH2-CH2-NH@n(\textit{N}^{1′},-70)-CH2-CH2_(x1.4)@n(4,-120,.4)/=\@n(1,-60,.4)<`//`-`\\>-CH2-CH2-NH@n(\textit{N}^1)-CH2-CH2-CH2-NH2
+$>
+
+en: _N_^{1},_N_^{1′}-[1,4-phenylenedi(ethane-2,1-diyl)]di(propane-1,3-diamine) (PIN;  <br>
+multiplicative nomenclature (see P-15.3; P-51.3; P-62.2.5)  <br>
+allows four amine characteristic groups to be included in the name)
+ru: _N_^{1},_N_^{1′}-[1,4-фениленди(этан-2,1-диил)]ди(пропан-1,3-диамин) (PIN; <br>
+&(multiplicative nomenclature) (см. P-15.3; P-51.3; P-62.2.5) <br>
+позволяет включать в название четыре аминогруппы)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\//-\\-N@n(\textit{N}^4)_(h)H-@n(4,-120,.4)//-\\<`/`=`\>@n(1,-60,.4)-N@n(\textit{N}^1)_(h)H-//-\\<`/`=`\>-NH2
+$>
+
+en: _N_^{1}-(4-aminophenyl)-_N_^{4}-phenylbenzene-1,4-diamine (PIN)  <br>
+(maximum number of substituents cited as prefixes; see P-45.2.1)  <br>
+[not _N_^{1}-(4-anilinophenyl)benzene-1,4-diamine] 
+ru: _N_^{1}-(4-аминофенил)-_N_^{4}-фенилбензол-1,4-диамин (PIN) <br>
+(максимальное количество &(substituent|ro*), указанных в качестве префиксов; см. P-45.2.1) <br>
+[не _N_^{1}-(4-анилинфенил)бензол-1,4-диамин]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)`/`=`\@btc(1)@n(4,10)<`-H2N>//-\\@n(1,170)-N@bt(2)<`|`\`||/<`|NH2>\\|`//>-@n(1,10)//-\\@n(4,170)@btc(3)<`/`=`\>-#
+N@bt(4)_(h)H-@n(1,10)//-\\@n(4,170)@btc(5)<`/`=`\>-N@bt(6)_(h)H-@n(1,10)//-\\@n(4,170)@btc(7)<`/`=`\>-NH2
+$>
+
+en: 2-(4-aminophenyl)-2,4,6-triaza-1,7(1),3,5(1,4)-tetrabenzenaheptaphane-1^{4},7^{4}-diamine (PIN)  <br>
+(four benzene rings and a total of seven phane nodes justify a phane name; see P-52.2.5)  <br>
+_N_^{1},_N_^{1}-bis(4-aminophenyl)-_N_^{4}-{4-[(4-aminophenyl)amino]phenyl}benzene-1,4-diamine  <br>
+(preferred substitutive name; maximum number of substituent prefixes)  <br>
+_N_^{1}-(4-aminophenyl)-_N_^{1},_N_^{1′}-(azanediyldi-4,1-phenylene)di(benzene-1,4-diamine)  <br>
+(multiplicative name; applicable only in general nomenclature)  <br>
+_N_^{4}-[4-(4-aminoanilino)phenyl]-_N_^{1},_N_^{1}-bis(4-aminophenyl)benzene-1,4-diamine
+ru: 2-(4-аминофенил)-2,4,6-триаза-1,7(1),3,5(1,4)-тетрабензенагептафан-1^{4},7^{4}-диамин (PIN) <br>
+(четыре бензольных кольца и в общей сложности семь &(phane node|ro*) оправдывают &(phane name); см. P-52.2.5) <br>
+_N_^{1},_N_^{1}-бис(4-аминофенил)-_N_^{4}-{4-[(4-аминофенил)амино]фенил}бензол-1,4-диамин <br>
+(предпочтительное &(substitutive name); максимальное количество &(substituent prefix|ro*)) <br>
+_N_^{1}-(4-аминофенил)-_N_^{1},_N_^{1′}-(азанедиилди-4,1-фенилен)ди(бензол-1,4-диамин) <br>
+(&(multiplicative name); применимо только в общей номенклатуре) <br>
+_N_^{4}-[4-(4-аминоанилино)фенил]-_N_^{1},_N_^{1}-бис(4-аминофенил)бензол-1,4-диамин
+
+@End
+
+
+#P-62.2.5
+en: Multiplicative nomenclature
+ru: &(Multiplicative nomenclature) 
+
+#P-62.2.5.1+
+en: The prefixes ‘nitrilo’ for –N< and ‘azanediyl’ for –NH– (also written HN<) are recommended for use in 
+multiplicative nomenclature (see P-15.3). The prefix ‘imino’ is reserved to denote only the divalent substituent group 
+=NH. Multiplicative names are preferred to those formed by substitutive nomenclature when all conditions are fulfilled 
+for the application of multiplicative nomenclature (see P-51.3). 
+ru: В &(multiplicative nomenclature|pr) рекомендуется использовать префиксы «нитрило» для –N< и «азандиил» для –NH– 
+(также пишется HN<) (см. P-15.3). Префикс «имино» зарезервирован только для обозначения двухвалентной &(substituent group|ro) 
+=NH. &(Multiplicative name|*) предпочтительнее названий, образованных &(substitutive nomenclature|tv), если выполнены все 
+условия для применения &(multiplicative nomenclature|ro) (см. P-51.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC-@n(4',-120)//-\\@n(1',-60)<`/`=`\>-N_(h)H-@n(1,-120)//-\\<`/`=`\>@n(4,-60)-CN
+$>
+
+en: 4,4′-azanediyldibenzonitrile (PIN)  <br>
+4-[(4-cyanophenyl)amino]benzonitrile  <br>
+4-(4-cyanoanilino)benzonitrile
+ru: 4,4′-азанедиилдибензонитрил (PIN) <br>
+4-[(4-цианофенил)амино]бензонитрил <br>
+4-(4-цианоанилино)бензонитрил
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`-CH2@n(2)_(y1.2)N<_(x1.2)CH2@n(2')-COOH>|CH2@n(2'',70,.6)-COOH
+$>
+
+en: 2,2′,2′′-nitrilotriacetic acid  <br>
+_N,N_-bis(carboxymethyl)glycine
+ru: 2,2′,2′′-нитрилотриуксусная кислота <br>
+_N,N_-бис(карбоксиметил)глицин
+
+@End
+
+#P-62.2.5.2
+en: Locants for nitrogen atoms in identical parent structures
+ru: Локанты для атомов азота в идентичных &(parent structure|pr*)
+
+en: The use of priming on the italic letter _N_ to differentiate among different nitrogen atoms of parent structures requires 
+special methods to indicate the attachment of identical parent structures to the multiplying substituent group through a 
+nitrogen atom. 
+ru: Использование штрихов на курсивной букве _N_ для различения разных атомов азота в &(parent structure|pr*) требует 
+специальных методов для обозначения присоединения идентичных &(parent structure|ro*) к умножающей &(substituent group|da) 
+через атом азота.
+
+#(1)
+en: Multiplied parent structures containing one nitrogen atom. The nitrogen atoms attached to the central substituent 
+group are denoted by the symbols _N_, _N′_, _N′′_, etc. 
+ru: Умноженные &(parent structure|*), содержащие один атом азота. Атомы азота, присоединенные к центральной &(substituent 
+group|da), обозначаются символами _N_, _N′_, _N′′_ и т. д.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-85,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(2)-CH2@n(1)-NH@n(\textit{N})-CH2-NH@n(\textit{N′})-CH2-CH3
+$>
+
+en: _N,N′_-methylenediethanamine (PIN) <br>
+_N,N′_-diethylmethanediamine
+ru: _N,N′_-метилендиэтанамин (PIN) <br>
+_N,N′_-диэтилметандиамин
+
+@End
+
+#(2)
+en: Multiplied parent structures containing two nitrogen atoms.
+ru: Умноженные &(parent structure|*), содержащие два атома азота.
+
+<div class="left-offset">
+
+#(i)
+en: The symbols _N,N′_ are used for the ‘unprimed’ parent structure and _N′′,N′′′_ for the ‘primed parent structure‘. 
+ru: Символы _N,N′_ используются для обозначения «нештрихованной» родительской структуры, а _N′′,N′′′_ — для обозначения «штрихованной родительской структуры».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO-NH@n(\textit{N′′})-NH@n(\textit{N′′′},-70)-CH2-NH@n(\textit{N′})-NH@n(\textit{N})-CO-CH3
+$>
+
+en: _N′,N′′′_-methylenediacetohydrazide (PIN) 
+ru: _N′,N′′′_-метилендиацетогидразид (PIN)
+
+@End
+
+#(ii)
+en: A combination of unprimed and primed numerical and letter locants is used as needed (see P-16.9.3). The 
+numerical locant of the position on the parent structure at which the nitrogen atom is attached is cited as a 
+superscript to the letter locant _N_, for example, _N_^{1}, _N_^{1′}, etc. A second identical parent structure has primed locants, 
+i.e., 1′, 2′..., hence the nitrogen locant is _N_^{1′}. 
+ru: При необходимости используется комбинация числовых и буквенных локантов без штриха и со штрихом (см. P-16.9.3). 
+Числовой локант позиции на &(parent structure|pr), к которой присоединен атом азота, указывается в виде верхнего индекса 
+перед буквенным локантом _N_, например, _N_^{1}, _N_^{1′} и т. д. Вторая идентичная &(parent structure) имеет локанты
+со штрихом, т. е. 1′, 2′..., следовательно, локант азота — _N_^{1′}.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N}^{2′})-CH2@n(2′)-CH2@n(1′)-NH@n(\textit{N}^{1′})-CH2-NH@n(\textit{N}^1)-CH2@n(1)-CH2@n(2)-NH2@n(\textit{N}^2)
+$>
+
+en: _N_^{1},_N_^{1′}-methylenedi(ethane-1,2-diamine) (PIN)
+ru: _N_^{1},_N_^{1′}-метиленди(этан-1,2-диамин) (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N}^{4′})-@n(4′,-10,.5)/=\@n(1′,-170,.5)<`//`-`\\>-NH@n(\textit{N}^{1′})-CH2-N@n(\textit{N}^1)_(h)H-@n(1,-120,.4)/=\@n(4,-60,.4)<`//`-`\\>-NH2@n(\textit{N}^4)
+$>
+
+en: _N_^{1},_N_^{1′}-methylenedi(benzene-1,4-diamine) (PIN)
+ru: _N_^{1},_N_^{1′}-метиленди(бензол-1,4-диамин) (PIN)
+
+@cell
+<$
+@:n(n,a:80,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5')-CH@n(4')<`|H2N>-CH@n(3')<`|NH2>-CH2@n(2')-CH2@n(1')-NH@n(\textit{N}^{1'},-80)-CH2-NH@n(\textit{N}^1,-80)-CH2@n(1)-CH2@n(2)-CH@n(3)<`|H2N>-CH@n(4)<`|NH2>-CH2@n(5)
+$>
+
+en: <%n%>-methylenedi(pentane-1,3,4-triamine) (PIN) 
+ru: <%n%>-метиленди(пентан-1,3,4-триамин) (PIN)
+%n:_N_^{1},_N_^{1′}
+
+@End
+
+</div>
+
+#P-62.2.5.3+
+en: For parent structures with multiple nitrogen atoms, such as di- or tricarboximidamides (see P-66.4), and 
+cyclophanamines, even more complicated locant structures are required, such as primed letter locants with superscript 
+numbers or with superscripted superscript numbers. 
+ru: Для &(parent structure|ro*) с несколькими атомами азота, таких как ди- или трикарбоксимидамиды (см. P-66.4) и 
+циклофанамины, требуются еще более сложные структуры локантов, например, локанты, обозначенные штрихованными буквами и 
+надстрочными цифрами, или локанты, обозначенные надстрочными цифрами.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:45,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,-120,%L)@;
+$L(%L:1.1)`-`\\@n(2,120)</NH_(x1.2)CH3>`-@n(3,60)<`\H2N>`//@n(4,10)<\=/@btc(1)@n(1,170)>`-@bt(6)#
+_(y%h:2.4)@bt(5)-@n(4,10)\=/@n(1,170)@btc(4)<`\\`-`//>-@bt(3)_#1@bt(2,120)$L(1.2)/\$L(%L)@bt(2',120)_(y%h)@bt(3')#
+-\=/@btc(4')<`\\`-``//>-@bt(5')_(y-%h)@bt(6')`-`\\</NH2>`-<`\NH_(x-.8)H3C>`//@btc(1')<\=/>`-
+$>
+
+en: 2,2′-methylenebis[<%n2%>-methyl-1,4(1,4)dibenzenacyclohexaphane-1^{2},1^{3}-diamine] (PIN)
+ru: 2,2′-метиленбис[<%n2%>-метил-1,4(1,4)дибензенациклогекса&(phane)-1^{2},1^{3}-диамин] (PIN)
+%n2:_N_^{1<sup>2</sup>}
+
+@End
+
+#P-62.2.6
+en: Modification of the degree of saturation/unsaturation of amines 
+ru: Изменение степени насыщенности/ненасыщенности аминов
+
+#P-62.2.6.1
+en: General methodology
+ru: Общая методология 
+
+en: When there is a choice for numbering, the starting point and the direction of numbering of a compound are chosen so as 
+to give lowest locants to the following structural features (if present) considered successively in the order given until a 
+decision is reached (see also P-14.4). 
+ru: При выборе способа нумерации начальная точка и направление нумерации соединения выбираются таким образом, чтобы 
+наименьшие значения располагались в последовательном порядке для следующих структурных элементов (если они присутствуют), 
+рассматриваемых до принятия решения (см. также P-14.4).
+
+@List a
+
+@item
+en: fixed numbering (naphthalene, bicyclo[2.2.2]octane, etc.); 
+ru: фиксированная нумерация (нафталин, бицикло[2.2.2]октан и др.);
+
+@item
+en: heteroatoms in heterocycles and in acyclic parent structures; 
+ru: гетероатомы в гетероциклах и в ациклических исходных структурах;
+
+@item
+en: indicated hydrogen [for unsubstituted compounds; a higher locant may be needed at another position to provide 
+for a substituent suffix in accordance with the structural feature (d)]; 
+ru: &(indicated hydrogen) [для незамещенных соединений; для обеспечения суффикса заместителя в соответствии со структурной 
+особенностью (d) может потребоваться больший локант в другом положении];
+
+@item
+en: principal group named as suffix; 
+ru: основная группа, названная в качестве суффикса;
+
+@item
+en: added indicated hydrogen (consistent with the structure of the compound and in accordance with further 
+substitution); 
+ru: &(added indicated hydrogen) (соответствует структуре соединения и дальнейшим замещениям);
+
+@item
+en: saturation/unsaturation (‘hydro’/‘dehydro’ prefixes) or unsaturation (‘ene’, ‘yne’ endings); 
+ru: насыщенность/ненасыщенность (префиксы «гидро»/«дегидро») или ненасыщенность (окончания «ен», «ин»);
+
+@item
+en: substituents named as prefixes (low locants are allocated for substituents regardless of kind; then, if necessary, in 
+the order of citation). 
+ru: &(substituent|*), названные в виде префиксов (меньшие локанты выделяются для &(substituent|ro*) независимо от их вида; 
+затем, при необходимости, в порядке цитирования).
+
+@End
+
+#P-62.2.6.2
+en: Modification of the degree of saturation/unsaturation of primary amines 
+ru: Изменение степени насыщенности/ненасыщенности первичных аминов
+
+en: Criteria (d), (e) and (f) described in the general methodology (P-62.2.6.1) are used.  
+ru: Используются критерии (d), (e) и (f), описанные в общей методологии (P-62.2.6.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(3)=CH@n(2)-CH2@n(1)-NH2
+$>
+
+en: prop-2-en-1-amine (PIN)  <br>
+(prop-2-en-1-yl)azane  <br>
+allylamine
+ru: проп-2-ен-1-амин (PIN) <br>
+(проп-2-ен-1-ил)азан <br>
+аллиламин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2|@n(1,-30)\@n(2,-30)|@n(3,30)`/@n(4,90)`\`//`\`||/\\<|>/
+$>
+
+en: 1,2,3,4-tetrahydronaphthalen-1-amine (PIN)  <br>
+(1,2,3,4-tetrahydronaphthalen-1-yl)azane  <br>
+(1,2,3,4-tetrahydronaphthalen-1-yl)amine
+ru: 1,2,3,4-тетрагидронафтален-1-амин (PIN) <br>
+(1,2,3,4-тетрагидронафтален-1-ил)азан <br>
+(1,2,3,4-тетрагидронафтален-1-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`||/@n(1,-90)\\</NH2>@n(2,30)|@n(3,30)`//@n(4,90)`\`/@n(5,90)`\@n(6,160)`|@n(7,-150)/@n(8,-90)\
+$>
+
+en: 5,6,7,8-tetrahydronaphthalen-2-amine (PIN)  <br>
+(5,6,7,8-tetrahydronaphthalen-2-yl)azane  <br>
+(5,6,7,8-tetrahydronaphthalen-2-yl)amine
+ru: 5,6,7,8-тетрагидронафтален-2-амин (PIN) <br>
+(5,6,7,8-тетрагидронафтален-2-ил)азан <br>
+(5,6,7,8-тетрагидронафтален-2-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2`|@n(4a,-30)`|//@n(1,-90)\@n(2,-30)|`//`\`/`\\`|//\
+$>
+
+en: naphthalen-4a(2_H_)-amine (PIN)  <br>
+(naphthalen-4a(2_H_)-yl)azane (naphthalen-4a(2_H_)-yl)amine
+ru: нафталин-4a(2_H_)-амин (PIN) <br>
+(нафталин-4a(2_H_)-ил)азан (нафталин-4a(2_H_)-ил)амин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2`|@n(4a,-30)`|//@n(1,-90)\@n(2,30)</NH2>|`//`\`/`\\`|//\
+$>
+
+en: naphthalene-2,4a(2_H_)-diamine (PIN)  <br>
+2,4a-dihydronaphthalene-2,4a-bis(azane) (see P-58.2)  <br>
+2,4a-dihydronaphthalene-2,4a-diamine (see P-58.2)  <br>
+naphthalene-2,4a(2_H_)-bis(azane) 
+ru: нафталин-2,4a(2_H_)-диамин (PIN) <br>
+2,4a-дигидронафталин-2,4a-бис(азан) (см. P-58.2) <br>
+2,4a-дигидронафталин-2,4a-диамин (см. P-58.2) <br>
+нафталин-2,4a(2_H_)-бис(азан)
+
+@End
+

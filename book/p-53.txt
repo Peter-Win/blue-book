@@ -1,0 +1,876 @@
+#P-53
+en: Selecting preferred retained names of parent hydrides  
+ru: Выбор предпочтительных &(retained name|ro*) &(parent hydride|ro*)
+
+en: A certain number of retained names of parent hydrides are still recommended. The names methane, ethane, propane, 
+and butane have been used since the beginning of systematic nomenclature. Names of cyclic mancude compounds are 
+retained as components of fusion nomenclature; they are also used as preferred IUPAC names to name their derivatives 
+and in general nomenclature. 
+ru: Некоторые из &(retained name|ro*) &(parent hydride|ro*) по-прежнему рекомендуются. Названия метан, этан, пропан 
+и бутан используются с момента появления систематической номенклатуры. Названия циклических соединений сохраняются как 
+компоненты &(fusion nomenclature|ro); они также используются в качестве предпочтительных названий ИЮПАК для наименования 
+их производных и в общей номенклатуре.
+
+en: An important aspect of these retained names is their substitutability; as parent compounds, they accommodate without 
+restriction substituent groups cited as suffixes and prefixes. A few are limited in their capacity to be substituted; 
+amongst them are the substituted benzenes ‘toluene’, ‘xylene’, and ‘mesitylene’. Some retained names are no longer 
+recommended, for example ‘cumene’ and ‘cymene’. 
+ru: Важным аспектом этих &(retained name|ro*) является их замещаемость; как &(parent compound|*), они без ограничений 
+включают &(substituent group|*), указанные в виде суффиксов и префиксов. Некоторые из них ограничены в своей замещаемости; 
+среди них — замещённые бензолы «толуол», «ксилол» и «мезитилен». Некоторые &(retained name|*) больше не рекомендуются, 
+например, «кумол» и «цимол».
+
+en: For preferred retained IUPAC names of parent hydrides, see P-21.1.1 and P-21.1.2 for acyclic parent hydrides, P-22.1 
+and P-22.2 for monocyclic parent hydrides and P-25.1 and P-25.2 for polycyclic parent hydrides.
+ru: Предпочтительные сохраненные названия ИЮПАК для &(parent hydride|ro*) см. в P-21.1.1 и P-21.1.2 для ациклических 
+&(parent hydride|ro*), в P-22.1 и P-22.2 для моноциклических &(parent hydride|ro*) и в P-25.1 и P-25.2 для полициклических 
+&(parent hydride|ro*).
+
+
+
+#P-54
+en: Selecting the preferred method for modifying the degree of hydrogenation 
+ru: Выбор предпочтительного метода изменения степени гидрирования
+
+@Content
+
+#P-54.1
+en: Methods for modifying the degree of hydrogenation of parent hydrides 
+ru: Методы изменения степени гидрирования &(parent hydride|ro*)
+
+en: There are three methods for modifying the degree of hydrogenation for parent hydrides:
+ru: Существует три метода изменения степени гидрирования &(parent hydride|ro*):
+
+@List 1
+
+@item
+en: by changing the ending ‘ane’ in acyclic parent hydrides to ‘ene’ and ‘yne’; 
+ru: изменением окончания «ан» в ациклических исходных гидридах на «ен» и «ин»;
+
+@item
+en: by using ‘hydro’ prefixes to saturate one or more double bonds in mancude compounds; 
+ru: использованием префиксов «гидро» для насыщения одной или нескольких двойных связей в соединениях с гуанилатом;
+
+@item
+en: by using ‘dehydro’ prefixes to introduce triple bonds in mancude compounds (see P-54.4). 
+ru: использованием префиксов «дегидро» для введения тройных связей в &(mancude)-соединениях (см. P-54.4).
+
+@End
+
+en: Systematic IUPAC names and retained names of parent hydrides may be modified in the same way or in different ways 
+to generate preferred IUPAC names. 
+ru: Систематические названия ИЮПАК и &(retained name|*) &(parent hydride|ro*) могут быть изменены тем же самым или 
+разными способами для получения предпочтительных названий ИЮПАК.
+
+#P-54.2
+en: Unsaturated monocyclic carbocycles
+ru: Ненасыщенные моноциклические карбоциклы
+
+en: Two methods are used for modifying the degree of hydrogenation of monocyclic carbocycles: 
+ru: Для изменения степени гидрирования моноциклических карбоциклов используются два метода:
+
+@List 1
+
+@item
+en: by using the endings ‘ene’ and ‘yne’;  
+ru: с использованием окончаний «ен» и «ин»;
+
+@item
+en: by using the parent name ‘annulene’. 
+ru: с использованием исходного названия «аннулен».
+
+@End
+
+en: Method (1) generates preferred IUPAC names: 
+ru: Метод (1) генерирует предпочтительные названия ИЮПАК:
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_p8@n(3,-20)||_p8@n(5,70)`=_p8@n(7,160)`||_p8@n(1,-110)
+$>
+
+en: cycloocta-1,3,5,7-tetraene (PIN)  <br>
+[8]annulene 
+ru: циклоокта-1,3,5,7-тетраен (PIN) <br>
+[8]аннулен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)CH`-@n(7,120)_pp8`|@n(9,-150)_pp8-@n(11,-90,.5)%-@n(1,-60)_pp8|@n(3,30)_pp8`-CH@n(5,90,.55)`==
+$>
+
+en: cyclododeca-1,3,5,7,9-pentaen-11-yne (PIN)  <br>
+1,2-didehydro[12]annulene 
+ru: циклододека-1,3,5,7,9-пентаен-11-ин (PIN) <br>
+1,2-дидегидро[12]аннулен
+
+@End
+
+#P-54.3
+en: Unsaturation in ring assemblies composed of monocyclic mancude and saturated rings
+ru: Ненасыщенность в &(ring assembly|pr*), состоящих из моноциклических &(mancude)- и насыщенных колец
+
+en: When assemblies of otherwise identical rings contain both mancude and saturated rings, the use of hydro prefixes is 
+preferred, except in the case of a two ring assembly consisting of one benzene ring and a cyclohexane ring. However, 
+when the requirements for the formation of phane names are met (see P-52.2.5.1), phane names are preferred IUPAC 
+names. 
+ru: Если &([ring] assembly|*) в остальном идентичных циклов содержат как &(mancude), так и насыщенные циклы, 
+предпочтительно использование гидропрефиксов, за исключением случая двухциклического &([ring] assembly|ro), 
+состоящего из одного бензольного и одного циклогексанового циклов. Однако, если выполнены требования к образованию 
+&(phane name|ro*) (см. P-52.2.5.1), &(phane name|*) являются предпочтительными по ИЮПАК.
+
+@Examples
+
+@cell
+<$ `//`-`\\/=\-/-\`/`-`\ $>
+
+en: cyclohexylbenzene (PIN)  <br>
+1,2,3,4,5,6-hexahydro-1,1′-biphenyl 
+ru: циклогексилбензол (PIN) <br>
+1,2,3,4,5,6-гексагидро-1,1′-бифенил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=N@n(1)\@n(2,-70,.4)-/HN-\`/`-`\
+$>
+
+en: 1,2,3,4,5,6-hexahydro-2,2′-bipyridine (PIN)  <br>
+2-(piperidin-2-yl)pyridine
+ru: 1,2,3,4,5,6-гексагидро-2,2′-бипиридин (PIN) <br>
+2-(пиперидин-2-ил)пиридин
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-90,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+@:cy(b,l:1,r:4)/=\@btc(&b)@n(&r,-170)<`//`-`\\@n(&l,-10)>@;
+@:ch(b,l:1,r:4)/-\@btc(&b)@n(&r,-180)<`/`-`\@n(&l,0)>@;
+$L(%L:1.1)@cy(1,l:,r:1)-@ch(2)-@ch(3)-@cy(4)-@ch(5)-@ch(6)-@ch(7,r:)
+$>
+
+en: 1(1),4(1,4)-dibenzena-2,3,5,6(1,4),7(1)-pentacyclohexanaheptaphane (PIN)  <br>
+1^{4}-[4-(4′-phenyl[1,1′-bi(cyclohexan)]-4-yl)phenyl]-<%d%>-tercyclohexane
+ru: 1(1),4(1,4)-дибензона-2,3,5,6(1,4),7(1)-пентациклогексангептафан (PIN) <br>
+1^{4}-[4-(4′-фенил[1,1′-би(циклогексан)]-4-ил)фенил]-<%d%>-терциклогексан
+%d:1^{1},2^{1}:2^{4},3^{1}
+
+@End
+
+#P-54.4
+en: Names modified by ‘hydro’ and ‘dehydro’ prefixes
+ru: Имена, модифицированные префиксами «гидро» и «дегидро»
+
+@p .framed
+en: In these recommendations, the prefixes ‘hydro’ and ‘dehydro’ are detachable, but are not included in the category of 
+alphabetized detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2), which is a change from 
+recommendations in earlier editions (ref. 1, 2) where they were alphabetized along with substituent prefixes. When 
+along with the endings ‘ene’ and ‘yne’ they are used to modify parent hydrides, they are regulated by the principle 
+of lowest locants, in accord with the numbering of the parent hydride and after priority has been given to indicated 
+hydrogen, added indicated hydrogen, and suffixes, when present, as specified in the general rules for numbering  
+(P-14.4). 
+ru: В настоящих рекомендациях префиксы «гидро» и «дегидро» являются &(detachable [prefix]|tv*), но не включены в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) префиксов (см. P-14.4; см. также P-15.1.5.2, P-31.2, P-58.2), 
+что является изменением по сравнению с рекомендациями в более ранних изданиях (ссылки 1, 2), где они были упорядочены 
+по алфавиту вместе с &(substituent prefix|tv). Когда они используются вместе с окончаниями «ен» и «ин» для модификации 
+&(parent hydride|ro*), они регулируются по принципу наименьшего локанта, в соответствии с нумерацией &(parent hydride|ro), 
+и после того, как приоритет будет отдан &(indicated hydrogen), добавлен &(indicated hydrogen) и суффиксы, если они 
+присутствуют, как указано в общих правилах нумерации (P-14.4).
+
+#P-54.4.1
+en: Hantzsch-Widman heteromonocycles 
+ru: Гетеромоноциклы Ганча-Видмана
+
+en: Preferred IUPAC names for Hantzsch-Widman rings correspond to either fully unsaturated or fully saturated 
+compounds (see P-22.2.2.1.1). ‘Hydro’ prefixes added to names of fully unsaturated Hantzsch-Widman rings lead to 
+preferred IUPAC names for partially unsaturated rings; names containing the ‘dehydro’ prefix are allowed only in 
+general nomenclature. 
+ru: Предпочтительные названия ИЮПАК для циклов Ганча-Видмана соответствуют либо полностью ненасыщенным, либо полностью 
+насыщенным соединениям (см. P-22.2.2.1.1). Приставки «гидро», добавленные к названиям полностью ненасыщенных циклов 
+Ганча-Видмана, приводят к предпочтительным названиям ИЮПАК для частично ненасыщенных циклов; названия, содержащие 
+приставку «дегидро», разрешены только в общей номенклатуре.
+
+@p .framed
+en: The final ‘e’ in Hantzsch-Widman names is required in preferred IUPAC names; it is still optional in general 
+nomenclature. In the 1979 Rules (ref. 1), the final ‘e’ of a Hantzsch-Widman name was omitted when there was no 
+nitrogen in the ring; in the 1993 Guide (ref. 2) this omission was made optional. 
+ru: Конечная буква «e» в названиях по Ганчу-Видману обязательна для предпочтительных названий ИЮПАК; 
+в общей номенклатуре она всё ещё необязательна. В Правилах 1979 г. (ссылка 1) конечная буква «e» в названиях по Ганчу-Видману 
+опускалась при отсутствии азота в кольце; в Руководстве 1993 г. (ссылка 2) это исключение стало необязательным.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qP<_(y-.5)H>@n(1,90,.55)_q_qq
+$>
+
+en: 1_H_-phosphole (PIN)
+ru: 1_H_-фосфол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_q@n(2,-20)_qP<_(y-.5)H>@n(1,90,.55)_q_qq
+$>
+
+en: 2,3-dihydro-1_H_-phosphole (PIN)  <br>
+2,3-didehydrophospholane 
+ru: 2,3-дигидро-1_H_-фосфол (PIN) <br>
+2,3-дидегидрофосфолан
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q@n(2,-20)_qP<_(y-.5)H>@n(1,90,.55)_q_q
+$>
+
+en: phospholane (PIN)
+ru: фосфолан (PIN)
+
+@End
+
+#P-54.4.2
+en: Saturated heteromonocyclic compounds
+ru: Насыщенные гетеромоноциклические соединения
+
+en: Preferred IUPAC names for saturated heteromonocyclic compounds are either Hantzsch-Widman names described in  
+P-22.2.2.1.1 or retained names given in Table 2.3. Names of saturated rings derived by using hydro prefixes with 
+Hantzsch-Widman names (see P-54.4.1) and retained names by adding the maximum of hydro prefixes, or ‘cyclo’ 
+names described in P-22.2.5, are not preferred IUPAC names, but they may be used in general nomenclature.
+ru: Предпочтительными названиями ИЮПАК для насыщенных гетеромоноциклических соединений являются названия Ганча-Видмана, 
+описанные в P-22.2.2.1.1, или &(retained name|*), приведенные в &[таблице 2.3]. Названия насыщенных циклов, полученные 
+с использованием гидропрефиксов к названиям Ганча-Видмана (см. P-54.4.1), а также &(retained name|*) путем добавления 
+максимального количества гидропрефиксов или названия «цикло», описанные в P-22.2.5, не являются предпочтительными 
+названиями ИЮПАК, но могут использоваться в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq@n(2,-20)_qP<_(y-.5)H>@n(1,90,.55)_q_qq
+$>
+
+en: 1_H_-phosphole (PIN)
+ru: 1_H_-фосфол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q@n(2,-20)_qP<_(y-.5)H>@n(1,90,.55)_q_q
+$>
+
+en: phospholane (PIN)  <br>
+2,3,4,5-tetrahydro-1_H_-phosphole
+ru: фосфолан (PIN) <br>
+2,3,4,5-тетрагидро-1_H_-фосфол
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)Si@n(1,90,.55)\\|`//`\`||/
+$>
+
+en: siline (PIN) 
+ru: силин (PIN) 
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2_(y.5)Si@n(1,90,.55)\|`/`\`|/
+$>
+
+en: silinane (PIN)  <br>
+hexahydrosiline 
+ru: силинан (PIN) <br>
+гексагидросилин
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq_qO@n(1,-90,.55)_q_qq
+$>
+
+en: furan (PIN)
+ru: фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q_qO@n(1,-90,.55)_q_q
+$>
+
+en: oxolane (PIN)  <br>
+tetrahydrofuran
+ru: оксолан (PIN) <br>
+тетрагидрофуран
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-90,.55)\\|`//`\`||/
+$>
+
+en: pyridine (PIN)
+ru: пиридин (PIN)
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(1,90,.55)\|`/`\`|/
+$>
+
+en: piperidine (PIN)  <br>
+hexahydropyridine
+ru: пиперидин (PIN) <br>
+гексагидропиридин
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=N@n(4,40,.5)_q7_qq7_q7S@n(1,-90,.55)_q7_qq7_q7
+$>
+
+en: 1,4-thiazepine (PIN)
+ru: 1,4-тиазепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(4,-100)_q7_q7_q7S@n(1,-90)_q7_q7_q7
+$>
+
+en: 1,4-thiazepane (PIN)  <br>
+hexahydro-1,4-thiazepine
+ru: 1,4-тиазепан (PIN) <br>
+гексагидро-1,4-тиазепин
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(4,-60)_(x1.3)NH@n(3,-120)_qNH@n(2,170,.5)_qN<_(y-.5)H>@n(1,90)_qHN@n(5,10)_q
+$>
+
+en: cylopentaazane  <br>
+pentazolidine (preselected name; see P-22.2.2.1.2) 
+ru: циклопентаазан <br>
+пентазолидин (предварительно выбранное название; см. P-22.2.2.1.2)
+
+@End
+
+#P-54.4.3
+en: Fused ring systems and mancude ring assemblies composed of fused ring systems
+ru: &(Fused ring system|*) и &(mancude)-&(ring assembly|*), состоящие из &(fused ring system|ro*)
+
+#P-54.4.3.1+
+en: Retained fusion names are used for the fully unsaturated compounds (see P-25); they are the preferred 
+IUPAC names. Preferred IUPAC names for the partially saturated and fully saturated compounds are formed by using 
+‘hydro’ prefixes. Preferred IUPAC names for partially saturated and mancude ring assemblies are formed in the same way. 
+ru: Для полностью ненасыщенных соединений используются &(retained [name]*) &(fusion name|*) (см. стр. 25); 
+они являются предпочтительными названиями по ИЮПАК. Предпочтительные названия по ИЮПАК для частично насыщенных и 
+полностью насыщенных соединений образуются с использованием префикса «гидро». Предпочтительные названия по ИЮПАК для 
+частично насыщенных и &(mancude)-&(ring assembly|ro*) образуются аналогичным образом.
+
+@p .framed
+en: In these recommendations, the prefix ‘hydro’ is detachable, but is not included in the category of alphabetized 
+detachable prefixes (see P-14.4; see also P-15.1.3.2, P-31.2, P-58.2), which is a change from recommendations in 
+earlier editions (ref. 1, 2) where it was alphabetized along with prefixes. When along with the endings ‘ene’ and 
+‘yne’ it is used to modify parent hydrides, it is regulated by the principle of lowest locants, in accord with the 
+numbering of the parent hydride and after priority has been given to indicated hydrogen, added indicated hydrogen, 
+and suffixes, when present, as specified in the general rules for numbering (P-14.4). 
+ru: В настоящих рекомендациях префикс «гидро» является &(detachable [prefix]|tv), но не входит в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) префиксов (см. P-14.4; см. также P-15.1.3.2, P-31.2, P-58.2), 
+что является изменением по сравнению с рекомендациями в более ранних изданиях (ссылки 1, 2), где он был упорядочен 
+по алфавиту вместе с префиксами. Когда он используется вместе с окончаниями «ен» и «ин» для модификации &(parent hydride|ro*), 
+он регулируется по принципу наименьших локантов в соответствии с нумерацией &(parent hydride|ro) и после того, как 
+приоритет будет отдан &(indicated hydrogen|da), &(added indicated hydrogen) и суффиксы, если они есть, как указано в 
+общих правилах нумерации (P-14.4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1,-90)\\@n(2,-30)|`//`\`|`\\`/||\//
+$>
+
+en: naphthalene (PIN)
+ru: нафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/@n(1,-90)\@n(2,-30)|`//`\`|`\\`/||\//
+$>
+
+en: 1,2-dihydronaphthalene (PIN) 
+ru: 1,2-дигидронафталин (PIN)
+
+@cell
+<$ /\|`/`\`|`\`/|\/ $>
+
+en: decahydronaphthalene (PIN)  <br>
+bicyclo[4.4.0]decane
+ru: декагидронафталин (PIN) <br>
+бицикло[4.4.0]декан
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_pp_pO_p_pp>_q7S_q7_qq7_q7@n(2,-50)_q7S@n(1,-90,.55)_q7
+$>
+
+en: 2_H_-[1,4]dithiepino[2,3-_c_]furan (PIN)
+ru: 2_H_-[1,4]дитиэпино[2,3-_c_]фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_pp_pO_p_pp>_q7S_q7@n(4,50)_q7@n(3,0)_q7@n(2,-50)_q7S@n(1,-90,.55)_q7
+$>
+
+en: 3,4-dihydro-2_H_-[1,4]dithiepino[2,3-_c_]furan (PIN)
+ru: 3,4-дигидро-2_H_-[1,4]дитиэпино[2,3-_c_]фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_p_pO_p_p>_q7S_q7_q7_q7@n(2,-50)_q7S@n(1,-90,.55)_q7
+$>
+
+en: hexahydro-2_H_-[1,4]dithiepino[2,3-_c_]furan (PIN)
+ru: гексагидро-2_H_-[1,4]дитиэпино[2,3-_c_]фуран (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\@n(1,-90)`/|<`//`\`||/\\>\//`|@n(2,-70)-||\//`|</\\|`//`\>`\\@n(1',-90)`/@n(2',-100)
+$>
+
+en: 2,2′-binaphthalene (PIN)  <br>
+2,2′-binaphthyl
+ru: 2,2′-бинафталин (PIN) <br>
+2,2′-бинафтил
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\@n(1,-90)`/|<`//`\`||/\\>\//`|@n(2,-70)-||\//`|</\\|`//`\>`\\@n(1',-90)`/@n(2',-100)
+$>
+
+en: 1,2-dihydro-2,2′-binaphthalene (PIN)  <br>
+1,2-dihydro-2,2′-binaphthyl  <br>
+1,2-dihydro-2-(naphthalen-2-yl)naphthalene
+ru: 1,2-дигидро-2,2′-бинафталин (PIN) <br>
+1,2-дигидро-2,2′-бинафтил <br>
+1,2-дигидро-2-(нафталин-2-ил)нафталин
+
+@End
+
+#P-54.4.3.2+
+en: The retained names for the partially saturated heterocycles, ‘indane’, ‘indoline’, ‘isoindoline’, and 
+‘chromane’, ‘isochromane’ and their chalcogen analogues are not used as preferred IUPAC names, but are acceptable 
+for use in general nomenclature (see P-31.2.3.3.1). Preferred IUPAC names are based on the retained mancude names 
+indene, 1_H_-indole, 1_H_-isoindole, 2_H_-1-benzopyran, and 1_H_-2-benzopyran (and their chalcogen analogues) modified by 
+‘hydro’ prefixes (see P-54.4.3.1). 
+ru: &(Retained name|*) частично насыщенных гетероциклов «индан», «индолин», «изоиндолин» и «хроман», «изохроман» и их 
+халькогенные аналоги не используются в качестве предпочтительных названий ИЮПАК, но приемлемы для использования в общей 
+номенклатуре (см. P-31.2.3.3.1). Предпочтительные названия ИЮПАК основаны на &(retained [name]pr*) &(mancude)-названиях 
+инден, 1_H_-индол, 1_H_-изоиндол, 2_H_-1-бензопиран и 1_H_-2-бензопиран (и их халькогенные аналоги), модифицированных 
+префиксами «гидро» (см. P-54.4.3.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q@n(3,80)_q@n(2,0)_q@n(1,-80)_q`\\@n(7,-90)`/@n(6,-150)||@n(5,150)\@n(4,90)//
+$>
+
+en: indane  <br>
+2,3-dihydro-1_H_-indene (PIN)
+ru: индан <br>
+2,3-дигидро-1_H_-инден (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/@n(1,-90)\S@n(2,-30,.5)|@n(3,30)`/@n(4,90)`\
+$>
+
+en: isothiochroman  <br>
+3,4-dihydro-1_H_-2-benzothiopyran (PIN)
+ru: изотиохроман <br>
+3,4-дигидро-1_H_-2-бензотиопиран (PIN)
+
+@End
+
+#P-54.4.4
+en: Names modified by ‘dehydro’ prefixes 
+ru: Названия, модифицированные префиксами «дегидро»
+
+en: ‘Dehydro’ prefixes are used to generate preferred IUPAC names for dehydrogenated mancude compounds. They may 
+be used in general nomenclature to introduce double and triple bonds in saturated parent hydrides. 
+ru: Префиксы «дегидро» используются для формирования предпочтительных названий по ИЮПАК для дегидрированных 
+&(mancude)-соединений. Они могут использоваться в общей номенклатуре для обозначения двойных и тройных связей в 
+насыщенных &(parent hydride|pr*).
+
+@p .framed
+en: In these recommendations, the prefix ‘dehydro’ is detachable, but is not included in the category of alphabetized 
+detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2), which is a change from recommendations in 
+earlier editions (ref. 1, 2) where it was alphabetized along with substituent prefixes. When along with the endings 
+‘ene’ and ‘yne’ it is used to modify parent hydrides it is regulated by the principle of lowest locants, in accord with 
+the numbering of the parent hydride and after priority has been given to indicated hydrogen, added indicated 
+hydrogen, and suffixes, when present, as specified in the general rules for numbering (P-14.4). 
+ru: В настоящих рекомендациях префикс «дегидро» является &(detachable [prefix]|tv), но не входит в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) префиксов (см. P-14.4; см. также P-15.1.5.2, P-31.2, P-58.2), 
+что является изменением по сравнению с рекомендациями в более ранних изданиях (ссылка 1, 2), где он был упорядочен 
+по алфавиту вместе с &(substituent prefix|tv*). Когда он используется вместе с окончаниями «ен» и «ин» для модификации 
+&(parent hydride|ro*), он регулируется по принципу наименьших локантов в соответствии с нумерацией &(parent hydride|ro) 
+и после того, как приоритет был отдан &(indicated hydrogen|da), &(added indicated hydrogen|da) и суффиксам, если они есть, 
+как указано в общих правилах нумерации (P-14.4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\\@n(2,-30)|<\H>`//<|H>`\<`/H>`||<`\H>/@n(1,-90,.5)
+$>
+
+en: 1,2-didehydrobenzene (PIN) <br>
+cyclohexa-1,3-dien-5-yne  <br>
+(not benzyne) 
+ru: 1,2-дидегидробензол (PIN) <br>
+циклогекса-1,3-диен-5-ин <br>
+(не &(benzyne))
+// http://charchem.org/ru/subst-ref/?id=6793
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,90,.55)`\`|/\|@n(2,30)`//
+$>
+
+en: 1,2-didehydropiperidine  <br>
+2,3,4,5-tetrahydropyridine (PIN) 
+ru: 1,2-дидегидропиперидин <br>
+2,3,4,5-тетрагидропиридин (PIN)
+
+@End
+
+#P-55
+en: Selecting the preferred retained name for functional parent compounds 
+ru: Выбор предпочтительного сохраненного названия для функциональных &(parent compound|ro*)
+
+en: Trivial names retained for naming organic compounds are known as ‘retained names’. Parent hydrides and functional 
+parent compounds may have retained names. The number of parent hydrides having retained names has been kept 
+almost unchanged through the years. The main reason is that the aliphatic ones methane, ethane, propane and butane 
+have been in use since the Geneva Convention; most of the cyclic parent hydrides are used as components in systematic 
+fusion nomenclature as discussed in Section P-52. The situation regarding functional parent compounds is different. 
+Their number was sharply reduced in the 1979 Rules, and reduced still further in the 1993 Recommendations. In these 
+recommendations, their usage as preferred IUPAC names has been sharply limited. All retained names in the 1993 list 
+can be used in general and specialized nomenclature. Two distinct classes are thus recognized. 
+ru: Тривиальные названия, сохраненные для наименования органических соединений, известны как «&(retained name|*)». 
+&(Parent hydride|*) и функциональные &(parent compound|*) могли сохранить названия. Количество &(parent hydride|ro*) 
+с &(retained name|tv*) практически не менялось на протяжении многих лет. Основная причина заключается в том, что 
+алифатические гидриды – метан, этан, пропан и бутан – используются со времен Женевской конвенции; большинство циклических 
+&(parent hydride|ro*) используются в качестве компонентов в систематической &(fusion nomenclature|pr), как обсуждается 
+в разделе P-52. Ситуация с функциональными &(parent compound|tv*) иная. Их количество было резко сокращено в Правилах 
+1979 года и еще больше сокращено в Рекомендациях 1993 года. В этих рекомендациях их использование в качестве 
+предпочтительных названий ИЮПАК было резко ограничено. Все &(retained name|*) в списке 1993 года могут использоваться 
+в общей и специальной номенклатуре. Таким образом, признаются два отдельных класса.
+
+@List 1
+
+@item
+en: Retained names used as preferred IUPAC names. 
+ru: &(Retained name|*), используемые в качестве предпочтительных названий ИЮПАК.
+
+@item
+en: Retained names recommended for general nomenclature. 
+ru: &(Retained name|*), рекомендованные для общей номенклатуры.
+
+@End
+
+en: A further classification regarding substitution was established in the 1993 Recommendations. Structures corresponding 
+to retained names could be substituted without restriction, substituted in a limited way, or simply could not be 
+substituted at all. This issue is discussed in P-15.1.8. 
+ru: Дополнительная классификация, касающаяся замены, была установлена ​​в Рекомендациях 1993 года. Структуры, соответствующие 
+&(retained name|da*), могли быть заменены без ограничений, с ограничениями или вообще не могли быть заменены. Этот вопрос 
+обсуждается в разделе P-15.1.8.
+
+en: In the context of preferred IUPAC names, most parent hydrides having retained names recommended as preferred 
+IUPAC names are fully substitutable and most functional parent compounds having retained names also recommended 
+as preferred IUPAC names can be substituted, albeit in the limited way imposed by the presence of a characteristic 
+group and the seniority of classes. Exceptions are known, when no substitution is allowed. 
+Retained names recommended for general and specialized nomenclature must be used as in the past. Rules about 
+substitution of corresponding structures are less strict and traditional IUPAC nomenclature can still be applied in all its 
+diversity and adaptability. In this Section, preferred IUPAC names only will be discussed. 
+ru: В контексте предпочтительных названий ИЮПАК большинство &(parent hydride|ro*), имеющих &(retained name|*), 
+рекомендованные в качестве предпочтительных названий ИЮПАК, полностью заменяемы, и большинство функциональных 
+&(parent compound|ro*), имеющих &(retained name|*), также рекомендованные в качестве предпочтительных названий ИЮПАК, 
+могут быть заменены, хотя и с ограничениями, обусловленными наличием &(characteristic group|ro) и старшинством классов. 
+Известны исключения, когда замена не допускается. &(Retained name|*), рекомендованные для общей и специальной номенклатуры, 
+должны использоваться, как и прежде. Правила замены соответствующих структур стали менее строгими, и традиционная номенклатура 
+ИЮПАК по-прежнему может применяться во всем своем разнообразии и адаптивности. В этом разделе будут обсуждаться только 
+предпочтительные названия ИЮПАК.
+
+en: Organic functional parent compounds having retained names used as preferred IUPAC names are all listed in P-34.1. 
+Substitution is allowed on all structures except anisole and tert-butoxy, and formic acid and formyl group are 
+substitutable with limitations. 
+ru: Все органические функциональные &(parent compound|*), названия которых сохранены и используются в качестве 
+предпочтительных названий ИЮПАК, перечислены в P-34.1. Замещение допускается во всех структурах, кроме анизола и 
+трет-бутоксигруппы, а муравьиная кислота и формильная группа замещаются с ограничениями.
+
+en: For inorganic parent compounds, see P-67.1.2 and P-67.2.1. Organic functional parent compounds for general 
+nomenclature, see P-34.1.3. 
+ru: Неорганические &(parent compound|*) см. в P-67.1.2 и P-67.2.1. Органические функциональные &(parent compound|*) 
+для общей номенклатуры см. в P-34.1.3.
+
+#P-56
+en: Selecting the preferred suffix for the principal characteristic groups 
+ru: Выбор предпочтительного суффикса для основных &(characteristic group|ro*)
+
+en: Suffixes have always been considered as the most unique elements of the formation of names. In the past, some suffixes 
+have been discarded and replaced by new ones. The following suffixes have been introduced or modified in these 
+recommendations. 
+ru: Суффиксы всегда считались наиболее уникальными элементами образования имён. В прошлом некоторые суффиксы были 
+отброшены и заменены новыми. В данных рекомендациях были введены или изменены следующие суффиксы.
+
+#P-56.1
+en: The suffix ‘peroxol’, for –OOH 
+ru: Суффикс «пероксол» для –OOH
+
+en: It is now recommended to use the sufix ‘peroxol’ to provide substitutive names for hydroperoxides. Such names are 
+preferred to those generated by functional class nomenclature. 
+ru: В настоящее время рекомендуется использовать суффикс «пероксол» для обозначения &(substitutive name|ro*) гидропероксидов. 
+Такие названия предпочтительнее, чем названия, основанные на &(functional class nomenclature|da).
+
+@p .framed
+en: The suffix ‘peroxol’ for –OOH is now adopted to name hydroperoxides, which in previous recommendations were 
+named by functional class nomenclature.  
+ru: Суффикс «пероксол» для –OOH теперь принят для наименования гидропероксидов, которые в предыдущих рекомендациях 
+именовались по &(functional class nomenclature|pr).
+
+@Examples
+
+@cell
+<$ CH3-CH2-OOH $>
+
+en: ethaneperoxol (PIN)  <br>
+ethyl hydroperoxide
+ru: этанпероксол (PIN) <br>
+этилгидропероксид
+
+@End
+
+#P-56.2
+en: The suffixes ‘_SO_-thioperoxol’, and chalogen analogues
+ru: Суффиксы «_SO_-тиопероксол» и халькогенные аналоги
+
+en: The suffix ‘sulfenic acid’ and its chalcogen analogues were discarded in the 1993 recommendations (ref. 2). In these 
+recommendations, these suffixes are replaced by the new suffixes, ‘_SO_-thioperoxol’,  ‘_SeO_-selenoperoxol’, ‘dithioperoxol’, 
+‘_TeS_-tellurothioperoxol’, ‘diselenoperoxol’, ‘_SeTe_-selenotelluroperoxol’ and ‘_TeSe_-telluroselenoperoxol’ (see P-63.4.2.1). 
+ru: Суффикс «&(sulfenic acid)» и её халькогеновые аналоги были исключены в рекомендациях 1993 года (ссылка 2). 
+В этих рекомендациях эти суффиксы заменены новыми: «_SO_-тиопероксол», «_SeO_-селенопероксол», «дитиопероксол», 
+«_TeS_-теллуротиопероксол», «диселенопероксол», «_SeTe_-селенотеллуропероксол» и «_TeSe_-теллуроселенопероксол» (см. P-63.4.2.1).
+
+@p .framed
+en: The suffixes _SO_-thioperoxol and its chalcogen analogues are now introduced to replace the suffix ‘sulfenic acid’ and 
+its chalcogen analogues that were discarded in the 1993 recommendations. 
+ru: Суффиксы _SO_-тиопероксол и его халькогеновые аналоги теперь вводятся для замены суффикса «&(sulfenic acid)» и его 
+халькогеновых аналогов, которые были исключены в рекомендациях 1993 года.
+
+@Examples
+
+@cell
+<$ CH3-S-OH $>
+
+en: methane-_SO_-thioperoxol (PIN)  <br>
+(not methanesulfenic acid)
+ru: метан-_SO_-тиопероксол (PIN) <br>
+(не метансульфеновая кислота)
+
+@cell
+<$ C6H5-SeSe-H $>
+
+en: benzenediselenoperoxol (PIN)  <br>
+(not benzeneselenoselenic acid)
+ru: бензодиселенопероксол (PIN) <br>
+(не бензоселеноселеновая кислота)
+
+@End
+
+#P-56.3
+en: The suffixes ‘imidamide’ and ‘carboximidamide’
+ru: Суффиксы «имидамид» и «карбоксимидамид»
+
+en: The suffixes ‘amidine’ and ‘carboxamidine’, for <%f1%> and <%f2%>, are no longer recommended. 
+They are replaced by the new functional replacement suffixes ‘imidamide’ and ‘carboximidamide’ in preferred IUPAC 
+names (see P-66.4.1). 
+ru: Суффиксы «амидин» и «карбоксамидин» для <%f1%> и <%f2%> больше не рекомендуются. Они заменены новыми функциональными 
+суффиксами «имидамид» и «карбоксимидамид» в предпочтительных наименованиях ИЮПАК (см. P-66.4.1).
+%f1: <$ {}–C(=NH)-NH2 $>
+%f2: <$ {}–(C)(=NH)-NH2 $>
+
+@Examples
+
+@cell
+<$ CH3-C(=NH)-NH2 $>
+  
+en: ethanimidamide (PIN)  <br>
+(no longer acetamidine) 
+ru: этанимидамид (PIN) <br>
+(больше не ацетамидин)
+
+@cell
+<$ C6H11-C(=NH)-NH2 $>
+  
+en: cyclohexanecarboximidamide (PIN)  <br>
+(no longer cyclohexanecarboxamidine) 
+ru: циклогексанкарбоксимидамид (PIN) <br>
+(больше не циклогексанкарбоксамидин)
+
+@End
+
+#P-56.4
+en: The endings ‘diyl’ and ‘ylidene’ vs. ‘ylene’
+ru: Окончания «диил» и «илиден» против «илен»
+
+en: Except for ‘methylene’, ‘ethylene’, and ‘phenylene’, the suffix ‘ylene’ previously used to describe divalent substituent 
+groups in which the free valences do not form a double bond, i.e., –E– or E< was discarded in 1993 (ref. 2). Substituent 
+groups in which the free valences form a double bond, i.e., E= were described by the suffix ‘ylidene’. The suffix ‘ylene’ 
+was replaced by the suffixes ‘diyl’ to express the –E– or E< type of bonding, and ‘ylidene’ for E=, for example, 
+ethane-1,2-diyl for <%f1%> and ethylidene for <%f2%>, respectively. However, the name ‘methylene’ is retained to 
+describe the substituent group <%f3%>; it is used in preferred IUPAC names rather than methanediyl. CAS still use the 
+‘ylene’ suffix to describe the ‘diyl’ and ‘ylidene’ types of bonds, especially ‘methylene’ for <%f3%> and <%f4%>. 
+ru: За исключением «метилен», «этилен» и «фенилен», суффикс «илен», ранее использовавшийся для описания двухвалентных 
+&(substituent group|ro*), в которых свободные валентности не образуют двойную связь, т. е. –E– или E<, был отброшен в 1993 г. 
+(ссылка 2). &(Substituent group|*), в которых свободные валентности образуют двойную связь, т. е. E=, описывались суффиксом 
+«илиден». Суффикс «илен» был заменен суффиксами «диил» для обозначения типа связи –E– или E<, и «илиден» для E=, например, 
+этан-1,2-диил для <%f1%> и этилиден для <%f2%> соответственно. Однако название «метилен» сохранено для описания 
+&(substituent group|ro) <%f3%>; оно используется в предпочтительных названиях ИЮПАК вместо метандиила. В CAS до сих пор 
+используется суффикс «илен» для описания связей типа «диил» и «илиден», особенно «метиленовой» для <%f3%> и <%f4%>.
+%f1: <$ –CH2-CH2– $>
+%f2: <$ H3C-CH= $>
+%f3: <$ –CH2– $>
+%f4: <$ CH2= $>
+
+@Examples 2 .cells-align-top
+
+@cell
+<$ {}–CH2–{} $>
+
+en: methylene (preferred prefix)  <br>
+(not methanediyl)
+ru: метилен (предпочтительный префикс) <br>
+(не метандиил)
+
+@cell
+<$ H2C={} $>
+
+en: methylidene (preferred prefix)  <br>
+(formerly methylene)
+ru: метилиден (предпочтительный префикс) <br>
+(ранее метилен)
+
+@cell
+<$ {}–CH2-CH2–{} $>
+
+en: ethane-1,2-diyl (preferred prefix)  <br>
+ethylene 
+ru: этан-1,2-диил (предпочтительный префикс) <br>
+этилен
+
+@cell
+<$ CH3-CH={} $>
+
+en: ethylidene (preferred prefix)
+ru: этилиден (предпочтительный префикс) 
+
+@cell
+<$ {}–SiH2–{} $>
+
+en: silanediyl (preselected prefix)  <br>
+(not silylene,  <br>
+a name still used by CAS) 
+ru: силандиил (предварительно выбранный префикс) <br>
+(не силилен, <br>
+название до сих пор используется в CAS)
+
+@cell
+<$ H2Ge= $>
+
+en: germylidene (preselected prefix)  <br>
+(not germylene,  <br>
+a name still used by CAS) 
+ru: гермилиден (предварительно выбранный префикс) <br>
+(не гермилен, <br>
+название до сих пор используется в CAS)
+
+@cell
+<$ –BH– $>
+
+en: boranediyl (preselected prefix)  <br>
+(not borylene,  <br>
+a name still used by CAS) 
+ru: борандиил (предварительно выбранный префикс) <br>
+(не борилен, <br>
+название до сих пор используется в CAS)
+
+@cell
+<$ HB={} $>
+
+en: boranylidene (preselected prefix)  <br>
+(not borylene,  <br>
+a name still used by CAS)
+ru: боранилиден (предварительно выбранный префикс) <br>
+(не борилен, <br>
+название до сих пор используется в CAS)
+
+@cell
+<$ –SbH– $>
+
+en: stibanediyl (preselected prefix)  <br>
+(not stibinediyl)  <br>
+(not stibylene,  <br>
+a name still used by CAS) 
+ru: стибандиил (предварительно выбранный префикс) <br>
+(не стибинедиил) <br>
+(не стибилен, <br>
+название до сих пор используется в CAS)
+
+@cell
+<$ HSb={} $>
+
+en: stibanylidene (preselected prefix)  <br>
+(not stibinylidene)  <br>
+(not stibylene,  <br>
+a name still used by CAS) 
+ru: стибанилиден (предварительно выбранный префикс) <br>
+(не стибинилиден) <br>
+(не стибилен, <br>
+название до сих пор используется в CAS)
+
+@cell colspan=2
+<$ {}–NH-CO-NH–{} $>
+
+en: carbonylbis(azanediyl) [preferred prefix,  <br>
+a name used in multiplicative nomenclature; (see P-66.1.6.1.1.3)]  <br>
+(not carbonyldiimino,  <br>
+a name still used by CAS)  <br>
+(not ureylene) 
+ru: карбонилбис(азандиил) [предпочтительный префикс, <br>
+название, используемое в мультипликативной номенклатуре; (см. P-66.1.6.1.1.3)] <br>
+(не карбонилдиимино, <br>
+название, до сих пор используемое в CAS) <br>
+(не уреилен)
+
+@End

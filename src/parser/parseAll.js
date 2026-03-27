@@ -13,6 +13,8 @@ const parseAll = async (mainFolder, doc) => {
 
   // Create links to headers
   linkBlocks(doc.blocks, doc);
+
+  console.log("Formulas count: ", doc.formulasCount)
 }
 
 const linkBlocks = (blocks, doc) => {
@@ -45,7 +47,7 @@ const linkPart = (part, doc) => {
 }
 
 const linkChunks = (chunks, doc) => {
-  const {headersMap} = doc;
+  const {headersMap, tablesMap} = doc;
   let i=0; 
   while (i<chunks.length) {
     const chunk = chunks[i++];
@@ -53,9 +55,12 @@ const linkChunks = (chunks, doc) => {
       const {content} = chunk;
       const res = rxPartReference.exec(content);
       if (res) {
-        const hdrId = res[0];
-        const left = content.slice(0, res.index);
-        const right = content.slice(res.index + hdrId.length);
+        let hdrId = res[0];
+        // Таки сложности потому что кроме конструкций P-xxx есть SP-xxx, которые не являются ссылками
+        const ofs = hdrId.indexOf("P");
+        hdrId = hdrId.slice(ofs);
+        const left = content.slice(0, res.index+ofs);
+        const right = content.slice(res.index + ofs + hdrId.length);
         chunks.splice(i-1, 1, {
           type: "text",
           content: left,
@@ -63,6 +68,49 @@ const linkChunks = (chunks, doc) => {
           type: "refHdr",
           content: hdrId,
           part: headersMap[hdrId],
+        }, {
+          type: "text",
+          content: right,
+        });
+        i++;
+      }
+    }
+  }
+  i=0;
+  while (i<chunks.length) {
+    const chunk = chunks[i++];
+    if (chunk.type === "text") {
+      const {content} = chunk;
+      let index=0;
+      let fullName = "";
+      let tableNumber = "";
+      let srcLength = 0;
+      const res1 = /Table ([\d\.]+)/.exec(content);
+      if (res1) {
+        fullName = res1[0];
+        srcLength = fullName.length;
+        tableNumber = res1[1];
+        index = res1.index;
+      } else {
+        const res2 = /&\[([^\s\d]*\s*([\d\.]+))\]/.exec(content);
+        if (res2) {
+          index = res2.index;
+          srcLength = res2[0].length;
+          fullName = res2[1];
+          tableNumber = res2[2];
+        }
+      }
+      if (tableNumber) {
+        const left = content.slice(0, index);
+        const right = content.slice(index + srcLength);
+        chunks.splice(i-1, 1, {
+          type: "text",
+          content: left,
+        }, {
+          type: "refTable",
+          content: fullName,
+          tableNumber,
+          part: tablesMap[tableNumber],
         }, {
           type: "text",
           content: right,

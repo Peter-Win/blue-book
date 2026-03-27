@@ -252,21 +252,21 @@ en: Retained names of heteromonocycles
 ru: Сохранённые названия гетеромоноциклов
 
 en: Retained names for ‘mancude’ heteromonocycles and their chalcogen analogues are listed in Table 2.2. 
-ru: Сохранённые названия для гетеромоноциклов «mancude» и их халькогенных аналогов приведены в таблице 2.2.
+ru: Сохранённые названия для гетеромоноциклов «&(mancude)» и их халькогенных аналогов приведены в &[таблице 2.2].
 
 @p .left-offset
 en: **Note**: The term ‘mancude’ is an acronym for MAximum number of NonCUmulative DoublE bonds. 
-ru: **Примечание**: Термин «mancude» является аббревиатурой от МАКСИМАЛЬНОЕ количество некумулятивных двойных связей.
+ru: **Примечание**: Термин «&(mancude)» является аббревиатурой от МАксимальное количество НеКумулятивных Двойных связей.
 
 en: The name ‘pyran’ is modified by functional replacement nomenclature to generate names for chalcogen analogues. 
 ru: Название «пиран» изменено с помощью функциональной замещающей номенклатуры для генерации названий аналогов халькогена.
 
 en: Retained names for saturated heteromonocycles are given in Table 2.3. 
-ru: Сохранённые названия насыщенных гетеромоноциклов приведены в таблице 2.3.
+ru: Сохранённые названия насыщенных гетеромоноциклов приведены в &[таблице 2.3].
 
 @Table 2.2 
 en: Retained names of mancude heteromonocyclic parent hydrides
-ru: Сохраненные названия манкудных гетеромоноциклических исходных гидридов
+ru: Сохраненные названия &(mancude)-гетеромоноциклических исходных гидридов
 
 @td; colspan=2
 <$
@@ -589,7 +589,7 @@ those having the maximum number of noncumulative double bonds (mancude compounds
 bond. The presence of a single heteroatom determines the numbering in a monocyclic compound; the heteroatom has 
 the locant ‘1’ and the numbering usually proceeds clockwise, when unsubstituted. 
 ru: Названия Ганча-Видмана образуются путем объединения скелетного замещающего префикса (‘a’) для гетероатома (гетероатомов) 
-(таблица 2.4) с основой, указывающей размер кольца и степень гидрирования (таблица 2.5). Конечная гласная ‘a’ 
+(&[таблица 2.4]) с основой, указывающей размер кольца и степень гидрирования (&[таблица 2.5]). Конечная гласная ‘a’ 
 между префиксами ‘a’ и между префиксом ‘a’ и основой опускается. Ненасыщенные соединения — это те, которые имеют 
 максимальное количество некумулятивных двойных связей (соединений mancude) и по крайней мере одну двойную связь. 
 Наличие одного гетероатома определяет нумерацию в моноциклическом соединении; гетероатом имеет локант ‘1’, и нумерация 
@@ -941,7 +941,7 @@ ru: талла
 
 @p .centred
 en: ^{1} Compare with Table 1.5
-ru: ^{1} Сравните с таблицей 1.5
+ru: ^{1} Сравните с &[таблицей 1.5]
 
 @Table 2.5 
 en: Hantzsch-Widman system stems
@@ -1214,7 +1214,7 @@ ru: 1,6,2-диоксазепан (PIN) <br>
 en: If there is a further choice, lowest locants are assigned to heteroatoms in the order that they appear in the seniority 
 sequence (see Table 2.4). 
 ru: Если есть дальнейший выбор, самые низкие локанты присваиваются гетероатомам в том порядке, в котором они появляются 
-в последовательности старшинства (см. Таблицу 2.4).
+в последовательности старшинства (см. &[Таблицу 2.4]).
 
 @Examples
 
@@ -1283,7 +1283,7 @@ ru: Выбор названий Ганча-Видмана для 3-, 4- или 5
 
 en: As shown in Table 2.5, for mancude three-membered rings and saturated three-, four-, and five-membered rings two 
 stems are recommended. They are used as follows to generate preferred IUPAC names:
-ru: Как показано в Таблице 2.5, для манкудных трехчленных колец и насыщенных трех-, четырех- и пятичленных колец 
+ru: Как показано в &[Таблице 2.5], для манкудных трехчленных колец и насыщенных трех-, четырех- и пятичленных колец 
 рекомендуются две основы. Они используются следующим образом для создания предпочтительных названий ИЮПАК:
 
 #P-22.2.2.1.5.1+
@@ -1379,7 +1379,7 @@ unsaturated and for the saturated compound (Table 2.5). The stem is selected in 
 least senior heteroatom belongs.
 ru: Основа шестичленных колец зависит от наименее старшего гетероатома в кольце, то есть гетероатома, имя которого 
 непосредственно предшествует основе. Гетероатомы делятся на три группы, A, B и C, каждая из которых соответствует 
-основе для ненасыщенного и для насыщенного соединения (таблица 2.5). Основа выбирается в соответствии с группой, 
+основе для ненасыщенного и для насыщенного соединения (&[таблица 2.5]). Основа выбирается в соответствии с группой, 
 к которой принадлежит наименее старший гетероатом.
 
 @Examples
@@ -1523,7 +1523,7 @@ front of the name of the corresponding cycloalkane or annulene, and, when more t
 following decreasing seniority order: F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > 
 B > Al > Ga > In > Tl. For numbering, see P-22.2.3.2. The selection of preferred IUPAC names is discussed in P-52.2.3.
 ru: Названия скелетных замещающих («а») соединений путем размещения префиксов скелетных замещающих («а») соединений 
-(см. Таблицу 2.4) перед названием соответствующего циклоалкана или аннулена, и, если присутствует более одного гетероатома, 
+(см. &[Таблицу 2.4]) перед названием соответствующего циклоалкана или аннулена, и, если присутствует более одного гетероатома, 
 в следующем порядке убывания старшинства: 
 F > Cl > Br > I > O > S > Se > Te > N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl. 
 Для нумерации см. P-22.2.3.2. Выбор условий, названных ИЮПАК, обсуждается в P-52.2.3.
@@ -2035,6 +2035,6 @@ O@n(1,-90,.6)\@n(2,-30)|@n(3,30)`/S<_(y.5)H2>@n(4,-90,.6)`\@n(5,90,.5)`/`\`/`\`|
 $>
 
 en: 1-oxa-4λ^{4},12-dithiacyclotetradecane (PIN)
-ru: 1-окса-4λ^{4},12-дитиациклотетрадекан (PIN)
+en: 1-окса-4λ^{4},12-дитиациклотетрадекан (PIN)
 
 @End

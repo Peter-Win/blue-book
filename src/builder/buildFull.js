@@ -1,5 +1,6 @@
 const path = require("node:path");
-const {copyFile, writeFile} = require("node:fs/promises");
+const fs = require("node:fs");
+const {copyFile, writeFile, readFile, access} = fs.promises; // require("node:fs/promises");
 const {buildBlock} = require("./buildBlock");
 const {translate} = require("../dictionary");
 
@@ -13,6 +14,9 @@ const buildFull = async (doc, rootPath) => {
   )));
   const ctx = {
     doc,
+    terms: {}, // locale => terms dictionary
+    goodRefs: 0,
+    badRefs: 0,
     makeRef(refId) {
       // Вариант урла, который включает только якорь. То есть, предполагается что весь текст на одной странице.
       return "#" + encodeURIComponent(refId);
@@ -23,7 +27,30 @@ const buildFull = async (doc, rootPath) => {
   )));
 }
 
+const isFileExists = async (fullName) => {
+    try {
+        await access(fullName, fs.constants.F_OK)
+        return true
+    } catch (e) {
+        if (e.code === 'ENOENT') {
+            return false
+        }
+        throw e
+    }
+}
+
+const loadTerms = async (locale) => {
+  const fullName = path.normalize(path.join(__dirname, "..", `terms.${locale}.json`));
+  console.log("terms dictionary:", fullName);
+  if (!await isFileExists(fullName)) {
+    return {};
+  }
+  const text = await readFile(fullName, {encoding: "utf-8"});
+  return JSON.parse(text);
+}
+
 const buildLocal = async (locale, ctx, fullName) => {
+  ctx.terms = await loadTerms(locale);
   const {doc} = ctx;
   const textBlocks = doc.blocks.map(block => buildBlock(block, locale, ctx));
   const content = template({
@@ -31,6 +58,14 @@ const buildLocal = async (locale, ctx, fullName) => {
     body: textBlocks.join("\n"),
   });
   await writeFile(fullName, content, {encoding: "utf-8"});
+  const stat = (a, b) => {
+    const sum = a + b;
+    if (!sum) return "-";
+    return `${a} (${(a*100/sum).toFixed(2)}%)`
+  }
+  if (locale==="en") {
+    console.log(`good refs= ${stat(ctx.goodRefs, ctx.badRefs)}, bad refs= ${stat(ctx.badRefs, ctx.goodRefs)}`);
+  }
 }
 
 const template = ({title, body}) => `<!doctype html>
@@ -43,7 +78,7 @@ const template = ({title, body}) => `<!doctype html>
   <script src="./charchem2.js"></script>
   <script src="./blue-book.js"></script>
 </head>
-<body class="echem-auto-compile">
+<body class="-echem-auto-compile">
 ${body}
 </body>
 </html>

@@ -1,0 +1,1266 @@
+#P-63.3
+en: Peroxides and chalcogen analogues 
+ru: Пероксиды и аналоги халькогенов
+
+#P-63.3.1
+en: Peroxides, disulfides, diselenides, and ditellurides 
+ru: Пероксиды, дисульфиды, диселениды и дителлуриды
+
+en: Compounds with the general structures R-OO-R′, R-SS-R′, R-SeSe-R′, and R-TeTe-R′ are named in the following 
+ways: 
+ru: Соединения с общими структурами R-OO-R′, R-SS-R′, R-SeSe-R′ и R-TeTe-R′ называются следующим образом:
+
+@List 1
+
+@item
+en: substitutively, by combining the prefix name for R′ additively with ‘peroxy’ giving the prefixes ‘R′-peroxy’ (not 
+R′-dioxy), ‘R′-disulfanyl’, ‘R′-diselanyl’ or ‘R′-ditellanyl’ attached to the name of the parent hydride 
+corresponding to R; 
+ru: замещающим образом, путем аддитивного сочетания префикса R′ с «перокси», что дает префиксы «R′-перокси» 
+(а не R′-диокси), «R′-дисульфанил», «R′-диселанил» или «R′-дителланил», присоединяемые к названию &(parent hydride|ro), 
+соответствующего R;
+
+@item
+en:  by functional class nomenclature by citing the names of the groups R and R′, in alphanumerical order if two 
+different groups are present, and the class name, peroxide, disulfide, diselenide, or ditelluride, respectively, as a 
+separate word (class names such as dithioperoxide are not recommended); 
+ru: по &(functional class nomenclature|pr), указывая названия групп R и R′ в буквенно-цифровом порядке, если присутствуют 
+две разные группы, и название класса, пероксид, дисульфид, диселенид или дителлурид, соответственно, в виде 
+отдельного слова (названия классов, такие как дитиопероксид, не рекомендуются);
+
+@item
+en: by multiplicative nomenclature, using the preferred prefixes disulfanediyl, –SS–, diselanediyl, –SeSe–, and 
+ditellanediyl, –TeTe–, respectively; dithio, diseleno, and ditelluro may be used in general nomenclature;
+ru: с помощью &(multiplicative nomenclature|ro), используя предпочтительные префиксы: дисульфанедиил, –SS–, 
+диселендиил, –SeSe–, и дителланедиил, –TeTe–, соответственно; в общей номенклатуре могут использоваться дитио, 
+диселено и дителлуро;
+
+@item
+en: by skeletal replacement (‘a’) nomenclature; 
+ru: с помощью номенклатуры &(skeletal replacement a|ro);
+
+@item
+en: by phane nomenclature. 
+ru: с помощью &(phane nomenclature|ro).
+
+@End
+
+en: Names formed by substituting the parent hydrides dioxidane, disulfane, diselane, and ditellane HOOH, HSSH, HSeSeH, 
+and HTeTeH, respectively, by the appropriate substituent groups are not recommended. 
+ru: Не рекомендуется использовать названия, образованные заменой соответствующих замещающих групп в &(parent hydride|pr*) 
+диоксидане, дисульфане, дизелане и дителлане HOOH, HSSH, HSeSeH и HTeTeH соответственно.
+
+en: Method (1), substitutive nomenclature, gives preferred IUPAC names; methods (3), (4), or (5) generate preferred 
+IUPAC names when the conditions for their use are satisfied. 
+ru: Метод (1), &(substitutive nomenclature), дает предпочтительные названия по номенклатуре ИЮПАК; методы (3), (4) 
+или (5) генерируют предпочтительные названия по номенклатуре ИЮПАК, когда выполняются условия их использования.
+
+@Examples
+
+@cell
+<$ CH3-CH2-OO-CH3 $>
+  
+en: (1) (methylperoxy)ethane (PIN)  <br>
+(2) ethyl methyl peroxide 
+ru: (1) (метилперокси)этан (PIN) <br>
+(2) этилметилпероксид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2,90)<`|CH3@n(3)>-OO-CH3
+$>
+
+en: (1) 2-(methylperoxy)propane (PIN)  <br>
+(2) isopropyl methyl peroxide  <br>
+methyl 1-methylethyl peroxide
+ru: (1) 2-(метилперокси)пропан (PIN) <br>
+(2) изопропилметилпероксид <br>
+метил-1-метилэтилпероксид
+
+@cell
+<$ CH3-SS-CH3 $>
+  
+en: (1) (methyldisulfanyl)methane (PIN)  <br>
+(2) dimethyl disulfide
+ru: (1) (метилдисульфанил)метан (PIN) <br>
+(2) диметилдисульфид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH<`|CH3>-SeSe-CH2@n(1)-CH2@n(2)-CH3@n(3)
+$>
+
+en: (1) 1-[(propan-2-yl)diselanyl]propane (PIN)  <br>
+(2) isopropyl propyl diselenide  <br>
+1-methylethyl propyl diselenide 
+ru: (1) 1-[(пропан-2-ил)дизеланил]пропан (PIN) <br>
+(2) изопропилпропилдиселенид <br>
+1-метилэтилпропилдиселенид
+
+@cell
+<$ CH3-CH2-O`O-/=\`//`-`\\ $>
+
+en: (1) (ethylperoxy)benzene (PIN)  <br>
+(2) ethyl phenyl peroxide
+ru: (1) (этилперокси)бензол (PIN) <br>
+(2) этилфенилпероксид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-SS-CH2@n(2)-CH2@n(1)-SeSe-CH3
+$>
+
+en: (1) 1-(methyldiselanyl)-2-(methyldisulfanyl)ethane (PIN)  <br>
+1-(methyldiseleno)-2-(methyldithio)ethane
+ru: (1) 1-(метилдиселанил)-2-(метилдисульфанил)этан (PIN) <br>
+1-(метилдиселено)-2-(метилдитио)этан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-SeSe-SiH2@n(1)-SiH2@n(2)-TeTe-CH3
+$>
+
+en: (1) 1-(methyldiselanyl)-2-(methylditellanyl)disilane (PIN)  <br>
+(disilane is a preselected name, see P-12.2)  <br>
+1-(methyldiseleno)-2-(methylditelluro)disilane 
+ru: (1) 1-(метилдиселанил)-2-(метилдителланил)дисилан (PIN) <br>
+(дисилан — это предварительно выбранное название, см. P-12.2) <br>
+1-(метилдиселено)-2-(метилдителлуро)дисилан
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1',-120)/=\@n(4',-60)<`//`-`\\>-O-O-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-COOH
+$>
+
+en: (3) 4,4′-peroxydibenzoic acid (PIN) <br> 
+4-[(4-carboxyphenyl)peroxy]benzoic acid 
+ru: (3) 4,4′-пероксидибензойная кислота (PIN) <br>
+4-[(4-карбоксифенил)перокси]бензойная кислота
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-@n(1',-120)/=\@n(4',-60)<`//`-`\\>-S-S-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-OH
+$>
+
+en: (3) 4,4′-disulfanediyldiphenol (PIN)  <br>
+4,4′-dithiodiphenol
+ru: (3) 4,4′-дисульфандиилдифенол (PIN) <br>
+4,4′-дитиодифенол
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-CH2@n(3)-S@n(4)-S@n(5)-CH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH2@n(10,-80)-S@n(11)-CH3@n(12,-80)
+$>
+
+en: (4) 2,4,5,8,11-pentathiadodecane (PIN)  
+ru: (4) 2,4,5,8,11-пентатиадодекан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)|`//@btc(1)`\`||/\\@n(1,140)/S@bt(2)@:cy(n)\@n(1,30)/@btc(&n)\\@n(3,140)<|`//`\`||>/@(3)#
+S@bt(4,-90)_(A0)S@bt(5)@cy(6)S@bt(7)\@n(1,30)/@btc(8)\\|`//`\`||
+$>
+
+en: (5) 2,4,5,7-tetrathia-1,8(1),3,6(1,3)-tetrabenzenaoctaphane (PIN)
+ru: (5) 2,4,5,7-тетратиа-1,8(1),3,6(1,3)-тетрабензенаоктафан (PIN)
+
+@End
+
+#P-63.3.2
+en: Mixed chalcogen analogues of peroxides
+ru: Смешанные халькогеновые аналоги пероксидов
+
+en: Mixed chalcogen structures such as R-XY-R′ or R-YX-R′ in which X and Y are O, S, Se, or Te atoms are named by 
+three methods: 
+ru: Смешанные халькогенные структуры, такие как R-XY-R′ или R-YX-R′, в которых X и Y — атомы O, S, Se или Te, 
+называются тремя способами:
+
+@List 1
+
+@item
+en: by prefixing the names of the substituent groups <%o%>, <%s%>, <%se%>, or <%te%>, i.e., R′-oxy, R′-sulfanyl,  
+R′-selanyl, and R′-tellanyl, respectively, to ‘oxy’, ‘sulfanyl’, ‘selanyl’, or ‘tellanyl’ and then to the appropriate 
+parent hydride name. The prefixes R′-sulfanyl, R′-selanyl, and R′-tellanyl are compulsory prefixes and can be 
+attached to any atom of any parent hydride; multiplicative nomenclature is used when the conditions for its use 
+are fulfilled;
+ru: путем добавления префиксов к названиям замещающих групп <%o%>, <%s%>, <%se%> или <%te%>, т.е. R′-окси, R′-сульфанил, 
+R′-селанил и R′-телланил соответственно, к «окси», «сульфанил», «селанил» или «телланил», а затем к соответствующему 
+названию &(parent hydride|ro). Префиксы R′-сульфанил, R′-селанил и R′-телланил являются обязательными и могут быть 
+присоединены к любому атому любого &(parent hydride|ro); &(multiplicative nomenclature) используется, когда выполняются 
+условия ее использования;
+%o: <${R′}-O-{}$>
+%s: <${R′}-S–{}$>
+%se: <${R′}-Se–{}$>
+%te: <${R′}-Te–{}$>
+
+@item
+en: by citing the prefix names of the groups R and R′, in alphanumerical order, followed by an appropriate class 
+name ‘thioperoxide’, ‘diselenoperoxide’, ‘selenothioperoxide’, etc. Each prefix R and R′ is preceded by a capital 
+italicized letter locant, as appropriate; 
+ru: путем &(citation|ro) префиксных названий групп R и R′ в алфавитно-цифровом порядке, за которыми следует 
+соответствующее название класса: «тиопероксид», «диселенопероксид», «селенотиопероксид» и т. д. Каждому префиксу R и R′ 
+предшествует, при необходимости, заглавная курсивная буква, обозначающая местоположение;
+
+@item
+en:  by skeletal replacement (‘a’) nomenclature or phane nomenclature, when the conditions for its use are fulfilled.
+ru: посредством номенклатуры &(skeletal replacement a|ro) или &(phane nomenclature|ro), когда выполняются условия для 
+её использования.
+
+@End
+
+en: Methods (1) and (3) lead to preferred IUPAC names.  
+ru: Методы (1) и (3) приводят к предпочтительным названиям IUPAC.
+
+@Examples
+
+@cell
+<$ CH3-CH2-OS-CH3 $>
+  
+en: (1) [(methylsulfanyl)oxy]ethane (PIN)  <br>
+(2) _O_-ethyl _S_-methyl thioperoxide  <br>
+[not ethyl methanesulfenate]
+ru: (1) [(метилсульфанил)окси]этан (PIN) <br>
+(2) _O_-этил _S_-метилтиопероксид <br>
+[не этилметансульфенат]
+
+@cell
+<$ |`/`\`|/\_q6S-O-CH3 $>
+
+en: (1) (methoxysulfanyl)cyclohexane (PIN)  <br>
+(2) _S_-cyclohexyl _O_-methyl thioperoxide  <br>
+(not methyl cyclohexanesulfenate) 
+ru: (1) (метоксисульфанил)циклогексан (PIN) <br>
+(2) _S_-циклогексил _O_-метилтиопероксид <br>
+(не метилциклогексансульфенат)
+
+@cell
+<$ `//`-`\\/=\-Se-Te-/=\`//`-`\\ $>
+
+en: (1) [(phenylselanyl)tellanyl]benzene (PIN)  <br>
+{not [(phenyltellanyl)selanyl]benzene;  <br>
+phenylselan... is lower alphabetically than phenyltellan... (see P-14.5)}  <br>
+(2) diphenyl selenotelluroperoxide  <br>
+(not diphenyl telluroselenoperoxide;  <br>
+not phenyl benzenetelluroselenate) 
+ru: (1) [(фенилселанил)телланил]бензол (PIN) <br>
+{не [(фенилтелланил)селанил]бензол; <br>
+фенилселанил... расположен ниже в алфавитном порядке, чем фенилтеллан... (см. P-14.5)} <br>
+(2) дифенилселенотеллуропероксид <br>
+(не дифенилтеллуроселенопероксид; <br>
+не фенилбензентеллуроселенат)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-CH2@n(3)-S@n(4)-S@n(5)-CH2@n(6)-CH2@n(7)-S@n(8)-CH2@n(9)-CH2@n(10,-80)-Se@n(11)-CH3@n(12,-80)
+$>
+
+en: (3) 2,4,5,8-tetrathia-11-selenadodecane (PIN)  <br>
+[not (methylsufanyl)methyl 2-{[2-(methylselanyl)ethyl]sulfanyl}ethanesufenothioate] 
+ru: (3) 2,4,5,8-тетратиа-11-селенадодекан (PIN) <br>
+[не (метилсульфанил)метил 2-{[2-(метилселанил)этил]сульфанил}этансульфенотиоат]
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.6)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,120,%L)@;
+$L(%L:1)|`//@btc(1)`\`||/\\@n(1,140)/S@bt(2)@:cy(n)\@n(1,30)/@btc(&n)\\@n(3,140)<|`//`\`||>/@(3)#
+S@bt(4,-90)_(A0)S@bt(5)@cy(6)Te@bt(7)\@n(1,30)/@btc(8)\\|`//`\`||
+$>
+
+en: (2) 2,4,5-trithia-7-tellura-1,8(1),3,6(1,3)-tetrabenzenaoctaphane(PIN) <br>
+[not 3-(phenylsulfanyl)phenyl 3-(phenyltellanyl)benzenesulfenothioate] 
+ru: (2) 2,4,5-тритиа-7-теллура-1,8(1),3,6(1,3)-тетрабензенаоктафан(PIN) <br>
+[не 3-(фенилсульфанил)фенил 3-(фенилтелланил)бензенсульфенотиоат]
+
+@End
+
+
+#P-63.4
+en: Hydroperoxides (peroxols) and chalcogen analogues 
+ru: Гидропероксиды (пероксолы) и халькогеновые аналоги
+
+#P-63.4.1
+en: Hydroperoxides
+ru: Гидропероксиды
+
+@p .framed
+en: The suffix ‘peroxol’ is now introduced to name the group –OOH, formerly named by functional class nomenclature as 
+‘hydroperoxide’. Chalcogen analogues are names by suffixes such as ‘thioperoxol’, ‘dithioperoxol’, ‘selenoperoxol’, 
+and ‘selenothioperoxol’. 
+ru: Суффикс «пероксол» теперь используется для обозначения группы –OOH, ранее обозначавшейся в 
+&(functional class nomenclature|pr) как «гидропероксид». Аналоги халькогенов обозначаются суффиксами, такими как 
+«тиопероксол», «дитиопероксол», «селенопероксол» и «селенотиопероксол».
+
+en: Compounds with the general structure R-OOH are called generically ‘hydroperoxides’. The class name ‘peroxols’ could 
+be more appropriate. They are named in two ways when the –OOH group is the principal characteristic group. 
+ru: Соединения с общей структурой R-OOH обычно называют «гидропероксидами». Более подходящим было бы название класса «пероксолы». 
+Когда основной характеристической группой является группа –OOH, их называют двумя способами.
+
+@List 1
+
+@item
+en: substitutively using the suffix ‘peroxol’; 
+ru: замещающим образом, используя суффикс «пероксол»;
+
+@item
+en: by functional class nomenclature using the class name ‘hydroperoxide’. 
+ru: по &(functional class nomenclature|pr), используя название класса «гидропероксид».
+
+@End
+
+en: The prefix ‘peroxy’, not ‘dioxy’, is retained for the group –OO– (see P-63.3.1). The prefix ‘hydroperoxy’ is formed by 
+concatenation to describe the group –OOH as a substituent in the presence of a characteristic group having priority for 
+citation as a suffix. Method (1) leads to preferred IUPAC names. 
+ru: Для группы –OO– сохраняется префикс «перокси», а не «диокси» (см. P-63.3.1). Префикс «гидроперокси» образуется путем 
+конкатенации для описания группы –OOH в качестве &(substituent|ro) при наличии &(characteristic group|ro), 
+имеющей приоритет при &(citation|pr) в качестве суффикса. Метод (1) приводит к предпочтительным названиям IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OOH|@n(1,-30)\@n(2,-30)|@n(3,30)`/@n(4,90)`\`|</>`\\`/||\//
+$>
+
+en: (1) 1,2,3,4-tetrahydronaphthalene-1-peroxol (PIN)  <br>
+(2) 1,2,3,4-tetrahydronaphthalen-1-yl hydroperoxide 
+ru: (1) 1,2,3,4-тетрагидронафтален-1-пероксол (PIN) <br>
+(2) 1,2,3,4-тетрагидронафтален-1-ил гидропероксид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOO-CH2@n(2)-CO@n(1)-C6H5
+$>
+
+en: 2-hydroperoxy-1-phenylethan-1-one (PIN) 
+ru: 2-гидроперокси-1-фенилэтан-1-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N-CH2@n(4)-CH2@n(3)-C@n(2,-125,.6)<|CH3><-COOH>`|CH3@n(1)
+$>
+
+en: (1) 4-(dimethylamino)-2-methylbutane-2-peroxol (PIN)  <br>
+(2) 4-(dimethylamino)-2-methylbutan-2-yl hydroperoxide  <br>
+3-(dimethylamino)-1,1-dimethylpropyl hydroperoxide
+ru: (1) 4-(диметиламино)-2-метилбутан-2-пероксол (PIN) <br>
+(2) 4-(диметиламино)-2-метилбутан-2-ил гидропероксид <br>
+3-(диметиламино)-1,1-диметилпропил гидропероксид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_qN<_q_q>@n(1)-OOH
+$>
+
+en: (1) pyrrolidine-1-peroxol (PIN)  <br>
+(2) pyrrolidin-1-yl hydroperoxide 
+ru: (1) пирролидин-1-пероксол (PIN) <br>
+(2) пирролидин-1-ил гидропероксид
+
+@End
+
+#P-63.4.2
+en: Chalcogen analogues of hydroperoxides 
+ru: Халькогеновые аналоги гидропероксидов
+
+#P-63.4.2.1+
+en: Compounds having the general structure R-SOH or R-OSH are called generically ‘thioperoxols’ or 
+‘thiohydroperoxides’. Similarly, compounds R-SeOH or R-OSeH and R-TeOH or R-OTeH, are called ‘selenoperoxols’ 
+or ‘selenohydroperoxides’, and ‘telluroperoxols’ or ‘tellurohydroperoxides’, respectively. When representing the 
+principal function, they are named by two methods.
+ru: Соединения, имеющие общую структуру R-SOH или R-OSH, в общем виде называются «тиопероксолами» или 
+«тиогидропероксидами». Аналогично, соединения R-SeOH или R-OSeH и R-TeOH или R-OTeH называются «селенопероксолами» 
+или «селеногидропероксидами» и «теллуропероксолами» или «теллурогидропероксидами» соответственно. При указании основной 
+функции они обозначаются двумя способами.
+
+@List 1
+
+@item
+en:  by substitutive nomenclature and the appropriate suffix listed in Table 6.1 formed by functional replacement, to 
+denote a principal function; 
+ru: с помощью &(substitutive nomenclature|ro) и соответствующего суффикса, указанного в &[Таблице 6.1], образованного путем 
+функциональной замены, для обозначения основной функции;
+
+@item
+en: by functional class nomenclature using the name of the class ‘thiohydroperoxide’, ‘selenohydroperoxide’ or 
+‘tellurohydroperoxide’. When required, the prefixes, ‘thio’, ‘seleno’ and ‘telluro’ are placed in alphabetical 
+order, for example, ‘selenothiohydroperoxide’, etc., and the locants O, S, Se, or Te are used to designate the 
+bonding of the R– group; when two atoms of the same element are present the class name ‘disulfide’, 
+‘diselenide’, or ‘ditelluride’ is used. 
+ru: В &(functional class nomenclature|pr) используется название класса «тиогидропероксид», «селеногидропероксид» или 
+«теллурогидропероксид». При необходимости префиксы «тио», «селено» и «теллуро» располагаются в алфавитном порядке, например, 
+«селенотиогидропероксид» и т. д., а для обозначения связи R– группы используются локанты O, S, Se или Te; при наличии двух 
+атомов одного и того же элемента используется название класса «дисульфид», «диселенид» или «дителлурид».
+
+@End
+
+@p .framed
+en: Compounds of the type R-SOH, R-SeOH and R-TeOH and their chalcogen analogues were previously named 
+sulfenic, selenenic and tellurenic acids, using the suffixes ‘sulfenic acid’, ‘selenenic acid’, and ‘tellurenic acid’, 
+respectively.
+ru: Соединения типа R-SOH, R-SeOH и R-TeOH, а также их халькогенные аналоги ранее назывались сульфеновой, селениновой 
+и теллуреновой кислотами с использованием суффиксов «&(sulfenic acid)», «селениновая кислота» и «теллуреновая кислота» 
+соответственно.
+
+en: Method (1) generates preferred IUPAC names.
+ru: Метод (1) генерирует предпочтительные названия IUPAC.
+
+@Table 6.1
+en: Suffixes denoting peroxols (hydroperoxides) modified by functional replacement nomenclature
+ru: Суффиксы, обозначающие пероксолы (гидропероксиды), модифицированные с помощью &(functional replacement nomenclature|ro).
+
+en: (in decreasing order of seniority as the principal group) 
+ru: (в порядке убывания старшинства в качестве основной группы)
+
+@td
+–S-OH
+
+@td
+en: -_SO_-thioperoxol
+ru: -_SO_-тиопероксол
+
+@td
+
+@td
+–Se-SH
+
+@td;
+en: -_SeS_-selenothioperoxol
+ru: -_SeS_-селенотиопероксол
+
+@td
+–Se-OH
+
+@td
+en: -_SeO_-selenoperoxol
+ru: -_SeO_-селенопероксол
+
+@td
+
+@td
+–Te-SH
+
+@td
+en: -_TeS_-tellurothioperoxol
+ru: -_TeS_-теллуротиопероксол
+
+@td
+–Te-OH
+
+@td
+en: -_TeO_-telluroperoxol 
+ru: -_TeO_-теллуропероксол
+
+@td
+
+@td
+–S-SeH
+
+@td
+en: -_SSe_-selenothioperoxol
+ru: -_SSe_-селенотиопероксол
+
+@td
+–O-SH
+
+@td
+en: -_OS_-thioperoxol
+ru: -_OS_-тиопероксол
+
+@td
+
+@td
+–S-TeH
+
+@td
+en: -_STe_-tellurothioperoxol
+ru: -_STe_-теллуротиопероксол
+
+@td
+–O-SeH
+
+@td
+en: -_OSe_-selenoperoxol
+ru: -_OSe_-селенопероксол
+
+@td
+
+@td
+–Se-SeH
+
+@td
+en: -diselenoperoxol
+ru: -диселенопероксол
+
+@td
+–O-TeH
+
+@td
+en: -_OTe_-telluroperoxol 
+ru: -_OTe_-теллуропероксол 
+
+@td
+
+@td
+–Te-SeH
+
+@td
+en: -_TeSe_-selenotelluroperoxol
+ru: -_TeSe_-селенотеллуропероксол
+
+@td
+–S-SH
+
+@td
+en: -dithioperoxol 
+ru: -дитиопероксол
+
+@td
+
+@td
+–Se-TeH
+
+@td
+en: -_SeTe_-selenotelluroperoxol
+ru: -_SeTe_-селенотеллуропероксол
+
+@td
+
+@td
+
+@td
+
+@td
+–Te-TeH
+
+@td
+en: -ditelluroperoxol
+ru: -дителлуропероксол
+
+@EndTable
+
+@Examples
+
+@cell
+<$ CH3-SOH $>
+
+en: (1) methane-_SO_-thioperoxol (PIN)  <br>
+(2) _S_-methyl thiohydroperoxide  <br>
+(no longer methanesulfenic acid) 
+ru: (1) метан-_SO_-тиопероксол (PIN) <br>
+(2) _S_-метилтиогидропероксид <br>
+(больше не метансульфеновая кислота)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH2@n(1)-OSH
+$>
+
+en: (1) propane-1-_OS_-thioperoxol (PIN)  <br>
+(2) _O_-propyl thiohydroperoxide 
+ru: (1) пропан-1-_OS_-тиопероксол (PIN) <br>
+(2) _O_-пропилтиогидропероксид
+
+@cell
+<$ CH3-CH2-SSH $>
+
+en: (1) ethanedithioperoxol (PIN)  <br>
+(2) ethyl hydrodisulfide  <br>
+ethyl dithiohydroperoxide 
+ru: (1) этандитиопероксол (PIN) <br>
+(2) этилгидродисульфид <br>
+этилдитиогидропероксид
+
+@cell
+<$ CH3-SSeH $>
+
+en: (1) methane-_SSe_-selenothioperoxol (PIN)  <br>
+(2) _S_-methyl selenothiohydroperoxide 
+ru: (1) метан-_SSe_-селенотиопероксол (PIN) <br>
+(2) _S_-метилселенотиогидропероксид
+
+@End
+
+#P-63.4.2.2+
+en: Prefixes corresponding to the suffixes described in P-63.4.2.1 are obtained in two ways: 
+ru: Префиксы, соответствующие суффиксам, описанным в P-63.4.2.1, получаются двумя способами:
+
+@List 1
+
+@item
+en: by using prefixes such as ‘hydroperoxy’, –OOH; ‘disulfanyl’, –SSH, or by combining simple prefixes, ‘hydroxy’ –OH; 
+‘oxy-’, –O–; ‘sulfanyl’, –SH; etc.; 
+ru: с помощью таких префиксов, как «гидроперокси», –OOH; «дисульфанил», –SSH, или путем комбинирования простых префиксов: 
+«гидрокси» –OH; «окси-», –O–; «сульфанил», –SH; и т. д.;
+
+@item:
+en: by using prefixes such as dithiohydroperoxy, –SSH; SO-thiohydroperoxy, –OSH; SeS-selenothiohydroperoxy,  –SSeH; etc. 
+ru: с использованием таких префиксов, как дитиогидроперокси, –SSH; SO-тиогидроперокси, –OSH; SeS-селенотиогидроперокси, –SSeH; и т. д.
+
+@End
+
+en: Method (1) leads to preferred IUPAC names.  
+ru: Метод (1) приводит к предпочтительным названиям IUPAC.
+
+@Examples
+
+@cell
+<$ HOO-CH2-CH2-OH $>
+
+en: 2-hydroperoxyethan-1-ol (PIN) 
+ru: 2-гидропероксиэтан-1-ол (PIN)
+
+@cell
+<$ HSS-CH2-COOH $>
+
+en: (1) disulfanylacetic acid (PIN)  <br>
+(2) (dithiohydroperoxy)acetic acid
+ru: (1) дисульфанилуксусная кислота (PIN) <br>
+(2) (дитиогидроперокси)уксусная кислота
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\<_q6S`-HS>@n(4,90)`||<_q6S`-HS>@n(3,150)/\\@n(1,30)/CONH2
+$>
+
+en: (1) 3,4-bis(disulfanyl)benzamide (PIN)  <br>
+(2) 3,4-bis(dithiohydroperoxy)benzamide
+ru: (1) 3,4-бис(дисульфанил)бензамид (PIN) <br>
+(2) 3,4-бис(дитиогидроперокси)бензамид
+
+@cell
+<$ HS-O-CH2-CH2-CN $>
+
+en: (1) 3-(sulfanyloxy)propanenitrile (PIN)  <br>
+(2) 3-(_SO_-thiohydroperoxy)propanenitrile
+ru: (1) 3-(сульфанилокси)пропаненитрил (PIN) <br>
+(2) 3-(_SO_-тиогидроперокси)пропаненитрил
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-Se-C`H2-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: (1) 4-[(hydroxyselanyl)methyl]benzoic acid (PIN)  <br>
+(2) 4-[(_OSe_-selenohydroperoxy)methyl]benzoic acid  
+ru: (1) 4-[(гидроксиселанил)метил]бензойная кислота (PIN) <br>
+(2) 4-[(_OSe_-селеногидроперокси)метил]бензойная кислота
+
+@End
+
+
+#P-63.5
+en: Cyclic ethers, sulfides, selenides, and tellurides 
+ru: Циклические эфиры, сульфиды, селениды и теллуриды
+
+en: Cyclic ethers, sulfides, selenides and tellurides are heterocycles named by the following methods: 
+ru: Циклические эфиры, сульфиды, селениды и теллуриды — это гетероциклы, названия которых определяются следующими методами:
+
+@List 1
+
+@item
+en: by using preferred retained names described in P-22.2.1 (chosen first); 
+ru: с использованием предпочтительных сохраненных имен, описанных в P-22.2.1 (выбранных первыми);
+
+@item
+en: for monocycles, by the extended Hantzsch-Widman system (see P-22.2.2) or by skeletal replacement (‘a’) 
+nomenclature for cycles having more than ten members (see P-22.2.3); 
+ru: для моноциклов — по расширенной системе &(Hantzsch-Widman|ro) (см. P-22.2.2) или по номенклатуре &(skeletal replacement a|ro) 
+для циклов, имеющих более десяти членов (см. P-22.2.3);
+
+@item
+en: by bridged fused nomenclature (see P-25.4);
+ru: посредством &(bridged fused nomenclature|ro) (см. P-25.4);
+
+@item
+en: by using detachable prefixes ‘epoxy’, ‘epithio’, ‘episeleno’, or ‘epitelluro’ in substitutive nomenclature; these 
+are used primarily in the nomenclature of natural products (see P-101.5.2); however they can also be used in 
+general nomenclature. 
+ru: с использованием отсоединяемых префиксов «эпокси», «эпитио», «эписелено» или «эпителлуро» в &(substitutive nomenclature); 
+они используются преимущественно в номенклатуре природных продуктов (см. P-101.5.2); однако они также могут использоваться 
+в общей номенклатуре.
+
+@item
+en: by using additive names formed by the addition of the terms ‘oxide’, ‘sulfide’, ‘selenide’, or ‘telluride’ to the 
+name of an unsaturated compound. 
+ru: с помощью аддитивных названий, образованных путем добавления терминов «оксид», «сульфид», «селенид» или «теллурид» 
+к названию ненасыщенного соединения.
+
+@End
+
+en: Names of heterocyclic compounds are preferred IUPAC names. 
+ru: Названия гетероциклических соединений являются предпочтительными названиями по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$ -_qq_qS_q_qq $>
+
+en: (1) thiophene (PIN)
+ru: (1) тиофен (PIN)
+
+@cell
+<$ -_qq_qTe_q_qq $>
+
+en: (1) tellurophene (PIN) 
+ru: (1) теллурофен (PIN) 
+
+@cell
+<$ -_q_qO_q_q $>
+
+en: (2) oxolane (PIN)  <br>
+(1) tetrahydrofuran
+ru: (2) оксолан (PIN) <br>
+(1) тетрагидрофуран
+
+@cell
+<$ -S_p8|_p8`-_p8`|_p8 $>
+
+en: (2) thiocane (PIN)
+ru: (2) тиокан (PIN)
+
+@cell
+<$ |0_q_q_qO_q`\`/`\`/|\/\/ $>
+
+en: (2) oxacyclotridecane (PIN) 
+ru: (2) оксациклотридекан (PIN)
+
+@cell
+<$ _(y1,x%d:.3)S_(y1,x-%d)/`||`\`/|<\>`//`\`||/\\ $>
+
+en: (3) 1,4-dihydro-1,4-sulfanonaphthalene (PIN)
+ru: (3) 1,4-дигидро-1,4-сульфанонафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3`-CH2`|@n(2,30)`-_p3O@n(1,-90,.55)_p3/CH3
+$>
+
+en: (2) 2-ethyl-2-methyloxirane (PIN)  <br>
+(4) 1,2-epoxy-2-methylbutane
+ru: (2) 2-этил-2-метилоксиран (PIN) <br>
+(4) 1,2-эпокси-2-метилбутан
+
+@cell
+<$ -_q3O_q3 $>
+
+en: (2) oxirane (PIN)  <br>
+(5) ethene oxide
+ru: (2) оксиран (PIN) <br>
+(5) этиленоксид
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O@n(1)\O@n(2,-30)|`/`\`|/
+$>
+
+en: (2) 1,2-dioxane (PIN) 
+ru: (2) 1,2-диоксан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qS@n(2,-40)_qO@n(1)_q_q
+$>
+
+en: (2) 1,2-oxathiolane (PIN) 
+ru: (2) 1,2-оксатиолан (PIN)
+
+@End
+
+
+#P-63.6
+en: Sulfoxides and sulfones 
+ru: Сульфоксиды и сульфоны
+
+en: Compounds with the general structures <%f1%> and <%f2%> are called generically ‘sulfoxides’ and ‘sulfones’, 
+respectively, when R and R′ are hydrocarbyl groups. They are named in three ways as follows: 
+ru: Соединения с общими структурами <%f1%> и <%f2%> обычно называются «сульфоксидами» и «сульфонами» соответственно, 
+когда R и R′ представляют собой углеводородные группы. Их называют тремя способами:
+%f1: <$ {R}-SO-{R′} $>
+%f2: <$ {R}-SO2-{R′} $>
+
+@List 1
+
+@item
+en: substitutively, by prefixing the name of the acyl group <%f1%> or <%f2%> to the name of the parent hydride 
+corresponding to R as described in P-65.3.2.2.2; 
+ru: замещающим образом, путем добавления префикса названия ацильной группы <%f1%> или <%f2%> к названию 
+&(parent hydride|ro), соответствующего R, как описано в P-65.3.2.2.2;
+%f1: <$ {R′}-SO–{} $>
+%f2: <$ {R′}-SO2–{} $>
+
+@item
+en: by functional class nomenclature, using the class names ‘sulfoxide’ and ‘sulfone’, respectively; 
+ru: с помощью &(functional class nomenclature|ro), используя названия классов «сульфоксид» и «сульфон» соответственно;
+
+@item
+en: by multiplicative nomenclature, except where R and R′ are alkyl groups, when the conditions for its use are 
+satisfied.
+ru: с помощью &(multiplicative nomenclature|ro), за исключением случаев, когда R и R′ являются алкильными группами, 
+при соблюдении условий ее использования.
+
+@End
+
+en: Methods (1) and (3) generate preferred names. 
+ru: Методы (1) и (3) генерируют предпочтительные имена.
+
+en: Selenium and tellurium analogues are named in the same way using acyl groups derived from the appropriate seleninic, 
+selenonic, tellurinic, and telluronic acids, and the class names ‘selenoxide’, ‘selenone’, ‘telluroxide’, ‘tellurone’. 
+Prefixes such as ‘alkylsulfinyl’ or ‘arylsulfonyl’ may be used in general nomenclature. 
+ru: Селеновые и теллуровые аналоги называются одинаково, используя ацильные группы, полученные из соответствующих 
+селениновой, селеноновой, теллуриновой и теллуроновой кислот, а также названия классов «селеноксид», «селенон», «теллуроксид», 
+«теллурон». В общей номенклатуре могут использоваться префиксы, такие как «алкилсульфинил» или «арилсульфонил».
+
+en: Di- and polysulfones are described in P-68.4.3.2 
+ru: Ди- и полисульфоны описаны в разделе P-68.4.3.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-S<`||O>-CH2@n(1)-CH2@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: (1) 1-(ethanesulfinyl)butane (PIN)  <br>
+1-(ethylsulfinyl)butane  <br>
+(2) butyl ethyl sulfoxide
+ru: (1) 1-(этансульфинил)бутан (PIN) <br>
+1-(этилсульфинил)бутан <br>
+(2) бутилэтилсульфоксид
+
+@cell
+<$ C6H5-Se<`||O>-CH2-CH3 $>
+
+en: (1) (ethaneseleninyl)benzene (PIN)  <br>
+(ethylseleninyl)benzene  <br>
+(2) ethyl phenyl selenoxide
+ru: (1) (этанселенил)бензол (PIN) <br>
+(этилселенил)бензол <br>
+(2) этилфенилселеноксид
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\-Se<`||O><||O>-||\//`|<`\\`/@n(7,-100)>/N@n(1,-90,.55)\\@n(2,-30)|`//`\
+$>
+
+en: (1) 7-(benzeneselenonyl)quinoline (PIN)  <br>
+7-(phenylselenonyl)quinoline  <br>
+(2) phenyl quinolin-7-yl selenone  <br>
+phenyl 7-quinolyl selenone
+ru: (1) 7-(бензоселенонил)хинолин (PIN) <br>
+7-(фенилселенонил)хинолин <br>
+(2) фенилхинолин-7-ил селенон <br>
+фенил 7-хинолил селенон
+
+@cell
+<$ C6H5-S<`||O>-C6H5 $>
+
+en: (3) 1,1′-sulfinyldibenzene (PIN)  <br>
+(2) diphenyl sulfoxide  <br>
+(1) (benzenesulfinyl)benzene  <br>
+(phenylsulfinyl)benzene
+ru: (3) 1,1′-сульфинилдибензол (PIN) <br>
+(2) дифенилсульфоксид <br>
+(1) (бензолсульфинил)бензол <br>
+(фенилсульфинил)бензол
+
+@cell
+<$ C6H5-Se<`||O><||O>-C6H5 $>
+
+en: (3) 1,1′-selenonyldibenzene (PIN)  <br>
+(2) diphenyl selenone  <br>
+(1) (benzeneselenonyl)benzene  <br>
+(phenylselenonyl)benzene
+ru: (3) 1,1′-селенонилдибензол (PIN) <br>
+(2) дифенилселенон <br>
+(1) (бензоселенонил)бензол <br>
+(фенилселенонил)бензол
+
+@cell
+<$ CH3-CH2-S<`||O><||O>-CH2-CH3 $>
+
+en: (1) (ethanesulfonyl)ethane (PIN)  <br>
+(ethylsulfonyl)ethane  <br>
+(2) diethyl sulfone  <br>
+**Note**: Multiplication of acyclic hydrocarbons is not permitted
+ru: (1) (этансульфонил)этан (PIN) <br>
+(этилсульфонил)этан <br>
+(2) диэтилсульфон <br>
+**Примечание**: Умножение ациклических углеводородов не допускается
+
+@End
+
+
+#P-63.7
+en: Polyfunctional compounds 
+ru: Полифункциональные соединения
+
+en: In the order of seniority of classes, hydroxy compounds and hydroperoxides are ranked in descending order after 
+aldehydes and ketones, but before amines and imines. Chalcogen analogues are ranked after each of these classes, 
+according to the number of O, S, Se and Te atoms. In descending order, they are as follows. 
+ru: В порядке старшинства классов гидроксисоединения и гидропероксиды располагаются в порядке убывания после альдегидов 
+и кетонов, но перед аминами и иминами. &(Chalcogen analogue|*) располагаются после каждого из этих классов в соответствии 
+с количеством атомов O, S, Se и Te. В порядке убывания они следующие.
+
+@List 1
+
+@item
+en: hydroxy compounds –OH, then their chalcogen analogues, –SH > –SeH > –TeH  
+ru: гидроксисоединения –OH, затем их &(chalcogen analogue|*), –SH > –SeH > –TeH
+
+@item
+en: hydroperoxides –OOH, then their chalcogen analogues, –SOH > –SeOH > –TeOH, etc. (see Table 6.1)
+ru: гидропероксиды –OOH, затем их &(chalcogen analogue|*), –SOH > –SeOH > –TeOH и т. д. (см. &[Таблицу 6.1])
+
+@item
+en: amines > imines  
+ru: амины > имины
+
+@item
+en: ethers, –O–, then their chalcogen analogues, –S– > –Se– > –Te–
+ru: эфиры, –O–, затем их &(chalcogen analogue|*), –S– > –Se– > –Te–
+
+@item
+en:  peroxides –OO–, then their chalcogen analogues, –OS– > –OSe– > –OTe–, > –SS– > –SSe– > –STe– > –SeSe– 
+> –SeTe– > –TeTe–.
+ru: пероксиды –OO–, затем их &(chalcogen analogue|*) –OS– > –OSe– > –OTe–, > –SS– > –SSe– > –STe– > –SeSe– > –SeTe– > –TeTe–.
+
+@End
+
+en: There is no seniority order between phenols and hydroxy compounds. The choice for parent hydride is decided by the 
+maximum number of hydroxy groups cited as suffixes; and a ring is preferred to a chain when there is a choice (see  
+P-52.2.8). 
+ru: Между фенолами и гидроксисоединениями нет порядка приоритета. Выбор &(parent hydride|ro) определяется максимальным числом 
+гидроксильных групп, указанных в качестве суффиксов; при наличии выбора предпочтение отдается кольцу, а не цепи (см. P-52.2.8).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CH2@n(1)-C@n(2,-125)<|CH3><-OSH>`|CH3@n(3)
+$>
+
+en: 2-methyl-2-(sulfanyloxy)propane-1-thiol (PIN)  
+ru: 2-метил-2-(сульфанилокси)пропан-1-тиол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|@n(1,-30)\@n(2,30)|`//`\`||/\_q6CH2-CH2-OH
+$>
+
+en: 2-(2-hydroxyethyl)phenol (PIN)  <br>
+2-(2-hydroxyphenyl)ethan-1-ol  <br>
+(the ring is senior to the chain in the preferred name, see P-52.2.8)
+ru: 2-(2-гидроксиэтил)фенол (PIN) <br>
+2-(2-гидроксифенил)этан-1-ол <br>
+(кольцо имеет приоритет над цепью в предпочтительном названии, см. P-52.2.8)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|\|`//`\`||/\_q6CH@n(1)<`|OH>-CH2@n(2)-OH
+$>
+
+en: 1-(2-hydroxyphenyl)ethane-1,2-diol (PIN)  <br>
+[not 2-(1,2-dihydroxyethyl)phenol; <br>
+two principal groups are senior to one]
+ru: 1-(2-гидроксифенил)этан-1,2-диол (PIN) <br>
+[не 2-(1,2-дигидроксиэтил)фенол; <br>
+две основные группы имеют приоритет над одной]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOO-CH2@n(1)-CH2@n(2)-OSeH
+$>
+
+en: 2-(selanyloxy)ethane-1-peroxol (PIN)
+ru: 2-(селанилокси)этан-1-пероксол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(1)-C@n(2,-125)<|CH3><-OOH>`|CH3@n(3)
+$>
+
+en: 1-amino-2-methylpropane-2-peroxol (PIN)
+ru: 1-амино-2-метилпропан-2-пероксол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-SO2-CH2@n(2)-CH2OH@n(1)
+$>
+
+en: 2-(methanesulfonyl)ethan-1-ol (PIN)  <br>
+2-(methylsulfonyl)ethan-1-ol
+ru: 2-(метансульфонил)этан-1-ол (PIN) <br>
+2-(метилсульфонил)этан-1-ол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/`\`|/`|O|@n(1,-30)\@n(2,30)_q6O-O_(A30)|<`/HO`O>\/`|`\`/`|OH
+$>
+
+en: 2-[(2-hydroperoxy-1-hydroxycyclohexyl)peroxy]cyclohexan-1-one (PIN)  <br>
+(a ketone is senior to alcohols and peroxols)
+ru: 2-[(2-гидроперокси-1-гидроксициклогексил)перокси]циклогексан-1-он (PIN) <br>
+(кетон занимает более высокое положение, чем спирты и &(peroxol|*))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(2)-CH2@n(1)-OH
+$>
+
+en: 2-aminoethan-1-ol (PIN)  <br>
+(not ethanolamine)
+ru: 2-аминоэтан-1-ол (PIN) <br>
+(не этаноламин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CH2@n(2)-CH2@n(1)-OO-CH2-CH3
+$>
+
+en: 1-(ethylperoxy)-2-methoxyethane (PIN)  <br>
+(not [(2-methoxyethyl)peroxy]ethane;  <br>
+the ‘PIN‘ has more substituents) 
+ru: 1-(этилперокси)-2-метоксиэтан (PIN) <br>
+(не [(2-метоксиэтил)перокси]этан; <br>
+у «PIN» больше заместителей)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CH2@n(1)-CH2@n(2)-CH2@n(3)-S-CH3
+$>
+
+en: 1-methoxy-3-(methylsulfanyl)propane (PIN)  <br>
+1-methoxy-3-(methylthio)propane
+ru: 1-метокси-3-(метилсульфанил)пропан (PIN) <br>
+1-метокси-3-(метилтио)пропан
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S-S-C@n(1)<`|S-CH3>=CH@n(2)-CH2@n(3)-CH2@n(4)-CH3@n(5)
+$>
+
+en: 1-(methyldisulfanyl)-1-(methylsulfanyl)pent-1-ene (PIN)  <br>
+{not methyl 1-(methylsulfanyl)pent-1-en-1-yl disulfide;  <br>
+nor methyl[1-(methylsulfanyl)pent-1-en-1-yl]disulfane; see P-41}
+ru: 1-(метилдисульфанил)-1-(метилсульфанил)пент-1-ен (PIN) <br>
+{не метил 1-(метилсульфанил)пент-1-ен-1-ил дисульфид; <br>
+и не метил[1-(метилсульфанил)пент-1-ен-1-ил]дисульфан; см. P-41}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CH2@n(1)-CH2@n(2)-CH2@n(3)-Si(OCH3)3
+$>
+
+en: 3-(trimethoxysilyl)propane-1-thiol (PIN)  <br>
+[not trimethoxy(3-sulfanylpropyl)silane;  <br>
+the suffix, ‘thiol’, has precedence over silane]
+ru: 3-(триметоксисилил)пропан-1-тиол (PIN) <br>
+[не триметокси(3-сульфанилпропил)силан; <br>
+суффикс «тиол» имеет приоритет над суффиксом «силан»]
+
+@cell
+<$
+$slope(30)CH3-CH2-CH2-S\C<||mCH`/S`-CH2`-CH3>/S-CH2-CH2-CH3
+$>
+
+en: 1-{[2-(ethylsulfanyl)-1-(propylsulfanyl)ethen-1-yl]sulfanyl}propane (PIN)  <br>
+(multiplication of acyclic hydrocarbons is not permitted)  
+ru: 1-{[2-(этилсульфанил)-1-(пропилсульфанил)этен-1-ил]сульфанил}пропан (PIN) <br>
+(умножение ациклических углеводородов не допускается)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH<`|CH3>\N<`/CH<|CH3>`-CH2`-CH3>-C@n(2,-45)<`|CH3@n(1)><-OH>|CH2@n(3,90)-CH3@n(4,90)
+$>
+
+en: 2-[di(butan-2-yl)amino]butan-2-ol (PIN)  <br>
+2-[bis(1-methylpropyl)amino]butan-2-ol.  <br>
+[not 2-(di-_sec_-butylamino)butan-2-ol] 
+ru: 2-[ди(бутан-2-ил)амино]бутан-2-ол (PIN) <br>
+2-[бис(1-метилпропил)амино]бутан-2-ол. <br>
+[не 2-(ди-_втор_-бутиламино)бутан-2-ол]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(1,-150)<_(a54)HO>_q_q<_q_q>@n(3,80)<_(a24)SiH2-CH2-NH2>_(a84)SiH<|NH2>-CH3
+$>
+
+en: 3-[amino(methyl)silyl]-3-[(aminomethyl)silyl]cyclopentan-1-ol (PIN)  <br>
+{not 3-[(aminomethyl)silyl]-3-[amino(methyl)silyl]cyclopentan-1-ol;  <br>
+alphanumerical characters are identical;  <br>
+at the fourth character of the name, the letter ‘a’ is preferred to an open parenthesis (see P-14.6)} 
+ru: 3-[амино(метил)силил]-3-[(аминометил)силил]циклопентан-1-ол (PIN) <br>
+{не 3-[(аминометил)силил]-3-[амино(метил)силил]циклопентан-1-ол; <br>
+буквенно-цифровые символы идентичны; <br>
+на четвертом символе названия предпочтительнее использовать букву «а», а не открывающую скобку (см. P-14.6)}
+
+@End
+
+
+#P-63.8
+en: Salts of hydroxy compounds, hydroperoxy compounds and their chalcogen analogues 
+ru: Соли гидроксисоединений, гидропероксидных соединений и их &(chalcogen analogue|ro*)
+
+#P-63.8.1+
+en: Neutral salts of hydroxy compounds and their chalcogen analogues and peroxy compounds are named by 
+citing the cation(s) followed by the name of the anion as a separate word.
+ru: Нейтральные соли гидроксисоединений, их &(chalcogen analogue|*) и пероксидные соединения называются путем 
+&(citation|ro) катиона (катионов) с последующим названием аниона в виде отдельного слова.
+
+en: According to P-72.2.2.2.2, an anion formed by subtracting a hydron from the chalcogen atom of a hydroxy compound 
+or a chalcogen analogue, or a peroxy compound, that can be expressed by a suffix such as ‘ol’, ‘thiol’, ‘-peroxol’, etc., 
+is named by using compound suffixes ‘olate’, ‘thiolate’, ‘peroxolate’, etc., formed by addition of the ending ‘ate’ to the 
+suffixes ‘ol’, ‘thiol’, ‘peroxol’, etc. The multiplicative prefixes ‘bis’, ‘tris’, etc. are used before such compound suffixes, 
+to avoid any ambiguity. The traditional names methoxide, ethoxide, propoxide, butoxide, phenoxide, and aminoxide, 
+for <%a%>, <%b%>, <%c%>, <%d%>, <%e%>, and <%f%> are retained as preferred IUPAC names and may be 
+substituted in the same way as the corresponding alcohols. The traditional name _tert_-butoxide for <%g%> is also 
+retained as a preferred IUPAC name but cannot be substituted. The traditional name isopropoxide for <%h%> is 
+retained for general nomenclature but cannot be substituted. 
+ru: Согласно P-72.2.2.2.2, анион, образованный путем вычитания атома водорода из атома халькогена гидроксисоединения или 
+&(chalcogen analogue|ro), или пероксидного соединения, который может быть обозначен суффиксом, таким как «ол», «тиол», 
+«-пероксол» и т. д., называется с использованием составных суффиксов «олат», «тиолат», «пероксолат» и т. д., образованных 
+путем добавления окончания «ат» к суффиксам «ол», «тиол», «пероксол» и т. д. Перед такими составными суффиксами используются 
+мультипликативные префиксы «бис», «трис» и т. д., чтобы избежать двусмысленности. Традиционные названия метоксид, этоксид, 
+пропоксид, бутоксид, феноксид и аминоксид для <%a%>, <%b%>, <%c%>, <%d%>, <%e%> и <%f%> сохраняются в качестве предпочтительных 
+названий по номенклатуре IUPAC и могут быть заменены таким же образом, как и соответствующие спирты. Традиционное название 
+_трет_-бутоксид для <%g%> также сохраняется в качестве предпочтительного названия по номенклатуре IUPAC, но не может быть 
+заменено. Традиционное название изопропоксид для <%h%> сохраняется для общей номенклатуры, но не может быть заменено.
+%a: <$ CH3-O^- $>
+%b: <$ C2H5-O^- $>
+%c: <$ C3H7-O^- $>
+%d: <$ C4H9-O^- $>
+%e: <$ C6H5-O^- $>
+%f: <$ H2N-O^- $>
+%g: <$ (CH3)3C-O^- $>
+%h: <$ (CH3)2CH-O^- $>
+
+@Examples
+
+@cell
+<$ CH3-O^-_(x1.2,N0)Na^+ $>
+
+en: sodium methoxide (PIN)  <br>
+sodium methanolate
+ru: метоксид натрия (PIN) <br>
+метанолат натрия
+// http://charchem.org/ru/subst-ref/?id=1751
+
+@cell
+<$ CH3-CH2-CH2-O^-_(x1.2,N0)Na^+ $>
+
+en: sodium propoxide (PIN)  <br>
+sodium propan-1-olate
+ru: пропоксид натрия (PIN) <br>
+пропан-1-олат натрия
+
+@cell
+<$ (CH3)2CH-O^-_(x1.2,N0)K^+ $>
+
+en: potassium propan-2-olate (PIN)  <br>
+potassium isopropoxide 
+ru: пропан-2-олат калия (PIN) <br>
+изопропоксид калия
+
+@cell
+<$ C6H5-O^-_(x1.2,N0)Li^+ $>
+
+en: lithium phenoxide (PIN)  <br>
+lithium phenolate
+ru: феноксид лития (PIN) <br>
+фенолат лития
+
+@cell
+<$ |<\@:sa()O^-_(x1.2,N0)Na^+@()>`//`\`||/\\/@sa() $>
+
+en: disodium benzene-1,2-bis(olate) (PIN) 
+ru: динатрийбензол-1,2-бис(олат) (PIN)
+
+@cell
+<$ |<\@:sa()S^-_(x1.2,N0)Na^+@()>`//`\`||/\\/@sa() $>
+
+en: disodium benzene-1,2-bis(thiolate) (PIN)
+ru: динатрийбензол-1,2-бис(тиолат) (PIN)
+
+@cell
+<$ (C6H5-O^-)4_(x1.7,N0)Pb^4+ $>
+
+en: lead tetraphenoxide (PIN)
+ru: тетрафеноксид свинца (PIN)
+
+@End
+
+#P-63.8.2+
+en: Cyclic salts are named as heterocycles
+ru: Циклические соли именуются как гетероциклы
+
+@Examples
+
+@cell
+<$ Ge<@:pa(a)_(A&a)O_q_q<_qO_q>_pp6_p6_pp6_p6_pp6@(54)>@pa(-126) $>
+
+en: 2,2′-spirobi[[1,3,2]benzodioxagermole] (PIN) 
+ru: 2,2′-спироби[[1,3,2]бензодиоксагермол] (PIN)
+
+@End
+
+#P-63.8.3+
+en: Partial salts of polyols and their chalcogen analogues are named substitutively on the basis of the 
+corresponding anion: 
+ru: Частичные соли полиолов и их &(chalcogen analogue|ro*) называются замещающим образом на основе 
+соответствующего аниона:
+
+@Examples
+
+@cell
+<$ HO-CH2-CH2-CH2-O^-_(x1.2,N0)Na^+ $>
+
+en: sodium 3-hydroxypropan-1-olate (PIN)
+ru: 3-гидроксипропан-1-олат натрия (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<\SH>@n(2,90)`//`\`||/\\@n(1,-90)/S^-_(x1.2,N0)Na^+
+$>
+
+en: sodium 2-sulfanylbenzene-1-thiolate (PIN)
+ru: 2-сульфанилбензол-1-тиолат натрия (PIN)
+
+@End

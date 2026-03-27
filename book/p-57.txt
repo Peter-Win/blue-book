@@ -1,0 +1,904 @@
+#P-57
+en: Selecting preferred and preselected prefixes for substituent group names 
+ru: Выбор предпочтительных и предварительно выбранных префиксов для названий &(substituent group|ro*)
+
+en: Preferred prefixes for substituent groups are considered here in three different sections. A comprehensive list is 
+provided in Appendix 2. 
+ru: Предпочтительные префиксы для замещающих групп рассматриваются здесь в трёх различных разделах. Полный список 
+приведён в Приложении 2.
+
+en: All substituent groups are named systematically using substitutive nomenclature. Some names are retained; they are 
+important because they do have priority over systematic substitutive names.
+ru: Все &(substituent group|*) систематически именуются с использованием &(substitutive nomenclature|ro). Некоторые 
+названия сохраняются; они важны, поскольку имеют приоритет над систематическими &(substitutive name|tv*).
+
+@Content
+
+#P-57.1
+en: Prefixes derived from parent hydrides 
+ru: Префиксы, полученные от &(parent hydride|ro*)
+
+#P-57.1.1
+en: Prefixes derived from mononuclear and acyclic parent hydrides 
+ru: Префиксы, полученные от моноядерных и ациклических &(parent hydride|ro*)
+
+#P-57.1.1.1+
+en: When the free valences are in position 1 of substituent groups derived from mononuclear hydrides carbon, 
+silicon, germanium, tin and lead and from acyclic hydrocarbons, preferred prefixes are of the ‘alkyl type’ according to 
+P-29.2; preferred prefixes are of the ‘alkanyl type’ for all mononuclear hydrides other than those mentioned above and 
+for saturated substituent groups when the free valences are not in position 1.
+ru: Когда свободные валентности находятся в положении 1 &(substituent group|ro*), полученных из моноядерных гидридов 
+углерода, кремния, германия, олова и свинца, а также из ациклических углеводородов, предпочтительны префиксы 
+«алкильного типа» согласно P-29.2; предпочтительны префиксы «алканильного типа» для всех моноядерных гидридов, кроме 
+упомянутых выше, и для насыщенных &(substituent group|ro*), когда свободные валентности не находятся в положении 1.
+
+@Examples
+
+@cell
+<$ CH3–{} $>
+
+en: methyl (preferred prefix)  <br>
+methanyl 
+ru: метил (предпочтительный префикс) <br>
+метанил
+
+@cell
+<$ PH2–{} $>
+
+en: phosphanyl (preselected prefix) 
+ru: фосфанил (предварительно выбранный префикс)
+
+@cell
+<$ SiH3–{} $>
+
+en: silyl (preselected prefix)  <br>
+silanyl 
+ru: силил (предварительно выбранный префикс) <br>
+силанил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH@n(1)=
+$>
+
+en: propylidene (preferred prefix)  <br>
+propan-1-ylidene
+ru: пропилиден (предпочтительный префикс) <br>
+пропан-1-илиден
+
+@cell
+<$ CH2= $>
+
+en: methylidene (preferred prefix)  <br>
+methanylidene 
+ru: метилиден (предпочтительный префикс) <br>
+метанилиден
+
+@cell
+<$ CH3-C% $>
+
+en: ethylidyne (preferred prefix)  <br>
+ethanylidyne 
+ru: этилидин (предпочтительный префикс) <br>
+этанилидин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2,90)<`|>-CH3@n(3)
+$>
+
+en: propan-2-yl (preferred prefix)  <br>
+1-methylethyl  <br>
+isopropyl 
+ru: пропан-2-ил (предпочтительный префикс) <br>
+1-метилэтил <br>
+изопропил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Si@n(3)-SiH2@n(2)-SiH2@n(1)-{}
+$>
+
+en: trisilan-1-yl (preselected prefix)
+ru: трисилан-1-ил (предварительно выбранный префикс)
+
+@End
+
+#P-57.1.1.2+
+en: The prefix methylene is retained as a preferred prefix with unlimited substitution except for substituents that 
+would create a carbon chain. 
+ru: Префикс метилен сохраняется как предпочтительный префикс с неограниченным замещением, за исключением &(substituent|ro*), 
+которые создают углеродную цепь.
+
+#P-57.1.2+
+en: The following retained names are used as preferred prefixes for which no substitution is recommended:
+ru: Следующие &(retained name|*) используются в качестве предпочтительных префиксов, для которых не рекомендуется какая-либо замена:
+
+@Examples
+
+@cell
+<$ {}–C(CH3)3 $>
+  
+en: _tert_-butyl (preferred prefix)  <br>
+1,1-dimethylethyl 
+ru: _трет_-бутил (предпочтительный префикс) <br>
+1,1-диметилэтил
+
+@cell
+<$ C6H5-CH2–{} $>
+
+en: benzyl (preferred prefix)  <br>
+phenylmethyl 
+ru: бензил (предпочтительный префикс) <br>
+фенилметил
+
+@cell
+<$ C6H5-CH={} $>
+
+en: benzylidene (preferred prefix)  <br>
+phenylmethylidene 
+ru: бензилиден (предпочтительный префикс) <br>
+фенилметилиден
+
+@cell
+<$ C6H5-C≡{} $>
+
+en: benzylidyne (preferred prefix) phenylmethylidyne 
+ru: бензилидин (предпочтительный префикс) фенилметилидин
+
+@End
+
+@p .framed
+en: For preferred prefixes, the names ‘benzyl’, ‘benzylidene’, and ‘benzylidyne’ cannot be substituted. Previously, in 
+the 1993 Guide (ref. 2), they could only be substituted on the ring. However, for general nomenclature restricted 
+substitution is permitted (see P-29.6.2.1). 
+ru: В качестве предпочтительных префиксов названия «бензил», «бензилиден» и «бензилидин» не могут быть заменены. 
+Ранее, в Руководстве 1993 года (ссылка 2), их можно было заменять только в кольце. Однако для общей номенклатуры 
+допускается ограниченная замена (см. P-29.6.2.1).
+
+#P-57.1.3
+en: Retained prefixes recommended only for general nomenclature
+ru: Сохраненные префиксы рекомендуются только для общей номенклатуры
+
+en: The prefix ‘ethylene’, for <%f1%>, is recommended, with unlimited substitution, only for general nomenclature  
+(P-29.6.2.3).  
+ru: Префикс «этилен» для <%f1%> рекомендуется использовать с неограниченной заменой только для общей номенклатуры (P-29.6.2.3).
+%f1: <$ –H2C-CH2– $>
+
+en: Isopropyl for <%f1%>, isopropylidene for <%f2%>, and trityl for <%f3%> are retained as prefixes only for use in 
+general nomenclature but no substitution of any kind is allowed (see P-29.6.2.2). 
+ru: Изопропил для <%f1%>, изопропилиден для <%f2%> и тритил для <%f3%> сохранены в качестве префиксов только для 
+использования в общей номенклатуре, но никакие замены не допускаются (см. P-29.6.2.2).
+%f1: <$ (CH3)2CH–{} $>
+%f2: <$ (CH3)2C={} $>
+%f3: <$ (C6H5)3C–{} $>
+
+#P-57.1.4
+en: Retained prefixes no longer recommended
+ru: Сохраненные префиксы больше не рекомендуются
+
+en: The retained names phenethyl (2-phenylethyl) for <%f1%>; benzhydryl (diphenylmethyl), for <%f2%>; 
+isobutyl (2-methylpropyl) for <%f3%>; _sec_-butyl (butan-2-yl, 1-methylpropyl) for <%f4%>; 
+isopentyl (3-methylbutyl) for <%f5%>; _tert_-pentyl (2-methylbutan-2-yl, 1,1-dimethylpropyl) for <%f6%>; 
+and neopentyl (2,2-dimethylpropyl) for <%f7%>; are no longer recommended; the first name in 
+parentheses is the preferred prefix name. 
+ru: &(Retained name|*) фенетил (2-фенилэтил) для <%f1%>; бензгидрил (дифенилметил) для <%f2%>; изобутил (2-метилпропил) 
+для <%f3%>; _втор_-бутил (бутан-2-ил, 1-метилпропил) для <%f4%>; изопентил (3-метилбутил) для <%f5%>; _трет_-пентил 
+(2-метилбутан-2-ил, 1,1-диметилпропил) для <%f6%>; и неопентил (2,2-диметилпропил) для <%f7%>; больше не рекомендуются; 
+первое название в скобках является предпочтительным префиксным названием.
+%f1: <$ C6H5-CH2-CH2–{} $>
+%f2: <$ (C6H5)2CH–{} $>
+%f3: <$ (CH3)2CH-CH2–{} $>
+%f4: <$ CH3-CH2-CH(CH3)–{} $>
+%f5: <$ (CH3)2CH-CH2-CH2–{} $>
+%f6: <$ CH3-CH2-C(CH3)2–{} $>
+%f7: <$ (CH3)3C-CH2–{} $>
+
+#P-57.1.5
+en: Prefixes derived from cyclic parent hydrides
+ru: Префиксы, полученные от циклических &(parent hydride|ro*)
+
+#P-57.1.5.1+
+en: Preferred prefixes derived from cycloalkanes are of the ‘cycloalkyl type’ (see P-29.2); preferred prefixes 
+derived from cyclic compounds other that cycloalkanes are all of the ‘alkanyl type’ described above in P-57.1.1.1. 
+ru: Предпочтительные префиксы, полученные от циклоалканов, относятся к «циклоалкильному типу» (см. P-29.2); 
+предпочтительные префиксы, полученные от циклических соединений, отличных от циклоалканов, относятся к «алканильному типу», 
+описанному выше в P-57.1.1.1.
+
+@Examples
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+|_q3<_q3>-@w();
+$>
+
+en: cyclopropyl (preferred prefix)  <br>
+cyclopropanyl
+ru: циклопропил (предпочтительный префикс) <br>
+циклопропанил
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`/`-`\/-\-@w();
+$>
+
+en: cyclohexyl (preferred prefix)  <br>
+cyclohexanyl
+ru: циклогексил (предпочтительный префикс) <br>
+циклогексанил
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`//`-`\\HSi@n(1)/=\@n(4,-70,.4)-@w()
+$>
+
+en: silin-4-yl (preferred prefix)
+ru: силин-4-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`\@n(1)<_(A120):a>`/|\<_(A-60)_#a>/`|@n(2)/@w()
+$>
+
+en: bicyclo[2.2.2]octan-2-yl (preferred prefix)  <br>
+bicyclo[2.2.2]oct-2-yl 
+ru: бицикло[2.2.2]октан-2-ил (предпочтительный префикс) <br>
+бицикло[2.2.2]окт-2-ил
+
+@End
+
+#P-57.1.5.2
+en: Retained prefixes used as preferred prefixes (see P-29.6.1) 
+ru: Сохраненные префиксы используются как предпочтительные префиксы (см. P-29.6.1)
+
+en: The two following prefixes are retained as preferred prefixes with unlimited substitution: 
+ru: Два следующих префикса сохраняются как предпочтительные префиксы с неограниченной заменой:
+
+@Examples --
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`/`=`\//-\\-@w()
+$>
+
+en: phenyl (preferred prefix)
+ru: фенил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`/`=`\<`-@w()>@n(4,10)//-\\@n(1,170)-@w()
+$>
+
+en: 1,4-phenylene (also 1,2- and 1,3-isomers)  <br>
+(preferred prefixes) 
+ru: 1,4-фенилен (также 1,2- и 1,3-изомеры) <br>
+(предпочтительные префиксы)
+
+@End
+
+#P-57.1.5.3
+en: Retained prefixes recommended only for use in general nomenclature (P-29.6.2.3)
+ru: Сохраненные префиксы рекомендованы только для использования в общей номенклатуре (P-29.6.2.3)
+
+en: The following retained prefixes are recommended for only general nomenclature, with unlimited substitution except for 
+tolyl for which no substitution is allowed: 
+ru: Следующие сохраненные префиксы рекомендуются только для общей номенклатуры с неограниченной заменой, за исключением 
+толил, для которого замена не допускается:
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$slope(20)$L(1.2)$color(gray)`/@n(10)`\@n(7,-150)$color()`|@n(8,-150)/@n(1)\</@w()>@n(2,30,.4)|@n(3,0)_(A120)@n(4,90)`\@n(5,90)<`|@n(9,-120,.35)_(A-60)>`/@n(6,150)_(A-60)
+$>
+
+en: 2-adamantyl (also 1-isomer)  <br>
+adamantan-2-yl (preferred prefix)
+ru: 2-адамантил (также 1-изомер) <br>
+адамантан-2-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+|`//`\`//@n(10,90)`\`//`\`||/\\<|>/@n(9)\\<|>/@n(1)\\@n(2,30)/@w()
+$>
+
+en: 2-anthryl (also 1- and 9-isomers)  <br>
+anthracen-2-yl (preferred prefixes)
+ru: 2-антрил (также 1- и 9-изомеры) <br>
+антрацен-2-ил (предпочтительные префиксы)
+
+@cell
+<$
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`-_pp_pO_p_pp_(a-54)@w()
+$>
+
+en: 3-furyl (also 2-isomer)  <br>
+furan-3-yl (also 2-isomer;  <br>
+preferred prefixes) 
+ru: 3-фурил (также 2-изомер) <br>
+фуран-3-ил (также 2-изомер; <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||\//\//`|N@n(2,-30,.5)`\\@n(1,-90)`/<|>`\\`/@n(7,-90)`\@w()
+$>
+
+en: 7-isoquinolyl (also 1-, 3-, 4-, 5-, 6- and 8-isomers)  <br>
+isoquinolin-7-yl (also 1-, 3-, 4-, 5-, 6- and 8-isomers,  <br>
+preferred prefixes) 
+ru: 7-изохинолил (также 1-, 3-, 4-, 5-, 6- и 8-изомеры) <br>
+изохинолин-7-ил (также 1-, 3-, 4-, 5-, 6- и 8-изомеры, <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||`/`\\`/`\\`|//\<|>//@n(1)\@n(2,30)/@w()
+$>
+
+en: 2-naphthyl (also 1-isomer)  <br>
+naphthalen-2-yl (also 1-isomer;  <br>
+preferred prefixes) 
+ru: 2-нафтил (также 1-изомер) <br>
+нафталин-2-ил (также 1-изомер; <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`||/`||`\`//|<\>`//`\`//|@n(2,150)\\@n(1)/<`|>\\@n(10)/@n(9,-30)\@w()
+$>
+
+en: 9-phenanthryl (also 1-, 2-, 3- and 4-isomers)  <br>
+phenanthren-9-yl (also 1-, 2-, 3- and 4-isomers,  <br>
+preferred prefixes) 
+ru: 9-фенантрил (также 1-, 2-, 3- и 4-изомеры) <br>
+фенантрен-9-ил (также 1-, 2-, 3- и 4-изомеры, <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+|`/`\`|/N<_(y-.5)H>@n(1,90,.55)\@n(2)/@w()
+$>
+
+en: 2-piperidyl (also 3- and 4-isomers)  <br>
+piperidin-2-yl (also 3- and 4-isomers;  <br>
+preferred prefixes)
+ru: 2-пиперидил (также 3- и 4-изомеры) <br>
+пиперидин-2-ил (также 3- и 4-изомеры; <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||`/`\\`|//N@n(1)\@n(2,,.45)/@w()
+$>
+
+en: 2-pyridyl (also 3- and 4-isomers)  <br>
+pyridin-2-yl (also 3- and 4-isomers;  <br>
+preferred prefixes) 
+ru: 2-пиридил (также 3- и 4-изомеры) <br>
+пиридин-2-ил (также 3- и 4-изомеры; <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+||`/`\\`/`\\`|//\<|>//N@n(1)\@n(2,30,.4)/@w()
+$>
+
+en: 2-quinolyl (also 3-, 4-, 5-, 6-, 7- and 8-isomers)  <br>
+quinolin-2-yl (also 3-, 4-, 5-, 6-, 7- and 8-isomers;  <br>
+preferred prefixes)
+ru: 2-хинолил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры) <br>
+хинолин-2-ил (также 3-, 4-, 5-, 6-, 7- и 8-изомеры; <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+-_qq<_(a54)@w()>@n(2)_qS@n(1)_q_qq
+$>
+
+en: 2-thienyl (also 3-isomer)  <br>
+thiophen-2-yl (also 3-isomer;  <br>
+preferred prefixes)
+ru: 2-тиенил (также 3-изомер) <br>
+тиофен-2-ил (также 3-изомер; <br>
+предпочтительные префиксы)
+
+@cell
+<$
+@:ni(n,a:0,L:.4)<_(A&a,L&L,N0)"\color{gray}\small{\textit{&n}}">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+\<-@w()>`//`-`\\@ni(p,-170)/@ni(m,-120)=@ni(o)/CH3
+$>
+
+en: _o_-tolyl (also _m_- and _p_-isomers;  <br>
+no substitution allowed)  <br>
+2-methylphenyl (also 3- and 4-isomers;  <br>
+preferred prefixes) 
+ru: _o_-толил (также _m_- и _p_-изомеры; <br>
+замещение не допускается) <br>
+2-метилфенил (также 3- и 4-изомеры; <br>
+предпочтительные префиксы)
+
+@End
+
+#P-57.1.5.4
+en: Retained prefixes that are no longer recommended
+ru: Сохраненные префиксы, которые больше не рекомендуются
+
+en: The retained prefixes furfuryl (2 isomer only) and thenyl (2 isomer only) are no longer recommended (see P-29.6.3) 
+ru: Сохраненные префиксы фурфурил (только 2 изомера) и тенил (только 2 изомера) больше не рекомендуются (см. P-29.6.3)
+
+#P-57.1.6
+en: Prefixes derived from parent hydrides with modified degrees of hydrogenation
+ru: Префиксы, образованные от &(parent hydride|ro*) с измененными степенями гидрирования
+
+#P-57.1.6.1+
+en: All preferred prefixes derived from parent hydrides whose degree of hydrogenation has been modified are 
+formed systematically according to rules discussed in P-32. There is a choice when the free valences are in position 1 or 
+at any position on the chain: preferred prefixes are given to the less substituted chain (see example 3 below, and many 
+examples in P-32.1.1). 
+ru: Все предпочтительные префиксы, полученные из &(parent hydride|ro*) с изменённой степенью гидрирования, образуются 
+систематически в соответствии с правилами, обсуждаемыми в P-32. Существует возможность выбора, когда свободные валентности 
+находятся в положении 1 или в любом другом положении цепи: предпочтительные префиксы присваиваются менее замещённой цепи 
+(см. пример 3 ниже и множество примеров в P-32.1.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)=CH@n(3)-CH2@n(2)-CH2@n(1)-{}
+$>
+
+en: but-3-en-1-yl (preferred prefix) 
+ru: бут-3-ен-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(3)=CH@n(2)-CH2@n(1)-{}
+$>
+
+en: prop-2-en-1-yl (preferred prefix)
+ru: проп-2-ен-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(4)=CH@n(3)-CH@n(2,90)<`|{}>-CH3@n(1)
+$>
+
+en: but-3-en-2-yl (preferred prefix)  <br>
+1-methylprop-2-en-1-yl
+ru: бут-3-ен-2-ил (предпочтительный префикс) <br>
+1-метилпроп-2-ен-1-ил
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+_(A-60)@n(1)\</@w()>@n(2,30)|@n(3,30)`/@n(4,90)<_(A-60)@n(8,155,.55)_#1@n(7,-25,.55)>`\@n(5,150)`||@n(6,-150)/
+$>
+
+en: bicyclo[2.2.2]oct-5-en-2-yl (preferred prefix)
+ru: бицикло[2.2.2]окт-5-ен-2-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+|@n(3,30)_p@n(4,70,.3)_p@n(5,0)<_p@n(1,-80)_pp@n(2,-30)>`\@n(10,-60)`=@n(9,-120)`/@n(8,180)\@n(7,120)-</>@n(6,120)\\@w()
+$>
+
+en: spiro[4.5]deca-1,9-dien-6-ylidene (preferred prefix) 
+ru: спиро[4,5]дека-1,9-диен-6-илиден (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+\\@n(2,-30)|@n(3,30)`/@n(4,90)`\`//`\`||/\\<|>/@n(1,-30)`|@w()
+$>
+
+en: 3,4-dihydronaphthalen-1-yl (preferred prefix) 
+ru: 3,4-дигидронафталин-1-ил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`//`\`//`\`||/\\<|>/@n(1)\NH@n(2,160,.55)|@n(3,-30)\@w()
+$>
+
+en: 1,2-dihydroisoquinolin-3-yl (preferred prefix)
+ru: 1,2-дигидроизохинолин-3-ил (предпочтительный префикс)
+
+@End
+
+#P-57.1.6.2+
+en: Two important changes from previous recommendations involving prefixes derived from parent hydrides 
+with modified degrees of hydrogenation must be noted. 
+ru: Необходимо отметить два важных изменения по сравнению с предыдущими рекомендациями, касающимися префиксов, 
+полученных от &(parent hydride|ro*) с измененными степенями гидрирования.
+
+#(1)
+en: In acyclic prefixes, the longest chain is chosen as the principal chain; 
+ru: В ациклических префиксах в качестве главной цепи выбирается самая длинная цепь;
+
+@p .framed
+en: In these recommendations, a major change in the naming of substituents derived from unsaturated acyclic 
+compounds is adopted in which the longest chain is chosen as the parent chain regardless of the number or type of 
+multiple bonds. 
+ru: В данных рекомендациях принято существенное изменение в наименовании &(substituent|ro*), полученных из ненасыщенных 
+ациклических соединений, при котором в качестве &(parent chain|ro) выбирается самая длинная цепь независимо от числа или 
+типа кратных связей.
+
+@Examples 2 .cells-align-top
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+CH3@n(1)-CH@n(2)=CH@n(3)-CH@n(4,90)<`|{}>-CH2@n(5)-CH2@n(6)-CH3@n(7)
+$>
+
+en: hept-2-en-4-yl [alkanyl type;  <br>
+see P-29.2 method (2)]  <br>
+(preferred prefix) 
+ru: гепт-2-ен-4-ил [тип алканила; <br>
+см. метод P-29.2 (2)] <br>
+(предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH@n(3)=CH@n(2)-CH@n(1,90)<`|{}>-CH2-CH2-CH3
+$>
+
+en: 1-propylbut-2-en-1-yl [alkyl type;  <br>
+see P-29.2 method (1)] 
+ru: 1-пропилбут-2-ен-1-ил [алкильный тип; <br>
+см. метод P-29.2 (1)]
+
+@End
+
+#(2)
+en: In acyclic prefixes derived from alkanes modified by skeletal replacement (‘a’) nomenclature, the ‘a’ prefixes have 
+seniority over suffixes, such as ‘yl’ and ‘ylidene’. 
+ru: В ациклических префиксах, полученных от алканов, модифицированных в номенклатуре &(skeletal replacement a|ro), 
+префиксы «а» имеют приоритет над суффиксами, такими как «ил» и «илиден».
+
+@p .framed
+en: Fixed numbering for heteroacyclic parent structures named by skeletal replacement (‘a’) nomenclature is a major 
+change to Rule C-0.6 (ref. 1) where principal characteristic groups and free valence were preferred over heteroatoms 
+for low locants. 
+ru: Фиксированная нумерация для гетероациклических &(parent structure|ro*), названных по номенклатуре &(skeletal replacement a|ro), 
+является существенным изменением правила C-0.6 (ссылка 1), где основные &(characteristic group|*) и свободная валентность 
+были предпочтительны по сравнению с гетероатомами для меньших локантов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-@:seg(a,b,c)O@n(&a)-CH2@n(&b)-CH2@n(&c)@(2,3,4)-@seg(5,6,7)-@seg(8,9,10)-O@n(11)-CH@n(12)=CH@n(13)-{}
+$>
+
+en: 2,5,8,11-tetraoxatridec-12-en-13-yl (preferred prefix)  <br>
+(not 3,6,9,12-tetraoxatridec-1-en-1-yl;  <br>
+the suffix ‘-yl’ is added to the parent hydride name 2,5,8,11-tetraoxatridecane) 
+ru: 2,5,8,11-тетраоксатридек-12-ен-13-ил (предпочтительный префикс) <br>
+(не 3,6,9,12-тетраоксатридек-1-ен-1-ил; <br>
+суффикс «-ил» добавляется к названию исходного гидрида 2,5,8,11-тетраоксатридекан)
+
+@End
+
+#P-57.1.6.3
+en: Retained prefixes derived from parent hydrides with modified degrees of hydrogenation 
+ru: Сохраненные префиксы, полученные от &(parent hydride|ro*) с измененными степенями гидрирования
+
+@p .has-inline-formula
+en: There are no retained prefixes derived from parent hydrides with a modified degree of hydrogenation recommended as 
+preferred prefixes. The retained prefixes vinyl (ethenyl), for <%f1%>; vinylidene (ethenylidene), for <%f2%>; allyl 
+(prop-2-en-1-yl), for <%f3%>; allylidene (prop-2-en-1-ylidene), for <%f4%> ; and allylidyne  
+(prop-2-en-1-ylidyne) for <%f5%>; are retained but only for general nomenclature (see P-32.3). Substitution is 
+allowed, but not by alkyl or any other group that extends the carbon chain or by characteristic groups expressed by 
+suffixes. The preferred prefixes are given in parentheses. 
+ru: Нет сохраненных префиксов, полученных от &(parent hydride|ro*) с измененной степенью гидрирования, рекомендованных 
+в качестве предпочтительных префиксов. Сохраненные префиксы винил (этенил) для <%f1%>; винилиден (этенилиден) для <%f2%>; 
+аллил (проп-2-ен-1-ил) для <%f3%>; аллилиден (проп-2-ен-1-илиден) для <%f4%>; и аллилидин (проп-2-ен-1-илидин) для <%f5%>; 
+сохранены, но только для общей номенклатуры (см. P-32.3). Замещение допускается, но не алкильной или любой другой группой, 
+удлиняющей углеродную цепь, или характерными группами, обозначенными суффиксами. Предпочтительные префиксы указаны в скобках.
+%f1: <$ CH2=CH–{} $>
+%f2: <$ CH2=C={} $>
+%f3: <$ @:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; CH2@n(3)=CH@n(2)-CH2@n(1)-{} $>
+%f4: <$ @:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; CH2@n(3)=CH@n(2)-CH@n(1)={} $>
+%f5: <$ CH2=CH-C≡{} $>
+
+en: The prefix isopropenyl (prop-1-en-2-yl), for <%f1%>, is a retained prefix but is not used as a preferred prefix. It 
+is acceptable for general use but no substitution is allowed. The preferred prefix is given in parentheses. 
+ru: Префикс изопропенил (проп-1-ен-2-ил) для <%f1%> сохранён, но не используется в качестве предпочтительного префикса. 
+Он приемлем для общего использования, но замена не допускается. Предпочтительный префикс указан в скобках.
+%f1: <$ CH2=C(CH3)–{} $>
+
+en: The prefixes indan-2-yl, indolin-2-yl, isoindolin-2-yl, chroman-2-yl and isochroman-2-yl, as well as other isomers, are 
+recommended for general nomenclature only, with unlimited substitution (see Table 3.2). 
+ru: Префиксы индан-2-ил, индолин-2-ил, изоиндолин-2-ил, хроман-2-ил и изохроман-2-ил, а также другие изомеры рекомендуются 
+только для общей номенклатуры с неограниченной заменой (см. &[табл. 3.2]).
+
+
+#P-57.2
+en: Prefixes derived from characteristic (functional) groups 
+ru: Префиксы, образованные от &(characteristic [group]|ro*) (функциональных) групп
+
+en: Names of prefixes derived from characteristic groups are either retained names or are systematically formed by 
+substitutive nomenclature. Retained prefixes are described in P-35.2.1 and P-35.2.3. Substitutive systematic prefixes are 
+formed by the general methodology described for prefixes derived from parent hydrides (see P-57.1.1). In fact, prefixes 
+derived from characteristic groups are those derived from parent hydrides of Groups 17, 16 and from azane in Group 
+15; they are discussed in P-35.2.2. 
+ru: Названия с префиксами, образованными от &(characteristic group|ro), либо сохраняются, либо систематически образуются 
+с помощью &(substitutive nomenclature|ro). Сохраняющиеся префиксы описаны в P-35.2.1 и P-35.2.3. Систематические 
+&(substitutive prefix|*) образуются по общей методологии, описанной для префиксов, образованных от &(parent hydride|ro*) 
+(см. P-57.1.1). Фактически, префиксы, образованные от &(characteristic group|ro*), — это префиксы, образованные от 
+&(parent hydride|ro*) групп 17, 16 и азана группы 15; они обсуждаются в P-35.2.2.
+
+#P-57.3
+en: Prefixes derived from functional parent compounds 
+ru: Префиксы, полученные от функциональных &(parent compound|ro*)
+
+en: Names of prefixes derived from functional parent compounds are either retained prefixes or are systematically formed 
+by substitutive nomenclature. Retained prefixes corresponding to functional parent compounds used as preferred 
+prefixes are described in P-34.2. Retained prefixes derived from functional compounds that can only be used in general 
+nomenclature are described in Chapter P-6 in Sections related to specific classes. Appendix 2 contains all prefixes 
+derived from functional parent hydrides. 
+ru: Названия префиксов, образованных от функциональных &(parent compound|ro*), либо сохраняются, либо систематически 
+формируются с помощью &(substitutive nomenclature|ro). Сохраненные префиксы, соответствующие функциональным &(parent compound|da), 
+используемым в качестве предпочтительных префиксов, описаны в P-34.2. Сохраненные префиксы, образованные от функциональных 
+соединений, которые могут использоваться только в общей номенклатуре, описаны в главе P-6 в разделах, посвященных конкретным 
+классам. Приложение 2 содержит все префиксы, образованные от функциональных &(parent hydride|ro*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,30)_q6NH@n(\textit{N},-90,.55)-{}
+$>
+
+en: anilino (preferred prefix)  <br>
+(a retained simple prefix derived from aniline;  <br>
+full substitution is allowed; see P-34.2.1.3)  <br>
+phenylamino 
+ru: анилино (предпочтительный префикс) <br>
+(сохранённый простой префикс, образованный от анилина; <br>
+допускается полная замена; см. P-34.2.1.3) <br>
+фениламино
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,30)_q6O-{}
+$>
+
+en: phenoxy (preferred prefix)  <br>
+(a retained simple prefix derived from phenol;  <br>
+substitution allowed; see P-63.2.2.2)
+ru: фенокси (предпочтительный префикс) <br>
+(сохранённый простой префикс, образованный от фенола; <br>
+допускается замена; см. P-63.2.2.2)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`//`-`\\@n(1,120)<`-@w()>/=\@n(4,60)-NH2
+$>
+
+en: 4-aminophenyl (preferred prefix)  <br>
+(a systematic compound prefix)
+ru: 4-аминофенил (предпочтительный префикс) <br>
+(префикс для систематических соединений)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+`//`-`\\@n(1,120)<`-@w()>/=\@n(4,60)-O-CH3
+$>
+
+en: 4-methoxyphenyl (preferred prefix)  <br>
+(a systematic compound prefix) 
+ru: 4-метоксифенил (предпочтительный префикс) <br>
+(префикс для систематических соединений)
+
+@cell
+<$ H-CO–{} $>
+
+en: formyl (preferred prefix,  <br>
+see P-65.1.7.2.1)
+ru: формил (предпочтительный префикс, <br>
+см. P-65.1.7.2.1)
+
+@cell
+<$ CH3-CO–{} $>
+
+en: acetyl (preferred prefix,  <br>
+see P-65.1.7.2.1) 
+ru: ацетил (предпочтительный префикс, <br>
+см. P-65.1.7.2.1)
+
+@End
+
+#P-57.4
+en: Construction of linear compound and/or complex substituent prefixes
+ru: Построение линейных &(compound [substituent group]|ro*) и/или &(complex substituent prefix|ro*)
+
+en: Linear compound and complex prefixes are constructed in a stepwise manner by working backwards component by 
+component from the free valence. At each step, when a choice is possible, the largest nomenclaturally significant 
+component is chosen. 
+ru: Линейные &(compound [prefix]|*) и &(complex [prefix]|*) префиксы строятся поэтапно, покомпонентно, начиная со свободной 
+валентности. На каждом этапе, если возможен выбор, выбирается наибольший номенклатурно значимый компонент.
+
+en: Contracted prefixes, such as methoxy are considered in their systematic uncontracted form, i.e. methyloxy.
+ru: Сокращённые префиксы, такие как метокси, рассматриваются в их систематической несокращённой форме, т. е. метилокси.
+
+@Examples multi
+
+@cell
+<$ C6H5-CH2-O–{} $>
+
+en: benzyloxy (preferred prefix)  <br>
+phenylmethoxy
+ru: бензилокси (предпочтительный префикс) <br>
+фенилметокси
+
+@End
+
+en: **Explanation**: The primary component is ‘oxy’ in both prefixes (methoxy is treated as methyl and oxy). For the next 
+component, there is a choice between ‘methyl’ and ‘benzyl’. ‘Benzyl’ is chosen; it is larger than ‘methyl’ leading to the 
+prefix ‘benzyloxy’. 
+ru: **Пояснение**: В обоих префиксах первичный компонент — «окси» (метокси рассматривается как метил и окси). Для следующего компонента можно выбрать «метил» или «бензил». Выбран «бензил»; он больше «метила», что приводит к префиксу «бензилокси».
+
+@Examples --
+
+@cell
+<$ `//`-`\\<`-Cl>/=\-CH2-O-{} $>
+
+en: (4-chlorophenyl)methoxy (preferred prefix)  <br>
+not (4-chlorobenzyl)oxy
+ru: (4-хлорфенил)метокси (предпочтительный префикс) <br>
+не (4-хлорбензил)окси
+
+@End
+
+en: **Explanation**: The primary substituent is ‘oxy’ in both prefixes (‘methoxy’ is treated as ‘methyl’ and ‘oxy’). For the 
+next component, there is a choice is between ‘methyl’ and a substituted ‘benzyl’. Since ‘benzyl’ is not substitutable, the 
+alternative ‘methyl’ is the preferred secondary component, leading to ‘(phenylmethyl)oxy’ and finally to  
+‘(4-chlorophenyl)methoxy’. 
+ru: **Пояснение**: Первичный заместитель — «окси» в обоих префиксах («метокси» рассматривается как «метил» и «окси»). 
+Для следующего компонента существует выбор между «метилом» и замещенным «бензилом». Поскольку «бензил» не замещается, 
+предпочтительным вторичным компонентом является «метил», что приводит к «(фенилметил)окси» и, наконец, к «(4-хлорфенил)метокси».
+
+@Examples --
+
+@cell
+<$ `//`-`\\/=\-CH2-O-/=\<`//`-`\\>-CH2-O-{} $>
+
+en: [4-(benzyloxy)phenyl]methoxy (prefered prefix)
+ru: [4-(бензилокси)фенил]метокси (предпочтительный префикс)
+
+@End
+
+en: **Explanation**: The primary substituent is ‘oxy’. As the ‘benzyl’ group that follows is substituted, the second component 
+name, as shown in the second example above, is ‘phenylmethoxy’. The third component is ‘benzyloxy’ as described in 
+the first example above, leading to the prefix ‘[(4-benzyloxy)phenyl]methoxy’. 
+ru: **Пояснение**: Первичный &(substituent) — «окси». Поскольку следующая за ним «бензильная» группа замещена, название 
+второго компонента, как показано во втором примере выше, — «фенилметокси». Третий компонент — «бензилокси», как описано 
+в первом примере выше, что приводит к префиксу «[(4-бензилокси)фенил]метокси».
+
+@Examples --
+
+@cell
+<$ C6H5-NH-CO-CH2–{} $>
+
+en: 2-anilino-2-oxoethyl (preferred prefix)
+ru: 2-анилино-2-оксоэтил (предпочтительный префикс)
+
+@End
+
+en: **Explanation**: The primary component involves a choice between a ‘methyl’ group and a (substituted) ‘ethyl’ group. 
+The larger ‘ethyl’ group is chosen. Then the choice for the second component is between ‘phenylamino’ and  
+‘anilino’; and ‘anilino’ is chosen as retained prefix preferred to ‘phenylamino’ (see P-62.2.1.1.1) leading to the prefix  
+‘2-anilino-2-oxoethyl’. 
+ru: **Пояснение**: Первичный компонент предполагает выбор между «метильной» группой и (замещённой) «этильной» группой. 
+Выбирается большая «этильная» группа. Затем для второго компонента делается выбор между «фениламино» и «анилино»; 
+при этом «анилино» выбирается в качестве сохраняемого префикса, предпочтительнее «фениламино» (см. P-62.2.1.1.1), что приводит 
+к префиксу «2-анилино-2-оксоэтил».
+
+@Examples --
+
+@cell
+<$ `//`-`\\/=\-/=\<`//`-`\\>-O-{} $>
+
+en: ([1,1′-biphenyl]-4-yl)oxy (preferred prefix)  <br>
+(not 4-phenylphenoxy) 
+ru: ([1,1′-бифенил]-4-ил)окси (предпочтительный префикс) <br>
+(не 4-фенилфенокси)
+
+@End
+
+en: **Explanation**: The primary component is ‘oxy’ (‘phenoxy’ is treated as ‘phenyl’ and ‘oxy’). The next component is 
+‘[1,1′-biphenyl]-4-yl’, derived from the preferred retained name ‘1,1′-biphenyl’ (see P-29.3.5) which is larger than 
+‘phenyl’, which results in the prefix ‘([1,1′-biphenyl]-4-yl)oxy’. 
+ru: **Пояснение**: Первичный компонент — «окси» («фенокси» рассматривается как «фенил» и «окси»). Следующий компонент — 
+«[1,1′-бифенил]-4-ил», происходящий от предпочтительного сохранённого названия «1,1′-бифенил» (см. P-29.3.5), которое больше 
+«фенила», что приводит к префиксу «([1,1′-бифенил]-4-ил)окси».
+
+@Examples --
+
+@cell
+<$ (CH3)2N-CO-NH-N={} $>
+
+en: (dimethylcarbamoyl)hydrazinylidene (preferred prefix)  <br>
+[not [(dimethylamino)carbonyl]hydrazinylidene] 
+ru: (диметилкарбамоил)гидразинилиден (предпочтительный префикс) <br>
+[не [(диметиламино)карбонил]гидразинилиден]
+
+@End
+
+en: **Explanation**: The primary component is ‘hydrazinylidene’ that is preferred to ‘diazanylidene’ (see P-68.3.1.2.1). The 
+next component involves a choice between ‘carbamoyl’ and ‘carbonyl’; ‘carbamoyl’ is larger and is preferred according 
+to P-65.2.1.5. Thus, the preferred prefix is ‘(dimethylcarbamoyl)hydrazinylidene’. 
+ru: **Пояснение**: Первичный компонент — «гидразинилиден», который предпочтительнее «диазанилидена» (см. P-68.3.1.2.1). 
+Следующий компонент предполагает выбор между «карбамоилом» и «карбонилом»; «карбамоил» больше и предпочтительнее согласно 
+P-65.2.1.5. Таким образом, предпочтительный префикс — «(диметилкарбамоил)гидразинилиден».
+
+@Examples --
+
+@cell
+<$ C6H11-CO-S–{} $>
+
+en: (cyclohexanecarbonyl)sulfanyl (preferred prefix)  <br>
+[not (cyclohexylcarbonyl)sulfanyl] 
+ru: (циклогексанкарбонил)сульфанил (предпочтительный префикс) <br>
+[не (циклогексилкарбонил)сульфанил]
+
+@End
+
+en: **Explanation**: The primary component is ‘sulfanyl’ in both prefixes. For the second component, the choice is between 
+‘cyclohexanecarbonyl’ and ‘carbonyl’; ‘cyclohexanecarbonyl’ is larger and is preferred to the two-part prefix 
+‘cyclohexylcarbonyl’ (see P-65.1.7.4.2), resulting in the preferred prefix ‘(cyclohexanecarbonyl)sulfanyl’. 
+ru: **Пояснение**: В обоих префиксах первичным компонентом является «сульфанил». Для второго компонента выбор делается между 
+«циклогексанкарбонил» и «карбонил». «Циклогексанкарбонил» больше и предпочтительнее двухкомпонентного префикса 
+«циклогексилкарбонил» (см. P-65.1.7.4.2), поэтому предпочтительным является префикс «(циклогексанкарбонил)сульфанил».

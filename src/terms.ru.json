@@ -1,0 +1,788 @@
+{
+  " attantion:comm!": "В ключах нельзя использовать большие буквы!",
+
+  "aci": "_аци_",
+
+  "added indicated hydrogen": "добавленный указанный водород",
+  "added indicated hydrogen|ro": "добавленного указанного водорода",
+  "added indicated hydrogen|da": "добавленному указанному водороду",
+  "added indicated hydrogen|tv": "добавленным указанным водородом",
+  "added indicated hydrogen|pr": "добавленном указанном водороде",
+
+  "additive operation|ro": "аддитивной операции",
+
+  "amplificant": "амплификант",
+  "amplificant|ro": "амплификанта",
+  "amplificant|*": "амплификанты",
+  "amplificant|ro*": "амплификантов",
+  "amplificant|tv*": "амплификантами",
+
+  "amplification": "амплификация",
+  "amplification|ro": "амплификации",
+  "amplification|tv": "амплификацией",
+
+  "amplification prefix": "префикс амплификации",
+  "amplification prefix|ro": "префикса амплификации",
+  "amplification prefix|tv": "префиксом амплификации",
+  "amplification prefix|*": "префиксы амплификации",
+  "amplification prefix|ro*": "префиксов амплификации",
+  "amplification prefix|tv*": "префиксами амплификации",
+
+  "assembly|comment": "по тексту сочетается с прилагательными в женском роде",
+  "assembly": "сборка",
+  "assembly|ro": "сборки",
+  "assembly|vi": "сборку",
+  "assembly|pr": "сборке",
+  "assembly|*": "сборки",
+  "assembly|ro*": "сборок",
+  "assembly|da*": "сборокам",
+  "assembly|tv*": "сборками",
+
+  "attachment atom": "атом прикрепления",
+  "attachment atom|*": "атомы прикрепления",
+  "attachment atom|tv*": "атомами прикрепления",
+
+  "attached component": "прикреплённый компонент",
+  "attached component|ro": "прикреплённого компонента",
+
+  "attachment locant": "локант прикрепления",
+  "attachment locant|ro": "локанта прикрепления",
+  "attachment locant|da": "локанту прикрепления",
+  "attachment locant|*": "локанты прикрепления",
+  "attachment locant|ro*": "локантов прикрепления",
+  "attachment locant|tv*": "локантами прикрепления",
+
+  "benzyne|comment": "Речь о веществе https://www.chemspider.com/Chemical-Structure.109690.html - Имеет краткое англ название benzyne, но русскоязычного аналога не найдено",
+  "benzyne": "benzyne",
+
+  "bonding number": "число связей",
+  "bonding number|ro": "числа связей",
+  "bonding number|tv": "числом связей",
+  "bonding number|pr": "числе связей",
+  "bonding number|tv*": "числами связей",
+
+  "bridge prefix": "мостиковый префикс",
+
+  "bridged fused hydrocarbon ring system|ro": "системы мостиковых конденсированных углеводородных колец",
+
+  "bridged fused nomenclature": "мостиковая конденсированная номенклатура",
+  "bridged fused nomenclature|ro": "мостиковой конденсированной номенклатуры",
+
+  "bridged fused system": "мостиковая конденсированная система",
+  "bridged fused system|*": "мостиковые конденсированные системы",
+  "bridged fused system|ro*": "мостиковых конденсированных систем",
+  "bridged fused system|tv*": "мостиковыми конденсированными системами",
+
+  "bridged [system]|ro*": "конденсированных",
+
+  "bridged fused ring system": "система мостиковых конденсированных колец",
+  "bridged fused ring system|*": "системы мостиковых конденсированных колец",
+  "bridged fused ring system|ro*": "систем мостиковых конденсированных колец",
+  "bridged fused ring system|da*": "системам мостиковых конденсированных колец",
+  "bridged fused ring system|vi*": "системы мостиковых конденсированных колец",
+  "bridged fused ring system|tv*": "системами мостиковых конденсированных колец",
+  "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
+
+  "bridged fused ring name": "название мостикового конденсированного кольца",
+
+  "bridged ring system": "система мостиковых колец",
+  "bridged ring system|ro": "системы мостиковых колец",
+  "bridged ring system|vi": "систему мостиковых колец",
+  "bridged ring system|tv": "системой мостиковых колец",
+  "bridged ring system|ro*": "систем мостиковых колец",
+
+  "bridging": "образование мостика",
+  "bridging|ro": "образования мостика",
+  "bridging|tv": "образованием мостика",
+
+  "bridging nomenclature": "мостиковая номенклатура",
+
+  "carbohydroxamic acid": "карбогидроксамовая кислота",
+  "carbohydroxamic [acid]": "карбогидроксамовая",
+  "carbohydroximic acid": "карбогидроксимовая кислота",
+  "carbohydroximic acid|*": "карбогидроксимовые кислоты",
+  "carbohydroximic [acid]": "карбогидроксимовая",
+
+  "carboximidic [acid]": "карбоксимидная",
+  "carboximidic acid": "карбоксимидная кислота",
+  "carboximidic acid|*": "карбоксимидные кислоты",
+
+  "chalcogen analogue": "халькогеновый аналог",
+  "chalcogen analogue|ro": "халькогенового аналога",
+  "chalcogen analogue|*": "халькогеновые аналоги",
+  "chalcogen analogue|ro*": "халькогеновых аналогов",
+  "chalcogen analogue|tv*": "халькогеновыми аналогами",
+
+  "characteristic [group]": "характеристическая",
+  "characteristic [group]|*": "характеристические",
+  "characteristic [group]|ro*": "характеристических",
+  "characteristic [group]|tv*": "характеристическими",
+  "characteristic group": "характеристическая группа",
+  "characteristic group|ro": "характеристической группы",
+  "characteristic group|da": "характеристической группе",
+  "characteristic group|tv": "характеристической группой",
+  "characteristic group|vi": "характеристическую группу",
+  "characteristic group|*": "характеристические группы",
+  "characteristic group|ro*": "характеристических групп",
+  "characteristic group|da*": "характеристическим группам",
+  "characteristic group|tv*": "характеристическими группами",
+
+  "citation": "цитирование",
+  "citation|ro": "цитирования",
+  "citation|pr": "цитировании",
+  "cite": "цитировать",
+  "cited": "цитируется",
+  "cited|p*": "цитируемые",
+  "cited|ro": "цитируемого",
+  "cited|*": "цитируются",
+  "cited|ro*": "цитируемых",
+  "cited|s*": "процитированы",
+  "citing": "цитирование",
+
+  "complete substituent": "полный заместитель",
+
+  "complex [prefix]": "сложный",
+  "complex [prefix]|*": "сложные",
+  "complex substituent prefix": "сложный замещающий префикс",
+  "complex substituent prefix|ro": "сложного замещающего префикса",
+  "complex substituent prefix|*": "сложные замещающие префиксы",  
+  "complex substituent prefix|ro*": "сложных замещающих префиксов", 
+  
+  "complex [substituent]": "сложный",
+  "complex [substituent]|tv": "сложным",
+  "complex substituent|*": "сложные заместители",
+
+  "complex substituent group": "сложная замещающая группа",
+  "complex substituent group|*": "сложные замещающие группы",
+
+  "compound class|ro": "составного класса",
+
+  "compound locant": "составной локант",
+  "compound locant|few": "составных локанта",
+  "compound locant|da": "составному локанту",
+  "compound locant|*": "составные локанты",
+  "compound locant|ro*": "составных локантов",
+
+  "compound [substituent group]": "составная",
+  "compound [substituent group]|ro": "составной",
+  "compound [substituent group]|da": "составной",
+  "compound [substituent group]|ro*": "составных",
+  "compound [substituent group]|*": "составные",
+  "compound catenated substituent group": "составная катенированная замещающая группа",
+  "compound catenated substituent group|*": "составные катенированные замещающие группы",
+  "compound substituent group": "составная замещающая группа",
+  "compound substituent group|ro": "составной замещающей группы",
+  "compound substituent group|*": "составные замещающие группы",
+  "compound substituent group|ro*": "составных замещающих групп",
+
+  "compound [substituent]": "составной",
+  "compound [substituent]|tv": "составным",
+  "compound [substituent]|*": "составные",
+  "compound substituent": "составной заместитель", 
+  "compound substituent|ro": "составного заместителя", 
+  "compound substituent|*": "составные заместители",
+  "compound substituent|ro*": "составных заместителей",
+
+  "compound [prefix]": "составной",
+  "compound [prefix]|ro": "составного",
+  "compound [prefix]|*": "составные",
+  "compound [prefix]|ro*": "составных",
+  "compound substituent prefix": "составной замещающий префикс",
+  "compound substituent prefix|ro": "составного замещающего префикса",
+  "compound substituent prefix|da": "составному замещающему префиксу",
+  "compound substituent prefix|*": "составные замещающие префиксы",
+  "compound substituent prefix|ro*": "составных замещающих префиксов",
+
+  "composite bridge": "составной мост",
+  "composite bridge|ro*": "составных мостов",
+
+  "composite locant": "композитный локант",
+  "composite locant|tv": "композитным локантом",
+  "composite locant|*": "композитные локанты",
+  "composite locant|ro*": "композитных локантов",
+  "composite locant|tv*": "композитными локантами",
+
+  "concatenated [substituent group]|*": "сцепленные",
+
+  "conjunctive name": "конъюнктивное название",
+
+  "conjunctive nomenclature": "конъюнктивная номенклатура",
+  "conjunctive nomenclature|ro": "конъюнктивной номенклатуры",
+  "conjunctive nomenclature|tv": "конъюнктивной номенклатурой",
+
+  "cumulative suffix": "кумулятивный суффикс",
+  "cumulative suffix|*": "кумулятивные суффиксы",
+
+  "cyclophane": "циклофан",
+  "cyclophane|ro": "циклофана",
+  "cyclophane|*": "циклофаны",
+  "cyclophane|ro*": "циклофанов",
+
+  "divalent bridge": "двухвалентный мост",
+  "divalent bridge|ro": "двухвалентного моста",
+  "divalent bridge|ro*": "двухвалентных мостов",
+  
+
+  "dependent bridge": "зависимый мост",
+  "dependent bridge|ro": "зависимого моста",
+  "dependent bridge|pr": "зависимом мосте",
+  "dependent bridge|ro*": "зависимых мостов",
+  "dependent bridge|pr*": "зависимых мостах",
+
+  "detachable [prefix]": "отделяемый",
+  "detachable [prefix]|ro": "отделяемого",
+  "detachable [prefix]|tv": "отделяемым",
+  "detachable [prefix]|*": "отделяемые",
+  "detachable [prefix]|ro*": "отделяемых",
+  "detachable [prefix]|tv*": "отделяемыми",
+  "detachable [prefix]|da*": "отделяемым",
+
+
+  "functional class name": "название по функциональному классу",
+  "functional class name|ro": "названия по функциональному классу",
+  "functional class name|pr": "названии по функциональному классу",
+  "functional class name|*": "названия по функциональному классу",
+  "functional class name|ro*": "названий по функциональному классу",
+  "functional class name|da*": "названиям по функциональному классу",
+  "functional class name|tv*": "названиями по функциональному классу",
+
+  "functional class nomenclature": "номенклатура функциональных классов",
+  "functional class nomenclature|ro": "номенклатуры функциональных классов",
+  "functional class nomenclature|da": "номенклатуре функциональных классов",
+  "functional class nomenclature|vi": "номенклатуру функциональных классов",
+  "functional class nomenclature|pr": "номенклатуре функциональных классов",
+
+  "functional parent": "функциональный родитель",
+  "functional parent|*": "функциональные родители",
+  "functional parent|ro*": "функциональных родителей",
+
+  "functional replacement nomenclature": "номенклатура функционального замещения",
+  "functional replacement nomenclature|ro": "номенклатуры функционального замещения",
+
+  "functional replacement prefix": "префикс функционального замещения",
+  
+  "functional suffix": "функциональный суффикс",
+  "functional suffix|*": "функциональные суффиксы",
+  "functional suffix|ro*": "функциональных суффиксов",
+  "functional suffix|tv*": "функциональными суффиксами",
+
+  "functionalized parent hydride": "функционализированный исходный гидрид",
+  "functionalized [hydride]": "функционализированный",
+
+  "fused ring name": "название конденсированных колец",
+
+  "fused ring nomenclature|pr": "номенклатуре конденсированных колец",
+
+  "fused ring system": "конденсированная кольцевая система",
+  "fused ring system|ro": "конденсированной кольцевой системы",
+  "fused ring system|tv": "конденсированной кольцевой системой",
+  "fused ring system|vi": "конденсированную кольцевую систему",
+  "fused ring system|pr": "конденсированной кольцевой системе",
+  "fused ring system|*": "конденсированные кольцевые системы",
+  "fused ring system|ro*": "конденсированных кольцевых систем",
+  "fused ring system|da*": "конденсированным кольцевым системам",
+  "fused ring system|pr*": "конденсированных кольцевых системах",
+
+  "fused system": "конденсированная система",
+  "fused system|*": "конденсированные системы",
+  "fused system|ro*": "конденсированных систем",
+  "fused system|tv*": "конденсированными системами",
+  "fused system|pr*": "конденсированных системах",
+  "fused [system]|ro": "конденсированной",
+
+
+  "fusion atom": "атом слияния",
+  "fusion atom|pr": "атоме слияния",
+  "fusion atom|*": "атомы слияния",
+  "fusion atom|ro*": "атомов слияния",
+
+  "fusion component": "компонент слияния",
+  "fusion component|*": "компоненты слияния",
+  "fusion component|ro*": "компонентов слияния",
+
+  "fusion descriptor": "дескриптор слияния",
+  "fusion descriptor|pr": "дескрипторе слияния",
+
+  "fusion letter|*": "буквы слияния",
+
+  "fusion locant|tv*": "локантами слияния",
+
+  "fusion name": "название слияния",
+  "fusion name|pr": "названии слияния",
+  "fusion name|*": "названия слияния",
+  "fusion name|ro*": "названий слияния",
+  "fusion name|pr*": "названиях слияния",
+
+  "fusion nomenclature": "номенклатура слияния",
+  "fusion nomenclature|ro": "номенклатуры слияния",
+  "fusion nomenclature|da": "номенклатуре слияния",
+  "fusion nomenclature|vi": "номенклатура слияния",
+  "fusion nomenclature|tv": "номенклатурой слияния",
+  "fusion nomenclature|pr": "номенклатуре слияния",
+
+  "fusion principle|ro*": "принципов слияния",
+  "fusion principle|da*": "принципам слияния",
+
+  "fusion ring name": "название кольца слияния",
+
+  "fusion site": "точка слияния",
+  "fusion site|ro": "точки слияния",
+  "fusion site|ro*": "точек слияния",
+
+  "hantzsch-widman|ro": "Ганча-Видмана",
+
+  "heterophane parent hydride": "исходный гидрид гетерофана",
+  "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
+
+  "heterophane [system]|ro*": "гетерофановых",
+
+  "hydrazonic acid": "гидразоновая кислота",
+  "hydrazonic acid|*": "гидразоновые кислоты",
+
+  "hydroxamic acid": "гидроксамовая кислота",
+  "hydroxamic acid|*": "гидроксамовые кислоты",
+  "hydroximic acid": "гидроксимовая кислота",
+
+  "icos": "эйкоз",
+
+  "independent bridge": "независимый мост",
+  "independent bridge|ro*": "независимых мостов",
+
+  "indicated [hydrogen]": "указанный",
+  "indicated [hydrogen]|ro": "указанного",
+  "indicated hydrogen": "указанный водород",
+  "indicated hydrogen|ro": "указанного водорода",
+  "indicated hydrogen|da": "указанному водороду",
+  "indicated hydrogen|vi": "указанный водород",
+  "indicated hydrogen|tv": "указанным водородом",
+  "indicated hydrogen|pr": "указанном водороде",
+  "indicated hydrogen|ro*":  "указанных водородов",
+
+  "indicated hydrogen atom": "атом указанного водорода",
+  "indicated hydrogen atom|vi": "атома указанного водорода",
+  "indicated hydrogen atom|*": "атомы указанного водорода",
+  "indicated hydrogen atom|ro*": "атомов указанного водорода",
+  "indicated hydrogen atom|da*": "атомам указанного водорода",
+  "indicated hydrogen atom|tv*": "атомами указанного водорода",
+
+  "interparent component|ro": "промежуточного компонента",
+  "interparent component|tv": "промежуточным компонентом",
+  "interparent component|*": "промежуточные компоненты",
+  "interparent component|ro*": "промежуточных компонентов",
+  "interparent component|da*": "промежуточным компонентам",
+  "interparent component|tv*": "промежуточными компонентами",
+
+  "imidic acid": "имидная кислота",
+  "imidic acid|ro": "имидной кислоты",
+  "imidic acid|*": "имидные кислоты",
+  "imidic acid|ro*": "имидных кислот",
+
+  "ium:comment": "Суффикс для таких случаев: methanium - метаний",
+  "ium": "ий",
+
+  "locant set": "набор локантов",
+  "locant set|*": "наборы локантов",
+
+  "mancude:comment": "МАксимальное количество НеКумулятивных Двойных связей",
+  "mancude": "манкуд",
+
+  "methanium": "метаний",
+
+  "mixed substituent prefix": "смешанный замещающий префикс",
+  "mixed substituent prefix|*": "смешанные замещающие префиксы",
+  "mixed substituent prefix|ro*": "смешанных замещающих префиксов",
+
+  "multiparent [system]": "мультиисходная",
+  "multiparent [system]|ro": "мультиисходной",
+  "multiparent [system]|*": "мультиисходные",
+
+  "multiplicative connecting group": "мультипликативная соединительная группа",
+
+  "multiplicative group": "мультипликативная группа",
+  "multiplicative group|ro": "мультипликативной группы",
+  "multiplicative group|*": "мультипликативные группы",
+
+  "multiplicative name": "мультипликативное название",
+  "multiplicative name|ro": "мультипликативного названия",
+  "multiplicative name|tv": "мультипликативным названием",
+  "multiplicative name|*": "мультипликативные названия",
+  "multiplicative name|ro*": "мультипликативных названий",
+
+  "multiplicative nomenclature": "мультипликативная номенклатура",
+  "multiplicative nomenclature|ro": "мультипликативной номенклатуры",
+  "multiplicative nomenclature|tv": "мультипликативной номенклатурой",
+  "multiplicative nomenclature|vi": "мультипликативую номенклатуру",
+  "multiplicative [nomenclature]|vi": "мультипликативую",
+  "multiplicative nomenclature|pr": "мультипликативной номенклатуре",
+
+  "nondetachable [prefix]": "неотделяемый",
+  "nondetachable [prefix]|*": "неотделяемые",
+  "nondetachable [prefix]|ro*": "неотделяемых",
+  "nondetachable [prefix]|tv*": "неотделяемыми",
+
+  "nonfused bridged ring system": "система мостиковых неконденсированных колец",
+  "nonfused bridged ring system|ro*": "систем мостиковых неконденсированных колец",
+  "non-fused bridged system|*": "системы неконденсированных колец",
+
+  "nonstandard bonding atom": "атом с нестандартными связями",
+  "nonstandard bonding atom|2": "атома с нестандартными связями",
+  "nonstandard bonding atom|ro": "атома с нестандартными связями",
+  "nonstandard bonding atom|ro*": "атомов с нестандартными связями",
+
+  "oic acid": "овая кислота",
+  "oic acid|*": "овые кислоты",
+
+  "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
+  "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
+
+  "parent [chain]": "исходная",
+  "parent [chain]|ro": "исходной",
+  "parent [chain]|pr": "исходной",
+  "parent chain|ro": "исходной цепи",
+  "parent chain|da*": "исходным цепям",
+
+  "parent component": "исходный компонент",
+  "parent component|ro": "исходного компонента",
+  "parent component|da": "исходному компоненту",
+  "parent component|vi": "исходный компонент",
+  "parent component|tv": "исходным компонентом",
+  "parent component|pr": "исходном компоненте",
+  "parent component|*": "исходные компоненты",
+  "parent component|ro*": "исходных компонентов",
+  "parent component|da*": "исходным компонентам",
+  "parent component|vi*": "исходные компоненты",
+  "parent component|tv*": "исходными компонентами",
+  "parent component|pr*": "исходных компонентах",
+  "parent [component]|ro": "исходного",
+
+  "parent compound": "исходное соединение",
+  "parent compound|ro": "исходного соединения",
+  "parent compound|da": "исходному соединению",
+  "parent compound|tv": "исходным соединением",
+  "parent compound|*": "исходные соединения",
+  "parent compound|ro*": "исходных соединений",
+  "parent compound|da*": "исходным соединениям",
+  "parent compound|tv*": "исходными соединениями",
+
+  "parent heterocycle": "исходный гетероцикл",
+  "parent heterocycle|*": "исходные гетероциклы",
+  "parent heterocycle|vi*": "исходные гетероциклы",
+
+  "parent hydride": "исходный гидрид",
+  "parent hydride|ro": "исходного гидрида",
+  "parent hydride|da": "исходному гидриду",
+  "parent hydride|tv": "исходным гидридом",
+  "parent hydride|pr": "исходном гидриде",
+  "parent hydride|*": "исходные гидриды",
+  "parent hydride|ro*": "исходных гидридов",
+  "parent hydride|da*": "исходным гидридам",
+  "parent hydride|tv*": "исходными гидридами",
+  "parent hydride|pr*": "исходных гидридах",
+
+  "parent name": "исходное название",
+  "parent name|ro": "исходного названия",
+  "parent name|da": "исходному названию",
+  "parent name|*": "исходные названия",
+
+  "parent phane hydrocarbon": "исходный фановый углеводород",
+  "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
+  "parent phane hydrocarbon|da": "исходному фановому углеводороду",
+
+  "parent ring|ro": "исходного кольца",
+  "parent ring|tv": "исходным кольцом",
+  "parent ring|ro*": "исходных колец",
+  "parent ring|pr*": "исходных кольцах",
+
+  "parent ring structure|ro": "исходной кольцевой структуры",
+
+  "parent ring system|ro": "исходной кольцевой системы",
+  "parent ring system|pr": "исходной кольцевой системе",
+
+  "parent [structure]": "исходная",
+  "parent [structure]|vi": "исходную",
+  "parent [structure]|*": "исходные",
+  "parent structure": "исходная структура",
+  "parent structure|ro": "исходной структуры",
+  "parent structure|da": "исходной структуре",
+  "parent structure|vi": "исходную структуру",
+  "parent structure|tv": "исходной структурой",
+  "parent structure|pr": "исходной структуре",
+  "parent structure|*": "исходные структуры",
+  "parent structure|ro*": "исходных структур",
+  "parent structure|tv*": "исходными структурами",
+  "parent structure|pr*": "исходных структурах",
+
+  "parent skeleton": "исходный скелет",
+  "parent skeleton|ro": "исходного скелета",
+  "parent skeleton|pr": "исходном скелете",
+
+  "parent substituent": "исходный заместитель",
+  "parent substituent|tv": "исходным заместителем",
+
+  "peroxol": "пероксол",
+  "peroxol|*": "пероксолы",
+
+  "phane": "фан",
+  "phane|*": "фаны",
+  "phane|ro*": "фанов",
+  "phane|da*": "фанам",
+
+  "phane compound": "фан-соединение",
+  "phane compound|*": "фан-соединения",
+
+  "phane name": "название фан",
+  "phane name|ro": "названия фан",
+  "phane name|*": "названия фан",
+  "phane name|ro*": "названий фан",
+  "phane name|pr*": "названиях фан",
+
+  "phane node": "фановый узел",
+  "phane node|ro*": "фановых узлов",
+
+  "phane nomenclature": "номенклатура фан",
+  "phane nomenclature|ro": "номенклатуры фан",
+  "phane nomenclature|da": "номенклатуре фан",
+  "phane nomenclature|vi": "номенклатуру фан",
+  "phane nomenclature|tv": "номенклатурой фан",
+  "phane nomenclature|pr": "номенклатуре фан",
+
+  "phane parent hydride": "исходный гидрид фан",
+  "phane parent hydride|ro": "исходного гидрида фан",
+  "phane parent hydride|tv": "исходным гидридом фан",
+  "phane parent hydride|pr": "исходном гидриде фан",
+  "phane parent hydride|*": "исходные гидриды фан",
+  "phane parent hydride|ro*": "исходных гидридов фан",
+  "phane parent hydride|da*": "исходным гидридам фан",
+
+  "phane parent graph": "исходный граф фан",
+  "phane parent graph|ro": "исходного графа фан",
+  "phane parent graph|tv": "исходным графом фан",
+  "phane parent graph|pr": "исходном графе фан",
+
+  "phane parent name": "название исходного фан",
+  "phane parent name|ro": "названия исходного фан",
+  "phane parent name|tv": "названием исходного фан",
+  "phane parent name|pr": "названии исходного фан",
+  "phane parent name|*": "названия исходного фан",
+  "phane parent name|ro*": "названий исходного фан",
+  "phane parent name|tv*": "названиями исходного фан",
+  "phane parent name|pr*": "названиях исходного фан",
+
+  "phane parent skeleton": "исходный скелет фан",
+  "phane parent skeleton|ro": "исходного скелета фан",
+  "phane parent skeleton|tv": "исходным скелетом фан",
+  "phane parent skeleton|pr": "исходном скелете фан",
+  "phane parent skeleton|*": "исходные скелеты фан",
+  "phane parent skeleton|ro*": "исходных скелетов фан",
+
+  "phane replacement": "замена фан",
+  "phane replacement|tv": "заменой фан",
+
+  "phane skeleton": "скелет фановой структуры",
+  "phane skeleton|ro": "скелета фановой структуры",
+  "phane skeleton|*": "скелеты фановых структур",
+  "phane skeleton|ro*": "скелетов фановых структур",
+  "phane skeleton|pr*": "скелетах фановых структур",
+
+  "phane structure": "фановая структура",
+  "phane structure|da": "фановой структуре",
+  "phane structure|*": "фановые структуры",
+
+  "phane [system]": "фановая",
+  "phane [system]|ro*": "фановых",
+  "phane system": "фановая система",
+  "phane system|*": "фановые системы",
+  "phane system|ro*": "фановых систем",
+  "phane system|da*": "фановым системам",
+
+  "polycarbonic acid|*": "полиугольные кислоты",
+
+  "preferred prefix": "предпочтительный префикс",
+  "preferred suffix": "предпочтительный суффикс",
+
+  "preselected name": "предварительно выбранное название",
+
+  "preselected prefix": "предварительно выбранный префикс",
+
+  "quinque": "квинки",
+
+  "replacement a prefix": "префикс замещения (‘a’)",
+  "replacement a prefix|*": "префиксы замещения (‘a’)",
+  "replacement a prefix|ro*": "префиксов замещения (‘a’)",
+  "replacement a prefix|da*": "префиксам замещения (‘a’)",
+
+  "retained [name]*": "сохранённые",
+  "retained [name]pr*": "сохранённых",
+  "retained [name]": "сохранённое",
+  "retained name": "сохранённое название",
+  "retained name|ro": "сохранённого названия",
+  "retained name|tv": "сохранённым названием",
+  "retained name|pr": "сохранённом названии",
+  "retained name|*": "сохранённые названия",
+  "retained name|ro*": "сохранённых названий",
+  "retained name|da*": "сохранённым названиям",
+  "retained name|tv*": "сохранёнными названиями",
+  "retained name|pr*": "сохранённых названиях",
+
+  "[ring] assembly|comment": "часто имеет прилагательные, которые сейчас в женском роде. Если изменить на 'ансамбль', то нужно исправлять",
+  "[ring] assembly": "сборка",
+  "[ring] assembly|ro": "сборки",
+  "[ring] assembly|tv": "сборкой",
+  "[ring] assembly|pr": "сборке",
+  "[ring] assembly|*": "сборки",
+  "[ring] assembly|da*": "сборкам",
+  "[ring] assembly|pr*": "сборках",
+  "ring assembly": "кольцевая сборка",
+  "ring assembly|ro": "кольцевой сборки",
+  "ring assembly|tv": "кольцевыми сборками",
+  "ring assembly|*": "кольцевые сборки",
+  "ring assembly|ro*": "кольцевых сборок",
+  "ring assembly|da*": "кольцевым сборкам",
+  "ring assembly|pr*": "кольцевых сборках",
+
+  "ring junction": "место соединения колец",
+  "ring junction|ro*": "мест соединений колец",
+  "ring junction|da*": "местам соединений колец",
+
+  "seleninic acid": "селениновая кислота",
+  "seleninic acid|*": "селениновые кислоты",
+  "seleninohydrazide": "селениногидразид",
+
+  "selenonamide": "селеноамид",
+  "selenonamide|*": "селеноамиды",
+
+  "selenoic [acid]": "селеновая",
+  "selenoic acid": "селеновая кислота",
+  "selenonic acid": "селеноновая кислота",
+  "selenonic acid|*": "селеноновые кислоты",
+
+  "selone": "селон",
+
+  "skeletal nomenclature|ro": "скелетной номенклатуры",
+
+  "skeletal replacement a": "скелетное замещения (‘a’)",
+  "skeletal replacement a|ro": "скелетного замещения (‘a’)",
+
+  "skeletal replacement name": "название скелетного замещения (‘a’)",
+
+  "spiro atom": "спироатом",
+  "spiro atom|*": "спироатомы",
+  "spiro atom|ro*": "спироатомов",
+
+  "spiro fusion": "спирослияние",
+  "spiro fusion|2": "спирослияния",
+  "spiro fusion|ro*": "спирослияний",
+  "spiro fusion|tv*": "спирослияниями",
+
+  "spiro ring system": "спирокольцевая система",
+  "spiro ring system|*": "спирокольцевые системы",
+  "spiro ring system|ro*": "спирокольцевых систем",
+
+  "spiro system": "спиросистема",
+
+  "subsidiary parent|f": "вторичная исходная",
+  "subsidiary parent|f,tv": "вторичной исходной",
+
+  "subsidiary substituent": "вторичный заместитель",
+  "subsidiary substituent|*": "вторичные заместители",
+
+  "substituent": "заместитель",
+  "substituent|ro": "заместителя",
+  "substituent|da": "заместителю",
+  "substituent|tv": "заместителем",
+  "substituent|*": "заместители",
+  "substituent|ro*": "заместителей",
+  "substituent|da*": "заместителям",
+  "substituent|tv*": "заместителями",
+  "substituent|pr*": "заместителях",
+
+
+  "substituent chain": "заместительная цепь",
+  "substituent chain|ro": "заместительной цепи",
+  "substituent chain|*": "заместительные цепи",
+  "substituent chain|tv*": "заместительными цепями",
+
+  "substituent component": "замещающий компонент",
+  "substituent component|*": "замещающие компоненты",
+
+  "substituent group": "замещающая группа",
+  "substituent group|ro": "замещающей группы",
+  "substituent group|da": "замещающей группе",
+  "substituent group|vi": "замещающую группу",
+  "substituent group|tv": "замещающей группой",
+  "substituent group|pr": "замещающей группе",
+  "substituent group|*": "замещающие группы",
+  "substituent group|ro*": "замещающих групп",
+  "substituent group|tv*": "замещающими группами",
+  "substituent group|pr*": "замещающих группах",
+
+  "substituent prefix": "префикс-заместитель",
+  "substituent prefix|ro": "префикса-заместителя",
+  "substituent prefix|tv": "префиксом-заместителем",
+  "substituent prefix|*": "префиксы-заместители",
+  "substituent prefix|ro*": "префиксов-заместителей",
+  "substituent prefix|tv*": "префиксами-заместителями",
+
+  "substituted [substituent]": "замещённый",
+  "substituted [substituent]|s": "замещён",
+  "substituted [substituent]|*": "замещённые",
+
+  "subtractive modification": "субтрактивная модификация",
+
+  "substitutive [name]|*": "заместительные", 
+  "substitutive [name]|ro*": "заместительных", 
+  "substitutive name": "заместительное название",
+  "substitutive name|*": "заместительные названия",
+  "substitutive name|ro*": "заместительных названий",
+  "substitutive name|tv*": "заместительными названиями",
+  "substitutive name|pr*": "заместительных названиях",
+
+  "substitutive nomenclature": "заместительная номенклатура",
+  "substitutive nomenclature|ro": "заместительной номенклатуры",
+  "substitutive nomenclature|vi": "заместительную номенклатуру",
+  "substitutive nomenclature|tv": "заместительной номенклатурой",
+  "substitutive nomenclature|pr": "заместительной номенклатуре",
+  "substitutive [nomenclature]|ro": "заместительной",
+  "substitutive [nomenclature]|vi": "заместительную",
+
+  "substitutive operation|pr": "замещающей операции",
+
+  "substitutive prefix": "заместительный префикс",
+  "substitutive prefix|*": "заместительные префиксы",
+  "substitutive prefix|ro*": "заместительных префиксов",
+
+  "substitution operation|da": "операции замещения",
+
+  "substitution pattern": "шаблон замещения",
+  "substitution pattern|ro*": "шаблонов замещения",
+
+  "sulfenic acid": "сульфеновая кислота",
+
+  "sulfonamide:comment": "В русскоязычной литературе более известны как сульфаниламиды. Однако с точки зрения систематизации лучше Сульфонамиды",
+  "sulfonamide": "сульфонамид",
+  "sulfonamide|*": "сульфонамиды",
+  "sulfonamide|ro*": "сульфонамидов",
+
+  "sulfonic acid:comment": "Хотя википедии основной вариант - сульфокислоты, но тут выбран вариант 'сульфоновые кислоты', т.к. он единообразен с подобными названиями. И лучше соответствует инфиксам",
+  "sulfonic acid": "сульфоновая кислота",
+  "sulfonic acid|*": "сульфоновые кислоты",
+  "sulfonic acid|ro*": "сульфоновых кислот",
+  "sulfonic acid|da*": "сульфоновым кислотам",
+
+  "tellone": "теллон",
+
+  "tellurinic acid": "теллуриновая кислота",
+  "tellurinic acid|*": "теллуриновые кислоты",
+  "telluroic [acid]": "теллуровая",
+  "telluroic acid": "теллуровая кислота",
+  "telluronic acid": "теллуроновая кислота",
+  "telluronic acid|*": "теллуроновые кислоты",
+
+  "thioic [acid]": "тиоевая",
+  "thioic acid": "тиоевая кислота",
+
+  "von baeyer name": "название по Фон-Баеру",
+  "von baeyer name|ro": "названия по Фон-Баеру",
+
+  "zzz": ""
+}

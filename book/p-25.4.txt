@@ -1,0 +1,1803 @@
+#P-25.4
+en: Bridged fused ring systems 
+ru: Системы мостиковых конденсированных колец
+
+en: This Section is based on the publication ‘Nomenclature of Fused and Bridged Fused Ring Systems’ (ref. 4). Sections  
+P-25.4.2.1.2, P-25.4.2.1.4 and P-25.4.2.2.1 contain modifications to Section FR-8.3 of the 1998 publication (ref. 4). No 
+other modifications have been made to the 1998 publication. 
+ru: Этот раздел основан на публикации «Номенклатура систем с конденсированными и мостиковыми конденсированными кольцами» 
+(ссылка 4). Разделы P-25.4.2.1.2, P-25.4.2.1.4 и P-25.4.2.2.1 содержат изменения в разделе FR-8.3 публикации 1998 года 
+(ссылка 4). Никаких других изменений в публикацию 1998 года не вносилось.
+
+@Content
+
+#P-25.4.1
+en: Definitions and terminology 
+ru: Определения и терминология
+
+#P-25.4.1.1+
+en: Bridged fused ring system. A ring system in which some of the rings constitute a fused ring system (see  
+P-25.0 through P-25.3) and the remaining rings are created by one or more bridges. 
+ru: Система мостиковых конденсированных колец. Система колец, в которой некоторые кольца образуют систему 
+конденсированных колец (см. P-25.0 — P-25.3), а остальные кольца образованы одним или несколькими мостиками.
+
+#P-25.4.1.2+
+en: Bridge. An atom or group of atoms is named as a bridge by means of a prefix if it fulfills one or more of the 
+following:
+ru: Мост. Атом или группа атомов называется мостом с помощью префикса, если он соответствует одному или нескольким 
+из следующих условий:
+
+#(a)
+en: if it connects two or more nonadjacent positions of the same ring in a fused ring system;
+ru: если он соединяет две или более несмежных позиции одного и того же кольца в конденсированной кольцевой системе;
+
+#(b)
+en: if it connects two or more positions of different rings of a fused ring system and does not thereby form a new 
+_ortho_- and _peri_-fused ring; 
+ru: если он соединяет два или более положений различных колец конденсированной кольцевой системы и не образует при 
+этом нового _орто_- и _пери_-конденсированного кольца;
+
+#(c)
+en: if it connects positions of a ring of a fused ring system to a previously described bridge but cannot be included 
+as part of that bridge; 
+ru: если он соединяет позиции кольца конденсированной кольцевой системы с ранее описанным мостом, но не может быть 
+включен как часть этого моста;
+
+#(d)
+en: if it connects the atoms at the end of a bond common to two rings of a fused ring system; 
+ru: если он соединяет атомы на конце связи, общей для двух колец конденсированной кольцевой системы;
+
+#(e)
+en: if it is used to describe a system with only _ortho_- or _ortho_- and _peri_- fusions that cannot be named entirely by 
+fusion principles. 
+ru: если он используется для описания системы, содержащей только _орто_- или _орто_- и _пери_-слияния, которые не могут 
+быть названы полностью по принципам слияния.
+
+@Examples
+en: Examples (bridges are indicated in bold): 
+ru: Примеры (мосты выделены жирным шрифтом):
+
+@cell
+<$
+`//|\\/\\/`||`\`//<|>`\_(x-%d:.25,y1,W2)O_(x%d,y1)
+$>
+
+en: criterion (a)
+ru: критерий (а)
+
+@cell
+<$
+`/`\\`|//\$color(gray)|$color()\\/`||`\`/c/_(x-%d:.3,y1,W2):e;
+#2_(x%d,y-1)_#e
+$>
+
+en: criterion (b)
+ru: критерий (b)
+
+@cell
+<$
+`/`\\:a`|//\||l_q8_qq8:b_q8`|l/\\|`//`\`|_q8`=:c_q8;
+#a_(A-30,W2)_(x1.5)<_(x.9,y-.4)_#c>_(x1,y.4)_#b
+$>
+
+en: criterion (c)
+ru: критерий (c)
+
+@cell
+<$ |`/`\\`|//\/\\|`//`\_(A180,W2)_(P4)_(P4) $>
+
+en: criterion (d)
+ru: критерий (d)
+
+@cell
+<$ `=_q8||_q8=_q8`|l_p7:a_p7_pp7_p7_pp7_p7`|_q8_(y-1,W2)_(P6)_(P6)_#a $>
+
+en: criterion (e)
+ru: критерий (e)
+
+@End
+
+#P-25.4.1.3+
+en: Bridgehead atom. An atom of a fused ring system to which a bridge is attached. 
+ru: Атом предмостьяЁ. Атом конденсированной кольцевой системы, к которому присоединен мостик.
+// Термин Bridgehead обсуждается в P-23.1.1
+
+#P-25.4.1.4+
+en: Simple bridge. A bridge that describes an atom, or groups of atoms, which may be described as a single unit, 
+for example ‘epoxy’, ‘butano’, ‘benzeno’. 
+ru: Простой мост. Мост, описывающий атом или группы атомов, которые могут быть описаны как единое целое, например 
+«эпокси», «бутано», «бензено».
+
+#P-25.4.1.5+
+en: Composite bridge. A group of atoms that can only be described as a contiguous sequence of simple bridges, 
+for example (epoxymethano) = epoxy + methano = <% f %>. 
+ru: &(Composite bridge). Группа атомов, которая может быть описана только как непрерывная последовательность простых мостов,
+например, (эпоксиметано) = эпокси + метано = <% f %>.
+%f: <$ –O-CH2– $>
+
+#P-25.4.1.6+
+en: Divalent bridge. A bridge that is connected by single bonds to two different positions of a fused ring system 
+or bridged fused ring system. All bridges described in P-25.4.2.1 are simple bridges. 
+ru: Двухвалентный мостик. Мост, который соединен одинарными связями с двумя различными позициями конденсированной 
+кольцевой системы или мостиковой конденсированной кольцевой системы. Все мостики, описанные в P-25.4.2.1, 
+являются простыми мостиками.
+
+#P-25.4.1.7+
+en: Polyvalent bridge. A bridge that is connected to a fused ring system by three or more single bonds or their 
+multiple bond equivalent. Polyvalent bridges may often be described by a combination of two simple divalent bridges. 
+Polyvalent bridges may be further classified as bipodal, tripodal, etc., when the bridge is attached to two, three, or more 
+positions of the fused ring system. 
+ru: Поливалентный мост. Мост, который соединен с конденсированной кольцевой системой тремя или более одинарными связями 
+или их эквивалентом с множественной связью. Поливалентные мосты часто можно описать комбинацией двух простых двухвалентных 
+мостов. Поливалентные мосты можно далее классифицировать как биподальные, триподальные и т. д., когда мост присоединен 
+к двум, трем или более позициям конденсированной кольцевой системы.
+
+@Examples
+
+@cell
+<$ `//`\:a`||/\\|\:b//`|`\\:c`/; #c_(x-.3,y1,W2)<_#b>_#a $>
+
+en: a tripodal trivalent bridge
+ru: трехопорный трехвалентный мост
+
+@cell
+<$ |_q_qq_q_qq`\`/||\/`/_(x-%d:.3,y-1,W2):a_(x%d,y-1); #a_(x.3,N0){}_(A-75,L.7){} $>
+
+en: a bipodal trivalent bridge 
+ru: двухопорный трехвалентный мост
+
+@End
+
+#P-25.4.1.8+
+en: Independent bridge. A bridge that only connects two or more positions of a fused ring system (see dependent 
+bridge).
+ru: Независимый мост. Мост, который соединяет только две или более позиций системы слитых колец (см. зависимый мост).
+
+#P-25.4.1.9+
+en: Dependent bridge. A bridge that connects one or more positions of a fused ring system to one or more 
+positions of a simple or composite independent bridge, and cannot be expressed as part of a larger composite bridge. 
+ru: &(Dependent bridge). Мост, который соединяет одну или несколько позиций &(fused ring system|ro) с одной 
+или несколькими позициями простого или составного независимого моста и не может быть выражен как часть более крупного 
+составного моста.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)/@n(1,-90)\\:n2@n(2,-30)|`//:n4@n(4,90)`\`//$color(gray)`\<`|>$color()`//:n5@n(5,90)`\`||:n7@n(7,-150)/\\/:n9@n(9,-90)\\$color(gray)|$color();
+#n9_(x.3,y1.1)C@n(12,-150,.6)<_(x-2.4,y.4)@n(11,-80,.5)_#n7><_(x1.8,y.3)@n(13,-110,.5)_#n2>_(A120,L2)C<_(y.5)H>@n(14,30,.7)<_#n5>_#n4
+$>
+
+en: 4,5,12-epimethanetriyl-2,9,7-epipropane[1,2,3]triylanthracene (PIN)  <br>
+(the epimethanetriyl bridge C-14 is a dependent bridge;  <br>
+the epipropane[1,2,3]triyl bridge at C-11 to C-13 is an independent bridge;  <br>
+see P-25.4.3.2 for attachment locants) 
+ru: 4,5,12-эпиметантриил-2,9,7-эпипропан[1,2,3]трилантрацен (PIN) <br>
+(эпиметантриильный мостик C-14 является зависимым мостиком; <br>
+эпипропан[1,2,3]триильный мостик от C-11 до C-13 является независимым мостиком; <br>
+см. P-25.4.3.2 для локантов присоединения)
+
+@End
+
+#P-25.4.2
+en: Names of bridges 
+ru: Названия мостов
+
+en: The extensive list of bridge names given in the publication on fused ring and bridged fused ring nomenclature (ref. 4) 
+has been thoroughly reviewed and updated in the context of the recommendations given herein. Most of the changes 
+occur in the names of acyclic heteroatom bridge names, for which see P-25.4.2.1.4 and P-25.4.2.2.1. For the use of 
+skeletal replacement (‘a’) nomenclature for naming bridges, see P-25.5.1.2. 
+ru: Обширный список названий мостов, приведенный в публикации по номенклатуре конденсированных колец и мостиковых 
+конденсированных колец (ссылка 4), был тщательно пересмотрен и обновлен в контексте рекомендаций, данных в настоящем 
+документе. Большинство изменений произошло в названиях ациклических гетероатомных мостов, для которых см. P-25.4.2.1.4 
+и P-25.4.2.2.1. Для использования скелетной замены (‘a’) номенклатуры для наименования мостов см. P-25.5.1.2.
+
+#P-25.4.2.1 
+en: Divalent bridges. 
+ru: Двухвалентные мосты.
+
+#P-25.4.2.1.1+
+en: A divalent acyclic hydrocarbon bridge is named as a prefix derived from the corresponding unbranched 
+hydrocarbon name by changing the final letter ‘e’ to ‘o’. The locant for a double bond, if present, is indicated in square 
+brackets between the hydrocarbon prefix and the ending ‘eno’; this locant is not the locant used in the final numbering 
+of the bridged fused ring system (see P-25.4.4). If there is a choice, low numbers are preferred (e.g., prop[1]eno rather 
+than prop[2]eno). 
+ru: Двухвалентный ациклический углеводородный мостик назван как префикс, полученный из соответствующего неразветвленного 
+углеводородного названия путем изменения конечной буквы «e» на «o». Локант для двойной связи, если он присутствует, 
+указывается в квадратных скобках между углеводородным префиксом и окончанием «eno»; этот локант не является локантом, 
+используемым в окончательной нумерации мостиковой конденсированной кольцевой системы (см. P-25.4.4). Если есть выбор, 
+предпочтительны низкие номера (например, prop[1]eno вместо prop[2]eno).
+
+@Examples 2
+
+@cell
+<$ -CH2- $>
+
+@cell
+en: methano (preferred prefix) 
+ru: метано (предпочтительный префикс)
+
+@cell
+<$ -CH2-CH2- $>
+
+@cell
+en: ethano (preferred prefix) 
+ru: этано (предпочтительный префикс)
+
+@cell
+<$ -CH2-CH2-CH2- $>
+
+@cell
+en: propano (preferred prefix) 
+ru: пропано (предпочтительный префикс)
+
+@cell
+<$ -CH=CH- $>
+
+@cell
+en: etheno (preferred prefix) 
+ru: этено (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH@n(1,-90)=CH@n(2,-90)-CH2@n(3,-90)-{}
+$>
+
+@cell
+en: prop[1]eno (preferred prefix) 
+ru: проп[1]ено (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH@n(1)=CH@n(2)-CH2@n(3)-CH2@n(4)-{}
+$>
+
+@cell
+en: but[1]eno (preferred prefix) 
+ru: бут[1]ено (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH2@n(1)-CH@n(2)=CH@n(3)-CH2@n(4)-{}
+$>
+
+@cell
+en: but[2]eno (preferred prefix) 
+ru: бут[2]ено (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CH@n(1)=CH@n(2)-CH@n(3)=CH@n(4)-{}
+$>
+
+@cell
+en: buta[1,3]dieno (preferred prefix)
+ru: бута[1,3]диено (предпочтительный префикс)
+
+@End
+
+#P-25.4.2.1.2+
+en: A divalent monocyclic hydrocarbon bridge other than benzene is named by the same prefix as that used as 
+a fusion prefix (P-25.3.2.2). To distinguish between these two, ‘epi’ is added in front of the name when used as a bridge 
+prefix; the letter ‘i’ in the prefix ‘epi’ is elided before the letters ‘i’ and ‘o’ of the following term. [CAS uses the 
+italicized prefix ‘endo’.] The bridge is assumed to have the maximum number of noncumulative double bonds 
+consistent with its attachments to the fused ring system or to other bridges. The positions of the free valences of the 
+bridge are indicated by locants in square brackets cited directly in front of the bridge name; these locants are not those 
+used for bridge atoms in the final structure, for which see P-25.4.4. Locants for indicated hydrogen atoms, if present, 
+are those for the final structure and are cited in front of the completed name (see P-25.4.3.4). 
+ru: Двухвалентный моноциклический углеводородный мост, отличный от бензола, называется тем же префиксом, что и используемый 
+в качестве префикса слияния (P-25.3.2.2). Чтобы различать эти два, перед названием добавляется «epi», когда оно 
+используется в качестве префикса моста; буква «i» в префиксе «epi» опускается перед буквами «i» и «o» следующего термина. 
+[CAS использует курсивный префикс «endo».] Предполагается, что мост имеет максимальное количество некумулятивных двойных 
+связей, соответствующих его присоединению к конденсированной кольцевой системе или к другим мостам. Положения свободных 
+валентностей моста обозначены локантами в квадратных скобках, указанными непосредственно перед названием моста; эти локанты 
+не являются теми, которые используются для атомов моста в окончательной структуре, для чего см. P-25.4.4. 
+Локанты для указанных атомов водорода, если они присутствуют, являются таковыми для окончательной структуры и приводятся 
+перед полным названием (см. P-25.4.3.4).
+
+@Examples 2
+
+@cell
+<$
+@:w()<_(a90,L.6,N0){}_(a180,~){}>@;
+$L(1.2)`|</@w()>_qq3_q3_(a0)@w()
+$>
+
+@cell
+en: [1,3]epicyclopropa (preferred prefix)  <br>
+[‘epicyclopropa’ in ref. 4, FR 8.3.1(b)] 
+ru: [1,3]эпициклопропа (предпочтительный префикс) <br>
+[‘epicyclopropa’ в ссылке 4, FR 8.3.1(b)]
+
+@cell
+<$
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`|<_(a54)@w()>_qq_q_qq_q_(a54)@w()
+$>
+
+@cell
+en: [1,2]epicyclopenta (preferred prefix) 
+ru: [1,2]эпициклопента (предпочтительный префикс)
+
+@End
+
+#P-25.4.2.1.3+
+en: Divalent cyclic hydrocarbon bridges not named in P-25.4.2.1.2 are named as a prefix derived from the 
+corresponding hydrocarbon name by replacing the terminal letter ‘e’ by ‘o’. If the name of the bridge is the same as the 
+name of the fusion prefix, the bridge prefix is distinguished by the prefix ‘epi-’. [CAS uses the italicized prefix ‘endo’.] 
+The letter ‘i’ is elided if followed by a vowel. Locants for positions of free valences of the bridge and for indicated 
+hydrogen, if necessary, are cited in the same way as described in section P-25.4.2.1.2. 
+ru: Двухвалентные циклические углеводородные мостики, не названные в P-25.4.2.1.2, названы как префикс, полученный из 
+соответствующего названия углеводорода путем замены конечной буквы «e» на «o». Если название мостика совпадает с 
+названием префикса слияния, префикс мостика отличается префиксом «epi-». [CAS использует курсивный префикс «endo».]
+Буква «i» опускается, если за ней следует гласная. Локанты для позиций свободных валентностей мостика и для указанного 
+водорода, если необходимо, цитируются так же, как описано в разделе P-25.4.2.1.2.
+
+@Examples
+
+@cell
+<$
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`||</@w()>@n(1,-90,.5)`\`//|\\/@n(2,90,.5)\@w()
+$>
+
+en: [1,2]benzeno (preferred prefix)  <br>
+(not [1,2]epibenzo;  <br>
+benzo is the name of a fusion prefix) 
+ru: [1,2]benzeno (предпочтительный префикс) <br>
+(не [1,2]эпибензо; <br>
+бензо — это название префикса слияния)
+// Не удалось найти русскоязычный аналог для [1,2]benzeno. Это не [1,2]бензено. Возможно [1,2]бензоло
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`||`\`//|<`/@w()>@n(3,90)\\/@n(1,90)\@w()
+$>
+
+en: [1,3]benzeno (preferred prefix)  <br>
+(not [1,3]epibenzo;  <br>
+benzo is the name of a fusion prefix) 
+ru: [1,3]benzeno (предпочтительный префикс) <br>
+(не [1,3]эпибензо; <br>
+бензо — это название префикса слияния)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+|`//`\`||/\\/<`|@w()>@n(1,-30)\\</@w()>@n(2,30)|`//`\
+$>
+
+en: [1,2]naphthaleno (preferred prefix)  <br>
+(not [1,2]epinaphtho;  <br>
+naphtho is the name of a fusion prefix) 
+ru: [1,2]нафталено (предпочтительный префикс) <br>
+(не [1,2]эпинафто; <br>
+нафто — это название префикса слияния)
+
+@cell
+<$
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`//`\`||/\\|_q<_(a54)@w()>_qq_q<_(a54)@w()>_q
+$>
+
+en: [1,3]epindeno (preferred prefix)  <br>
+(not [1,3]indeno;  <br>
+indeno is the name of a fusion prefix)
+ru: [1,3]эпиндено (предпочтительный префикс) <br>
+(не [1,3]индено; <br>
+индено — это название префикса слияния)
+
+@End
+
+#P-25.4.2.1.4+
+en: A divalent acyclic homogeneous heteroatom bridge is named by a prefix based either on a substitutive 
+prefix or the name of the corresponding parent hydride. Bridge prefixes based on a substitutive prefix, in use today or 
+formerly recommended, are distinguished by the prefix ‘epi’ (or ‘ep’ before the letter ‘i or ‘o’ of the following term). 
+Bridge prefixes based on the name of a parent hydride are named in the same way as for acyclic hydrocarbon bridge 
+prefixes (see P-25.4.2.1.1). Heteroatoms with nonstandard bonding numbers are described by the λ-convention (see  
+P-14.1).
+ru: Двухвалентный ациклический гомогенный гетероатомный мостик именуется префиксом, основанным либо на заместительном 
+префиксе, либо на названии соответствующего родительского гидрида. Мостовые префиксы, основанные на заместительном префиксе, 
+используемые сегодня или рекомендованные ранее, различаются префиксом «эпи» (или «эп» перед буквой «i» или «o» следующего 
+термина). Мостовые префиксы, основанные на названии родительского гидрида, именуются так же, как и префиксы для ациклических 
+углеводородных мостиков (см. P-25.4.2.1.1). Гетероатомы с нестандартными числами связей описываются λ-соглашением (см. P-14.1).
+
+@p .framed
+en: The following names are now recommended as preselected (see P-12.2) bridge prefixes: 
+‘sulfano’, –S–; ‘disulfano’, –SS–; ‘selano’, –Se–; ‘tellano’, –Te–; ‘azano‘, –NH–; ‘diazeno’, –N=N–; 
+‘epitriazano’, –NH-NH-NH–; and –NH-N=N–, ‘epitriaz[1]eno’. The bridge prefixes ‘epithio’, ‘epidithio’, ‘episeleno’, 
+‘epitelluro’, and ‘epimino’ [ref. 4, FR-8.3.1(d)] may be used in general nomenclature, as noted in the following examples.  
+ru: Следующие названия теперь рекомендуются как предварительно выбранные (см. P-12.2) префиксы моста:
+‘сульфано’, –S–; ‘дисульфано’, –SS–; ‘селано’, –Se–; ‘теллано’, –Te–; ‘азано‘, –NH–; ‘диазено’, –N=N–; 
+‘эпитриазано’, –NH-NH-NH–; и –NH-N=N–, ‘эпитриаз[1]ено’. Префиксы моста ‘epithio’, ‘epidithio’, ‘episeleno’,
+‘epitelluro’ и ‘epimino’ [ссылка 4, FR-8.3.1(d)] могут использоваться в общей номенклатуре, как отмечено в следующих примерах.
+
+@Examples 2
+
+@cell
+<$-O-$>
+
+@cell
+en: epoxy (preselected prefix)  <br>
+(not epoxidano) 
+ru: эпокси (предварительно выбранный префикс) <br>
+(не эпоксидано)
+
+@cell
+<$-O-O-$>
+
+@cell
+en: epidioxy (preselected prefix)  <br>
+(not epiperoxy) 
+ru: эпидиокси (предварительно выбранный префикс) <br>
+(не эпиперокси)
+
+@cell
+<$-O-O-O-$>
+
+@cell
+en: epitrioxy [preselected prefix, see ref. 4, FR-8.3.1(d)]  <br>
+epitrioxidanediyl 
+ru: эпитриокси [предварительно выбранный префикс, см. ссылку 4, FR-8.3.1(d)] <br>
+эпитриоксидандиил
+
+@cell
+<$-S-$>
+
+@cell
+en: sulfano (preselected prefix)  <br>
+epithio [see ref. 4, FR-8.3.1(d)] 
+ru: сульфано (предварительно выбранный префикс) <br>
+эпитио [см. ссылку 4, FR-8.3.1(d)]
+
+@cell
+<$-SH2-$>
+
+@cell
+en: λ^{4}-sulfano (preselected prefix)
+ru: λ^{4}-сульфано (предварительно выбранный префикс)
+
+@cell
+<$-S-S-$>
+
+@cell
+en: disulfano (preselected prefix)  <br>
+epidithio [see ref. 4, FR-8.3.1(d)] 
+ru: дисульфано (предварительно выбранный префикс) <br>
+эпидитио [см. ссылку 4, FR-8.3.1(d)]
+
+@cell
+<$-Se-$>
+
+@cell
+en: selano (preselected prefix)  <br>
+episeleno [see ref. 4, FR-8.3.1(d)]
+ru: селано (предварительно выбранный префикс) <br>
+эписелено [см. ссылку 4, FR-8.3.1(d)]
+
+@cell
+<$-Te-$>
+
+@cell
+en: tellano (preselected prefix)  <br>
+epitelluro [see ref. 4, FR-8.3.1(d)] 
+ru: теллано (предварительно выбранный префикс) <br>
+эпителлуро [см. ссылку 4, FR-8.3.1(d)]
+
+@cell
+<$-SiH2-$>
+
+@cell
+en: silano (preselected prefix) 
+ru: силано (предварительно выбранный префикс)
+
+@cell
+<$-SnH2-$>
+
+@cell
+en: stannano (preselected prefix) 
+ru: stannano (предварительно выбранный префикс)
+
+@cell
+<$-NH-$>
+
+@cell
+en: azano (preselected prefix)  <br>
+epimino [see ref. 4, FR-8.3.1(d)]  <br>
+(not imino given in ref. 1, C-815.2) 
+ru: азано (предварительно выбранный префикс) <br>
+эпимино [см. ссылку 4, FR-8.3.1(d)] <br>
+(не имино, указанное в ссылке 1, C-815.2)
+
+@cell
+<$-NH-NH-$>
+
+@cell
+en: diazano (preselected prefix)  <br>
+biimino (see ref. 1, B-15.1)
+ru: диазано (предварительно выбранный префикс) <br>
+биимино (см. ссылку 1, B-15.1)
+
+@cell
+<$-N=N-$>
+
+@cell
+en: diazeno [preselected prefix; see ref. 4 FR-8.3.1(d)]  <br>
+azo (see ref. 1, B-15.1) 
+ru: диазено [предварительно выбранный префикс; см. ссылку 4 FR-8.3.1(d)] <br>
+азо (см. ссылку 1, B-15.1)
+
+@cell
+<$–NH-NH-NH–$>
+
+@cell
+en: epitriazano (preselected prefix)  <br>
+(not triazano, which has been used for <%f%>, see C-942.3, ref. 1,  <br>
+which is triazan-1-yl in these recommendations, see P-68.3.1.4.1)
+ru: эпитриазано (предварительно выбранный префикс) <br>
+(не триазано, который использовался для <%f%>, см. C-942.3, ссылка 1, <br>
+который является triazan-1-yl в этих рекомендациях, см. P-68.3.1.4.1)
+%f: <$H2N-NH-NH–$>
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-NH@n(3)-N@n(2)=N@n(1)-
+$>
+
+@cell
+en: epitriaz[1]eno (preselected prefix)  <br>
+(not triaz[1]eno, which has been used for <%f%>, see C-942.3, ref. 1,  <br>
+which is triaz-1-en-1-yl in these recommendations, see P-68.3.1.4.1)  <br>
+azimino (see ref. 1, B-15.1) 
+ru: эпитриаз[1]ено (предварительно выбранный префикс) <br>
+(не триаз[1]ено, который использовался для <%f%>, см. C-942.3, ссылка 1, <br>
+который является triaz-1-en-1-yl в этих рекомендациях, см. P-68.3.1.4.1) <br>
+azimino (см. ссылка 1, B-15.1)
+%f: <$H2N-N=N–$>
+
+@cell
+<$-PH-$>
+
+@cell
+en: phosphano (preselected prefix) 
+ru: фосфано (предварительно выбранный префикс)
+
+@cell
+<$-BH-$>
+
+@cell
+en: borano (preselected prefix)
+ru: борано (предварительно выбранный префикс)
+
+@End
+
+#P-25.4.2.1.5+
+en: A divalent heterocyclic bridge is named as a prefix derived from the corresponding heterocyclic compound 
+by adding a letter ‘o’ with elision of a final letter ‘e’ if present. If the heterocyclic system requires the citation of 
+locants, these are given in square brackets in front of the name of the prefix. If the name of the bridge is the same as the 
+fusion prefix, the bridge prefix is distinguished by the prefix ‘epi’ (or ‘ep’ before the letter ‘i’ or ‘o’ of the following 
+term). [CAS uses the italicized prefix ‘_endo_’.] If indicated hydrogen is required for the bridge component, it is cited in 
+front of the name of the complete bridged fused ring system and not in front of the name of the bridge itself (see  
+P-25.7.1). For numbering of bridges, see P-25.4.4.
+ru: Двухвалентный гетероциклический мостик именуется как префикс, полученный из соответствующего гетероциклического 
+соединения путем добавления буквы «o» с вычеркиванием конечной буквы «e», если она присутствует. Если гетероциклическая 
+система требует указания локантов, они приводятся в квадратных скобках перед названием префикса. Если название мостика 
+совпадает с префиксом слияния, префикс мостика выделяется префиксом «эпи» (или «эп» перед буквой «и» или «о» следующего 
+термина). [CAS использует курсивный префикс «_эндо_».] Если для компонента мостика требуется указанный водород, он 
+указывается перед названием полной мостиковой конденсированной кольцевой системы, а не перед названием самого мостика 
+(см. P-25.7.1). Для нумерации мостиков см. P-25.4.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+$L(1.2)`||@n(2,-90)</@w()>_q3O_q3@n(3,90)\@w()
+$>
+
+en: epoxireno (preferred prefix) 
+ru: эпоксирено (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`||@n(2,-90)<_(a54)@w()>_qO_q_qq_q@n(3,90)_(a54)@w()
+$>
+
+en: [2,3]furano (preferred prefix)  <br>
+(not [2,3]epifurano;  <br>
+nor [2,3]epifuro) 
+ru: [2,3]фурано (предпочтительный префикс) <br>
+(не [2,3]эпифурано; <br>
+и не [2,3]эпифуро)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`|@n(2,-90)</@w()>`\O`/||\//@n(3,90)\@w()
+$>
+
+en: [2,3]epipyrano (preferred prefix)
+ru: [2,3]эпипирано (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+N`|@n(3,30)<_(a54)@w()>_qqN_qN@n(1,180,.5)_qq_q@n(4,90,.6)_(a54)@w()
+$>
+
+en: [3,4]epi[1,2,4]triazolo (preferred prefix)
+ru: [3,4]эпи[1,2,4]триазоло (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+-_qq@n(2,-80)<_(a54)@w()>_qN<_(y-.5)H>@n(1,90,.6)_q@n(5,-100)<_(a54)@w()>_qq
+$>
+
+en: [2,5]epipyrrolo (preferred prefix) 
+ru: [2,5]эпипирроло (предпочтительный префикс)
+
+@End
+
+#P-25.4.2.2
+en: Polyvalent bridges 
+ru: Поливалентные мосты
+
+#P-25.4.2.2.1+
+en: A polyvalent bridge consisting of one atom (other than hydrogen) is named as a prefix based either on a 
+substitutive prefix to which the prefix ‘epi’ is added as described in P-25.4.2.1.4 or by changing the ending ‘ano’ in the 
+name of a divalent monoatomic bridge described in P-25.4.2.1.4 into ‘eno’, for example ‘metheno’ from ‘methano’. 
+Polyvalent bridges are enclosed within parentheses in names of bridged fused systems; as a reminder, parentheses are 
+placed around the names of the bridges themselves in the examples below. Where there is a choice, an attachment by a 
+single bond, i.e., ‘yl’, is to the lower locant of a parent ring system. For ‘epi’, see P-25.4.2.1.4.
+ru: Поливалентный мост, состоящий из одного атома (кроме водорода), называется как префикс, основанный либо на замещающем 
+префиксе, к которому добавляется префикс «эпи», как описано в P-25.4.2.1.4, либо путем изменения окончания «ano» в названии 
+двухвалентного моноатомного моста, описанного в P-25.4.2.1.4, на «эно», например, «метено» из «метано».
+Поливалентные мосты заключаются в скобки в названиях мостиковых конденсированных систем; в качестве напоминания, 
+скобки помещаются вокруг названий самих мостов в примерах ниже. Там, где есть выбор, присоединение одинарной связью, 
+т. е. «ил», происходит к нижнему локанту родительской кольцевой системы. Для «эпи» см. P-25.4.2.1.4.
+
+@Examples 2
+
+@cell
+<$-CH=$>
+
+@cell
+en: (metheno) (preferred prefix)  <br>
+(epimethanylylidene)
+ru: (метено) (предпочтительный префикс) <br>
+(эпиметанилилиден)
+
+@cell
+<${}-CH<`|{}>-{}$>
+
+@cell
+en: (epimethanetriyl) (preferred prefix)  <br>
+(methyno)
+ru: (эпиметантриил) (предпочтительный префикс) <br>
+(метино)
+
+@cell
+<$ -C<`|>= $>
+
+@cell
+en: (epimethanediylylidene) (preferred prefix) 
+ru: (эпиметандиилиден) (предпочтительный префикс)
+
+@cell
+<$-N=$>
+
+@cell
+en: (azeno) (preselected prefix)  <br>
+(epiazanylylidene)  <br>
+(not ‘nitrilo’, see ref. 2, R-9.2.2)
+ru: (азено) (предварительно выбранный префикс) <br>
+(эпиазанилилиден) <br>
+(не ‘нитрило’, см. ссылку 2, R-9.2.2)
+
+@cell
+<$-Si<`|><|>-$>
+
+@cell
+en: (episilanetetrayl) (preselected prefix) 
+ru: (эписиланететраил) (предварительно выбранный префикс)
+
+@cell
+<$-N<`|>-$>
+
+@cell
+en: (epinitrilo) (preselected prefix)  <br>
+epiazanetriyl [ref. 4, FR-8.3.2 (a)]  <br>
+[not nitrilo]
+ru: (эпинитрило) (предварительно выбранный префикс) <br>
+эпиазанетриил [ref. 4, FR-8.3.2 (a)] <br>
+[не нитрило]
+
+@cell
+<$-P=$>
+
+@cell
+en: (phospheno) (preselected prefix)  <br>
+(epiphosphanylylidene) [ref. 4, FR-8.3.2 (a)] 
+ru: (фосфено) (предварительно выбранный префикс) <br>
+(эпифосфанилиден) [ref. 4, FR-8.3.2 (a)]
+
+@cell
+<$-P<`|>-$>
+
+@cell
+en: (epiphosphanetriyl) (preselected prefix)  <br>
+[not phosphanetriyl, [ref. 4 FR-8.3.2 (a);  <br>
+nor phosphinidyne]] 
+ru: (эпифосфантриил) (предварительно выбранный префикс)  <br>
+не фосфантриил, [ref. 4 FR-8.3.2 (a);  <br>
+и не фосфинидин]
+
+@End
+
+#P-25.4.2.2.2+
+en: A polyvalent polyatomic bridge is named as the polyvalent substituent group and enclosed in parentheses 
+in names (as a reminder, parentheses are placed around the names of the bridges themselves in the examples below). If 
+necessary, the positions of the free valences are indicated by appropriate locants cited directly in front of the associated 
+ending. The suffix ‘ylidene’ is restricted to those cases in which there is a double bond between the bridge and the fused 
+system. When there is a choice of numbering the bridge, preference is given to (a) the suffix ‘yl’, (b) the suffix 
+‘ylidene’, (c) double bonds. For ‘epi’, see P-25.4.2.1.4. 
+ru: Поливалентный многоатомный мостик именуется как поливалентная замещающая группа и содержится в скобках в названиях 
+(в качестве напоминаний скобки располагаются вокруг названных собственных мостиков в примерах ниже). При необходимости 
+обеспечения крайней валентности указывается, что локанты окон должны соответствовать локантам, это делается непосредственно 
+перед соответствующим чаем. Суффикс «илиден» является тем случаем, в котором между мостиком и конденсированной системой 
+устанавливается двойная связь. Когда есть выбор нумерации мостика, предпочтение отдается (a) суффиксу «ил», 
+(b) суффиксу «илиден», (c) возникновению связок. Для «эпи» см. P-25.4.2.1.4.
+
+@Examples 2
+
+@cell
+<$ -CH2-CH= $>
+
+@cell
+en: (epiethanylylidene) (preferred prefix)
+ru: (эпиэтанилилиден) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-CH@n(1,90)<`|>-CH2@n(2,90)-{}
+$>
+
+@cell
+en: (epiethane[1,1,2]triyl) (preferred prefix)
+ru: (эпиэтан[1,1,2]триил) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-C@n(1,90)<`|>=CH@n(2,90)-{}
+$>
+
+@cell
+en: (epiethene[1,1,2]triyl) (preferred prefix) 
+ru: (эпиэтен[1,1,2]триил) (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-C@n(1)<`|>=CH@n(2)-CH@n(3)=CH@n(4)-{}
+$>
+
+@cell
+en: (epibuta[1,3]diene[1,1,4]triyl) (preferred prefix)
+ru: (эпибута[1,3]диен[1,1,4]триил) (предпочтительный префикс)
+
+@cell
+<$
+-CH<`|>-CH<`|>-CH=CH-{}
+$>
+
+@cell
+en: (epibut[3]ene[1,1,2,4]tetrayl) (preferred prefix)
+ru: (эпибут[3]ен[1,1,2,4]тетраил) (предпочтительный префикс)
+
+@cell
+<$=N-N=$>
+
+@cell
+en: (epidiazanediylidene) (preselected prefix)
+ru: (эпидиазандиилиден) (предварительно выбранный префикс)
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w()<_(a90,L.6,N0){}_(a180,~,L1.2){}>@;
+`/||\@n(4,150)<|@w()>//@n(3,90)<\@w()>`|@n(2,30)</@w()>`\\@n(1,-30)`|@w()
+$>
+
+@cell
+en: (epibenzene[1,2,3,4]tetrayl) (preferred prefix)
+ru: (эпибензол[1,2,3,4]тетраил) (предпочтительный префикс)
+
+@End
+
+
+#P-25.4.3
+en: Naming bridged fused ring systems 
+ru: Наименование мостиковых конденсированных кольцевых систем
+
+@Content
+
+#P-25.4.3.1
+en: Citation of bridges 
+ru: Цитирование мостов
+
+en: If there is more than one bridge, they are cited in alphabetical order, unless one bridge is dependent on another. In that 
+case, the dependent bridge is cited in front of all independent bridges. Two or more identical bridges are indicated by 
+the numerical prefixes ‘di’, ‘tri’, etc. with simple bridges (P-25.4.1.4), or ‘bis’, ‘tris’, etc. with composite bridges  
+(P-25.4.1.5) or if ‘di’, ‘tri’, etc. would be ambiguous. The locant pairs of identical bridges are separated by colons.
+ru: Если имеется более одного моста, они цитируются в алфавитном порядке, если только один мост не зависит от другого. 
+В этом случае зависимый мост цитируется перед всеми независимыми мостами. Два или более идентичных моста обозначаются 
+числовыми префиксами «di», «tri» и т. д. для простых мостов (P-25.4.1.4) или «bis», «tris» и т. д. для составных мостов 
+(P-25.4.1.5) или если «di», «tri» и т. д. будут неоднозначными. Пары локантов идентичных мостов разделяются двоеточиями.
+
+#P-25.4.3.2
+en: Attachment locants 
+ru: Присоединённые локанты 
+
+en: The fused ring system to be bridged is numbered in the usual way. For selection of the fused ring to be bridged see  
+P-25.4.3.4.2. 
+ru: Система конденсированных колец, подлежащих соединению, нумеруется обычным образом. 
+Для выбора конденсированного кольца, подлежащего соединению, см. P-25.4.3.4.2.
+
+#P-25.4.3.2.1
+en: Divalent symmetric bridges
+ru: Двухвалентные симметричные мосты
+
+en: The locants of the positions on the fused ring system to which divalent symmetric bridges (are) attached are cited in 
+numerical order in front of each bridge name. 
+ru: Локанты позиций в конденсированной кольцевой системе, к которым присоединены двухвалентные симметричные мостики, 
+указаны в числовом порядке перед названием каждого мостика.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(9,-90)<_(A120):a>\\/@n(1,-90)\\|`//`\<`|>`//<`\>@n(10,90)_(A-60)_#a
+$>
+
+en: 9,10-ethanoanthracene (PIN)
+ru: 9,10-этаноантрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//|\\@n(6,90)/\O@n(5,90,.6)/\@n(4,90)//`|@n(2,-30)`\\@n(1,-90)@:b()<_(x-.3,y1)_(x.3,y1)>@()`/|r`|`\O`/|l`|`\@n(9,-90)@b()
+$>
+
+en: 1,4:6,9-dimethanooxanthrene (PIN)  <br>
+1,4:6,9-dimethanodibenzo[_b_,_e_][1,4]dioxine
+en: 1,4:6,9-диметаноксантрен (PIN) <br>
+1,4:6,9-диметанодибензо[_b_,_e_][1,4]диоксин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`=_q8||_q8<_(p1;-1)O_#2>@n(6,100)=@n(5,80)_q8`||l<_q8>/@n(1,-90)\\@n(2,-30)|`//@n(4,90)<`\>_(x-.3,y-1)_(x.3,y-1)
+$>
+
+en: 6,9-epoxy-1,4-methanobenzo[8]annulene (PIN) 
+ru: 6,9-эпокси-1,4-метанобензо[8]аннулен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/\\|<`/S@n(5,90,.6)`\>\\@n(4,90)<_(A-60):a>/@n(3,30)`||@n(2,-30)`\@n(1,-90)<`/>_(A120)_#a
+$>
+
+en: 1_H_-1,4-ethanothioxanthene (PIN) 
+ru: 1_H_-1,4-этанотиоксантен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)/@n(1,-90)\\|`//`\`||l$color(gray)_q8$color()@n(12,110,.5)<_(y%v:-1.6)\:a//`|`\\`/||>`=@n(11,70,.5)<_(y%v)`/:b`\\`|//\||>$color(gray)_q8$color()|r`/`\\`|//\|_q8<_#b>@n(6,110)=@n(5,70)<_#a>_q8
+$>
+
+en: 5,12:6,11-di[1,2]benzenodibenzo[_a_,_e_][8]annulene (PIN) 
+ru: 5,12:6,11-ди[1,2]бензенодибензо[_a_,_e_][8]аннулен (PIN)
+
+@End
+
+#P-25.4.3.2.2
+en: Polyvalent and composite bridges 
+ru: Поливалентные и композитные мосты
+
+en: Locants of the positions on the fused ring system to which polyvalent or composite bridges are attached are cited in the 
+order expressed or implied by the name of the bridge. Methods of assigning locants for the free valences of bridges are 
+given in section P-25.4.2. In the absence of specific locants, a single free valence (yl) is assigned a lower locant than a 
+double free valence (ylidene). If there is a choice, locants are cited in numerical order. Indicated hydrogen atoms are 
+cited at the front of the complete bridged fused ring name and not in front of names of the bridges themselves  
+(P-25.7.1). 
+ru: Локанты позиций в конденсированной кольцевой системе, к которым присоединены поливалентные или составные мостики, 
+приводятся в порядке, выраженном или подразумеваемом названием мостика. Методы назначения локантов для свободных 
+валентностей мостиков приведены в разделе P-25.4.2. При отсутствии конкретных локантов одинарной свободной валентности (ил) 
+назначается более низкий локант, чем двойной свободной валентности (илиден). Если есть выбор, локанты приводятся в 
+числовом порядке. Указанные атомы водорода приводятся в начале полного названия мостикового конденсированного кольца, 
+а не перед названиями самих мостиков (P-25.7.1).
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)|$color()_qq:n5@n(5,80)_qO_q_qq`\O@n(1,-90,.6)`/@n(2,-150)|@n(3,150)<\\/>_(A-40)O_(x1.55,y.1)_#n5
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)||$color()_q:n5@n(3,80)_qq_qO@n(1,-90,.6)_q`\@n(7,-90)`/O|@n(5,150)<\\/>_(A-40)_(x1.55,y.1)O_#n5
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 2_H_-3,5-(epoxymethano)furo[3,4-_b_]pyran **(I)** (PIN) <br>
+(not 7_H_-3,5-(epoxymethano)furo[2,3-_c_]pyran) **(II)**  <br>
+[preferred ring system, see P-25.4.3.4.2 (d)] 
+ru: 2_H_-3,5-(эпоксиметано)фуро[3,4-_b_]пиран **(I)** (PIN) <br>
+(не 7_H_-3,5-(эпоксиметано)фуро[2,3-_c_]пиран) **(II)** <br>
+[предпочтительная кольцевая система, см. P-25.4.3.4.2 (d)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)||$color()_q:n5@n(3,80)_qq_qO@n(1,-90,.6)_q`\@n(7,-90)`/O|@n(5,150)<\\/>_(A-40)_(x1.55,y.1)O_#n5
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)|$color()_qq@n(3,80)_qO_q:n1@n(1,-80)_qq`\`//@n(6,-150)<|O\@n(4,90)/>_(A40)O_(x1.5)_#n1
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 7_H_-5,3-(epoxymethano)furo[2,3-_c_]pyran **(I)** (PIN) <br>
+(not 4_H_-6,1-(epoxymethano)furo[3,4-_c_]pyran) **(II)**  <br>
+[preferred ring system, see P-25.4.3.4.2 (d)]
+ru: 7_H_-5,3-(эпоксиметано)фуро[2,3-_c_]пиран **(I)** (PIN) <br>
+(не 4_H_-6,1-(эпоксиметано)фуро[3,4-_c_]пиран) **(II)** <br>
+[предпочтительная кольцевая система, см. P-25.4.3.4.2 (d)]
+
+@cell colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/N@n(1,-90,.6)\\|`//`\`|$color(gray)`\\$color()<_(y-1.4)_(A40,N2L):a_q_qq_qO_q>@n(10,-150,.5)`/`\\`/||\//<`|>\@n(5,90)/`/_#a
+$>
+
+en: 10,5-[2,3]furanobenzo[_g_]quinoline (PIN) 
+ru: 10,5-[2,3]фуранобензо[_g_]хинолин (PIN)
+
+@cell colspan=2
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`||/@n(8,-90)<_(A110)O:a>\\/\\/@n(1,-90)<_(A110)O:b>\\|`//@n(4,90)<_(A-60)_#b>`\<`|>`//`\<`|>`//@n(5,90)_(A-60)_#a
+$>
+
+en: 1,4:8,5-bis(epoxymethano)anthracene (PIN)  
+ru: 1,4:8,5-бис(эпоксиметано)антрацен (PIN)
+
+@End
+
+#P-25.4.3.3
+en: Choice of attachment locants 
+ru: Выбор присоединённых локантов
+
+en: If there is a choice of attachment locants after the application of P-25.4.3.2, seniority is established in the following 
+order: 
+ru: При наличии возможности выбора мест прикрепления после применения P-25.4.3.2 старшинство устанавливается 
+в следующем порядке:
+
+#(a)
+en: the lowest set of locants for all the bridge attachment points considered as a set; 
+ru: наименьший набор локантов для всех точек крепления моста, рассматриваемых как набор;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\`/||\//`|/@n(1,-90)\\|`//@n(4,90)<`\>_(x-.3,y-1)O_(x.3,y-1)
+$>
+
+en: 1,4-epoxynaphthalene (PIN)  <br>
+(not 5,8-epoxynaphthalene) 
+ru: 1,4-эпоксинафталин (PIN) <br>
+(не 5,8-эпоксинафталин)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x-.3,y1)O_(x.3,y1)@n(5,90)`\`||/@n(8,-90)\\|`/c/\//`|<`\\`/>/@n(1,-90)\\|@n(3,30)<`//`\>`\`|
+$>
+
+en: 5,8-epoxy-1,3-methanoanthracene (PIN)  <br>
+(not 1,4-epoxy-5,7-methanoanthracene;  <br>
+the locant set 1,3,5,8 is lower than 1,4,5,7) 
+ru: 5,8-эпокси-1,3-метаноантрацен (PIN) <br>
+(не 1,4-эпокси-5,7-метаноантрацен; <br>
+локантный набор 1,3,5,8 меньше, чем 1,4,5,7)
+
+@End
+
+#(b)
+en: lowest locants in the order of citation for the bridges;
+ru: наименьшие локанты в порядке цитирования для мостов;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x-.3,y1)_(x.3,y1)@n(5,90)`\`||/@n(8,-90)\\|`/c/\//`|<`\\`/>/@n(1,-90)<_(A120):a>\\|`//@n(4,90)<`\>_(A-60)_#a
+$>
+
+en: 1,4-ethano-5,8-methanoanthracene (PIN) 
+ru: 1,4-этанол-5,8-этаноантрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x-.3,y1)_(x.3,y1)@n(5,90)`\`||/@n(8,-90)\\|`/c/\@n(4,90)//`|`\\@n(1,-90)<`/>_(x-.3,y1)O_(x.3,y1)
+$>
+
+en: 1,4-epoxy-5,8-methanonaphthalene (PIN) 
+ru: 1,4-эпокси-5,8-метанонафталин (PIN)
+
+@End
+
+#P-25.4.3.4
+en: Selection of bridges 
+ru: Выбор мостов
+
+en: When a polycyclic ring system cannot be named completely as a fused ring system, possible ways for naming it as a 
+bridged fused system are considered. Bridges are selected so that a recommended fused ring system as described in  
+P-25.1 through P-25.3 is the parent fused ring system that is bridged.
+ru: Когда полициклическая кольцевая система не может быть полностью названа конденсированной кольцевой системой, 
+рассматриваются возможные способы ее наименования как мостиковой конденсированной системы. Мосты выбираются таким образом, 
+чтобы рекомендуемая конденсированная кольцевая система, описанная в P-25.1 по P-25.3, была исходной конденсированной 
+кольцевой системой, которая является мостиковой.
+
+#P-25.4.3.4.1
+en: Naming of _ortho_- or _ortho_- and _peri_-fused systems 
+ru: Наименование _орто_- или _орто_- и _пери_-слитых систем
+
+en: The ring system that remains after removal of the bridge(s) is named according to P-25.1 through P-25.3. The 
+maximum number of noncumulative double bonds is assigned to the fused ring system after the insertion of the bridge. 
+Thus, in allowing for the bonds of the bridge, the number of noncumulative double bonds and/or the need for indicated 
+hydrogen may be different than in the parent ring system. If needed, indicated hydrogen is used to identify the specific 
+isomer and is cited in front of the completed bridged fused ring name (see P-25.7.1.3.2). 
+ru: Кольцевая система, которая остается после удаления мостика(ов), именуется в соответствии с P-25.1 по P-25.3. 
+Максимальное количество некумулятивных двойных связей присваивается конденсированной кольцевой системе после вставки 
+мостика. Таким образом, при учете связей мостика количество некумулятивных двойных связей и/или необходимость в указанном 
+водороде может отличаться от такового в исходной кольцевой системе. При необходимости указанный водород используется для 
+идентификации конкретного изомера и приводится перед завершенным названием мостикового конденсированного кольца 
+(см. P-25.7.1.3.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-|`-`|/@n(1,-90)\\|`//`\@n(4a,90,.5)`/`\\`|//\@n(8a,-90,.5)
+$>
+
+en: 4a,8a-ethanonaphthalene (PIN) 
+ru: 4a,8a-этанонафталин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/@n(9,-90)<_(A120):a>\|l\//`|`\\@n(1,-90)`/|`/N@n(10,90,.6)<`\>_(A-60)_#a
+$>
+
+en: 9_H_-9,10-ethanoacridine (PIN) 
+ru: 9_H_-9,10-этаноакридин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)||r$color()_q_qq_qN@n(1,-90,.6)_q`\`//|@n(5,150)<\\/>_(A-10,L2.3)_#N
+$>
+
+en: 1,5-methanoindole (PIN) 
+ru: 1,5-метаноиндол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+||`/`\\`|//\/@n(9,-90)<_(A60):a>\|l\//`|`\\@n(1,-90)`/|`/@n(10,90)<`\>_(A-120,N2)_#a
+$>
+
+en: 9_H_-9,10-(epiethanylylidene)anthracene  <br>
+[not 9_H_-10,9-(epiethanylylidene)anthracene;  <br>
+the ‘yl’ suffix is given preference for the low locant  <br>
+of attachment to the ring system (see P-25.4.3.2.2)] 
+ru: 9_H_-9,10-(эпиэтанилилиден)антрацен <br>
+[не 9_H_-10,9-(эпиэтанилилиден)антрацен; <br>
+суффикс «ил» отдается предпочтение из-за низкого местоположения <br>
+присоединения к кольцевой системе (см. P-25.4.3.2.2)]
+
+@End
+
+#P-25.4.3.4.2
+en: Selection of fused ring system to be bridged
+ru: Выбор системы конденсированных колец для мостового соединения
+
+en: If there is a choice for selecting the fused ring system to be bridged, the criteria in the following list are applied in order 
+until a complete decision is reached. Two structures might differ in the distribution of double bonds as described in  
+P-25.4.3.4.1. Locants of the fused ring system where bridges are attached are then cited in front of the name of the 
+bridge and in the same order as the locants for the free valences of the bridge (see P-25.4.3.2.2). The fused ring system, 
+before bridging must: 
+ru: Если есть выбор для выбора конденсированной кольцевой системы для мостового соединения, критерии в следующем списке 
+применяются по порядку до тех пор, пока не будет достигнуто полное решение. Две структуры могут отличаться распределением 
+двойных связей, как описано в P-25.4.3.4.1. Локанты конденсированной кольцевой системы, где присоединены мостики, 
+затем указываются перед названием мостика и в том же порядке, что и локанты для свободных валентностей мостика 
+(см. P-25.4.3.2.2). Конденсированная кольцевая система перед мостовым соединением должна:
+
+#(a)
+en: contain the maximum number of rings; 
+ru: содержать максимальное количество колец;
+
+@Examples 3 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+/`/@n(3,90)`\`||/\\$color(gray)|$color()_q$color(gray)_q$color()<_qq_q>_p4:n1_p4_pp4;
+#1`|_(A-10,L1.4)_(A70,L.7)_#n1@n(1,-10)
+$>
+
+*: **(I)**
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)`|$color()_qq8l:n10@n(10,-60)`-@n(9,-120)_qq8:n8@n(8,-150)|_qq8_q8_qq8\//`|`\\@n(1,-90)<`/>|_(p1;n8)<_#n10>_#n8
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: 1_H_-1,3-propanocyclobuta[_a_]indene **(I)** (PIN)  <br>
+not 8,10,1-(epiethane[1,1,2]triyl)benzo[8]annulene **(II)**  <br>
+(for order of ring attachment locants see P-25.4.3.2.2) 
+ru: 1_H_-1,3-пропаноциклобута[_a_]инден **(I)** (PIN) <br>
+не 8,10,1-(эпиэтан[1,1,2]триил)бензо[8]аннулен **(II)** <br>
+(порядок локантов присоединения кольца см. в P-25.4.3.2.2)
+
+@End
+
+en: **Explanation**: the correct name has three rings in the fused ring system; the incorrect name has only two rings in the 
+fused ring system. 
+ru: **Пояснение**: правильное название имеет три кольца в системе конденсированных колец; неправильное название имеет только 
+два кольца в системе конденсированных колец.
+
+#(b)
+en: include the maximum number of skeletal atoms;  
+ru: включать максимальное количество скелетных атомов;
+
+@Examples single 3
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_q8`|l/\\|`//`\`|_q8`=_q8:a||l_q8@n(6,60)_p6_pp6_p6_pp6<_p6>@n(7,140,.5)_(A-160)_pp7_p6_pp7_#a
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq8`|</@n(1,-90)\\|`//`\>_qq8`-_qq8:a|_q8@n(6,60)_pp6_p6_pp6_p6<_pp6>@n(7,140,.5)_(A-160)_pp7_p6_pp7_#a
+$>
+
+*: **(II)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_qq8|<`/`\\`|//\>_qq8-@n(6,60)_qq8:a`|_q8_pp6@n(1,-120)_p6@n(2,-80)_pp6@n(3,0)_p6<_pp6>@n(4,-30)_(A20)_pp7_p6_pp7_#a@n(5,-20)
+$>
+
+*: **(III)**
+
+@cell colspan=3
+en: 6,7-(epiprop[1]en[1]yl[3]ylidene)benzo[_a_]cyclohepta[_e_][8]annulene **(I)** (PIN)  <br>
+[not 7,6-(epiprop[1]en[1]yl[3]ylidene)benzo[_a_]cyclohepta[_e_][8]annulene **(II)**;  <br>
+the ‘yl’ suffix is given the lower attachment point of the ring system (see P-25.4.3.2.2)  <br>
+not 4,5-buta[1,3]dienodibenzo[_a_,_d_][8]annulene **(III)**;  <br>
+the fused ring system benzo[_a_]cyclohepta[_e_][8]annulene has 17 atoms <br>
+whereas the fused ring system dibenzo[_a_,_d_][8]annulene has only 16 atoms] 
+ru: 6,7-(эпипроп[1]ен[1]ил[3]илиден)бензо[_a_]циклогепта[_e_][8]аннулен **(I)** (PIN) <br>
+[не 7,6-(эпипроп[1]ен[1]ил[3]илиден)бензо[_a_]циклогепта[_e_][8]аннулен **(II)**; <br>
+суффикс «ил» дается нижней точке присоединения кольцевой системы (см. P-25.4.3.2.2) <br>
+не 4,5-бута[1,3]диенодибензо[_a_,_d_][8]аннулен **(III)**; <br>
+конденсированная кольцевая система бензо[_a_]циклогепта[_e_][8]аннулен имеет 17 атомов, <br>
+тогда как конденсированная кольцевая система дибензо[_a_,_d_][8]аннулен имеет только 16 атомов]
+
+@End
+
+#(c)
+en: have the fewer heteroatoms in the fused ring system before bridging;  
+ru: иметь меньше гетероатомов в конденсированной кольцевой системе перед образованием мостика;
+
+@Examples 3 single
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//r<_(A-120):a>@n(5,90)`\@n(6,150)`||@n(7,-150)/@n(8,-90)<_(A70)O_#a>\\/@n(9,-90)\\|<`//@n(10,90)`\>\@n(4,90)<_(A-120):b>//l@n(3,30)`|@n(2,-30)`\\@n(1,-90)<`/>_(A70)O_#b
+$>
+
+*: **(I)**
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`/@n(6,90)<_(A-60):a>`\\r@n(7,150)`|O@n(8,-150,.5)/@n(9,-90)<_(A120)=l#a>\\/@n(10,-90)\\|<`/@n(5,90)`\\>\\@n(4,90)<_(A-60):b>/@n(3,30)`|O@n(2,-30,.5)`\@n(1,-90)<`/>_(A120)=l#b
+$>
+
+*: **(II)**
+
+@cell
+en: 1,4:8,5-bis(epoxymethano)anthracene **(I)** (PIN) 
+ru: 1,4:8,5-бис(эпоксиметано)антрацен **(I)** (PIN)
+
+@cell colspan=2
+en: not 1_H_,3_H_-1,4:6,9-bisethenobenzo[1,2-_c_:5,4-_c_′]dipyran **(II)**;
+ru: не 1_H_,3_H_-1,4:6,9-бисэтенобензо[1,2-_c_:5,4-_c_']дипиран **(II)**;
+
+@cell colspan=3
+en: zero heteroatoms in the fused ring system before bridging is fewer than two
+ru: ноль гетероатомов в конденсированной кольцевой системе до образования мостика меньше два
+
+@End
+
+#(d)
+en: consist of the most senior ring system, when the seniority order is applied to the parent fused ring system (see  
+P-44.2); 
+ru: состоять из самой старшей кольцевой системы, когда порядок старшинства применяется к родительской слитой кольцевой 
+системе (см. P-44.2);
+
+@Examples 2
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)|$color()\O@n(4,90,.6)/`||N@n(2,-30,.5)`\N:a@n(1,-90,.6)`/`\\`/<||\//>_(A30)_(x1.4)_#a
+$>
+
+*: **(I)**
+
+en: 1,7-ethano[4,1,2]benzoxadiazine **(I)** (PIN)
+ru: 1,7-этано[4,1,2]бензоксадиазин **(I)** (PIN)
+
+@cell
+<div class="flex-row">
+
+en: not
+ru: не
+
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N$color(gray)|$color()\\:a/O@n(3,30,.5)`|`\\N@n(1,-90,.6)`/@n(9,-90,.6)`\`//|@n(6,150)<\\/>_(A-30)_(x1.4)_#a@n(4,90)
+$>
+
+</div>
+
+*: **(II)**
+
+en: [not 4,6-ethanopyrido[1,2-_d_][1,3,4]oxadiazine **(II)**;
+ru: [не 4,6-этанопиридо[1,2-_d_][1,3,4]оксадиазин **(II)**;
+
+@cell colspan=2
+en: the locant set ‘1,2,4’ for the heteroatoms in **(I)** is lower 
+than the locant set ‘1,3,9’ in **(II)** (see P-14.3.5)] 
+ru: локантный набор «1,2,4» для гетероатомов в **(I)** меньше 
+локантного набора «1,3,9» в **(II)** (см. P-14.3.5)]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/`|//\/@n(2,-90)\\|\||`/`\\`|@n(d,60,.5)/l`/`\@n(e,-10,.5)`|l@n(1,-90)|`/`\l@n(12,-150,.5)\|_(a-21.47)=_(a-68.53)
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`||@n(2,-150)/\\|\||`/|`//`\`/`\\`|//\|l`|/\l`\`|/l`/`\@n(1,-120,.6)_(a-21.47)_(a-68.53,N2)_(a-68.53)@n(12,-170,.7)
+$>
+
+*: **(II)**
+
+@cell colspan=2
+en: 1,12-ethenobenzo[4,5]cyclohepta[1,2,3-_de_]naphthalene **(I)** (PIN)  <br>
+{not 1,12-ethenobenzo[_c_]phenanthrene **(II)**;  <br>
+the ring size set ‘7,6,6,6’ in **(I)** is preferred  <br>
+to the ring size set ‘6,6,6,6’ in **(II)** <br>  
+[see P-25.3.2.4 (c) and P-44.2.2.2.3 (a)]} 
+ru: 1,12-этенобензо[4,5]циклогепта[1,2,3-_de_]нафталин **(I)** (PIN) <br>
+{не 1,12-этенобензо[_c_]фенантрен **(II)**; <br>
+набор размеров колец «7,6,6,6» в **(I)** предпочтительнее <br>
+набора размеров колец «6,6,6,6» в **(II)** <br>
+[см. P-25.3.2.4 (c) и P-44.2.2.2.3 (a)]}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-:n6@n(6,60)_q8`|@n(a,120,.5)<_p7@n(1,-100)_p7:n2_p7@n(3,0)_p7@n(4,60)_p7@n(5,100)_p7>_q8@n(14,-10,.5)<_p_(a45)_(a45)_#n2@n(2,-20)>`-@n(13,-90)<_(y1.4)_#n6>_q8|@n(e,-65,.6)#
+<_p7@n(8,80)_p7:n9_p7@n(10,170,.5)_p7@n(11,-150,.5)_p7@n(12,-80)_p7>_q8@n(7,60)_p_(a45)_(a45)_#n9@n(9,160)
+$>
+
+*: **(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-:n7_q8`|_q8@n(a,70,.5)<_p7@n(1,-160)_p7@n(2,-100)_p7@n(3,-60)_p7:n4_p7@n(5,50)_p7|0@n(6,80)_q_(a-45)_(a-45)_#n4@n(4,-20)>#
+`-@n(14,-100)<_(y1.4)_#n7@n(7,60)>_q8_q8@n(d,-65,.6)<_p7@n(9,80)_p7:n10_p7@n(11,180,.5)_p7@n(12,-120,.5)_p7@n(13,-80)_p7>_q8@n(8,60)_p_(a45)_(a45)_#n10@n(10,170,.5)
+$>
+
+*: **(II)**
+
+@End
+
+#(e)
+en: have the minimum number of polyvalent bridges;
+ru: иметь минимальное количество поливалентных мостиков;
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/$color(gray)\r$color()/_(a-%a:81.4707,N2):n2@n(2,-30)`-O@n(1,-150,.5)_(a-%b:68.5292)\|<_(a-%a)_(a-%b,N2)_(a-%b)>`//@n(5,90)`|$color(gray)`\@n(7,-150)$color()||:n6\;
+#n2_(A110,L.9)_#n6@n(6,150)
+$>
+
+*: **(I)**
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)/$color(gray)\r$color()/_(a-%a:81.4707,N2):n2@n(2,-30)`-O@n(1,-150,.5)_(a-%b:68.5292)\|<_(a-%a)_(a-%b,N2)_(a-%b)>`//@n(5,90)`|<_(A-68,L1.7)_#n2>`\@n(7,-150)||@n(6,150)\
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: 2,6:5,7-dimethanoindeno[7,1-_bc_]furan **(I)** (PIN)  <br>
+(for the order of ring attachment locants see P-25.4.3.2.2)  <br>
+[not 5,7,2-(epiethane[1,1,2]triyl)indeno[7,1-_bc_]furan **(II)**;  <br>
+the PIN **(I)** has no polyvalent bridges; the incorrect name **(II)** has one polyvalent bridge] 
+ru: 2,6:5,7-диметаноиндено[7,1-_bc_]фуран **(I)** (PIN) <br>
+(порядок локантов присоединения кольца см. в P-25.4.3.2.2) <br>
+[не 5,7,2-(эпиэтан[1,1,2]триил)индено[7,1-_bc_]фуран **(II)**; <br>
+PIN **(I)** не имеет поливалентных мостиков; неправильное название **(II)** имеет один поливалентный мостик]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`=@n(12,-120)_q7_qq7r<_p6_pp6_p6_pp6_p6>_q7$color(gray)_qq7_q7$color()<_q7@n(13,-60)>_pp6_q6@n(1,-150)_pp6@n(2,-80)_p6O_p6_pp6<_p6>_q6:n5@n(5,30)_pp6:n6@n(6,100)_p6;
+#1_(A90)_#n5; #2_(A83,L1.5)O_#n6
+$>
+
+*: **(I)**
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`=@n(12,-120)_q7_qq7r<_p6_pp6_p6_pp6_p6>_q7@n(7,90)<_(A-110)O>_qq7$color(gray)_q7$color()<_q7@n(13,-80)>_pp6_q6@n(1,-160)_pp6@n(2,-80)_p6O_p6_pp6<_p6>_q6:n5_pp6@n(6,120)_p6;
+#1_(A90)<_#O>_#n5@n(5,30)
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: 6,12-epoxy-5,13-methanobenzo[4,5]cyclohepta[1,2-_f_][2]benzopyran **(I)** (PIN)  <br>
+6,12-epoxy-5,13-methanobenzo[4,5]cyclohepta[1,2-_f_]isochromene **(I)**  <br>
+(for the order of ring attachment locants see P-25.4.3.2.2)  <br>
+[not 7,5,13-(epoxymethanetriyl)benzo[4,5]cyclohepta[1,2-_f_]isochromene (II);  <br>
+the PIN **(I)** has no polyvalent bridges; the incorrect name **(II)** has one polyvalent bridge] 
+ru: 6,12-эпокси-5,13-метанобензо[4,5]циклогепта[1,2-_f_][2]бензопиран **(I)** (PIN) <br>
+6,12-эпокси-5,13-метанобензо[4,5]циклогепта[1,2-_f_]изохромен **(I)** <br>
+(порядок локантов присоединения кольца см. в P-25.4.3.2.2) <br>
+[не 7,5,13-(эпоксиметантриил)бензо[4,5]циклогепта[1,2-_f_]изохромен (II); <br>
+PIN **(I)** не имеет поливалентных мостиков; неправильное название **(II)** имеет один поливалентный мостик]
+
+@End
+
+#(f)
+en: have the minimum number of dependent bridges;  
+ru: иметь минимальное количество зависимых мостов;
+
+@Examples single 3
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)|l$color()_p8N@n(6,80,.6)<_(A-%a1:165)_(A-%a2:145,N2):a>_(x-%d:2)_(A-135,N2):n8@n(8,150)`|_pp8_(x%d)N@n(11,-80,.6)<_(A%a1)_(A%a2,N2)$color(gray)_#a$color()>#
+_(A45)|\//\//:n3@n(3,30)`|N@n(2,-30,.5)`\\N@n(1,-90,.6)`/<$color(gray)|$color()>`\\@n(12,-90)`/;
+#n8_(A-20,L2.4)P_(h)H_#n3
+$>
+
+*: **(I)**
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$color(gray)|l$color()_p8N@n(6,80,.6)<_(A-%a1:165)_(A-%a2:145,N2):n15>_(x-%d:2.4)_(A-135,N2)`|_pp8_(x%d)N@n(11,-80,.6)<_(A%a1)_(A%a2,N2)_#n15>#
+_(A45)|\//\//:n3@n(3,30)`|N@n(2,-30,.5)`\\N@n(1,-90,.6)`/<$color(gray)|$color()>`\\@n(12,-90)`/;
+#n15@n(15,170)_(A-26,L1.5)P_(h)H_#n3
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: 6,11-buta[1,3]dieno-3,8-phosphano[1,4]diazocino[2,3-_g_]cinnoline **(I)** (PIN)  <br>
+[not 3,15-phosphano-6,11-buta[1,3]dieno[1,4]diazocino[2,3-_g_]cinnoline **(II)**;  <br>
+the PIN **(I)** has no dependent bridges; the incorrect name **(II)** has one dependent bridge] 
+
+@End
+
+#(g)
+en: have the minimum number of atoms in dependent bridges;  
+ru: иметь минимальное количество атомов в зависимых мостиках;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`//`\`//`\`||:n10@n(10,-150,.5)/\\<$color(gray)|$color()>/\\$color(gray)|$color()_q8:n6@n(6,120)=N_q8`|l/@n(1,-90)\\@n(2,-30)|`//`\`|_q8@n(14,-60)`=@n(13,-120)<_q8>#
+_(A40,L1.3)_(A170)_(A30):n17@n(17,0)_(A160)_#n6;
+#n10_(A40)_(A-20,L2)_#n17
+$>
+
+en: 6,17-methano-10,13-pentanonaphtho[2,3-_c_][1]benzazocine (PIN)  <br>
+[not 13,17-ethano-6,10-butanonaphtho[2,3-_c_][1]benzazocine  <br>
+nor 10,17-ethano-6,13-butanonaphtho[2,3-_c_][1]benzazocine;  <br>
+the PIN has only one atom in a dependent bridge] 
+ru: 6,17-метано-10,13-пентанонафто[2,3-_c_][1]бензазоцин (PIN) <br>
+[не 13,17-этано-6,10-бутанонафто[2,3-_c_][1]бензазоцин <br>
+ни 10,17-этано-6,13-бутанонафто[2,3-_c_][1]бензазоцин; <br>
+PIN имеет только один атом в зависимом мостике]
+
+@End
+
+#(h)
+en: have the maximum number of divalent bridges; thus ‘diyl’ is senior to ‘ylylidene’, ‘triyl’, ‘diylidene’, ‘diylylidene’, 
+or ‘tetrayl’, etc. Similarly ‘ylylidene’ is senior to ‘triyl’, etc.  
+ru: иметь максимальное количество двухвалентных мостиков; таким образом, «диил» старше «илилидена», «триила», 
+«диилидена», «диилилидена» или «тетраила» ​​и т. д. Аналогично «илилиден» старше «триила» и т. д.
+
+@Examples 3
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qq8l<_p6_pp6_p6N_pp6<_p6>@n(8,150,.5)_(A-160)_pp7_p6_pp7_#1>@n(7,60)-_qq8`|_qq8l<`-_qq8>_p6@n(1,-160)_pp6@n(2,-80)_p6_pp6N_p6
+$>
+
+*: **(I)**
+
+@cell
+en: not
+ru: не
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q8<_pp6_p6_pp6N_p6<_pp6>@n(8,150,.5)_(A-160)_pp7_p6_pp7_#1>@n(7,60)-_qq8`|_qq8l<`-_qq8>_p6@n(1,-160)_pp6@n(2,-80)_p6_pp6N_p6
+$>
+
+*: **(II)**
+
+@cell colspan=3
+en: 8,7-(azenoepietheno)cyclohepta[4,5]cycloocta[1,2-_b_]pyridine **(I)** (PIN)  <br>
+[not 8,7-(azenoepiethanediylidene)cyclohepta[4,5]cycloocta[1,2-_b_]pyridine **(II)**;  <br>
+the PIN has a composite bridge consisting of a trivalent bridge and a divalent bridge whereas  <br>
+the incorrect name contains a composite bridge consisting of a trivalent bridge and a tetravalent bridge]
+ru: 8,7-(азеноэпиэтандиилиден)циклогепта[4,5]циклоокта[1,2-_b_]пиридин **(I)** (PIN) <br>
+[не 8,7-(азеноэпиэтандиилиден)циклогепта[4,5]циклоокта[1,2-_b_]пиридин **(II)**; <br>
+PIN имеет составной мост, состоящий из трехвалентного моста и двухвалентного моста, <br>
+тогда как неправильное название содержит составной мост, состоящий из трехвалентного моста и четырехвалентного моста]
+
+@End
+
+#(i)
+en: have the lowest locants at the location of bridges, first for independent bridges then dependent bridges; 
+ru: иметь наименьшие локанты в месте расположения мостов, сначала для независимых мостов, затем для зависимых мостов;
+
+@Examples
+// Качество в оригинале низкое. Поэтому используется уточненное изображение отсюда:
+// https://iupac.qmul.ac.uk/bibliog/BBerrors.html
+// Page 280, P-25.4.3.4.2 (i), example. (modified 23 October 2019)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:p(d:1,t,tr,br)_(x$3,N&d)&br<`|&tr`\&t`//>@;
+@n(5,-150)|@n(4,150)@p(2)@p()@p(2)@p(,br:<_(y.5,N0):r1c>)@p(2)@p()@p(2)@p(t:@n(1,-90),tr:@n(2,-30),br:@n(3,30));
+#r1c_(A160,L3,>)_(a0,L1.2,N0)#
+@n(1,-30)`-@n(2,-150)_qq@n(3,150)_q_q<_qq>_p@n(12,-20,.5)_pp_p<_pp>_q_q<_qq@n(11,20,.5)_q>_p@n(10,40,.5)_pp_p<_pp>_q_q<_qq@n(9,90)_q>_p@n(8,120)_pp_p<_pp>_q_q<_qq@n(7,150)_q>_p@n(6,180)_pp@n(5,-100)_p@n(4,-20)_pp#
+_(x5,N0)_(x4,>)-0#
+-_q@n(4,40)_q@n(5,-90)<_q_qq>_po_po@n(14,180,.55)_p<_pp>@n(13,70,.5)_q@n(3,100)_q<_q_qq>@n(2,-60)_pp@n(1,-60)_p_p<_ppr>_q_q<_q_qq>_pp_p_p<_ppr>_q_q<_q_qq>_pp:r2c_p_p<_pp>`_q_q<_q_qq>_pp_p_po<_pp>#
+_(x5.5,N0){}"`not`"_(h){}-0#
+-<_pp>_q@n(4,40)_q@n(5,-90)<_qq_q>_po_po_p<_pp>@n(13,70,.5)_q@n(3,100)_q<_qq_q@n(14,-160,.5)>@n(2,-60)_p@n(1,-60)_pp_p<_ppr>_q_q<_qq_q>_p_pp_p<_ppr>_q_q<_qq_q>_p_pp_p<_pp>_q_q<_qq_q>_p_pp;
+#r2c_(y.5,N0)_(y1.5,>)_(y2.5,x-.5,N0)#
+-_q<_q@n(15,-90)_qq>@n(2,-80)_pp@n(1,-60)_p_p<_pp@n(3,100)>_q_q<_q_qq>_pp_p_p<_ppr>_q_q<_q_qq>_pp_p_p<_ppr>_q_q<_q_qq>_pp_p:r3cl_p<_pp>_q_q<_q_qq>@n(5,-140)_pp@n(16,-120)_p@n(14,-110,.5)_p@n(13,70)_pp@n(4,50);
+#r3cl`-0_(A180,L3,N3)`-0# 
+`-_qq_q<_qq_q>_p_pp_p<_p>_qq_q<_qq_q>_p_pp_p<_p>_qql_q<_qq_q>_p_pp_p<_p>@n(4,50)_qql_q<_qq@n(16,-120)_q@n(5,-140)>@n(14,-110,.5)_p@n(15,-90)_pp_p<_p@n(13,70)>@n(3,100)_qql_q<_qq@n(1,-60)_q@n(2,-80)>_p_pp_po_p
+$>
+
+en: 14,5-(metheno)-3,2,4-(epiprop[2]en[1,3]diyl[1]ylidene)dicyclopenta[_f_,_f_′]pentaleno[1,2-_a_:6,5-_a_′]dipentalene (PIN) <br>
+the locants set for the independent bridge ‘3,2,4’ is the lowest;  <br>
+the locant for single bond attachment of metheno bridge is cited first. <br>
+[not 5,14-(metheno)-3,4,2-(epipropan[1]yl[1,3]diylidene)dicyclopenta[_f_,_f_′]pentaleno[1,2-_a_:6,5-_a_′]dipentalene; <br>
+not 14,5-(metheno)-4,2,3-(epiprop[2]en[1,3]diyl[1]ylidene)dicyclopenta[_f_,_f_′]pentaleno[1,2-_a_:6,5-_a_′]dipentalene; <br>
+not 5,14-(metheno)-4,3,2-(epipropan[1]yl[1,3]diylidene)dicyclopenta[_f_,_f_′]pentaleno[1,2-_a_:6,5-_a_′]dipentalene; <br>
+the locants ‘3,2,4’ for independent bridge is lower than ‘3,4,2’, ‘4,2,3’ and ‘4,3,2’]
+ru: 14,5-(метено)-3,2,4-(эпипропан[2]ен[1,3]диил[1]илиден)дициклопента[_f_,_f_′]пенталено[1,2-_a_:6,5-_a_′]дипентален (PIN) <br>
+локанты, установленные для независимого мостика «3,2,4», являются наименьшими; <br>
+локанты для присоединения одинарной связи метенового мостика указаны первыми. <br>
+[не 5,14-(метено)-3,4,2-(эпипропан[1]ил[1,3]диилиден)дициклопента[_f_,_f_′]пенталено[1,2-_a_:6,5-_a_′]дипентален; <br>
+не 14,5-(метено)-4,2,3-(эпипроп[2]ен[1,3]диил[1]илиден)дициклопента[_f_,_f_′]пенталено[1,2-_a_:6,5-_a_′]дипентален; <br>
+не 5,14-(метено)-4,3,2-(эпипропан[1]ил[1,3]диилиден)дициклопента[_f_,_f_′]пенталено[1,2-_a_:6,5-_a_′]дипентален; <br>
+локанты «3,2,4» для независимого моста меньше, чем «3,4,2», «4,2,3» и «4,3,2»]
+
+@End
+
+#(j)
+en: have the maximum number of noncumulative double bonds in the parent ring system;
+ru: иметь максимальное количество некумулятивных двойных связей в исходной кольцевой системе;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/\\|<`//`\>\@n(4,90)<_(A-120):a>/`||`\@n(1,-90)<`/>_(A60)_#a
+$>
+
+en: 1,4-dihydro-1,4-ethanoanthracene (PIN)  <br>
+(not 1,2,3,4-tetrahydro-1,4-ethenoanthracene) 
+ru: 1,4-дигидро-1,4-этаноантрацен (PIN) <br>
+(не 1,2,3,4-тетрагидро-1,4-этеноантрацен)
+
+@End
+
+#P-25.4.4
+en: Numbering bridge atoms 
+ru: Нумерация мостиковых атомов
+
+en: Bridge atoms are numbered continuing from the highest locant of the fused ring system. If there is more than one bridge 
+atom (excluding hydrogen) the numbering starts at the end of the chain or ring atom connected to the bridgehead of the 
+fused ring system having the highest locant. With composite bridges, each component is completely numbered before 
+the next component. Fusion atoms in fused ring bridges are numbered in accordance with P-25.3.3.1.1. 
+ru: Атомы мостика нумеруются, начиная с самого высокого локанта конденсированной кольцевой системы. Если имеется более 
+одного атома мостика (исключая водород), нумерация начинается с конца цепи или атома кольца, соединенного с мостиком 
+конденсированной кольцевой системы, имеющей самый высокий локант. В составных мостиках каждый компонент полностью 
+нумеруется перед следующим компонентом. Атомы слияния в конденсированных кольцевых мостиках нумеруются в соответствии 
+с P-25.3.3.1.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)|`//`\`||/@n(8,-90)\\/@n(1,-90)<_(A70):a>\\|`//@n(4,90)<`\>_(A-120)@n(9,-80,.35)_#a@n(10,100,.35)
+$>
+
+en: 1,4-ethanonaphthalene (PIN) 
+ru: 1,4-этанонафталин (PIN)
+
+@End
+
+#P-25.4.4.1+
+en: When there is a choice of locants, lowest locants are assigned according to the following criteria, in order, 
+until a definitive decision is reached: 
+ru: При выборе локантов наименьшие локанты назначаются в соответствии со следующими критериями в указанном порядке, 
+пока не будет принято окончательное решение:
+
+@List
+
+@item
+en: low locants for heteroatoms; 
+ru: меньшие локанты для гетероатомов;
+
+@item
+en: low locants for bridgehead atoms within a bridge; 
+ru: меньшие локанты для атомов-мостов внутри моста;
+
+@End
+
+en: The remaining atoms (excluding hydrogen) are then numbered consecutively.  
+ru: Оставшиеся атомы (за исключением водорода) затем нумеруются последовательно.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(5,90)`\`||/@n(8,-90)\\|\:n10@n(10,90)//\@n(4,90)//`|`\\@n(1,-90)`/<|>$color(gray)`\\$color()<`/>@n(9,-140,.5)#
+_(y-1.8)@n(12,180,.5)`|@n(13,-150,.5)//@n(14,-90)\@n(15,-30,.5)||@n(16,30)`/@n(11,30)`\r\_#n10
+$>
+
+en: 9,10-[1,2]benzenoanthracene (PIN)
+ru: 9,10-[1,2]бензоантрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/@n(9,-90)\\|\:n5@n(5,90)//\@n(4,90)//`|`\\N@n(1,-90,.6)`/<|>$color(gray)`\\$color()@n(10,-140,.6)<`/>#
+_(y-1.6)@n(11,180,.5)_(A-70)O@n(12,-110,.6)_p@n(13,-70)_pp@n(14,10)_p@n(15,20)<_ppr>_#n5
+$>
+
+en: 10,5-[2,3]furanobenzo[_g_]quinoline (PIN)
+ru: 10,5-[2,3]фуранобензо[_g_]хинолин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/@n(9,-90)\\|\:n5@n(5,90)//\@n(4,90)//`|`\\N@n(1,-90,.6)`/<|>$color(gray)`\\l$color()<`/>@n(10,-160,.6)#
+_(y-2.6,x-.7)@n(11,180,.5)//@n(16,-120,.5)-@n(15,-60)\\@n(14,0)<_#n5>`/O@n(13,120,.6)`-@n(12,120)`\
+$>
+
+en: 12_H_-5,10-[2,5]epipyranobenzo[_g_]quinoline (PIN)
+ru: 12_H_-5,10-[2,5]эпипиранобензо[_g_]хинолин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`//`\`||/\\<|>/\\|\:n6@n(6,90)//\//\//`|`\\@n(1,-90)`/<|>`\\@n(14,-80)`/<|>$color(gray)`\\$color()<`/>@n(13,-170,.6)#
+_(A-100,L1.7)@n(15,180,.5)/@n(16,-150,.6)\l`\`|@n(21,-150,.5)//@n(20,-90)\@n(19,-30,.5)||@n(18,30,.45)`/@n(17,20,.5)#
+_(A140)@n(22,10,.5)_#n6
+$>
+
+en: 6,13-(methano[1,2]benzenomethano)pentacene (PIN) 
+ru: 6,13-(метано[1,2]бензометано)пентацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)`\@n(12,-60)`=`/\\`/\\-//`\<`->//l@n(12a,-170,.8)_(a%a:81.4707):a@n(12b,160,.65)|:b<_(a%b:68.5292)>@n(6b,90,.5)_(a-%b)@n(6a,120,.5)\\l@n(6,120)-//@n(4)`\`-<`/>`\\r</@n(1,-120)=@n(2,-60)\@n(3,0)`//>$color(gray)_(a-%a)$color()#
+_(y-2.8,x-.9)$slope()@n(13,160,.6)/l`/`\@n(20,150,.5)`||@n(19,-150,.5)/@n(18,-90)\\|@n(13a,90,.55)\<_#b>@n(14,20,.5)//@n(15,30,.5)`|@n(16,-30,.5)`\\@n(17,-90)`/@n(17a,-90,.6)
+$>
+
+en: 6b,12b-[1,8]naphthalenoacenaphthyleno[1,2-_a_]acenaphthylene (PIN)  <br>
+**Note**: Locants 13a and 17a are generated in the same way as fusion locants for nonbridged fused ring systems,  <br>
+see P-25.3.3.1.1. 
+ru: 6b,12b-[1,8]нафталеноаценафтилено[1,2-_a_]аценафтилен (PIN) <br>
+**Примечание**: Локанты 13a и 17a генерируются таким же образом, как локанты слияния для немостиковых конденсированных кольцевых систем, <br>
+см. P-25.3.3.1.1.
+
+@End
+
+#P-25.4.5
+en: Order for numbering of bridges 
+ru: Порядок нумерации мостиков
+
+#P-25.4.5.1+
+en: Independent bridges are numbered before dependent bridges. 
+ru: Независимые мосты нумеруются раньше зависимых мостов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.2)\\|`/r`\`||/@n(8,-90)_(x-%d:.2,y%L)O@n(17,0,.55)_(x%d,y%L)@n(5,90)/\:n10@n(10,90)//\//`|`\\@n(1,-90)<_(x-%d,y%L)O@n(18,0,.55)_(x%d,y%L)@n(4,90)>`/<|>$color(gray)`\\l$color()<`/>@n(9,-150)#
+_(y-1.7,x-.3)@n(12,180,.5)`|@n(13,-150,.5)//@n(14,-90)\@n(15,-30,.5)||@n(16,30,.5)<`\O@n(19,-90,.6)`\>`/`\r\@n(11,30,.5)_#n10
+$>
+
+en: 13,16-epoxy-1,4:5,8-diepoxy-9,10-[1,2]benzenoanthracene (PIN)  <br>
+**Note**: Dependent bridges are cited before independent bridges but are numbered after them,  <br>
+see P-25.4.3.1. 
+ru: 13,16-эпокси-1,4:5,8-диэпокси-9,10-[1,2]бензоантрацен (PIN) <br>
+**Примечание**: Зависимые мостики указаны перед независимыми мостиками, но пронумерованы после них, <br>
+см. P-25.4.3.1.
+
+@End
+
+#P-25.4.5.2+
+en: If there is more than one bridge of the same type (dependent or independent), seniority is given to the bridge 
+attached to the bridgehead with the higher locant at the first point of difference. 
+ru: Если имеется более одного моста одного типа (зависимого или независимого), приоритет отдается мосту, 
+присоединенному к предмостью с большим локантом в первой точке различия.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.2)`\\@n(9,-90)`/`\l\|`/r`\`||/_(x-%d:0.4,y%L)@n(11,0,.5)_(x%d,y%L)@n(5,90)/\@n(10,90)//`|/@n(1,-90)<_(A120):a>\\@n(2,-30)|`//@n(4,90)<`\>_(A-65)@n(12,-110)_#a@n(13,80)
+$>
+
+en: 1,4-ethano-5,8-methanoanthracene (PIN)
+ru: 1,4-этано-5,8-метаноантрацен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-_q@n(17,-20)_q:n14@n(14,-90,.5)_q@n(16,-160,.45)_q@n(7,100)-@n(6,80)#
+_(a10)@n(5,80)_qq6_q7<_p6N@n(1,-90,.6)_pp6_p6_pp6@n(4,80)_p6>_qq7@n(15,-90)_#n14;
+#2`-0_(a-10)_pp6_p7<_q6_qq6_q6_qq6_q6>_pp7@n(13,-90)_#n14
+$>
+
+en: 6,14:7,14-dimethanobenzo[7,8]cycloundeca[1,2-_b_]pyridine (PIN) 
+ru: 6,14:7,14-диметанобензо[7,8]циклоундека[1,2-_b_]пиридин (PIN)
+
+@End
+
+#P-25.4.5.3+
+en: If two bridges are attached to the same bridgehead atoms, they are numbered in accordance with their order 
+of citation. 
+ru: Если два мостика присоединены к одним и тем же атомам предмостий, они нумеруются в соответствии 
+с порядком их цитирования.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.2)$slope(30)/@n(1,-90)\\|`//`\`|`\\@n(14,-90)`/@n(13,-90,.5)`/@n(17,180)\@n(6,90,.5)`/`\\`/`\\`|//\<|>//N\-@n(15,145,.5)|@n(16,-140,.5)`-\N//
+$>
+
+en: 6,13-ethano-6,13-methanodibenzo[_b_,_g_][1,6]diazecine (PIN) 
+ru: 6,13-этано-6,13-метанодибензо[_b_,_g_][1,6]диазецин (PIN)
+
+@End

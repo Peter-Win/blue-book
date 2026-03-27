@@ -1,0 +1,1548 @@
+#P-3
+en: Characteristic (functional) and substituent groups
+ru: &(Characteristic [group]|*) (функциональные) и &(substituent group|*)
+
+@Content
+
+#P-30
+en: Introduction 
+ru: Введение
+
+en: The prefixes and/or suffixes attached to a parent name specify a particular molecular structure and usually represent 
+**substituents** of various types, which are considered to take the place of hydrogen atoms of the parent hydride or parent 
+structure. It has been customary to regard such substituents as **characteristic** (or **functional**) when the link between 
+substituent and parent is not a carbon-carbon bond, for example, <$–OH$>, <$=O$>, and <$–NH2$>, but exceptions are recognized, 
+such as <$–COOH$> and <$–CN$>. It seems appropriate to retain the general view of **functionality** as implying the presence of 
+heteroatoms, but it would not be helpful to attempt to define precisely the limits of application of the term. 
+ru: Префиксы и/или суффиксы, присоединяемые к &(parent name|da), указывают на конкретную молекулярную структуру 
+и обычно представляют собой **&(substituent|*)** различных типов, которые, как считается, занимают место атомов водорода 
+&(parent hydride) или исходной структуры. Обычно такие &(substituent|*) считаются **&(characteristic [group]|tv*)** 
+(или **функциональными**), если связь между &(substituent|tv) и исходным соединением не является углерод-углеродной связью, 
+например, <$–OH$>, <$=O$> и <$–NH2$>, но существуют исключения, такие как <$–COOH$> и <$–CN$>. Представляется целесообразным 
+сохранить общее представление о **функциональности** как о наличии гетероатомов, но было бы нецелесообразно пытаться точно определить 
+границы применения этого термина.
+
+en: Carbon-carbon unsaturation in acyclic and alicyclic compounds is regarded by IUPAC as a special type of functionality 
+and is therefore treated here in Chapter P-3 rather than in Chapter P-2 (Parent Hydrides). Its presence here and that of 
+the hydrogenation of parent hydrides having the maximum number of noncumulative double bonds (mancude parent 
+hydrides) is logical for nomenclature, as the unsaturation in acyclic and alicyclic parent hydrides expressed by endings 
+and the saturation of mancude parent hydrides by hydro-dehydro prefixes are essentially equivalent. 
+ru: Углерод-углеродная ненасыщенность в ациклических и алициклических соединениях рассматривается ИЮПАК как особый тип 
+функциональности и поэтому рассматривается здесь в главе P-3, а не в главе P-2 (&(Parent Hydride|*)). Её наличие здесь, 
+а также наличие гидрирования &(parent hydride|ro*) с максимальным числом некумулятивных двойных связей 
+(&(mancude)-&(parent hydride|*)) логично с точки зрения номенклатуры, поскольку ненасыщенность в ациклических и алициклических 
+&(parent hydride|pr*), выраженная окончаниями, и насыщенность &(mancude)-&(parent hydride|ro*) гидро-дегидро префиксами, 
+по сути, эквивалентны.
+
+en: This Chapter also deals with **functional parent compounds**, i.e., structures that may be treated as parent structures, 
+having substitutable hydrogen atoms, but possessing characteristics normally associated with functionality, e.g. acetic 
+acid, <%ac%>, and phosphonic acid, <%p%>. Functional parent compounds must be distinguished from 
+compounds having a characteristic group systematically introduced as a suffix attached to a parent hydride, for example 
+butanoic acid and ethanol. The latter compounds may be called ‘functionalized parent hydrides’, though strictly 
+speaking, **ions** and **radicals** do not fall within the concept of functionality as described above; an ionic center or a 
+radical center is treated like a function and expressed in the same way as characteristic groups, i.e., by suffixes and 
+prefixes. This treatment is introduced in this Chapter and Chapter P-7. 
+ru: В этой главе также рассматриваются **функциональные &(parent compound|*)**, то есть структуры, которые можно рассматривать 
+как &(parent [structure]|*), имеющие замещаемые атомы водорода, но обладающие характеристиками, обычно связанными с функциональностью, 
+например, уксусная кислота, <%ac%>, и фосфоновая кислота, <%p%>. Функциональные &(parent compound|*) следует отличать от 
+соединений, имеющих &(characteristic group|vi), систематически вводимую в виде суффикса, присоединённого к &(parent hydride|da), 
+например, масляная кислота и этанол. Последние соединения можно назвать «функционализированными &(parent hydride|tv*)», 
+хотя, строго говоря, **ионы** и **радикалы** не подпадают под понятие функциональности, описанное выше; 
+ионный центр или радикальный центр рассматривается как функция и выражается так же, как &(characteristic group|*), 
+то есть суффиксами и префиксами. Этот подход представлен в этой главе и главе P-7.
+%ac: <$ CH3-COOH $>
+%p: <$ HP(O)(OH)2 $>
+
+en: Any group may be expressed in a name either as a suffix or as a prefix. As prefixes, they are detachable 
+(alphabetizable), as are the prefixes derived from parent hydrides discussed in section P-14.5.
+ru: Любая группа может быть представлена в названии как суффиксом, так и префиксом. Как префиксы, они являются отделяемыми 
+(размещаемыми по алфавиту), как и префиксы, образованные от &(parent hydride|ro*), обсуждаемых в разделе P-14.5.
+
+#P-31
+en: Modification of the degree of hydrogenation of parent hydrides 
+ru: Изменение степени гидрирования &(parent hydride|ro*)
+
+@Content
+
+#P-31.0
+en: Introduction 
+ru: Введение
+
+en: Parent hydrides are divided into two groups, fully saturated or fully unsaturated. Fully unsaturated cyclic parent 
+hydrides are, by convention, defined as having the maximum number of noncumulative double bonds, also called 
+‘mancude’ compounds (an acronym for MAximum number of NonCUmulated DoublE bonds). Thus a degree of 
+hydrogenation different from those denoting these two groups must be expressed by an additive or subtractive operation 
+corresponding to the addition or the subtraction of hydrogen atoms. Specific rules are devised for compounds having 
+saturated and unsaturated parts, such as cyclophanes, spiro compounds, etc. 
+ru: &(Parent hydride|*) делятся на две группы: полностью насыщенные и полностью ненасыщенные. Полностью ненасыщенные 
+циклические &(parent hydride|*), как правило, определяются как соединения с максимальным числом некумулятивных двойных связей, 
+также называемые «&(mancude)» (аббревиатура от МАксимальное число НеКУмклятивных Двойных связей). Таким образом, 
+степень гидрирования, отличная от той, которая обозначает эти две группы, должна быть выражена аддитивной или субтрактивной 
+операцией, соответствующей добавлению или вычитанию атомов водорода. Для соединений с насыщенными и ненасыщенными частями, 
+таких как &(cyclophane|*), спиросоединения и т. д., разработаны особые правила.
+
+en: The state of hydrogenation of parent hydrides is modified in two ways: (a) by a subtractive operation (subtraction of 
+two or more hydrogen atoms) denoted by the ‘ene’ and ‘yne’ endings or by the prefix ‘dehydro’; or (b) by an additive 
+operation (addition of two or more hydrogen atoms) denoted by the prefix ‘hydro’. 
+ru: Состояние гидрирования исходных &(parent hydride|ro*) двумя способами: (а) с помощью субтрактивной операции 
+(вычитание двух или более атомов водорода), обозначаемой окончаниями «ен» и «ин» или префиксом «дегидро»; 
+или (б) с помощью аддитивной операции (присоединение двух или более атомов водорода), обозначаемой префиксом «гидро».
+
+@p .framed
+en: In these recommendations, the prefixes ‘hydro’ and ‘dehydro’ are detachable, but are not included in the category of 
+alphabetized detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2). This is a change from the 
+recommendations in earlier editions (ref. 1, 2). When along with the endings ‘ene’ and ‘yne’ they are used to modify 
+parent hydrides, they are regulated by the principle of lowest locants, in accord with the numbering of the parent 
+hydride and after priority has been given to indicated hydrogen, added indicated hydrogen, and suffixes, when 
+present, as specified in the general rules for numbering (P-14.4). 
+ru: В настоящих рекомендациях префиксы «гидро» и «дегидро» являются &(detachable [prefix]|tv*), но не включены в категорию 
+алфавитно-упорядоченных &(detachable [prefix]|ro*) приставок (см. P-14.4; см. также P-15.1.5.2, P-31.2, P-58.2). 
+Это изменение по сравнению с рекомендациями в более ранних изданиях (ссылки 1, 2). Когда они используются вместе с 
+окончаниями «ен» и «ин» для модификации &(parent hydride|ro*), они регулируются по принципу наименьшего места в соответствии 
+с нумерацией &(parent hydride|ro) и после того, как приоритет будет отдан &(indicated hydrogen|da), добавленному 
+&(indicated hydrogen|da) и суффиксам, если они есть, как указано в общих правилах нумерации (P-14.4).
+
+#P-31.1
+en: The endings ‘ene’ and ‘yne’ 
+ru: Окончания «ен» и «ин»
+
+#P-31.1.1
+en: General methodology
+ru: Общая методология
+
+#P-31.1.1.1+
+en: The presence of one or more double or triple bonds in an otherwise saturated parent hydride [except for 
+parents with Hantzsch-Widman names (see P-22.2.2.1.1), or retained names denoting partial hydrogenation as indicated 
+later (see P-31.2.3.3.1)] is denoted by changing the ending ‘ane’ of the name of a saturated parent hydride to ‘ene’ or 
+‘yne’. Locants as low as possible are given to multiple bonds as a set, even though this may at times give ‘yne’ endings 
+lower locants than ‘ene’ endings. If a choice remains, preference for low locants is given to the double bonds. In names, 
+the ending ‘ene’ always precedes ‘yne’, with elision of the final letter ‘e’ in ‘ene’. Only the lower locant for a multiple 
+bond is cited, except when the numerical difference between the two locants is greater than one, in which case the 
+higher locant is enclosed in parentheses. 
+ru: Наличие одной или нескольких двойных или тройных связей в ином насыщенном &(parent hydride|pr) [за исключением 
+случаев с названиями Ганча-Видмана (см. P-22.2.2.1.1) или сохраненных названий, обозначающих частичное гидрирование, как 
+указано далее (см. P-31.2.3.3.1)] обозначается изменением окончания «ан» в названии насыщенного исходного гидрида на «ен» или «ин». 
+Кратным связям как набору присваиваются как можно меньшие локанты, хотя иногда это может давать окончания «ин» меньшим 
+локантам, чем окончания «ен». Если остается выбор, предпочтение отдается меньшим локантам двойных связей. В названиях 
+окончание «ен» всегда предшествует «ин», с опусканием последней буквы «е» в «ен». Указывается только меньший локант для 
+кратной связи, за исключением случаев, когда численная разница между двумя локантами больше единицы. В этом случае больший локант 
+заключается в скобки.
+
+en: Exceptionally, the endings ‘ene‘ and ‘yne‘ can be added to the ending ‘ane’ in spiro compounds (see SP-2.4, ref. 8), 
+phane nomenclature (see PhII-5.3.1, ref. 6), and ring assemblies (see P-31.1.7 in this book).
+ru: В исключительных случаях окончания «ен» и «ин» могут быть добавлены к окончанию «ан» в спиросоединениях (см. SP-2.4, ссылка 8), 
+&(phane nomenclature|pr) (см. PhII-5.3.1, ссылка 6) и &(ring assembly|pr*) (см. P-31.1.7 в этой книге).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-CH3@n(4)
+$>
+
+en: but-1-ene (PIN) 
+ru: бут-1-ен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(1)%C@n(2)-CH3@n(3)
+$>
+
+en: propyne (PIN) 
+ru: пропин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HC@n(1)%C@n(2)-CH@n(3)=CH@n(4)-CH3@n(5)
+$>
+
+en: pent-3-en-1-yne (PIN)
+ru: пент-3-ен-1-ин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH2@n(3)-C@n(4)%CH@n(5)
+$>
+
+en: pent-1-en-4-yne (PIN)  
+ru: пент-1-ен-4-ин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(22)_(A-67.5)@n(16,0)_q8</_(A30,L%a:1.1)/N<_(y-.5)H>@n(4,90,.6)_(A30,L%a):a>@n(1,-90)_qq8l@n(15,-90)_q8_q8_q8_q8@n(11,90)_q8@n(10,100,.5)\_(A-30,L%a)\_(A-30,L%a)_#a
+$>
+
+en: 4-azabicyclo[8.5.1]hexadec-1(15)-ene (PIN)  
+ru: 4-азабицикло[8.5.1]гексадек-1(15)-ен (PIN)
+
+@End
+
+#P-31.1.1.2+
+en: The multiplying prefixes ‘di’, ‘tri’, etc., are placed before endings denoting unsaturation to indicate the 
+number of multiple bonds of each kind, as required, for example, ‘diene’ and ‘triyne’. For euphonic reasons, when the 
+endings ‘ene’ and ‘yne’ are preceded by a multiplying prefix and a locant the letter ‘a’ is inserted. There is no elision of 
+the final letter ‘a’ of a multiplying prefix before ‘ene’ or ‘yne’, for example, ‘tetraene’ and ‘pentayne’.
+ru: Умножающие префиксы «ди», «три» и т. д. ставятся перед окончаниями, обозначающими ненасыщенность, чтобы указать количество 
+кратных связей каждого типа, например, «диен» и «триин». Из соображений благозвучия, когда окончаниям «ен» и «ин» предшествуют 
+умножающая приставка и локант, добавляется буква «а». Выпадение последней буквы «а» умножающей приставки перед «ен» или «ин» 
+не допускается, например, «тетраен» и «пентаин».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3)=CH2@n(4)
+$>
+
+en: buta-1,3-diene (PIN) 
+ru: бута-1,3-диен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3)=CH@n(4)-CH@n(5)=CH@n(6)-CH@n(7)=CH@n(8)-CH3@n(9)
+$>
+
+en: nona-1,3,5,7-tetraene (PIN)
+ru: нона-1,3,5,7-тетраен (PIN)
+
+@End
+
+#P-31.1.1.3+
+en: The method of P-31.1.1 is applicable to the following saturated hydrocarbon parent hydrides and to the 
+corresponding hydrides modified by skeletal replacement (‘a’) nomenclature that are described in Chapter P-2:
+ru: Метод P-31.1.1 применим к следующим насыщенным углеводородным &(parent hydride|da*) и к соответствующим гидридам, 
+модифицированным при помощи номенклатуры &(skeletal replacement a|ro), которая описана в главе P-2:
+
+@Content +31.1.2
+
+en: This method is not used to modify Hantzsch-Widman names for saturated heterocyclic compounds or for totally or 
+partially hydrogenated mancude compounds having retained names, i.e., imidazolidine, morpholine, piperazine, 
+piperidine, pyrazolidine, pyrrolidine (see Table 2.3), quinuclidine (see Table 2.6), and also indane, chromane, 
+isochromane, their chalcogen analogues, and indoline, isoindoline (see Table 3.1). When necessary, the corresponding 
+mancude compounds are modified by using prefixes ‘hydro’ or ‘dehydro’, as indicated in P-31.2, below. 
+ru: Этот метод не применяется для модификации названий по Ганчу-Видману для насыщенных гетероциклических соединений, 
+а также для полностью или частично гидрированных соединений с сохраненными названиями, например, имидазолидин, морфолин, 
+пиперазин, пиперидин, пиразолидин, пирролидин (см. &[табл. 2.3]), хинуклидин (см. &[табл. 2.6]), а также индан, хроман, изохроман, 
+их халькогенные аналоги, индолин, изоиндолин (см. &[табл. 3.1]). При необходимости соответствующие &(mancude)-соединения 
+модифицируются добавлением префиксов «гидро» или «дегидро», как указано в P-31.2 ниже.
+
+#P-31.1.2
+en: Acyclic parent hydrides 
+ru: Ациклические &(parent hydride|*)
+
+#P-31.1.2.1
+en: Retained names
+ru: Сохранённые имена
+
+en: The name acetylene is retained for the compound <%ac%>. It is the preferred IUPAC name, but substitution of any kind 
+is not allowed; however, in general nomenclature, substitution is allowed, for example fluoroacetylene [fluoroethyne 
+(PIN)], but not by alkyl groups or any other group that extends the carbon chain, nor by characteristic groups expressed 
+by suffixes.
+ru: Название «ацетилен» сохранено для соединения <%ac%>. Это предпочтительное название по ИЮПАК, но любые замены не допускаются; 
+однако в общей номенклатуре допускается замещение, например, фторацетилен [фторэтин (PIN)], но не алкильными группами или 
+любыми другими группами, удлиняющими углеродную цепь, а также &(characteristic group|tv*), обозначенными суффиксами.
+%ac: <$HC≡CH$>
+
+en: The name allene, for <%f%>, is retained for general nomenclature only; substitution is allowed, but not by alkyl 
+or any other group that extends the carbon chain, nor characteristic groups expressed by suffixes. The systematic name, 
+propa-1,2-diene, is the preferred IUPAC name. 
+ru: Название «аллен» для <%f%> сохранено только для общей номенклатуры; допускается замена, но не алкильной или любой 
+другой группой, удлиняющей углеродную цепь, а также характерными группами, обозначенными суффиксами. Систематическое название, 
+пропа-1,2-диен, является предпочтительным названием по ИЮПАК.
+%f: <$ CH2=C=CH2 $>
+
+en: The name isoprene, for <%f%>, is retained but only for general nomenclature; no substitution of any 
+kind is allowed. The systematic name, 2-methylbuta-1,3-diene, is the preferred IUPAC name. 
+ru: Название изопрен для <%f%> сохранено, но только для общей номенклатуры; никакие замены не допускаются. Систематическое 
+название, 2-метилбута-1,3-диен, является предпочтительным наименованием по ИЮПАК.
+%f: <$ CH2=C(CH3)-CH=CH2 $>
+
+@p .has-inline-formula
+en: The name formazan, for <%f%>, is retained and is a preferred IUPAC name fully substitutable by suffixes and prefixes. 
+ru: Название формазан для <%f%> сохранено и является предпочтительным названием ИЮПАК, полностью заменяемым суффиксами и префиксами.
+%f: <$ HN@n(1)=N@n(2)-CH@n(3)=N@n(4)-NH2@n(5) $>
+
+en: The name carbodiimide, for <%f%>, is retained but only for general nomenclature; no substitution of any kind is 
+allowed. The systematic name, methanediimine, is the preferred IUPAC name.
+ru: Название карбодиимид для <%f%> сохранено, но только для общей номенклатуры; никакие замены не допускаются. 
+Систематическое название, метандиимин, является предпочтительным названием по ИЮПАК.
+%f:<$HN=C=NH$>
+
+#P-31.1.2.2
+en: Systematic names
+ru: Систематические названия
+
+#P-31.1.2.2.1+
+en: Homogeneous acyclic parent hydrides and acyclic parent hydrides composed of alternating heteroatoms 
+are modified by the general method of P-31.1.1. 
+ru: Гомогенные ациклические &(parent hydride|*) и ациклические &(parent hydride|*), состоящие из чередующихся гетероатомов, 
+модифицируются общим методом P-31.1.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2)=CH@n(3)-CH2@n(4)-CH2@n(5)-CH3@n(6)
+$>
+
+en: hex-2-ene (PIN)  
+ru: гекс-2-ен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-C@n(2)%C@n(3)-CH3@n(4)
+$>
+
+en: but-2-yne (PIN) <br>
+(not dimethylacetylene)
+ru: бут-2-ин (PIN) <br>
+(не диметилацетилен)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH@n(2)=C@n(3)=CH@n(4)-CH2@n(5)-CH3@n(6)
+$>
+
+en: hexa-2,3-diene (PIN)  <br>
+(not 1-ethyl-3-methylallene)
+ru: гекса-2,3-диен (PIN) <br>
+(не 1-этил-3-метилаллен)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(1)=CH@n(2)-CH@n(3)=CH@n(4)-C@n(5)%CH@n(6)
+$>
+
+en: hexa-1,3-dien-5-yne (PIN) 
+ru: гекса-1,3-диен-5-ин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(1)-N@n(2)=N@n(3)-NH@n(4)-NH2@n(5)
+$>
+
+en: pentaaz-2-ene  <br>
+(preselected name, see P-12.2) 
+ru: пентааз-2-ен <br>
+(предварительно выбранное имя, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH3@n(1)-SiH@n(2)=SiH@n(3)-SiH2@n(4)-SiH2@n(5)-SiH3@n(6)
+$>
+
+en: hexasil-2-ene  <br>
+(preselected name, see P-12.2) 
+ru: гексасил-2-ен <br>
+(предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HSi@n(1)%SiH@n(2)
+$>
+
+en: disilyne  <br>
+(preselected name, see P-12.2) 
+ru: дисилин <br>
+(предварительно выбранное имя, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2Sn@n(1,-90)=P@n(2)-SnH@n(3)=P@n(4)-SnH3@n(5)
+$>
+
+en: tristannaphospha-1,3-diene  <br>
+(preselected name, see P-12.2) 
+ru: тристаннафосфа-1,3-диен <br>
+(предварительно выбранное название, см. P-12.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HP=N@n(N)-P@n(1)=N-PH2
+$>
+
+en: _N_-phosphanylidene-1-(phosphanylimino)phosphanamine  <br>
+(preselected name, see P-12.2)
+ru: _N_-фосфанилиден-1-(фосфанилимино)фосфанамин <br>
+(предварительно выбранное название, см. P-12.2)
+
+@End
+
+#P-31.1.2.2.2
+en: Acyclic parent hydrides modified by skeletal replacement (‘a’) nomenclature
+ru: Ациклические &(parent hydride|*), модифицированные при помощи номенклатуры &(skeletal replacement a|ro)
+
+en: Locants are assigned to unsaturation sites in chains in accordance with the fixed numbering of the hetero chain. If a 
+choice remains, then lowest locants are assigned to unsaturated sites. 
+ru: Локанты назначаются ненасыщенным участкам в цепях в соответствии с фиксированной нумерацией гетероцепи. 
+Если остаётся возможность выбора, то меньшие локанты назначаются ненасыщенным участкам.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-O@n(2)-CH2@n(3)-CH2@n(4)-O@n(5)-CH2@n(6)-CH2@n(7)-O@n(8)-CH2@n(9)-CH2@n(10)-O@n(11)-CH2@n(12)-CH@n(13)=CH2@n(14)
+$>
+
+en: 2,5,8,11-tetraoxatetradec-13-ene (PIN)  
+ru: 2,5,8,11-тетраоксатрадек-13-ен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(12)-O@n(11)-CH2@n(10)-CH2@n(9)-O@n(8)-CH2@n(7)-CH2@n(6)-O@n(5)-CH@n(4)=CH@n(3)-O@n(2)-CH3(1)
+$>
+
+en: 2,5,8,11-tetraoxadodec-3-ene (PIN)
+ru: 2,5,8,11-тетраоксодек-3-ен (PIN)
+
+@End
+
+
+#P-31.1.3
+en: Monocyclic parent hydrides 
+ru: Моноциклические &(parent hydride|*)
+
+#P-31.1.3.1
+en: In monocyclic homogeneous unsaturated compounds, one double or triple bond is always allocated the 
+locant ‘1’. When alone, the locant ‘1’ is omitted in names. 
+ru: В моноциклических гомогенных ненасыщенных соединениях одной двойной или тройной связи всегда соответствует локант 1. 
+Локант 1 опускается в названиях, если ненасыщенная связь одна.
+
+@Examples
+
+@cell
+<$ \\|`/`\`|/ $>
+
+en: cyclohexene (PIN)
+ru: циклогексен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(1)\\|`/@n(4,90)`\\`|/
+$>
+
+en: cyclohexa-1,4-diene (PIN) 
+ru: циклогекса-1,4-диен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(1,-110)=_p8@n(3,-20)||_p8@n(5,70)`=_p8@n(7,160)`||_p8
+$>
+
+en: cycloocta-1,3,5,7-tetraene (PIN)
+ru: циклоокта-1,3,5,7-тетраен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(1,-110)=@:ed(n1:)_(a70,N&n1)_(a-50)@()|@n(5,20)@ed(2)`-@ed()`|@ed()
+$>
+
+en: cyclododeca-1,5-diene (PIN) 
+ru: циклододека-1,5-диен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0@n(15,-100,.6)_p7@n(1,-100)_pp7@n(2,-30)_p7@n(3,0)_p7@n(4,30)_(P7,N3)_p7`/@n(7,90)`\`/@n(9,90)`\`|/@n(12,-90)\/\
+$>
+
+en: cyclopentadec-1-en-4-yne (PIN) 
+ru: циклопентадек-1-ен-4-ин (PIN)
+
+@End
+
+#P-31.1.3.2+
+en: In rings modified by skeletal replacement (‘a’) nomenclature, low locants are assigned first to heteroatoms 
+and then to unsaturated sites. 
+ru: В кольцах, модифицированных при помощи номенклатуры &(skeletal replacement a|ro), меньшие локанты сначала назначаются 
+гетероатомам, а затем ненасыщенным участкам.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@n(2,-110)=@n(3,-70)@:ed(cn,ca)_(a70)O@n(&cn,&ca,.6)_(a-50)@(4,-45)|@ed(7,45)`-@ed(10,135)`|@ed(1,-135)
+$>
+
+en: 1,4,7,10-tetraoxacyclododec-2-ene (PIN)
+ru: 1,4,7,10-тетраоксациклододек-2-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_p_pO@n(1,0,.5)_p_p@n(3,90)`//rN@n(4,90,.6)`\`|0<_q_q_q_q>/\
+$>
+
+en: 1-oxa-4-azacyclododec-3-ene (PIN) 
+ru: 1-окса-4-азациклододек-3-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x-1.7)SiH2@n(11,90,.6)`-$slope(60)@n(12,60)`/`-@n(14,120)$L(1.15)`\`-`\@n(17,180)/-/@n(20,-120)-SiH2@n(1,-120,.6)/@n(2,-120)-C@n(3,-90,.6)%%C@n(4,-90,.6)-$L()@n(5,-60)_pp8@n(6,0)|@n(7,0)_pp8@n(8,30)|_#1
+$>
+
+en: 1,11-disilacycloicosa-5,7-dien-3-yne (PIN)  <br>
+(not 1,11-disilacycloicosa-4,6-dien-8-yne; the locant set ‘3,5,7’ is lower than ‘4,6,8’)
+ru: 1,11-дисилациклоикоза-5,7-диен-3-ин (PIN) <br>
+(не 1,11-дисилациклоикоза-4,6-диен-8-ин; набор локантов «3,5,7» меньше, чем «4,6,8»)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH2@n(10,90,.7)$slope(60)_(A130,L1.3)@n(9,60)`-@n(8,120)`\@n(7,120)`-@n(6,120)`\@n(5,180)/@n(4,-120)-@n(3,-120)/@n(2,-120)-SiH2@n(1,-120,.6)/@n(20,-120)-#
+C@n(19,-90,.6)%%C@n(18,-90,.6)-@n(17,-60)$L(1.06)_pp8@n(16,-30)|@n(15,30)_pp8@n(14,30)|@n(13,30)_pp8@n(12,60)`-@n(11,120)_#1
+$>
+
+en: 1,10-disilacycloicosa-12,14,16-trien-18-yne (PIN)
+ru: 1,10-дисилациклоэйкоза-12,14,16-триен-18-ин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|0_pNH@n(1,-90,.6)_p@n(2,0)_pp_p@n(4,90)`//`\@n(6,90)`//`\@n(8,150)`||/@n(10,-90)\\/@n(12,-90)\\
+$>
+
+en: 1-azacyclotrideca-2,4,6,8,10,12-hexaene (PIN)  <br>
+1_H_-1-aza[13]annulene
+ru: 1-азациклотридека-2,4,6,8,10,12-гексен (PIN) <br>
+1_H_-1-аза[13]аннулен
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N@n(1,-30,.5)||@n(2,30)`/N@n(3,90,.6)`\\`/@n(5,90)`\\`/@n(7,90)`\\`|@n(8,-150)//\@n(11,-90,.5)//r\@n(13,-90,.5)//r\
+$>
+
+en: 1,3-diazacyclotetradeca-1,3,5,7,9,11,13-heptaene (PIN)  <br>
+1,3-diaza[14]annulene 
+ru: 1,3-диазациклотетрадека-1,3,5,7,9,11,13-гептаен (PIN) <br>
+1,3-диаза[14]аннулен
+
+@End
+
+#P-31.1.3.3
+en: Cyclic cumulenes
+ru: Циклические кумулены
+
+en: Cyclic cumulenes are composed entirely of atoms, identical or different, linked by double bonds. For homocyclic 
+cumulenes omission of all locants is recommended for preferred IUPAC names (see P-14.3.4.5). 
+ru: Циклические кумулены состоят исключительно из атомов, одинаковых или разных, соединённых двойными связями. 
+Для гомоциклических кумуленов рекомендуется опускать все локанты в предпочтительных названиях ИЮПАК (см. P-14.3.4.5).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:q(a,c1,c2)_(A&a,N2)&c1_(a70,N2)&c2_(a70,N2)@(-160,@n(2,150),@n(3,-150))@n(4,-135)@q(-70,@n(5,-120),@n(6,-60))@n(7,-45)@q(20,@n(8,-30),@n(9,30)):a@n(10,45)_(x#a;1,y1.2,N2)@n(11,90)_(N2)#1@n(1,135)
+$>
+
+en: cycloundecaundecaene (PIN) 
+ru: циклоундекаундекаен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+S@n(1,140,.5)@:q(a,c1,c2)_(A&a,N2)&c1_(a70,N2)&c2_(a70,N2)@(-160,S@n(2,140,.5),@n(3,-150))@n(4,-135)@q(-70,@n(5,-120),@n(6,-60))@n(7,-45)@q(20,@n(8,-30),@n(9,30)):a@n(10,45)_(x#a;1,y1.2,N2)@n(11,90)_(N2)#1
+$>
+
+en: <%p%>-dithiacycloundecaundecaene (PIN) 
+ru: <%p%>-дитиациклоундекаундекаен (PIN)
+%p:1λ^{4},2λ^{4}
+
+@End
+
+#P-31.1.3.4
+en: Retained names.
+ru: Сохраненные имена.
+
+en: Styrene, stilbene, and fulvene are the only retained names for parent hydrides containing a monocyclic ring system and 
+side-chain unsaturation. All are used only in general nomenclature. Styrene and stilbene can be substituted only on the 
+ring and only as prescribed in P-15.1.8.2.2; fulvene cannot be substituted at all. 
+ru: Стирол, стильбен и фульвен — единственные сохранившиеся названия для &(parent hydride|ro*), содержащих моноциклическую 
+кольцевую систему и ненасыщенность в боковой цепи. Все они используются только в общей номенклатуре. Стирол и стильбен могут 
+быть замещены только в кольце и только в соответствии с предписаниями P-15.1.8.2.2; фульвен не может быть замещен вообще.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,30)`//@n(3,90)`\@n(4,150)`||@n(5,-150)/@n(6,-90)\\@n(1,30)_q6CH=CH2
+$>
+
+en: styrene (ring substitution only)  <br>
+ethenylbenzene (PIN) 
+ru: стирол (только замещение в цикле) <br>
+этенилбензол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//@n(2,60)`-@n(3,120)`\\@n(4,180)/@n(5,-120)=@n(6,-60)\@n(1,60)-CH=HC-/@n(6',-120)=@n(5',-60)\@n(4',0)`//@n(3',60)`-@n(2',120)`\\@n(1',120,.5)
+$>
+
+en: stilbene (ring substitution only) <br> 
+1,1′-(ethene-1,2-diyl)dibenzene (PIN) 
+ru: стильбен (только замена кольца) <br>
+1,1'-(этен-1,2-диил)дибензол (PIN)
+
+@cell
+<$ -_qq_q<`||CH2>_q_qq $>
+
+en: fulvene (no substitution)  <br>
+5-methylidenecyclopenta-1,3-diene (PIN) 
+ru: фульвен (без замещения) <br>
+5-метилиденциклопента-1,3-диен (PIN)
+
+@End
+
+#P-31.1.4
+en: Bi- and polycyclic von Baeyer parent hydrides 
+ru: Би- и полициклические &(parent hydride|*) фон Байера
+
+en: It should be noted that some bi- and polycyclic von Baeyer parent hydrides qualify for phane names as preferred 
+IUPAC names (see P-52.2.5). 
+ru: Следует отметить, что для некоторыъ би- и полициклических &(parent hydride|ro*) фон Байера могут быть использованы 
+&(phane name|*) в качестве предпочтительных названий ИЮПАК (см. P-52.2.5).
+
+#P-31.1.4.1+
+en: Low locants are allocated first in accordance with the fixed numbering of the ring system. Low locants are 
+allocated for double bonds when the atoms of each bond have consecutive locants. 
+ru: Меньшие локанты распределяются первыми в соответствии с фиксированной нумерацией кольцевой системы. 
+Меньшие локанты распределяются для двойных связей, когда атомы каждой связи имеют последовательные локанты.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q7:a_q7_q7_qq7_q7<_q7>@n(1,-110)_(x.4,y#1;2)_#a
+$>
+
+en: bicyclo[3.2.1]oct-2-ene (PIN)
+ru: бицикло[3.2.1]окт-2-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A-120)@n(1,-90)`/||@n(5,150)\@n(4,90)<_(A-120)_#1>/`||@n(2,-30)`\
+$>
+
+en: bicyclo[2.2.2]octa-2,5-diene (PIN) 
+ru: бицикло[2.2.2]окта-2,5-диен (PIN)
+
+@End
+
+#P-31.1.4.2+
+en: If there is a choice of names and numbering, the following criteria are considered in order until a decision is 
+reached: 
+ru: Если есть возможность выбора названий и нумерации, то следующие критерии рассматриваются по порядку до тех пор, 
+пока не будет принято решение:
+
+#(1)
+en: a minimum number of compound locants. A compound locant is used for a double bond if the locants of the atoms 
+at each end of the bond do not differ by a value of one. When a compound locant is required, the higher locant is 
+cited in parentheses. A benzene ring is shown and  described as a cyclohexatriene corresponding to the Kekulé 
+structure. Other aromatic rings are  treated similarly, when required;
+ru: минимальное количество &(compound locant|ro*). &(Compound locant) используется для двойной связи, если локанты атомов 
+на концах связи не отличаются на единицу. Если требуется &(compound locant), в скобках указывается локант с большим значением. 
+Бензольное кольцо показано и описано как циклогексатриен, соответствующий структуре Кекуле. 
+Другие ароматические кольца рассматриваются аналогично, если это необходимо;
+
+en: **Note**: The seniority of single locants over compound locants was established in 1989 for numbering steroids [see S3-2.5 
+(2), ref. 16] and extended to von Baeyer systems in the 1999 publication on von Baeyer nomenclature (see VB-8.3.1, 
+ref. 7). 
+ru: **Примечание**: приоритет одиночных локантов над составными локантами был установлен в 1989 году для нумерации стероидов 
+[см. S3-2.5 (2), ссылка 16] и распространен на системы фон Байера в публикации 1999 года по номенклатуре фон Байера 
+(см. VB-8.3.1, ссылка 7).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`=@n(7,135)`|-|@n(6,110)\/`|`\@n(2,-90)`/@n(1,-110)
+$>
+
+en: bicyclo[4.2.0]oct-6-ene (PIN)  <br>
+[not bicyclo[4.2.0]oct-1(8)-ene] 
+ru: бицикло[4.2.0]окт-6-ен (PIN) <br>
+[не бицикло[4.2.0]окт-1(8)-ен]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A157.5,N2)@n(9,90)_p8_p8_p8_p8@n(13,-90)_p8:a@n(1,-90)_p8_p8@n(8,90)_(A31)@n(7,110)$L(1.2)-_q8_q8_q8_q8@n(2,-110)_#a
+$>
+
+en: bicyclo[6.5.1]tetradec-8-ene (PIN) <br> 
+[not bicyclo[6.5.1]tetradec-1(13)-ene] 
+ru: бицикло[6.5.1]тетрадек-8-ен (PIN) <br>
+[не бицикло[6.5.1]тетрадек-1(13)-ен]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:u(n)CH2@n(&n,-90,.6)@(6)`-@u(5)`-@u(4)`-@u(3)`-@u(2)|@n(1,-150)`//@n(16,-150,.5)|@n(15,150,.5)\\@n(14,150,.5)</@n(18,30,.5)`||@n(17,-30,.5)`\>|#
+@:d(n)CH2@n(&n,90,.6)@(13)-@d(12)-@d(11)-@d(10)-@d(9)$L(1.3)`|CH2@n(8,180,.5)`|CH2@n(7,180,.5)_#1
+$>
+
+en: bicyclo[12.2.2]octadeca-1(16),14,17-triene  <br>
+[not bicyclo[12.2.2]octadeca-1(17),14(18),15-triene]  <br>
+1(1,4)-benzenacyclotridecaphane (PIN, see P-52.2.5) 
+ru: бицикло[12.2.2]октадека-1(16),14,17-триен <br>
+[не бицикло[12.2.2]октадека-1(17),14(18),15-триен] <br>
+1(1,4)-бензонациклотридека&(phane) (PIN, см. P-52.2.5)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(7,180)_q3@n(6,120)`|@n(1,-120)//@n(2,-90)\@n(3,-30)||@n(4,30)`/@n(5,90)`\\
+$>
+
+en: bicyclo[4.1.0]hepta-1,3,5-triene (PIN)  <br>
+[not bicyclo[4.1.0]hepta-1(6),2,4-triene] 
+ru: бицикло[4.1.0]гепта-1,3,5-триен (PIN) <br>
+[не бицикло[4.1.0]гепта-1(6),2,4-триен]
+
+@End
+
+#(2)
+en: when comparing double bond locants that also include compound locants, any number in parentheses is ignored;
+ru: при сравнении локантов с двойной связью, включающих также &(compound locant|*), любые числа в скобках игнорируются;
+
+@Examples 4
+
+@cell
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)\\@n(15,0)`/`=@n(12,120)`\@n(13,180)//@n(14,-120)-@n(1,-100)$slope(%b:40)/-\@n(4,-80)#
+$slope(60)-\`/`-<`\@n(16,0,.5)/>$slope(%b)@n(8,60)`/`-`\@n(11,120)
+$>
+
+*: **(I)**
+</div>
+
+@cell
+en: not
+ru: не
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)\\@n(16,0)`/`=@n(7,120)`\@n(6,180)//@n(5,-120)-@n(4,-100)$slope(%b:40)/-\@n(1,-80)#
+$slope(60)-\`/`-<`\@n(15,0,.5)/>$slope(%b)@n(11,60)`/`-`\@n(8,120)
+$>
+
+*: **(II)**
+</div>
+
+@cell
+en: nor
+ru: и не
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)\@n(16,0)`//`-@n(7,120)`\\@n(6,180)/@n(5,-120)=@n(4,-100)$slope(%b:40)/-\@n(1,-80)#
+$slope(60)-\`/`-<`\@n(15,0,.5)/>$slope(%b)@n(11,60)`/`-`\@n(8,120)
+$>
+
+*: **(III)**
+</div>
+
+@cell
+en: nor
+ru: и не
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)\@n(15,0)`//`-@n(12,120)`\\@n(13,180)/@n(14,-120)=@n(1,-100)$slope(%b:40)/-\@n(4,-80)#
+$slope(60)-\`/`-<`\@n(16,0,.5)/>$slope(%b)@n(8,60)`/`-`\@n(11,120)
+$>
+
+*: **(IV)**
+</div>
+
+@cell colspan=4
+en: tricyclo<%L%>hexadeca-1(15),11,13-triene **(I)**  <br>
+[not tricyclo<%L%>hexadeca-4(16),5,7-triene **(II)**;  <br>
+nor tricyclo<%L%>hexadeca-4,6,8(16)-triene **(III)**;  <br>
+nor tricyclo<%L%>hexadeca-1(14),11(15),12-triene **(IV)**;  <br>
+the set of locants ‘1,11,13’ in **(I)** is lower than ‘4,5,7’ in **(II)** or ‘4,6,8’ in **(III)**;  <br>
+and **(IV)** has two compound locants whereas **(I)** has only one compound locant]  <br>
+1(1,3)-benzena-4(1,3)-cyclohexanacyclohexaphane (PIN, see P-52.2.5)  
+ru: трицикло<%L%>гексадека-1(15),11,13-триен **(I)** <br>
+[не трицикло<%L%>гексадека-4(16),5,7-триен **(II)**; <br>
+и не трицикло<%L%>гексадека-4,6,8(16)-триен **(III)**; <br>
+и не трицикло<%L%>гексадека-1(14),11(15),12-триен **(IV)**; <br>
+набор локантов «1,11,13» в **(I)** меньше, чем «4,5,7» в **(II)** или «4,6,8» в **(III)**; <br>
+и **(IV)** имеет два &(compound locant|few), тогда как **(I)** имеет только один &(compound locant)] <br>
+1(1,3)-бензола-4(1,3)-циклогексанациклогекса&(phane) (PIN, см. P-52.2.5)
+%L:[9.3.1.1^{4,8}]
+
+@cell
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)$slope(60)\\@n(15,0,.35)`/`=@n(12,120)`\@n(13,180)//@n(14,-120)-@n(1,-100)$slope(%b:30)/-\@n(4,-80)#
+$slope(60)-@n(5,-60)\\@n(6,0)`/@n(7,60)`=<`\@n(16,180)//>$slope(%b)@n(8,60)`/`-`\@n(11,120)
+$>
+
+*: **(I)**
+</div>
+
+@cell
+en: not
+ru: не
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)$slope(60)\\@n(15,0,.35)`/`=@n(12,120)`\@n(13,180)//@n(14,-120)-@n(1,-100)$slope(%b:30)/-\@n(4,-80)#
+$slope(60)=@n(5,-60)\@n(6,0)`//@n(7,60)`-<`\\@n(16,180)/>$slope(%b)@n(8,60)`/`-`\@n(11,120)
+$>
+
+*: **(II)**
+</div>
+
+@cell
+en: nor
+ru: и не
+
+@cell
+// Ошибка в оригинале. Там дублируется формула (II). Изменено левое бензольное кольцо, чтобы оно соответствовало названию в описании
+// И в списке ошибок эта ситуация тоже отсутствует.
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)$slope(60)\@n(15,0,.35)`//`-@n(12,120)`\\@n(13,180)/@n(14,-120)=@n(1,-100)$slope(%b:30)/-\@n(4,-80)#
+$slope(60)=@n(5,-60)\@n(6,0)`//@n(7,60)`-<`\\@n(16,180)/>$slope(%b)@n(8,60)`/`-`\@n(11,120)
+$>
+
+*: **(III)**
+</div>
+
+@cell
+en: nor
+ru: и не
+
+@cell
+<div>
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$dblAlign(r)$slope(60)\@n(15,0,.35)`//`-@n(12,120)`\\@n(13,180)/@n(14,-120)=@n(1,-100)$slope(%b:30)/-\@n(4,-80)#
+$slope(60)-@n(5,-60)\\@n(6,0)`/@n(7,60)`=<`\@n(16,180)//>$slope(%b)@n(8,60)`/`-`\@n(11,120)
+$>
+
+*: **(IV)**
+</div>
+
+@cell colspan=4
+en: tricyclo<%L%>hexadeca-1(15),4(16),5,7,11,13-hexaene **(I)**  <br>
+[not tricyclo<%L%>hexadeca-1(15),4,6,8(16),11,13-hexaene **(II)**;  <br>
+nor tricyclo<%L%>hexadeca-1(14),4,6,8(16),11(15),12-hexaene **(III)**;  <br>
+nor tricyclo<%L%>hexadeca-1(14),4(16),5,7,11(15),12-hexaene **(IV)**  <br>
+the set of locants in **(I)** ‘1,4,5,7,11,13’ is lower than ‘1,4,6,8,11,13’ in **(II)**;  <br>
+also name **(I)** has two compound locants compared to three in names **(III)** and **(IV)**]  <br>
+1,4(1,3)-dibenzenacyclohexaphane (PIN, see P-52.2.5) 
+ru: трицикло<%L%>гексадека-1(15),4(16),5,7,11,13-гексаен **(I)** <br>
+[не трицикло<%L%>гексадека-1(15),4,6,8(16),11,13-гексаен **(II)**; <br>
+ни трицикло<%L%>гексадека-1(14),4,6,8(16),11(15),12-гексаен **(III)**; <br>
+ни трицикло<%L%>гексадека-1(14),4(16),5,7,11(15),12-гексаен **(IV)** <br>
+набор локантов в **(I)** ‘1,4,5,7,11,13’ меньше, чем ‘1,4,6,8,11,13’ в **(II)**; <br>
+также название **(I)** имеет два &(compound locant|few) по сравнению с тремя в названиях **(III)** и **(IV)**] <br>
+1,4(1,3)-дибензонациклогекса&(phane) (PIN, см. P-52.2.5)
+%L:[9.3.1.1^{4,8}]
+
+@End
+
+#(3)
+en: if there is still a choice, low locants are selected considering all locants (including those in parentheses) as a set. 
+ru: если выбор все еще есть, то выбираются меньше локанты, при этом все локанты (включая те, что в скобках) рассматриваются как набор.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)\@n(18,-170,.6)`//`-`\/-@n(15,-120)$slope(30)/\@n(1,-90)/\@n(3,-60)$slope(60)=\`/`-@n(7,60)<`\@n(19,0,.5)/>$slope(30)`/`\@n(9,90)#
+<$slope(60)`\@n(17,0,.5)/>$slope(30)`/`\@n(11,120)
+$>
+
+en: tetracyclo<%L%>nonadeca-3,11(18)-diene (PIN)  <br>
+[not tetracyclo<%L%>nonadeca-3(19),11-diene;  <br>
+the locant set ‘3,11,18’ is lower than ‘3,11,19’] 
+ru: тетрацикло<%L%>нонадека-3,11(18)-диен (PIN) <br>
+[не тетрацикло<%L%>нонадека-3(19),11-диен; <br>
+набор локантов «3,11,18» меньше, чем «3,11,19»]
+%L:[7.7.1.1^{3,7}.1^{11,15}]
+
+@End
+
+#P-31.1.4.3+
+en: Bi- and polycyclic von Baeyer structures with both double and triple bonds. If both double and triple bonds 
+are present, the following criteria for numbering are considered, in order, until a decision is reached:
+ru: Би- и полициклические структуры фон Байера с двойными и тройными связями. При наличии как двойных, так и тройных связей, 
+следующие критерии нумерации рассматриваются по порядку до принятия решения:
+
+#(1)
+en: lower locants are assigned to multiple bonds as a set;
+ru: меньшие локанты назначаются кратным связям как набору;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(20,30,.5)`/:a`\`|@n(18,-150,.5)//@n(19,-90)\@n(1,-90)/C@n(2,-120,.5)///C@n(3,-120,.5)/@n(4,-90)\/@n(6,-90)\|@n(8,30)`/|@n(10,30)#
+`/@n(11,90)`\\r@n(12,90,.5)_(a-60,L1.3)@n(13,50)_(a-30,N2)@n(14,70)_(a70,L1.5)_#a@n(16,150,.5)
+$>
+
+en: bicyclo[14.3.1]icosa-11,13,18-trien-2-yne (PIN)  <br>
+(not bicyclo[14.3.1]icosa-3,5,17-trien-14-yne;  <br>
+the locant set ‘2,11,13,18’ is lower than ‘3,5,14,17’) 
+ru: бицикло[14.3.1]&(icos)а-11,13,18-триен-2-ин (PIN) <br>
+(не бицикло[14.3.1]&(icos)а-3,5,17-триен-14-ин; <br>
+локантный набор «2,11,13,18» ниже, чем «3,5,14,17»)
+
+@End
+
+#(2)
+en: lower locants are assigned to double bonds;  
+ru: меньшие локанты назначаются двойным связям;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-@n(14,120)`\/@n(16,-120)-:a\@n(17,0)`/@n(13,130,.55)\C@n(12,140,.6)_(a0,N3)C@n(11,140,.6)_(a0)@n(10,120)-#
+_(A-50,L1.1)@n(8,0)_q6_p6@n(6,0)_q6@n(5,-60)_q6_p6@n(3,-30)_qq6@n(2,-110)_#a@n(1,-120)
+$>
+
+en: bicyclo[11.3.1]heptadec-2-en-11-yne (PIN)  <br>
+(not bicyclo[11.3.1]heptadec-11-en-2-yne)
+ru: бицикло[11.3.1]гептадек-2-ен-11-ин (PIN) <br>
+(не бицикло[11.3.1]гептадек-11-ен-2-ин)
+
+@End
+
+#(3)
+en: compound locants are kept to a minimum.
+ru: &(compound locant|*) сводятся к минимуму.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-@n(13,120)`\/@n(11,-120)=:a\@n(14,0)`/@n(1,120)\C@n(2,140,.5)_(a0,N3)C@n(3,140,.5)#
+_(a0)@n(4,80)_(a-82,L1.3,N2)@n(5,30)_q6@n(6,0)_qq8@n(7,-20)_p7_q5_#a@n(10,-110)
+$>
+
+en: bicyclo[8.3.1]tetradeca-4,6,10-trien-2-yne (PIN)  <br>
+(not bicyclo[8.3.1]tetradeca-1(13),4,6-trien-8-yne) 
+ru: бицикло[8.3.1]тетрадека-4,6,10-триен-2-ин (PIN) <br>
+(не бицикло[8.3.1]тетрадека-1(13),4,6-триен-8-ин)
+
+@End
+
+#P-31.1.4.4+
+en: Bi- and polycyclic von Baeyer heterocycles named by skeletal replacement (‘a’) nomenclature. In 
+heterocyclic compounds formed using skeletal replacement (‘a’) nomenclature, low locants are assigned to heteroatoms, 
+in accord with the fixed numbering of the system, then to unsaturated sites. 
+ru: Би- и полициклические гетероциклы фон Байера, названные по номенклатуре &(skeletal replacement a|ro). В гетероциклических 
+соединениях, образованных по номенклатуре &(skeletal replacement a|ro), меньшие локанты присваиваются гетероатомам 
+в соответствии с фиксированной нумерацией системы, а затем — ненасыщенным положениям.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)_(A-60)@n(1,-90)\S@n(2,-30,.5)|`/@n(4,90)<_(A-60)_#1>`\@n(5,150)`||/
+$>
+
+en: 2-thiabicyclo[2.2.2]oct-5-ene (PIN)
+ru: 2-тиабицикло[2.2.2]окт-5-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`\@n(5,150)`||/@n(1,-90)\O@n(2,-30,.5)|`/@n(4,90)_(y-%L,x%d:.4)_(y-%L,x-%d)
+$>
+
+en: 2-oxabicyclo[2.2.1]hept-5-ene (PIN)
+ru: 2-оксабицикло[2.2.1]гепт-5-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)||@n(6,130)_q7:a@n(5,100)_q7_q7NH@n(3,-70,.6)_q7_q7@n(1,-110)<_q7@n(7,-130)>_(A58)@n(8,10,.3)_(a95)@n(9,30)_#a
+$>
+
+en: 3-azabicyclo[3.2.2]non-6-ene (PIN) 
+ru: 3-азабицикло[3.2.2]нон-6-ен (PIN)
+
+@End
+
+
+#P-31.1.5
+en: Spiro compounds 
+ru: Спиросоединения
+
+#P-31.1.5.1
+en: Spiro compounds composed of unsaturated rings
+ru: Спиросоединения, состоящие из ненасыщенных колец
+
+#P-31.1.5.1.1+
+en: Low locants are assigned to double bonds in accordance with the fixed numbering of the spiro compound. 
+ru: Меньшие локанты присваиваются двойным связям в соответствии с фиксированной нумерацией спиросоединений.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_p@n(4,100)_p<_p@n(1,-100)_p>`/@n(6,80,.3)`=`\/-@n(10,-60)\@n(5,90,.6)
+$>
+
+en: spiro[4.5]dec-6-ene (PIN)
+ru: спиро[4.5]дец-6-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\//@n(8,-120)-@n(7,-70)\@n(6,90,.6)\@n(5,110)-/`\`=@n(1,-110)`/
+$>
+
+en: spiro[5.5]undeca-1,8-diene (PIN) 
+ru: спиро[5.5]ундека-1,8-диен (PIN)
+
+@End
+
+#P-31.1.5.1.2+
+en: If there are double and triple bonds present, the following criteria are considered, in order, until a decision 
+is reached: 
+ru: Если присутствуют двойные и тройные связи, следующие критерии рассматриваются по порядку, пока не будет принято решение:
+
+#(1)
+en: lower locants are assigned to multiple bonds as a set;
+ru: меньшие локанты назначаются кратным связям как набору;
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A22.5)_q8@n(15,70)_q8:a@n(5,180)_q8@n(6,-70)_q8_q8@n(8,-100,.5)_(a0,N3)_(a-5)@n(10,-170,.5)_qq6_q6_#1;
+|_p@n(4,80)_p#a_p@n(1,-80)_p
+$>
+
+en: spiro[4.10]pentadec-10-en-8-yne (PIN) 
+ru: спиро[4.10]пентадек-10-ен-8-ин (PIN)
+
+@End
+
+#(2)
+en: if there is still a choice, low locants are assigned to double bonds.
+ru: если выбор все еще есть, то меньшие локанты присваиваются двойным связям.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_p8_p8_p8_p8_(A44)@n(14,-50,.5)_(a0,N3)_(a0):a_p5@n(6,80)`=_#1;
+|_p@n(4,80)_p#a@n(5,85,.65)_p@n(1,-80)_p
+$>
+
+en: spiro[4.10]pentadec-6-en-14-yne (PIN) 
+ru: спиро[4.10]пентадек-6-ен-14-ин (PIN)
+
+@End
+
+#P-31.1.5.1.3+
+en: Heteroatoms in spiro compounds consisting of monocyclic rings denoted by skeletal replacement (‘a’) 
+nomenclature have priority for low locants.
+ru: Гетероатомы в спиросоединениях, состоящих из моноциклических колец, названных по номенклатуре &(skeletal replacement a), 
+имеют приоритет для меньших локантов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(3,40)_pp@n(4,100)_p<`/`-`\/-\>_pN<_(y-.5)H>@n(1,80,.6)_p@n(2,-40)
+$>
+
+en: 1-azaspiro[4.5]dec-3-ene (PIN)
+ru: 1-азаспиро[4.5]дец-3-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_pS@n(4,110,.6)_p<_pS@n(1,-110,.6)_p>@n(5,85,.65)`/`-S@n(7,110,.6)`\/@n(9,-120)=@n(10,-80)\
+$>
+
+en: 1,4,7-trithiaspiro[4.5]dec-9-ene (PIN)
+ru: 1,4,7-тритиаспиро[4.5]дек-9-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(7,80)`=`\/-@n(11,-80)\@n(6,90,.6)\@n(5,100)-/SiH2@n(3,180,.5)`\`-@n(1,-100)`/
+$>
+
+en: 3-silaspiro[5.5]undec-7-ene (PIN) 
+ru: 3-силаспиро[5.5]ундец-7-ен (PIN)
+
+@End
+
+#P-31.1.5.2
+en: Spiro compounds consisting of saturated polycyclic von Baeyer components. 
+ru: Спиросоединения, состоящие из насыщенных полициклических компонентов фон Байера.
+
+#P-31.1.5.2.1+
+en: Unsaturation in a saturated spiro ring system with components named by the von Baeyer system is 
+indicated by the endings ‘ene’ and the multiplicative prefixes ‘di’, ‘tri’, etc. when required; the ending ‘ene’ is cited 
+after the last bracket of the spiro name. The final letter ‘e’ of the saturated hydrocarbon name is elided if followed by a 
+vowel. If there is a choice, low locants are assigned, in order, to spiro junction(s), heteroatoms and double bonds (see 
+SP-2.4 in ref. 8). 
+ru: Ненасыщенность в насыщенной спироциклической системе с компонентами, названными по системе фон Байера, обозначается 
+окончанием «ен» и мультипликативными префиксами «ди», «три» и т.д. при необходимости; окончание «ен» указывается после 
+последней скобки в названии спироцикла. Последняя буква «е» в названии насыщенного углеводорода опускается, если за ней 
+следует гласная. При наличии выбора меньшие локанты назначаются по порядку спиросоединению(ям), гетероатомам и двойным связям 
+(см. SP-2.4 в ссылке 8).
+
+en: **Note**: The placement location of the ‘ene’ endings after the closing brackets around the parent spiro name was 
+established in the publication on nomenclature of spiro compounds ( ref. 8) 
+ru: **Примечание**: Место размещения окончаний «ен» после закрывающих скобок вокруг исходного спиро-названия было установлено 
+в публикации по номенклатуре спиросоединений (ссылка 8).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A67.5)_q8:rb@n(1,90)_q8_q8_qq8@n(6,-40)_q8<_(y#-1;rb,x%d:.4)_#rb>@n(5,-90)_q8_q8@n(3,0)#
+_(a0)_p8:lb@n(1',90)_p8_p8_pp8@n(6',-140)_p8<_(y#-1;lb,x-%d)_#lb>@n(5',-90)_p8_p8@n(3',180,.45)
+$>
+
+en: 3,3′-spirobi[bicyclo[3.3.1]nonane]-6,6′-diene (PIN)
+ru: 3,3'-спироби[бицикло[3.3.1]нонан]-6,6'-диен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\`-:a`/\-@n(1',70)<_(a-%a:140,L%l:1.1)_#a>/@n(2',170,.45)/-:b@n(4,-60)\@n(5,0)`//`-@n(1,110)<_(a%a,L%l)_#b>`\@n(2,0)
+$>
+
+en: 2,2′-spirobi[bicyclo[2.2.1]heptan]-5-ene (PIN) 
+ru: 2,2'-спироби[бицикло[2.2.1]гептан]-5-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)`\`-:a@n(4',-120)`/\\@n(7',120)-@n(1',70)<_(A-140)O@n(6',-10,.55)_(A-50,L1.1)_#a>/@n(2',170)#
+@n(2,0)\-:b@n(4,60)/`\\@n(7,-60)`-@n(1,-120)<`/>_(A80)_(A-15,L.9)O@n(5,120,.6)_#b
+$>
+
+en: 5,6′-dioxa-2,2′-spirobi[bicyclo[2.2.2]octane]-7,7′-diene (PIN) 
+ru: 5,6'-диокса-2,2'-спироби[бицикло[2.2.2]октан]-7,7'-диен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)_(A67.5)_q8:rb@n(5,90)_q8_q8@n(7,0)_qq8_q8<_(y#-1;rb,x%d:.5)_#rb>@n(1,-90)_q8HP@n(2,30,.5)_q8@n(3,0)_(a0)_p8:lb@n(5',90)_p8@n(6',150)_pp8_p8_p8<_(y#-1;lb,x-%d)_#lb>@n(1',-90)_p8_p8@n(3',170)
+$>
+
+en: 2-phospha-3,3′-spirobi[bicyclo[3.3.1]nonane]-6′,7-diene (PIN)
+ru: 2-фосфа-3,3′-спироби[бицикло[3.3.1]нонан]-6′,7-диен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@n(1'',70)_p@n(2'',120)_pp_p_p\<_p3>@n(6'',170,.6)/@n(1',-100)|<_p3@n(6',0,.6)>_q_q@n(3',170,.45)<_q_q>@n(3,0)_(a0)_p_p<_p_p>_q3_q3@n(1,-90)
+$>
+
+en: 3,3′:6′,6′′-dispiroter[bicyclo[3.1.0]hexan]-2′′-ene (PIN)
+ru: 3,3′:6′,6′′-диспиротер[бицикло[3.1.0]гексан]-2′′-ен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.3)|@n(1'',60)`/O@n(2'',80,.6)`\`|@n(4'',-150)//\@n(6'',-60)\<_p3>@n(7'',170,.6)\@n(1',120)`|@n(6',-120)<`/@n(7',0,.6)>/\|@n(3',-150)<`/`\>|\/`|@n(6,-30)`\@n(1,-120)<`/@n(2,30)>_p3O@n(7,-60,.6)|
+$>
+
+en: 2′′,7-dioxa-2,3′:7′,7′′-dispiroter[bicyclo[4.1.0]heptan]-4′′-ene (PIN)  <br>
+[not 5′′,7-dioxa-2,3′:7′,7′′-dispiroter[bicyclo[4.1.0]heptan]-2′′-ene;  <br>
+the locant set ‘2′′,7’ is lower than ‘5′′,7’ for the ‘oxa’ prefixes] 
+ru: 2′′,7-диокса-2,3′:7′,7′′-диспиротер[бицикло[4.1.0]гептан]-4′′-ен (PIN) <br>
+[не 5′′,7-диокса-2,3′:7′,7′′-диспиротер[бицикло[4.1.0]гептан]-2′′-ен; <br>
+локантный набор «2′′,7» меньше, чем «5′′,7» для префиксов «окса»]
+
+@End
+
+
+#P-31.1.6
+en: Phane parent hydrides 
+ru: &(Phane parent hydride|*)
+
+#P-31.1.6.1
+en: Double bonds in amplificants and in simplified phane skeletons
+ru: Двойные связи в амплификантах и в упрощенных &(phane skeleton|pr*)
+
+en: The presence of one or more double or triple bonds in an otherwise saturated phane parent hydride, except in 
+amplificants with Hantzsch-Widman names, is denoted by changing the final letter ‘e’ of the phane parent hydride name 
+to ‘ene’ or ‘yne’, with appropriate multiplying prefixes to indicate the multiplicity of each kind of unsaturated site (ref. 
+6, PhII-5.3). 
+ru: Наличие одной или нескольких двойных или тройных связей в насыщенном &(phane parent hydride|pr), за исключением 
+амплификантов с названиями Ганча-Видмана, обозначается путем изменения последней буквы «e» названия &(phane parent hydride|ro) 
+на «ene» или «yne» с соответствующими умножающими префиксами для указания множественности каждого типа ненасыщенных участков 
+(ссылка 6, PhII-5.3).
+
+en: Low locants are allocated for double or triple bonds in accordance with the fixed numbering of the phane parent hydride 
+and of phane parent hydrides modified by skeletal replacement (‘a’) nomenclature. Three types of locants are used to 
+fully describe compounds derived from phane parent hydrides: 
+ru: Меньшие локанты назначаются для двойных или тройных связей в соответствии с фиксированной нумерацией &(phane parent hydride|ro) 
+и &(phane parent hydride|ro*), модифицированных номенклатурой &(skeletal replacement a|ro). Для полного описания соединений, 
+полученных из &(phane parent hydride|ro*), используются три типа локантов:
+
+@List 1
+
+@item
+en: primary locants, i.e. arabic number locants that denote the atoms and superatoms of the phane parent skeleton; 
+ru: первичные локанты, т. е. арабские числовые локанты, обозначающие атомы и суператомы &(phane parent skeleton|ro);
+
+@item
+en: composite locants, i.e. primary locants with a superscript arabic number locant denoting positions in amplificants 
+(see P-26.4.3); 
+ru: &(composite locant|*), т. е. первичные локанты с надстрочным арабским числовым локантом, обозначающим позиции 
+в амплификантах (см. P-26.4.3);
+
+@item
+en: compound locants, which are primary or composite locants followed by another locant in parentheses, indicating 
+that a double bond is not located between two consecutive locants. 
+ru: &(compound locant|*), которые являются первичными или &(composite locant|tv*), за которыми в скобках следует другой локант, 
+указывающий на то, что двойная связь не находится между двумя последовательными локантами.
+
+@End
+
+en: In phane nomenclature, double and triple bonds are denoted in two ways: 
+ru: В &(phane nomenclature|pr) двойные и тройные связи обозначаются двумя способами:
+
+#(1)
+en: by the lowest locant of a double or triple bond when two consecutive locants are: 
+ru: по наименьшему локанту двойной или тройной связи, когда два последовательных локанта:
+
+@List a
+
+@item
+en: primary locants; or 
+ru: первичные локанты; или
+
+@item
+en: composite locants, neither of which is adjacent to a primary locant; 
+ru: &(composite locant|*), ни один из которых не соседствует с первичным локантом;
+
+@End
+
+#(2)
+en: by a compound locant, when one locant is a composite locant adjacent to a primary locant. 
+ru: по &(compound locant|da), когда один локант является &(composite locant|tv), примыкающим к первичному локанту.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)\@n(2,-175,.5)`//@n(3,-120)`-`\\@bt(1,120,%L)/=@n(1,110,.45)$slope(30)/@bt(2)\/\/\/@bt(8)\#
+$slope(60)=@n(6,110)\@n(5,180,.45)@bt(9,120,%L)`//@n(4,-120)`-@n(3,-60)<`\@n(2)/@n(1,70,.45)>$slope(30)`/@bt(10)`\`/`\`/`\`/@bt(16)`\
+$>
+
+en: 1(1,3)-benzena-9(1,3)-cyclohexanacyclohexadecaphane-<%r%>-diene (PIN) 
+ru: 1(1,3)-бензола-9(1,3)-циклогексанациклогексадека&(phane)-<%r%>-диен (PIN)
+%r:9^{1}(9^{6}),9^{4}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)\@n(2,-175,.5)`//@n(3,-120)`-`\\@bt(1,120,%L)/=@n(1,110,.45)$slope(30)/@bt(2)\/\/\/@bt(8)\#
+$slope(60)=@n(6,110)\@n(5,180,.45)@bt(9,120,%L)`/@n(4,-110,.5)`=@n(3,-70,.5)<`\@n(2)/@n(1,70,.45)>$slope(30)`/@bt(10)`\`/`\`/`\`/@bt(16)`\
+$>
+
+en: 1(1,3)-benzena-9(1,3)-cyclohexanacyclohexadecaphane-<%r%>-diene (PIN)
+ru: 1(1,3)-бензола-9(1,3)-циклогексанациклогексадекафан-<%r%>-диен (PIN)
+%r:9^{1}(9^{6}),9^{3}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)\@n(2,-175,.5)`//@n(3,-120)`-`\\@bt(1,120,%L)/=@n(1,110,.45)$slope(30)/@bt(2)\\r/\/\/@bt(8)\#
+$slope(60)=@n(6,110)\@n(5,180,.45)@bt(9,120,%L)`//@n(4,-110,.5)`-@n(3,-70,.5)<`\\r@n(2)/@n(1,70,.45)>$slope(30)`/@bt(10)`\`/`\`/`\`/@bt(16)`\
+$>
+
+en: 1,9(1,3)-dibenzenacyclohexadecaphan-2-ene (PIN) 
+ru: 1,9(1,3)-дибензонациклогексадекафан-2-ен (PIN)
+
+@End
+
+#P-31.1.6.2
+en: Phane structures with both double and triple bonds 
+ru: &(Phane structure|*) с двойными и тройными связями
+
+en: Double and triple bonds in a phane structure are described by the method of P-31.1.4.3. Low locants are allocated to 
+double and triple bonds first when considered together as a set in ascending order and, if a choice is still needed, to 
+double bonds.
+ru: Двойные и тройные связи в &(phane structure|da) описываются методом P-31.1.4.3. 
+Меньшие локанты сначала присваиваются двойным и тройным связям, рассматриваемым вместе как набор в порядке возрастания, 
+а затем, если выбор всё ещё необходим, — двойным связям.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)/@bt(7,120,%L)\\|`//:a@n(3,-100)`\`||r@n(1,30)_(A-160)@bt(6,90)#
+$slope(60)`\@bt(5)`=@bt(4)`/@bt(3,90)`///@bt(2,90)`/\@bt(1,120,%L)`//r@n(3,-120)<`-`\\/=@n(1,110)>#
+\@bt(13)-@bt(12)/@bt(11,110,.5)-@bt(10)$L(1)/@bt(9,120)-@bt(8)_#a
+$>
+
+en: 1,7(1,3)-dibenzenacyclotridecaphan-4-en-2-yne (PIN) 
+ru: 1,7(1,3)-дибензонациклотридекафан-4-ен-2-ин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+$L(%L:1.1)/@bt(1,120,%L)\\|`//:a@n(3,-100)`\`||r@n(1,30)_(A-160)@bt(2,90)#
+$slope(60)`\\@bt(3)`-@bt(4)`/@bt(5,90)`///@bt(6,90)`/\@bt(7,120,%L)`//r@n(3,-120)<`-`\\/=@n(1,110)>#
+\@bt(8)-@bt(9)/@bt(10,110,.5)-@bt(11)$L(1)/@bt(12,120)-@bt(13)_#a
+$>
+
+en: 1,7(1,3)-dibenzenacyclotridecaphan-2-en-5-yne (PIN) 
+ru: 1,7(1,3)-дибензонациклотридекафан-2-ен-5-ин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+=l@n(2,-110,.5)_q8<\@bt(2,-60)|:r>@n(1,-160)`||_q8`=@bt(1,-115,1.2)_q8||<`/@bt(6)|:l>@n(4,-20)_q8@n(3,-70)#
+_(y.6,N0)=r\<_#r@bt(3)>@n(1,-170)`//@bt(4,120,1)`-`\\@n(4,-10)</>_#l@bt(5,-60)
+$>
+
+en: 1(1,4)-cyclooctana-4(1,4)-benzenacyclohexaphane-<%s%>-tetraene (PIN) 
+ru: 1(1,4)-циклооктана-4(1,4)-бензонациклогексафан-<%s%>-тетраен (PIN)
+%s:1^{1}(1^{8}),1^{2},1^{4},1^{6}
+
+@End
+
+#P-31.1.7
+en: Ring assemblies of unsaturated components 
+ru: &(Ring assembly|*) ненасыщенных компонентов
+
+#P-31.1.7.1+
+en: Unsaturation in ring assemblies composed of saturated components, monocyclic or alicyclic, is indicated by 
+the endings ‘ene’, ‘yne’, etc. and the multiplicative prefixes ‘di’, ‘tri’, etc; the endings are cited after the last bracket of 
+the ring assembly name. The final letter ‘e’ of the saturated hydrocarbon name is elided if followed by a vowel. If there 
+is a choice, low locants are assigned, in order, to ring assembly junction(s), heteroatoms and multiple bonds (see also  
+P-31.1.5.2). 
+ru: Ненасыщенность в &(ring assembly|pr*), состоящих из насыщенных компонентов, моноциклических или алициклических, 
+обозначается окончаниями «ен», «ин» и т. д., а также мультипликативными префиксами «ди», «три» и т. д.; 
+окончания &(cited|*) после последней скобки в названии &(ring assembly|ro). Последняя буква «е» в названии насыщенного 
+углеводорода опускается, если за ней следует гласная. При наличии выбора меньшие локанты присваиваются по порядку: 
+соединениям (соединению) &(ring assembly|ro), гетероатомам и кратным связям (см. также P-31.1.5.2).
+
+@p .framed
+en: The location of the ‘ene’, ‘yne’, etc., endings after the closing brackets of the ring assembly name is a change from 
+the 1979 and the 1993 Guide editions (ref. 1, 2) and is completely consistent with the method established for spiro 
+compounds in the 1999 publication on nomenclature of spiro compounds (ref. 8)  
+ru: Расположение окончаний «ен», «ин» и т. д. после закрывающих скобок в названии &(ring assembly|ro) отличается от изданий 
+Руководства 1979 и 1993 гг. (ссылки 1, 2) и полностью соответствует методу, установленному для спиросоединений 
+в публикации 1999 г. по номенклатуре спиросоединений (ссылка 8).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-@n(2,-60)\\@n(1,-70)-@n(1',-110)/@n(2',-110)=\`/`-`\
+$>
+
+en: [1,1′-bi(cyclohexane)]-1,2′-diene (PIN) 
+ru: [1,1′-би(циклогексан)]-1,2′-диен (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`\@n(1,-90)<_(A60):a>`/||@n(5,150)\<_(A-120)_#a>/`|@n(2,-80)-@n(2',-100)|\<_(A-120):b>/@n(5',30)`||`\@n(1',-90)<`/>_(A60)_#b
+$>
+
+en: [2,2′-bi(bicyclo[2.2.2]octane)]-5,5′-diene (PIN)
+ru: [2,2′-би(бицикло[2.2.2]октан)]-5,5′-диен (PIN)
+
+@cell
+<$
+@:bt(t,a:60,L:.4)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`/`-`\@bt(1,120,%L)/=@n(2,110,.45)\@n(1,180)-@n(1,10)//-\@n(4,180)@bt(2,120,%L)<`/`-`\>-@n(1,0)/-\@bt(3,120,%L)`/`-`\
+$>
+
+en: [<%a%>-tercyclohexane]-<%b%>-diene (PIN)  <br>
+[<%c%>-tercyclohexane]-1′,2-diene
+ru: [<%a%>-терциклогексан]-<%b%>-диен (PIN) <br>
+[<%c%>-терциклогексан]-1′,2-диен
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:1^{2},2^{1}
+%c:1,1′:4′,1′′
+
+@cell
+<$
+@:bt(t,a:120,L:.5)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.2)_(A-30)$slope(60)`/`-@bt(1)`\<_(A-30)_#1>/=@n(2,110)\@n(1,-160)#
+-<_(A-20):a>/@n(2,70)=\@n(4,-170)<_(A150)_#a><`/`-@bt(2)`\@n(1,20,.45)>#
+-<_(A-20):b>/@n(2,70)=\<_(A150)_#b>`/`-@bt(3)`\@n(1,20,.45)
+$>
+
+en: [<%a%>-terbicyclo[2.2.2]octane]-<%b%>-triene (PIN)  <br>
+[<%c%>-terbicyclo[2.2.2]octane]-2,2′,2′′-triene
+ru: [<%a%>-тербицикло[2.2.2]октан]-<%b%>-триен (PIN) <br>
+[<%c%>-тербицикло[2.2.2]октан]-2,2′,2′′-триен
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:1^{2},2^{2},3^{2}
+%c:1,1′:4′,1′′
+
+@End
+
+#P-31.1.7.2+
+en: Double bonds linking two rings or ring systems are named in the same way as ring assemblies composed of 
+three or more saturated components. Locants for the terminal position of such bonds are enclosed in parentheses 
+(compound locants). 
+ru: Двойные связи, соединяющие два цикла или кольцевые системы, называются так же, как и &(ring assembly|*), состоящие 
+из трёх или более насыщенных компонентов. Локанты для конечных положений таких связей заключаются в скобки 
+(&(compound locant|*)).
+
+@Examples
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`/`-`\@bt(1)/-\@n(1,180)=@n(1,0)/-\@n(4,180)@bt(2)<`/`-`\>-@n(1,0)/-\@bt(3)`/`-`\
+$>
+
+en: [<%a%>-tercyclohexan]-<%b%>-ene (PIN) <br>
+[<%c%>-tercyclohexan]-<%d%>-ene
+ru: [<%a%>-терциклогексан]-<%b%>-ен (PIN) <br>
+[<%c%>-терциклогексан]-<%d%>-ен
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:1^{1}(2^{1})
+%c:1,1′:4′,1′′
+%d:1(1′)
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`/`-`\@bt(1)/-\@n(1,180)=@n(1,0)/-\@n(4,180)@bt(2)<`/`-`\>=@n(1,0)/-\@bt(3)`/`-`\
+$>
+
+en: [<%a%>-tercyclohexane]-<%b%>-diene (PIN)  <br>
+[<%c%>-tercyclohexane]-<%d%>-diene
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:1^{1}(2^{1}),2^{4}(3^{1})
+%c:1,1′:4′,1′′
+%d:1(1′),4′(1′′)
+ru: [<%a%>-терциклогексан]-<%b%>-диен (PIN) <br>
+[<%c%>-терциклогексан]-<%d%>-диен
+
+@cell
+<$
+@:bt(t,a:120,L:%L)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.1)`/`-`\@bt(1)/-\@n(1,180)=@n(1,0)/-\@n(4,180)@bt(2)<`/@n(3,-110,.45)`=@n(2,-70,.46)`\>-@n(1,0)/-\@bt(3)`/@n(3,-110,.45)`=@n(2,-70,.45)`\
+$>
+
+en: [<%a%>-tercyclohexane]-<%b%>-triene (PIN)  <br>
+[<%c%>-tercyclohexane]-<%d%>-triene
+ru: [<%a%>-терциклогексан]-<%b%>-триен (PIN) <br>
+[<%c%>-терциклогексан]-<%d%>-триен
+%a:1^{1},2^{1}:2^{4},3^{1}
+%b:1^{1}(2^{1}),2^{2},3^{2}
+%c:1,1′:4′,1′′
+%d:1(1′),2′,2′′
+
+@End
+
+#P-31.1.7.3+
+en: When heterocyclic ring assemblies consisting of monocyclic, bi- or polyalicyclic components are named by 
+skeletal replacement (‘a’) nomenclature, low locants are assigned, in order, to ring junctions, heteroatoms and then 
+unsaturation sites. 
+ru: Когда гетероциклические &(ring assembly|*), состоящие из моноциклических, би- или полиалициклических компонентов, 
+именуются по номенклатуре &(skeletal replacement a), меньшие локанты присваиваются по порядку &(ring junction|da*), 
+гетероатомам и затем участкам ненасыщенности.
+
+@Examples
+
+@cell
+<$
+@:bt(t,a:110,L:0.7)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@;
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(%L:1.2)\$slope(60)`/S@n(2,-135,.5)@bt(1,135,1)`-`\<_(A30)_#1>/@n(5,70)=\@n(1,160)-#
+/=@n(5,110)\<_(A160):a><`/S@n(3,-125,.5)`-@bt(2)`\@n(1,20)_(A-30)_#a>@n(4,-155)-#
+/=@n(5,110)\<_(A160):b>`/S@n(3,-135,.5)`-@bt(3)`\@n(1,20)_(A-30)_#b
+$>
+
+en: <%a%>-trithia[<%b%>-terbicyclo[2.2.2]octane]-<%c%>-triene (PIN)  <br>
+<%d%>-trithia-[<%e%>-terbicyclo[2.2.2]octane]-<%f%>-triene
+ru: <%a%>-тритиа[<%b%>-тербицикло[2.2.2]октан]-<%c%>-триен (PIN) <br>
+<%d%>-тритиа-[<%e%>-тербицикло[2.2.2]октан]-<%f%>-триен
+%a:1^{2},2^{3},3^{3}
+%b:1^{1},2^{1}:2^{4},3^{1}
+%c:1^{5},2^{5},3^{5}
+%d:2,3′,3′′
+%e:1,1′:4′,1′′
+%f:5,5′,5′′
+
+@End
