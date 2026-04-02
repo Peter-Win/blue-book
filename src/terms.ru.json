@@ -11,6 +11,15 @@
 
   "additive operation|ro": "аддитивной операции",
 
+  "amic acid:comment": "Точного перевода найти не удалось. Гугл упрямо подсовывает аминокислоты",
+  "amic acid": "амидная кислота",
+  "amic acid|ro": "амидной кислоты",
+  "amic acid|tv": "амидной кислотой",
+  "amic acid|*": "амидные кислоты",
+  "amic acid|ro*": "амидных кислот",
+  "amic acid|tv*": "амидными кислотами",
+  "amic [acid]": "амидная",
+
   "amplificant": "амплификант",
   "amplificant|ro": "амплификанта",
   "amplificant|*": "амплификанты",
@@ -27,6 +36,11 @@
   "amplification prefix|*": "префиксы амплификации",
   "amplification prefix|ro*": "префиксов амплификации",
   "amplification prefix|tv*": "префиксами амплификации",
+
+  "anilic acid": "аниловая кислота",
+  "anilic acid|*": "аниловые кислоты",
+  "anilic acid|tv*": "аниловыми кислотами",
+  "anilic [acid]": "аниловая",
 
   "assembly|comment": "по тексту сочетается с прилагательными в женском роде",
   "assembly": "сборка",
@@ -99,11 +113,15 @@
 
   "carbohydroxamic acid": "карбогидроксамовая кислота",
   "carbohydroxamic [acid]": "карбогидроксамовая",
+  "carbohydroxamic [acid]|ro": "карбогидроксамовой",
+
   "carbohydroximic acid": "карбогидроксимовая кислота",
   "carbohydroximic acid|*": "карбогидроксимовые кислоты",
   "carbohydroximic [acid]": "карбогидроксимовая",
+  "carbohydroximic [acid]|ro": "карбогидроксимовой",
 
   "carboximidic [acid]": "карбоксимидная",
+  "carboximidic [acid]|ro": "карбоксимидной",
   "carboximidic acid": "карбоксимидная кислота",
   "carboximidic acid|*": "карбоксимидные кислоты",
 
@@ -329,6 +347,9 @@
   "fusion site|ro": "точки слияния",
   "fusion site|ro*": "точек слияния",
 
+  "general nomenclature": "общая номенклатура",
+  "general nomenclature|pr": "общей номенклатуре",
+
   "hantzsch-widman|ro": "Ганча-Видмана",
 
   "heterophane parent hydride": "исходный гидрид гетерофана",
@@ -336,12 +357,18 @@
 
   "heterophane [system]|ro*": "гетерофановых",
 
+  "hydrazonic [acid]|ro": "гидразоновой",
   "hydrazonic acid": "гидразоновая кислота",
   "hydrazonic acid|*": "гидразоновые кислоты",
 
   "hydroxamic acid": "гидроксамовая кислота",
   "hydroxamic acid|*": "гидроксамовые кислоты",
+  "hydroxamic [acid]|ro": "гидроксамовой",
+
   "hydroximic acid": "гидроксимовая кислота",
+  "hydroximic [acid]|ro": "гидроксимовой",
+
+  "ic acid": "ая кислота",
 
   "icos": "эйкоз",
 
@@ -376,6 +403,7 @@
   "imidic acid|ro": "имидной кислоты",
   "imidic acid|*": "имидные кислоты",
   "imidic acid|ro*": "имидных кислот",
+  "imidic|ro": "имидной",
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
@@ -434,6 +462,11 @@
 
   "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
   "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
+
+  "oxamic acid": "оксамовая кислота",
+
+  "parent acid": "исходная кислота",
+  "parent acid|pr": "исходной кислоте",
 
   "parent [chain]": "исходная",
   "parent [chain]|ro": "исходной",

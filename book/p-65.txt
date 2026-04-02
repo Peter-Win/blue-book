@@ -2260,13 +2260,584 @@ ru: 4-[(гидроксисульфанил)карбонил]циклогекса
 
 #P-65.1.6
 en: Amic, anilic, and aldehydic acids 
-ru: Аминная, анилиновая и альдегидная кислоты
+ru: &(Amic [acid]), &(anilic [acid]) и альдегидная кислоты
+
+en: Amic acids are compounds containing both a carboxy, <%a%>, and a carboxamide, <%b%>, group; similarly, anilic 
+and aldehydic acids include both a carboxy group and a carboxanilide, <%c%>, or formyl, <%d%>, group, 
+respectively. The endings ‘amic acid’, ‘anilic acid’, and ‘aldehydic acid’ can only be used in general nomenclature to 
+name modified dicarboxylic acids having retained names. Preferred IUPAC names are all formed systematically using 
+preferred names of acids and appropriate prefixes. 
+ru: &(Amic acid|*) — это соединения, содержащие как карбоксильную <%a%>, так и карбоксамидную <%b%> группы; 
+аналогично, анилиновые и альдегидные кислоты содержат как карбоксильную группу, так и карбоксанилидную <%c%> или 
+формильную <%d%> группу соответственно. Окончания «&(amic acid)», «анилиновая кислота» и «альдегидная кислота» 
+могут использоваться в общей номенклатуре только для наименования модифицированных дикарбоновых кислот с &(retained name|tv*). 
+Предпочтительные названия по номенклатуре IUPAC образуются систематически с использованием предпочтительных названий 
+кислот и соответствующих префиксов.
+%a: <$ –COOH $>
+%b: <$ –CONH2$>
+%c: <$ –CO-NH-C6H5 $>
+%d: –CHO
+
+#P-65.1.6.1
+en: Amic acids
+ru: &(Amic acid|*)
+
+en: When a dicarboxylic acid has a retained name (see P-65.1.1) and when one of its carboxy groups is replaced by a 
+carboxamide group, <%a%>, the resulting structure is called an amic acid and, in general nomenclature may be 
+named by replacing the ending ‘ic acid’ of the name of the dicarboxylic acid by the ending ‘amic acid’. The case of 
+oxalic acid is special; substitution is not possible for the acid, but substitution is allowed for the derived amic acid, 
+‘oxamic acid’ but no ‘_N_’ locants are necessary. The name ‘oxamic acid’ (a contraction of ‘oxalamic acid’) is retained 
+for <%b%> and is the preferred IUPAC name. 
+ru: Когда дикарбоновая кислота имеет &(retained name) (см. P-65.1.1) и когда одна из ее карбоксильных групп заменяется 
+карбоксамидной группой, <%a%>, полученная структура называется &(amic acid|tv) и, в общем случае, может быть названа 
+путем замены окончания «&(ic acid)» в названии дикарбоновой кислоты на окончание «&(amic acid)». Случай с щавелевой 
+кислотой является особым; замещение для кислоты невозможно, но замещение допускается для производной &(amic acid|ro), 
+«&(oxamic acid)», но локанты «_N_» не требуются. Название «&(oxamic acid)» (сокращение от «oxalamic acid») сохраняется 
+для <%b%> и является предпочтительным названием по номенклатуре IUPAC.
+%a: <$–CO-NH2$>
+%b: <$H2N-CO-COOH$>
+
+en: The prefix ‘carbamoyl’ is preferred to ‘aminocarbonyl’ for naming amic acids systematically. The combination of the 
+prefixes ‘amino’ and ‘oxo’ is used for describing the <%a%> at the end of an acyclic chain in preferred IUPAC names 
+ru: Для систематического наименования &(amic acid|ro*) предпочтительнее использовать префикс «карбамоил» вместо 
+«аминокарбонил». Сочетание префиксов «амино» и «оксо» используется для описания <%a%> на конце ациклической цепи 
+в предпочтительных названиях IUPAC.
+%a: <$–CO-NH2$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br`|/`/@n(3,150)`\`||/\\@n(1,-90)<_q6CO-OH>|@n(2,90)_q6CO-NH2
+$>
+
+en: 3-bromo-2-carbamoylbenzoic acid (PIN)  <br>
+2-(aminocarbonyl)-3-bromobenzoic acid
+ru: 3-бром-2-карбамоилбензойная кислота (PIN) <br>
+2-(аминокарбонил)-3-бромбензойная кислота
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-CO-N@n(\textit{N},-90,.55)(CH3)2
+$>
+
+en: 4-(dimethylcarbamoyl)benzoic acid (PIN)  <br>
+4-[(dimethylamino)carbonyl]benzoic acid  <br>
+_N_,_N_-dimethylterephthalamic acid
+ru: 4-(диметилкарбамоил)бензойная кислота (PIN) <br>
+4-[(диметиламино)карбонил]бензойная кислота <br>
+_N_,_N_-диметилтерефталаминовая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-amino-4-oxobutanoic acid (PIN)  <br>
+3-carbamoylpropanoic acid  <br>
+3-(aminocarbonyl)propanoic acid  <br>
+succinamic acid 
+ru: 4-амино-4-оксобутановая кислота (PIN) <br>
+3-карбамоилпропановая кислота <br>
+3-(аминокарбонил)пропановая кислота <br>
+янтарная кислота
+
+@cell
+<$ H2N-CO-COOH $>
+
+en: oxamic acid (PIN; a retained name)  <br>
+(not oxalamic acid) 
+ru: &(oxamic acid) (PIN; &(retained name)) <br>
+(не оксаламиновая кислота)
+
+@End
+
+#P-65.1.6.2
+en: Anilic acids 
+ru: &(Anilic acid|*)
+
+en: _N_-Phenyl derivatives of amic acids are called ‘anilic acids’ and in general nomenclature are named by changing an 
+‘amic acid’ ending to ‘anilic acid’. Substitution on the nitrogen atom is indicated by the locant _N_, even if no substitution 
+is allowed on the parent acid. Anilic acids may also be named as _N_-substituted amic acids. The locants for substituents 
+on the _N_-phenyl ring are primed numbers. 
+ru: _N_-фенильные производные &(amic acid|ro*) называются «&(anilic acid|tv*)», и в общей номенклатуре названия формируются 
+путем замены окончания «&(amic acid)» на «&(anilic acid)». Замещение на атоме азота обозначается локантом _N_, даже если 
+замещение на &(parent acid|pr) не допускается. &(Anilic acid|*) также могут называться _N_-замещенными &(amic acid|tv*). 
+Локанты для &(substituent|ro*) на _N_-фенильном кольце обозначаются штрихованными числами.
+
+en: The combination of the prefixes ‘anilino’ and ‘oxo’ is used for describing <%a%> at the end of an acyclic chain 
+resulting in preferred IUPAC names 
+ru: Сочетание префиксов «анилино» и «оксо» используется для описания <%a%> в конце ациклической цепочки, что приводит 
+к предпочтительным названиям по номенклатуре IUPAC.
+%a: <${}–CO-NH-C6H5$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-NH-CO@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 5-anilino-5-oxopentanoic acid (PIN)  <br>
+5-oxo-5-(phenylamino)pentanoic acid  <br>
+4-(phenylcarbamoyl)butanoic acid  <br>
+_N_-phenylglutaramic acid  <br>
+glutaranilic acid
+ru: 5-анилин-5-оксопентановая кислота (PIN) <br>
+5-оксо-5-(фениламино)пентановая кислота <br>
+4-(фенилкарбамоил)бутановая кислота <br>
+N-фенилглутар&(amic acid) <br>
+глутар&(anilic acid)
+
+@cell
+<$ C6H5-NH-CO-COOH $>
+
+en: anilino(oxo)acetic acid (PIN)  <br>
+oxalanilic acid
+ru: анилино(оксо)уксусная кислота (PIN) <br>
+оксал&(anilic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|<_p6CO-OH>@n(1)`\\`/||\//@n(2,90)_p6CO-NH@n(\textit{N},,.55)_(x1.4)/=\<-NO2>`//`-`\\
+$>
+
+en: 2-[(4-nitrophenyl)carbamoyl]benzoic acid (PIN)  <br>
+_N_-(4-nitrophenyl)phthalamic acid  <br>
+4′-nitrophthalanilic acid  
+ru: 2-[(4-нитрофенил)карбамоил]бензойная кислота (PIN) <br>
+_N_-(4-нитрофенил)фтал&(amic acid) <br>
+4′-нитрофтал&(anilic acid)
+
+@End
+
+#P-65.1.6.3
+en: Aldehydic acids
+ru: Альдегидные кислоты
+
+en: When a dicarboxylic acid has a retained name (see P-65.1.1) and when one of its carboxy groups is replaced by a 
+formyl group, –CHO (see P-65.1.7.2.1), the resulting structure is called an aldehydic acid and, in general nomenclature 
+may be named by replacing the ending ‘ic acid’ of the name of the dicarboxylic acid by the ending ‘aldehydic acid’. 
+Preferred IUPAC names for aldehydic acids derived from all dicarboxylic acids are constructed systematically. The 
+prefix ‘formyl’ is used in preferred IUPAC names, except for a –CHO group at the end of an acyclic chain, which is 
+designated by the prefix ‘oxo’. 
+ru: Когда дикарбоновая кислота имеет &(retained name) (см. P-65.1.1) и когда одна из ее карбоксильных групп заменена 
+формильной группой –CHO (см. P-65.1.7.2.1), полученная структура называется альдегидной кислотой и, в общем случае, 
+может быть названа путем замены окончания «&(ic acid)» в названии дикарбоновой кислоты на окончание «альдегидная кислота». 
+Предпочтительные названия по номенклатуре IUPAC для альдегидных кислот, полученных из всех дикарбоновых кислот, 
+строятся систематически. В предпочтительных названиях по номенклатуре IUPAC используется префикс «формил», 
+за исключением группы –CHO на конце ациклической цепи, которая обозначается префиксом «оксо».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-CHO
+$>
+
+en: 4-formylbenzoic acid (PIN)  <br>
+terephthalaldehydic acid 
+ru: 4-формилбензойная кислота (PIN) <br>
+терефталальдегидная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-oxobutanoic acid (PIN)  <br>
+3-formylpropanoic acid  <br>
+succinaldehydic acid 
+ru: 4-оксобутановая кислота (PIN) <br>
+3-формилпропановая кислота <br>
+янтарноальдегидная кислота
+// http://charchem.org/ru/subst-ref/?id=1698
+// название "янтарноальдегидная кислота" в гугле не найдено. Получено сочетанием точного перевода с правилами раздела
+
+@cell
+<$ OCH-CO-OH $>
+
+en: oxoacetic acid (PIN)  <br>
+(not glyoxylic acid) 
+ru: оксоуксусная кислота (PIN) <br>
+(не глиоксиловая кислота)
+
+@End
 
 //---------------
 
 #P-65.1.7
 en: Acyl groups derived from carboxylic and related acids  
 ru: Ацильные группы, полученные из карбоновых и родственных кислот
+
+@Content
+
+#P-65.1.7.1
+en: Definitions and name formation 
+ru: Определения и формирование названий
+
+en: Carboacyl groups are <%a%>, <%b%>, or <%c%> groups and their functional replacement 
+analogues, where R, R′, and R′′ are chains, rings, or ring systems, derived from carboxylic acids by the removal of the 
+hydroxy group from each carboxylic acid group that is expressed by the suffix, and x = 1, 2, 3, etc. 
+ru: Карбоацильные группы — это группы <%a%>, <%b%> или <%c%> и их функциональные аналоги, где R, R′ и R′′ — цепи, кольца 
+или кольцевые системы, полученные из карбоновых кислот путем удаления гидроксильной группы из каждой карбоксильной группы, 
+которая обозначается суффиксом, а x = 1, 2, 3 и т. д.
+%a: R-CO–
+%b: –OC-R-CO–
+%c: <${}–OC-{R}-[{R′}-CO-]'x'-{R′′}-CO–{}$>
+
+en: Systematic names for carboacyl groups and their functional replacement analogues are given in the following 
+subsections. Compound substitutive names for acyclic acyl groups, such as ‘1-oxopropyl’ and ‘1-iminoethyl’ for  
+<%a%> and <%b%>, respectively, are included for use in general nomenclature. 
+ru: В следующих подразделах приведены систематические названия карбоацильных групп и их функциональных аналогов. 
+Для использования в &(general nomenclature|pr) включены названия замещения ациклических ацильных групп, такие как 
+«1-оксопропил» и «1-иминоэтил» для <%a%> и <%b%> соответственно.
+%a: <$CH3-CH2-CO–{}$>
+%b: <$CH3-C(=NH)–{}$>
+
+#P-65.1.7.2+
+en: Acyl groups derived from carboxylic acids having retained names that are preferred IUPAC names (see 
+P-65.1.1.1), i.e., carboacyl groups 
+ru: Ацильные группы, полученные из карбоновых кислот, имеющие &(retained name|*), которые являются 
+предпочтительными названиями по номенклатуре ИЮПАК (см. P-65.1.1.1), т.е. карбоацильные группы
+
+en: The name of a monovalent or divalent carboacyl groups derived by removal of the –OH group from each carboxy group 
+of a carboxylic acid or functional replacement analogue denoted by an ‘oic acid’ or ‘ic acid’ suffix or having a trivial 
+name is derived from the name of the corresponding acid by changing the ‘oic acid’ or ‘ic acid’ ending to ‘oyl’ or ‘yl’. 
+The general rule that the ending of all acyl group prefixes be ‘oyl’, proposed years ago, has not been regularly followed. 
+This rule is fully implemented in these recommendations, but some traditional exceptions are maintained. 
+ru: Название одновалентной или двухвалентной карбоацильной группы, полученной путем удаления –OH-группы из каждой 
+карбоксильной группы карбоновой кислоты или функционального аналога, обозначаемого суффиксом «&(oic acid)» или 
+«&(ic acid)», или имеющего тривиальное название, выводится из названия соответствующей кислоты путем изменения 
+окончания «&(oic acid)» или «&(ic acid)» на «оил» или «ил». Общее правило, согласно которому окончание всех префиксов 
+ацильных групп должно быть «оил», предложенное много лет назад, не всегда соблюдалось. Это правило полностью реализовано 
+в данных рекомендациях, но некоторые традиционные исключения сохранены.
+
+en: Carboacyl groups derived from acids named by means of the suffix ‘carboxylic acid’ are named by changing the suffix 
+‘carboxylic acid’ to ‘carbonyl’. Acyl groups derived from functional replacement analogues are named by changing the 
+suffixes ‘carbothioic acid’ to ‘carbothioyl’ (and likewise for the selenium and tellurium analogues); ‘carboximidic acid’ 
+to ‘carboximidoyl’; ‘carbohydrazonic acid’ to ‘carbohydrazonoyl’; and ‘carbohydroximic acid’ to ‘carbohydroximoyl’. 
+ru: Карбоацильные группы, полученные из кислот, названных с помощью суффикса «карбоновая кислота», обозначаются заменой 
+суффикса «карбоновая кислота» на «карбонил». Ацильные группы, полученные из аналогов, полученных путем функционального 
+замещения, обозначаются заменой суффиксов «карбо&(thioic acid)» на «карботиоил» (и аналогично для аналогов селена и теллура); 
+«&(carboximidic acid)» на «карбоксимидоил»; «карбо&(hydrazonic acid)» на «карбогидразоноил»; и «&(carbohydroximic acid)» 
+на «карбогидроксимоил».
+
+#P-65.1.7.2.1+
+en: Acyl groups from the carboxylic acids that have retained names used as preferred IUPAC names (see P-65.1.1.1) 
+ru: Ацильные группы карбоновых кислот, у которых &(retained name|*) используются в качестве предпочтительных названий 
+по номенклатуре ИЮПАК (см. P-65.1.1.1).
+
+@Examples
+
+@cell
+<$ CH3-CO–{} $>
+
+en: acetyl (preferred prefix)  <br>
+ethanoyl  <br>
+1-oxoethyl 
+ru: ацетил (&(preferred prefix)) <br>
+этаноил <br>
+1-оксоэтил
+
+@cell
+<$ HCO–{} $>
+
+en: formyl (preferred prefix)  <br>
+methanoyl  <br>
+oxomethyl
+ru: формил (&(preferred prefix)) <br>
+метаноил <br>
+оксометил
+
+@cell
+<$ C6H5-CO–{} $>
+
+en: benzoyl (preferred prefix)  <br>
+benzenecarbonyl  <br>
+oxo(phenyl)methyl 
+ru: бензоил (&(preferred prefix)) <br>
+бензолкарбонил <br>
+оксо(фенил)метил
+
+@cell
+<$ {}–CO-CO–{} $>
+
+en: oxalyl (preferred prefix)  <br>
+ethanedioyl  <br>
+dioxoethanediyl 
+ru: оксалил (&(preferred prefix)) <br>
+этандиоил <br>
+диоксоэтандиил
+
+@cell
+<$ HO-CO-CO–{} $>
+
+en: oxalo (preferred prefix)  <br>
+carboxycarbonyl  <br>
+[not carboxyformyl;  <br>
+not hydroxy(oxo)acetyl] 
+ru: оксало (&(preferred prefix)) <br>
+карбоксикарбонил <br>
+[не карбоксиформил; <br>
+не гидрокси(оксо)ацетил]
+
+@End
+
+#P-65.1.7.2.2+
+en: Acyl groups corresponding to the carboximidic, carbohydrazonic, carbohydroximic, and carbohydroxamic 
+acids described in P-65.1.3. 
+ru: Ацильные группы, соответствующие &(carboximidic [acid]|ro), карбо&(hydrazonic [acid]|ro), &(carbohydroximic [acid]|ro) 
+и &(carbohydroxamic [acid]|ro) кислотам, описанным в P-65.1.3.
+
+@p .framed
+en: The use of systematically derived acyl groups from imidic, hydrazonic, hydroximic, and hydroxamic acids is a 
+changes for formic, acetic, benzoic, and oxalic acids. 
+ru: Использование систематически полученных ацильных групп из &(imidic|ro), &(hydrazonic [acid]|ro), &(hydroximic [acid]|ro) 
+и &(hydroxamic [acid]|ro) кислот представляет собой модификацию для муравьиной, уксусной, бензойной и щавелевой кислот.
+
+@Examples
+
+@cell
+<$ CH3-C(=NH)–{} $>
+
+en: ethanimidoyl (preferred prefix)  <br>
+acetimidoyl  <br>
+1-iminoethyl 
+ru: этанимидоил (&(preferred prefix)) <br>
+ацетимидоил <br>
+1-иминоэтил
+
+@cell
+<$ HC(=NH)–{} $>
+
+en: methanimidoyl (preferred prefix)  <br>
+formimidoyl  <br>
+iminomethyl 
+ru: метанимидоил (&(preferred prefix)) <br>
+формимидоил <br>
+иминометил
+
+@cell
+<$ C6H5-C(=NH)–{} $>
+
+en: benzenecarboximidoyl (preferred prefix)  <br>
+benzimidoyl  <br>
+imino(phenyl)methyl 
+ru: бензенкарбоксимидоил (&(preferred prefix)) <br>
+бензимидоил <br>
+имино(фенил)метил
+
+@cell
+<$ {}–C(=NH)-C(=NH)–{} $>
+
+en: ethanediimidoyl (preferred prefix)  <br>
+oxalimidoyl  <br>
+diiminoethanediyl
+ru: этандиимидоил (&(preferred prefix)) <br>
+оксалимидоил <br>
+дииминоэтандиил
+
+@cell
+<$ HC(=NNH2)–{} $>
+
+en: methanehydrazonoyl (preferred prefix)  <br>
+formohydrazonoyl  <br>
+hydrazinylidenemethyl 
+ru: метангидразоноил (&(preferred prefix)) <br>
+формогидразоноил <br>
+гидразинилиденметил
+
+@cell
+<$ CH3-C(=NNH2)–{} $>
+
+en: ethanehydrazonoyl (preferred prefix)  <br>
+acetohydrazonoyl  <br>
+1-hydrazinylideneethyl
+ru: этангидразоноил (&(preferred prefix)) <br>
+ацетогидразоноил <br>
+1-гидразинилиденэтил
+
+@cell
+<$ C6H5-C(=N-OH)–{} $>
+
+en: _N_-hydroxybenzenecarboximidoyl (preferred prefix)  <br>
+_N_-hydroxybenzimidoyl  <br>
+benzenecarbohydroximoyl  
+ru: _N_-гидроксибензенкарбоксимидоил (&(preferred prefix)) <br>
+_N_-гидроксибензимидоил <br>
+бензенкарбогидроксимоил
+
+@End
+
+#P-65.1.7.2.3+
+en: Chalcogen analogues of acyl groups corresponding to carboxylic acids having retained names that are 
+preferred IUPAC names are named systematically using the infixes of functional replacement nomenclature; these 
+names are preferred IUPAC names. 
+ru: Аналоги халькогенов ацильных групп, соответствующих карбоновым кислотам, имеющим &(retained name|*) и которые 
+являются предпочтительными названиями по номенклатуре ИЮПАК, систематически именуются с использованием инфиксов 
+&(functional replacement nomenclature|ro); эти названия являются предпочтительными названиями по номенклатуре ИЮПАК.
+
+@p .framed
+en: The use of systematically derived acyl groups from chalcogen analogues of carboxylic acids is a change for formic, 
+acetic, benzoic, and oxalic acids. 
+ru: Использование систематически полученных ацильных групп из халькогеновых аналогов карбоновых кислот представляет 
+собой изменение для муравьиной, уксусной, бензойной и щавелевой кислот.
+
+@Examples
+
+@cell
+<$ CH3-CSe–{} $>
+
+en: ethaneselenoyl (preferred prefix)  <br>
+selenoacetyl  <br>
+1-selanylideneethyl 
+ru: этанеселеноил (&(preferred prefix)) <br>
+селеноацетил <br>
+1-селенилиденэтил
+
+@cell
+<$ HCS–{} $>
+
+en: methanethioyl (preferred prefix)  <br>
+thioformyl  <br>
+sulfanylidenemethyl 
+ru: метантиоил (&(preferred prefix)) <br>
+тиоформил <br>
+сульфанилиденметил
+
+@cell
+<$ C6H5-CS–{} $>
+
+en: benzenecarbothioyl (preferred prefix)  <br>
+thiobenzoyl 
+ru: бензолкарботиоил (&(preferred prefix)) <br>
+тиобензоил
+
+@cell
+<$ {}–CS-CS–{} $>
+
+en: ethanebis(thioyl) (preferred prefix)  <br>
+dithiooxalyl  <br>
+bis(sulfanylidene)ethanediyl
+ru: этанбис(тиоил) (&(preferred prefix)) <br>
+дитиооксалил <br>
+бис(сульфанилиден)этандиил
+
+@End
+
+#P-65.1.7.2.4+
+en: Acyl groups and substituent groups derived from oxalic acid  
+ru: Ацильные группы и &(substituent group|*), полученные из щавелевой кислоты
+
+@Examples
+
+@cell
+<$ OCH-CO–{} $>
+
+en: oxoacetyl (from oxoacetic acid, P-65.1.6.3)  <br>
+(preferred prefix)  
+ru: оксоацетил (от оксоуксусной кислоты, P-65.1.6.3) <br>
+(&(preferred prefix))
+
+@cell
+<$ Cl-CO-CO–{} $>
+
+en: chloro(oxo)acetyl (preferred prefix)  <br>
+chlorooxalyl 
+ru: хлоро(оксо)ацетил (&(preferred prefix)) <br>
+хлороксалил
+
+@cell
+<$ HO-CO-CS–{} $>
+
+en: carboxymethanethioyl (preferred prefix)
+ru: карбоксиметанэтиоил (&(preferred prefix))
+
+@cell
+<$ HO-CS-CO–{} $>
+
+en: hydroxy(sulfanylidene)acetyl (preferred prefix)  <br>
+(not 2-thiooxalo;  <br>
+not 2-hydroxy-2-thiooxalyl) 
+ru: гидрокси(сульфанилиден)ацетил (&(preferred prefix)) <br>
+(не 2-тиооксало; <br>
+не 2-гидрокси-2-тиооксалил)
+
+@cell
+<$ HO-CS-CS–{} $>
+
+en: hydroxy(sulfanylidene)ethanethioyl (preferred prefix)  <br>
+hydroxybis(sulfanylidene)ethyl  <br>
+(not 1,2-dithiooxalyl) 
+ru: гидрокси(сульфанилиден)этанэтиоил (&(preferred prefix)) <br>
+гидроксибис(сульфанилиден)этил <br>
+(не 1,2-дитиооксалил)
+
+@cell
+<$ HS-CS-CS–{} $>
+
+en: sulfanyl(sulfanylidene)ethanethioyl (preferred prefix)  <br>
+trithiooxalo  
+ru: сульфанил(сульфанилиден)этанэтиоил (&(preferred prefix)) <br>
+тритиооксало
+
+@cell
+<$ HO-CO-CO-O–{} $>
+
+en: oxalooxy (preferred prefix)  <br>
+(carboxycarbonyl)oxy 
+ru: оксалоокси (&(preferred prefix)) <br>
+(карбоксикарбонил)окси
+
+@cell
+<$ HO-CO-CO-NH–{} $>
+
+en: oxaloamino (preferred prefix)  <br>
+(carboxycarbonyl)amino 
+ru: оксалоамино (&(preferred prefix)) <br>
+(карбоксикарбонил)амино
+
+@cell
+<$ HO-CO-CO-S–{} $>
+
+en: oxalosulfanyl (preferred prefix)  <br>
+(carboxycarbonyl)sulfanyl 
+ru: оксалосульфанил (&(preferred prefix)) <br>
+(карбоксикарбонил)сульфанил
+
+@cell
+<$ HO-CO-CS-S–{} $>
+
+en: (carboxymethanethioyl)sulfanyl (preferred prefix)
+ru: (карбоксиметантиоил)сульфанил (&(preferred prefix))
+
+@End
+
+
+
+
+
+#P-65.1.7.3+
+en: Acyl groups derived from carboxylic acids with names retained only for general nomenclature (see  
+P-65.1.1.2)  
+ru: Ацильные группы, полученные из карбоновых кислот, c &(retained name|tv*) только для общей номенклатуры 
+(см. P-65.1.1.2)
+
+#P-65.1.7.4
+en: Acyl groups derived from systematically named carboxylic acids  
+ru: Ацильные группы, полученные из систематически названных карбоновых кислот
+
+#P-65.1.7.5
+en: Mixed acyl groups 
+ru: Смешанные ацильные группы
 
 //---------------
 
