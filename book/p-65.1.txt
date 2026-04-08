@@ -2822,22 +2822,452 @@ ru: (карбоксиметантиоил)сульфанил (&(preferred prefix
 @End
 
 
-
-
-
 #P-65.1.7.3+
 en: Acyl groups derived from carboxylic acids with names retained only for general nomenclature (see  
 P-65.1.1.2)  
 ru: Ацильные группы, полученные из карбоновых кислот, c &(retained name|tv*) только для общей номенклатуры 
 (см. P-65.1.1.2)
 
+#P-65.1.7.3.1+
+en: Traditional names are maintained for acyl groups derived from acids having retained names for use only in 
+general nomenclature (see P-65.1.1.2); substitution on acyl groups is identical to that of acids. The rule of having acyl 
+groups ending in ‘oyl’ is applied, with certain exceptions that end in ‘yl’. The following exceptions below are limiting. 
+Preferred IUPAC names are systematic substitutive names.
+ru: Традиционные названия сохраняются для ацильных групп, полученных из кислот c &(retained name|tv*), которые используются
+только в общей номенклатуре (см. P-65.1.1.2); замещение в ацильных группах идентично замещению в кислотах. 
+Применяется правило, согласно которому ацильные группы должны оканчиваться на «оил», за некоторыми исключениями, 
+оканчивающимися на «ил». Приведенные ниже исключения являются ограничивающими. Предпочтительными названиями по 
+номенклатуре IUPAC являются систематические &(substitutive name|*).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-CO–{} $>
+
+en: butyryl  <br>
+butanoyl (preferred prefix) <br>
+1-oxobutyl 
+ru: бутирил <br>
+бутаноил (&(preferred prefix)) <br>
+1-оксобутил
+
+@cell
+<$ CH3-CH2-CO–{} $>
+
+en: propionyl  <br>
+propanoyl (preferred prefix)  <br>
+1-oxopropyl 
+ru: пропионил <br>
+пропаноил (&(preferred prefix)) <br>
+1-оксопропил
+
+@cell
+<$ {}–OC-CH2-CO–{} $>
+
+en: malonyl  <br>
+propanedioyl (preferred prefix)  <br>
+1,3-dioxopropane-1,3-diyl 
+ru: малонил <br>
+пропандиоил (&(preferred prefix)) <br>
+1,3-диоксопропан-1,3-диил
+
+@cell
+<$ {}–CO-CH2-CH2-CO–{} $>
+
+en: succinyl  <br>
+butanedioyl (preferred prefix)  <br>
+1,4-dioxobutane-1,4-diyl 
+ru: сукцинил <br>
+бутандиоил (&(preferred prefix)) <br>
+1,4-диоксобутан-1,4-диил
+
+@cell
+<$ {}–OC-[CH2]3-CO–{} $>
+
+en: glutaryl  <br>
+pentanedioyl (preferred prefix)  <br>
+1,5-dioxopentane-1,5-diyl 
+ru: глутарил <br>
+пентандиоил (&(preferred prefix)) <br>
+1,5-диоксопентан-1,5-диил
+
+@cell
+<$ CH2=CH-CO–{} $>
+
+en: acryloyl  <br>
+prop-2-enoyl (preferred prefix)  <br>
+1-oxoprop-2-en-1-yl 
+ru: акрилоил <br>
+проп-2-еноил (&(preferred prefix)) <br>
+1-оксопроп-2-ен-1-ил
+
+@cell
+<$ CH2=C(CH3)-CO–{} $>
+
+en: methacryloyl  <br>
+2-methylprop-2-enoyl (preferred prefix)  <br>
+2-methyl-1-oxoprop-2-en-1-yl 
+ru: метакрилоил <br>
+2-метилпроп-2-еноил (&(preferred prefix)) <br>
+2-метил-1-оксопроп-2-ен-1-ил
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6CO-{}>@n(2,90)`//`\`||/\\@n(1,-90)_q6CO-{}
+$>
+
+en: phthaloyl  <br>
+benzene-1,2-dicarbonyl (preferred prefix)  <br>
+1,2-phenylenebis(oxomethylene) 
+ru: фталоил <br>
+бензол-1,2-дикарбонил (&(preferred prefix)) <br>
+1,2-фениленбис(оксометилен)
+
+@End
+
+#P-65.1.7.3.2+
+en: Acyl groups derived from imidic, hydrazonic, and hydroximic acids with retained names for use only in 
+general nomenclature are named by changing the ‘ic acid’ ending of the names described in P-65.1.3 into ‘oyl’. 
+ru: Ацильные группы, полученные из &(imidic|ro*), &(hydrazonic [acid]|ro*) и &(hydroximic [acid]|ro*) кислот, 
+с &(retained name|tv*) только для использования в общей номенклатуре, называются путем замены окончания «&(ic acid)» 
+в названиях, описанных в P-65.1.3, на «оил».
+
+@Examples
+
+@cell
+<$ CH3-CH2-C(=NH)–{} $>
+
+en: propionimidoyl  <br>
+propanimidoyl (preferred prefix)  <br>
+1-iminopropyl 
+ru: пропионимидоил <br>
+пропанимидоил (&(preferred prefix)) <br>
+1-иминопропил
+
+@cell
+<$ CH2=CH-C(=NNH2)–{} $>
+
+en: acrylohydrazonoyl  <br>
+prop-2-enehydrazonoyl (preferred prefix)  <br>
+1-hydrazinylideneprop-2-en-1-yl 
+ru: акрилогидразоноил <br>
+проп-2-енгидразоноил (&(preferred prefix)) <br>
+1-гидразинилиденпроп-2-ен-1-ил
+
+@cell
+<$ {}–(HN=)C-CH2-CH2-C(=NH)–{} $>
+
+en: succinimidoyl  <br>
+butanediimidoyl (preferred prefix)  <br>
+1,4-diiminobutane-1,4-diyl 
+ru: сукцинимидоил <br>
+бутандиимидоил (&(preferred prefix)) <br>
+1,4-дииминобутан-1,4-диил
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}--C<`||mNH>-@n(1,120)\\-//@n(4,60)<`\`=`/>-C<`||mNH>--{}
+$>
+
+en: terephthalimidoyl  <br>
+benzene-1,4-dicarboximidoyl (preferred prefix)  <br>
+1,4-phenylenebis(iminomethylene) 
+ru: терефталимидоил <br>
+бензол-1,4-дикарбоксимидоил (&(preferred prefix)) <br>
+1,4-фениленбис(иминометилен)
+
+@End
+
+#P-65.1.7.3.3+
+en: Chalcogen analogues of acyl groups derived from acids having retained names that are used only in 
+general nomenclature are named using prefixes expressing functional replacement 
+ru: &(Chalcogen analogue|*) ацильных групп, полученные из кислот, имеющих &(retained name|*) и использующиеся только 
+в общей номенклатуре, обозначаются с помощью префиксов, выражающих функциональное замещение
+
+en: Names of acyl groups derived from monocarboxylic acids are modified by prefixes expressing functional replacement 
+by =S, =Se, and =Te. Acyl group prefixes corresponding to dicarboxylic acids are formed systematically, in accordance 
+with Rule P-65.1.7.4. 
+ru: Названия ацильных групп, полученных из монокарбоновых кислот, модифицируются префиксами, выражающими 
+функциональную замену на =S, =Se и =Te. Префиксы ацильных групп, соответствующие дикарбоновым кислотам, образуются 
+систематически в соответствии с правилом P-65.1.7.4.
+
+@Examples
+
+@cell
+<$ CH3-CH2-CS–{} $>
+
+en: thiopropionyl  <br>
+propanethioyl (preferred prefix)  <br>
+1-sulfanylidenepropyl 
+ru: тиопропионил <br>
+пропанетиоил (&(preferred prefix)) <br>
+1-сульфанилиденпропил
+
+@cell
+<$ CH2=CH-CSe–{} $>
+
+en: selenoacryloyl  <br>
+prop-2-eneselenoyl (preferred prefix)  <br>
+1-selanylideneprop-2-en-1-yl 
+ru: селеноакрилоил <br>
+проп-2-енеселеноил (&(preferred prefix)) <br>
+1-селенилиденпроп-2-ен-1-ил
+
+@cell
+<$ HS-CS-CS–{} $>
+
+en: sulfanyl(sulfanylidene)ethanethioyl (preferred prefix)  <br>
+2-sulfanyl-1,2-bis(sulfanylidene)ethyl  <br>
+trithiooxalo 
+ru: сульфанил(сульфанилиден)этанэтиоил (&(preferred prefix)) <br>
+2-сульфанил-1,2-бис(сульфанилиден)этил <br>
+тритиооксало
+
+@End
+
+
 #P-65.1.7.4
 en: Acyl groups derived from systematically named carboxylic acids  
 ru: Ацильные группы, полученные из систематически названных карбоновых кислот
 
+
+#P-65.1.7.4.1+
+en: The name of a monovalent or divalent acyl group formed by removal of the -OH group from each carboxy 
+group of a carboxylic acid denoted by an ‘oic acid’ suffix is derived from the name of the corresponding acid by 
+changing the ending ‘oic acid’ to ‘oyl’. Names of acyl groups derived from carboxylic acids modified by functional 
+replacement are all denoted by the ending ‘oyl’. 
+ru: Название одновалентной или двухвалентной ацильной группы, образованной удалением -OH-группы из каждой карбоксильной 
+группы карбоновой кислоты, обозначаемое суффиксом «&(oic acid)», происходит от названия соответствующей кислоты путем 
+замены окончания «&(oic acid)» на «оил». Названия ацильных групп, полученных из карбоновых кислот, модифицированных 
+функциональными группами, обозначаются окончанием «оил».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CO@n(1)-{}
+$>
+
+en: propanoyl (preferred prefix)  <br>
+propionyl  <br>
+1-oxopropyl 
+ru: пропаноил (предпочтительный префикс) <br>
+пропионил <br>
+1-оксопропил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-OC@n(10)-[CH2]8-CO@n(1)-{}
+$>
+
+en: decanedioyl (preferred prefix)  <br>
+1,10-dioxodecane-1,10-diyl 
+ru: декандиоил (предпочтительный префикс) <br>
+1,10-диоксодекан-1,10-диил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-C@n(1)(=NH)-{}
+$>
+
+en: butanimidoyl (preferred prefix)  <br>
+butyrimidoyl  <br>
+1-iminobutyl 
+ru: бутанимидоил (предпочтительный префикс) <br>
+бутиримидоил <br>
+1-иминобутил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-C@n(3)(=NH)-CH2@n(2)-C@n(1)(=NH)-{}
+$>
+
+en: propanediimidoyl (preferred prefix)  <br>
+malonimidoyl  <br>
+1,3-diiminopropane-1,3-diyl 
+ru: пропандиимидоил (предпочтительный префикс) <br>
+малонимидоил <br>
+1,3-дииминопропан-1,3-диил
+
+@cell
+<$ CH3-CH2-CS–{} $>
+
+en: propanethioyl (preferred prefix)  <br>
+thiopropionyl  <br>
+1-sulfanylidenepropyl  <br>
+1-thioxpropyl 
+ru: пропантиоил (предпочтительный префикс) <br>
+тиопропионил <br>
+1-сульфанилиденпропил <br>
+1-тиоксопропил
+
+@cell
+<$ {}–CS-CH2-CH2-CS–{} $>
+
+en: butanebis(thioyl) (preferred prefix)  <br>
+1,4-bis(sulfanylidene)butane-1,4-diyl <br>
+1,4-dithioxobutane-1,4-diyl <br>
+(not dithiosuccinyl) 
+ru: бутанбис(тиоил) (предпочтительный префикс) <br>
+1,4-бис(сульфанилиден)бутан-1,4-диил <br>
+1,4-дитиоксобутан-1,4-диил <br>
+(не дитиосукцинил)
+
+@End
+
+#P-65.1.7.4.2+
+en: Acyl groups derived from an acid named by means of the suffix ‘carboxylic acid’ are named by changing 
+the ‘carboxylic acid’ suffix to the suffix ‘carbonyl’. Similarly, the suffix ‘carbothioic acid’ is changed to ‘carbothioyl’; 
+the suffix ‘carboselenoic acid’ is changed to ‘carboselenoyl’; the suffix ‘carbotelluroic acid’ is changed to 
+‘carbotelluroyl’; the suffix ‘carboximidic acid’ is changed to ‘carboximidoyl’; and the suffix ‘carbohydrazonic acid’ is 
+changed to ‘carbohydrazonoyl’. 
+ru: Ацильные группы, полученные из кислоты, названной с помощью суффикса «карбоновая кислота», называются путем замены 
+суффикса «карбоновая кислота» на суффикс «карбонил». Аналогично, суффикс «карбо&(thioic acid)» заменяется на «карботиоил»; 
+суффикс «карбо&(selenoic acid)» заменяется на «карбоселеноил»; суффикс «карбо&(telluroic acid)» заменяется на «карботеллуроил»; 
+суффикс «&(carboximidic acid)» заменяется на «карбоксимидоил»; и суффикс «карбо&(hydrazonic acid)» заменяется на 
+«карбогидразоноил».
+
+@Examples
+
+@cell
+<$ |`/`\`|/\_q6CO-{} $>
+
+en: cyclohexanecarbonyl (preferred prefix)  <br>
+cyclohexylcarbonyl  <br>
+cyclohexyl(oxo)methyl 
+ru: циклогексанкарбонил (предпочтительный префикс) <br>
+циклогексилкарбонил <br>
+циклогексил(оксо)метил
+
+@cell
+<$ |_q_q<_q_q>-C<`||mNH>--{} $>
+
+en: cyclopentanecarboximidoyl (preferred prefix)  <br>
+cyclopentylcarbonimidoyl  <br>
+cyclopentyl(imino)methyl
+ru: циклопентанкарбоксимидоил (предпочтительный префикс) <br>
+циклопентилкарбонидоил <br>
+циклопентил(имино)метил
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,90)<_q6CS-{}>`/`\`|/\@n(1,-90)_q6CS-{}
+$>
+
+en: cyclohexane-1,2-dicarbothioyl (preferred prefix) 
+ru: циклогексан-1,2-дикарботиоил (предпочтительный префикс)
+
+@cell
+<$ |_q_q<_q_q><_(a84)CH3>_(a24)C<`||mN-NH2>--{} $>
+
+en: 1-methylcyclopentane-1-carbohydrazonoyl (preferred prefix)  <br>
+hydrazinylidene(1-methylcyclopentyl)methyl 
+ru: 1-метилциклопентан-1-карбогидразоноил (предпочтительный префикс) <br>
+гидразинилиден(1-метилциклопентил)метил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2,90)<`|OC`-{}>-CH@n(3,90)<`|CO-{}>-CH2@n(4)-CH@n(5,90)<`|CO-{}>-CH3@n(6)
+$>
+
+en: hexane-2,3,5-tricarbonyl (preferred prefix)  <br>
+hexane-2,3,5-triyltris(oxomethylene)  <br>
+hexane-2,3,5-tris(carbonyl) 
+ru: гексан-2,3,5-трикарбонил (предпочтительный префикс) <br>
+гексан-2,3,5-триилтрис(оксометилен) <br>
+гексан-2,3,5-трис(карбонил)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2,90)<`|SC`-{}>-CH@n(3,90)<`|CS-{}>-CH2@n(4)-CH@n(5,90)<`|CS-{}>-CH3@n(6)
+$>
+
+en: hexane-2,3,5-tricarbothioyl (preferred prefix)  <br>
+hexane-2,3,5-triyltris(sulfanylidenemethylene)  <br>
+hexane-2,3,5-triyltris(thioxomethylene) 
+ru: гексан-2,3,5-трикарботиоил (предпочтительный префикс) <br>
+гексан-2,3,5-триилтрис(сульфанилиденметилен) <br>
+гексан-2,3,5-триилтрис(тиоксометилен)
+
+@End
+
+#P-65.1.7.4.3+
+en: Acyl groups derived from dicarboxylic acids with retained names modified by functional replacement by 
+=S, =Se, and =Te are formed systematically, as described in P-65.1.7.4.2.
+ru: Ацильные группы, полученные из дикарбоновых кислот с &(retained name|tv*), которые были изменены путем 
+функциональной замены на =S, =Se и =Te, образуются систематически, как описано в P-65.1.7.4.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CS@n(4)-CH2@n(3)-CH2@n(2)-CS@n(1)-{}
+$>
+
+en: butanebis(thioyl) (preferred prefix)  <br>
+(not dithiosuccinyl)  <br>
+1,4-bis(sulfanylidene)butane-1,4-diyl 
+ru: бутанбис(тиоил) (предпочтительный префикс) <br>
+(не дитиосукцинил) <br>
+1,4-бис(сульфанилиден)бутан-1,4-диил
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,90)<_q6CS-{}>`//`\`||/\\@n(1,-90)_q6CS-{}
+$>
+
+en: benzene-1,2-dicarbothioyl (preferred prefix)  <br>
+(not dithiophthaloyl)  <br>
+1,2-phenylenebis(sulfanylidenemethylene)  <br>
+1,2-phenylenebis(thioxomethylene)
+ru: бензол-1,2-дикарботиоил (предпочтительный префикс) <br>
+(не дитиофталоил) <br>
+1,2-фениленбис(сульфанилиденметилен) <br>
+1,2-фениленбис(тиоксометилен)
+// Возможно, в оригинале ошибка. Указана формула, совпадающая с P-65.1.7.4.2 №3. Исправлен циклогексан на бензол. (В официальном списке ошибок этого нет.)
+
+@End
+
 #P-65.1.7.5
 en: Mixed acyl groups 
 ru: Смешанные ацильные группы
+
+en: Mixed acyl groups of the type <%a%> are named by substitution of alkanediyl substituent groups. 
+ru: Смешанные ацильные группы типа <%a%> называются по замене алкандиильных замещающих групп.
+%a: <$ {}–(C={X})-[CH2]'x'-(C={Y})–{} $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-CO@n(1)-CH2@n(2)-CH2@n(3)-CS@n(4)-{}
+$>
+
+en: 1-oxo-4-sulfanylidenebutane-1,4-diyl (preferred prefix) 
+ru: 1-оксо-4-сульфанилиденбутан-1,4-диил (предпочтительный префикс)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-C@n(1)(=NH)-C@n(2)Se-{}
+$>
+
+en: 1-imino-2-selanylideneethane-1,2-diyl (preferred prefix) 
+ru: 1-имино-2-селенилиденэтан-1,2-диил (предпочтительный префикс)
+
+@End
 
 //---------------
 
@@ -2845,56 +3275,127 @@ ru: Смешанные ацильные группы
 en: Formic acid
 ru: Муравьиная кислота 
 
+en: For the purpose of organic nomenclature, formic acid is considered to be a monocarboxylic acid (see P-65.1). It is a 
+retained name, treated like acetic acid, can be functionalized leading to salts, esters, and anhydrides, and forms an acyl 
+group that is used as a substituent group. Functional replacement analogues are named systematically, for example, 
+methanethioic acid and methanimidic acid. The hydrogen atom attached to carbon is substitutable under specific 
+conditions that are described in P-65.1.8.1, P- 65.1.8.2, and P-65.1.8.3. 
+ru: В целях органической номенклатуры муравьиная кислота считается монокарбоновой кислотой (см. P-65.1). Это 
+&(retained name), рассматриваемое как уксусная кислота, может быть функционализировано с образованием солей, сложных эфиров 
+и ангидридов, и образует ацильную группу, используемую в качестве &(substituent group|ro). Аналоги с функциональным замещением 
+называются системно, например, метан&(thioic acid) и метан&(imidic acid). Атом водорода, присоединенный к углероду, может 
+быть замещен при определенных условиях, описанных в P-65.1.8.1, P-65.1.8.2 и P-65.1.8.3.
 
-#P-65.2
-en: Carbonic, cyanic, and di- and polycarbonic acids 
-ru: Угольная, циановая, ди- и полиугольные кислоты
+#P-65.1.8.1+
+en: Substitution of the hydrogen atom of formic acid by the following atoms or groups is not recommended:
+ru: Замещение атома водорода в муравьиной кислоте следующими атомами или группами не рекомендуется:
 
-#P-65.3
-en: Sulfur, selenium, and tellurium acids with chalcogen atoms directly linked to a parent hydride 
-ru: Серные, селеновые и теллуровые кислоты, в которых атомы халькогена непосредственно связаны с &(parent hydride|tv)
+@Examples --
 
-#P-65.4
-en: Acyl groups as substituent groups 
-ru: Ацильные группы как &(substituent group|*)
+@cell
+–OOH, –SH, –SeH, –TeH, –F, –Cl, –Br, –I, <$–N3$> , –NC, –CN, –NCO, –NCS, –NCSe, –NCTe, <$–NH2$> , <$–NH-NH2$>
 
-#P-65.5
-en: Acyl halides and pseudohalides 
-ru: Ацилгалогениды и псевдогалогениды
+@End
 
+en: Names for such structures are derived from carbonic acid by functional replacement nomenclature (see P-65.2.1.4) and 
+are preferred IUPAC names and used in general nomenclature: 
+ru: Названия таких структур происходят от угольной кислоты при помощи &(functional replacement nomenclature|ro) 
+(см. P-65.2.1.4) и являются предпочтительными названиями по номенклатуре IUPAC, используемыми в общей номенклатуре:
 
-#P-65.6
-en: Salts and esters 
-ru: Соли и сложные эфиры
+en: **Note**: Substitution of the hydrogen atom of formic acid by <%a%> leads to a structure named by the suffix carboxylic 
+acid attached to the parent hydride hydrazine (see P-68.3.1.2). A carboxylic acid named by means of a suffix is senior to 
+a derivative of carbonic acid formed by functional replacement (see P-41). 
+ru: **Примечание**: Замена атома водорода муравьиной кислоты на <%a%> приводит к структуре, называемой суффиксом 
+«карбоновая кислота», присоединенным к &(parent hydride|da) гидразину (см. P-68.3.1.2). Карбоновая кислота, названная 
+с помощью суффикса, имеет более высокий приоритет, чем производное угольной кислоты, образованное путем 
+функционального замещения (см. P-41).
+%a: <$ {}–NH-NH2 $>
 
-#P-65.7
-en: Anhydrides and their analogues 
-ru: Ангидриды и их аналоги
+@Examples
 
+@cell
+<$ H2N-NH-COOH $>
 
+en: hydrazinecarboxylic acid (PIN)  <br>
+carbonohydrazidic acid (see P-65.2.1.4)  <br>
+(not carbazic acid) 
+ru: гидразинкарбоновая кислота (PIN) <br>
+карбоногидразидовая кислота (см. P-65.2.1.4) <br>
+(не карбазиновая кислота)
 
+@cell
+<$ Cl-COOH $>
 
+en: carbonochloridic acid (PIN)  <br>
+(not chloroformic acid) 
+ru: хлоругольная кислота (PIN) <br>
+(не хлормуравьиная кислота)
+// Соответствует https://xumuk.ru/organika/448.html
 
+@cell
+<$ HS-COOH $>
 
+en: carbonothioic _S_-acid (PIN)  <br>
+(not sulfanylformic acid) 
+ru: карбоно&(thioic [acid]) _S_-кислота (PIN) <br>
+(не сульфанилмуравьиная кислота)
+// CAS: 78338-22-4  
+// русскоязычные названия проверить не удалось
 
+@End
 
+#P-65.1.8.2+
+en: Substitution of the hydrogen atom of formic acid is permitted when substituent groups are other than those 
+cited in P-65.1.8.1. 
+ru: Замещение атома водорода в муравьиной кислоте допускается, если &(substituent group|*) отличаются от тех, 
+которые указаны в пункте P-65.1.8.1.
 
-#P-66
-en: Amides, imides, hydrazides, nitriles, and aldehydes 
-ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+@Examples
 
-#P-67
-en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
-parents for naming organic compounds 
-ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
-для наименования органических соединений
+@cell
+<$ O2N-COOH $>
 
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+en: nitroformic acid (PIN) <br>
 
+@cell
+<$ H{{{S/O}}}C-COOH $>
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+en: (thiocarboxy)formic acid (PIN, see P-65.1.5.2) 
+
+@End
+
+#P-65.1.8.3+
+en: Acyl groups derived from formic acid are formed as described in P-65.1.7.2 and compound prefixes are 
+formed in accordance with the structure of the substituent group. The hydrogen atom present in the group formyl,  –CHO, 
+is substitutable under the same conditions as those described in P-65.1.8.2 for formic acid. 
+ru: Ацильные группы, полученные из муравьиной кислоты, образуются, как описано в P-65.1.7.2, а префиксы соединений 
+формируются в соответствии со структурой замещающей группы. Атом водорода, присутствующий в формильной группе, –CHO, 
+может быть замещен при тех же условиях, что и описанные в P-65.1.8.2 для муравьиной кислоты.
+
+@Examples
+
+@cell
+<$ Cl-CO–{} $>
+
+en: carbonochloridoyl (preferred prefix)  <br>
+(not chloroformyl) 
+
+@cell
+
+@cell
+<$ Br-CS–{} $>
+
+en: carbonobromidothioyl (preferred prefix)  <br>
+[not bromo(thioformyl)] 
+
+@cell
+<$ HCO-O–{} $>
+
+en: formyloxy (preferred prefix) 
+
+@cell
+<$ HCO-S–{} $>
+
+en: formylsulfanyl (preferred prefix) 
+
+@End

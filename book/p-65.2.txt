@@ -1,0 +1,287 @@
+#P-65.2
+en: Carbonic, cyanic, and di- and polycarbonic acids 
+ru: Угольная, циановая, ди- и &(polycarbonic acid|*)
+
+en: Carbonic acid, cyanic acid, and di- and polycarbonic acids are a group of functional parent compounds different from 
+carboxylic acids; these acids have no hydrogen atom(s) to be used in substitutive nomenclature. 
+ru: Угольная кислота, циановая кислота, а также ди- и &(polycarbonic acid|*) представляют собой группу функциональных 
+&(parent compound|ro*), отличных от карбоновых кислот; эти кислоты не содержат атомов водорода, которые можно было бы 
+использовать в &(substitutive nomenclature|pr).
+
+en: The following acids, classified as mononuclear carbon acids, have retained names that are preferred IUPAC names: 
+ru: Следующие кислоты, классифицируемые как моноядерные &(carbon acid|*), имеет &(retained name|*), которые являются 
+предпочтительными названиями по номенклатуре ИЮПАК:
+
+@Examples -- .left-aligned-cells
+
+@cell
+en: carbonic acid (PIN)   <%a%>
+ru: &(carbonic acid) (PIN)   <%a%>
+%a: <$ HO-CO-OH $>  
+
+@cell
+en: cyanic acid (PIN)   <%a%>
+ru: циановая кислота (PIN)   <%a%>
+%a: <$ HO-CN $>
+
+@End
+
+en: The following di- or polynuclear carbon acids have retained names that are preferred IUPAC names: 
+ru: Следующие ди- или &(polynuclear carbon acid|*) имеют &(retained name|*), которые являются 
+предпочтительными названиями по номенклатуре IUPAC:
+
+@Examples -- .left-aligned-cells
+
+@cell
+en: dicarbonic acid (PIN)   <%a%> 
+ru: ди&(carbonic acid) (PIN)   <%a%> 
+%a: <$HO-CO-O-CO-OH$>
+
+@cell
+en: tricarbonic acid (PIN)   <%a%> 
+ru: три&(carbonic acid) (PIN)   <%a%> 
+%a: <$HO-CO-O-CO-O-CO-OH$>
+
+@cell
+en: tetracarbonic acid (PIN)  <%a%> 
+ru: тетра&(carbonic acid) (PIN)  <%a%> 
+%a: <$HO-CO-O-CO-O-CO-O-CO-OH$>
+
+@cell
+en: polycarbonic acids  <%a%> _n_ = 5, 6 and higher homologues  <br>
+are named by skeletal replacement (‘a’) nomenclature 
+ru: &(polycarbonic acid|*) <%a%> _n_ = 5, 6 и более высокие гомологи <br>
+обозначаются с помощью номенклатуры &(skeletal replacement a|ro).
+%a: <$ HO-[CO-O]'n'-H $>
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(1)-O@n(2)-CO@n(3)-O@n(4)-CO@n(5)-O@n(6)-CO@n(7)-O@n(8)-CO@n(9)-OH
+$>
+
+en: 3,5,7-trioxo-2,4,6,8-tetraoxanonanedioic acid (PIN) 
+ru: 3,5,7-триоксо-2,4,6,8-тетраоксанонанди&(oic acid) (PIN)
+
+@End
+
+en: The decreasing order of seniority of the carbon acids as indicated in Section P-41 is: polycarbonic acids > tetracarbonic 
+acid > tricarbonic acid > dicarbonic acid > carbonic acid > cyanic acid. 
+ru: Убывающий порядок старшинства &(carbon acid|ro*), как указано в разделе P-41, следующий: 
+&(polycarbonic acid|*) > тетра&(carbonic acid) > три&(carbonic acid) > ди&(carbonic acid) > &(carbonic acid) > циановая кислота.
+
+@Content
+
+#P-65.2.1
+en: Carbonic acid 
+ru: &(Carbonic acid)
+
+en: The nomenclature of chalcogen analogues and derivatives of carbonic acid is based on functional replacement of one 
+oxygen in –OH groups or of the doubly bonded oxygen atom, =O, and is indicated by infixes. Substitution of formic 
+acid is not recommended for generation of these names. 
+ru: Номенклатура &(chalcogen analogue|ro*) и производных &(carbonic acid|ro*) основана на функциональной замене одного 
+атома кислорода в группах –OH или атома кислорода, связанного двойной связью, =O, и обозначается инфиксами. &(Substitution) 
+муравьиной кислоты для образования этих названий не рекомендуется.
+
+#P-65.2.1.1+
+en: The contracted name ‘carbamic acid’ (from carbonamidic acid), for <%a%>, and ‘carbamimidic acid’ 
+(from carbonamidimidic acid), for <%b%>, are retained and are the preferred IUPAC names. 
+ru: Сокращенное название «карбаминовая кислота» (от карбонамидной кислоты) для <%a%> и «карбам&(imidic acid)» 
+(от карбонам&(imidic acid|ro)) для <%b%> сохраняются и являются предпочтительными названиями по номенклатуре IUPAC.
+%a: <$ H2N-CO-OH $>
+%b: <$ H2N-C(=NH)-OH $>
+
+@Examples
+
+@cell
+<$ (CH3)2N-COOH $>
+
+en: dimethylcarbamic acid (PIN)
+ru: диметилкарбаминовая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-N@n(\textit{N},90)<`|CH3>-C(=NH:n)-OH; #n@n(\textit{N'},-80)
+$>
+
+en: _N_-ethyl-_N_-methylcarbamimidic acid (PIN) 
+ru: _N_-этил-_N_-метилкарбам&(imidic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2-CH2-CH2-NH@n(\textit{N})-CO-O-CH2-CH@n(2)(OH)-CH3
+$>
+
+en: 2-hydroxypropyl (2-aminoethyl)carbamate (PIN)
+ru: 2-гидроксипропил (2-аминоэтил)карбамат (PIN)
+
+@End
+
+#P-65.2.1.2+
+en: Functional replacement in carbonic acid and carbamic acid names by –OO–, –S–, –Se–, and –Te– is 
+expressed by the infixes ‘peroxo’, ‘thio’, ‘seleno’, and ‘telluro’, respectively. Tautomeric groups in mixed 
+chalcocarbonic acids, such as <%a%> or <%b%>, are distinguished by prefixing italic element symbols, such as 
+‘_S_’ or ‘_O_’, respectively, to the term ‘acid’; the italic symbols ‘_OS_’ and ‘_SO_’ are used for peroxy acids. 
+ru: &(Functional replacement) в названиях угольной и карбаминовой кислот на –OO–, –S–, –Se– и –Te– выражается инфиксами 
+«пероксо», «тио», «селено» и «теллуро» соответственно. Таутомерные группы в смешанных халькоугольных кислотах, таких как 
+<%a%> или <%b%>, различаются добавлением курсивных символов элементов, таких как «_S_» или «_O_» соответственно, 
+к термину «кислота»; курсивные символы «_OS_» и «_SO_» используются для пероксикислот.
+%a: <$ HO-CO-SH $>
+%b: <$ HO-CS-OH $>
+
+en: Contrary to Rules P-65.1.3 through P-65.1.5, functional replacement nomenclature is applied to the retained name 
+‘carbamic acid’ and not to the systematic name ‘carbonamidic acid’. 
+ru: В отличие от правил P-65.1.3 – P-65.1.5, &(functional replacement nomenclature) применяется к &(retained name) 
+«карбаминовая кислота», а не к систематическому названию «карбонамидная кислота».
+
+@Examples
+
+@cell
+<$ H2N-CS-OH $>
+
+en: carbamothioic _O_-acid (PIN) 
+ru: карбамо&(thioic [acid]) _O_-кислота (PIN)
+
+@cell
+<$ H2N-CO-SeH $>
+
+en: carbamoselenoic _Se_-acid (PIN) 
+ru: карбамо&(selenoic [acid]) _Se_-кислота (PIN)
+
+@cell
+<$ HO-CO-SH $>
+
+en: carbonothioic _S_-acid (PIN)  <br>
+(not sulfanylformic acid) 
+ru: карбоно&(thioic [acid]) _S_-кислота (PIN) <br>
+(не сульфанилмуравьиная кислота)
+
+@cell
+<$ HSe-CO-SeH $>
+
+en: carbonodiselenoic _Se,Se_-acid (PIN) 
+ru: карбоди&(selenoic [acid]) _Se,Se_-кислота (PIN)
+
+@cell
+<$ HS-CS-SH $>
+
+en: carbonotrithioic acid (PIN) 
+ru: карбонотри&(thioic acid) (PIN)
+
+@cell
+<$ H2N-CO-OOH $>
+
+en: carbamoperoxoic acid (PIN)
+ru: карбамопероксоевая кислота (PIN)
+
+@cell
+<$ HO-CO-OOH $>
+
+en: carbonoperoxoic acid (PIN) 
+ru: карбонпероксоевая кислота (PIN)
+
+@cell
+<$ HOO-CO-OOH $>
+
+en: carbonodiperoxoic acid (PIN) 
+ru: карбодипероксоевая кислота (PIN)
+
+@cell
+<$ HO-CO-OSH $>
+
+en: carbono(thioperoxoic) _OS_-acid (PIN) 
+ru: карбоно(тиопероксоевая) _OS_-кислота (PIN)
+
+@cell
+<$ HOS-CO-OSH $>
+
+en: carbonobis(thioperoxoic) _OS,SO_-acid (PIN)
+ru: карбонобис(тиопероксоевая) _OS,SO_-кислота (PIN)
+
+@End
+
+#P-65.2.1.3+
+en: Functional replacement of =O in ‘carbonic acid’ and ‘carbamic acid’ by <%b%> and <%c%> is expressed by 
+the infixes ‘imido’ and ‘hydrazono’ and of oxygen in –OH groups in the resulting acids by chalcogen atoms is 
+expressed by infixes, as in P-65.2.1.2. As described in P-65.2.1.1, the name ‘carbamimidic acid’ is retained for  
+<%d%> (in place of the systematic name ‘carbonamidimidic acid’) and used as a preferred IUPAC name. It is 
+modified by chalcogen atoms in functional replacement nomenclature in the same way as ‘carbamic acid’. 
+ru: &(Functional replacement) =O в «&(carbonic acid|pr)» и «карбаминовой кислоте» на <%b%> и <%c%> выражается 
+инфиксами «имидо» и «гидразоно», а замена кислорода в группах –OH в образующихся кислотах атомами халькогенов 
+выражается инфиксами, как в P-65.2.1.2. Как описано в P-65.2.1.1, название «карбам&(imidic acid)» сохраняется для 
+<%d%> (вместо систематического названия «карбонам&(imidic acid)») и используется в качестве предпочтительного 
+названия IUPAC. Оно модифицируется атомами халькогенов в &(functional replacement nomenclature|pr) таким же образом, 
+как и «карбаминовая кислота».
+%b: <$ {}=NH $>
+%c: <$ {}=N-NH2 $>
+%d: <$ H2N-C(=NH)-OH $>
+
+en: Italic letter locants _N_, _N′_ etc. are used to designate substitution on nitrogen atoms.  
+ru: Курсивные буквенные локанты _N_, _N′_ и т. д. используются для обозначения &(substitution|ro) на атомах азота.
+
+
+#P-65.2.2
+en: Cyanic acid 
+ru: Циановая кислота
+
+#P-65.2.3
+en: Di-, tri-, tetra-, and polycarbonic acids 
+ru: Ди-, три-, тетра- и &(polycarbonic acid|*) 
+
+// ===================
+
+
+#P-65.3
+en: Sulfur, selenium, and tellurium acids with chalcogen atoms directly linked to a parent hydride 
+ru: Серные, селеновые и теллуровые кислоты, в которых атомы халькогена непосредственно связаны с &(parent hydride|tv)
+
+#P-65.4
+en: Acyl groups as substituent groups 
+ru: Ацильные группы как &(substituent group|*)
+
+#P-65.5
+en: Acyl halides and pseudohalides 
+ru: Ацилгалогениды и псевдогалогениды
+
+
+#P-65.6
+en: Salts and esters 
+ru: Соли и сложные эфиры
+
+#P-65.7
+en: Anhydrides and their analogues 
+ru: Ангидриды и их аналоги
+
+
+
+
+
+
+
+
+
+#P-66
+en: Amides, imides, hydrazides, nitriles, and aldehydes 
+ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

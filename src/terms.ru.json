@@ -120,6 +120,14 @@
   "carbohydroximic [acid]": "карбогидроксимовая",
   "carbohydroximic [acid]|ro": "карбогидроксимовой",
 
+  "carbon acid": "угольная кислота",
+  "carbon acid|*": "угольные кислоты",
+  "carbon acid|ro*": "угольных кислот",
+
+  "carbonic acid": "угольная кислота",
+  "carbonic acid|pr": "угольной кислоте",
+  "carbonic acid|ro*": "угольных кислот",
+
   "carboximidic [acid]": "карбоксимидная",
   "carboximidic [acid]|ro": "карбоксимидной",
   "carboximidic acid": "карбоксимидная кислота",
@@ -274,8 +282,11 @@
   "functional parent|*": "функциональные родители",
   "functional parent|ro*": "функциональных родителей",
 
+  "functional replacement": "функциональное замещение",
+
   "functional replacement nomenclature": "номенклатура функционального замещения",
   "functional replacement nomenclature|ro": "номенклатуры функционального замещения",
+  "functional replacement nomenclature|pr": "номенклатуре функционального замещения",
 
   "functional replacement prefix": "префикс функционального замещения",
   
@@ -358,6 +369,7 @@
   "heterophane [system]|ro*": "гетерофановых",
 
   "hydrazonic [acid]|ro": "гидразоновой",
+  "hydrazonic [acid]|ro*": "гидразоновых",
   "hydrazonic acid": "гидразоновая кислота",
   "hydrazonic acid|*": "гидразоновые кислоты",
 
@@ -367,6 +379,7 @@
 
   "hydroximic acid": "гидроксимовая кислота",
   "hydroximic [acid]|ro": "гидроксимовой",
+  "hydroximic [acid]|ro*": "гидроксимовых",
 
   "ic acid": "ая кислота",
 
@@ -404,6 +417,7 @@
   "imidic acid|*": "имидные кислоты",
   "imidic acid|ro*": "имидных кислот",
   "imidic|ro": "имидной",
+  "imidic|ro*": "имидных",
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
@@ -630,6 +644,8 @@
 
   "polycarbonic acid|*": "полиугольные кислоты",
 
+  "polynuclear carbon acid|*": "многоядерные угольные кислоты",
+
   "preferred prefix": "предпочтительный префикс",
   "preferred suffix": "предпочтительный суффикс",
 
@@ -759,6 +775,9 @@
   "substituted [substituent]": "замещённый",
   "substituted [substituent]|s": "замещён",
   "substituted [substituent]|*": "замещённые",
+
+  "substitution": "замещение",
+  "substitution|ro": "замещения",
 
   "subtractive modification": "субтрактивная модификация",
 
