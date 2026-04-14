@@ -225,14 +225,666 @@ ru: &(Functional replacement) =O в «&(carbonic acid|pr)» и «карбами�
 en: Italic letter locants _N_, _N′_ etc. are used to designate substitution on nitrogen atoms.  
 ru: Курсивные буквенные локанты _N_, _N′_ и т. д. используются для обозначения &(substitution|ro) на атомах азота.
 
+@Examples
+
+@cell
+<$ HO-C(=NH)-OH $>
+
+en: carbonimidic acid (PIN) 
+ru: карбон&(imidic acid) (PIN)
+
+@cell
+<$ H2N-C(=NH)-OH $>
+
+en: carbamimidic acid (PIN; retained name) 
+ru: карбам&(imidic acid) (PIN; &(retained name))
+
+@cell
+<$ HO-C(=N-NH2)-OH $>
+
+en: carbonohydrazonic acid (PIN) 
+ru: карбо&(hydrazonic acid) (PIN)
+
+@cell
+<$ HS-C(=NH)-OH $>
+
+en: carbonimidothioic acid (PIN) 
+ru: карбонимидо&(thioic acid) (PIN)
+
+@cell
+<$ H2N-C(=NH)-SH $>
+
+en: carbamimidothioic acid (PIN) 
+ru: карбамимидо&(thioic acid) (PIN)
+
+@cell
+<$ HSe-C(=N-NH2)-SeH $>
+
+en: carbonohydrazonodiselenoic acid (PIN) 
+ru: карбогидразоноди&(selenoic acid) (PIN)
+
+<$ H2N-C(=NH)-OSH $>
+
+en: carbamimido(thioperoxoic) _OS_-acid (PIN) 
+ru: карбамимидо(тиопероксоевая) _OS_-кислота (PIN)
+
+@End
+
+#P-65.2.1.4+
+en: Functional replacement of one of the –OH groups of carbonic acid by various atoms or groups is expressed 
+by the following infixes: fluorido, –F; chlorido, –Cl; bromido, –Br; iodido, <%i%>; azido, <%n3%>; amido, <%nh2%>; cyanido, –CN; 
+isocyanido, –NC; isocyanatido, –NCO; isothiocyanatido, –NCS; isoselenocyanatido, –NCSe; isotellurocyanatido,  
+–NCTe (see P-67.1.2.3.2). 
+ru: &(Functional replacement) одной из групп –ОН угольной кислоты на различные атомы или группы выражается следующими 
+инфиксами: фторид, –F; хлоридо, –Cl; бромидо, –Br; йодидо, <%i%>; азидо, <%n3%>; амидо, <%nh2%>; цианид, –CN; изоцианид, –NC; 
+изоцианатид, –NCO; изотиоцианатид, –NCS; изоселеноцианатид, –NCSe; изотеллуроцианатид, –NCTe (см. P-67.1.2.3.2).
+%n3: <$ {}–N3 $>
+%nh2: <$ {}–NH2 $>
+%i: <$ {}–I $>
+
+en: Italic letter locants _N_, _N′_, etc. are used to designate substitution on nitrogen atoms.
+ru: Курсивные буквенные локанты _N_, _N′_ и т. д. используются для обозначения &(substitution|ro) на атомах азота.
+
+en: Replacement by the <%a%> group results in hydrazinecarboxylic acid and related derivatives (see P-68.3.1.2).
+ru: Замена на группу <%a%> приводит к образованию гидразинкарбоновой кислоты и родственных производных (см. P-68.3.1.2).
+%a: <$ {}–NHNH2 $>
+
+@Examples
+
+@cell
+<$ H2N-CO-OH $>
+
+en: carbamic acid (PIN; retained name)  <br>
+(not carbonamidic acid) 
+ru: карбаминовая кислота (PIN; &(retained name)) <br>
+(не карбоамидная кислота)
+
+@cell
+<$ H2N-C(=NH)-OH $>
+
+en: carbamimidic acid (PIN; retained name)  <br>
+(not carbonamidimidic acid) 
+ru: карбам&(imidic acid) (PIN; &(retained name)) <br>
+(не карбонам&(imidic acid))
+
+@cell
+<$ H2N-CO-SH $>
+
+en: carbamothioic _S_-acid (PIN) 
+ru: карбамо&(thioic [acid]) _S_-кислота (PIN)
+
+@cell
+<$ H2N-C(=NH)-SeH $>
+
+en: carbamimidoselenoic acid (PIN) 
+ru: карбамимидо&(selenoic acid) (PIN)
+
+@cell
+<$ Cl-CO-OH $>
+
+en: carbonochloridic acid (PIN) 
+ru: &(carbonochloridic acid) (PIN) 
+// http://charchem.org/ru/subst-ref/?langs=*&id=3078
+// Русскоязычные варианты: Хлормуравьиная кислота, Хлоругольная кислота, хлоркарбоновая кислота
+// Не найдено русского аналога для "chloridic acid". В русских вариантах "хлор" является префиксом, что противоречит логике данного раздела.
+// Хлорная кислота = Perchloric acid, Хлористая кислота = Chlorous acid. 
+
+@cell
+<$ NC-CO-OH $>
+
+en: carbonocyanidic acid (PIN) 
+ru: &(carbonocyanidic acid) (PIN)
+// Для "cyanidic" тоже нет русских аналогов. Так что перевод здесь возможен только компетентными людьми.
+
+@cell
+<$ N3-CO-OH $>
+
+en: carbonazidic acid (PIN) 
+// здесь тоже нормальных вариантов пока не нащлось
+
+@cell
+<$ SCN-CO-OH $>
+
+en: carbonisothiocyanatidic acid (PIN) 
+ru: карбонизотиоцианатидная кислота (PIN)
+
+@cell
+<$ H2N-NH-CO-OH $>
+
+en: hydrazinecarboxylic acid (PIN)  <br>
+carbonohydrazidic acid  <br>
+(carboxylic acids expressed by suffixes are preferred to carbonic acid analogues;  <br>
+see P-41 and P-68.3.1.2.1) 
+ru: гидразинкарбоновая кислота (PIN) <br>
+карбоногидразидовая кислота <br>
+(карбоновые кислоты, обозначаемые суффиксами, предпочтительнее аналогов &(carbonic acid|ro); <br>
+см. P-41 и P-68.3.1.2.1)
+
+@End
+
+#P-65.2.1.5
+en: Acyl groups derived from carbonic and related acids
+ru: Ацильные группы, полученные из &(carbonic [acid]|ro) и родственных кислот
+
+en: Acyl groups derived from carbonic and related acids, including functional replacement analogues, by the removal of 
+one or two hydroxy groups from the acid are named in accordance with the methodology described in P-65.1.7.2. 
+Names are formed in two ways:
+ru: Ацильные группы, полученные из &(carbonic [acid]|ro) и родственных кислот, включая &(functional replacement analogue|*), 
+путем удаления одной или двух гидроксильных групп из кислоты, именуются в соответствии с методикой, описанной в P-65.1.7.2. 
+Названия образуются двумя способами:
+
+
+@List 1
+
+@item
+en:  Names may be formed by changing the -ic or -oic acid ending of the name of the acid to -yl or -oyl, respectively. 
+Names of acyl groups ending in -yl are exceptions to the general rule (see P-65.1.7.2). This method is the traditional 
+method that consists in removing the two hydroxy groups from carbonic acid or its analogues; it is now 
+recommended to be used also when only one hydroxy group is present in an acid. It is also recommended that 
+divalent acyl groups, such as ‘carbonyl’ represent only the ‘diyl’ type of substituent prefix in which the two free 
+valences are divergent (symbols CO< or –CO–). Substituent prefixes in which both free valences are attached to the 
+same atom are named by substitutive nomenclature, for example, =CO is named oxomethylidene (see P-65.2.1.8); 
+ru: Названия могут быть образованы путем изменения окончания -&(ic [acid]) или -&(oic acid) в названии кислоты на 
+-ил или -оил соответственно. Названия ацильных групп, оканчивающихся на -ил, являются исключением из общего правила 
+(см. P-65.1.7.2). Этот метод является традиционным и заключается в удалении двух гидроксильных групп из &(carbonic acid|ro) 
+или ее аналогов; в настоящее время его рекомендуется использовать также в тех случаях, когда в кислоте присутствует только 
+одна гидроксильная группа. Также рекомендуется, чтобы двухвалентные ацильные группы, такие как «карбонил», представляли 
+только префикс заместителя типа «диил», в котором две свободные валентности расходятся (символы CO< или –CO–). 
+Префиксы заместителей, в которых обе свободные валентности присоединены к одному и тому же атому, называются по 
+&(substitutive nomenclature|pr), например, =CO называется оксометилиденом (см. P-65.2.1.8);
+
+@item
+en: Names may be formed by a concatenation operation, i.e., by adding appropriate monovalent substituent groups 
+to divalent acyl groups such as ‘carbonyl’, ‘carbonothioyl’, and ‘carbonimidoyl’ formed by method (1). 
+ru: Названия могут быть образованы путем конкатенации, т.е. путем добавления соответствующих одновалентных 
+&(substituent group|ro*) к двухвалентным ацильным группам, таким как «карбонил», «карбонотиоил» и «карбонимидоил», 
+образованным методом (1).
+
+@End
+
+en: Names formed by method (1) are preferred IUPAC names; they are preferred to other names for acyl groups, including 
+the use of prefixes rather than infixes or names formed by full or partial concatenation. 
+ru: Названия, образованные методом (1), являются предпочтительными названиями IUPAC; они предпочтительнее других названий 
+ацильных групп, включая использование префиксов вместо инфиксов или названий, образованных путем полного или частичного объединения.
+
+@Examples 2 .cells-align-top
+
+@cell
+<$ HO-CO-OH $>
+
+en: carbonic acid (PIN) 
+ru: &(carbonic acid) (PIN) 
+
+@cell
+<$ {}–CO–{} $>
+
+en: carbonyl (preferred prefix) 
+ru: карбонил (&(preferred prefix))
+
+@cell
+<$ HO-CS-OH $>
+
+en: carbonothioic _O,O_-acid (PIN)
+ru: карбоно&(thioic [acid]) _O,O_-кислота (PIN)
+
+@cell
+<$ {}–CS–{} $>
+
+en: carbonothioyl (preferred prefix)  <br>
+thiocarbonyl 
+ru: карбонотиоил (&(preferred prefix)) <br>
+тиокарбонил
+
+@cell
+<$ HO-C(=NH)-OH $>
+
+en: carbonimidic acid (PIN)
+ru: карбон&(imidic acid) (PIN)
+
+@cell
+<$ {}–C(=NH)–{} $>
+
+en: carbonimidoyl (preferred prefix)
+ru: карбонимидоил (&(preferred prefix))
+
+@cell
+<$ HO-C(=NNH2)-OH $>
+
+en: carbonohydrazonic acid (PIN) 
+ru: карбоно&(hydrazonic acid) (PIN)
+
+@cell
+<$ {}–C(=N-NH2)–{} $>
+
+en: carbonohydrazonoyl (preferred prefix) 
+ru: карбогидразоноил (&(preferred prefix))
+
+@cell
+<$ H2N-CO-OH $>
+
+en: carbamic acid (PIN)
+ru: карбаминовая кислота (PIN)
+
+@cell
+<$ H2N-CO–{} $>
+
+en: carbamoyl (retained name; preferred prefix)  <br>
+aminocarbonyl 
+ru: карбамоил (&(retained name); &(preferred prefix)) <br>
+аминокарбонил
+
+@cell
+<$ H2N-CS-OH $>
+
+en: carbamothioic _O_-acid (PIN)
+ru: карбамо&(thioic [acid]) _O_-кислота (PIN)
+
+@cell
+<$ H2N-CS–{} $>
+
+en: carbamothioyl (retained name; preferred prefix)  <br>
+aminocarbonothioyl 
+ru: карбамотиоил (&(retained name); &(preferred prefix)) <br>
+аминокарбонотиоил
+
+@cell
+<$ H2N-C(=NH)-OH $>
+
+en: carbamimidic acid (PIN)
+ru: карбам&(imidic acid) (PIN)
+
+@cell
+<$ H2N-C(=NH)–{} $>
+
+en: carbamimidoyl– (retained name; preferred prefix)  <br>
+_C_-aminocarbonimidoyl 
+ru: карбамимидоил- (&(retained name); &(preferred prefix)) <br>
+_C_-аминокарбонимидоил
+
+@cell
+<$ Cl-CO-OH $>
+
+en: carbonochloridic acid (PIN) 
+ru: &(carbonochloridic acid) (PIN) 
+
+@cell
+<$ Cl-CO–{} $>
+
+en: carbonochloridoyl (preferred prefix)  <br>
+chlorocarbonyl 
+ru: карбохлоридоил (&(preferred prefix)) <br>
+хлоркарбонил
+
+@cell
+<$ NC-CO-OH $>
+
+en: carbonocyanidic acid (PIN) 
+ru: &(carbonocyanidic acid) (PIN)
+
+@cell
+<$ NC-CO–{} $>
+
+en: carbonocyanidoyl (preferred prefix)  <br>
+cyanocarbonyl 
+ru: карбоцианидоил (&(preferred prefix)) <br>
+цианокарбонил
+
+@cell
+<$ Br-CS-OH $>
+
+en: carbonobromidothioic _O_-acid (PIN)
+ru: карбобромидо&(thioic [acid]) _O_-кислота (PIN)
+
+@cell
+<$ Br-CS–{} $>
+
+en: carbonobromidothioyl (preferred prefix)  <br>
+bromocarbonothioyl 
+ru: карбобромидотиоил (&(preferred prefix)) <br>
+бромокарбонотиоил
+
+@cell
+<$ Cl-C(=NH)-OH $>
+
+en: carbonochloridimidic acid (PIN) 
+ru: карбохлорид&(imidic acid) (PIN)
+
+@cell
+<$ Cl-C(=NH)–{} $>
+
+en: carbonochloridimidoyl (preferred prefix)  <br>
+_C_-chlorocarbonimidoyl 
+ru: карбохлоридимидоил (&(preferred prefix)) <br>
+_C_-хлоркарбокарбонимидоил
+
+@cell
+<$ HOO-CO-OH $>
+
+en: carbonoperoxoic acid (PIN) 
+ru: карбопероксоевая кислота (PIN)
+
+@cell
+<$ HOO-CO–{} $>
+
+en: carbonoperoxoyl (preferred prefix)  <br>
+hydroperoxycarbonyl
+ru: карбонпероксоил (&(preferred prefix)) <br>
+гидропероксикарбонил
+
+@End
+
+#P-65.2.1.6
+en: The prefix ‘carboxy’ and prefixes for chalcogen analogues
+ru: Префикс «карбокси» и префиксы для &(chalcogen analogue|ro*)
+
+en: The prefix ‘carboxy’ for –COOH is a retained prefix. Chalcogen analogues are named by functional replacement 
+nomenclature provided that it is not necessary to specify the location of the chalcogen atom. Specification of chalcogen 
+atoms is accomplished by compound prefixes formed by concatenation. 
+ru: Префикс «карбокси» для –COOH является &(retained prefix|tv). &(Chalcogen analogue|*) называются с использованием 
+&(functional replacement nomenclature|ro) при условии, что нет необходимости указывать местоположение атома халькогена. 
+Указание атомов халькогенов осуществляется с помощью &(compound [prefix]|ro*), образованных путем конкатенации.
+
+@Examples
+
+@cell
+en: <%a%> or <%b%>  
+ru: <%a%> или <%b%>
+%a: <${}–COSH$>
+%b: <${}–CSOH$>
+
+en: thiocarboxy (preferred prefix) 
+ru: тиокарбокси (&(preferred prefix))
+
+@cell
+<$ HS-CO–{} $>
+
+en: sulfanylcarbonyl (preferred prefix) 
+ru: сульфанилкарбонил (&(preferred prefix))
+
+@cell
+<$ HS-CS–{} $>
+
+en: dithiocarboxy (preferred prefix)  <br>
+sulfanylcarbonothioyl 
+ru: дитиокарбокси (&(preferred prefix)) <br>
+сульфанилкарбонотиоил
+
+@cell
+<$ HO-CS–{} $>
+
+en: hydroxycarbonothioyl (preferred prefix) 
+ru: гидроксикарбонотиоил (&(preferred prefix))
+
+@cell
+<$ HOOC-O–{} $>
+
+en: carboxyoxy (preferred prefix) 
+ru: карбоксиокси (&(preferred prefix))
+
+@cell
+<$ HOOC-S–{} $>
+
+en: carboxysulfanyl (preferred prefix) 
+ru: карбоксисульфанил (&(preferred prefix))
+
+@cell
+<$ HOOC-NH–{} $>
+
+en: carboxyamino (preferred prefix) 
+ru: карбоксиамино (&(preferred prefix))
+
+@cell
+<$ HS-CO-O–{} $>
+
+en: (sulfanylcarbonyl)oxy (preferred prefix) 
+ru: (сульфанилкарбонил)окси (&(preferred prefix))
+
+@End
+
+#P-65.2.1.7+
+en: Chalcogen analogues of the ‘carbonoperoxoyl’ prefix, –CO-OOH, are named in three ways: 
+ru: &(Chalcogen analogue|*) с префиксом «карбопероксоил» –CO-OOH называются тремя способами:
+
+@List 1
+
+@item
+en: by using an infix when the position of the chalcogen atoms is not known; 
+ru: с использованием инфикса, когда положение атомов халькогена неизвестно;
+
+@item
+en: by compound prefixes formed by concatenation; 
+ru: с помощью &(compound [prefix]|ro*) префиксов, образованных путем конкатенации;
+
+@item
+en: by thiohydroperoxy prefixes using the italic prefixes _SO_- or _OS_-, as necessary.
+ru: с помощью префиксов тиогидроперокси с использованием курсивных префиксов _SO_- или _OS_-, в зависимости от необходимости.
+
+@End
+
+en: Methods (1) or (2) lead to preferred IUPAC names.  
+ru: Методы (1) или (2) приводят к предпочтительным названиям IUPAC.
+
+@Examples
+
+@cell
+<$ HOS-CSe–{} $>
+
+en: (2) (hydroxysulfanyl)carbonoselenoyl (preferred prefix)  <br>
+(3) (_OS_-thiohydroperoxy)carboselenoyl 
+ru: (2) (гидроксисульфанил)карбоселеноил (&(preferred prefix)) <br>
+(3) (_OS_-тиогидроперокси)карбоселеноил
+
+@cell
+en: <%a%> or <%b%>  
+ru: <%a%> или <%b%>  
+%a: <$ HOS-CO–{} $>
+%b: <$ HSO-CO–{} $>
+
+en: (1) carbono(thioperoxoyl) (preferred prefix)  <br>
+(3) (thiohydroperoxy)carbonyl 
+ru: (1) карбоно(тиопероксиил) (&(preferred prefix)) <br>
+(3) (тиогидроперокси)карбонил
+
+@cell
+<$ HS-O-CO-O–{} $>
+
+en: (2) [(sulfanyloxy)carbonyl]oxy (preferred prefix)  <br>
+(3) [(_SO_-thiohydroperoxy)carbonyl]oxy 
+ru: (2) [(сульфанилокси)карбонил]окси (&(preferred prefix)) <br>
+(3) [(_SO_-тиогидроперокси)карбонил]окси
+
+@cell
+<$ HSS-CO-O–{} $>
+
+en: (2) (disulfanylcarbonyl)oxy (preferred prefix)  <br>
+(3) [(dithiohydroperoxy)carbonyl]oxy 
+ru: (2) (дисульфанилкарбонил)окси (&(preferred prefix)) <br>
+(3) [(дитиогидроперокси)карбонил]окси
+
+@End
+
+#P-65.2.1.8
+en: Names of nonacyl substituent groups derived from carbonic acid 
+ru: Названия неацильных замещающих групп, полученных из &(carbonic acid|ro)
+
+en: Acyl groups derived from carbonic acid and carbonic acids modified by functional replacement are divalent groups with 
+the two free valences belonging to the ‘diyl’ type, such as CO<. When the two free valences are of the ‘ylidene’ type, 
+=C=O for example, names of acyl groups are no longer used to designate such groups; systematic substitutive names 
+are used instead. 
+ru: Ацильные группы, полученные из &(carbonic acid|ro) и &(carbonic acid|ro*), модифицированных путем &(functional replacement|ro), 
+представляют собой двухвалентные группы, у которых две свободные валентности относятся к типу «диил», например, CO<. 
+Когда две свободные валентности относятся к типу «илиден», например, =C=O, названия ацильных групп больше не используются 
+для обозначения таких групп; вместо них используются систематические &(substitutive name|*).
+
+@Examples
+
+@cell
+<$ {}=C=O $>
+
+en: oxomethylidene (preferred prefix) 
+ru: оксометилиден (&(preferred prefix))
+
+@cell
+<$ {}=C=S $>
+
+en: sulfanylidenemethylidene (preferred prefix)  <br>
+thioxomethylidene 
+ru: сульфанилиденметилиден (&(preferred prefix)) <br>
+тиоксометилиден
+
+@cell
+<$ {}=C=NH $>
+
+en: iminomethylidene (preferred prefix)
+ru: иминометилиден (&(preferred prefix))
+
+@cell
+<$ =C=N-NH2 $>
+  
+en: hydrazinylidenemethylidene (preferred prefix)  <br>
+diazanylidenemethylidene 
+ru: гидразинилиденметилиден (&(preferred prefix)) <br>
+диазанилиденметилиден
+
+@End
+
 
 #P-65.2.2
 en: Cyanic acid 
 ru: Циановая кислота
 
+en: Cyanic acid is the retained name for <%a%>. The functional replacement name based on carbonic acid would be 
+carbononitridic acid, but this name has not been used and, although systematic, is only recommended for general 
+nomenclature. Cyanic acid is classified as an acid, thus generating anhydrides (see P-65.7.2) and esters (see P-65.6.3.2). 
+ru: Циановая кислота — это &(retained name) для <%a%>. &(Functional replacement name|tv), основанным на &(carbonic acid|pr), 
+была бы карбонитридная кислота, но это название не используется и, хотя и систематично, рекомендуется только для 
+общей номенклатуры. Циановая кислота классифицируется как кислота, следовательно, образует ангидриды (см. P-65.7.2) 
+и сложные эфиры (см. P-65.6.3.2).
+%a: <$ NC-OH $>
+
+en: Preferred prefixes derived from cyanic acid are ‘cyano’ for –CN and ‘cyanato’ for –O-CN, ‘thiocyanato’ for –S-CN, 
+‘selenocyanato’ for –Se-CN, and ‘tellurocyanato’ for –Te-CN. Functional replacement by –OO–, –S–, –Se–, and –Te– 
+is expressed by the appropriate functional replacement prefix. This exception to the use of infixes in the functional 
+replacement nomenclature applied to the mononuclear inorganic acids (see P-67) is necessary to maintain well 
+entrenched traditional names and their related isocyanates, such as isothiocyanates. Parentheses are used to enclose 
+chalcogen prefixes to avoid the possibility of ambiguity. 
+ru: &(Preferred prefix|tv*), производными от циановой кислоты, являются «циано» для –CN и «цианато» для –O-CN, 
+«тиоцианато» для –S-CN, «селеноцианато» для –Se-CN и «теллуроцианато» для –Te-CN. &(Functional replacement) 
+на –OO–, –S–, –Se– и –Te– выражается соответствующим &(functional replacement prefix|tv). Это исключение из использования 
+инфиксов в &(functional replacement nomenclature), применяемой к моноядерным неорганическим кислотам (см. стр. 67), 
+необходимо для сохранения устоявшихся традиционных названий и связанных с ними изоцианатов, таких как изотиоцианаты. 
+Для заключения префиксов халькогенов в скобки используются обозначения, чтобы избежать неоднозначности.
+
+@Examples 2 .cells-align-top
+
+@cell
+<$ NC-SH $>
+
+en: thiocyanic acid (PIN)  <br>
+carbononitridothioic acid 
+ru: тиоциановая кислота (PIN) <br>
+карбонитридотионовая кислота
+
+@cell
+<$ NC-S–{} $>
+
+en: thiocyanato (preferred prefix)  <br>
+carbononitridoylsulfanyl  <br>
+carbononitridoylthio
+ru: тиоцианато (&(preferred prefix)) <br>
+карбононитридоилсульфанил <br>
+карбононитридоилтио
+
+@cell
+<$ NC-OOH $>
+
+en: peroxycyanic acid (PIN)  <br>
+carbononitridoperoxoic acid 
+ru: пероксициановая кислота (PIN) <br>
+карбонитридпероксоевая кислота
+
+@cell
+<$ NC-OO–{} $>
+
+en: cyanoperoxy (preferred prefix)  <br>
+carbononitridoylperoxy 
+ru: цианоперокси (&(preferred prefix)) <br>
+карбонитридоилперокси
+
+@cell
+<$ NC-SS-H $>
+
+en: dithioperoxycyanic acid (PIN)  <br>
+carbononitrido(dithioperoxoic) acid
+ru: дитиопероксициановая кислота (PIN) <br>
+карбонитридо(дитиопероксиовая) кислота
+
+@cell
+<$ NC-SS–{} $>
+
+en: cyanodisulfanyl (preferred prefix)  <br>
+carbononitridoyldisulfanyl  <br>
+carbononitridoyldithio 
+ru: цианодисульфанил (&(preferred prefix)) <br>
+карбононитридоилдисульфанил <br>
+карбононитридоилдитио
+
+@cell
+<$ NC-CH2-COOH $>
+
+en: cyanoacetic acid (PIN)  <br>
+carbononitridoylacetic acid
+ru: цианоуксусная кислота (PIN) <br>
+карбонитридилацетатная кислота
+
+@cell
+<$ NC-S-CH2-CH2-COOH $>
+
+en: 3-(thiocyanato)propanoic acid (PIN)  <br>
+3-(carbononitridothio)propanoic acid
+ru: 3-(тиоцианато)пропановая кислота (PIN) <br>
+3-(карбонитридотио)пропановая кислота
+
+@End
+
+
+
 #P-65.2.3
 en: Di-, tri-, tetra-, and polycarbonic acids 
 ru: Ди-, три-, тетра- и &(polycarbonic acid|*) 
+
+en: Di-, tri-, tetra-, and polycarbonic acids belong to the series of homopolynuclear acids, whose central atom is carbon. 
+Their generic formula is <%a%>, where _n_ is 2, 3, 4, etc. and they are named by adding a multiplying prefix 
+corresponding to the number of carbon atoms to the name of ‘carbonic acid’ or a functional replacement derivative. The 
+structure is numbered consecutively from one end to the other, starting from and ending at a carbon atom: 
+ru: Ди-, три-, тетра- и &(polycarbonic acid|*) относятся к ряду гомо&(polynuclear acid|ro*), центральным атомом которых 
+является углерод. Их общая формула — <%a%>, где _n_ равно 2, 3, 4 и т. д., и они называются путем добавления умножающего 
+префикса, соответствующего числу атомов углерода, к названию «&(carbonic acid)» или производному функционального замещения. 
+Структура нумеруется последовательно от одного конца к другому, начиная с атома углерода и заканчивая им:
+%a: <$ HO-[CO-O]'n'-H $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(1)-O@n(2)-CO@n(3)-OH
+$>
+
+en: dicarbonic acid (PIN) 
+ru: ди&(carbonic acid) (PIN) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(1)-O@n(2)-CO@n(3)-O@n(4)-CO@n(5)-OH
+$>
+
+en: tricarbonic acid (PIN)
+ru: три&(carbonic acid) (PIN) 
+
+@End
+
 
 // ===================
 

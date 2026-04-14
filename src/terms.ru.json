@@ -125,8 +125,13 @@
   "carbon acid|ro*": "угольных кислот",
 
   "carbonic acid": "угольная кислота",
+  "carbonic acid|ro": "угольной кислоты",
   "carbonic acid|pr": "угольной кислоте",
   "carbonic acid|ro*": "угольных кислот",
+  "carbonic [acid]|ro": "угольной",
+
+  "carbonochloridic acid": "carbonochloridic acid",
+  "carbonocyanidic acid": "carbonocyanidic acid",
 
   "carboximidic [acid]": "карбоксимидная",
   "carboximidic [acid]|ro": "карбоксимидной",
@@ -283,12 +288,19 @@
   "functional parent|ro*": "функциональных родителей",
 
   "functional replacement": "функциональное замещение",
+  "functional replacement|ro": "функционального замещения",
+
+  "functional replacement analogue|*": "аналоги функционального замещения",
+
+  "functional replacement name": "название функционального замещения",
+  "functional replacement name|tv": "названием функционального замещения",
 
   "functional replacement nomenclature": "номенклатура функционального замещения",
   "functional replacement nomenclature|ro": "номенклатуры функционального замещения",
   "functional replacement nomenclature|pr": "номенклатуре функционального замещения",
 
   "functional replacement prefix": "префикс функционального замещения",
+  "functional replacement prefix|tv": "префиксом функционального замещения",
   
   "functional suffix": "функциональный суффикс",
   "functional suffix|*": "функциональные суффиксы",
@@ -382,6 +394,7 @@
   "hydroximic [acid]|ro*": "гидроксимовых",
 
   "ic acid": "ая кислота",
+  "ic [acid]": "ая",
 
   "icos": "эйкоз",
 
@@ -644,9 +657,14 @@
 
   "polycarbonic acid|*": "полиугольные кислоты",
 
+  "polynuclear acid|*": "многоядерные кислоты",
+  "polynuclear acid|ro*": "многоядерных кислот",
+
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",
 
   "preferred prefix": "предпочтительный префикс",
+  "preferred prefix|tv*": "предпочтительными префиксами",
+
   "preferred suffix": "предпочтительный суффикс",
 
   "preselected name": "предварительно выбранное название",
@@ -672,6 +690,8 @@
   "retained name|da*": "сохранённым названиям",
   "retained name|tv*": "сохранёнными названиями",
   "retained name|pr*": "сохранённых названиях",
+
+  "retained prefix|tv": "сохранённым префиксом",
 
   "[ring] assembly|comment": "часто имеет прилагательные, которые сейчас в женском роде. Если изменить на 'ансамбль', то нужно исправлять",
   "[ring] assembly": "сборка",
