@@ -41,7 +41,7 @@ const buildContent = (part, locale, ctx) => {
     const short = doc.shortHeadersMap[headerId];
 
     const loc = short ? short.loc : block.header.loc;
-    const params = short ? short.params : block.params;
+    const params = short ? short.params : block.header.params;
 
     result += `  <li>`;
     result += drawTag("a", {href: ctx.makeRef(headerId)});

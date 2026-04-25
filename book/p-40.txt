@@ -502,21 +502,21 @@ ru: -&(tellurinic acid)
 
 #P-42.2
 en: Class 7b. Carbon acids with no substitutable hydrogen atoms 
-ru: Класс 7b. Углеродные кислоты без замещаемых атомов водорода
+ru: Класс 7b. &(Carbon acid|*) без замещаемых атомов водорода
 
 @Examples --
 
 @cell
 en: polycarbonic acids
-ru: поликарбоновые кислоты  
+ru: &(polycarbonic acid|*)  
 
 @cell
 en: dicarbonic acid  
-ru: диугольная кислота
+ru: ди&(carbonic acid)
 
 @cell
 en: carbonic acid
-ru: угольная кислота  
+ru: &(carbonic acid)  
 
 @cell
 en: cyanic acid

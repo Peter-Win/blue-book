@@ -328,7 +328,7 @@ ru: циклопропил(фтор)ацетонитрил (PIN)
 
 @End
 
-#P-16.5.1.4 +
+#P-16.5.1.4+
 en: Parentheses are placed around substituent groups including the name of a parent hydride in order to 
 avoid any confusion from having two parent hydrides in a substitutive name.
 ru: Круглые скобки ставятся вокруг замещающих групп, включая название исходного гидрида, чтобы избежать путаницы 

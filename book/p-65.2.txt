@@ -885,55 +885,344 @@ ru: три&(carbonic acid) (PIN)
 
 @End
 
+#P-65.2.3.1
+en: Functional replacement for di-, tri-, tetra-, and polynuclear carbon acids
+ru: &(Functional replacement) ди-, три-, тетра- и &(polynuclear carbon acid|ro*)
 
-// ===================
+@Content
 
+#P-65.2.3.1.1
+en: General methodology 
+ru: Общая методология
 
-#P-65.3
-en: Sulfur, selenium, and tellurium acids with chalcogen atoms directly linked to a parent hydride 
-ru: Серные, селеновые и теллуровые кислоты, в которых атомы халькогена непосредственно связаны с &(parent hydride|tv)
+en: Nomenclature for functional analogues of the di-, tri-, tetra-, and polycarbonic acids follows the principles for naming 
+polynuclear inorganic oxo acids (see P-67.2.1). Prefixes are used to indicate functional replacement and the chain is 
+numbered consecutively from one end to the other, starting from and ending at a carbon atom. These prefixes are listed 
+in Table 4.2; they are cited in alphabetical order in front of the retained name of the polyacid, with appropriate locants 
+as required.
+ru: Номенклатура функциональных аналогов ди-, три-, тетра- и &(polycarbonic acid|ro*) соответствует принципам наименования 
+&(polynuclear [acid]|ro*) неорганических оксокислот (см. P-67.2.1). Для обозначения &(functional replacement|ro) используются 
+префиксы, а нумерация цепи производится последовательно от одного конца к другому, начиная с атома углерода и заканчивая им. 
+Эти префиксы перечислены в &[Таблице 4.2]; они приводятся в алфавитном порядке перед сохраненным названием поликислоты с 
+указанием соответствующих локантов по мере необходимости.
 
-#P-65.4
-en: Acyl groups as substituent groups 
-ru: Ацильные группы как &(substituent group|*)
+#P-65.2.3.1.2
+en: Replacement by –OO–, –S–, =S, –Se–, =Se, –Te–, =Te, –NH–, =NH, and <%a%>
+ru: Замена на –OO–, –S–, =S, –Se–, =Se, –Te–, =Te, –NH–, =NH и <%a%>
+%a: <$ {}=NHNH2 $>
 
-#P-65.5
-en: Acyl halides and pseudohalides 
-ru: Ацилгалогениды и псевдогалогениды
+en: Functional replacement of oxygen atom(s), –OH, =O, –O–, is denoted by prefixes, i.e., peroxy for –OO–; thio for –S– 
+or =S; seleno for –Se– or =Se; telluro for –Te– or =Te; imido for –NH– or =NH, and hydrazono for <%a%>. The 
+position of each replaced oxygen atom is denoted by the appropriate numerical locant. 
+ru: Функциональная замена атома(ов) кислорода –OH, =O, –O– обозначается префиксами, например, перокси для –OO–; 
+тио для –S– или =S; селено для –Se– или =Se; теллуро для –Te– или =Te; имидо для –NH– или =NH, и гидразоно для <%a%>. 
+Положение каждого замененного атома кислорода обозначается соответствующим числовым локантом.
+%a: <${}=NHNH2$>
 
+#P-65.2.3.1.2.1+
+en: Superscripted italic letter locants <%n%>, etc. are used to designate substitution on nitrogen atoms that are 
+not amide linkages that are part of the chain for which arabic numbers are used as locants. 
+ru: Надстрочные курсивные буквы <%n%> и т. д. используются для обозначения замещения на атомах азота, не являющихся 
+амидными связями в цепи, для которой в качестве локантов используются арабские цифры.
+%n: _N_^{2}, _N_^{3}
 
-#P-65.6
-en: Salts and esters 
-ru: Соли и сложные эфиры
+@p .framed
+en: This is a change. Primed letter locants, <%n%>, etc. were previously used as locants for nitrogen atoms that are 
+not amide linkages that are part of the chain for which arabic numbers are used as locants. 
+ru: Это изменение. Ранее в качестве локантов для атомов азота, не являющихся амидными связями в цепи, для которых в качестве 
+локантов использовались арабские цифры, использовались локанты, обозначенные штрихованными буквами <%n%> и т. д.
+%n: _N′_, _N′′_, _N′′′_
 
-#P-65.7
-en: Anhydrides and their analogues 
-ru: Ангидриды и их аналоги
+@Examples
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(1)-S@n(2)-CO@n(3)-OH
+$>
 
+en: 2-thiodicarbonic acid (PIN) 
+ru: 2-тиоди&(carbonic acid) (PIN)
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(1)-NH@n(2)-CO@n(3)-OH
+$>
 
+en: 2-imidodicarbonic acid (PIN)
+ru: 2-имидоди&(carbonic acid) (PIN)
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(1)-OO@n(2)-CO@n(3)-OH
+$>
 
+en: 2-peroxydicarbonic acid (PIN)
+ru: 2-пероксиди&(carbonic acid) (PIN)
 
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(1,90)<`||mNH@n(\textit{N})>-O@n(2)-C@n(3)(O)-OH
+$>
 
+en: 1-imidodicarbonic acid (PIN)
+ru: 1-имидоди&(carbonic acid) (PIN)
 
-#P-66
-en: Amides, imides, hydrazides, nitriles, and aldehydes 
-ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-C@n(1)<`||mNH@n(\textit{N}^1,-75)>-O@n(2)-C@n(3)<`||mNH@n(\textit{N}^3,-75)>-OH
+$>
 
-#P-67
-en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
-parents for naming organic compounds 
-ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
-для наименования органических соединений
+en: 1,3-diimidodicarbonic acid (PIN) 
+ru: 1,3-диимидоди&(carbonic acid) (PIN)
 
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nn(n)@n(\textit{N}^&n,-75)@;
+HO-C@n(1)<`||mNH@nn(1)>-NH@n(2)-C@n(3)<`||mNH@nn(3)>-NH@n(4)-C@n(5)<`||NH@nn(5)>-OH
+$>
 
+en: 1,2,3,4,5-pentaimidotricarbonic acid (PIN)
+ru: 1,2,3,4,5-пентаимидотри&(carbonic acid) (PIN)
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nn(n)@n(\textit{N}^&n,-75)@; @:li(n)C@n(&n)<`||mNH@nn(&n)>@;
+HO-@li(1)-NH@n(2)-@li(3)-NH@n(4)-@li(5)-NH@n(6)-@li(7)-OH
+$>
+
+en: 1,2,3,4,5,6,7-heptaimidotetracarbonic acid (PIN) 
+ru: 1,2,3,4,5,6,7-гептамидотетра&(carbonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CO@n(3)-O@n(2)-CO@n(1)-OOH
+$>
+
+en: 1-peroxydicarbonic acid (PIN)
+ru: 1-пероксиди&(carbonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOO-CO@n(1)-O@n(2)-CO@n(3)-OOH
+$>
+
+en: 1,3-diperoxydicarbonic acid (PIN)
+ru: 1,3-дипероксиди&(carbonic acid) (PIN)
+
+@End
+
+#P-65.2.3.1.2.2+
+en: When necessary, letter locants _O_, _S_, _Se_, and _Te_ are used, as appropriate, to designate the position of a 
+chalcogen atom replacing oxygen in –OH or =O groups. Superscripted letter locants, such as <%a%>, and <%b%>, are 
+placed before the term ‘acid’ as needed. 
+ru: При необходимости используются буквенные локанты _O_, _S_, _Se_ и _Te_ для обозначения положения атома халькогена, 
+замещающего кислород в группах –OH или =O. Надстрочные буквенные локанты, такие как <%a%> и <%b%>, ставятся перед термином 
+«кислота» по мере необходимости.
+%a: _O_^{_x_}, _S_^{_x_}, _Se_^{_x_}
+%b: _Te_^{_x_}
+
+@p .framed
+en: The use of superscripted letter locants is a change from previous practice where numerical locants were placed in 
+front of the letter locants such as 1-_O_ and 3-_O_, as described in ref. 1, Rule C-213.1. 
+ru: Использование надстрочных буквенных локантов является изменением по сравнению с предыдущей практикой, когда перед 
+буквенными обозначениями локантов ставились числовые локанты, такие как 1-_O_ и 3-_O_, как описано в ссылке 1, 
+Правило C-213.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CS@n(3)-O@n(2)-CS@n(1)-SH
+$>
+
+en: 1,1,3,3-tetrathiodicarbonic acid (PIN) 
+ru: 1,1,3,3-тетратиоди&(carbonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CS@n(1)-S@n(2)-CS@n(3)-SH
+$>
+
+en: pentathiodicarbonic acid (PIN) 
+ru: пентатиоди&(carbonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:os()_(x.75,N0)$padding(0.05){{{}<_(y-.6,N0)O><_(y.6,N0)S>}}_(x.75,N0)@;
+H@os()C@n(1)-O@n(2)-C@n(3)@os()H
+$>
+
+en: 1,3-dithiodicarbonic acid (PIN;  <br>
+the location of the sulfur atoms is unknown) 
+ru: 1,3-дитиоди&(carbonic acid) (PIN; <br>
+местоположение атомов серы неизвестно)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-CO@n(1)-O@n(2)-CO@n(3)-SH
+$>
+
+en: 1,3-dithiodicarbonic <%s%>-acid (PIN) 
+ru: 1,3-дитиоди&(carbonic [acid]) <%s%>-кислота (PIN)
+%s: _S_^{1},_S_^{3}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CS@n(1)-O@n(2)-CS@n(3)-OH
+$>
+
+en: 1,3-dithiodicarbonic <%o%>-acid (PIN) 
+ru: 1,3-дитиоди&(carbonic [acid]) <%o%>-кислота (PIN)
+%o: _O_^{1},_O_^{3}
+
+@End
+
+#P-65.2.3.1.2.3+
+en: Compound substituent groups may have to be used to name chalcogen analogues when the location of 
+chalcogen atoms is not known.  
+ru: В тех случаях, когда местоположение атомов халькогена неизвестно, для наименования &(chalcogen analogue|ro*) могут 
+потребоваться &(compound substituent group|*).
+
+@Examples 2
+
+@cell
+<$ H{{{S/O}}}C-O-CO-SH $>
+
+@cell
+en: [(thiocarboxy)oxy]methanethioic _S_-acid (PIN)
+ru: [(тиокарбокси)окси]метан&(thioic [acid]) _S_-кислота (PIN)
+
+@cell
+<$ H{{{S/O}}}C-O-CS-OH $>
+
+@cell
+en: [(thiocarboxy)oxy]methanethioic _O_-acid (PIN)  
+ru: [(тиокарбокси)окси]метан&(thioic [acid]) _O_-кислота (PIN)
+
+@End
+
+#P-65.2.3.1.3
+en: Replacement by halides and pseudohalides 
+ru: Замена галогенидами и псевдогалогенидами
+
+en: Prefixes bromo for –Br, chloro for –Cl, fluoro for –F, iodo for –I , azido for <%n3%>, isocyano for –NC, and 
+isocyanato for –NCO (and chalcogen analogues) are used to indicate functional replacement. 
+ru: Приставки бромо для –Br, хлоро для –Cl, фтор для –F, йодо для –I, азидо для <%n3%>, изоциано для –NC и 
+изоцианато для –NCO (и &(chalcogen analogue|ro*)) используются для обозначения &(functional replacement|ro).
+%n3: <${}–N3$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CO@n(1)-O@n(2)-CO@n(3)-OH
+$>
+
+en: chlorodicarbonic acid (PIN)
+ru: хлорди&(carbonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OCN-CO@n(1)-NH@n(2)-CO@n(3)-OH
+$>
+
+en: 2-imido-1-isocyanatodicarbonic acid  <br>
+(locants are used to avoid ambiguity) 
+ru: 2-имидо-1-изоцианатоди&(carbonic acid) <br>
+(для предотвращения неоднозначности используются локанты)
+
+@End
+
+#P-65.2.3.1.4
+en: Replacement by <%a%> and <%b%> groups
+ru: Замена группами <%a%> и <%b%>
+%a: <${}–NH2$>
+%b: <${}–NHNH2$>
+
+en: The prefixes amido and hydrazido are used to indicate functional replacement by <%a%> and <%b%> groups, 
+respectively. Italic letter locants <%n%>, etc. are used to designate substitution on nitrogen atoms that are not amide 
+linkages for which numerical locants are used. 
+ru: Префиксы амидо и гидразидо используются для обозначения &(functional replacement|ro) группами <%a%> и <%b%> 
+соответственно. Курсивные буквенные локанты <%n%> и т. д. используются для обозначения &(substitution|ro) на атомах азота, 
+не являющихся амидными связями, для которых используются числовые локанты.
+%a: <${}–NH2$>
+%b: <${}–NHNH2$>
+%n: _N_, _N′_
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N})-CO@n(1)-S@n(2)-COOH@n(3)
+$>
+
+en: 1-amido-2-thiodicarbonic acid (PIN) 
+ru: 1-амидо-2-тиоди&(carbonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N′})-NH@n(\textit{N})-CO@n(1)-NH@n(2)-CO@n(3)-NH@n(4)-COOH@n(5)
+$>
+
+en: 1-hydrazido-2,4-diimidotricarbonic acid (PIN) 
+ru: 1-гидразидо-2,4-диимидотри&(carbonic acid) (PIN)
+
+@End
+
+#P-65.2.3.1.5
+en: Substituent groups derived from di-, tri-, tetra-, and polycarbonic acids 
+ru: &(Substituent group|*), полученные из ди-, три-, тетра- и &(polycarbonic acid|ro*)
+
+en: Names of substituent groups are formed by substitution or concatenation as required. 
+ru: Названия &(substituent group|ro*) образуются путем &(substitution|ro) или конкатенации в зависимости от необходимости.
+
+@Examples
+
+@cell
+<$ HOOC-O-CO–{} $>
+
+en: (carboxyoxy)carbonyl (preferred prefix)  <br>
+[not (carboxyoxy)formyl] 
+ru: (карбоксиокси)карбонил (&(preferred prefix)) <br>
+[не (карбоксиокси)формил]
+
+@cell
+<$ HS-CS-S-CS–{} $>
+
+en: [(dithiocarboxy)sulfanyl]carbonothioyl (preferred prefix)  <br>
+[(sulfanylcarbonothioyl)sulfanyl]carbonothioyl  <br>
+[sulfanyl(thiocarbonyl)sulfanyl](thiocarbonyl)  <br>
+{not [(dithiocarboxy)sulfanyl]thioformyl} 
+ru: [(дитиокарбокси)сульфанил]карбонотиоил (предпочтительный префикс) <br>
+[(сульфанилкарбонотиоил)сульфанил]карбонотиоил <br>
+[сульфанил(тиокарбонил)сульфанил](тиокарбонил) <br>
+{не [(дитиокарбокси)сульфанил]тиоформил}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH|\|`//`\`||/@n(1,-30)\@n(2,30)_q6CO-O-COOH
+$>
+
+en: 2-[(carboxyoxy)carbonyl]benzoic acid (PIN) 
+ru: 2-[(карбоксиокси)карбонил]бензойная кислота (PIN)
+
+@End

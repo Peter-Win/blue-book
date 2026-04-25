@@ -1,0 +1,565 @@
+#P-65.5
+en: Acyl halides and pseudohalides 
+ru: Ацилгалогениды и псевдогалогениды
+
+@Content
+
+#P-65.5.1
+en: Acyl halides from suffix acids 
+ru: Ацилгалогениды, образованные из кислотных суффиксов
+
+en: Acyl halides in which hydroxy groups of all acid groups expressed as the suffix denoting the principal characteristic 
+group (carboxylic, sulfonic, sulfinic, selenonic, etc. acids) have been replaced by halogen atoms (F, Cl, Br, and I) are 
+named by citing the name of the acyl group (see P-65.1.7) followed by the name(s) of the specific class(es) as a separate 
+word(s), in alphabetical order, each preceded by a multiplicative prefix, as needed. 
+ru: Ацилгалогениды, в которых гидроксильные группы всех кислотных групп, выраженных в виде суффикса, обозначающего основную 
+&(characteristic group|vi) (карбоновые, &(sulfonic [acid]|*), &(sulfinic [acid]|*), &(selenonic [acid]|*) и др. кислоты), 
+заменены атомами галогена (F, Cl, Br и I), называются путем указания названия ацильной группы (см. P-65.1.7) с последующим 
+названием (названиями) конкретного класса (классов) в алфавитном порядке, причем каждому названию, при необходимости, 
+предшествует мультипликативный префикс.
+
+@Table 6.3
+en: Acyl halide and pseudohalide classes 
+ru: Классы ацилгалогенидов и псевдогалогенидов
+
+@th
+
+@th
+en: Halide
+ru: Галогенид
+
+@th
+en: Prefix
+ru: Префикс
+
+@th .empty-column
+
+@th
+
+@th
+en: Pseudohalide
+ru: Псевдогалогенид
+
+@th
+en: Prefix
+ru: Префикс
+
+@td
+–F
+
+@td
+en: fluoride
+ru: фторид
+
+@td
+en: fluoro
+ru: фторо
+
+@td
+
+@td
+<$ –N3 $>
+
+@td
+en: azide
+ru: азид
+
+@td
+en: azido
+ru: азидо
+
+// -----------
+
+@td
+–Cl
+
+@td
+en: chloride
+ru: хлорид
+
+@td
+en: chloro
+ru: хлоро
+
+@td
+
+@td
+–CN
+
+@td
+en: cyanide
+ru: цианид
+
+@td
+en: cyano
+ru: циано
+
+// ----------
+
+@td
+–Br
+
+@td
+en: bromide
+ru: бромид
+
+@td
+en: bromo
+ru: бромо
+
+@td
+
+@td
+–NC
+
+@td
+en: isocyanide
+ru: изоцианид
+
+@td
+en: isocyano
+ru: изоциано
+
+// ----------
+
+@td
+–I
+
+@td
+en: iodide
+ru: йодид
+
+@td
+en: iodo
+ru: йодо
+
+@td
+
+@td
+–NCO
+
+@td
+en: isocyanate
+ru: изоцианат
+
+@td
+en: isocyanato
+ru: изоцианато
+
+@td colspan=3
+
+@td
+
+@td
+–NCS
+
+@td
+en: isothiocyanate
+ru: изотиоцианат
+
+@td
+en: isothiocyanato
+ru: изотиоцианато
+
+@td colspan=3
+
+@td
+
+@td
+–NCSe
+
+@td
+en: isoselenocyanate
+ru: изоселеноцианат
+
+@td
+en: isoselenocyanato
+ru: изоселеноцианато
+
+@td colspan=3
+
+@td
+
+@td
+–NCTe
+
+@td
+en: isotellurocyanate
+ru: изотеллуроцианат
+
+@td
+en: isotellurocyanato
+ru: изотеллуроцианато
+
+@EndTable
+
+en: The names formyl, acetyl, benzoyl, oxalyl, and oxamoyl are retained as preferred prefixes. 
+ru: В качестве &(preferred prefix|ro*) сохранены названия формил, ацетил, бензоил, оксалил и оксамоил.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(2)-CO@n(1)-Cl
+$>
+
+en: acetyl chloride (PIN) 
+ru: ацетилхлорид (PIN)
+
+@cell
+<$ HCO-Br $>
+
+en: formyl bromide (PIN)
+ru: формилбромид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)@:ch(n)-CH2@n(&n)@(5)@ch(4)@ch(3)@ch(2)-CO@n(1)-F
+$>
+
+en: hexanoyl fluoride (PIN)
+ru: гексаноилфторид (PIN)
+
+@cell
+<$ |`/`\`|/\_q6C<-Cl>`||NH $>
+
+en: cyclohexanecarboximidoyl chloride (PIN) 
+ru: циклогексанкарбоксимидоилхлорид (PIN)
+
+@cell
+<$ |`//`\`||/\\_q6SO-Cl $>
+
+en: benzenesulfinyl chloride (PIN) 
+ru: бензолсульфинилхлорид (PIN)
+
+@cell
+<$ |`/`\`|/\_q6C<`||S>-Cl $>
+
+en: cyclohexanecarbothioyl chloride (PIN)
+ru: циклогексанкарботиоилхлорид (PIN)
+
+@cell
+<$ |`//`\`||/\\_q6SeO-Cl $>
+
+en: benzeneseleninyl chloride (PIN) 
+ru: бензолселенинилхлорид (PIN)
+
+@cell
+<$ Cl-CO-CH2-CO-Cl $>
+
+en: propanedioyl dichloride (PIN)  <br>
+malonyl dichloride 
+ru: пропандиоил дихлорид (PIN) <br>
+малонил дихлорид
+
+@cell
+<$ Cl-CO-CO-Cl $>
+
+en: oxalyl dichloride (PIN)  <br>
+ethanedioyl dichloride 
+ru: оксалилдихлорид (PIN) <br>
+этандиоилдихлорид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-C`O-@n(1,-120)//-\\@n(4,-60)<`/`=`\>-CO-Cl
+$>
+
+en: benzene-1,4-dicarbonyl dichloride (PIN)  <br>
+terephthaloyl dichloride
+ru: бензол-1,4-дикарбонилдихлорид (PIN) <br>
+терефталоилдихлорид
+
+@cell
+<$ Br-O2S-CH2-CH2-SO2-Br $>
+
+en: ethane-1,2-disulfonyl dibromide (PIN) 
+ru: этан-1,2-дисульфонилдибромид (PIN)
+
+@cell
+<$ Br-CO-CH2-CH2-CO-Cl $>
+
+en: butanedioyl bromide chloride (PIN)  <br>
+succinyl bromide chloride 
+ru: бутандиоилбромида хлорид (PIN) <br>
+сукцинилбромида хлорид
+
+@cell
+<$ H2N-CO-CO-Br $>
+
+en: oxamoyl bromide (PIN) 
+ru: оксамоилбромид (PIN)
+
+@End
+
+
+#P-65.5.2
+en: Acyl pseudohalides from suffix acids 
+ru: Ацилпсевдогалогениды, образованные из кислотных суффиксов
+
+#P-65.5.2.1+
+en: Acyl pseudohalides in which hydroxy groups of all acid groups expressed as the suffix denoting the principal 
+characteristic group (carboxylic, sulfonic, sulfinic, selenonic, etc. acids) have been replaced by pseudohalogen groups 
+<%a%> are named by citing the name of the acyl group (see P-65.1.7) followed by the 
+name(s) of the class(es) as separate words, preceded by a multiplicative prefix, as needed. When a choice has to be 
+made, the senior pseudohalide group is chosen in accordance with the decreasing order of seniority: <%b%>. 
+Halogen atoms are senior to pseudohalogen groups. 
+ru: Ацилпсевдогалогениды, в которых гидроксильные группы всех кислотных групп, выраженных в виде суффикса, обозначающего 
+основную &(characteristic group|vi) (карбоновые, &(sulfonic [acid]|*), &(sulfinic [acid]|*), &(selenonic [acid]|*) и др. 
+кислоты), заменены псевдогалогенными группами <%a%>, называются путем указания названия ацильной группы (см. P-65.1.7) 
+с последующим названием (названиями) класса (классов) в виде отдельных слов, перед которыми, при необходимости, ставится 
+мультипликативный префикс. При необходимости выбора, старшая псевдогалогенная группа выбирается в порядке убывания старшинства: 
+<%b%>. Атомы галогенов имеют более высокое старшинство, чем псевдогалогенные группы.
+%a: (<$N3$>, CN, NC, NCO, NCS, NCSe, NCTe)
+%b: <$N3$> > CN > NC > NCO > NCS > NCSe > NCTe
+
+en: The names formyl, acetyl, benzoyl, oxalyl, and oxamoyl are retained to generate preferred IUPAC names. 
+ru: Для формирования предпочтительных названий по номенклатуре IUPAC сохранены названия формил, ацетил, бензоил, оксалил и оксамоил.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-CN
+$>
+
+en: butanoyl cyanide (PIN)  <br>
+butyryl cyanide 
+ru: бутаноилцианид (PIN) <br>
+бутирилцианид
+
+@cell
+<$ SCN-CO-CO-NCS $>
+
+en: oxalyl diisothiocyanate (PIN) 
+ru: оксалилдиизотиоцианат (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CN-CO@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-NCS
+$>
+
+en: butanedioyl isocyanide isothiocyanate (PIN) 
+ru: бутандиоил изоцианид изотиоцианат (PIN)
+
+@End
+
+#P-65.5.3
+en: Acyl halides and pseudohalides from carbonic, cyanic, and polycarbonic acids 
+
+#P-65.5.3.1+
+en: Acyl groups derived from carbonic acid, carbamic acid, and related acids, such as ‘carbonyl’ from carbonic 
+acid, ‘carbamoyl’ from carbamic acid, and ‘carbamimidoyl’ from carbamimidic acid are used to form the names of the 
+corresponding acyl halides. 
+ru: Ацильные группы, образованные от &(carbonic acid|ro), карбаминовой кислоты и родственных кислот, такие как «карбонил» от 
+&(carbonic acid|ro), «карбамоил» от карбаминовой кислоты и «карбамимидоил» от карбам&(imidic acid|ro), используются для 
+образования названий соответствующих ацилгалогенидов.
+
+@Examples
+
+@cell
+<$ Cl-CO-Cl $>
+
+en: carbonyl dichloride (PIN) 
+ru: дихлорид карбонила (PIN)
+// Текущий вариант перевода получен автопереводом. Как будто ИИ знает правила формирования таких названия в русском языке
+// Но я пока этих правил не выяснил.
+
+@cell
+<$ Br-CO-Cl $>
+
+en: carbonyl bromide chloride (PIN)  <br>
+(not carbonobromidic chloride) 
+ru: хлорид бромида карбонила (PIN) <br>
+(не хлорид бромида карбонила)
+
+@cell
+<$ N3-C<-F>`||mN-CH3 $>
+
+en: _N_-methylcarbonazidimidoyl fluoride (PIN)
+ru: _N_-метилкарбоназидимидоилфторид (PIN)
+
+@cell
+<$ NC-CO-Cl $>
+
+en: carbonocyanidoyl chloride (PIN) 
+ru: карбоцианидоилхлорид (PIN)
+
+@cell
+<$ H2N-CO-NCO $>
+
+en: carbamoyl isocyanate (PIN)
+ru: карбамоил изоцианат (PIN) 
+
+@End
+
+#P-65.5.3.2+
+en: As there is no acyl group derived from di- and polycarbonic acids, names for acyl halides derived from these 
+acids are formed by using the name of the acid followed by the name(s) of the halides (see P-67.2.3 for the same 
+methodology applied to inorganic polyacids). 
+ru: Поскольку в ди- и &(polycarbonic acid|pr*) отсутствует ацильная группа, названия ацилгалогенидов, полученных из этих 
+кислот, образуются путем добавления названия кислоты, за которым следует название (названия) галогенидов (см. P-67.2.3, 
+где описана та же методика, применяемая к неорганическим поликислотам).
+
+@Examples
+
+@cell
+<$ Cl-CO-O-CO-Cl $>
+
+en: dicarbonic dichloride (PIN) 
+ru: дикарбонат дихлорид (PIN)
+// ??? здесь и далее до конца примера: Автоперевод во всех случаях был разный, что говорит о том, что ИИ не знает точных правил
+// Я выбрал дикарбонат, т.к. это мне показалось наиболее логичным.
+// Хотя возможен вариант: диугольной кислоты хлорид, но это длинновато, да и нет в оригинале слова acid
+// Так же возможно: хлорид диугольной кислоты, но это не соответствует правилам ИЮПАК. И возможно только если есть 
+// соответствующие правила для русскоязычного варианта, о которых мне пока не известно.
+
+@cell
+<$ Cl-CO-O-CO-Br $>
+
+en: dicarbonic bromide chloride (PIN) 
+ru: дикарбонат бромид хлорид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CO@n(1)-NH@n(2)-CO@n(3)-Cl
+$>
+
+en: 2-imidodicarbonic dichloride (PIN)
+ru: 2-имидодикарбонат дихлорид (PIN)
+
+@cell
+<$ OCN-CO-O-CO-NCO $>
+
+en: dicarbonic diisocyanate (PIN)
+ru: дикарбонат диизоцианат (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-C@n(1)(=NH:a)-NH@n(2)-CO@n(3)-S@n(4)-C@n(5)(S)-Br; #a@n(N)
+$>
+
+en: 1,2-diimido-4,5-dithiotricarbonic 5-bromide 1-chloride (PIN) 
+ru: 1,2-диимидо-4,5-дитиотрикарбонат 5-бромид 1-хлорид (PIN)
+
+@End
+
+#P-65.5.3.3+
+en: Acyl halides and pseudohalides from cyanic acid are formed in two ways:
+ru: Ацилгалогениды и псевдогалогениды из циановой кислоты образуются двумя способами:
+
+@List 1
+
+@item
+en: as acyl halides or pseudohalides of carbononitridic acid; 
+ru: в виде ацилгалогенидов или псевдогалогенидов &(carbononitridic acid|ro);
+
+@item
+en: by citing the name of the halide or pseudohalide after the name of the acid. 
+ru: путём &(citation|ro) названия галогенида или псевдогалогенида после названия кислоты.
+
+@End
+
+en: Method (1) generates preferred IUPAC names. 
+ru: Метод (1) генерирует предпочтительные названия IUPAC.
+
+@Examples
+
+@cell
+<$ NC-Cl $>
+
+en: carbononitridic chloride (PIN)  <br>
+cyanic chloride 
+ru: &(carbononitridic [anion]) хлорид (PIN)  <br>
+циановый хлорид
+
+@cell
+<$ NC-N3 $>
+  
+en: carbononitridic azide (PIN)  <br>
+cyanic azide 
+ru: &(carbononitridic [anion]) азид (PIN)  <br>
+циановый азид
+
+@End
+
+
+#P-65.5.4
+en: Acyl halides and pseudohalides as substituent groups 
+ru: Ацилгалогениды и псевдогалогениды как &(substituent group|*)
+
+en: When another group is present that has priority for citation as principal group or when attached to another substituting 
+group, an acyl halide or pseudohalide is expressed: 
+ru: Если присутствует другая группа, имеющая приоритет при &(citation|pr) в качестве основной группы, или если она 
+присоединена к другой &(substituting group|pr), то обозначается ацилгалогенид или псевдогалогенид:
+
+@List 1
+
+@item
+en: by a prefix formed from the name of the acid, for example, ‘carbonochloridoyl’; 
+ru: с помощью префикса, образованного от названия кислоты, например, «карбонохлоридоил»;
+
+@item
+en: by a compound prefix composed of a halo or halogeno prefix and an appropriate divalent acyl group, such as 
+‘sulfonyl’, for example, fluorosulfonyl; 
+ru: с помощью &(compound [prefix]|ro) префикса, состоящего из префикса галогена или галогена и соответствующей 
+двухвалентной ацильной группы, такой как «сульфонил», например, фторсульфонил;
+
+@item
+en: at the end of an acyclic carbon chain by a prefix denoting the halide or pseudohalide group and the prefix ‘oxo’, 
+or a chalcogen analogue of oxo, such as sulfanylidene. 
+ru: в конце ациклической углеродной цепи с помощью префикса, обозначающего галогенидную или псевдогалогенидную группу, 
+и префикса «оксо», или халькогенного аналога оксо, такого как сульфанилиден.
+
+@End
+
+en: Method (1) leads to preferred IUPAC names when the suffix ‘-carboxylic acid’ is used to name the corresponding acid; 
+method (3) generates preferred IUPAC names for acyclic carbon chains. 
+ru: Метод (1) приводит к предпочтительным названиям по номенклатуре IUPAC, если для названия соответствующей кислоты 
+используется суффикс «-карбоновая кислота»;
+метод (3) генерирует предпочтительные названия по номенклатуре IUPAC для ациклических углеродных цепей.
+
+// ==============================
+
+#P-65.6
+en: Salts and esters 
+ru: Соли и сложные эфиры
+
+#P-65.7
+en: Anhydrides and their analogues 
+ru: Ангидриды и их аналоги
+
+
+
+
+
+
+
+
+
+#P-66
+en: Amides, imides, hydrazides, nitriles, and aldehydes 
+ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

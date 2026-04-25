@@ -1,0 +1,905 @@
+#P-65.3
+en: Sulfur, selenium, and tellurium acids with chalcogen atoms directly linked to a parent hydride 
+ru: Серные, селеновые и теллуровые кислоты, в которых атомы халькогена непосредственно связаны с &(parent hydride|tv)
+
+@Content
+
+%P-65.3.0
+en: Introduction
+ru: Введение
+
+#P-65.3.0+
+en: Introduction. The following acids are included in this section: 
+ru: Введение. В этом разделе рассматриваются следующие кислоты:
+
+@Examples 2 --
+
+@cell
+<$ {R}-SO3H $>
+
+@cell
+en: sulfonic acids
+ru: &(sulfonic acid|*)
+
+@cell
+<$ {R}-SeO3H $>
+
+@cell
+en: selenonic acids  
+ru: &(selenonic acid|*)
+
+@cell
+<$ {R}-TeO3H $>
+
+@cell
+en: telluronic acids  
+ru: &(telluronic acid|*)
+
+@cell
+<$ {R}-SO2H $>
+
+@cell
+en: sulfinic acids  
+ru: &(sulfinic acid|*)
+
+@cell
+<$ {R}-SeO2H $>
+
+@cell
+en: seleninic acids  
+ru: &(seleninic acid|*)
+
+@cell
+<$ {R}-TeO2H $>
+
+@cell
+en: tellurinic acids 
+ru: &(tellurinic acid|*)
+
+@End
+
+@Table 6.2 .left-aligned-cells
+en: Suffixes and prefixes used to denote sulfur, selenium, and tellurium acids with chalcogen atoms directly linked 
+to a parent 
+ru: Суффиксы и префиксы, используемые для обозначения серных, селеновых и теллуровых кислот, в которых атомы халькогена 
+непосредственно связаны с &(parent compound|tv).
+
+@th
+en: Group
+ru: группа
+
+@th
+en: Preselected Suffix
+ru: &(Preselected Suffix)
+
+@th
+en: Preselected Prefix
+ru: &(Preselected Prefix)
+
+@td
+<$ {}–SO2-OH $>
+
+@td
+en: sulfonic acid 
+ru: &(sulfonic acid)
+
+@td
+en: sulfo
+ru: сульфо
+
+@td
+<$ {}–S(O)-OH $>
+
+@td
+en: sulfinic acid 
+ru: &(sulfinic acid)
+
+@td
+en: sulfino
+ru: сульфино
+
+@td
+<$ {}–SeO2-OH $>
+
+@td
+en: selenonic acid 
+ru: &(selenonic acid)
+
+@td
+en: selenono
+ru: селеноно
+
+@td
+<$ {}–Se(O)-OH $>
+
+@td
+en: seleninic acid 
+ru: &(seleninic acid)
+
+@td
+en: selenino 
+ru: селенино
+
+@td
+<$ {}–TeO2-OH $>
+
+@td
+en: telluronic acid 
+ru: &(telluronic acid)
+
+@td
+en: tellurono 
+ru: теллуроно
+
+@td
+<$ {}–Te(O)-OH $>
+
+@td
+en: tellurinic acid 
+ru: &(tellurinic acid)
+
+@td 
+en: tellurino 
+ru: теллурино
+
+@EndTable
+
+#P-65.3.1
+en: Substitutive nomenclature, suffix mode, for sulfonic, sulfinic, etc., acids
+ru: &(Substitutive nomenclature), суффиксный способ обозначения &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и т. д. кислот
+
+@Content
+
+en: Sulfonic, sulfinic, etc., acids are named substitutively by adding an appropriate suffix listed in Table 6.2 to the name of 
+a parent hydride name. Multiplying prefixes ‘di’, ‘tri’, ‘tetra’, etc. are used to denote multiplicity of suffixes. The name 
+‘sulfanilic acid’ is not retained. 
+ru: &(Sulfonic [acid]|*), &(sulfinic [acid]|*) и т. д. кислоты называются замещающим образом путем добавления соответствующего 
+суффикса, указанного в &[Таблице 6.2], к названию исходного гидрида. Для обозначения кратности суффиксов используются 
+умножающиеся префиксы «ди», «три», «тетра» и т. д. Название «сульфаниловая кислота» не сохраняется.
+
+@Examples
+
+@cell
+<$ C6H5-SO2-OH $>
+
+en: benzenesulfonic acid (PIN) 
+ru: бензолсульфоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH@n(2,90)<-CH3@n(1)>_(y-1.1)SO-OH
+$>
+
+en: butane-2-sulfinic acid (PIN)
+ru: бутан-2-&(sulfinic acid) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3`|/`/@n(4,150)`\`||/<`|SO2-OH>@n(1,-30)\\|@n(3,-30)_q6SO2-OH
+$>
+
+en: 4-methylbenzene-1,3-disulfonic acid (PIN)  <br>
+(not toluene-2,4-disulfonic acid) 
+ru: 4-метилбензол-1,3-дисульфоновая кислота (PIN) <br>
+(не толуол-2,4-дисульфоновая кислота)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`\\`/`\\`/||\//<`|>\//`|@n(2',-70)-@n(1,-110)/<$L(1.2)`\$L()SO2`-HO>@n(2,-50)=\`//`-<`\\>`/\\-//`\
+$>
+
+en: [1,2′-binaphthalene]-2-sulfonic acid (PIN) 
+ru: [1,2′-бинафталин]-2-сульфоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-@n(4,-120)//-\\@n(1,-60)<`/`=`\>-SO2-OH
+$>
+
+en: 4-aminobenzene-1-sulfonic acid (PIN)  <br>
+(not ‘sulfanilic acid’; this name is not retained) 
+ru: 4-аминобензол-1-сульфоновая кислота (PIN) <br>
+(не «сульфаниловая кислота»; это название не сохранено)
+
+@End
+
+#P-65.3.1.1
+en: Modification by functional replacement
+ru: Модификация путем &(functional replacement|ro)
+
+en: Oxygen atoms of a suffix acid may be replaced by –OO– and/or other chalcogen analogues, –S– or =S, –Se– or =Se,  
+–Te– or =Te, =NH, and <%nn%> by functional replacement nomenclature. The general methodology is to modify the 
+suffixes by infixes and use them in systematic substitutive nomenclature in the way prescribed for unmodified suffixes. 
+If necessary, names are formed in accordance with the order of seniority, unmodified acids followed by <%ord%>. 
+This seniority is fully exemplified in Section P-43. 
+ru: Атомы кислорода в суффиксе кислоты могут быть заменены на –OO– и/или другие &(chalcogen analogue|*), –S– или =S, 
+–Se– или =Se, –Te– или =Te, =NH и <%nn%> с помощью &(functional replacement nomenclature|ro). Общая методология заключается 
+в модификации суффиксов инфиксами и использовании их в систематической &(substitutive nomenclature|pr) так же, как это 
+предписано для немодифицированных суффиксов. При необходимости названия формируются в соответствии с порядком старшинства: 
+немодифицированные кислоты, за которыми следует <%ord%>. Этот порядок старшинства полностью проиллюстрирован в разделе P-43.
+%nn: <${}=N-NH2$>
+%ord: <$–OO–$> > S > Se > Te
+
+#P-65.3.1.2
+en: Peroxy acids
+ru: Пероксикислоты
+
+en: The suffixes given in Table 6.2 are modified by the infix ‘peroxo’ for use in substitutive nomenclature as illustrated by 
+the following suffixes. 
+ru: Суффиксы, приведенные в &[Таблице 6.2], модифицируются инфиксом «пероксо» для использования в &(substitutive nomenclature|pr), 
+как показано на следующих примерах.
+
+@Examples --
+
+@cell
+<$ {}–SO2-OOH $>
+
+en: sulfonoperoxoic acid (preferred suffix) 
+ru: сульфоно&(peroxoic acid) (&(preferred suffix))
+
+@cell
+<$ {}–SeO-OOH $>
+
+en: seleninoperoxoic acid (preferred suffix) 
+ru: селенино&(peroxoic acid) (&(preferred suffix))
+
+@End
+
+@Examples
+
+@cell
+<$ CH3-SO2-OOH $>
+
+en: methanesulfonoperoxoic acid (PIN) 
+ru: метансульфоно&(peroxoic acid) (PIN)
+
+@cell
+<$ C6H5-TeO-OOH $>
+
+en: benzenetellurinoperoxoic acid (PIN) 
+ru: бензолтеллурино&(peroxoic acid) (PIN)
+
+@End
+
+#P-65.3.1.3
+en: Modification by other chalcogen atoms
+ru: Модификация другими атомами халькогенов
+
+en: Suffixes are modified by the infixes ‘thio’, for –S– or =S, ‘seleno’, for –Se– or =Se, and ‘telluro’, for –Te– or =Te, and 
+used as such. Tautomers are denoted by symbols _S_, _Se_, and _Te_ placed in front of the term ‘acid’, to express positions of 
+chalcogen atoms when known. The infixes ‘thioperoxo’, ‘selenoperoxo’, etc. are used to indicate functional 
+replacement in peroxy acids. 
+ru: Суффиксы модифицируются инфиксами «тио» (для –S– или =S), «селено» (для –Se– или =Se) и «теллуро» (для –Te– или =Te) 
+и используются в таком виде. Таутомеры обозначаются символами _S_, _Se_ и _Te_, помещенными перед термином «кислота», 
+для обозначения положения атомов халькогена, если оно известно. Инфиксы «тиопероксо», «селенопероксо» и т. д. используются 
+для обозначения &(functional replacement|ro) в пероксикислотах.
+
+@Examples --
+
+@cell
+<$ {}–SO2-SH $>
+
+en: sulfonothioic _S_-acid (preselected suffix)
+ru: сульфоно&(thioic [acid]) _S_-кислота (&(preselected suffix))
+
+@cell
+<$ {}–Se(=S)-OH $>
+
+en: seleninothioic _O_-acid (preselected suffix) 
+ru: селенино&(thioic [acid]) _O_-кислота (&(preselected suffix))
+
+@cell
+<$ {}–SO2-OSH $>
+
+en: sulfono(thioperoxoic) _OS_-acid (preselected suffix)
+ru: сульфоно(тио&(peroxoic [acid])) _OS_-кислота (&(preselected suffix))
+
+@cell
+<$ {}–TeO-SeSH $>
+
+en: tellurino(selenothioperoxoic) _SeS_-acid (preselected suffix) 
+ru: теллурино(селенотио&(peroxoic [acid])) _SeS_-кислота (&(preselected suffix))
+
+@End
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-S{{{O/Se}}}H $>
+
+en: propane-1-sulfinoselenoic acid (PIN) 
+ru: пропан-1-сульфино&(selenoic acid) (PIN)
+
+@cell
+<$ CH3-CH2-S(O)(S)-OH $>
+
+en: ethanesulfonothioic _O_-acid (PIN) 
+ru: этансульфоно&(thioic [acid]) _O_-кислота (PIN)
+
+@cell
+<$ CH3-CH2-Se(=S)-OH $>
+
+en: ethaneseleninothioic _O_-acid (PIN)
+ru: этанселено&(thioic [acid]) _O_-кислота (PIN)
+
+@End
+
+#P-65.3.1.4
+en: Imidic and hydrazonic acids derived from sulfonic, sulfinic, etc. acids 
+ru: &(Imidic|*) и &(hydrazonic acid|*), полученные из &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и др. кислот.
+
+en: Imidic acids and hydrazonic acids derived from sulfonic, sulfinic, etc., acids are named by using suffixes such as 
+‘sulfinimidic acid’ for <%a%>, ‘sulfonohydrazonic acid’ for <%b%>. The prefix ‘di’ is used to 
+indicate the replacement of two oxygen atoms (=O) in sulfonic acids, for example, ‘sulfonodiimidic acid’ for  
+<%c%>. Suffixes are listed in Table 4.3.
+ru: &(Imidic acid|*) и &(hydrazonic acid|*), производные &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и т. д. кислот, 
+называются с использованием суффиксов, например, «сульфин&(imidic acid)» для <%a%>, «сульфоно&(hydrazonic acid)» для <%b%>. 
+Префикс «ди» используется для обозначения замены двух атомов кислорода (=O) в сульфоновых кислотах, например, 
+«сульфоноди&(imidic acid)» для <%c%>. Суффиксы перечислены в &[Таблице 4.3].
+%a: <${}–S(=NH)-OH$>
+%b: <${}–S(O)(=NNH2)-OH$>
+%c: <${}–S(=NH)2-OH$>
+
+@Examples
+
+@cell
+<$ CH3-CH2-S(=NH)2-OH $>
+
+en: ethanesulfonodiimidic acid (PIN) 
+ru: этансульфоноди&(imidic acid) (PIN)
+
+@cell
+<$ CH3-S(=NH)-OH $>
+
+en: methanesulfinimidic acid (PIN) 
+ru: метансульфин&(imidic acid) (PIN)
+
+@cell
+<$ C6H5-Se(=NH)2-OH $>
+
+en: benzeneselenonodiimidic acid (PIN)
+ru: бензоселеноноди&(imidic acid) (PIN)
+
+@cell
+<$ `//`-`\\/=\-S<||O><-OH>`||mN-NH2 $>
+
+en: benzenesulfonohydrazonic acid (PIN) 
+ru: бензолсульфоно&(hydrazonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||/\\<|>/@n(1,-90)\\@n(2,30)_q6Se<||mNH><-SH>`||mN-NH2
+$>
+
+en: naphthalene-2-selenonohydrazonimidothioic acid (PIN)
+ru: нафталин-2-селеноногидразонимидо&(thioic acid) (PIN)
+
+@End
+
+#P-65.3.1.5
+en: Hydroximic and hydroxamic acids derived from sulfonic, sulfinic, etc. acids 
+ru: &(Hydroximic [acid]|*) и &(hydroxamic acid|*), полученные из &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и др. кислот
+
+en: Hydroximic acids and hydroxamic acids derived from sulfonic, sulfinic, etc. acids are named as _N_-hydroxysulfonimidic 
+acids and _N_-hydroxysulfonamides, etc. (see P-66.1.1.3.2), respectively. 
+ru: &(Hydroximic acid|*) и &(hydroxamic acid|*), полученные из &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и др. кислот, 
+называются соответственно _N_-гидроксисульфон&(imidic acid|tv*) и N-гидроксисульфонамидами и др. (см. P-66.1.1.3.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S(O)(=N:n-OH)-OH; #n@n(\textit{N})
+$>
+
+en: _N_-hydroxymethanesulfonimidic acid (PIN) 
+ru: _N_-гидроксиметансульфон&(imidic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-SO-NH@n(\textit{N})-OH
+$>
+
+en: _N_-hydroxypropane-1-sulfinamide (PIN)
+ru: _N_-гидроксипропан-1-сульфинамид (PIN)
+
+
+@End
+
+#P-65.3.2
+en: Substitutive nomenclature, prefix mode for sulfonic, sulfinic, etc. acids 
+ru: &(Substitutive nomenclature), префиксный режим для &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и т. д. кислот.
+
+#P-65.3.2.1+
+en: When another group is also present that has seniority for citation as principal group (see P-41, P-42, P-43), 
+or when all groups cannot be expressed as suffixes, organic oxoacids of sulfur, selenium or tellurium are named by 
+adding to the name of the parent compound the appropriate prefix given in Table 6.2. These prefixes can be modified by 
+prefixes designating chalcogen atoms in functional replacement nomenclature when the position of the chalcogen atom 
+is not known or when it is not desirable to indicate such position. 
+ru: Если присутствует и другая группа, имеющая приоритет при &(citation|ro) в качестве основной группы (см. P-41, P-42, 
+P-43), или если не все группы могут быть выражены в виде суффиксов, то органические оксокислоты серы, селена или теллура 
+называются путем добавления к названию &(parent compound|ro) соответствующего префикса, приведенного в &[Таблице 6.2]. 
+Эти префиксы могут быть изменены префиксами, обозначающими атомы халькогенов в &(functional replacement nomenclature|pr), 
+когда положение атома халькогена неизвестно или когда указывать такое положение нежелательно.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-S`O2-@n(4,-120)//-\\<`/`=`\>@n(1,-60)-COOH
+$>
+
+en: 4-sulfobenzoic acid (PIN)
+ru: 4-сульфобензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)HO-S`O2/@n(4,-140)`|//\@n(1,-90)</COOH>||<\COOH>@n(2,90)`/`\\
+$>
+
+en: 4-sulfobenzene-1,2-dicarboxylic acid (PIN)  <br>
+4-sulfophthalic acid
+ru: 4-сульфобензол-1,2-дикарбоновая кислота (PIN) <br>
+4-сульфофталевая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2-CH2@n(1)-CH2@n(2)-CH2@n(3)-CH2@n(4)-O-S-CH2-O-CH2-CH2-CH2-SO2-OH
+$>
+
+en: 4-({[(3-sulfopropoxy)methyl]sulfanyl}oxy)butane-1-sulfonic acid (PIN)
+ru: 4-({[(3-сульфопропокси)метил]сульфанил}окси)бутан-1-сульфоновая кислота (PIN)
+
+@cell
+<$ HO-SO-CH2-COOH $>
+
+en: sulfinoacetic acid (PIN) 
+ru: сульфиноуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(1)-CH2@n(2)-CH2@n(3)-SeO2-OH
+$>
+
+en: 3-selenonopropanoic acid (PIN)
+ru: 3-селенонопропановая кислота (PIN)
+
+@cell
+<$ H{{{S/O}}}S-CH2-CH2-SO2-OH  $>
+
+en: 2-(thiosulfino)ethane-1-sulfonic acid
+ru: 2-(тиосульфино)этан-1-&(sulfonic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</COOH>|@n(2,90)_q6S<`||mS><||S>-SH
+$>
+
+en: 2-(trithiosulfo)benzoic acid (PIN)  <br>
+2-(sulfanylsulfonodithioyl)benzoic acid
+ru: 2-(тритиосульфо)бензойная кислота (PIN) <br>
+2-(сульфанилсульфонодитиоил)бензойная кислота
+
+@End
+
+#P-65.3.2.2
+en: Acyl groups derived from sulfonic, sulfinic, etc. acids and their functional replacement analogues 
+ru: Ацильные группы, полученные из &(sulfonic [acid]|ro*), &(sulfinic [acid]|ro*) и других кислот, и их 
+&(functional replacement analogue|*)
+
+#P-65.3.2.2.1+
+en: Acyl sulfonic, sulfinic, selenonic, seleninic, telluronic, and tellurinic groups, <%a%>, <%b%> or <%c%>, 
+where E = S, Se, or Te, _x_ = 1 or 2, and R, R′, and R′′ are chains, rings, or ring systems; 
+their functional replacement analogues are groups derived by the removal of the hydroxy group from each sulfonic, 
+sulfinic, or related selenium or tellurium acid group that is expressed as the principal characteristic group by an 
+appropriate suffix. 
+ru: Ацильные &(sulfonic [acid]|*), &(sulfinic [acid]|*), &(selenonic [acid]|*), &(seleninic [acid]|*), &(telluronic [acid]|*) 
+и &(tellurinic [acid]|*) группы, <%a%>, <%b%> или <%c%>, где E = S, Se или Te, _x_ = 1 или 2, а R, R′ и R′′ — цепи, кольца 
+или кольцевые системы; их функциональные аналоги — это группы, полученные путем удаления гидроксильной группы из каждой 
+&(sulfonic [acid]|ro), &(sulfinic [acid]|ro) или родственной селеновой или теллуровой кислотной группы, которая выражается 
+в качестве основной &(characteristic group|ro) соответствующим суффиксом.
+%a: <$ {R}-{E}O'x'–{} $>
+%b: <$ {}–O'x'{E}-{R}-{E}O'x'–{} $>
+%c: <$ {}–O'x'{E}-{R}-[{R′}-{E}O'x'-]-{R′′}-{E}O'x'–{} $>
+
+#P-65.3.2.2.2+
+en: Names for acyl groups derived from sulfonic and sulfinic acids, and their Se and Te counterparts, by 
+removal of the -OH group from each sulfonic, sulfinic, etc. acid expressed as a suffix are formed by changing the ‘ic 
+acid’ ending of the suffix to ‘yl’. When the suffix is modified by functional replacement nomenclature, the ending of 
+the corresponding acyl group is ‘oyl’. Acyl groups formed by concatenation, for example, phenylsulfonyl, may be used 
+in general nomenclature. 
+ru: Названия ацильных групп, полученных из &(sulfonic [acid]|ro*) и &(sulfinic acid|ro*), а также их Se- и Te-аналогов  
+путем удаления группы -OH из каждой &(sulfonic [acid]|ro), &(sulfinic [acid]|ro) и т. д. кислоты, выраженные в виде 
+суффикса, образуются путем изменения окончания «&(ic acid)» в суффиксе на «ил». При модификации суффикса в рамках 
+&(functional replacement nomenclature|ro) окончание соответствующей ацильной группы — «оил». Ацильные группы, образованные 
+путем конкатенации, например, фенилсульфонил, могут использоваться в общей номенклатуре.
+
+@p .framed
+en: The formation of simple substitutive preferred acyl prefixes directly from the name of the sulfonic acid, sulfinic 
+acid, etc., as in ‘benzenesulfonyl’, instead of the traditional method of concatenation as in ‘phenylsulfonyl’ is a 
+distinct change to simplify names. To facilitate name interpretation, the preferred prefixes are enclosed in 
+parentheses even though they are simple prefixes (P-16.5.1.4). 
+ru: Образование простых &(substitutive [prefix]|ro*) предпочтительных ацильных префиксов непосредственно из названия 
+&(sulfonic acid|ro), &(sulfinic acid|ro) и т. д., как в случае «бензолсульфонил», вместо традиционного метода конкатенации, 
+как в случае «фенилсульфонил», является существенным изменением, направленным на упрощение названий. Для облегчения 
+интерпретации названий &(preferred prefix|*) заключаются в скобки, даже если они являются простыми префиксами (P-16.5.1.4).
+
+@Examples
+
+@cell
+<$ C6H5-SO2–{} $>
+
+en: benzenesulfonyl (preferred prefix)  <br>
+phenylsulfonyl 
+ru: бензолсульфонил (&(preferred prefix)) <br>
+фенилсульфонил
+
+@cell
+<$ CH3-Se(O)–{} $>
+
+en: methaneseleninyl (preferred prefix)  <br>
+methylseleninyl 
+ru: метанселенинил (&(preferred prefix)) <br>
+метилселенинил
+
+@cell
+<$ CH3-CH2-S(O)(S)–{} $>
+
+en: ethanesulfonothioyl (preferred prefix) <br>
+ethylsulfonothioyl  
+ru: этансульфонотиоил (&(preferred prefix)) <br>
+этилсульфонотиоил
+
+@cell
+<$ C6H5-S(Se)–{} $>
+
+en: benzenesulfinoselenoyl (preferred prefix)  <br>
+phenylsulfinoselenoyl 
+ru: бензенсульфиноселеноил (&(preferred prefix)) <br>
+фенилсульфиноселеноил
+
+@cell
+<$ CH3-CH2-S(=NH)–{} $>
+
+en: ethanesulfinimidoyl (preferred prefix)  <br>
+ethylsulfinimidoyl 
+ru: этансульфинимидоил (&(preferred prefix)) <br>
+этилсульфинимидоил
+
+@End
+
+#P-65.3.2.3
+en: Substituent groups formed by concatenation 
+ru: &(Substituent group|*), образованные путем конкатенации
+
+en: When the name of an acyl group cannot be derived directly from that of the acid expressed by a suffix, a concatenation 
+procedure is used. For this procedure names of divalent mononuclear acyl groups are required. Acyl groups 
+corresponding to sulfuric and sulfurous acids and the corresponding selenium and tellurium acids are formed from the 
+acids by subtracting all -OH groups from the parent acid. The names used in the nomenclature of organic compounds 
+are as follows: 
+ru: Когда название ацильной группы не может быть получено непосредственно из названия кислоты, выраженного суффиксом, 
+используется процедура конкатенации. Для этой процедуры требуются названия двухвалентных моноядерных ацильных групп. 
+Ацильные группы, соответствующие серной и сернистой кислотам, а также соответствующим селеновым и теллуровым кислотам, 
+образуются из кислот путем вычитания всех -OH групп из исходной кислоты. В номенклатуре органических соединений используются 
+следующие названия:
+
+@Examples --
+
+@cell
+<$ {}–SO2–{} $>
+
+en: sulfonyl (preselected prefix)  <br>
+sulfuryl
+ru: сульфонил (&(preselected prefix)) <br>
+сульфурил
+
+@cell
+<$ {}–SO–{} $>
+
+en: sulfinyl (preselected prefix)  <br>
+thionyl 
+ru: сульфинил (&(preselected prefix)) <br>
+тионил
+
+@cell
+<$ {}–SeO2–{} $>
+
+en: selenonyl (preselected prefix) 
+ru: селенонил (&(preselected prefix))
+
+@cell
+<$ {}–SeO–{} $>
+
+en: seleninyl (preselected prefix) 
+ru: селенинил (&(preselected prefix))
+
+@cell
+<$ {}–TeO2–{} $>
+
+en: telluronyl (preselected prefix)
+ru: теллуронил (&(preselected prefix))
+
+@cell
+<$ {}–TeO–{} $>
+
+en: tellurinyl ( preselected prefix) 
+ru: теллуринил (&(preselected prefix))
+
+@End
+
+en: These acyl groups are modified by infixes in functional replacement nomenclature to indicate replacement by ‘=S’, 
+‘=Se’, ‘=Te’, ‘=NH’, and ‘<%nn%>’.
+ru: В &(functional replacement nomenclature|pr) эти ацильные группы модифицируются с помощью инфиксов, указывающих 
+на замену на «=S», «=Se», «=Te», «=NH» и «<%nn%>».
+%nn: <${}=N-NH2$> 
+
+@Examples
+
+@cell
+<$ {}–S(=O)(=S)–{} $>
+  
+en: sulfonothioyl (preselected prefix) 
+ru: сульфонотиоил (&(preselected prefix))
+
+@cell
+<$ {}–S(=S)(=S)–{} $>
+
+en: sulfonodithioyl (preselected prefix) 
+ru: сульфонодитиоил (&(preselected prefix))
+
+@cell
+<$ {}–S(=NH)–{} $>
+
+en: sulfinimidoyl (preselected prefix) 
+ru: сульфинимидоил (&(preselected prefix))
+
+@cell
+<$ {}–Se(=O)(=NNH2)–{} $>
+
+en: selenonohydrazonoyl (preselected prefix)
+ru: селеноногидразоноил (&(preselected prefix))
+
+@cell
+<$ {}–Se(=S)(=NH)–{} $>
+
+en: selenonimidothioyl (preselected prefix) 
+ru: селенонимидотиоил (&(preselected prefix))
+
+@End
+
+en: Prefixes denoting characteristic groups can then be attached to these divalent acyl group names. The prefix ‘hydro-’ for 
+H can also be used. This traditional method generates preferred IUPAC names. Names of acyl groups derived directly 
+from the names sulfuric acid and sulfurous acid, and their Se and Te congeners, are inappropriate because of ambiguity 
+and incompleteness (see P-67.1.4.4.1). The name sulfamoyl for <%a%> is a retained name used as a preferred 
+IUPAC name 
+ru: Затем к названиям этих двухвалентных ацильных групп можно добавить префиксы, обозначающие &(characteristic group|*). 
+Также можно использовать префикс «гидро-» для H. Этот традиционный метод позволяет получить предпочтительные названия 
+по номенклатуре IUPAC. Названия ацильных групп, полученные непосредственно из названий серной кислоты и сернистой кислоты, 
+а также их аналогов Se и Te, неприемлемы из-за неоднозначности и неполноты (см. P-67.1.4.4.1). Название сульфамоил для <%a%> 
+является &(retained name|tv), используемым в качестве предпочтительного названия по номенклатуре IUPAC.
+%a: <$ H2N-SO2–{} $>
+
+@Examples
+
+@cell
+<$ CH3O-SO2–{} $>
+
+en: methoxysulfonyl (preferred prefix) 
+ru: метоксисульфонил (&(preferred prefix))
+
+@cell
+<$ Cl-S(O)–{} $>
+
+en: chlorosulfinyl (preselected prefix) 
+ru: хлорсульфинил (&(preselected prefix))
+
+@cell
+<$ H2N-SO2–{} $>
+
+en: sulfamoyl (preselected prefix)  <br>
+aminosulfonyl 
+ru: сульфамоил (&(preselected prefix)) <br>
+аминосульфонил
+
+@cell
+<$ H-SO–{} $>
+
+en: hydrosulfinyl (preselected prefix) 
+ru: гидросульфинил (&(preselected prefix))
+
+@cell
+<$ CH3-CO-O-SO2–{} $>
+
+en: (acetyloxy)sulfonyl (preferred prefix)  <br>
+acetoxysulfonyl 
+ru: (ацетилокси)сульфонил (&(preferred prefix)) <br>
+ацетоксисульфонил
+
+@cell
+<$ CH3-O-S(=NH)–{} $>
+
+en: _S_-methoxysulfinimidoyl (preferred prefix) 
+ru: _S_-метоксисульфинимидоил (&(preferred prefix))
+
+@cell
+<$ HO-SO2-O–{} $>
+
+en: sulfooxy (preselected prefix) 
+ru: сульфоокси (&(preselected prefix))
+
+@cell
+<$ H-SeO2–{} $>
+
+en: hydroselenonyl (preselected prefix) 
+ru: гидроселенонил (&(preselected prefix))
+
+@cell
+<$ {}–S-SO2-S–{} $>
+
+en: sulfonylbis(sulfanediyl) (preselected prefix) 
+ru: сульфонилбис(сульфандиил) (&(preselected prefix))
+
+@cell
+<$ {}–O-SO-O–{} $>
+
+en: sulfinobis(oxy) (preselected prefix) 
+ru: сульфинобис(окси) (&(preselected prefix))
+
+@End
+
+#P-65.3.3
+en: Polyfunctional compounds 
+ru: Полифункциональные соединения
+
+en: Polyfunctional compounds are named in accordance with the general order of seniority of suffixes described in Sections 
+P-41 and P-43. When required, numbering is based on the seniority order described in P-61.1. 
+ru: Полифункциональные соединения именуются в соответствии с общим порядком старшинства суффиксов, описанным в разделах 
+P-41 и P-43. При необходимости нумерация основывается на порядке старшинства, описанном в разделе P-61.1.
+
+@Examples
+
+@cell
+<$ `//`\`||/\\|\<|NH2>//`|`\\<`/>`|SO2-OH $>
+
+en: 4-aminonaphthalene-1-sulfonic acid (PIN)
+ru: 4-аминонафталин-1-сульфоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH`-SO2|\`\@n(5,-150)`/||\@n(8,150)<_(y1.1)O-CH2-CH3>//`|/\\|@n(2,30)`//N@n(1,90,.5)`\
+$>
+
+en: 8-ethoxyquinoline-5-sulfonic acid (PIN)
+ru: 8-этоксихинолин-5-сульфоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH|\`\@n(8,-150)`/<`\O2`N>@n(7,150)||\@n(5,150)<|NO2>//`|/@n(1,-90)\\@n(2,30)<|`//`\>_q6SO2-OH
+$>
+
+en: 8-hydroxy-5,7-dinitronaphthalene-2-sulfonic acid (PIN)
+ru: 8-гидрокси-5,7-динитронафталин-2-сульфоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||@n(7,150)<`\H2N>/\\/<`|SO2-OH>@n(1,-30)\\|<`//`\>@n(3,90)_q6SO2-OH
+$>
+
+en: 7-aminonaphthalene-1,3-disulfonic acid (PIN) 
+ru: 7-аминонафтален-1,3-дисульфоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,90)<_q6SS2-SH>``//`\`||/\\@n(1,-90)_q6SO2-SH
+$>
+
+en: 2-(trithiosulfo)benzene-1-sulfonothioic _S_-acid (PIN) 
+ru: 2-(тритиосульфо)бензол-1-сульфонотионовая _S_-кислота (PIN)
+
+@End
+
+// =========================
+
+#P-65.4
+en: Acyl groups as substituent groups 
+ru: Ацильные группы как &(substituent group|*)
+
+#P-65.4.1
+en: General methodology
+ru: Общая методология
+
+en: Acyl group names that are described in preceding sections are used unchanged to denote substituent groups. Thus, the 
+traditional way of using acyl groups derived from acyclic carboxylic acids to name ketones, pseudoketones, and 
+heterones is maintained (see P-65.1.7 for more examples).
+ru: Названия ацильных групп, описанные в предыдущих разделах, используются без изменений для обозначения 
+&(substituent group|ro*). Таким образом, сохраняется традиционный способ использования ацильных групп, полученных из 
+ациклических карбоновых кислот, для наименования кетонов, псевдокетонов и гетеронов (см. P-65.1.7 для получения 
+дополнительных примеров).
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1,-90)</COOH>|@n(2,90)_q6CO-CH3
+$>
+
+en: 2-acetylbenzoic acid (PIN) 
+ru: 2-ацетилбензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1,-90)</COOH>|@n(2,90)_q6SO2-CH3
+$>
+
+en: 2-(methanesulfonyl)benzoic acid (PIN)  <br>
+2-(methylsulfonyl)benzoic acid 
+ru: 2-(метансульфонил)бензойная кислота (PIN) <br>
+2-(метилсульфонил)бензойная кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH|@n(1,-150)\@n(2,30)|`//`\`//`\`||/\\<|>/\_q6CO_(x1.3)/-\`/`-`\
+$>
+
+en: 2-(cyclohexanecarbonyl)naphthalene-1-carboxylic acid (PIN)  <br>
+2-(cyclohexylcarbonyl)naphthalene-1-carboxylic acid 
+ru: 2-(циклогексанкарбонил)нафтален-1-карбоновая кислота (PIN) <br>
+2-(циклогексилкарбонил)нафтален-1-карбоновая кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\@n(5,90)<`/CH3`O>`||/\\|_q@n(3,130)<_(a54)CH2-COOH>_qq@n(2,60)<-CH3>_q@n(1,0)<_q>_(a54)CO_(x1.3)/=\<-Cl>`//`-`\\
+$>
+
+en: [1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1_H_-inden-3-yl]acetic acid (PIN) 
+ru: [1-(4-хлорбензоил)-5-метокси-2-метил-1_H_-инден-3-ил]уксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\-S<`||O>--N@n(4,130,.5)/-</COOH>@n(2,0)\O@n(1,30,.5)`/`-`\
+$>
+
+en: 4-(cyclohexanesulfinyl)morpholine-2-carboxylic acid (PIN)  <br>
+4-(cyclohexylsulfinyl)morpholine-2-carboxylic acid 
+ru: 4-(циклогексансульфинил)морфолин-2-карбоновая кислота (PIN) <br>
+4-(циклогексилсульфинил)морфолин-2-карбоновая кислота
+
+@cell
+<$ `/`=`\//-\\-SO2-CH2-CH2-CH3 $>
+
+en: (propane-1-sulfonyl)benzene (PIN)  <br>
+(propylsulfonyl)benzene 
+ru: (пропан-1-сульфонил)бензол (PIN) <br>
+(пропилсульфонил)бензол
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-C<`||mCH2>-C<||mO>_(A-30)@n(4,-140)`||/\\@n(1,-90)<_q6O-CH2-COOH>|<\Cl>@n(2,90)`//<|Cl>@n(3,150)`\
+$>
+
+en: [2,3-dichloro-4-(2-methylidenebutanoyl)phenoxy]acetic acid (PIN)
+ru: [2,3-дихлор-4-(2-метилиденбутаноил)фенокси]уксусная кислота (PIN)
+
+@End

@@ -128,10 +128,15 @@
   "carbonic acid|ro": "угольной кислоты",
   "carbonic acid|pr": "угольной кислоте",
   "carbonic acid|ro*": "угольных кислот",
+  "carbonic [acid]": "угольная",
   "carbonic [acid]|ro": "угольной",
 
   "carbonochloridic acid": "carbonochloridic acid",
   "carbonocyanidic acid": "carbonocyanidic acid",
+
+  "carbononitridic acid": "карбонитридная кислота",
+  "carbononitridic acid|ro": "карбонитридной кислоты",
+  "carbononitridic [anion]": "карбонитрид",
 
   "carboximidic [acid]": "карбоксимидная",
   "carboximidic [acid]|ro": "карбоксимидной",
@@ -390,6 +395,8 @@
   "hydroxamic [acid]|ro": "гидроксамовой",
 
   "hydroximic acid": "гидроксимовая кислота",
+  "hydroximic acid|*": "гидроксимовые кислоты",
+  "hydroximic [acid]|*": "гидроксимовые",
   "hydroximic [acid]|ro": "гидроксимовой",
   "hydroximic [acid]|ro*": "гидроксимовых",
 
@@ -429,7 +436,10 @@
   "imidic acid|ro": "имидной кислоты",
   "imidic acid|*": "имидные кислоты",
   "imidic acid|ro*": "имидных кислот",
+  "imidic acid|tv*": "имидными кислотами",
+  "imidic": "имидная",
   "imidic|ro": "имидной",
+  "imidic|*": "имидные",
   "imidic|ro*": "имидных",
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
@@ -579,6 +589,9 @@
   "parent substituent": "исходный заместитель",
   "parent substituent|tv": "исходным заместителем",
 
+  "peroxoic acid": "пероксоевая кислота",
+  "peroxoic [acid]": "пероксоевая",
+
   "peroxol": "пероксол",
   "peroxol|*": "пероксолы",
 
@@ -656,13 +669,19 @@
   "phane system|da*": "фановым системам",
 
   "polycarbonic acid|*": "полиугольные кислоты",
+  "polycarbonic acid|ro*": "полиугольных кислот",
+  "polycarbonic acid|pr*": "полиугольных кислотах",
 
   "polynuclear acid|*": "многоядерные кислоты",
   "polynuclear acid|ro*": "многоядерных кислот",
+  "polynuclear [acid]|ro*": "многоядерных",
 
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",
+  "polynuclear carbon acid|ro*": "многоядерных угольных кислот",
 
   "preferred prefix": "предпочтительный префикс",
+  "preferred prefix|*": "предпочтительные префиксы",
+  "preferred prefix|ro*": "предпочтительных префиксов",
   "preferred prefix|tv*": "предпочтительными префиксами",
 
   "preferred suffix": "предпочтительный суффикс",
@@ -670,6 +689,7 @@
   "preselected name": "предварительно выбранное название",
 
   "preselected prefix": "предварительно выбранный префикс",
+  "preselected suffix": "предварительно выбранный суффикс",
 
   "quinque": "квинки",
 
@@ -715,6 +735,8 @@
 
   "seleninic acid": "селениновая кислота",
   "seleninic acid|*": "селениновые кислоты",
+  "seleninic [acid]|*": "селениновые",
+
   "seleninohydrazide": "селениногидразид",
 
   "selenonamide": "селеноамид",
@@ -722,8 +744,10 @@
 
   "selenoic [acid]": "селеновая",
   "selenoic acid": "селеновая кислота",
+
   "selenonic acid": "селеноновая кислота",
   "selenonic acid|*": "селеноновые кислоты",
+  "selenonic [acid]|*": "селеноновые",
 
   "selone": "селон",
 
@@ -799,6 +823,8 @@
   "substitution": "замещение",
   "substitution|ro": "замещения",
 
+  "substituting group|pr": "замещающей группе",
+
   "subtractive modification": "субтрактивная модификация",
 
   "substitutive [name]|*": "заместительные", 
@@ -822,6 +848,7 @@
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",
   "substitutive prefix|ro*": "заместительных префиксов",
+  "substitutive [prefix]|ro*": "заместительных",
 
   "substitution operation|da": "операции замещения",
 
@@ -835,20 +862,35 @@
   "sulfonamide|*": "сульфонамиды",
   "sulfonamide|ro*": "сульфонамидов",
 
+  "sulfinic acid": "сульфиновая кислота",
+  "sulfinic acid|ro": "сульфиновой кислоты",
+  "sulfinic acid|*": "сульфиновые кислоты",
+  "sulfinic acid|ro*": "сульфиновых кислот",
+  "sulfinic [acid]|ro": "сульфиновой",
+  "sulfinic [acid]|*": "сульфиновые",
+  "sulfinic [acid]|ro*": "сульфиновых",
+
   "sulfonic acid:comment": "Хотя википедии основной вариант - сульфокислоты, но тут выбран вариант 'сульфоновые кислоты', т.к. он единообразен с подобными названиями. И лучше соответствует инфиксам",
   "sulfonic acid": "сульфоновая кислота",
+  "sulfonic acid|ro": "сульфоновой кислоты",
   "sulfonic acid|*": "сульфоновые кислоты",
   "sulfonic acid|ro*": "сульфоновых кислот",
   "sulfonic acid|da*": "сульфоновым кислотам",
+  "sulfonic [acid]|ro": "сульфоновой",
+  "sulfonic [acid]|*": "сульфоновые",
+  "sulfonic [acid]|ro*": "сульфоновых",
 
   "tellone": "теллон",
 
   "tellurinic acid": "теллуриновая кислота",
   "tellurinic acid|*": "теллуриновые кислоты",
+  "tellurinic [acid]|*": "теллуриновые",
+
   "telluroic [acid]": "теллуровая",
   "telluroic acid": "теллуровая кислота",
   "telluronic acid": "теллуроновая кислота",
   "telluronic acid|*": "теллуроновые кислоты",
+  "telluronic [acid]|*": "теллуроновые",
 
   "thioic [acid]": "тиоевая",
   "thioic acid": "тиоевая кислота",

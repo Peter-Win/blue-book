@@ -85,7 +85,8 @@ const linkChunks = (chunks, doc) => {
       let fullName = "";
       let tableNumber = "";
       let srcLength = 0;
-      const res1 = /Table ([\d\.]+)/.exec(content);
+      // При извлечении из "Table 4.3." последняя точка не должна входить в ссылку
+      const res1 = /Table ([\d\.]*\d+)/.exec(content);
       if (res1) {
         fullName = res1[0];
         srcLength = fullName.length;
