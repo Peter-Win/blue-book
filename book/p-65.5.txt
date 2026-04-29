@@ -526,11 +526,612 @@ ru: Метод (1) приводит к предпочтительным назв
 используется суффикс «-карбоновая кислота»;
 метод (3) генерирует предпочтительные названия по номенклатуре IUPAC для ациклических углеродных цепей.
 
+en: Seniority for numbering follows that for acids, for which see P-65.1.2.3. For seniority of halides and pseudohalides, see 
+P-65.5.2.1. 
+ru: Порядок нумерации кислот соответствует порядку, описанному в пункте P-65.1.2.3. Порядок нумерации галогенидов 
+и псевдогалогенидов описан в пункте P-65.5.2.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CO@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (3) 3-chloro-3-oxopropanoic acid (PIN)  <br>
+(1) carbonochloridoylacetic acid
+ru: (3) 3-хлор-3-оксопропановая кислота (PIN) <br>
+(1) карбохлоридоуксусная кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`/|<_q6CO-Cl>@n(2,90)`//`\`||/\\@n(1,-90)
+$>
+
+en: (1) 2-carbonochloridoylbenzoic acid (PIN)  <br>
+(2) 2-(chlorocarbonyl)benzoic acid 
+ru: (1) 2-карбохлоридоилбензойная кислота (PIN) <br>
+(2) 2-(хлоркарбонил)бензойная кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH`/|<_q6SO2-CN>@n(2,90)`/`\`|/\@n(1,-90)
+$>
+
+en: (1) 2-sulfurocyanidoylcyclohexane-1-carboxylic acid (PIN)  <br>
+(2) 2-(cyanosulfonyl)cyclohexane-1-carboxylic acid 
+ru: (1) 2-сульфуроцианидоилциклогексан-1-карбоновая кислота (PIN) <br>
+(2) 2-(цианосульфонил)циклогексан-1-карбоновая кислота
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6CS-CN>@n(2,90)`//`\`||/\\@n(1,-90)_q6CO-Cl
+$>
+
+en: (1) 2-carbonocyanidothioylbenzoyl chloride (PIN)  <br>
+(2) 2-(cyanocarbonothioyl)benzoyl chloride 
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OCN-CO-C`H2-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-CS-CN
+$>
+
+en: (4-carbonocyanidothioylphenyl)acetyl isocyanate (PIN)  <br>
+[not 4-(2-isocyanato-2-oxoethyl)benzenecarbothioyl cyanide,  <br>
+acetyl is senior to carbothioyl] 
+ru: (4-карбоцианидотиоилфенил)ацетилизоцианат (PIN) <br>
+[не 4-(2-изоцианато-2-оксоэтил)бензолкарботиоилцианид, <br>
+ацетил имеет более высокий приоритет, чем карботиоил]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//<|CH3>@n(5,30)`\`||/<`|CO-CN>@n(2,-30)\\@n(1,30)_q6CO-Cl
+$>
+
+en: 2-carbonocyanidoyl-5-methylbenzoyl chloride (PIN)  <br>
+2-(cyanocarbonyl)-5-methylbenzoyl chloride 
+ru: 2-карбоцианидоил-5-метилбензоилхлорид (PIN) <br>
+2-(цианокарбонил)-5-метилбензоилхлорид
+
+@cell
+<$ Br-CO-CO-CH2-COOH $>
+
+en: (3) 4-bromo-3,4-dioxobutanoic acid (PIN) 
+ru: (3) 4-бром-3,4-диоксобутановая кислота (PIN)
+
+@cell
+<$ Br-CO-O-CO-CH2-COOH $>
+
+en: (1) 3-(carbonobromidoyloxy)-3-oxopropanoic acid (PIN)
+ru: (1) 3-(карбонобромидоилокси)-3-оксопропановая кислота (PIN)
+
+@End
+
+
 // ==============================
 
 #P-65.6
 en: Salts and esters 
 ru: Соли и сложные эфиры
+
+#P-65.6.1
+en: General methodology 
+ru: Общая методология
+
+en: Neutral salts and esters are both named using the name of the anion derived from the name of the acid. Anion names are 
+formed by changing an ‘-ic acid’ ending of an acid name to ‘-ate’ and an ‘-ous acid’ ending of an acid name to ‘-ite’. 
+Then, salts are named using the names of cations, and esters the names of organyl groups, cited as separate words in 
+front of the name of the anion. 
+ru: Нейтральные соли и сложные эфиры называются, используя название аниона, образованное от названия кислоты. Названия 
+анионов образуются путем замены окончания «-&(ic acid)» в названии кислоты на «-ат», а окончания «-ous acid» в названии 
+кислоты на «-ite». Затем соли называются, используя названия катионов, а сложные эфиры — названия органических групп, 
+которые указываются отдельными словами перед названием аниона.
+
+#P-65.6.2
+en: Salts
+ru: Соли 
+
+#P-65.6.2.1+
+en: Neutral salts of acids are named by citing the name of the cation(s) followed by the name of the anion (see 
+P-72.2.2.2) as a separate word. Different cations are cited in alphabetical order. Formation of salts is a functionalization 
+and not a substitution. Thus, all retained names, both those used as preferred IUPAC names and those used only for 
+general nomenclature, can be used without restriction. This rule applies equally to acids expressed by suffixes and 
+carbonic, cyanic, oxalic, and polycarbonic acids. 
+ru: Нейтральные соли кислот называются путем указания названия катиона (катионов) с последующим названием аниона 
+(см. P-72.2.2.2) в виде отдельного слова. Различные катионы указываются в алфавитном порядке. Образование солей представляет 
+собой функционализацию, а не &(substitution). Таким образом, все &(retained name|*), как используемые в качестве 
+предпочтительных названий IUPAC, так и используемые только для общей номенклатуры, могут использоваться без ограничений. 
+Это правило в равной степени применяется к кислотам, обозначаемым суффиксами, а также к &(carbonic [acid]|da), циановой, 
+щавелевой и &(polycarbonic acid|da*).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-COO^– K^+ $>
+
+en: potassium butanoate (PIN) 
+ru: бутилацетат калия (PIN)
+
+@cell
+<$ CH3-CH2-CS-S^– Na^+ $>
+
+en: sodium propane(dithioate) (PIN) 
+ru: пропан(дитиоат) натрия (PIN)
+
+@cell
+<$ (CH3-COO^–)2 Ca^2+ $>
+
+en: calcium diacetate (PIN)
+ru: диацетат кальция (PIN)
+
+@cell
+<$ C6H5-SO-O^– Na^+ $>
+
+en: sodium benzenesulfinate (PIN) 
+ru: бензолсульфинат натрия (PIN)
+
+@cell
+<$ K^+ OOC`^-# -CH2-CH2-COO^– Na^+ $>
+
+en: potassium sodium butanedioate (PIN)  <br>
+potassium sodium succinate 
+ru: бутандиоат калия-натрия (PIN) <br>
+сукцинат калия-натрия
+// В рускоязычных источниках используется вариант с перечислением катионов через дефис
+// Например: http://charchem.org/ru/subst-ref/?id=1632&langMode=&langs=
+// конечно, было бы лучше, если бы не нужно было склонять названия. 
+
+@cell
+<$ NH4^+ OOC`^-# -CH2-CH2-CH2-CH2-COO^– K^+ $>  
+
+en: ammonium potassium hexanedioate (PIN)  <br>
+ammonium potassium adipate 
+ru: гександиоат аммония-калия (PIN) <br>
+адипат аммония-калия
+
+@cell
+<$ C(O)O2^2– 2Na^+ $>
+
+en: disodium carbonate (PIN) 
+ru: карбонат динатрия (PIN)
+// в русских источниках - карбонат натрия, но это противоречит правилам IUPAC
+
+@cell
+<$ (CH3-COO^–)4 Ge^4+ $>
+
+en: germanium tetraacetate (PIN) 
+ru: тетраацетат германия (PIN)
+
+@End
+
+#P-65.6.2.2
+en: Cyclic salts are named as heterocycles
+ru: Циклические соли называются как гетероциклы
+
+@Examples
+
+@cell
+<$ $L(1.1)`/@:half(X)_pp6_p6_pp6_p6_pp6r_q7<_(a64.3,N2)O>_q7O_q7&X_q7O_q7<_(a64.3,N2)O>_q7@(Pb); /@half(#Pb) $>
+
+en: 3,3′-spirobi[[2,4,3]benzodioxaplumbepine]-1,1′,5,5′-tetrone (PIN) 
+ru: 3,3′-спироби[[2,4,3]бензодиоксаплюмбепин]-1,1′,5,5′-тетрон (PIN)
+
+@End
+
+#P-65.6.2.3
+en: Acid salts 
+ru: Кислые соли
+
+#P-65.6.2.3.1+
+en: Acid salts of polybasic organic acids are named in two ways: 
+ru: Кислые соли многоосновных органических кислот называются двумя способами:
+
+@List 1
+
+@item
+en: by substitutive nomenclature in which the free acid is cited as a prefix to the name of the anion; 
+ru: посредством &(substitutive nomenclature|ro), в которой свободная кислота &(cited) в качестве префикса к названию аниона;
+
+@item
+en: in the same way as the neutral salts, the remaining acid hydrogen atom(s) being indicated by the word 
+‘hydrogen’ (preceded by a numerical prefix, ‘di’, ‘tri’, etc., as appropriate) inserted as a separate word between 
+the name(s) of the cation(s) and the name of the anion. When required, cations are cited in names in alphabetical 
+order. 
+ru: аналогично нейтральным солям, оставшийся(е) атом(ы) водорода кислоты обозначается(ются) словом «водород» 
+(с предшествующим числовым префиксом «ди», «три» и т. д., в зависимости от ситуации), вставленным(-ыми) в качестве отдельного 
+слова между названием(-ами) катиона(-ов) и названием аниона. При необходимости катионы указываются в алфавитном порядке.
+
+@End
+
+en: Method (1) generates preferred IUPAC names, except when the structure of the acid salt is unknown. Anionic 
+substituents, such as <%a%>, <%b%>, <%c%> are described by the prefix names ‘carboxylato’, ‘sulfonato’, and ‘sulfinato’, 
+respectively, and similarly for the corresponding selenium and tellurium acids. 
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре IUPAC, за исключением случаев, когда структура кислой соли 
+неизвестна. Анионные заместители, такие как <%a%>, <%b%>, <%c%>, описываются префиксными названиями «карбоксилато», 
+«сульфонато» и «сульфинато» соответственно, и аналогично для соответствующих кислот селена и теллура.
+%a: <${}–COO^–$>
+%b: <${}–SO3^–$>
+%c: <${}–SO2^–$>
+
+@Examples
+
+@cell
+<$ HOOC-[CH2]5-COO^– K^+ $>
+
+en: (1) potassium 6-carboxyhexanoate (PIN)  <br>
+(2) potassium hydrogen heptanedioate 
+ru: (1) 6-карбоксигексаноат калия (PIN) <br>
+(2) гидрогептандиоат калия
+
+@cell
+<$ HOOC-CH2-CH2-COO^– NH4^+ $>
+
+en: (1) ammonium 3-carboxypropanoate (PIN)  <br>
+(2) ammonium hydrogen butanedioate  <br>
+ammonium hydrogen succinate 
+ru: (1) 3-карбоксипропаноат аммония (PIN) <br>
+(2) гидробутандиоат аммония <br>
+гидросукцинат аммония
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_q6CH2-COO^->@n(2,90)`//`\`||/\\@n(1,-90)/COO^-_(y.9,x1.7,N0)Na^+# -0H^+
+$>
+
+en: (2) sodium hydrogen 2-(carboxylatomethyl)benzoate (PIN)
+ru: (2) 2-(карбоксилатометил)бензоат водорода-натрия (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OOC`^-# -H2C-CH<`|COO^->-CH2-CH2-COO^-_(x-.7,y-.9,N0)Na^+# -0K^+# -0H^+
+$>
+
+en: (2) potassium sodium hydrogen propane-1,2,3-tricarboxylate (PIN)
+ru: (2) пропан-1,2,3-трикарбоксилат калий-натрий-водород (PIN)
+
+@cell
+<$ (HOOC-CH2-CH2-COO^–)3 Sb^3+ $>
+
+en: (1) antimony tris(3-carboxypropanoate) (PIN)  <br>
+(2) antimony tris(hydrogen butanedioate) 
+ru: (1) трис(3-карбоксипропаноат) сурьмы (PIN) <br>
+(2) трис(гидробутандиоат) сурьмы
+
+@End
+
+#P-65.6.2.3.2+
+en: Preferred IUPAC names of acid salts of organic derivatives of polybasic inorganic oxoacids (including 
+carbonic) are named by method (2). 
+ru: Предпочтительные названия кислых солей органических производных многоосновных неорганических оксокислот 
+(включая &(carbonic [acid]|vi)) по номенклатуре IUPAC называются методом (2).
+
+@Examples
+
+@cell
+<$ HO-CO-O^– Na^+ $>
+
+en: sodium hydrogen carbonate (PIN) 
+ru: карбонат натрия-водорода (PIN)
+
+@cell
+<$ CH3-P(O)(O^–)2 K^+ H^+ $>
+
+en: potassium hydrogen methylphosphonate (PIN) 
+ru: метилфосфонат калия-водорода (PIN)
+
+@End
+
+en: **Note**: In the nomenclature of inorganic chemistry (IR-8.4, ref. 12), the term ‘hydrogen’ is written directly in front of the 
+name of the anion, without a space, to indicate that it is part of the anion. 
+ru: **Примечание**: В номенклатуре неорганической химии (IR-8.4, ссылка 12) термин «водород» пишется непосредственно перед 
+названием аниона без пробела, чтобы указать, что он является частью аниона.
+
+@Examples
+
+@cell
+<$ P(O)(O^–)3 Na^+ 2H^+ $>
+// Исправлена ошибка в оригинале: там 3 - это заряд, а тут - коэффициент
+
+en: sodium dihydrogenphosphate 
+ru: дигидрофосфат натрия
+
+@End
+
+#P-65.6.3
+en: Esters, lactones, and related compounds 
+ru: &(Ester|*), лактоны и родственные соединения
+
+@Content
+
+#P-65.6.3.1
+en: Definitions 
+ru: Определения
+
+#P-65.6.3.1.1+
+en: Esters of organic oxoacids, <%a%> (R can be H) or <%b%> (R ≠ H) or chalcogen analogues, 
+are compounds formally derived from an organic oxoacid <%c%> (R can be H) or <%d%> (R ≠ H) and an 
+alcohol, phenol, heterol, or enol by a formal loss of water from an acidic hydroxy group of the former and a hydroxy 
+group of the latter. By extension, they are ‘acyl’ derivatives of alcohols, etc. Esters derived from chalcogen analogs of 
+organic oxoacids and chalcogen analogues of alcohols (thiols, selenols, tellurols), phenols, heterols, and enols, i.e., acyl 
+derivatives of chalcogen analogues of alcohols (thiols, selenols, tellurols), phenols, heterols, and enols, are also 
+included. 
+ru: &(Ester|*) органических оксокислот, <%a%> (R может быть H) или <%b%> (R ≠ H) или &(chalcogen analogue|*), 
+представляют собой соединения, формально производные от органической оксокислоты <%c%> (R может быть H) или <%d%> (R ≠ H) 
+и спирта, фенола, гетерола или енола путем формальной потери воды из кислотной гидроксильной группы первой и гидроксильной 
+группы второй. В более широком смысле, они являются «ацильными» производными спиртов и т. д. К ним также относятся &(ester|*), 
+производные от &(chalcogen analogue|ro*) органических оксокислот и &(chalcogen analogue|ro*) спиртов (тиолов, селенолов, 
+теллуролов), фенолов, гетеролов и енолов, т. е. ацильные производные &(chalcogen analogue|ro*) спиртов (тиолов, селенолов, 
+теллуролов), фенолов, гетеролов и енолов.
+%a: <${R}-C(O)-O-{R′}$>
+%b: <${R}-S(O)'x'-O-{R}$>
+%c: <${R}-C(O)-OH$>
+%d: <${R}-S(O)'x'-OH$>
+
+en: For esters derived from inorganic oxoacids, see Section P-67. 
+ru: Для &(ester|ro*), полученных из неорганических оксокислот, см. раздел P-67.
+
+#P-65.6.3.1.2+
+en: Pseudoesters are compounds having the generic formula <%a%> and chalcogen analogues where  
+_x_ = 1 or 2 and Z is not a carbon atom but an element from the following list: <%ord1%>(cyclic), <%ord2%>. 
+Pseudoesters are ranked as esters in the seniority order of classes (see P-41). 
+ru: &(Pseudoester|*) — это соединения, имеющие общую формулу <%a%> и &(chalcogen analogue|*), где _x_ = 1 или 2, а Z — не атом 
+углерода, а элемент из следующего списка: <%ord1%>(циклический), <%ord2%>. &(Pseudoester|*) ранжируются как &(ester|*) 
+в порядке старшинства классов (см. P-41).
+%a: <$ {R}-{E}(=O)'x'(O{Z}) $>
+%ord1: B, Al, In, Ga, Tl, Si, Ge, Sn, Pb, N
+%ord2: P, As, Sb, Bi
+
+@Examples
+
+@cell
+<$ CH3-CO-O-Si(CH3)3 $>
+  
+en: trimethylsilyl acetate (PIN) 
+ru: триметилсилилацетат (PIN)
+
+@cell
+<$ CH3-CH2-SO2-S-Ge(CH3)3 $>
+  
+en: _S_-(trimethylgermyl) ethanesulfonothioate (PIN) 
+ru: _S_-(триметилгермил)этансульфонотиоат (PIN)
+
+@End
+
+
+#P-65.6.3.2
+en: General methodology 
+ru: Общая методология
+
+#P-65.6.3.2.1+
+en: All preferred IUPAC names for esters are named by functional class nomenclature. 
+ru: Все предпочтительные названия IUPAC для &(ester|ro*) строятся по &(functional class nomenclature|pr).
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CH2-CH3 $>
+  
+en: ethyl acetate (PIN) 
+ru: этилацетат (PIN)
+// http://charchem.org/ru/subst-ref/?langs=*&id=520
+
+@cell
+<$ CH3-O-CO-CH2-CH2-CO-O-CH2-CH3 $>
+  
+en: ethyl methyl butanedioate (PIN) 
+ru: этилметилбутандиоат (PIN)
+
+@cell
+<$ `/`-`\/-\-CO-O-CH3 $>
+
+en: methyl cyclohexanecarboxylate (PIN) 
+ru: метилциклогексанкарбоксилат (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-C`H2-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-SO2-O-CH3
+$>
+
+en: methyl 4-ethylbenzene-1-sulfonate (PIN) 
+ru: метил-4-этилбензол-1-сульфонат (PIN)
+
+@End
+
+#P-65.6.3.2.2+
+en: Multiplicative functional class names for esters 
+ru: Мультипликативные &(functional class name|*) для &(ester|ro*)
+
+en: In functional class nomenclature for esters the multiplicative operation (P-13.6.2) is used to name assemblies of 
+identical parent anionic components linked by a di- or multivalent ‘hydroxylic’ component. 
+ru: В &(functional class nomenclature|pr) для &(ester|ro*) &(multiplicative operation) (P-13.6.2) используется для обозначения 
+комплексов идентичных исходных анионных компонентов, связанных двухвалентным или многовалентным «гидроксильным» компонентом.
+
+@p .framed
+en: A change occurs in the multiplicative operation applied to esters from previous recommendations. The bi- or 
+polyvalent functional class name is cited as the organyl (alkanediyl, arylene, etc.) group cited immediately before 
+the name of the acid component denoted by the anion name derived from the appropriate acid (see P-72.2.2.2.1) 
+rather than alphabetically along with other monovalent organyl groups as was done in earlier recommendations.
+ru: В отличие от предыдущих рекомендаций, в &(multiplicative operation|pr) сложных эфиров произошли изменения. 
+Название би- или поливалентного &(functional class name|ro) &(cited) по органильной группе (алкандиил, арилен и т. д.), 
+расположенной непосредственно перед названием кислотного компонента, обозначенного названием аниона, полученного из 
+соответствующей кислоты (см. P-72.2.2.2.1), а не в алфавитном порядке вместе с другими одновалентными органильными группами.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:lv(n,k:)CH&k@n(&n,180)<-O-CO-CH3>@(1,2)|@lv(2)|@lv(3,2)
+$>
+
+en: propane-1,2,3-triyl triacetate (PIN) 
+ru: пропан-1,2,3-триилтриацетат (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CO-CH2-CO-O-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-O-CO-CH2-CO-O-CH3
+$>
+
+en: dimethyl 1,4-phenylene dipropanedioate (PIN)  <br>
+1,4-phenylene bis(methyl propanedioate) 
+ru: диметил-1,4-фенилендипропандиоат (PIN) <br>
+1,4-фениленбис(метилпропандиоат)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-CO-CH2-CO-O-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-O-CO-CH2-CO-O-CH2-CH3
+$>
+
+en: ethyl methyl 1,4-phenylene dipropanedioate (PIN) 
+ru: этилметил-1,4-фенилендипропандиоат (PIN)
+
+@End
+
+#P-65.6.3.2.3
+en: Esters cited as prefixes 
+ru: &(Ester|*) &(cited|*) как префиксы 
+
+en: When, in an ester with the general structure <%a%> or <%b%>, another group is present that has priority for 
+citation as the principal group or when all ester groups cannot be described by the methods prescribed for naming 
+esters, an ester group is indicated by prefixes as ‘acyloxy’ for the group <%c%>, and ‘alkoxy...oxo’, 
+‘(alkyloxy)...oxo’, ‘(alkanyloxy)...oxo’, ‘alkoxycarbonyl’, ‘(alkyloxy)carbonyl’ or ‘(alkanyloxy)carbonyl’ for the group <%d%>. 
+ru: Если в &(ester|pr) с общей структурой <%a%> или <%b%> присутствует другая группа, имеющая приоритет при &(citation|pr) 
+в качестве основной группы, или если все сложноэфирные группы не могут быть описаны методами, предписанными для наименования 
+&(ester|ro*), сложноэфирная группа обозначается префиксами «ацилокси» для группы <%c%> и «алкокси...оксо», 
+«(алкилокси)...оксо», «(алканилокси)...оксо», «алкоксикарбонил», «(алкилокси)карбонил» или «(алканилокси)карбонил» 
+для группы <%d%>.
+%a: <${R}-CO-O-{R′}$>
+%b: <${R}-S(O)'x'-O-{R′}$>
+%c: <${R}-CO-O–{}$>
+%d: <${}–CO-O{R′}$>
+
+en: The systematic name ‘acetyloxy’ is preferred to the contracted name ‘acetoxy’ that may be used in general 
+nomenclature. 
+ru: Систематическое название «ацетилокси» предпочтительнее сокращенного названия «ацетокси», которое может использоваться 
+в общей номенклатуре.
+
+en: Seniority for numbering follows that for acids, for which see P-65.1.2.3.
+ru: Порядок нумерации соответствует порядку нумерации кислот, который указан в P-65.1.2.3.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-O-CO@n(3)-CH2@n(2)-CH2@n(1)-$pos(-90)N^+@n(\textit{N},90)(CH3)3 Br^-
+$>
+
+en: 3-ethoxy-_N,N,N_-trimethyl-3-oxopropan-1-aminium bromide (PIN)  <br>
+[2-(ethoxycarbonyl)ethyl]tri(methyl)ammonium bromide  <br>
+(3-ethoxy-3-oxopropyl)tri(methyl)azanium bromide
+ru: 3-этокси-_N,N,N_-триметил-3-оксопропан-1-аминий бромид (PIN) <br>
+[2-(этоксикарбонил)этил]три(метил)аммоний бромид <br>
+(3-этокси-3-оксопропил)три(метил)азаний бромид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-CO-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(benzoyloxy)propanoic acid (PIN)  <br>
+3-[(phenylcarbonyl)oxy]propanoic acid 
+ru: 3-(бензоилокси)пропановая кислота (PIN) <br>
+3-[(фенилкарбонил)окси]пропановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO-O-CH2@n(2)-CH2@n(1)-SO2-OH
+$>
+
+en: 2-(acetyloxy)ethane-1-sulfonic acid (PIN)  <br>
+2-acetoxyethanesulfonic acid 
+ru: 2-(ацетилокси)этан-1-&(sulfonic acid) (PIN) <br>
+2-ацетоксиэтан&(sulfonic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/<`|CO-O-CH3>@n(1,-30)\\|`//<`\>@n(4,30)|S(S)-O-C6H5
+$>
+
+en: methyl 4-(phenoxysulfinothioyl)naphthalene-1-carboxylate (PIN)
+ru: метил 4-(феноксисульфинотиоил)нафтален-1-карбоксилат (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/<`|CO-O-CH3>@n(1,-30)\\|`//<`\>@n(4,30)|SO2-SC6H5
+$>
+
+en: methyl 4-[(phenylsulfanyl)sulfonyl]naphthalene-1-carboxylate (PIN)
+ru: метил 4-[(фенилсульфанил)сульфонил]нафтален-1-карбоксилат (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-C<|CH3><`|CH3>@n(4,50,.5)_(x1.3)C@n(3)<`||mO>-CH@n(2)<`|O-CO-O-CH2-CH3>-CO@n(1)-O-CH2-CH3
+$>
+
+en: ethyl 2-[(ethoxycarbonyl)oxy]-4,4-dimethyl-3-oxopentanoate (PIN) 
+ru: этил 2-[(этоксикарбонил)окси]-4,4-диметил-3-оксопентаноат (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//N`\`||/\\_q6CO-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-[(pyridine-3-carbonyl)oxy]propanoic acid (PIN)  <br>
+3-(nicotinoyloxy)propanoic acid 
+ru: 3-[(пиридин-3-карбонил)окси]пропановая кислота (PIN) <br>
+3-(никотиноилокси)пропановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//N`\`//`\`||/\\<|>/\\|_q6CO-O-CH2@n(2)-COOH@n(1)
+$>
+
+en: [(quinoline-2-carbonyl)oxy]acetic acid (PIN)  <br>
+[(quinolin-2-ylcarbonyl)oxy]acetic acid;  <br>
+(see P-65.4.1 for naming acyl groups derived from acids) 
+ru: [(хинолин-2-карбонил)окси]уксусная кислота (PIN) <br>
+[(хинолин-2-илкарбонил)окси]уксусная кислота; <br>
+(см. P-65.4.1 для наименования ацильных групп, полученных из кислот)
+
+@End
+
+#P-65.6.3.3
+en: Peferred IUPAC names for esters 
+ru: Предпочтительные названия IUPAC для сложных эфиров
+
+
+
+
+#P-65.6.3.4
+en: Pseudoesters 
+ru: &(Pseudoester|*)
+
+#P-65.6.3.5
+en: Cyclic esters 
+
+#P-65.6.3.6
+en: Acylals 
+
+// ==========================================
 
 #P-65.7
 en: Anhydrides and their analogues 

@@ -130,6 +130,8 @@
   "carbonic acid|ro*": "угольных кислот",
   "carbonic [acid]": "угольная",
   "carbonic [acid]|ro": "угольной",
+  "carbonic [acid]|da": "угольной",
+  "carbonic [acid]|vi": "угольную",
 
   "carbonochloridic acid": "carbonochloridic acid",
   "carbonocyanidic acid": "carbonocyanidic acid",
@@ -272,6 +274,11 @@
   "detachable [prefix]|ro*": "отделяемых",
   "detachable [prefix]|tv*": "отделяемыми",
   "detachable [prefix]|da*": "отделяемым",
+
+  "ester": "сложный эфир",
+  "ester|pr": "сложном эфире",
+  "ester|*": "сложные эфиры",
+  "ester|ro*": "сложных эфиров",
 
 
   "functional class name": "название по функциональному классу",
@@ -480,6 +487,9 @@
   "multiplicative [nomenclature]|vi": "мультипликативую",
   "multiplicative nomenclature|pr": "мультипликативной номенклатуре",
 
+  "multiplicative operation": "мультипликативная операция",
+  "multiplicative operation|pr": "мультипликативной операции",
+
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
   "nondetachable [prefix]|ro*": "неотделяемых",
@@ -670,6 +680,7 @@
 
   "polycarbonic acid|*": "полиугольные кислоты",
   "polycarbonic acid|ro*": "полиугольных кислот",
+  "polycarbonic acid|da*": "полиугольным кислотам",
   "polycarbonic acid|pr*": "полиугольных кислотах",
 
   "polynuclear acid|*": "многоядерные кислоты",
@@ -690,6 +701,8 @@
 
   "preselected prefix": "предварительно выбранный префикс",
   "preselected suffix": "предварительно выбранный суффикс",
+
+  "pseudoester|*": "псевдоэфиры",
 
   "quinque": "квинки",
 

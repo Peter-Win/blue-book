@@ -1314,7 +1314,7 @@ ru: 2_H_-2,9-цикло-1-нор(C_{60}-_I__{h})[5,6]фуллерен (PIN)
 
 #P-13.6 
 en: The multiplicative operation 
-ru: Мультипликативная операция
+ru: &(Multiplicative operation)
 
 en: This operation allows the expression of multiple occurrences of parent structures connected by a symmetrical 
 multivalent structure. 
@@ -1326,7 +1326,7 @@ en: In substitutive nomenclature the multiplicative operation is used to name as
 structures linked by di- or polyvalent substituent groups. Identical parent structures are functionalized parent hydrides, 
 functional parents, and rings or ring systems. It is, in fact, substitutive nomenclature in which identical parent structures 
 are interconnected by a di- or polyvalent substituent group. 
-ru: В заместительной номенклатуре мультипликативная операция используется для наименования ансамблей идентичных 
+ru: В заместительной номенклатуре &(multiplicative operation) используется для наименования ансамблей идентичных 
 исходных структур, связанных ди- или поливалентными замещающими группами. Идентичные исходные структуры — это 
 функционализированные родительские гидриды, функциональные родители и кольца или кольцевые системы. 
 Фактически, это заместительная номенклатура, в которой идентичные исходные структуры связаны между собой 
@@ -1434,7 +1434,7 @@ ru: 1,1'-оксидициклогексан (PIN)
 #P-13.6.2+ 
 en: In functional class nomenclature the multiplicative operation is used to name assemblies of identical parent 
 structures linked by a bi- or multivalent functional class name. 
-ru: В номенклатуре функциональных классов операция мультипликативности используется для именования совокупностей 
+ru: В номенклатуре функциональных классов &(multiplicative operation) используется для именования совокупностей 
 идентичных родительских структур, связанных би- или многовалентным именем функционального класса.
 
 @Examples
