@@ -13,15 +13,14 @@ multiplicative nomenclature:
 ru: Мультипликативная номенклатура используется для наименования сборок идентичных родительских структур. 
 Существует два подмножества мультипликативной номенклатуры:
 
-@List 1
 
-@item
+#(1)
 en: A subset of substitutive nomenclature in which the identical structural units are linked by di- or polyvalent 
 substituent groups (see P-15.3.1);
 ru: Подмножество заместительной номенклатуры, в котором идентичные структурные единицы связаны ди- или поливалентными 
 замещающими группами (см. P-15.3.1);
 
-@item
+#(2)
 en: A subset of functional class nomenclature in which the identical structural units are linked by a di- or polyvalent 
 nonacidic residue (this subset is only used to name esters, for which see P-65.6.3.2, and leads to names such as  
 ‘ethane-1,2-diyl diacetate’ for <% f %>). 
@@ -30,7 +29,6 @@ ru: Подмножество номенклатуры функциональны
 см. P-65.6.3.2, и приводит к таким названиям, как «этан-1,2-диилдиацетат» для <% f %>).
 %f: <$ CH3COO-CH2-CH2-OCOCH3 $>
 
-@End
 
 en: In the subset of multiplicative nomenclature as a subset of substitutive nomenclature, two or more identical units, for 
 example, parent structures, linked by di- or polyvalent substituent groups (called ‘multiplicative atoms or groups’ or 

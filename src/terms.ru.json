@@ -279,7 +279,15 @@
   "ester|pr": "сложном эфире",
   "ester|*": "сложные эфиры",
   "ester|ro*": "сложных эфиров",
+  "ester|pr*": "сложных эфирах",
 
+
+  "functional class ester name|ro": "названия сложного эфира по функциональному классу",
+
+  "functional class multiplicative name": "мультипликативное название по функциональному классу",
+
+  "functional class multiplicative nomenclature": "мультипликативная номенклатура функциональных классов",
+  "functional class multiplicative nomenclature|ro": "мультипликативной номенклатуры функциональных классов",
 
   "functional class name": "название по функциональному классу",
   "functional class name|ro": "названия по функциональному классу",
@@ -289,10 +297,12 @@
   "functional class name|da*": "названиям по функциональному классу",
   "functional class name|tv*": "названиями по функциональному классу",
 
+
   "functional class nomenclature": "номенклатура функциональных классов",
   "functional class nomenclature|ro": "номенклатуры функциональных классов",
   "functional class nomenclature|da": "номенклатуре функциональных классов",
   "functional class nomenclature|vi": "номенклатуру функциональных классов",
+  "functional class nomenclature|tv": "номенклатурой функциональных классов",
   "functional class nomenclature|pr": "номенклатуре функциональных классов",
 
   "functional parent": "функциональный родитель",
@@ -397,6 +407,8 @@
   "hydrazonic acid": "гидразоновая кислота",
   "hydrazonic acid|*": "гидразоновые кислоты",
 
+  "hydrogen [anion]": "водород",
+
   "hydroxamic acid": "гидроксамовая кислота",
   "hydroxamic acid|*": "гидроксамовые кислоты",
   "hydroxamic [acid]|ro": "гидроксамовой",
@@ -464,6 +476,9 @@
   "mixed substituent prefix|*": "смешанные замещающие префиксы",
   "mixed substituent prefix|ro*": "смешанных замещающих префиксов",
 
+  "monoester|*": "моноэстеры",
+  "monoester|tv*": "моноэстерами",
+
   "multiparent [system]": "мультиисходная",
   "multiparent [system]|ro": "мультиисходной",
   "multiparent [system]|*": "мультиисходные",
@@ -479,6 +494,7 @@
   "multiplicative name|tv": "мультипликативным названием",
   "multiplicative name|*": "мультипликативные названия",
   "multiplicative name|ro*": "мультипликативных названий",
+  "multiplicative name|da*": "мультипликативным названиям",
 
   "multiplicative nomenclature": "мультипликативная номенклатура",
   "multiplicative nomenclature|ro": "мультипликативной номенклатуры",
@@ -507,12 +523,21 @@
   "oic acid": "овая кислота",
   "oic acid|*": "овые кислоты",
 
+  "organyl group": "органильная группа",
+  "organyl group|ro": "органильной группы",
+  "organyl group|tv": "органильной группой",
+  "organyl group|pr": "органильной группе",
+  "organyl group|*": "органильные группы",
+  "organyl group|ro*": "органильных группп",
+  "organyl group|tv*": "органильными групппами",
+
   "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
   "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
 
   "oxamic acid": "оксамовая кислота",
 
   "parent acid": "исходная кислота",
+  "parent acid|ro": "исходной кислоты",
   "parent acid|pr": "исходной кислоте",
 
   "parent [chain]": "исходная",
@@ -683,6 +708,9 @@
   "polycarbonic acid|da*": "полиугольным кислотам",
   "polycarbonic acid|pr*": "полиугольных кислотах",
 
+  "polyester|*": "полиэстеры",
+  "polyester|ro*": "полиэстеров",
+
   "polynuclear acid|*": "многоядерные кислоты",
   "polynuclear acid|ro*": "многоядерных кислот",
   "polynuclear [acid]|ro*": "многоядерных",
@@ -702,7 +730,8 @@
   "preselected prefix": "предварительно выбранный префикс",
   "preselected suffix": "предварительно выбранный суффикс",
 
-  "pseudoester|*": "псевдоэфиры",
+  "pseudoester": "псевдоэстер",
+  "pseudoester|*": "псевдоэстеры",
 
   "quinque": "квинки",
 
@@ -882,6 +911,7 @@
   "sulfinic [acid]|ro": "сульфиновой",
   "sulfinic [acid]|*": "сульфиновые",
   "sulfinic [acid]|ro*": "сульфиновых",
+  "sulfinic [acid]|da*": "сульфиновым",
 
   "sulfonic acid:comment": "Хотя википедии основной вариант - сульфокислоты, но тут выбран вариант 'сульфоновые кислоты', т.к. он единообразен с подобными названиями. И лучше соответствует инфиксам",
   "sulfonic acid": "сульфоновая кислота",
@@ -892,6 +922,7 @@
   "sulfonic [acid]|ro": "сульфоновой",
   "sulfonic [acid]|*": "сульфоновые",
   "sulfonic [acid]|ro*": "сульфоновых",
+  "sulfonic [acid]|da*": "сульфоновым",
 
   "tellone": "теллон",
 

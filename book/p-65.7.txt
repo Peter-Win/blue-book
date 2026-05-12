@@ -1,0 +1,32 @@
+#P-65.7
+en: Anhydrides and their analogues 
+ru: Ангидриды и их аналоги
+
+@Content
+
+#P-65.7.0
+en: Introduction 
+
+#P-65.7.1
+en: Symmetric anhydrides 
+
+#P-65.7.2
+en: Mixed anhydrides 
+
+#P-65.7.3
+en: Thioanhydrides and other chalcogen analogues 
+
+#P-65.7.4
+en: Peroxyanhydrides and chalcogen analogues 
+
+#P-65.7.5
+en: Diacyl derivatives of trioxidane and chalcogen analogues 
+
+#P-65.7.6
+en: Di- and polyanhydrides 
+
+#P-65.7.7
+en: Cyclic anhydrides 
+
+#P-65.7.8
+en: Polyfunctional anhydrides 
