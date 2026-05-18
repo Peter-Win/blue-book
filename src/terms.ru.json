@@ -126,6 +126,7 @@
 
   "carbonic acid": "угольная кислота",
   "carbonic acid|ro": "угольной кислоты",
+  "carbonic acid|tv": "угольной кислотой",
   "carbonic acid|pr": "угольной кислоте",
   "carbonic acid|ro*": "угольных кислот",
   "carbonic [acid]": "угольная",
@@ -523,6 +524,9 @@
   "oic acid": "овая кислота",
   "oic acid|*": "овые кислоты",
 
+  "oic anhydride": "овый ангидрид",
+  "oic [anhydride]": "овый",
+
   "organyl group": "органильная группа",
   "organyl group|ro": "органильной группы",
   "organyl group|tv": "органильной группой",
@@ -913,6 +917,9 @@
   "sulfinic [acid]|ro*": "сульфиновых",
   "sulfinic [acid]|da*": "сульфиновым",
 
+  "sulfinic anhydride": "сульфиновый ангидрид",
+  "sulfinic [anhydride]": "сульфиновый",
+
   "sulfonic acid:comment": "Хотя википедии основной вариант - сульфокислоты, но тут выбран вариант 'сульфоновые кислоты', т.к. он единообразен с подобными названиями. И лучше соответствует инфиксам",
   "sulfonic acid": "сульфоновая кислота",
   "sulfonic acid|ro": "сульфоновой кислоты",
@@ -923,6 +930,9 @@
   "sulfonic [acid]|*": "сульфоновые",
   "sulfonic [acid]|ro*": "сульфоновых",
   "sulfonic [acid]|da*": "сульфоновым",
+
+  "sulfonic anhydride": "сульфоновый ангидрид",
+  "sulfonic [anhydride]": "сульфоновый",
 
   "tellone": "теллон",
 
@@ -938,6 +948,9 @@
 
   "thioic [acid]": "тиоевая",
   "thioic acid": "тиоевая кислота",
+
+  "thioic anhydride": "тиоевый ангидрид",
+  "thioic [anhydride]": "тиоевый",
 
   "von baeyer name": "название по Фон-Баеру",
   "von baeyer name|ro": "названия по Фон-Баеру",

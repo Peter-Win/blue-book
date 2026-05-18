@@ -6,24 +6,466 @@ ru: Ангидриды и их аналоги
 
 #P-65.7.0
 en: Introduction 
+ru: Введение
+
+en: Anhydrides are compounds consisting of two acyl groups bonded to the same oxygen atom, i.e., acyl-O-acyl. 
+Symmetric and mixed anhydrides have identical and different acyl groups, respectively. The central oxygen atom can 
+be replaced by chalcogen atoms or a peroxy group and its chalcogen analogues.
+ru: Ангидриды — это соединения, состоящие из двух ацильных групп, связанных с одним и тем же атомом кислорода, 
+т.е. ацил-О-ацил. Симметричные и смешанные ангидриды имеют, соответственно, идентичные и различные ацильные группы. 
+Центральный атом кислорода может быть замещен атомами халькогена или пероксидной группой и ее аналогами из числа халькогенов.
+
+en: Polyanhydrides and polyfunctional anhydrides are also described in this Section. 
+ru: В этом разделе также описаны полиангидриды и полифункциональные ангидриды.
 
 #P-65.7.1
 en: Symmetric anhydrides 
+ru: Симметричные ангидриды
+
+en: Symmetric anhydrides of monobasic acids, substituted or unsubstituted, are named by replacing the term ‘acid’ of an 
+acid name by the class name ‘anhydride’. 
+ru: Симметричные ангидриды одноосновных кислот, замещенные или незамещенные, называются путем замены термина «кислота» в 
+названии кислоты на название класса «ангидрид».
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CO-CH3 $>
+  
+en: acetic anhydride (PIN) 
+ru: уксусный ангидрид (PIN)
+
+@cell
+<$ C6H5-CS-O-CS-C6H5 $>
+  
+en: benzenecarbothioic anhydride (PIN)  <br>
+thiobenzoic anhydride 
+ru: бензолкарбо&(thioic anhydride) (PIN) <br>
+тиобензойный ангидрид
+
+@cell
+<$ (CH3-CH2-CH2-CH2-CH2-CO)2O $>
+
+en: hexanoic anhydride (PIN) 
+ru: гексановый ангидрид (PIN)
+
+@cell
+<$ CH3-CH2-CS-O-CS-CH2-CH3 $>
+  
+en: propanethioic anhydride (PIN)
+ru: пропан&(thioic anhydride) (PIN)
+
+@cell
+<$ `/`-`\/-\-CO-O-C`O-/-\`/`-`\ $>
+
+en: cyclohexanecarboxylic anhydride (PIN)
+ru: циклогексанкарбоновый ангидрид (PIN)
+
+@cell
+<$ C6H5-SO2-O-SO2-C6H5 $>
+  
+en: benzenesulfonic anhydride (PIN) 
+ru: бензол&(sulfonic anhydride) (PIN)
+
+@cell
+<$ (Cl-CH2-CO)2O $>
+
+en: bis(chloroacetic) anhydride (PIN)  <br>
+chloroacetic anhydride  
+ru: бис(хлоруксусный) ангидрид (PIN) <br>
+хлоруксусный ангидрид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+(Cl-CH2-CH2-SO)2O; #2@n(2); #3@n(1)
+$>
+
+en: bis(2-chloroethane-1-sulfinic) anhydride (PIN)  <br>
+2-chloroethane-1-sulfinic anhydride
+ru: бис(2-хлорэтан-1-&(sulfinic [anhydride])) ангидрид (PIN) <br>
+2-хлорэтан-1-&(sulfinic anhydride)
+
+@End
 
 #P-65.7.2
 en: Mixed anhydrides 
+ru: Смешанные ангидриды
+
+en: Anhydrides derived from different monobasic acids are named by citing in alphabetical order the names of the two 
+acids, substituted or unsubstituted, without the class name ‘acid’ followed by the class name ‘anhydride’ as a separate 
+word. 
+ru: Ангидриды, полученные из различных одноосновных кислот, называются в алфавитном порядке названиями двух кислот, 
+замещенных или незамещенных, без указания названия класса «кислота» с последующим названием класса «ангидрид» в качестве 
+отдельного слова.
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CO-CH2-CH3 $>
+  
+en: acetic propanoic anhydride (PIN) 
+ru: уксусный пропановый ангидрид (PIN)
+
+@cell
+<$ C6H5-SO-O-SO2-CH2-CH3 $>
+  
+en: benzenesulfinic ethanesulfonic anhydride (PIN) 
+ru: бензол&(sulfinic [anhydride]) этан&(sulfonic anhydride) (PIN)
+
+@cell
+<$ C6H5-CO-O-CS-CH3 $>
+  
+en: benzoic ethanethioic anhydride (PIN)  <br>
+benzoic thioacetic anhydride 
+ru: бензойный этан&(thioic anhydride) (PIN) <br>
+бензойный тиоуксусный ангидрид
+
+@cell
+<$ CH3-CO-O-CO-CH2-Cl $>
+
+en: acetic chloroacetic anhydride (PIN) 
+ru: уксусный хлоруксусный ангидрид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+O2`N-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-SO2-O-CO-CH2-Cl
+$>
+
+en: chloroacetic 4-nitrobenzene-1-sulfonic anhydride (PIN) 
+ru: хлоруксусный 4-нитробензол-1-&(sulfonic anhydride) (PIN)
+
+@End
+
+en: Mixed anhydrides with carbonic acid, cyanic acid, and inorganic acids are named as anhydrides. Terms such as 
+‘monoanhydride’ are used with di-, tri-, or tetrabasic acids to specify the appropriate number of anhydride linkages. 
+ru: Смешанные ангидриды с &(carbonic acid|tv), циановой кислотой и неорганическими кислотами именуются как ангидриды. 
+Термины типа «моноангидрид» используются с ди-, три- или тетраосновными кислотами для указания соответствующего количества 
+ангидридных связей.
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CN $>
+
+en: acetic cyanic anhydride (PIN) 
+ru: уксусный циановый ангидрид (PIN)
+
+@cell
+<$ C6H5-CO-O-PH2 $>
+  
+en: benzoic phosphinous anhydride (PIN) 
+ru: бензойный фосфиновый ангидрид (PIN)
+
+@cell
+<$ (HO)2B-O-CO-CH3 $>
+  
+en: acetic boric monoanhydride (PIN) 
+ru: уксусный борный моноангидрид (PIN)
+
+@End
 
 #P-65.7.3
 en: Thioanhydrides and other chalcogen analogues 
+ru: Тиоангидриды и другие &(chalcogen analogue|*)
+
+en: Chalcogen analogues of anhydrides having the general structure <%a%>, <%b%>, or <%c%>, where X is <%d%>, <%e%>, or <%f%>, 
+are named using the class names ‘thioanhydride’, ‘selenoanhydride’, or ‘telluroanhydride’, respectively. 
+ru: &(Chalcogen analogue) ангидридов, имеющие общую структуру <%a%>, <%b%> или <%c%>, где X — <%d%>, <%e%> или <%f%>, 
+называются с использованием названий классов «тиоангидрид», «селеноангидрид» или «теллуроангидрид» соответственно.
+%a: –CO-X-CO–
+%b: –CO-X-CS–
+%c: –CS-X-CS–
+%d: –S–
+%e: –Se–
+%f: –Te–
+
+@Examples
+
+@cell
+C6
+<$ H5-CO-S-CO-C6H5 $>
+  
+en: benzoic thioanhydride (PIN) 
+ru: бензойный тиоангидрид (PIN)
+
+@cell
+<$ CH3-CH2-SO2-S-CS-C6H5 $>
+  
+en: benzenecarbothioic ethanesulfonic thioanhydride (PIN)  <br>
+ethanesulfonic thiobenzoic thioanhydride 
+ru: бензолкарботионовый этан&(sulfonic [anhydride]) тиоангидрид (PIN) <br>
+этан&(sulfonic [anhydride]) тиобензойный тиоангидрид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$slope(30)|`/`\<`/Cl>@n(4,-150)`|/\@n(1)/<_(a-75,N2)S>-S-<_(a-75,N2)S>\@n(1)/\|@n(4,-30)<\Cl>`/`\`|
+$>
+
+en: bis(4-chlorocyclohexane-1-carbothioic) thioanhydride (PIN)
+ru: бис(4-хлорциклогексан-1-карбо&(thioic [anhydride])) тиоангидрид (PIN)
+
+@cell
+<$ CH3-CO-Se-CO-CH3 $>
+  
+en: acetic selenoanhydride (PIN) 
+ru: уксусный селеноангидрид (PIN)
+
+@End
+
+en: The various unsymmetrical thioanhydrides derived from acetic propanoic anhydride are named as follows.
+ru: Различные несимметричные тиоангидриды, полученные из уксусного пропанового ангидрида, называются следующим образом.
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CO-CH2-CH3 $>
+  
+en: acetic propanoic anhydride (PIN)  <br>
+acetic propionic anhydride 
+ru: уксусный пропан&(oic anhydride) (PIN) <br>
+уксусный пропионовый ангидрид
+
+@cell
+<$ CH3-CO-O-CS-CH2-CH3 $>
+  
+en: acetic propanethioic anhydride (PIN)  <br>
+acetic thiopropionic anhydride 
+ru: уксусный пропан&(thioic anhydride)  (PIN) <br>
+уксусный тиопропионовый ангидрид
+
+@cell
+<$ CH3-CO-S-CO-CH2-CH3 $>
+  
+en: acetic propanoic thioanhydride (PIN)  <br>
+acetic propionic thioanhydride 
+ru: уксусный пропан&(oic [anhydride]) тиоангидрид (PIN) <br>
+уксусный пропионовый тиоангидрид
+
+@cell
+<$ CH3-CS-O-CO-CH2-CH3 $>
+  
+en: ethanethioic propanoic anhydride (PIN)  <br>
+propionic thioacetic anhydride 
+ru: этан&(thioic [anhydride]) пропан&(oic anhydride) (PIN) <br>
+пропионовый тиоуксусный ангидрид
+
+@cell
+<$ CH3-CS-O-CS-CH2-CH3 $>
+  
+en: ethanethioic propanethioic anhydride (PIN)  <br>
+thioacetic thiopropionic anhydride 
+ru: этан&(thioic [anhydride]) пропан&(thioic anhydride) (PIN) <br>
+тиоуксусный тиопропионовый ангидрид
+
+@cell
+<$ CH3-CS-S-CS-CH2-CH3 $>
+  
+en: ethanethioic propanethioic thioanhydride (PIN)  <br>
+thioacetic thiopropionic thioanhydride 
+ru: этан&(thioic [anhydride]) пропан&(thioic [anhydride]) тиоангидрид (PIN) <br>
+тиоуксусный тиопропионовый тиоангидрид
+
+@cell
+<$ CH3-CH2-CS-Se-CO-CH3 $>
+  
+en: acetic propanethioic selenoanhydride (PIN)  <br>
+acetic thiopropionic selenoanhydride 
+ru: уксусный пропан&(thioic [anhydride]) селеноангидрид (PIN) <br>
+уксусный тиопропионовый селеноангидрид
+
+@cell
+<$ CH3-CS-S-CO-CH2-CH3 $>
+  
+en: ethanethioic propanoic thioanhydride (PIN)  <br>
+propionic thioacetic thioanhydride 
+ru: этан&(thioic [anhydride]) пропан&(oic [anhydride]) тиоангидрид (PIN) <br>
+пропионовый тиоуксусный тиоангидрид
+
+@End
 
 #P-65.7.4
 en: Peroxyanhydrides and chalcogen analogues 
+ru: Пероксиангидриды и &(chalcogen analogue|*)
+
+en: Peroxyanhydrides, <%a%> or <%b%>, are named by replacing the term ‘acid’ of an acid or two 
+different acids by the class name ‘peroxyanhydride’.  
+ru: Пероксиангидриды, <%a%> или <%b%>, получают свои названия, заменяя термин «кислота» одной или двух различных кислот 
+на название класса «пероксиангидрид».
+%a: R-CO-OO-CO-R
+%b: R-CO-OO-COR′
+
+@Examples
+
+@cell
+<$ CH3-CO-OO-CO-CH3 $>
+  
+en: acetic peroxyanhydride (PIN) 
+ru: уксусный пероксиангидрид (PIN)
+
+@End
+
+en: Related anhydrides, in which the junction between two acyl groups is of the type –SS–, –OS–, –SSe–, etc. are named as 
+‘dithioperoxyanhydrides’, ‘thioperoxyanhydrides’, ‘selenothioperoxyanhydrides’, etc. When it is necessary to specify 
+the position of the chalcogen atoms between two unsymmetrically substituted acyl groups or two different acyl groups, 
+the acyl group name is preceded by the appropriate italicized capital element symbols indicating its attachment.
+ru: Родственные ангидриды, в которых соединение между двумя ацильными группами имеет тип –SS–, –OS–, –SSe– и т. д., 
+называются «дитиопероксиангидридами», «тиопероксиангидридами», «селенотиопероксиангидридами» и т. д. Когда необходимо 
+указать положение атомов халькогена между двумя несимметрично замещенными ацильными группами или двумя различными ацильными 
+группами, перед названием ацильной группы ставится соответствующий курсивный символ элемента, указывающий на его присоединение.
+
+@Examples
+
+@cell
+<$ CH3-CO-S-O-CO-CH3 $>
+  
+en: acetic thioperoxyanhydride (PIN)
+ru: уксусный тиопероксиангидрид (PIN)
+
+@cell
+<$ CH3-CO-S-O-CO-CH2-CH3 $>
+  
+en: _S_-acetic _O_-propanoic thioperoxyanhydride (PIN) 
+ru: _S_-уксусный _O_-пропан&(oic anhydride) тиопероксиангидрид (PIN)
+
+@cell
+<$ CH3-CO-SS-CO-CH3 $>
+  
+en: acetic dithioperoxyanhydride (PIN) 
+ru: уксусный дитиопероксиангидрид (PIN)
+
+@End
 
 #P-65.7.5
 en: Diacyl derivatives of trioxidane and chalcogen analogues 
+ru: Диацильные производные триоксидана и &(chalcogen analogue|ro*)
+
+#P-65.7.5.1+
+en: Anhydrides derived from peroxy acids and their chalcogen analogues are named substitutively as 
+pseudoketones (see P-64.3). Multiplicative names are preferred when the conditions for their use are fulfilled (see  
+P-15.3). 
+ru: Ангидриды, полученные из пероксикислот и их &(chalcogen analogue|ro*), называются замещающим образом как псевдокетоны 
+(см. P-64.3). &(Multiplicative name|*) предпочтительны, когда выполняются условия их использования (см. P-15.3).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-CO@n(1',-80)-OOO-CO@n(1)-CH3
+$>
+
+en: 1,1′-trioxidanediyldi(ethan-1-one) (PIN) 
+ru: 1,1′-триоксидандиилди(этан-1-он) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-CO-SSSS-CO@n(1)-CH2@n(2)-CH3@n(3)
+$>
+
+en: 1-(acetyltetrasulfanyl)propan-1-one (PIN) 
+ru: 1-(ацетилтетрасульфанил)пропан-1-он (PIN)
+
+@cell
+<$ CH3-CO-S-O-S-CO-CH3 $>
+  
+en: 1,1′-dithioxanediyldi(ethan-1-one) (PIN)  
+ru: 1,1′-дитиоксандиилди(этан-1-он) (PIN)
+
+@cell
+<$ CH3-CO-OO-S-CO-CH3 $>
+  
+en: 1-[(acetylperoxy)sulfanyl]ethan-1-one (PIN)  <br>
+{not 1-[(acetylsulfanyl)peroxy]ethan-1-one;  <br>
+the PIN has the lower alphanumerical order} 
+ru: 1-[(ацетилперокси)сульфанил]этан-1-он (PIN) <br>
+{не 1-[(ацетилсульфанил)перокси]этан-1-он; <br>
+PIN имеет меньший буквенно-цифровой порядок}
+
+@End
+
+#P-65.7.5.2+
+en: Diacyl derivatives of multiatomic chalcogen chains are named by skeletal replacement (‘a’) nomenclature 
+when the conditions for its use are fulfilled (see P-15.4 and P-51.3.1). 
+ru: Диацильные производные многоатомных цепей халькогенов именуются с помощью номенклатуры &(skeletal replacement a|ro) 
+при соблюдении условий ее использования (см. P-15.4 и P-51.3.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3@n(1)-CO@n(2)-O@n(3)-Te@n(4)-Se@n(5)-S@n(6)-CO@n(7)-CH3@n(8)
+$>
+
+en: 3-oxa-6-thia-5-selena-4-telluraoctane-2,7-dione (PIN)  
+ru: 3-окса-6-тиа-5-селена-4-теллураоктан-2,7-дион (PIN)
+
+@End
 
 #P-65.7.6
 en: Di- and polyanhydrides 
+ru: Ди- и полиангидриды
+
+en: Di- and polyanhydrides have two or more <%a%> or related groups, such as <%b%>, respectively. They are 
+named using the class name ‘dianhydride’, ‘trianhydride’, etc., preceded by the names of the acid groups cited as 
+separate words. 
+ru: Ди- и полиангидриды имеют две или более <%a%> или родственных групп, таких как <%b%>, соответственно. Их именуют, 
+используя название класса «диангидрид», «триангидрид» и т. д., перед которым указываются названия кислотных групп, 
+представленные отдельными словами.
+%a: <${}–CO-O-CO–{}$>
+%b: <${}–SO2-O-SO2–{}$>
+
+#P-65.7.6.1+
+en: Dianhydrides are named by citing the acid groups in their order of occurrence in the structure beginning with 
+the end acid group lower in alphabetical order followed by the class term ‘dianhydride’. The numerical prefix ‘di-’ is 
+used to generate preferred IUPAC names.
+ru: Диагидриды именуются путем указания кислотных групп в порядке их расположения в структуре, начиная с наименьшей 
+кислотной группы в алфавитном порядке, за которой следует обозначение класса «диангидрид». Для формирования предпочтительных 
+названий по номенклатуре IUPAC используется числовой префикс «ди-».
+
+@Examples
+
+@cell
+<$ HO−B(O-CO-CH3)2 $>
+  
+en: bis(acetyloxy)borinic acid (PIN;  <br>
+acid is senior to anhydride)  <br>
+acetic boric dianhydride  
+ru: бис(ацетилокси)бориновая кислота (PIN; <br>
+кислота старше ангидрида) <br>
+уксусный борный диангидрид
+
+@cell
+<$ CH3-CO-O-CO-CH2-CH2-CO-O-CO-CH3 $>
+  
+en: diacetic butanedioic dianhydride (PIN) 
+ru: диуксусный бутандиовый диангидрид (PIN)
+
+@cell
+<$ CH3-CO-O-SO2-CH2-SO2-O-CO-CH2-CH3 $>
+  
+en: acetic methanedisulfonic propanoic dianhydride (PIN) 
+ru: уксусный метанди&(sulfonic [anhydride]) пропан&(oic [anhydride]) диангидрид (PIN)
+
+@cell
+<$ CH3-CH2-CO-O-CO-CH2-CH2-CO-O-CO-CH2-CH2-CH3 $>
+  
+en: butanoic butanedioic propanoic dianhydride (PIN) 
+ru: бутан&(oic [anhydride]) бутанди&(oic [anhydride]) пропан&(oic [anhydride]) диангидрид (PIN)
+
+@cell
+<$ CH3-CO-O-CO-CH<`|CH3>-CH2-CO-O-CO-CH3 $>
+
+en: diacetic 2-methylbutanedioic dianhydride (PIN) 
+ru: диуксусный 2-метилбутанди&(oic [anhydride]) диангидрид (PIN)
+
+@End
+
+//----
 
 #P-65.7.7
 en: Cyclic anhydrides 
