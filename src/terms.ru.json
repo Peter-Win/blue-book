@@ -134,6 +134,8 @@
   "carbonic [acid]|da": "угольной",
   "carbonic [acid]|vi": "угольную",
 
+  "carbonic [amide]": "угольный",
+
   "carbonochloridic acid": "carbonochloridic acid",
   "carbonocyanidic acid": "carbonocyanidic acid",
 
@@ -152,6 +154,8 @@
   "chalcogen analogue|ro*": "халькогеновых аналогов",
   "chalcogen analogue|tv*": "халькогеновыми аналогами",
 
+  "chalcogen replacement analogue|*": "аналоги, полученные путём замещения халькогеном,",
+
   "characteristic [group]": "характеристическая",
   "characteristic [group]|*": "характеристические",
   "characteristic [group]|ro*": "характеристических",
@@ -169,6 +173,7 @@
   "citation": "цитирование",
   "citation|ro": "цитирования",
   "citation|pr": "цитировании",
+  "citation|da": "цитированию",
   "cite": "цитировать",
   "cited": "цитируется",
   "cited|p*": "цитируемые",
@@ -241,6 +246,7 @@
   "composite locant|ro*": "композитных локантов",
   "composite locant|tv*": "композитными локантами",
 
+  "concatenated [prefixes]": "сцепленные",
   "concatenated [substituent group]|*": "сцепленные",
 
   "conjunctive name": "конъюнктивное название",
@@ -316,7 +322,9 @@
   "functional replacement analogue|*": "аналоги функционального замещения",
 
   "functional replacement name": "название функционального замещения",
+  "functional replacement name|ro": "названия функционального замещения",
   "functional replacement name|tv": "названием функционального замещения",
+  "functional replacement name|*": "названия функционального замещения",
 
   "functional replacement nomenclature": "номенклатура функционального замещения",
   "functional replacement nomenclature|ro": "номенклатуры функционального замещения",
@@ -324,6 +332,8 @@
 
   "functional replacement prefix": "префикс функционального замещения",
   "functional replacement prefix|tv": "префиксом функционального замещения",
+  "functional replacement prefix|ro*": "префиксов функционального замещения",
+  "functional replacement prefix|tv*": "префиксами функционального замещения",
   
   "functional suffix": "функциональный суффикс",
   "functional suffix|*": "функциональные суффиксы",
@@ -588,6 +598,8 @@
   "parent hydride|tv*": "исходными гидридами",
   "parent hydride|pr*": "исходных гидридах",
 
+  "parent hydride structure|pr": "структуре исходного гидрида",
+
   "parent name": "исходное название",
   "parent name|ro": "исходного названия",
   "parent name|da": "исходному названию",
@@ -707,6 +719,7 @@
   "phane system|ro*": "фановых систем",
   "phane system|da*": "фановым системам",
 
+  "polycarbonic acid|tv": "полиугольной кислотой",
   "polycarbonic acid|*": "полиугольные кислоты",
   "polycarbonic acid|ro*": "полиугольных кислот",
   "polycarbonic acid|da*": "полиугольным кислотам",
@@ -723,6 +736,9 @@
   "polynuclear carbon acid|ro*": "многоядерных угольных кислот",
 
   "preferred prefix": "предпочтительный префикс",
+  "preferred prefix|ro": "предпочтительного префикса",
+  "preferred prefix|tv": "предпочтительным префиксом",
+  "preferred prefix|pr": "предпочтительном префиксе",
   "preferred prefix|*": "предпочтительные префиксы",
   "preferred prefix|ro*": "предпочтительных префиксов",
   "preferred prefix|tv*": "предпочтительными префиксами",
@@ -868,6 +884,7 @@
 
   "substitution": "замещение",
   "substitution|ro": "замещения",
+  "substitution|tv": "замещением",
 
   "substituting group|pr": "замещающей группе",
 
@@ -951,6 +968,7 @@
 
   "thioic anhydride": "тиоевый ангидрид",
   "thioic [anhydride]": "тиоевый",
+  "thioic [amide]": "тиоевый",
 
   "von baeyer name": "название по Фон-Баеру",
   "von baeyer name|ro": "названия по Фон-Баеру",

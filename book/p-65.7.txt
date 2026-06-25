@@ -465,10 +465,634 @@ ru: диуксусный 2-метилбутанди&(oic [anhydride]) дианг
 
 @End
 
-//----
+#P-65.7.6.2+
+en: Linear polyanhydrides are named by one of the following methods: 
+ru: Линейные полиангидриды именуются одним из следующих способов:
+
+@List 1
+
+@item
+en: by selecting the preferred dicarboxylic acid and citing the adjoining acid groups one of which will be substituted 
+using the principles of substitutive nomenclature; 
+ru: путем выбора предпочтительной дикарбоновой кислоты и &(citation|ro) прилегающих кислотных групп, одна из которых будет 
+замещена, используя принципы &(substitutive nomenclature|ro);
+
+@item
+en: by citing the acid groups, in their order of appearance, in the structure beginning with the end acid group lower 
+in alphabetical order followed by a class term ‘dianhydride’, ‘trianhydride’, etc. Numerical prefixes are in 
+preferred IUPAC names. 
+ru: путем &(citation|ro) кислотных групп в порядке их появления в структуре, начиная с конечной кислотной группы в алфавитном 
+порядке, за которой следует обозначение класса «диангидрид», «триангидрид» и т. д. Числовые префиксы соответствуют 
+предпочтительным названиям по номенклатуре IUPAC.
+
+@End
+
+en: When there is a choice the second acid group will be the acid group lower in alphabetical order. 
+ru: При наличии выбора вторая кислотная группа будет той, которая расположена раньше в алфавитном порядке.
+
+en: Method (1) generates preferred IUPAC names.  
+ru: Метод (1) генерирует предпочтительные названия IUPAC.
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CO-CH2-CH2-CO-O-CO-CH2-CH2-CO-O-CO-CH2-CH3 $>
+  
+en: (1) acetic butanedioic 4-(propanoyloxy)-4-oxobutanoic dianhydride (PIN)  <br>
+(2) acetic dibutanedioic propanoic trianhydride 
+ru: (1) уксусный бутанди&(oic [anhydride]) 4-(пропаноилокси)-4-оксобутан&(oic [anhydride]) диангидрид (PIN) <br>
+(2) уксусный дибутанди&(oic [anhydride]) пропан&(oic [anhydride]) триангидрид
+
+@cell
+<$ CH3-CO-O-CO-CH2-CO-O-CO-CH2-CH2-CO-O-CO-CH3 $>
+  
+en: (1) acetic 3-(acetyloxy)-3-oxopropanoic butanedioic dianhydride (PIN)  <br>
+(2) acetic butanedioic propanedioic acetic trianhydride 
+ru: (1) уксусный 3-(ацетилокси)-3-оксопропан&(oic [anhydride]) бутанди&(oic [anhydride]) диангидрид (PIN) <br>
+(2) уксусный бутанди&(oic [anhydride]) пропанди&(oic [anhydride]) уксусный триангидрид
+
+@End
+
+en: When the dibasic acid is substituted, locants are used to locate the terminal acid groups.  
+ru: При замещении двуосновной кислоты для определения местоположения концевых кислотных групп используются локанты.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-CO-O-CO@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-O-CO@n(4)-CH2@n(3)-CH@n(2,90)<`|CH3>-CO@n(1)-O-CO-CH2-CH3
+$>
+
+en: 4-[4-(acetyloxy)-4-oxobutanoic] 2-methylbutanedioic 1-propanoic dianhydride (PIN)  <br>
+4-(acetic butanedioic) 2-methylbutanedioic 1-propanoic trianhydride 
+ru: 4-[4-(ацетилокси)-4-оксобутан&(oic [anhydride])] 2-метилбутанди&(oic [anhydride]) 1-пропан&(oic [anhydride]) диангидрид (PIN) <br>
+4-(уксусный бутанди&(oic [anhydride])) 2-метилбутанди&(oic [anhydride]) 1-пропан&(oic [anhydride]) триангидрид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-CO-O-CO@n(1)-CH2@n(2)-CH2@n(3)-CO@n(4)-O-SO2-CH2-SO2-O-CO-CH3
+$>
+
+en: acetic butanedioic [(acetyloxy)sulfonyl]methanesulfonic dianhydride (PIN)  <br>
+acetic butanedioic methanedisulfonic acetic trianhydride
+ru: уксусный бутанди&(oic [anhydride]) [(ацетилокси)сульфонил]метан&(sulfonic [anhydride]) диангидрид (PIN) <br>
+уксусный бутанди&(oic [anhydride]) метанди&(sulfonic [anhydride]) уксусный триангидрид
+
+@End
+
+#P-65.7.6.3+
+en: Polyanhydrides consisting of a polybasic acid residue and the equivalent number of monobasic residues are 
+named by citing the monobasic acid groups, which may be substituted by additional anhydride linkages, in alphabetical 
+order followed by the polybasic acid residue and the class name ‘anhydride’ with the appropriate numerical prefix. 
+Locants may be used to specify the positions of the anhydride linkages. 
+ru: Полиангидриды, состоящие из полиосновного кислотного остатка и эквивалентного числа одноосновных кислотных остатков, 
+называются путем &(citation|ro) одноосновных кислотных групп, которые могут быть замещены дополнительными ангидридными 
+связями, в алфавитном порядке, за которыми следует полиосновной кислотный остаток и название класса «ангидрид» с 
+соответствующим числовым префиксом. Для указания положения ангидридных связей могут использоваться локанты.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$slope(30)CH3-CO-O-OC/@n(6,-150,.4)`||/\\|<`//`\>\//@n(3,-30,.4)<\CO-O-CO-CH3>`|@n(2,,.4)<`\\@n(1,,.4)`/>/CO-O-CO@n(1)-CH2@n(2)-CH3@n(3)
+$>
+
+en: 3,6-diacetic 2-propanoic naphthalene-2,3,6-tricarboxylic trianhydride (PIN)
+ru: 3,6-диуксусный 2-пропан&(oic [anhydride]) нафталин-2,3,6-трикарбоновый триангидрид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$slope(30)CH3-CO-O-OC/@n(6,-150,.4)`||/\\|<`//`\>\//@n(3,-30,.4)<\CO-O-CO-CH(CH3)-CH2-CO-O-CO-CH3>#
+`|@n(2,,.4)<`\\@n(1,,.4)`/>/CO-O-CO@n(1)-CH2@n(2)-CH3@n(3)
+$>
+
+en: 6-acetic 3-[4-(acetyloxy)-2-methyl-4-oxobutanoic] 2-propanoic naphthalene-2,3,6-tricarboxylic trianhydride (PIN) 
+ru: 6-уксусный 3-[4-(ацетилокси)-2-метил-4-оксобутан&(oic [anhydride])] 2-пропан&(oic [anhydride]) нафталин-2,3,6-трикарбоновый триангидрид (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.6)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-CH2-CO-O-P@n(\textit{P'})<`|O`-CO`-CH3>(O)-CH2@n(2)-CH2@n(1)-P@n(\textit{P})<`|O-CO-CH3>(O)-O-CO-CH2-CH3
+$>
+
+en: _P,P′_-diacetic _P,P′_-dipropanoic (ethane-1,2-diyl)bis(phosphonic) tetraanhydride (PIN) 
+ru: _P,P′_-диуксусный _P,P′_-дипропан&(oic [anhydride]) (этан-1,2-диил)бис(фосфоновый) тетраангидрид (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nu(n)@n(&n,-90,.55)@;
+$slope(30)CH3-CO-O-OC/@n(6,90)`||/@n(8,-150)<`|CH2@nu(1)-CO@nu(2)-O-CO-CH3>\\|<`//`\>\//@n(3,90)<\CO-O-CO-CH3>`|@n(2,30)<`\\@n(1,-90,.33)`/>/CO-O-CO-CH2-CH3
+$>
+
+en: 3,6-diacetic 2-propanoic 8-[2-(acetyloxy)-2-oxoethyl]naphthalene-2,3,6-tricarboxylic trianhydride (PIN)
+ru: 3,6-диуксусный 2-пропан&(oic [anhydride]) 8-[2-(ацетилокси)-2-оксоэтил]нафталин-2,3,6-трикарбоновый триангидрид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nq(n); #-1@n(&n,-70,.66)@;
+CH3-CH2-CH2-CO-O-CO@n(6)-[CH2]4@nq(2-5)-CO@n(1)-O-P<`||O><-O-CO@n(1)-[CH2]2@nq(2-3)-CO@n(4)-O-CO-CH2-CH3>_(y1.4)O-CO@n(1)-[CH2]3@nq(2-4)-CO@n(5)-O-CO-CH3
+$>
+
+en: 5-(acetyloxy)-5-oxopentanoic 6-(butanoyloxy)-6-oxohexanoic 4-oxo-4-(propanoyloxy)butanoic phosphoric trianhydride (PIN) 
+ru: 5-(ацетилокси)-5-оксопентан&(oic [anhydride]) 6-(бутаноилокси)-6-оксогексан&(oic [anhydride]) 4-оксо-4-(пропаноилокси)бутан&(oic [anhydride]) фосфорный триангидрид (PIN)
+
+@End
+
+#P-65.7.6.4
+en: Chalcogen analogues of di- and polyanhydrides 
+ru: &(Chalcogen analogue|*) ди- и полиангидридов
+
+en: When chalcogen atoms are present in di- and polyanhydrides, their names are formed in different ways. 
+ru: Когда в ди- и полиангидридах присутствуют атомы халькогенов, их названия образуются различными способами.
+
+#P-65.7.6.4.1+
+en: When all anhydride linkages are identical, as in <%a%>, names are formed using class names such as 
+‘thioanhydride’ preceded by the multiplicative prefixes ‘bis-’, ‘tris-’, etc. 
+ru: Когда все ангидридные связи идентичны, как в <%a%>, названия образуются с использованием названий классов, таких как 
+«тиоангидрид», которым предшествуют мультипликативные префиксы «бис-», «трис-» и т. д.
+%a: –CO-S-CO–
+
+@Examples
+
+@cell
+<$ CH3-CO-S-CO-CH2-CH2-CO-S-CO-CH3 $>
+  
+en: diacetic butanedioic bis(thioanhydride) (PIN) 
+ru: диуксусный бутанди&(oic [anhydride]) бис(тиоангидрид) (PIN)
+
+@cell
+<$ CH3-CO-S-SO2-CH2-SO2-S-CO-CH3 $>
+  
+en: diacetic methanedisulfonic bis(thioanhydride) (PIN)
+ru: диуксусный метанди&(sulfonic [anhydride]) бис(тиоангидрид) (PIN)
+
+@End
+
+#P-65.7.6.4.2+
+en: When different chalcogen atoms are present in the anhydride linkages, the usual order of seniority 
+established for chalcogen atoms, <%List%>, is used to choose the senior anhydride. The senior anhydride chosen 
+as the basis for the name can be an anhydride (see P-65.7.1 through P-65.7.5) or a di- or polyanhydride. Other 
+anhydride linkages are named substitutively. 
+ru: Когда в ангидридных связях присутствуют разные атомы халькогенов, для выбора старшего ангидрида используется обычный 
+порядок старшинства, установленный для атомов халькогенов, <%List%>. Старший ангидрид, выбранный в качестве основы 
+для названия, может быть ангидридом (см. P-65.7.1 – P-65.7.5) или ди- или полиангидридом. Другие ангидридные связи 
+называются замещающим образом.
+%List: O > S > Se > Te
+
+@Examples
+
+@cell
+<$ CH3-CO-O-CO-CH2-CH2-CH2-CO-S-CO-CH3 $>
+  
+en: acetic 5-(acetylsulfanyl)-5-oxopentanoic anhydride (PIN) 
+ru: уксусный 5-(ацетилсульфанил)-5-оксопентан&(oic anhydride) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nu(n)@n(&n,-90,.55)@;
+$slope(30)CH3-CO-S-OC/@n(6,90)`||/\\|<`//`\>\//@n(3,90)<\CO-S-CO-CH3>`|@n(2,-90)<`\\@n(1,-90)`/>/CO-S-CO@nu(1)-CH2@nu(2)-CH3@nu(3)
+$>
+
+en: 3,6-diacetic 2-propanoic naphthalene-2,3,6-tricarboxylic tris(thioanhydride) (PIN) 
+ru: 3,6-диуксусный 2-пропан&(oic [anhydride]) нафталин-2,3,6-трикарбоновый трис(тиоангидрид) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$slope(30)`//`\`//`\`||/\\<|>/\\@n(2,-90)</CO-O-CO-CH3>|@n(3,90)\CO-S-CO-CH3
+$>
+
+en: acetic 3-[(acetylsulfanyl)carbonyl]naphthalene-2-carboxylic anhydride (PIN)
+ru: уксусный 3-[(ацетилсульфанил)карбонил]нафталин-2-карбоновый ангидрид (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$slope(30)|`//`\`//`\`||/\\<|>/<`|CH2-CH2-CO-S-CO-CH3>@n(1,-30)\\@n(2,30)/CO-O-CO-CH3
+$>
+
+en: acetic 1-[3-(acetylsulfanyl)-3-oxopropyl]naphthalene-2-carboxylic anhydride (PIN)
+ru: уксусный 1-[3-(ацетилсульфанил)-3-оксопропил]нафталин-2-карбоновый ангидрид (PIN)
+
+@End
+
+#P-65.7.6.4.3+
+en: When the chalcogen atom replaces an oxygen atom in a carbonyl group, i.e. <%a%>, thiocarboxylic acids 
+and thioacyl groups are used in the manner described for anhydrides and polyanhydrides.
+ru: Когда атом халькогена замещает атом кислорода в карбонильной группе, т.е. <%a%>, тиокарбоновые кислоты и 
+тиоацильные группы используются так же, как и ангидриды и полиангидриды.
+%a: >C=S
+
+@Examples
+
+@cell
+<$ CH3-CS-O-CO-CH2-CH2-CO-O-CO-CH3 $>
+  
+en: acetic butanedioic ethanethioic dianhydride (PIN) 
+ru: уксусный бутанди&(oic [anhydride]) этан&(thioic [anhydride]) диангидрид (PIN)
+
+@cell
+<$ CH3-CO-O-CS-CH2-CH2-CS-O-CO-CH3 $>
+  
+en: diacetic butanebis(thioic) dianhydride (PIN) 
+ru: диуксусный бутанбис(&(thioic [anhydride])) диангидрид (PIN)
+
+@cell
+<$ CH3-CO-O-CS-CH2-CH2-CS-S-CS-CH3 $>
+  
+en: acetic 4-[(ethanethioyl)sulfanyl]-4-sulfanylidenebutanethioic anhydride (PIN) 
+ru: уксусный 4-[(этантиоил)сульфанил]-4-сульфанилиденбутан&(thioic anhydride) (PIN)
+
+@cell
+<$ CH3-CO-O-CO-CH2-CH2-CO-O-CO-CH2-CH2-CO-S-CO-CH2-CH3 $>
+  
+en: acetic butanedioic 4-oxo-4-(propanoylsulfanyl)butanoic dianhydride (PIN) 
+ru: уксусный бутанди&(oic [anhydride]) 4-оксо-4-(пропаноилсульфанил)бутан&(oic [anhydride]) диангидрид (PIN)
+
+@End
 
 #P-65.7.7
 en: Cyclic anhydrides 
+ru: Циклические ангидриды
+
+#P-65.7.7.1+
+en: Cyclic anhydrides formed from two acid groups attached to the same parent hydride structure are named in two ways: 
+ru: Циклические ангидриды, образованные из двух кислотных групп, присоединенных к одной и той же 
+&(parent hydride structure|pr), называются двумя способами:
+
+@List 1
+
+@item
+en: as heterocyclic pseudoketones; 
+ru: как гетероциклические псевдокетоны;
+
+@item
+en: by changing the class term ‘acid’ to ‘anhydride’ in the systematic or retained name of the dibasic acid.
+ru: путем замены термина класса «кислота» на «ангидрид» в систематическом или &(retained name|pr) двуосновной кислоты.
+
+@End
+
+en: Method (1) generates preferred IUPAC names
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре IUPAC
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|_q@n(2,140)<_(a54,N2)O>_qO@n(1,0,.5)_q<_(a54,N2)O>@n(5,-140)_q
+$>
+
+en: oxolane-2,5-dione (PIN)  <br>
+3,4-dihydrofuran-2,5-dione  <br>
+butanedioic anhydride  <br>
+succinic anhydride 
+ru: оксолан-2,5-дион (PIN) <br>
+3,4-дигидрофуран-2,5-дион <br>
+бутанди&(oic anhydride) <br>
+янтарный ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|<_(a65)H3C>@n(3,-140)_q@n(2,140)<_(a54,N2)O>_qO@n(1,0,.5)_q<_(a54,N2)O>@n(5,-140)_q
+$>
+
+en: 3-methyloxolane-2,5-dione (PIN)  <br>
+3-methyl-3,4-dihydrofuran-2,5-dione  <br>
+2-methylbutanedioic anhydride  <br>
+methylsuccinic anhydride 
+ru: 3-метилоксолан-2,5-дион (PIN) <br>
+3-метил-3,4-дигидрофуран-2,5-дион <br>
+2-метилбутанди&(oic anhydride) <br>
+метилянтарный ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+||_q@n(2,140)<_(a54,N2)O>_qO@n(1,0,.5)_q<_(a54,N2)O>@n(5,-140)_q
+$>
+
+en: furan-2,5-dione (PIN)  <br>
+maleic anhydride 
+ru: фуран-2,5-дион (PIN) <br>
+малеиновый ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+||<_(a54)Br>@n(3,-140)_q@n(2,140)<_(a54,N2)O>_qO@n(1,0,.5)_q<_(a54,N2)O>@n(5,-140)_q
+$>
+
+en: 3-bromofuran-2,5-dione (PIN)  <br>
+bromomaleic anhydride 
+ru: 3-бромфуран-2,5-дион (PIN) <br>
+броммалеиновый ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\\`|//\||_q@n(3,140)<_(a54,N2)O>_qO@n(2,0,.5)_q<_(a54,N2)O>@n(1,-140)_q
+$>
+
+en: 2-benzofuran-1,3-dione (PIN)  <br>
+isobenzofuran-1,3-dione  <br>
+phthalic anhydride 
+ru: 2-бензофуран-1,3-дион (PIN) <br>
+изобензофуран-1,3-дион <br>
+фталевый ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\\<`/O2`N>@n(5,-150)`|//\||_q@n(3,140)<_(a54,N2)O>_qO@n(2,0,.5)_q<_(a54,N2)O>@n(1,-140)_q
+$>
+
+en: 5-nitro-2-benzofuran-1,3-dione (PIN)  <br>
+5-nitroisobenzofuran-1,3-dione <br>
+4-nitrophthalic anhydride
+ru: 5-нитро-2-бензофуран-1,3-дион (PIN) <br>
+5-нитроизобензофуран-1,3-дион <br>
+4-нитрофталевый ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`//`\`||/\`\`|@n(1,150)`\O\/O@n(2,-90,.55)\/O`/@n(3,30)|\\|`//`\`|/
+$>
+
+en: 1_H_,3_H_-benzo[_de_][2]benzopyran-1,3-dione (PIN)  <br>
+1_H_,3_H_-benzo[_de_]isochromene-1,3-dione  <br>
+naphthalene-1,8-dicarboxylic anhydride 
+ru: 1_H_,3_H_-бензо[_de_][2]бензопиран-1,3-дион (PIN) <br>
+1_H_,3_H_-бензо[_de_]изохромен-1,3-дион <br>
+нафталин-1,8-дикарбоновый ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(1.1)CH3_(a110)_(A-145,L1.3)<_(A-70)CH3><`-H3C>@n(8,-120)_(A80,L1.5):n5_(A110)@n(6,130)_(A-35)@n(7,80)$color(darkgray)_#2$color()#
+@n(1,-40,.5)_(x1.4)<_(A-45,N2)O>@n(2,20)_(A70,L1.5)O@n(3,50,.55)_(y#n5,x-1)@n(4,-60,.3)<_(A110,N2)O>_#n5@n(5,180)
+$>
+
+en: 1,8,8-trimethyl-3-oxabicyclo[3.2.1]octane-2,4-dione (PIN)  <br>
+(also known as camphoric anhydride) 
+ru: 1,8,8-триметил-3-оксабицикло[3.2.1]октан-2,4-дион (PIN) <br>
+(также известный как камфорный ангидрид)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/<|COOH>@n(4,150)`\<`/HOOC>@n(5,-150)`|@n(6,-150)/@n(7,-90)\|@n(3a,80)_q<_(a54,N2)O>@n(3,120)_qO@n(2,0,.5)_q<_(a54,N2)O>@n(1,-120)_q@n(7a,-80)
+$>
+
+en: 1,3-dioxooctahydro-2-benzofuran-4,5-dicarboxylic acid (PIN)  <br>
+1,3-dioxooctahydroisobenzofuran-4,5-dicarboxylic acid  <br>
+cyclohexane-1,2,3,4-tetracarboxylic acid 3,4-anhydride 
+ru: 1,3-диоксооктагидро-2-бензофуран-4,5-дикарбоновая кислота (PIN) <br>
+1,3-диоксооктагидроизобензофуран-4,5-дикарбоновая кислота <br>
+циклогексан-1,2,3,4-тетракарбоновая кислота 3,4-ангидрид
+
+@End
+
+#P-65.7.7.2+
+en: Cyclic dianhydrides formed from four acid groups attached to the same parent hydride structure are named in two ways: 
+ru: Циклические диангидриды, образованные из четырех кислотных групп, присоединенных к одной и той же 
+&(parent hydride structure|pr), называются двумя способами:
+
+@List 1
+
+@item
+en: as heterocyclic pseudoketones; 
+ru: как гетероциклические псевдокетоны;
+
+@item
+en: by changing the class term ‘acid’ to ‘dianhydride’ in the systematic or retained name of the tetrabasic acid; the 
+locants of the pair of acid groups are separated by a semicolon. 
+ru: путем замены термина класса «кислота» на «диангидрид» в систематическом или &(retained name|pr) тетраосновной кислоты; 
+локанты пары кислотных групп разделены точкой с запятой.
+
+@End
+
+en: Method (1) generates preferred IUPAC names
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре IUPAC
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(1.1)|<_q<_(a54,N2)O>@n(3,140)_qO@n(2,0,.5)_q<_(a54,N2)O>@n(1,-120)_q>@n(3a,100)`-@n(3b,80)#
+`|<_q<_(a54,N2)O>@n(6,-60)_qO@n(5,180,.5)_q<_(a54,N2)O>@n(4,60)_q>@n(6a,-80)-@n(6b,-100)
+$>
+
+en: tetrahydrocyclobuta<%L1%>difuran-1,3,4,6-tetrone (PIN)  <br>
+cyclobutane-1,2,3,4-tetracarboxylic 1,2:3,4-dianhydride 
+ru: тетрагидроциклобута<%L1%>дифуран-1,3,4,6-тетрон (PIN) <br>
+циклобутан-1,2,3,4-тетракарбоновый 1,2:3,4-диангидрид
+%L1:[1,2-_c_:3,4-_c′_]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:cr(L1,L2,L3)<_q<_(a54,N2)O>@n&L1_qO@n&L2_q<_(a54,N2)O>@n&L3_q>@;
+$L(1.1)/\@cr((3,90),(2,-55,.55),(1,160))|`/@n(5,90)`\`|@cr((8,-40),(7,180,.5),(6,40))
+$>
+
+en: hexahydrobenzo[<%L1%>]difuran-1,3,6,8-tetrone (PIN)  <br>
+cyclohexane-1,2,3,4-tetracarboxylic 1,2:3,4-dianhydride 
+ru: гексагидробензо[<%L1%>]дифуран-1,3,6,8-тетрон (PIN) <br>
+циклогексан-1,2,3,4-тетракарбоновый 1,2:3,4-диангидрид
+%L1:1,2-_c_:3,4-_c′_
+
+@End
+
+@Examples 3 --
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\O\@n(7,-90)|O@n(6,150,.55)\@n(5,150)|O`|/\<_(a%a:-140):a>@n(4,90)/\O`\@n(3,90)`|O@n(2,-30,.55)`\`|O|@n(1,-30)`/#
+$color(darkgray)<|>$color()`\@n(8,-90)_(a%a)_#a
+$>
+
+**(I)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\O\@n(10,-90,.5)|O@n(9,150,.55)\@n(8,150)|O`|/@n(7,90)\<_(a%a:-140):a>@n(6,90)/\O`\@n(5,90)`|O@n(4,-30,.55)`\`|O|@n(3,-30)`/#
+@n(2,-90)$color(darkgray)<|>$color()`\@n(1,-90)_(a%a)_#a
+$>
+
+**(II)**
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\O\|O\|O`|/@n(2,90)\<_(a%a:-140):a>@n(1,90)/\O`\`|O`\`|O|`/#
+@n(3,-90)$color(darkgray)<|>$color()`\@n(4,-90)_(a%a)_#a
+$>
+
+**(III)**
+
+@cell colspan=3
+en: tetrahydro-4,8-ethanopyrano[4,3-_c_]pyran-1,3,5,7-tetrone (PIN) [numbering shown in **(I)**]  <br>
+{not 4,9-dioxatricyclo[4.4.2.0^{2,7}]dodecane-3,5,8,10-tetrone [numbering shown in **(II)**]}  <br>
+cyclohexane-1,2,3,4-tetracarboxylic 1,3:2,4-dianhydride [numbering shown in **(III)**] 
+ru: тетрагидро-4,8-этанопирано[4,3-_c_]пиран-1,3,5,7-тетрон (PIN) [нумерация указана в **(I)**] <br>
+{не 4,9-диоксатрицикло[4.4.2.0^{2,7}]додекан-3,5,8,10-тетрон [нумерация указана в **(II)**]} <br>
+циклогексан-1,2,3,4-тетракарбоновый 1,3:2,4-диангидрид [нумерация указана в **(III)**]
+
+@End
+
+#P-65.7.7.3+
+en: Chalcogen analogues of cyclic anhydrides are named:
+ru: &(Chalcogen analogue|*) циклических ангидридов называются:
+
+@List 1
+
+@item
+en: as heterocyclic pseudoketones; 
+ru: как гетероциклические псевдокетоны;
+
+@item
+en:  by changing the class term ‘acid’ to ‘dianhydride’ or ‘thioanhydride’, ‘bis(thioanhydride)’, etc., in the systematic 
+or retained name of the dibasic or tetrabasic acid. 
+ru: путем замены термина класса «кислота» на «диангидрид» или «тиоангидрид», «бис(тиоангидрид)» и т. д. в систематическом
+или &(retained name|pr) диосновной или тетраосновной кислоты.
+
+@End
+
+en: Method (1) leads to the preferred IUPAC name.  
+ru: Метод (1) приводит к предпочтительному названию по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\`|/\|_q<_(a54,N2)O>@n(3,140)_qS@n(2,0,.5)_q<_(a54,N2)O>@n(1,-140)_q
+$>
+
+en: (1) hexahydro-2-benzothiophene-1,3-dione (PIN)  <br>
+hexahydrobenzo[_c_]thiophene-1,3-dione (PIN)  <br>
+(2) cyclohexane-1,2-dicarboxylic thioanhydride  <br>
+hexahydrophthalic thioanhydride 
+ru: (1) гексагидро-2-бензотиофен-1,3-дион (PIN) <br>
+гексагидробензо[_c_]тиофен-1,3-дион (PIN) <br>
+(2) циклогексан-1,2-дикарбоновый тиоангидрид <br>
+гексагидрофталевый тиоангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|`/`\`|/\/@n(1,-150)`|S|\O@n(2,-30,.5)|\S`\@n(3,90)`/`\
+$>
+
+en: (1) hexahydro-1_H_-2-benzopyran-1,3(4_H_)-dithione (PIN)
+ru: (1) гексагидро-1_H_-2-бензопиран-1,3(4_H_)-дитион (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`\\`|//\||_q<_(a54,N2)S>@n(3,140)_qS@n(2,0,.55)_q<_(a54,N2)O>@n(1,-140)_q
+$>
+
+en: (1) 3-sulfanylidene-2-benzothiophen-1-one (PIN)  <br>
+3-sulfanylidenebenzo[_c_]thiophen-1-one
+ru: (1) 3-сульфанилиден-2-бензотиофен-1-он (PIN) <br>
+3-сульфанилиденбензо[_c_]тиофен-1-он
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|r_q<_(a54,N2)O>@n(3,140)_qO@n(2,0,.5)_q<_(a54,N2)O>@n(1,-140)_q|`/`\\`|<//\>_q@n(7,-40)<_(a54,N2)S>_qS@n(6,180,.5)_q<_(a54,N2)S>@n(5,40)_q
+$>
+
+en: (1) 5,7-bis(sulfanylidene)-5,7-dihydro-1_H_,3_H_-thieno[3,4-_f_][2]benzofuran-1,3-dione (PIN)  <br>
+5,7-dithioxo-5,7-dihydro-1_H_,3_H_-thieno[3,4-_f_]isobenzofuran-1,3-dione  <br>
+(2) 1,3-bis(sulfanylidene)-1,3-dihydro-2-benzothiophene-5,6-dicarboxylic anhydride  <br>
+1,3-dithioxo-1,3-dihydroisobenzothiophene-5,6-dicarboxylic anhydride 
+ru: (1) 5,7-бис(сульфанилиден)-5,7-дигидро-1_H_,3_H_-тиено[3,4-_f_][2]бензофуран-1,3-дион (PIN) <br>
+5,7-дитиоксо-5,7-дигидро-1_H_,3_H_-тиено[3,4-_f_]изобензофуран-1,3-дион <br>
+(2) 1,3-бис(сульфанилиден)-1,3-дигидро-2-бензотиофен-5,6-дикарбоновый ангидрид <br>
+1,3-дитиоксо-1,3-дигидроизобензотиофен-5,6-дикарбоновый ангидрид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$L(1.1)-<_(a54,N2)O>@n(1,110)_qS@n(2,-20,.5)_q<`||O>@n(3,-160)_q_q@n(7a,70)_p@n(7,90)_p_p#
+<-@n(3a,-100,.45)>@n(3b,-80,.45)_q@n(4,-20)<`||O>_qS@n(5,-160,.5)_q<_(a54,N2)O>@n(6,70)_q@n(6a,100)
+$>
+
+en: (1) tetrahydro-1_H_-cyclopenta[<%c%>]dithiophene-1,3,4,6(3a_H_)-tetrone (PIN)  <br>
+(2) cyclopentane-1,2,3,4-tetracaboxylic 1,2:3,4-bis(thioanhydride)
+ru: (1) тетрагидро-1_H_-циклопента[<%c%>]дитиофен-1,3,4,6(3a_H_)-тетрон (PIN) <br>
+(2) циклопентан-1,2,3,4-тетракарбоновая кислота 1,2:3,4-бис(тиоангидрид)
+%c:1,2-_c_:3,4-_c′_
+
+@End
 
 #P-65.7.8
 en: Polyfunctional anhydrides 
+ru: Полифункциональные ангидриды
+
+#P-65.7.8.1+
+en: Anhydrides of substituted monocarboxylic or monosulfonic acids, if symmetrically substituted, are named 
+by prefixing ‘bis’ to the name of the acid and replacing the term ‘acid’ by ‘anhydride’. The prefix ‘bis’ may be omitted 
+in general nomenclature. 
+ru: Ангидриды замещенных монокарбоновых или моно&(sulfonic acid|ro*), если они симметрично замещены, называются 
+путем добавления префикса «бис» к названию кислоты и замены термина «кислота» на «ангидрид». В общей номенклатуре 
+префикс «бис» может быть опущен.
+
+@Examples
+
+@cell
+<$ (Cl-CH2-CH2-SO)2O $>
+
+en: bis(2-chloroethane-1-sulfinic) anhydride (PIN) 
+ru: бис(2-хлорэтан-1-сульфиновый) ангидрид (PIN)
+
+@cell
+<$ (Cl-CH2-CO)2O $>
+
+en: bis(chloroacetic) anhydride (PIN) 
+ru: бис(хлоруксусный) ангидрид (PIN)
+
+@cell
+<$ (H2N-[CH2]5-CO)2O $>
+
+en: bis(6-aminohexanoic) anhydride (PIN) 
+ru: бис(6-аминогексановый) ангидрид (PIN)
+
+@End
+
+#P-65.7.8.2+
+en: When not symmetrically substituted, anhydrides of carboxylic acid or sulfonic acids, are named as mixed 
+anhydrides as discussed in P-65.7.2. 
+ru: В случае несимметричного замещения ангидриды карбоновых или &(sulfonic acid|ro*) называются смешанными ангидридами, 
+как обсуждалось в разделе P-65.7.2.
+
+@Examples
+
+@cell
+<$ Cl-CH2-CH2-CO-O-CO-CHCl-CH3 $>
+  
+en: 2-chloropropanoic 3-chloropropanoic anhydride (PIN) 
+ru: 2-хлорпропан&(oic [anhydride]) 3-хлорпропан&(oic anhydride) (PIN)
+
+@cell
+<$ Cl-CH2-CO-O-CS-CH2-Cl $>
+
+en: chloroacetic chloroethanethioic anhydride (PIN) 
+ru: хлоруксусный хлорэтан&(thioic anhydride) (PIN)
+
+@End

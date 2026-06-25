@@ -2,6 +2,2876 @@
 en: Amides, imides, hydrazides, nitriles, and aldehydes 
 ru: Амиды, имиды, гидразиды, нитрилы и альдегиды
 
+@Content
+
+#P-66.0
+en: Introduction 
+ru: Введение
+
+en: The classes dealt with in this Section have in common the fact that their retained names are derived from those of acids 
+by changing the ‘ic acid’ ending to a class name, for example ‘amide’, ‘ohydrazide’, ‘nitrile’, or ‘aldehyde’. Their 
+systematic names are formed substitutively by the suffix mode using one of two types of suffix, one that includes the 
+carbon atom, for example, ‘carbonitrile’ for –CN, and one that does not, for example, ‘-nitrile’ for –(C)N. Amidines are 
+named as amides, hydrazidines as hydrazides, and amidrazones as amides or hydrazides. 
+ru: Классы, рассматриваемые в этом разделе, объединяет то, что их &(retained name|*) образованы от названий кислот путем 
+замены окончания «&(ic acid)» на название класса, например, «амид», «огидразид», «нитрил» или «альдегид». Их систематические 
+названия образуются замещающим способом с использованием одного из двух типов суффиксов: один включает атом углерода, например, 
+«карбонитрил» для –CN, а другой — нет, например, «-нитрил» для –(C)N. Амидины именуются как амиды, гидразидины — как гидразиды, 
+а амидразоны — как амиды или гидразиды.
+
+#P-66.1
+en: Amides 
+ru: Амиды
+
+@Content
+
+#P-66.1.0
+en: Introduction 
+ru: Введение
+
+en: Amides are derivatives of organic oxoacids in which each hydroxy group has been replaced by an amino or substituted 
+amino group. Chalcogen replacement analogues are called thio-, seleno-, and telluroamides. Compounds having one, 
+two, or three acyl groups on a single nitrogen atom are generically included. 
+ru: Амиды — это производные органических оксокислот, в которых каждая гидроксильная группа заменена аминогруппой или 
+замещенной аминогруппой. &(Chalcogen replacement analogue|*) называются тио-, селено- и теллуроамидами. В этот список 
+обычно включают соединения, имеющие одну, две или три ацильные группы на одном атоме азота.
+
+#P-66.1.1
+en: Primary amides 
+ru: Первичные амиды
+
+@Content
+
+#P-66.1.1.1
+en: Carboxamides 
+ru: Карбоксамиды
+
+en: Names of carboxamides are formed in two ways: 
+ru: Названия карбоксамидов образуются двумя способами:
+
+@Content
+
+%P-66.1.1.1.1
+en: Substitutive nomenclature 
+ru: &(Substitutive nomenclature)
+
+#P-66.1.1.1.1
+en: Amide names formed by substitutive nomenclature 
+ru: Названия амидов образованы с помощью &(substitutive nomenclature|ro)
+
+#P-66.1.1.1.1.1+
+en: Alicyclic mono- and diamides are named substitutively by adding the suffix ‘amide’, to the appropriate 
+parent hydride name, with elision of the final letter ‘e’ before ‘a’. The multiplying prefix ‘di’ is used to name diamides. 
+ru: Алициклические моно- и диамиды называются замещающим способом путем добавления суффикса «амид» к соответствующему 
+названию &(parent hydride|ro) с опущением последней буквы «е» перед «а». Для наименования диамидов используется 
+умножающий префикс «ди».
+
+@Examples
+
+@cell
+<$ CH3-[CH2]4-CO-NH2 $>
+  
+en: hexanamide (PIN)
+ru: гексанамид (PIN)  
+
+@cell
+<$ H2N-CO-CH2-CH2-CH2-CO-NH2 $>
+  
+en: pentanediamide (PIN) 
+ru: пентандиамид (PIN)
+
+@End
+
+#P-66.1.1.1.1.2+
+en: If an unbranched chain is directly linked to more than two <%a%> groups, these groups are named 
+from the parent hydride by substitutive use of the suffix ‘carboxamide’. 
+ru: Если неразветвленная цепь напрямую связана с более чем двумя группами <%a%>, то эти группы называются по названию 
+&(parent hydride|ro) путем замещения суффиксом «карбоксамид».
+%a: <${}–CO-NH2$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nn(i)@n(\textit{N}^{&i},-80)@;
+H2N@nn(3)-CO-CH2@n(3)-CH@n(2)(CO-NH2); #-1@nn(2)-CH2@n(1)-CO-NH2@nn(1)
+$>
+
+en: propane-1,2,3-tricarboxamide (PIN)
+ru: пропан-1,2,3-трикарбоксамид (PIN)
+
+@End
+
+#P-66.1.1.1.1.3+
+en: The suffix ‘carboxamide’ is always used to name amides with the <%a%> group attached to a ring, 
+ring system, or to a heteroacyclic parent. 
+ru: Суффикс «карбоксамид» всегда используется для обозначения амидов, в которых группа <%a%> присоединена к кольцу, 
+кольцевой системе или к гетероациклическому соединению.
+%a: <${}–CO-NH2$>
+
+@Examples
+
+@cell
+<$ H2P-CO-NH2 $>
+  
+en: phosphanecarboxamide (PIN) 
+ru: фосфанкарбоксамид (PIN)
+
+@cell
+<$ H2N-NH-CO-NH2 $>
+  
+en: hydrazinecarboxamide (PIN)
+ru: гидразинкарбоксамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+-_qq<_(a54)CO-NH2>@n(2,-80,.4)_qS@n(1)_q_qq
+$>
+
+en: thiophene-2-carboxamide (PIN) 
+ru: тиофен-2-карбоксамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+N`/`-`\/-\@n(1,-80)-CO-NH2
+$>
+
+en: piperidine-1-carboxamide (PIN) 
+ru: пиперидин-1-карбоксамид (PIN)
+
+@End
+
+%P-66.1.1.1.2
+en: Modification of retained names for acids 
+ru: Модификация &(retained name|ro*) кислот
+
+#P-66.1.1.1.2
+en: Amide names formed by modifying retained names of acids
+ru: Названия амидов, образованные путём модификации &(retained name|ro*) кислот
+
+en: Names of amides derived from carboxylic acids listed in P-65.1.1 are formed by changing the ‘ic acid’ or ‘-oic acid’ 
+ending of the retained names of carboxylic acids into ‘amide’. Names of amides formed by this method are either 
+preferred IUPAC names or names for use in general nomenclature according to the status of the corresponding acid; 
+structures can be substituted in the same way as indicated for the corresponding acids (see P-65.1.1). 
+ru: Названия амидов, полученных из карбоновых кислот, перечисленных в P-65.1.1, образуются путем замены окончания 
+«&(ic acid)» или «-&(oic acid)» в &(retained name|pr*) карбоновых кислот на «амид». Названия амидов, образованные 
+этим методом, являются либо предпочтительными названиями по номенклатуре IUPAC, либо названиями для использования 
+в общей номенклатуре в соответствии со статусом соответствующей кислоты; структуры могут быть заменены таким же образом, 
+как указано для соответствующих кислот (см. P-65.1.1).
+
+#P-66.1.1.1.2.1+
+en: Only the following four retained names are preferred IUPAC names and can be substituted. The name 
+‘oxamide’ is a contracted name from ‘oxalamide’ and substitution on the nitrogen atoms is allowed. 
+ru: Только следующие четыре &(retained name|*) являются предпочтительными названиями по номенклатуре IUPAC и могут быть заменены. 
+Название «оксамид» является сокращенным названием от «оксаламид», и для него допускается замена атомов азота.
+
+@Examples
+
+@cell
+<$ CH3-CO-NH2 $>
+  
+en: acetamide (PIN) 
+ru: ацетамид (PIN)
+
+@cell
+<$ C6H5-CO-NH2 $>
+  
+en: benzamide (PIN) 
+ru: бензамид (PIN)
+
+@cell
+<$ H2N-CO-CO-NH2 $>
+  
+en: oxamide (PIN) 
+ru: оксамид (PIN)
+
+@cell
+<$ NC-NH2 $>
+  
+en: cyanamide  <br>
+(PIN, see P-66.1.6.2) 
+ru: цианамид  <br>
+(PIN, см. P-66.1.6.2) 
+
+@End
+
+#P-66.1.1.1.2.2+
+en: The traditional name ‘formamide’ is retained for <%a%> and is the preferred IUPAC name. 
+Substitution is permitted on the <%b%> group. Substitution of the aldehydic hydrogen is subject to limitations (see  P-65.1.8). 
+ru: Традиционное название «формамид» сохранено для <%a%> и является предпочтительным названием по номенклатуре IUPAC. 
+Допускается замещение в группе <%b%>. Замещение альдегидного водорода подлежит ограничениям (см. P-65.1.8).
+%a: <$HCO-NH2$>
+%b: <${}–NH2$>
+
+@Examples
+
+@cell
+<$ HCO-NH2 $>
+  
+en: formamide (PIN)  
+ru: формамид (PIN)
+
+@cell
+<$ Cl-CO-NH2 $>
+ 
+en: carbonochloridic amide (PIN)  <br>
+(not 1-chloroformamide) 
+ru: карбохлорид амид (PIN) <br>
+(не 1-хлорформамид)
+
+@End
+
+#P-66.1.1.1.2.3+
+en: For general nomenclature only, the names furanamide, phthalamide, isophthalamide, and 
+terephthalamide are retained with substitution allowed (see P-65.1.1.2.1). Systematic names formed according to  
+P-65.1.2 are the preferred IUPAC names.
+ru: В общей номенклатуре сохраняются названия фуранамид, фталамид, изофталамид и терефталамид с возможностью замены 
+(см. P-65.1.1.2.1). Предпочтительными названиями по номенклатуре IUPAC являются систематические названия, образованные 
+в соответствии с P-65.1.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+||@n(2,90)<_q6@:am(i)CO-NH2@n(\textit{N}^{&i},-80,.55)@(2)>`/`\\`|//\@n(1,-90)_q6@am(1)
+$>
+
+en: benzene-1,2-dicarboxamide (PIN)  <br>
+phthalamide 
+ru: бензол-1,2-дикарбоксамид (PIN) <br>
+фталамид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nN(i)@n(\textit{N}^{&i},-80,.55)@;
+H2N@nN(4)-CO_(x1.4)@n(4,-120)/=\@n(1,-60)<`//`-`\\>-CO-NH2@nN(1)
+$>
+
+en: benzene-1,4-dicarboxamide (PIN)  <br>
+terephthalamide 
+ru: бензол-1,4-дикарбоксамид (PIN) <br>
+терефталамид
+
+@End
+
+#P-66.1.1.1.2.4+
+en: Amides derived from retained acid names given in P-65.1.1.2 are only used in general nomenclature; no 
+substitution is allowed, even on amide nitrogen atoms. Preferred IUPAC names are systematic names as given by P-65.1.2. 
+ru: Амиды, полученные из &(retained name|ro*) кислот, приведенных в P-65.1.1.2, используются только в общей 
+номенклатуре; замещение не допускается, даже на атомах азота амидной группы. Предпочтительными названиями по номенклатуре 
+IUPAC являются систематические названия, приведенные в P-65.1.2.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH2@n(3)=CH@n(2)-CO@n(1)-NH2
+$>
+
+en: prop-2-enamide (PIN)  <br>
+acrylamide
+ru: проп-2-енамид (PIN) <br>
+акриламид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH2@n(3)=CH@n(2)-CO@n(1)-NH-CH3
+$>
+
+en: _N_-methylprop-2-enamide (PIN)  <br>
+(not _N_-methylacrylamide;  <br>
+substitution is not allowed on acrylamide) 
+ru: _N_-метилпроп-2-енамид (PIN) <br>
+(не _N_-метилакриламид; <br>
+&(substitution) для акриламида не допускается)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3@n(3)-CH@n(2)(OH)-CO@n(1)-NH2
+$>
+
+en: 2-hydroxypropanamide (PIN)  <br>
+lactamide 
+ru: 2-гидроксипропанамид (PIN) <br>
+лактамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3@n(3)-CH@n(2)(OH)-CO@n(1)-NH-CH3
+$>
+
+en: 2-hydroxy-_N_-methylpropanamide (PIN)  <br>
+(not _N_-methyllactamide) 
+ru: 2-гидрокси-_N_-метилпропанамид (PIN) <br>
+(не _N_-метиллактамид)
+
+@End
+
+#P-66.1.1.1.2.5+
+en: Names for amides derived from carbohydrate acids and α-amino acids are discussed in P-102.5.6.6.2.1, 
+P-102.5.6.6.5, and in P-103.2.7, respectively. 
+ru: Названия амидов, полученных из кислот углеводов и α-аминокислот, обсуждаются в разделах P-102.5.6.6.2.1, 
+P-102.5.6.6.5 и P-103.2.7 соответственно.
+
+@Examples
+
+@cell
+<$
+_(x%a:1.4,y%d:0.4)<_(A-110){R}>_(x%b:1.6,y-%d)O_(y%h:1.2,x%c:0.6)<_(A-15)O-CH3>_(x-%a,y-%d,W+)<_(A70,w1)OH>_(x-%b,y%d)<_(A-165,w1)HO>_(x-%c,y-%h,W-)_(y-1.1)OH
+$>
+
+R = <${}-CO-NH2$>
+
+en: methyl β-D-galactopyranosiduronamide
+ru: метил β-D-галактопиранозидуронамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H2N-CH2@n(2)-CO-NH2@n(N)
+$>
+
+en: 2-aminoacetamide  <br>
+glycinamide 
+ru: 2-аминоацетамид <br>
+глицинамид
+
+@End
+
+%P-66.1.1.2
+en: Sulfonamides, sulfinamides, and related selenium and tellurium amides 
+ru: Сульфонамиды, сульфинамиды и родственные амиды селена и теллура
+
+#P-66.1.1.2+
+en: Sulfonamides, sulfinamides, and related selenium and tellurium amides Sulfonamides, sulfinamides, and the 
+analogous selenium and tellurium amides are named substitutively using the following suffixes: 
+ru: Сульфонамиды, сульфинамиды и родственные им амиды селена и теллура. Названия сульфонамидов, сульфинамидов и 
+аналогичных им амидов селена и теллура заменяются следующими суффиксами:
+
+@Examples 2 -- .left-aligned-cells
+
+@cell
+<$ –SO2-NH2 $>
+
+@cell
+en: sulfonamide (preselected suffix)
+ru: сульфонамид (&(preselected suffix))
+
+@cell
+<$ {}–SO-NH2 $>
+
+@cell
+en: sulfinamide (preselected suffix)
+ru: сульфинамид (&(preselected suffix))
+
+@cell
+<$ {}–SeO2-NH2 $>
+
+@cell
+en: selenonamide (preselected suffix) 
+ru: селенонамид (&(preselected suffix))
+
+@cell
+<$ {}–SeO-NH2 $>
+
+@cell
+en: seleninamide (preselected suffix) 
+ru: селенинамид (&(preselected suffix))
+
+@cell
+<$ {}–TeO2-NH2 $>
+
+@cell
+en: telluronamide (preselected suffix) 
+ru: теллуронамид (&(preselected suffix))
+
+@cell
+<$ {}–TeO-NH $>
+
+@cell
+en: tellurinamide (preselected suffix) 
+ru: теллуринамид (&(preselected suffix))
+
+@End
+
+en: These suffixes may be assigned to any position of a parent hydride.
+ru: Эти суффиксы могут быть присвоены любой позиции в &(parent hydride|pr).
+
+@Examples
+
+@cell
+<$ CH3-SO2-NH2 $>
+  
+en: methanesulfonamide (PIN) 
+ru: метансульфонамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3@n(4)-CH2@n(3)-CH@n(2,90)<-CH3@n(1,90)>`|SO-NH2
+$>
+
+en: butane-2-sulfinamide (PIN) 
+ru: бутан-2-сульфинамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+-_qq<_qO@n(1)_q_qq>@n(2,-80,.4)_(a54)SeO-NH2
+$>
+
+en: furan-2-seleninamide (PIN) 
+ru: фуран-2-селенинамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|_q_qN<_q_q>@n(1,-80)-SO2-NH2
+$>
+
+en: pyrrolidine-1-sulfonamide (PIN) 
+ru: пирролидин-1-сульфонамид (PIN)
+
+@End
+
+
+#P-66.1.1.3
+en: Substitution of primary amides 
+ru: &(Substitution) первичных амидов
+
+@Content
+
+#P-66.1.1.3.1
+en: _N_-Substitution 
+ru: _N_-&(Substitution)
+
+#P-66.1.1.3.1.1+
+en: Substituted primary amides, with general structures such as <%a%> and <%b%>, and the 
+corresponding amides derived from chalcogen acids are named by citing the substituents R′ and R′′ as prefixes preceded 
+by the locant _N_ when one amide group is present. In di- and polyamides, except for geminal diamides, _N_ locants with 
+superscripted arabic numbers, which are the locants of the parent structure, are used to differentiate the nitrogen atoms, 
+for example, _N_^{1}, _N_^{3}, etc. (see also P-62.2.4.1.2). The recommended _N_ locants for geminal diamides are discussed in  
+P-66.1.1.3.1.2.
+ru: Замещённые первичные амиды с общими структурами, такими как <%a%> и <%b%>, а также соответствующие амиды, полученные 
+из халькогеновых кислот, именуются при помощи &(citation|ro) префиксов R′ и R′′, перед которыми стоит локант _N_, 
+если присутствует одна амидная группа. В ди- и полиамидах, за исключением геминальных диамидов, для различения атомов 
+азота используются локанты _N_ с надстрочными арабскими цифрами, которые являются локантами исходной структуры, например, 
+_N_^{1}, _N_^{3} и т. д. (см. также P-62.2.4.1.2). Рекомендуемые локанты _N_ для геминальных диамидов обсуждаются в 
+P-66.1.1.3.1.2.
+%a: <$ {R}-CO-NH{R′} $>
+%b: <$ {R}-CO-N{R′}{R′′} $>
+
+@p .framed
+en: Superscript arabic numbers are now used to differentiate the nitrogen atoms of diamides, where primes (′), double 
+primes (′′), triple primes (′′′), etc. were formerly used. 
+ru: В настоящее время для обозначения атомов азота в диамидах используются надстрочные арабские цифры, тогда как ранее 
+использовались штрихи (′), двойные штрихи (′′), тройные штрихи (′′′) и т. д.
+
+en: _N_-Substitution of primary amides is not allowed when amides having retained names are designated as not 
+substitutable. 
+ru: _N_-&(Substitution) первичных амидов не допускается, если амиды с &(retained name|tv*) обозначены как не подлежащие замене.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+HCO-N@n(N)(CH3)2
+$>
+
+en: dimethylformamide (PIN)
+ru: диметилформамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H3C-CO-NH@n(N)-CH(CH3)2
+$>
+
+en: _N_-(propan-2-yl)acetamide (PIN) 
+ru: _N_-(пропан-2-ил)ацетамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H3C-CH2-CO-N@n(N)(CH3)2
+$>
+
+en: _N,N_-dimethylpropanamide (PIN)  <br>
+(not _N,N_-dimethylpropionamide;  <br>
+substitution is not allowed on propionamide)
+ru: _N,N_-диметилпропанамид (PIN) <br>
+(не _N,N_-диметилпропионамид; <br>
+&(substitution) в пропионамиде не допускается)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|`//`\`||/\\_q6CO-NH-CH3
+$>
+
+en: _N_-methylbenzamide (PIN) 
+ru: _N_-метилбензамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`-_pp_pO@n(1)_p<_pp>@n(2,-80,.45)_(a-54)CO-N(CH2-CH3)2
+$>
+
+en: _N,N_-diethylfuran-2-carboxamide (PIN)  <br>
+_N,N_-diethyl-2-furamide 
+ru: _N,N_-диэтилфуран-2-карбоксамид (PIN) <br>
+_N,N_-диэтил-2-фурамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-NH-CO@n(1)-CH2@n(2)-CH2@n(3)-CO@n(4)-NH2
+$>
+
+en: <%n%>-methylbutanediamide (PIN) 
+ru: <%n%>-метилбутандиамид (PIN)
+%n:_N_^{1}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nN(i)@n(\textit{N}^{&i},-75,.6)@;
+CH3-NH@nN(5)-CO@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-NH@nN(1)-CH3
+$>
+
+en: <%n%>-dimethylpentanediamide (PIN) 
+ru: <%n%>-диметилпентандиамид (PIN)
+%n:_N_^{1},_N_^{5}
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nN(i)@n(\textit{N}^{&i},-75,.6)@;
+`//`\`//`\`||/\\<|>/@n(1,-150)<`|SO2-NH@nN(1)-CH3>\\|@n(3,-30)_q6SO2-NH@nN(3)-CH2-CH3
+$>
+
+en: _N_^{3}-ethyl-_N_^{1}-methylnaphthalene-1,3-disulfonamide (PIN)
+ru: _N_^{3}-этил-_N_^{1}-метилнафтален-1,3-дисульфонамид (PIN)
+
+@End
+
+#P-66.1.1.3.1.2
+en: Locants for geminal carboxamide groups
+ru: Локанты для геминальных карбоксамидных групп
+
+en: When geminal carboxamide groups are present, the locants _N_, _N′_, etc. are used in association with the numerical locant 
+indicating the position of the groups on a chain or ring. Lowest locants are assigned to the most substituted group; when 
+there is a choice, lowest locants are assigned to the first cited _N_-substituent. 
+ru: При наличии геминальных карбоксамидных групп используются локанты _N_, _N′_ и т. д. в сочетании с числовым локантом, 
+указывающим положение групп на цепи или кольце. Наименьшие локанты присваиваются наиболее замещенной группе; 
+при наличии выбора наименьшие локанты присваиваются первому указанному _N_-заместителю.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nN(i,N:N)@n(\textit{&N}^{&i},-75,.55)@;
+CH3-NH@nN(3)-CO-CH2@n(3)-CH2@n(2)-CH@n(1,90)<-CO-N@nN(1)(CH3)2>_(y-1.4)CO-NH@nN(1,N')-CH2-CH3
+$>
+
+en: <%a%>-ethyl-<%b%>-trimethylpropane-1,1,3-tricarboxamide (PIN)
+ru: <%a%>-этил-<%b%>-триметилпропан-1,1,3-трикарбоксамид (PIN)
+%a:_N′_^{1}
+%b:_N_^{1},_N_^{1},_N_^{3}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+@:nN(i,N:N)@n(\textit{&N}^{&i},-75,.55)@;
+CH3-NH@nN(3)-CO-CH2@n(3)-CH2@n(2)-CH@n(1,90)<-CO-NH@nN(1,N')-CH3>_(y-1.4)CO-NH@nN(1)-CH2-CH3
+$>
+
+en: <%a%>-ethyl-<%b%>-dimethylpropane-1,1,3-tricarboxamide (PIN) 
+ru: <%a%>-этил-<%b%>-диметилпропан-1,1,3-трикарбоксамид (PIN)
+%a:_N_^{1}
+%b:_N′_^{1},_N_^{3}
+
+@End
+
+#P-66.1.1.3.2
+en: Hydroxamic acids  
+ru: &(Hydroxamic acid|*)
+
+en: Hydroxamic acids have the generic structure <%f%> and are named as _N_-hydroxy amides (see P-65.1.3.4). The 
+suffixes ‘hydroxamic acid’ and ‘carbohydroxamic acid’ may be used in general nomenclature. 
+ru: &(Hydroxamic acid|*) имеют общую структуру <%f%> и называются _N_-гидроксиамидами (см. P-65.1.3.4). В общей номенклатуре 
+могут использоваться суффиксы «&(hydroxamic acid)» и «&(carbohydroxamic acid)».
+%f: <$ {R}-CO-NH-OH $>
+
+@Examples
+
+@cell
+<$ CH3-CH2-CO-NH-OH $>
+
+en: _N_-hydroxypropanamide (PIN)  <br>
+(not propanohydroxamic acid) 
+ru: _N_-гидроксипропанамид (PIN) <br>
+(не пропано&(hydroxamic acid))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|`/`\`|/\_q6CO-NH@n(N)-OH
+$>
+
+en: _N_-hydroxycyclohexanecarboxamide (PIN)  <br>
+(not cyclohexanecarbohydroxamic acid) 
+ru: _N_-гидроксициклогексанкарбоксамид (PIN) <br>
+(не циклогексан&(carbohydroxamic acid))
+
+@End
+
+
+#P-66.1.1.3.3
+en: Amic acids 
+ru: &(Amic acid|*)
+
+en: Amic acids are derivatives of dicarboxylic acids having a retained name and when one carboxylic group has been 
+changed to a carboxamide group. Preferred IUPAC names for amic acids are generated by method (1) in P-66.1.1.4.1.1. 
+They may also be named by methods (2) and (3) and by replacing the ‘ic acid’ ending in the retained name by ‘amic 
+acid’ (see P-65.1.6.1). 
+ru: &(Amic acid|*) — это производные дикарбоновых кислот, имеющие &(retained name), когда одна карбоксильная группа 
+заменена на карбоксамидную группу. Предпочтительные названия &(amic acid|ro*) по номенклатуре IUPAC генерируются методом 
+(1) в P-66.1.1.4.1.1. Их также можно назвать методами (2) и (3), заменив окончание «&(ic acid)» в сохраненном названии 
+на «&(amic acid)» (см. P-65.1.6.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H2N-CO@n(10)-[CH2]8-COOH@n(1)
+$>
+
+en: (1) 10-amino-10-oxodecanoic acid (PIN)  <br>
+(2) 9-carbamoylnonanoic acid  <br>
+(3) 9-(aminocarbonyl)nonanoic acid
+ru: (1) 10-амино-10-оксодекановая кислота (PIN) <br>
+(2) 9-карбамоилнонановая кислота <br>
+(3) 9-(аминокарбонил)нонановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H2N-CO@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (1) 3-amino-3-oxopropanoic acid (PIN)  <br>
+(2) carbamoylacetic acid  <br>
+(3) (aminocarbonyl)acetic acid  <br>
+malonamic acid (see P-65.1.6.1) 
+ru: (1) 3-амино-3-оксопропановая кислота (PIN) <br>
+(2) карбамоилуксусная кислота <br>
+(3) (аминокарбонил)уксусная кислота <br>
+малонамидная кислота (см. P-65.1.6.1)
+
+@End
+
+
+#P-66.1.1.3.4
+en: Anilides 
+ru: Анилиды
+
+en: _N_-Phenyl derivatives of primary amides are called ‘anilides’ and may be named using the term ‘anilide’ in place of 
+‘amide’ in systematic or retained names of amides. The locants for substituents in the _N_-phenyl ring of anilides are 
+primed numbers. However, names expressing _N_-substitution by a phenyl group on an amide are preferred IUPAC 
+names. 
+ru: _N_-Фенильные производные первичных амидов называются «анилидами» и могут быть названы с использованием термина 
+«анилид» вместо «амид» в систематических или &(retained name|pr*) амидов. Позиции заместителей в _N_-фенильном кольце 
+анилидов обозначаются штрихованными числами. Однако предпочтительными названиями по номенклатуре IUPAC являются названия, 
+выражающие _N_-&(substitution) фенильной группой в амиде.
+
+@Examples
+
+@cell
+<$ HCO-NH-C6H5 $>
+  
+en: _N_-phenylformamide (PIN)  <br>
+formanilide 
+ru: _N_-фенилформамид (PIN) <br>
+форманилид
+
+@cell
+<$ CH3-CO-NH-C6H5 $>
+  
+en: _N_-phenylacetamide (PIN)  <br>
+acetanilide 
+ru: _N_-фенилацетамид (PIN) <br>
+ацетанилид
+
+@cell
+<$ CH3-[CH2]4-CO-NH-C6H5 $>
+  
+en: _N_-phenylhexanamide (PIN)  <br>
+hexananilide 
+ru: _N_-фенилгексанамид (PIN) <br>
+гексананилид
+
+@cell
+<$ C6H5-CO-N(CH3)-C6H5 $>
+  
+en: _N_-methyl-_N_-phenylbenzamide (PIN)  <br>
+_N_-methylbenzanilide 
+ru: _N_-метил-_N_-фенилбензамид (PIN) <br>
+_N_-метилбензанилид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H3C-@n(4,-120)/=\@n(1,-60)<``//`-`\\>-CO-N<`|CH3>-\\-//`\</CH3>`=`/
+$>
+
+en: _N_,4-dimethyl-_N_-(3-methylphenyl)benzamide (PIN)  <br>
+_N_,3′,4-trimethylbenzanilide 
+ru: _N_,4-диметил-_N_-(3-метилфенил)бензамид (PIN) <br>
+_N_,3′,4-триметилбензанилид
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|<\Cl>`//`\`//`\`||/\\<|>/\\_q6SO2-N`H-\-//`\`=`/\`/Cl 
+$>
+
+en: 3-chloro-_N_-(2-chlorophenyl)naphthalene-2-sulfonamide (PIN)  <br>
+2′,3-dichloronaphthalene-2-sulfonanilide 
+ru: 3-хлор-_N_-(2-хлорфенил)нафталин-2-сульфонамид (PIN) <br>
+2′,3-дихлорнафтален-2-сульфонанилид
+
+@End
+
+#P-66.1.1.3.5
+en: General substitution of amides 
+ru: Общее &(substitution) амидов
+
+en: Substitution of amides is expressed by prefixes; numerical, _N_, and _N′_ locants are used as required. _N_-Substitution of 
+amides follows the substitution rules for carboxylic acids described in P-65.1.2.4. 
+ru: &(Substitution) амидов выражается префиксами; при необходимости используются числовые локанты _N_ и _N′_. 
+_N_-&(Substitution) амидов подчиняется правилам &(substitution|ro) карбоновых кислот, описанным в P-65.1.2.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+Cl-CH2@n(3)-CH2@n(2)-CO@n(1)-NH2
+$>
+
+en: 3-chloropropanamide (PIN)  <br>
+(not 3-chloropropionamide;  <br>
+no substitution on propionamide) 
+ru: 3-хлорпропанамид (PIN) <br>
+(не 3-хлорпропионамид; <br>
+нет &(substitution|ro) для пропионамида)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+Cl-CH2@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-N(CH3)2
+$>
+
+en: 4-chloro-_N,N_-dimethylbutanamide (PIN)  <br>
+(not 4-chloro-_N,N_-dimethylbutyramide;  <br>
+no substitution on butyramide) 
+ru: 4-хлор-_N,N_-диметилбутанамид (PIN) <br>
+(не 4-хлор-_N,N_-диметилбутирамид; <br>
+нет &(substitution|ro) для бутирамида)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`/`=`\N//-\\-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-CONH2
+$>
+
+en: 4-(pyridin-4-yl)benzamide (PIN)  <br>
+4-(4-pyridyl)benzamide 
+ru: 4-(пиридин-4-ил)бензамид (PIN) <br>
+4-(4-пиридил)бензамид
+
+@cell
+<$
+@:n(n,a:-90,L:.46)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`//`\`||/N@n(1,,.55)\\</Cl>@n(2)|@n(3,90)_q6CO-NH2
+$>
+
+en: 2-chloropyridine-3-carboxamide (PIN)  <br>
+(not 2-chloronicotinamide) 
+ru: 2-хлорпиридин-3-карбоксамид (PIN) <br>
+(не 2-хлорникотинамид)
+
+@cell
+<$
+@:n(n,a:90,L:.46)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`//`\@n(4)<`/H3C>`||/\\@n(1,-90)<_q6CO-NH2>|@n(2)_q6CO-NH2
+$>
+
+en: 4-methylbenzene-1,2-dicarboxamide (PIN)  <br>
+4-methylphthalamide 
+ru: 4-метилбензол-1,2-дикарбоксамид (PIN) <br>
+4-метилфталамид
+
+@cell
+<$
+@:n(n,a:90,L:.46)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|<\OH>@n(2)`//`\`||/\\@n(1,-90)_q6CO-NH2
+$>
+
+en: 2-hydroxybenzamide (PIN)  <br>
+(not salicylamide) 
+ru: 2-гидроксибензамид (PIN) <br>
+(не салициламид)
+
+@cell
+<$ `//N`\<`/Cl>`||<`\H2N>/N\\</NH2>|_q6CO-NH2 $>
+
+en: 3,5-diamino-6-chloropyrazine-2-carboxamide (PIN)
+ru: 3,5-диамино-6-хлорпиразин-2-карбоксамид (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.46)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+NH2`-CO`/@n(1',-120)`-`/\-/<`\>@n(2',-60)-NH-CH2-CH2-N`H-@n(2,-120)\-/`\`-<`/>@n(1,-60)`\OC`-H2N
+$>
+
+en: 2,2′-[ethane-1,2-diylbis(azanediyl)]di(cyclohexane-1-carboxamide) (PIN) 
+ru: 2,2′-[этан-1,2-диилбис(азандиил)]ди(циклогексан-1-карбоксамид) (PIN)
+
+@End
+
+#P-66.1.1.4
+en: Amides denoted as prefixes 
+ru: Амиды, обозначаемые префиксами
+
+en: Two different substituent groups can be derived from amides and expressed as prefixes in the presence of a 
+characteristic group having seniority for citation as suffix: 
+ru: Из амидов могут быть получены две различные заместительные группы, которые могут быть представлены в виде префиксов 
+при наличии &(characteristic group|ro), имеющей приоритет при &(citation|pr) в качестве суффикса:
+
+@Content
+
+#P-66.1.1.4.1
+en: Substituents of the types <%a%> and <%b%>
+ru: &(Substituent|*) типов <%a%> и <%b%>
+%a: <${}–CO-NH2$>
+%b: <${}–CO-CO-NH2$>
+
+#P-66.1.1.4.1.1+
+en: In the presence of a characteristic group having priority for citation as suffix or if all carbamoyl groups 
+cannot be included in the suffix, the <%a%> group is named in three different ways:
+ru: В случае наличия &(characteristic group|ro), имеющей приоритет при &(citation|pr) в качестве суффикса, или если 
+все карбамоильные группы не могут быть включены в суффикс, группа <%a%> обозначается тремя различными способами:
+%a: <${}–CO-NH2$>
+
+@List 1
+
+@item
+en: by using the two prefixes ‘amino’ and ‘oxo’ to denote such groups on terminal atoms of carbon chains having more than one carbon atom; 
+ru: используя два префикса «амино» и «оксо» для обозначения таких групп на концевых атомах углеродных цепей, содержащих 
+более одного атома углерода;
+
+@item
+en: by using the acyl group name ‘carbamoyl’ (see P-65.2.1.5); 
+ru: используя название ацильной группы «карбамоил» (см. P-65.2.1.5);
+
+@item
+en: by using the prefix ‘aminocarbonyl’. 
+ru: используя префикс «аминокарбонил».
+
+@End
+  
+en: For generation of IUPAC preferred names, method (1) is preferred for chains and method (2) for rings and ring systems, 
+heterogeneous chains, and on nonterminal atoms of carbon chains. Carbamoyl and amino groups may be substituted in 
+the normal way. 
+ru: Для генерации предпочтительных названий IUPAC метод (1) предпочтителен для цепей, а метод (2) — для колец и 
+кольцевых систем, гетерогенных цепей и неконцевых атомов углеродных цепей. Карбамоильные и аминогруппы могут быть 
+замещены обычным способом.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+HOOC@n(5)-CH2@n(4)-CH@n(3,90):a-CH2@n(2)-COOH@n(1); #a_(y-1.3)CO-N(CH3)2
+$>
+
+en: (2) 3-(dimethylcarbamoyl)pentanedioic acid (PIN)  <br>
+(3) 3-[(dimethylamino)carbonyl]pentanedioic acid  
+ru: (2) 3-(диметилкарбамоил)пентандиовая кислота (PIN) <br>
+(3) 3-[(диметиламино)карбонил]пентандиовая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+-_qq<_(a54)COOH>@n(2,-80)_qO_q@n(5,-100)<_qq>_(a54){}_(h-)CH2`-CO`-H2N
+$>
+
+en: (1) 5-(2-amino-2-oxoethyl)furan-2-carboxylic acid (PIN)  <br>
+(2) 5-(carbamoylmethyl)furan-2-carboxylic acid  <br>
+(3) 5-[(aminocarbonyl)methyl]furan-2-carboxylic acid 
+ru: (1) 5-(2-амино-2-оксоэтил)фуран-2-карбоновая кислота (PIN) <br>
+(2) 5-(карбамоилметил)фуран-2-карбоновая кислота <br>
+(3) 5-[(аминокарбонил)метил]фуран-2-карбоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|`//`\`||/\\/@n(1)\\@n(2)</COOH>|@n(3,90)<`//`\>_q6CO-NH2
+$>
+
+en: (2) 3-carbamoylnaphthalene-2-carboxylic acid (PIN)  <br>
+3-carbamoyl-2-naphthoic acid  <br>
+(3) 3-(aminocarbonyl)naphthalene-2-carboxylic acid  <br>
+3-(aminocarbonyl)-2-naphthoic acid 
+ru: (2) 3-карбамоилнафталин-2-карбоновая кислота (PIN) <br>
+3-карбамоил-2-нафтойная кислота <br>
+(3) 3-(аминокарбонил)нафтален-2-карбоновая кислота <br>
+3-(аминокарбонил)-2-нафтойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`//`\`||/\\@n(1)</COOH>|@n(2,90)_q6CO-NH2
+$>
+
+en: (2) 2-carbamoylbenzoic acid (PIN)  <br>
+(3) 2-(aminocarbonyl)benzoic acid  <br>
+phthalamic acid (see P-65.1.6.1) 
+ru: (2) 2-карбамоилбензойная кислота (PIN) <br>
+(3) 2-(аминокарбонил)бензойная кислота <br>
+фтал&(amic acid) (см. P-65.1.6.1)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+|`//`\`//`\@n(6,90)<_q6OC`-H2N>`||/\\<|>/@n(1,-90)\\@n(2)_q6SO2-OH
+$>
+
+en: (2) 6-carbamoylnaphthalene-2-sulfonic acid (PIN)  <br>
+(3) 6-(aminocarbonyl)naphthalene-2-sulfonic acid
+ru: (2) 6-карбамоилнафтален-2-&(sulfonic acid) (PIN) <br>
+(3) 6-(аминокарбонил)нафтален-2-&(sulfonic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+COOH`/\`/`=`\<`-H3C>@n(5,120)//-@n(1,0)\@n(2,60)-CO-N<`|CH3>-/=\`//`-`\\
+$>
+
+en: (2) 5-methyl-2-[methyl(phenyl)carbamoyl]benzoic acid (PIN)  <br>
+(3) 5-methyl-2-[(N-methylanilino)carbonyl]benzoic acid  <br>
+5-methyl-2-{[methyl(phenyl)amino]carbonyl}benzoic acid <br>
+ru: (2) 5-метил-2-[метил(фенил)карбамоил]бензойная кислота (PIN) <br>
+(3) 5-метил-2-[(N-метиланилино)карбонил]бензойная кислота <br>
+5-метил-2-{[метил(фенил)амино]карбонил}бензойная кислота <br>
+
+@End
+
+#P-66.1.1.4.1.2+
+en: Similarly, the group <%a%> is named using the prefixes ‘amino’ and ‘oxo’ as in method (1) in  
+P-66.1.1.4.1.1; by using the name ‘oxamoyl’ as in method (2) in P-66.1.1.4.1.1; and by using the prefix ‘aminooxalyl’ 
+as in method (3) in P-66.1.1.4.1.1. 
+ru: Аналогично, группа <%a%> именуется с использованием префиксов «амино» и «оксо», как в методе (1) в P-66.1.1.4.1.1; 
+с использованием названия «оксамоил», как в методе (2) в P-66.1.1.4.1.1; и с использованием префикса «аминооксалил», 
+как в методе (3) в P-66.1.1.4.1.1.
+%a: <${}–CO-CO-NH2$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+H2N-CO@n(4)-CO@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (1) 4-amino-3,4-dioxobutanoic acid (PIN)  <br>
+(2) oxamoylacetic acid  <br>
+(3) (aminooxalyl)acetic acid 
+ru: (1) 4-амино-3,4-диоксобутановая кислота (PIN) <br>
+(2) оксамоилацетиловая кислота <br>
+(3) (аминооксалил)уксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`//N@n(1,90,.5)`\`||/\\@n(3)</COOH>|@n(2,90)_q6CO-CO-NH2
+$>
+
+en: (2) 2-oxamoylpyridine-3-carboxylic acid (PIN)  <br>
+(3) 2-(aminooxalyl)pyridine-3-carboxylic acid 
+ru: (2) 2-оксамоилпиридин-3-карбоновая кислота (PIN) <br>
+(3) 2-(аминооксалил)пиридин-3-карбоновая кислота
+
+@End
+
+#P-66.1.1.4.2
+en: Substituents of the types <%a%>, <%b%> and their selenium and tellurium analogues   
+ru: &(Substituent|*) типов <%a%>, <%b%> и их селеновые и теллуровые аналоги
+%a: <${}–SO2-NH2$>
+%b: <${}–SO-NH2$>
+
+en: In the presence of a characteristic group having priority for citation as suffix, the groups <%a%>, <%b%> and 
+related selenium and tellurium groups are named in two ways corresponding to methods (2) and (3) for the <%c%>
+group above in P-66.1.1.4.1: 
+ru: При наличии &(characteristic group|ro), имеющей приоритет для &(citation|ro) в качестве суффикса, группы <%a%>, <%b%> 
+и связанные с ними группы селена и теллура называются двумя способами, соответствующими методам (2) и (3) для группы <%c%>, 
+упомянутой выше в P-66.1.1.4.1:
+%a: <${}–SO2-NH2$>
+%b: <${}–SO-NH2$>
+%c: <${}–CO-NH2$>
+
+@List 2
+
+@item
+en: by using the acyl group ‘sulfamoyl’ (for sulfonamides only) (see P-65.3.2.3); 
+ru: с использованием ацильной группы «сульфамоил» (только для сульфонамидов) (см. P-65.3.2.3);
+
+@item
+en: by using the prefixes ‘amino...sulfonyl’, ‘amino...sulfinyl’, ‘amino...selenonyl’, ‘amino...seleninyl’, 
+‘amino...telluronyl’, or ‘amino...tellurinyl’. 
+ru: с использованием префиксов «амино...сульфонил», «амино...сульфинил», «амино...селенонил», «амино...селенинил», 
+«амино...теллуронил» или «амино...теллуринил».
+
+@End
+
+en: For <%a%>, method (2) generates preferred IUPAC names; for all other groups method (3) is the only method for 
+generation of preferred IUPAC names. 
+ru: Для <%a%> метод (2) генерирует предпочтительные названия IUPAC; для всех остальных групп метод (3) является 
+единственным методом генерации предпочтительных названий IUPAC.
+%a: <${}–SO2-NH2$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+`//`\`||/\\@n(1)</SO3H>|@n(2,90)_q6SO2-N(CH3)2
+$>
+
+en: (2) 2-(dimethylsulfamoyl)benzene-1-sulfonic acid (PIN)  <br>
+(3) 2-[(dimethylamino)sulfonyl]benzene-1-sulfonic acid 
+ru: (2) 2-(диметилсульфамоил)бензол-1-&(sulfonic acid) (PIN) <br>
+(3) 2-[(диметиламино)сульфонил]бензол-1-&(sulfonic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+C6H5-NH-SO2-CH2@n(3)-CH2@n(2)-CO@n(1)-O-CH3
+$>
+
+en: methyl 3-(phenylsulfamoyl)propanoate (PIN)  <br>
+(3) methyl 3-[(phenylamino)sulfonyl]propanoate  <br>
+methyl 3-(anilinosulfonyl)propanoate 
+ru: метил 3-(фенилсульфамоил)пропаноат (PIN) <br>
+(3) метил 3-[(фениламино)сульфонил]пропаноат <br>
+метил 3-(анилинсульфонил)пропаноат
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+$slope(30)CH3-NH-O`S/@n(6,90)\//\//`|</COOH>@n(2)`\\@n(1)`/<|>`\\`/||
+$>
+
+en: (3) 6-[(methylamino)sulfinyl]naphthalene-2-carboxylic acid (PIN)  <br>
+(3) 6-[(methylamino)sulfinyl]-2-naphthoic acid
+ru: (3) 6-[(метиламино)сульфинил]нафтален-2-карбоновая кислота (PIN) <br>
+(3) 6-[(метиламино)сульфинил]-2-нафтойная кислота
+// Подозрительно, что два раза указано п.3. Но в списке ошибок это не упоминается.
+
+@End
+
+
+#P-66.1.1.4.3
+en: Substituents of the types <%a%> and <%b%>  
+ru: &(Substituent|*) типов <%a%> и <%b%>
+%a: <${}–NH-CO-{R}$>
+%b: <${}–NH-SO2-{R}$>
+
+en: When a group having preference for citation as a principal characteristic group is present, the group <%a%>, or  
+<%b%> (and selenium and tellurium analogues) of an _N_-substituted amide is named in two ways: 
+ru: Когда присутствует группа, имеющая предпочтение к &(citation|da) в качестве основной &(characteristic group|ro), 
+группа <%a%> или <%b%> (а также аналоги селена и теллура) _N_-замещенного амида называется двумя способами:
+%a: <${R}-CO-NH–{}$>
+%b: <${R}-SO2-NH–{}$>
+
+@List 1
+
+@item
+en: substitutively, by using a prefix formed by changing the final letter ‘e’ in the complete name of the amide to ‘o’, 
+thus changing the suffixes ‘amide’ and ‘carboxamide’ into ‘amido’ and ‘carboxamido’, respectively, ‘diamide’ to 
+‘diamido’ or ‘sulfonamide’ to ‘sulfonamido’, etc.; 
+ru: замещающим образом, используя префикс, образованный заменой последней буквы «е» в полном названии амида на «о», 
+таким образом, изменяя суффиксы «амид» и «карбоксамид» на «амидо» и «карбоксамидо» соответственно, «диамид» на «диамидо» 
+или «сульфонамид» на «сульфонамидо» и т. д.;
+
+@item
+en: substitutively, by using ‘acylamino’ prefixes formed by substituting the substituent group ‘amino’ with the name 
+of the acyl group. 
+ru: замещающим образом, используя префиксы «ациламино», образованные заменой &(substituent group|ro) «амино» 
+названием ацильной группы.
+
+@End
+
+en: Method (1) generates preferred IUPAC names. 
+ru: Метод (1) генерирует предпочтительные названия IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+HCO-N`H-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: (1) 4-formamidobenzoic acid (PIN)  <br>
+(2) 4-(formylamino)benzoic acid 
+ru: (1) 4-формамидобензойная кислота (PIN) <br>
+(2) 4-(формиламино)бензойная кислота
+
+@cell
+<$
+@:n(n,a:-60,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-CO-N`H-@n(4,-120)/<`\H3C>@n(3)=@n(2)\<`//`-`\\>@n(1)-As(O)(OH)2
+$>
+
+en: (1) (4-acetamido-3-methylphenyl)arsonic acid (PIN)  <br>
+(2) [4-(acetylamino)-3-methylphenyl]arsonic acid
+ru: (1) (4-ацетамидо-3-метилфенил)арсоновая кислота (PIN) <br>
+(2) [4-(ацетиламино)-3-метилфенил]арсоновая кислота
+
+@cell
+<$
+@:n(n,a:-60,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+C6H5-CO-N`H-@n(4,-120)/=\@n(1)<`//`-`\\>-SO2-OH
+$>
+
+en: (1) 4-benzamidobenzene-1-sulfonic acid (PIN)  <br>
+(2) 4-(benzoylamino)benzene-1-sulfonic acid 
+ru: (1) 4-бензамидобензен-1-&(sulfonic acid) (PIN) <br>
+(2) 4-(бензоиламино)бензол-1-&(sulfonic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+CH3-SO2-NH-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (1) 3-(methanesulfonamido)propanoic acid (PIN)  <br>
+(2) 3-[(methanesulfonyl)amino]propanoic acid
+ru: (1) 3-(метансульфонамидо)пропановая кислота (PIN) <br>
+(2) 3-[(метансульфонил)амино]пропановая кислота
+
+@cell
+<$ `/`-`\/-\-CH2-SO2-NH-CH2-COOH $>
+
+en: _N_-(cyclohexylmethanesulfonyl)glycine  <br>
+(1) (1-cyclohexylmethanesulfonamido)acetic acid  <br>
+(2) {[(cyclohexylmethyl)sulfonyl]amino}acetic acid
+ru: _N_-(циклогексилметансульфонил)глицин <br>
+(1) (1-циклогексилметансульфонамидо)уксусная кислота <br>
+(2) {[(циклогексилметил)сульфонил]амино}уксусная кислота
+
+@cell
+<$ CH3-SO2-N<`|_(a30)`-_q3>-CH2-COOH $>
+
+en: _N_-cyclopropyl-_N_-(methanesulfonyl)glycine  <br>
+(1) (_N_-cyclopropylmethanesulfonamido)acetic acid  <br>
+(2) [cyclopropyl(methanesulfoyl)amino]acetic acid 
+// в оригинале была лишняя незакрытая скобка. Правильный вариант есть в списке ошибок.
+ru: _N_-циклопропил-_N_-(метансульфонил)глицин <br>
+(1) (_N_-циклопропилметансульфонамидо)уксусная кислота <br>
+(2) [циклопропил(метансульфоил)амино]уксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; 
+N@n(3,50)`-_pp<_(a-54)HOOC>@n(5,,.4)_pS@n(1)_p@n(2,,.4)<_pp>_(a-54)NH-S`O2-/=\<`//`-`\\>-NH2
+$>
+
+en: (1) 2-(4-aminobenzene-1-sulfonamido)-1,3-thiazole-5-carboxylic acid (PIN)  <br>
+(not 2-sulfanilamidothiazole-5-carboxylic acid;  <br>
+sulfanilic acid is not a retained name)  <br>
+(2) 2-{[(4-aminophenyl)sulfonyl]amino}-1,3-thiazole-5-carboxylic acid 
+ru: (1) 2-(4-аминобензол-1-сульфонамидо)-1,3-тиазол-5-карбоновая кислота (PIN) <br>
+(не 2-сульфаниламидотиазол-5-карбоновая кислота; <br>
+сульфаниловая кислота не является &(retained name|tv)) <br>
+(2) 2-{[(4-аминофенил)сульфонил]амино}-1,3-тиазол-5-карбоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</SO3H>|@n(2,90)\N<|CH3>_q6CO-CH2-CH3
+$>
+
+en: (1) 2-(_N_-methylpropanamido)benzene-1-sulfonic acid (PIN)  <br>
+(2) 2-[methyl(propanoyl)amino]benzene-1-sulfonic acid
+ru: (1) 2-(_N_-метилпропанамидо)бензол-1-&(sulfonic acid) (PIN) <br>
+(2) 2-[метил(пропаноил)амино]бензол-1-&(sulfonic acid)
+
+@cell
+<$
+HOOC-//-\\<`/`=`\>-NH-CO-CH2-CH2-CO-N`H-/=\<`//`-`\\>-COOH
+$>
+
+en: (1) 4,4′-butanediamidodibenzoic acid (PIN)  <br>
+(2) 4,4′-[butanedioylbis(azanediyl)]dibenzoic acid  <br>
+4,4′-[1,4-dioxobutane-1,4-diylbis(azanediyl)]dibenzoic acid 
+ru: (1) 4,4′-бутандиамидодибензойная кислота (PIN) <br>
+(2) 4,4′-[бутандиоилбис(азанедиил)]дибензойная кислота <br>
+4,4′-[1,4-диоксобутан-1,4-диилбис(азанедиил)]дибензойная кислота
+
+@cell
+<$
+@:n(n,a,L)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+\\|`//N@n(1,90,.55)`\`//`\`||/\\<|>/@n(4,-30,.4)`|N<`|CH3>-CO-CH3
+$>
+
+en: _N_-methyl-_N_-(quinolin-4-yl)acetamide (PIN)  <br>
+(not 4-(_N_-methylacetamido)quinoline)  <br>
+{not 4-[acetyl(methyl)amino]quinoline}
+ru: _N_-метил-_N_-(хинолин-4-ил)ацетамид (PIN) <br>
+(не 4-(_N_-метилацетамидо)хинолин) <br>
+{не 4-[ацетил(метил)амино]хинолин}
+
+@cell
+<$
+@:n(n,a,L:.35)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_qr_p6_pp6_p6_pp6_p6_p6_qO_q_qqr_p6<_q6NH-CO-CH3>@n(1,-60)_pp6@n(2,-30)_p6_pp6_p6
+$>
+
+en: _N_-(dibenzo[_b,d_]furan-1-yl)acetamide (PIN)  <br>
+(not 1-acetamidodibenzofuran)  <br>
+[not 1-(acetylamino)dibenzofuran] 
+ru: _N_-(дибензо[_b,d_]фуран-1-ил)ацетамид (PIN) <br>
+(не 1-ацетамидодибензофуран) <br>
+[не 1-(ацетиламино)дибензофуран]
+
+@End
+
+@p .framed
+en: When an amide is the principal function, it must be named as such. The method of considering amides as 
+substituents on polycyclic ring systems, described in the 1993 Recommendations (ref. 2), should be avoided, even 
+in general nomenclature (see also P-66.1.3).
+ru: Если амидная группа является основной функцией, её следует называть соответствующим образом. Метод рассмотрения 
+амидов как &(substituent|ro*) в полициклических кольцевых системах, описанный в Рекомендациях 1993 года (ссылка 2), 
+следует избегать даже в общей номенклатуре (см. также P-66.1.3).
+
+
+#P-66.1.1.4.4
+en: Substituent groups <%a%> and <%b%>, or <%c%> and <%d%> (and selenium and tellurium analogues)  
+ru: &(Substituent group|*) <%a%> и <%b%>, или <%c%> и <%d%> (а также аналоги селена и теллура)
+%a: <${R}-CO-N"<"$>
+%b: <${R}-CO-N=$>
+%c: <${R}-SO2-N"<"$>
+%d: <${R}-SO2-N=$>
+
+en: When a group having preference for citation as a principal characteristic group is present, the groups <%a%> and  
+<%b%>, or <%c%> and <%d%> (and selenium and tellurium analogues) of an _N_-substituted amide are named 
+by combining acyl group names with those of the appropriate nitrogen substituent groups, azanediyl and imino, 
+respectively.
+ru: Если присутствует группа, предпочтительная для &(citation|ro) в качестве основной &(characteristic group), 
+то группы <%a%> и <%b%>, или <%c%> и <%d%> (а также аналоги селена и теллура) _N_-замещенного амида называются путем 
+объединения названий ацильных групп с названиями соответствующих азотсодержащих заместителей, азанедиила и иминогруппы, 
+соответственно.
+%a: R-CO-N<
+%b: R-CO-N=
+%c: <${R}-SO2-N"<"$>
+%d: <${R}-SO2-N={}$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1',120)\=/@n(4',60)<`\\`-`//>-N<_(y-1.5)CO-CH3>-@n(4,120)\\-//@n(1,60)<`\`=`/>-COOH
+$>
+
+en: 4,4′-(acetylazanediyl)dibenzoic acid (PIN)
+ru: 4,4′-(ацетилазандиил)дибензойная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-SO2-N=@n(4,120)\-/@n(1,60)<`\`-`/>-CO-O-CH3
+$>
+
+en: methyl 4-[(methanesulfonyl)imino]cyclohexane-1-carboxylate (PIN) 
+ru: метил 4-[(метансульфонил)имино]циклогексан-1-карбоксилат (PIN)
+
+@End
+
+
+#P-66.1.1.4.5
+en: Substituent groups derived from oxamide, <%a%>
+ru: &(Substituent group|*), полученные из оксамида, <%a%>
+%a: <$H2N-CO-CO-NH2$>
+ 
+#P-66.1.1.4.5.1+
+en: Prefixes for the group <%a%> are ‘oxamoylamino’ (preferred prefix) or
+‘amino(oxo)acetamido’. The preferred prefix for the group <%b%> is ‘oxamoylimino’. 
+ru: Для группы <%a%> предпочтительными префиксами являются «оксамоиламино» (&(preferred prefix)) или 
+«амино(оксо)ацетамидо». &(Preferred prefix|tv) для группы <%b%> является «оксамоиламино».
+%a: <$ H2N-CO-CO-NH–{} $>
+%b: <$ H2N-CO-CO-N={} $>
+
+@Examples
+
+@cell
+<$ H2N-CO-CO-N=CH-CH2-COOH  $>
+
+en: 3-(oxamoylimino)propanoic acid (PIN)  <br>
+3-{[amino(oxo)acetyl]imino}propanoic acid. 
+ru: 3-(оксамоилимино)пропановая кислота (PIN) <br>
+3-{[амино(оксо)ацетил]имино}пропановая кислота.
+
+@End
+
+#P-66.1.1.4.5.2
+en: Prefixes derived from oxamide for use in multiplicative nomenclature
+ru: Префиксы, образованные от оксамида, для использования в &(multiplicative nomenclature|pr)
+
+en: Concatenated preferred prefixes for the groups <%a%>, <%b%>, and <%c%> are 
+‘oxalylbis(azanediyl)’, ‘oxalyldinitrilo’, and ‘oxalylbis(azanylylidene)’, respectively. 
+The preferred prefix for the group <%d%> is ‘oxamoylazanediylְ. 
+ru: &(Concatenated [prefixes]) &(preferred prefix|*) для групп <%a%>, <%b%> и <%c%> — это «оксалилбис(азанедиил)», 
+«оксалилдинитрило» и «оксалилбис(азанилилиден)» соответственно. &(Preferred prefix) для группы <%d%> — «оксамоилазанедиилְ».
+%a: <${}–HN-CO-CO-NH–{}$>
+%b: <${>}N-CO-CO-N{<}$>
+%c: <${}=N-CO-CO-N={}$>
+%d: <$H2N-CO-CO-N{<}$>
+
+@Examples
+
+@cell
+<$ NC-CH2-NH-CO-CO-NH-CH2-CN $>
+
+en: <%L%>-bis(cyanomethyl)oxamide (PIN)  <br>
+(not 2,2′-[oxalylbis(azanediyl)]diacetonitrile)  <br>
+(not 2,2′-[ethanedioylbis(azanediyl)]diacetonitrile) 
+ru: <%L%>-бис(цианометил)оксамид (PIN) <br>
+(не 2,2′-[оксалилбис(азанедиил)]диацетонитрил) <br>
+(не 2,2′-[этандиоилбис(азанедиил)]диацетонитрил)
+%L:_N_^{1},_N_^{2}
+
+@End
+
+
+#P-66.1.2
+en: Secondary and tertiary amides 
+ru: Вторичные и третичные амиды
+
+#P-66.1.2.1+
+en: Amides having general formulas <%a%>, <%b%>, etc., and <%c%>, <%d%>, etc., 
+respectively, are named as _N_-acyl derivatives of the senior primary amide or preferred prefix. Names based on the 
+substitution of the parent hydride ‘azane’ or the pseudo parent hydride ‘amine’ by acyl groups, for example, 
+diacetylazane or diacetylamine, as recommended in the 1993 Recommendations (ref. 2) are not included in these 
+recommendations, nor are trivial names such as diacetamide, triacetamide, dibenzamide, and tribenzamide. 
+ru: Амиды, имеющие общие формулы <%a%>, <%b%> и т. д., и <%c%>, <%d%> и т. д., соответственно, называются как _N_-ацильные 
+производные старшего первичного амида или &(preferred prefix|ro). Названия, основанные на замене &(parent hydride|ro) «азан» 
+или псевдо-&(parent hydride|ro) «амин» ацильными группами, например, диацетилазан или диацетиламин, как рекомендовано 
+в Рекомендациях 1993 года (ссылка 2), не включены в эти рекомендации, как и тривиальные названия, такие как диацетамид, 
+триацетамид, дибензамид и трибензамид.
+%a: <$ ({R}-CO)2NH $>
+%b: <$ ({R}-SO2)2NH $>
+%c: <$ ({R}-CO)3N $>
+%d: <$ ({R}-SO2)3N $>
+
+@Examples
+
+@cell
+<$ HCO-NH-CHO $>
+
+en: _N_-formylformamide (PIN)  <br>
+(not diformylazane)  <br>
+(not diformylamine)  <br>
+(not diformamide) 
+ru: _N_-формилформамид (PIN) <br>
+(не диформилазан) <br>
+(не диформиламин) <br>
+(не диформамид)
+
+@cell
+<$ (CH3-CO)2N–{} $>
+
+en: _N_-acetylacetamido (preferred prefix)  <br>
+diacetylamino  <br>
+(not diacetylazanyl)  <br>
+(not diacetamido) 
+ru: _N_-ацетилацетамидо (&(preferred prefix)) <br>
+диацетиламино <br>
+(не диацетилазанил) <br>
+(не диацетамидо)
+
+@cell
+<$ C6H5-CO-NH-CO-CH3 $>
+  
+en: _N_-acetylbenzamide (PIN)  <br>
+[not acetyl(benzoyl)azane]  <br>
+[not acetyl(benzoyl)amine]
+ru: _N_-ацетилбензамид (PIN) <br>
+[не ацетил(бензоил)азан] <br>
+[не ацетил(бензоил)амин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq<_qO_q_qq>_(a54)CO-NH-C_(h)O:o; -_qq_qO@n(1)_q<_(a54)#o>@n(2)_qq
+$>
+
+en: _N_-(furan-2-carbonyl)furan-2-carboxamide (PIN)  <br>
+[not di(furan-2-carbonyl)azane]  <br>
+[not di(furan-2-carbonyl)amine] 
+ru: _N_-(фуран-2-карбонил)фуран-2-карбоксамид (PIN) <br>
+[не ди(фуран-2-карбонил)азан] <br>
+[не ди(фуран-2-карбонил)амин]
+
+@cell
+<$
+`/`-`\/-\-CO-N@:cx(s)<_(A&s70,L1.1)C_(h)O-/-\`/`-`\>@(-)@cx()
+$>
+
+en: _N,N_-di(cyclohexanecarbonyl)cyclohexanecarboxamide (PIN)  <br>
+[not tri(cyclohexanecarbonyl)azane]  <br>
+[not tri(cyclohexanecarbonyl)amine] 
+ru: _N,N_-ди(циклогексанкарбонил)циклогексанкарбоксамид (PIN) <br>
+[не три(циклогексанкарбонил)азан] <br>
+[не три(циклогексанкарбонил)амин]
+
+@cell
+<$ C6H5-CO-N<`|CO-CH3>-CO-CH2-CH2-Cl $>
+
+en: _N_-acetyl-_N_-(3-chloropropanoyl)benzamide (PIN)  <br>
+[not acetyl(benzoyl)(3-chloropropanoyl)azane]  <br>
+[not acetyl(benzoyl)(3-chloropropanoyl)amine] 
+ru: _N_-ацетил-_N_-(3-хлорпропаноил)бензамид (PIN) <br>
+[не ацетил(бензоил)(3-хлорпропаноил)азан] <br>
+[не ацетил(бензоил)(3-хлорпропаноил)амин]
+
+@cell
+<$ -_q<_q_q_q>_(a54)N(CO-CH3)2 $>
+
+en: _N_-acetyl-_N_-cyclopentylacetamide (PIN)  <br>
+[not diacetyl(cyclopentyl)azane]  <br>
+[not diacetyl(cyclopentyl)amine] 
+ru: _N_-ацетил-_N_-циклопентилацетамид (PIN) <br>
+[не диацетил(циклопентил)азан] <br>
+[не диацетил(циклопентил)амин]
+
+@cell
+<$ |`//`\`//`\`||/\\<|>/\\_q6N<`|CO-CH3>-CO-C6H5 $>
+
+en: _N_-acetyl-_N_-(naphthalen-2-yl)benzamide (PIN)  <br>
+[not acetyl(benzoyl)(naphthalen-2-yl)azane]  <br>
+[not acetyl(benzoyl)(naphthalen-2-yl)amine]
+ru: _N_-ацетил-_N_-(нафтален-2-ил)бензамид (PIN) <br>
+[не ацетил(бензоил)(нафтален-2-ил)азан] <br>
+[не ацетил(бензоил)(нафтален-2-ил)амин]
+
+@End
+
+#P-66.1.3
+en: ‘Hidden’ amides 
+ru: «Скрытые» амиды
+
+en: An _N_-acyl group attached to a nitrogen atom of a heterocyclic system has been called a ‘hidden amide’, i.e., an amide 
+that cannot be named as such by accepted substitutive principles. The traditional way to name such compounds by using 
+acyl groups as substituents on the nitrogen atom of the heterocyclic system is allowed but only in general nomenclature. 
+Such compounds are now considered as pseudoketones (see P-64.3) and preferred IUPAC names are constructed 
+accordingly. 
+ru: _N_-Ацильная группа, присоединенная к атому азота гетероциклической системы, называется «скрытым амидом», то есть амидом, 
+который нельзя назвать таковым на основе общепринятых принципов замещения. Традиционный способ наименования таких соединений 
+с использованием ацильных групп в качестве &(substituent|ro*) на атоме азота гетероциклической системы допускается, 
+но только в общей номенклатуре. Такие соединения теперь рассматриваются как псевдокетоны (см. P-64.3), и предпочтительные 
+названия по номенклатуре IUPAC строятся соответствующим образом.
+
+@p .framed
+en: An N-acyl group attached to a nitrogen atom of a heterocyclic system is now preferably named as a pseudoketone 
+(see P-64.1.2.1, P-64.3) and not as an acyl substituent on the nitrogen as in previous recommendations; the latter 
+method can be used in general nomenclature. 
+ru: _N_-ацильная группа, присоединенная к атому азота гетероциклической системы, теперь предпочтительно обозначается 
+как псевдокетон (см. P-64.1.2.1, P-64.3), а не как ацильный заместитель на атоме азота, как в предыдущих рекомендациях; 
+последний метод может использоваться в общей номенклатуре.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N`/`-`\/-\@n(1,180)-CO@n(1)-CH3@n(2)
+$>
+
+en: 1-(piperidin-1-yl)ethan-1-one (PIN)  <br>
+1-acetylpiperidine 
+ru: 1-(пиперидин-1-ил)этан-1-он (PIN) <br>
+1-ацетилпиперидин
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nu(n)@n(&n,-90,.55)@;
+`//`\`||/\\|\@n(4,90)/@n(3,30)`|@n(2,-30)`\N<`/>@n(1,-150,.5)`|CO@nu(1)-CH2@nu(2)-CH3@nu(3)
+$>
+
+en: 1-(3,4-dihydroquinolin-1(2_H_)-yl)propan-1-one (PIN)  <br>
+1-propanoyl-1,2,3,4-tetrahydroquinoline  <br>
+1-propionyl-1,2,3,4-tetrahydroquinoline 
+ru: 1-(3,4-дигидрохинолин-1(2_H_)-ил)пропан-1-он (PIN) <br>
+1-пропаноил-1,2,3,4-тетрагидрохинолин <br>
+1-пропионил-1,2,3,4-тетрагидрохинолин
+
+@End
+
+
+#P-66.1.4
+en: Chalcogen analogues of amides 
+ru: &(Chalcogen analogue|*) амидов
+
+en: Chalcogen analogues of amides are named systematically. Prefixes, such as ‘thio’, modifying retained names are no 
+longer recommended for preferred names. 
+ru: &(Chalcogen analogue|*) амидов именуются систематически. Использование префиксов, таких как «тио», для модификаций 
+сохранившихся названий больше не рекомендуется для предпочтительных названий.
+
+#P-66.1.4.1
+en: Names of chalcogen analogues of primary amides
+ru: Названия &(chalcogen analogue|ro*) первичных амидов
+
+#P-66.1.4.1.1+
+en: Names are formed by using suffixes modified by functional replacement nomenclature using prefixes and infixes. 
+ru: Названия образуются с использованием суффиксов, модифицированных с помощью &(functional replacement nomenclature|ro), 
+включающей префиксы и инфиксы.
+
+@Examples 2 .left-aligned-cells
+
+@cell
+<$ {}–(C)S-NH2 $>
+
+@cell
+en: -thioamide (preferred suffix) 
+ru: -тиоамид (&(preferred suffix))
+
+@cell
+<$ {}–CS-NH2 $>
+
+@cell
+en: -carbothioamide (preferred suffix) 
+ru: -карботиоамид (&(preferred suffix))
+
+@cell
+<$ {}–S(O)(S)-NH2 $>
+
+@cell
+en: -sulfonothioamide (preselected suffix) 
+ru: -сульфонотиоамид (&(preselected suffix))
+
+@cell
+<$ {}–S(S)(S)-NH2 $>
+
+@cell
+en: -sulfonodithioamide (preselected suffix) 
+ru: -сульфонодитиоамид (&(preselected suffix))
+
+@cell
+<$ {}–S(S)-NH2 $>
+
+@cell
+en: -sulfinothioamide (preselected suffix) 
+ru: -сульфинотиоамид (&(preselected suffix))
+
+@End
+
+en: For a more extended list, see Table 4.4. 
+ru: Более полный список см. в &[Таблице 4.4].
+
+@Examples
+
+@cell
+<$ HCS-NH2 $>
+  
+en: methanethioamide (PIN)  <br>
+thioformamide 
+ru: метантиоамид (PIN) <br>
+тиоформамид
+
+@cell
+<$ CH3-CS-NH2 $>
+  
+en: ethanethioamide (PIN)  <br>
+thioacetamide 
+ru: этантиоамид (PIN) <br>
+тиоацетамид
+
+@cell
+<$ C6H5-CS-NH2 $>
+  
+en: benzenecarbothioamide (PIN)  <br>
+thiobenzamide 
+ru: бензолкарботиоамид (PIN) <br>
+тиобензамид
+
+@cell
+<$ H2N-CS-CH2-CH2-CS-NH2 $>
+  
+en: butanedithioamide (PIN) 
+ru: бутандитиоамид (PIN)
+
+@cell
+<$ CH3-[CH2]4-CS-NH2 $>
+  
+en: hexanethioamide (PIN) 
+ru: гексантиоамид (PIN)
+
+@cell
+<$ CH3-CH2-CS-NH2 $>
+  
+en: propanethioamide (PIN)  <br>
+(not thiopropionamide) 
+ru: пропантиоамид (PIN) <br>
+(не тиопропионамид)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/N@n(1,-90,.55)\\@n(2,-90,)_q6CS-NH2
+$>
+
+en: pyridine-2-carbothioamide (PIN)
+ru: пиридин-2-карботиоамид (PIN)
+
+@cell
+<$ ||`/`\\`|//\/\\<|`//`\>_q6S<`||S><||S>-NH2 $>
+
+en: naphthalene-2-sulfonodithioamide (PIN) 
+ru: нафталин-2-сульфонодитиоамид (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\N@n(1,-160)/=\@n(4,70)-CS-NH2
+$>
+
+en: pyridine-4-carbothioamide (PIN)  <br>
+(not thioisonicotinamide) 
+ru: пиридин-4-карботиоамид (PIN) <br>
+(не тиоизоникотинамид)
+
+@End
+
+#P-66.1.4.2
+en: Names for chalcogen analogues of secondary and tertiary amides 
+ru: Названия &(chalcogen analogue|ro*) вторичных и третичных амидов
+
+en: Names are formed by the addition of appropriate prefixes to names described in P-65.1.7.2.3  
+ru: Названия формируются путем добавления соответствующих префиксов к названиям, описанным в пункте P-65.1.7.2.3
+
+@Examples
+
+@cell
+<$ CH3-CS-NH-CS-CH3 $>
+  
+en: _N_-(ethanethioyl)ethanethioamide (PIN)  <br>
+_N_-(thioacetyl)thioacetamide 
+ru: _N_-(этантиоил)этантиоамид (PIN) <br>
+_N_-(тиоацетил)тиоацетамид
+
+@cell
+<$ |`/`\`|/\/N(CS-CH3)2 $>
+
+en: _N_-cyclohexyl-_N_-(ethanethioyl)ethanethioamide (PIN)  <br>
+_N_-cyclohexyl-_N_-(thioacetyl)thioacetamide 
+ru: _N_-циклогексил-_N_-(этантиоил)этантиоамид (PIN) <br>
+_N_-циклогексил-_N_-(тиоацетил)тиоацетамид
+
+@cell
+<$ CH3-CH2-CS-NH-CO-CH3 $>
+  
+en: _N_-(propanethioyl)acetamide (PIN) 
+ru: _N_-(пропантиоил)ацетамид (PIN)
+
+@End
+
+#P-66.1.4.3
+en: Names of chalcogen derivatives of ‘hidden’ amides 
+ru: Названия халькогеновых производных «скрытых» амидов
+
+en: Names are formed as described in P-64.6.1 for chalcogen derivatives of pseudoketones.  
+ru: Названия формируются, как описано в P-64.6.1 для халькогенных производных псевдокетонов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_qN<_q_q>-CS@n(1)-CH3@n(2)
+$>
+
+en: 1-(pyrrolidin-1-yl)ethane-1-thione (PIN)  <br>
+[not 1-(ethanethioyl)pyrrolidine] 
+ru: 1-(пирролидин-1-ил)этан-1-тион (PIN) <br>
+[не 1-(этантиоил)пирролидин]
+
+@End
+
+#P-66.1.4.4+
+en: Names of substituent groups derived from chalcogen derivatives of amides In the presence of a function 
+having priority for citation as suffix, the amide function is expressed in two ways: 
+ru: Названия &(substituent group|ro*), полученных из халькогеновых производных амидов. При наличии функции, имеющей 
+приоритет при &(citation|pr) в качестве суффикса, амидная функция выражается двумя способами:
+
+@List 1
+
+@item
+en: by a prefix formed by changing the final letter ‘e’ in the name of the amide into ‘o’; 
+ru: с помощью префикса, образованного заменой последней буквы «е» в названии амида на «о»;
+
+@item
+en: by the appropriate prefixes, such as amino, in conjunction with sulfanylidene or thioxo, as well as carbonothioyl 
+(not thiocarbonyl) for  or carbamothioyl (not thiocarbamoyl) for <%b%>. 
+ru: с помощью соответствующих префиксов, таких как амино, в сочетании с сульфанилиденом или тиоксо, а также карбонотиоил 
+(не тиокарбонил) для <%a%> или карбамотиоил (не тиокарбамоил) для <%b%>.
+%a: <${}–CS–{}$>
+%b: <${}–CS-NH2$>
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CS@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-amino-3-sulfanylidenepropanoic acid (PIN)  <br>
+3-amino-3-thioxopropanoic acid  <br>
+carbamothioylacetic acid  <br>
+(aminocarbonothioyl)acetic acid 
+ru: 3-амино-3-сульфанилиденпропановая кислота (PIN) <br>
+3-амино-3-тиоксопропановая кислота <br>
+карбамотиоилацетиловая кислота <br>
+(аминокарбонотиоил)уксусная кислота
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CS-N`H-/=\<`//`-`\\@n(4,-120)>@n(1,-60)-CO-NH2
+$>
+
+en: 4-(ethanethioamido)benzamide (PIN)  <br>
+4-[(ethanethioyl)amino]benzamide  <br>
+4-(thioacetamido)benzamide 
+ru: 4-(этантиоамидо)бензамид (PIN) <br>
+4-[(этантиоил)амино]бензамид <br>
+4-(тиоацетамидо)бензамид
+
+@cell
+<$ CH3-S(S)-NH-CH2-COOH $>
+
+en: [(methanesulfinothioyl)amino]acetic acid (PIN)
+ru: [(метансульфинотиоил)амино]уксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1,-90)</COOH>|@n(2,90)_q6CS-CS-NH2
+$>
+
+en: 2-[amino(sulfanylidene)ethanethioyl]benzoic acid (PIN) 
+ru: 2-[амино(сульфанилиден)этанэтиоил]бензойная кислота (PIN)
+
+@End
+
+#P-66.1.5
+en: Lactams, lactims, sultams, and sultims 
+ru: Лактамы, лактимы, сультамы и сультимы
+
+#P-66.1.5.1
+en: Lactams and lactims
+ru: Лактамы и лактимы
+
+en: Intramolecular amides of amino carboxylic acids, <%a%>, are called ‘lactams’ and their tautomers, <%b%>, are 
+‘lactims’. Lactams are named in two ways: 
+ru: Внутримолекулярные амиды аминокарбоновых кислот, <%a%>, называются «лактамами», а их таутомеры, <%b%>, — «лактимами». 
+Лактамы называются двумя способами:
+%a: –CO-NH–
+%b: –C(OH)=N–
+
+@List 1
+
+@item
+en: as heterocyclic pseudoketones; 
+ru: в виде гетероциклических псевдокетонов;
+
+@item
+en: by substituting ‘lactam’ for the ‘ic acid’ ending of a systematic ‘oic acid’ name for the parent acid without the amino 
+substituent, and inserting a locant designating the position of the amino group between the ‘o’ and ‘lactam’. Lactims are 
+named in the same way, using ‘lactim’ in place of ‘lactam’. 
+ru: путем замены «лактам» на окончание «&(ic acid)» систематического названия «&(oic acid)» для исходной кислоты без 
+аминозаместителя и вставки локанта, обозначающего положение аминогруппы между «о» и «лактам». Лактимы называются 
+таким же образом, используя «лактим» вместо «лактам».
+
+@End
+
+en: Method (1) generates preferred IUPAC names. 
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_q<_(a54,N2)O>@n(2,60)_qN<_(y-.5)H>@n(1,90,.55)_q_q
+$>
+
+en: pyrrolidin-2-one (PIN)  <br>
+butano-4-lactam 
+ru: пирролидин-2-он (PIN) <br>
+бутано-4-лактам
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-_(y%h:1,x-%d:.366)_(y%d,x-%h)|_(x%h,y%d)_(x%d,y%h)-_(x%d,y-%h)-<\\O>@n(2,-120)/NH@n(1,-170)`\`-_(x-%d,y-%h)
+$>
+
+en: 1-azacyclotridecan-2-one (PIN)  <br>
+dodecano-12-lactam 
+ru: 1-азациклотридекан-2-он (PIN) <br>
+додекано-12-лактам
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//N@n(1,90,.55)`\`|/\|@n(2,90)\OH
+$>
+
+en: 3,4,5,6-tetrahydropyridin-2-ol (PIN)  <br>
+pentano-5-lactim
+ru: 3,4,5,6-тетрагидропиридин-2-ол (PIN) <br>
+пентано-5-лактим
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|_q8`-_q8|_q8-N@n(1,90,.55)_qq8@n(2,80)_(a67.5)OH
+$>
+
+en: 3,4,5,6,7,8-hexahydroazocin-2-ol (PIN)  <br>
+1,2-didehydroazocan-2-ol  <br>
+heptano-7-lactim 
+ru: 3,4,5,6,7,8-гексагидроазоцин-2-ол (PIN) <br>
+1,2-дидегидроазокан-2-ол <br>
+гептано-7-лактим
+
+@End
+
+#P-66.1.5.2
+en: Sultams, sultims, and intramolecular amides of sulfinic acids
+ru: Сультамы, сультимы и внутримолекулярные амиды сульфиновых кислот
+
+#P-66.1.5.2.1+
+en: Intramolecular amides of amino sulfonic acids are called ‘sultams’ and may be named in three ways 
+ru: Внутримолекулярные амиды аминосульфоновых кислот называются «сультамами» и могут быть названы тремя способами.
+
+@List 1
+
+@item
+en: as heterocyclic heterones; 
+ru: как гетероциклические гетероны;
+
+@item
+en: by citing the term ‘sultam’ denoting the cyclic <%a%> group after the name of the appropriate parent hydride 
+preceded by a pair of locants describing the points of attachment of the sulfonyl group and the nitrogen atom, 
+respectively; the locant of the sulfonyl group is cited first, and, if there is a choice, is the lower locant. Multiplying 
+prefixes and pairs of locants separated by a colon are used to indicate two or more sultam rings; 
+ru: с указанием термина «сультам», обозначающего циклическую группу <%a%>, после названия соответствующего &(parent hydride|ro), 
+которому предшествует пара локантов, описывающих точки присоединения сульфонильной группы и атома азота соответственно; 
+локант сульфонильной группы указывается первым, и, если есть выбор, является наименьшим локантом. Для обозначения двух 
+или более сультамовых колец используются умножающиеся префиксы и пары локаторов, разделенные двоеточием;
+%a: <${}–NH-SO2–{}$>
+
+@item
+en: as heterocycles and, according to functional class nomenclature, using the class term ‘oxide’. 
+ru: как гетероциклы и, согласно &(functional class nomenclature|da), с использованием термина класса «оксид».
+
+@End
+
+en: Method (1) leads to preferred IUPAC names.  
+ru: Метод (1) приводит к предпочтительным названиям по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|`\l_(a81.4707)O2`S@n(1)--NH@n(2,-90)_(a68.5292)`/`\`/||\//\//`|`\\
+$>
+
+en: (1) 1λ^{6}-naphtho[1,8-_cd_][1,2]thiazole-1,1(2_H_)-dione (PIN)  <br>
+(3) 2_H_-naphtho[1,8-_cd_][1,2]thiazole 1,1-dioxide  <br>
+(2) naphthalene-1,8-sultam 
+ru: (1) 1λ^{6}-нафто[1,8-_cd_][1,2]тиазол-1,1(2_H_)-дион (PIN) <br>
+(3) 2_H_-нафто[1,8-_cd_][1,2]тиазол 1,1-диоксид <br>
+(2) нафталин-1,8-сультам
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SO2@n(1,140)|`/`\`|/N<_(y-.5)H>@n(2,90,.55)\
+$>
+
+en: (1) 1λ^{6},2-thiazinane-1,1-dione (PIN)  <br>
+(3) 1,2-thiazinane 1,1-dioxide  <br>
+(2) butane-1,4-sultam 
+ru: (1) 1λ^{6},2-тиазинан-1,1-дион (PIN) <br>
+(3) 1,2-тиазинан 1,1-диоксид <br>
+(2) бутан-1,4-сультам
+
+@End
+
+
+#P-66.1.5.2.2+
+en: Sultims are tautomers of sultams and are named as described in P-66.1.5.2.1 for sultams, using the term 
+‘sultim’ in place of ‘sultam’. 
+ru: Сультимы — это таутомеры сультамов, и их названия соответствуют описанию сультамов в P-66.1.5.2.1, где вместо слова 
+«сультам» используется термин «сультим».
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,60)_qN@n(2,10,.45)_qqS@n(1,-10,.6)<_(a84,N2)O><_(a24)HO>_q@n(5,-170)_q@n(4,120)
+$>
+
+en: (1) 1-hydroxy-4,5-dihydro-3_H_-1λ^{6},2-thiazol-1-one (PIN)  <br>
+(3) 1-hydroxy-4,5-dihydro-3_H_-1λ^{4},2-thiazole 1-oxide  <br>
+(2) propane-1,3-sultim 
+ru: (1) 1-гидрокси-4,5-дигидро-3_H_-1λ^{6},2-тиазол-1-он (PIN) <br>
+(3) 1-гидрокси-4,5-дигидро-3_H_-1λ^{4},2-тиазол 1-оксид <br>
+(2) пропан-1,3-сультим
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(%v:20)\|`/$slope(%h:70)`/`-`\$slope(%v)`\`|/$slope(%h)/S@n(1,-70,.55)<`-HO><`\\O>==N@n(2,-80,.55)\
+$>
+
+en: (1) 1-hydroxy-1λ^{6}-thia-2-azacyclododec-1-en-1-one (PIN)  <br>
+(3) 1-hydroxy-1λ^{4}-thia-2-azacyclododec-1-ene 1-oxide  <br>
+(2) decane-1,10-sultim 
+ru: (1) 1-гидрокси-1λ^{6}-тиа-2-азациклододец-1-ен-1-он (PIN) <br>
+(3) 1-гидрокси-1λ^{4}-тиа-2-азациклододец-1-ен 1-оксид <br>
+(2) декан-1,10-сультим
+
+@End
+
+#P-66.1.5.2.3
+en: Intramolecular amides of amino sulfinic acids
+ru: Внутримолекулярные амиды аминосульфиновых кислот
+
+en: Cyclic amides of amino sulfinic acids and their tautomers are named as heterocyclic compounds. 
+ru: Циклические амиды аминосульфиновых кислот и их таутомеры именуются как гетероциклические соединения.
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y.5)N@n(2,90,.55)\S/O`/@n(1,30)|`/`\`|/
+$>
+
+en: 1λ^{4},2-thiazinan-1-one (PIN)  <br>
+1,2-thiazinane 1-oxide
+ru: 1λ^{4},2-тиазинан-1-он (PIN) <br>
+1,2-тиазинан 1-оксид
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+S|`/`\`|/N@n(2,-90,.55)\\@n(1,30)/OH
+$>
+
+en: 3,4,5,6-tetrahydro-1λ^{4},2-thiazin-1-ol (PIN) 
+ru: 3,4,5,6-тетрагидро-1λ^{4},2-тиазин-1-ол (PIN)
+
+@End
+
+#P-66.1.6
+en: Amides derived from carbonic, cyanic, and the di- and polycarbonic acids 
+ru: Амиды, полученные из &(carbonic [acid]|ro), циановой, а также ди- и &(polycarbonic acid|ro*)
+
+#P-66.1.6.1
+en: Amides derived from carbonic acid and related compounds 
+ru: Амиды, полученные из &(carbonic acid|ro) и родственных соединений
+
+@Content
+
+#P-66.1.6.1.1
+en: Urea and its substitutive derivatives  
+ru: Мочевина и ее производные-заместители
+
+#P-66.1.6.1.1.1+
+en: The compound <%a%> has the retained name ‘urea’, which is the preferred IUPAC name, with 
+locants _N_ and _N_′, as shown above the structure below. The systematic name is ‘carbonic diamide’. The locants 1, 2, and 
+3 have been used in the past and may be used in general nomenclature. 
+ru: Соединение <%a%> имеет сохранившееся название «мочевина», которое является предпочтительным названием по номенклатуре IUPAC, 
+с локантами _N_ и _N_′, как показано над структурой ниже. Систематическое название — «угольный диамид». Локанты 1, 2 и 3 
+использовались ранее и могут использоваться в общей номенклатуре.
+%a: <$H2N-CO-NH2$>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N},-90)@n(1)-CO@n(2)-NH2@n(\textit{N}',-80)@n(3)
+$>
+
+en: urea (PIN) 
+ru: мочевина (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N},-90)-CO-NH2@n(\textit{N}',-80)
+$>
+
+en: carbonic diamide 
+ru: угольный диамид
+
+@End
+
+@p .framed
+en: Numerical locants for urea are no longer used in the IUPAC preferred name. 
+ru: В предпочтительном названии IUPAC числовые локанты для мочевины больше не используются.
+
+#P-66.1.6.1.1.2+
+en: Derivatives of urea formed by substitution on the nitrogen atom(s) are named as substitution products in 
+accordance with the seniority order of urea that is ranked as an amide of carbonic acid. Amides of cyanic and the di- 
+and polycarbonic acids follow the same seniority as the corresponding acid (see P-42.2). 
+ru: Производные мочевины, образованные замещением на атоме(ах) азота, называются продуктами замещения в соответствии 
+с порядком старшинства мочевины, которая ранжируется как амид угольной кислоты. Амиды циановой кислоты, а также 
+ди- и &(polycarbonic acid|ro*) следуют тому же порядку старшинства, что и соответствующая кислота (см. стр. 42.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(\textit{N},-90)@n(1)-CO@n(2)-NH@n(\textit{N}',-80)@n(3)-CH3
+$>
+
+en: _N_,_N_′-dimethylurea (PIN)  <br>
+_N_,_N_′-dimethylcarbonic diamide 
+ru: _N_,_N_′-диметилмочевина (PIN) <br>
+_N_,_N_′-диметилугольный диамид
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-N@n(\textit{N},-90)=C(CH3)2
+$>
+
+en: _N_-(propan-2-ylidene)urea (PIN)  <br>
+isopropylideneurea  <br>
+_N_-(propan-2-ylidene)carbonic diamide 
+ru: _N_-(пропан-2-илиден)мочевина (PIN) <br>
+изопропилиденмочевина <br>
+_N_-(пропан-2-илиден)угольный диамид
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(\textit{N}',-80)@n(3)-CO-NH@n(\textit{N},-90)@n(1)-CH<`|CN>-CH2-CH2-S-CH3
+$>
+
+en: _N_-[1-cyano-3-(methylsulfanyl)propyl]-_N_′-methylurea (PIN)  <br>
+_N_-[1-cyano-3-(methylsulfanyl)propyl]-_N_′-methylcarbonic diamide 
+ru: _N_-[1-циано-3-(метилсульфанил)пропил]-_N_′-метилмочевина (PIN) <br>
+_N_-[1-циано-3-(метилсульфанил)пропил]-_N_′-метилугольный диамид
+
+@End
+
+#P-66.1.6.1.1.3+
+en: The prefixes for appropriate substituent groups derived from urea are formed systematically. The 
+prefixes ‘ureido’ and ‘ureylene’ are not recommended.
+ru: Префиксы для соответствующих &(substituent group|ro*), полученных из мочевины, формируются систематически. 
+Префиксы «уреидо» и «уреилен» не рекомендуются.
+
+@p .framed
+en: The prefixes ‘ureido’ and ‘ureylene’ are no longer acceptable in IUPAC nomenclature. The prefixes 
+‘carbamoylamino’ and ‘carbonylbis(azanediyl)’, respectively are recommended for preferred IUPAC names.  
+ru: Префиксы «уреидо» и «уреилен» больше не принимаются в номенклатуре ИЮПАК. В качестве предпочтительных названий по ИЮПАК 
+рекомендуются префиксы «карбамоиламино» и «карбонилбис(азанедиил)» соответственно.
+
+@Examples --
+
+@cell
+<$ H2N-CO-NH–{} $>
+
+en: carbamoylamino (preferred prefix)  <br>
+(aminocarbonyl)amino  <br>
+(not ureido)
+ru: карбамоиламино (&(preferred prefix)) <br>
+(аминокарбонил)амино <br>
+(не уреидо)
+
+@cell
+<$ {}–HN-CO-NH–{} $>  
+
+en: carbonylbis(azanediyl)  <br>
+(preferred prefix; for use in multiplicative nomenclature)  <br>
+(not ureylene) 
+ru: карбонилбис(азанедиил) <br>
+(&(preferred prefix); для использования в &(multiplicative nomenclature|pr)) <br>
+(не уреилен)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+COOH|\|`//`\`//`\`||/\\<|>/@n(1,-30)\@n(2,-90)_q6NH-CO-NH-CH3
+$>
+
+en: 2-[(methylcarbamoyl)amino]naphthalene-1-carboxylic acid (PIN)  <br>
+2-{[(methylamino)carbonyl]amino}-1-naphthoic acid  <br>
+[not 2-(3-methylureido)naphthalene-1-carboxylic acid]
+ru: 2-[(метилкарбамоил)амино]нафтален-1-карбоновая кислота (PIN) <br>
+2-{[(метиламино)карбонил]амино}-1-нафтойная кислота <br>
+[не 2-(3-метилуреидо)нафтален-1-карбоновая кислота]
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)HO-O2`S\@n(2,150)||\//\//`|<`\\`/<|>`\\`/>@n(7,30)/NH-CO-N`H\@n(7',150)|\\/\\/`||<`\`//<|>`\`//>@n(2',30)/SO2-OH
+$>
+
+en: 7,7′-[carbonylbis(azanediyl)]di(naphthalene-2-sulfonic acid) (PIN)  <br>
+[not 7,7′-ureylenedi(naphthalene-2-sulfonic acid)]
+ru: 7,7′-[карбонилбис(азанедиил)]ди(нафтален-2-&(sulfonic acid)) (PIN) <br>
+[не 7,7′-уреиленди(нафтален-2-&(sulfonic acid))]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-CO-NH@n(\textit{N})-CO-NH2
+$>
+
+en: _N_-carbamoylbenzamide (PIN)  <br>
+_N_-(aminocarbonyl)benzamide
+ru: _N_-карбамоилбензамид (PIN) <br>
+_N_-(аминокарбонил)бензамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-SO2-NH@n(\textit{N})-CO-NH2
+$>
+
+en: _N_-carbamoylbenzenesulfonamide (PIN)  <br>
+_N_-(aminocarbonyl)benzenesulfonamide 
+ru: _N_-карбамоилбензолсульфонамид (PIN) <br>
+_N_-(аминокарбонил)бензолсульфонамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-NH@n(\textit{N})-CO@n(1)-CH2@n(2)-C6H5
+$>
+
+en: _N_-carbamoyl-2-phenylacetamide (PIN)  <br>
+_N_-(aminocarbonyl)-2-phenylacetamide 
+ru: _N_-карбамоил-2-фенилацетамид (PIN) <br>
+_N_-(аминокарбонил)-2-фенилацетамид
+
+@End
+
+#P-66.1.6.1.1.4
+en: Carboxylic acid derivatives of urea 
+ru: Производные карбоновых кислот мочевины
+
+en: Two carboxylic acids are related to urea; have been known as ‘allophanic acid’ for <%a%> and ‘hydantoic 
+acid’ for <%b%>. These names are no longer recommended. Preferred IUPAC names for these two 
+acids and their derivatives are formed systematically. 
+ru: Две карбоновые кислоты связаны с мочевиной; ранее они были известны как «аллофановая кислота» <%a%> и 
+«гидантоиновая кислота» <%b%>. Эти названия больше не рекомендуются. Предпочтительные названия по номенклатуре IUPAC 
+для этих двух кислот и их производных формируются систематически.
+// http://charchem.org/ru/subst-ref/?id=3070&langMode=all&langs=%2A
+// http://charchem.org/ru/subst-ref/?id=3138&langMode=all&langs=%2A
+%a:<$H2N-CO-NH-COOH$>
+%b:<$H2N-CO-NH-CH2-COOH$>
+
+@Examples
+
+@cell
+<$ H2N-CO-NH-COOH $>
+
+en: carbamoylcarbamic acid (PIN)  <br>
+(aminocarbonyl)carbamic acid 
+ru: карбамоилкарбаминовая кислота (PIN) <br>
+(аминокарбонил)карбаминовая кислота
+
+@cell
+<$ H2N-CO-NH-CO–{} $>
+
+en: carbamoylcarbamoyl (preferred prefix)  <br>
+[(aminocarbonyl)amino]carbonyl 
+ru: карбамоилкарбамоил (&(preferred prefix)) <br>
+[(аминокарбонил)амино]карбонил
+
+@cell
+<$ H2N-CO-NH-CH2-COOH $>
+
+en: _N_-carbamoylglycine  <br>
+(carbamoylamino)acetic acid 
+ru: _N_-карбамоилглицин <br>
+(карбамоиламино)уксусная кислота
+
+@End
+
+#P-66.1.6.1.1.5
+en: Seniority order of urea among amides 
+ru: Порядок старшинства мочевины среди амидов
+
+en: Amides are ranked in the same way as the corresponding acids (see P-42). Thus, in substitutive nomenclature, amides 
+from carboxylic acids, including formamide, are senior to urea. 
+ru: Амиды ранжируются так же, как и соответствующие кислоты (см. P-42). Таким образом, в &(substitutive nomenclature|pr) 
+амиды карбоновых кислот, включая формамид, имеют более высокий приоритет, чем мочевина.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-NH-CH2-CH2-NH@n(\textit{N})-CO-CH3
+$>
+
+en: _N_-[2-(carbamoylamino)ethyl]acetamide (PIN)  <br>
+_N_-{2-[(aminocarbonyl)amino]ethyl}acetamide
+ru: _N_-[2-(карбамоиламино)этил]ацетамид (PIN) <br>
+_N_-{2-[(аминокарбонил)амино]этил}ацетамид
+
+@cell
+<$ H2N-CO-NH-CH2-CH2-CH2-NH-CHO $>
+
+en: _N_-[3-(carbamoylamino)propyl]formamide (PIN)  <br>
+[not _N_-(3-formamidopropyl)urea  <br>
+nor _N_-[3-(formylamino)propyl]urea;  <br>
+formamide is preferred to urea, see P-41] 
+ru: _N_-[3-(карбамоиламино)пропил]формамид (PIN) <br>
+[не _N_-(3-формамидопропил)мочевина <br>
+и не _N_-[3-(формиламино)пропил]мочевина; <br>
+формамид предпочтительнее мочевины, см. P-41]
+
+@End
+
+#P-66.1.6.1.2
+en: Isourea and its derivatives 
+ru: Изомочевина и ее производные
+
+#P-66.1.6.1.2.1+
+en: The imidic acid tautomer of urea, <%a%>, is named ‘carbamimidic acid’, a shortened form of 
+the systematic functional replacement name ‘carbonamidimidic acid’. The name ‘isourea’ is no longer recommended, 
+but is retained as a class name. In preferred IUPAC names, derivatives of carbamimidic acid are named using the 
+locants _N_ and _N_′. Since the name isourea is no longer recommended, even for general nomenclature, no numerical 
+locants used in previous recommendations are needed. When the position of the double bond is unknown, only the 
+locant _N_ is used. 
+ru: &(Imidic acid), котоая является таутомером мочевины, <%a%>, называется «карбамимидной кислотой», это сокращенная 
+форма систематического &(functional replacement name|ro) «карбонамимидная кислота». Название «изомочевина» больше 
+не рекомендуется, но сохраняется как название класса. В предпочтительных названиях IUPAC производные карбамимидной 
+кислоты называются с использованием локантов _N_ и _N_′. Поскольку название изомочевина больше не рекомендуется, 
+даже для общей номенклатуры, числовые локанты, использовавшиеся в предыдущих рекомендациях, не требуются. 
+Если положение двойной связи неизвестно, используется только локант _N_.
+%a: <$H2N-C(OH)=NH$>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N})-C<-OH>`||NH@n(\textit{N}',-80)
+$>
+
+en: carbamimidic acid (PIN)  <br>
+(not isourea) 
+ru: карбамимидовая кислота (PIN) <br>
+(не изомочевина)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(C6H5)2N@n(\textit{N})-C<-O-CH2-CH3>`||mN@n(\textit{N}',-80)-CH3
+$>
+
+en: ethyl _N_′-methyl-_N,N_-diphenylcarbamimidate(PIN)  <br>
+(not _O_-ethyl-_N_′-methyl-_N,N_-diphenylisourea) 
+ru: этил _N_′-метил-_N,N_-дифенилкарбамимидат (PIN) <br>
+(не _O_-этил-_N′_-метил-_N,N_-дифенилизомочевина)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(C6H5)2N@n(\textit{N})-C<-O-CH2-CH3>`||mNH@n(\textit{N}',-80)
+$>
+
+en: ethyl _N,N_-diphenylcarbamimidate (PIN)  <br>
+(not _O_-ethyl-_N,N_-diphenylisourea) 
+ru: этил _N,N_-дифенилкарбамимидат (PIN) <br>
+(не _O_-этил-_N,N_-дифенилизомочевина)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN()@n(\textit{N})@; @:nN1()@n(\textit{N}',-80)@;
+C6H5-NH@nN()-C<-O-CH2-CH3>`||mNH@nN1() <=> H2N@nN()-C<-O-CH2CH3>`||mN@nN1()-C6H5
+$>
+
+en: ethyl _N_-phenylcarbamimidate (PIN)  <br>
+(not _O_-ethyl-_N_-phenylisourea) 
+ru: этил _N_-фенилкарбамимидат (PIN) <br>
+(не _O_-этил-_N_-фенилизомочевина)
+
+@End
+
+#P-66.1.6.1.2.2+
+en: The groups <%a%> and <%b%> derived from isourea are named respectively
+‘(_C_-hydroxycarbonimidoyl)amino’ (preferred prefix) or [hydroxy(imino)methyl]amino-, and 
+‘[amino(hydroxy)methylidene]amino’ (preferred prefix). The italic letter locant ‘_C_’ is used in the preferred prefix to 
+prevent possible ambiguity with _N_-substitution and parentheses are used around ‘hydroxy’ to emphasize that ‘amino’ is 
+not substituted by ‘hydroxy’. 
+ru: Группы <%a%> и <%b%>, полученные из изомочевины, называются соответственно «(_C_-гидроксикарбонимидоил)амино» 
+(&(preferred prefix)) или [гидрокси(имино)метил]амино- и «[амино(гидрокси)метилиден]амино» (&(preferred prefix)). 
+В &(preferred prefix|pr) используется курсивная буква «_C_», чтобы избежать возможной неоднозначности с _N_-&(substitution|tv), 
+а вокруг слова «гидрокси» используются скобки, чтобы подчеркнуть, что «амино» не замещено на «гидрокси».
+%a: <$HN=C(OH)-NH–{}$>
+%b: <$H2N-C(OH)=N–{}$>
+
+en: The prefixes 1-isoureido and 3-isoureido are no longer recommended. 
+ru: Префиксы 1-изоуреидо и 3-изоуреидо больше не рекомендуются.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||<`\HOOC>@n(2)/@n(1)\\<|>/\\@n(7)_q6N=C<-N(CH3)2>`|O-CH2-CH3
+$>
+
+en: 7-{[(dimethylamino)ethoxymethylidene]amino}naphthalene-2-carboxylic acid (PIN)  <br>
+[not 7-(2-ethyl-1,1-dimethyl-3-isoureido)naphthalene-2-carboxylic acid] 
+ru: 7-{[(диметиламино)этоксиметилиден]амино}нафтален-2-карбоновая кислота (PIN) <br>
+[не 7-(2-этил-1,1-диметил-3-изоуреидо)нафтален-2-карбоновая кислота]
+
+@End
+
+#P-66.1.6.1.3
+en: Chalcogen analogues of urea and isourea  
+ru: &(Chalcogen analogue|*) мочевины и изомочевины
+
+#P-66.1.6.1.3.1+
+en: Chalcogen analogues of urea are named by functional replacement nomenclature using the prefixes 
+‘thio’, ‘seleno’, and ‘telluro’. Preferred IUPAC names use the letter locants _N_, and _N_′. Numerical locants may be used 
+for thiourea in general nomenclature. 
+ru: &(Chalcogen analogue|*) мочевины называются по &(functional replacement nomenclature|pr) с использованием префиксов 
+«тио», «селено» и «теллуро». Предпочтительные названия по номенклатуре IUPAC используют буквенные локанты _N_ и _N_′. 
+В общей номенклатуре для тиомочевины могут использоваться числовые локанты.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(1)-C@n(2,90)<`||S>-NH2@n(3)
+$>
+
+en: carbonothioic diamide
+ru: карбоно&(thioic [amide]) диамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N})-C<`||S>-NH2@n(\textit{N}',-80)
+$>
+
+en: thiourea (PIN) 
+ru: тиомочевина (PIN) 
+
+@End
+
+@p .framed
+en: Numerical locants are no longer used for thiourea in the IUPAC preferred name.
+ru: В предпочтительном названии тиомочевины по номенклатуре IUPAC числовые обозначения больше не используются.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N})-C<`||Se>-NH@n(\textit{N}',-80)-CH@n(2)(CH3:a)-CH2@n(3)-CH3@n(4); #a@n(1)
+$>
+
+en: _N_-(butan-2-yl)selenourea (PIN)  <br>
+_N_-(1-methylpropyl)selenourea  <br>
+_N_-(butan-2-yl)carbonoselenoic diamide 
+ru: _N_-(бутан-2-ил)селеномочевина (PIN) <br>
+_N_-(1-метилпропил)селеномочевина <br>
+_N_-(бутан-2-ил)карбоселеновый диамид
+
+@End
+
+#P-66.1.6.1.3.2+
+en: Chalcogen analogues of isourea are named by functional replacement nomenclature using the appropriate 
+chalcogen infixes, for example, carbamimidothioic acid, not isothiourea. The italic locants _N_, and _N′_ are used for 
+preferred IUPAC names. When the position of the double bond is not known, locants _S_ or _Se_ or _Te_ and _N_ are used to 
+assign substituents to appropriate atoms. 
+ru: &(Chalcogen analogue|*) изомочевины, называются методом &(functional replacement nomenclature|ro) с использованием 
+соответствующих инфиксов халькогенов, например, карбамимидотиовая кислота, а не изотиомочевина. Курсивные локанты 
+_N_ и _N′_ используются для предпочтительных названий по номенклатуре IUPAC. Если положение двойной связи неизвестно, 
+для присвоения заместителей соответствующим атомам используются локанты _S_, _Se_ или _Te_ и _N_.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N})-C<-SH>`||mNH@n(\textit{N'},-80)
+$>
+
+en: carbamimidothioic acid (PIN)  <br>
+(not isothiourea) 
+ru: карбамимидо&(thioic acid) (PIN) <br>
+(не изотиомочевина)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(\textit{N'},-80)=C-N@n(\textit{N})(CH3)2; #C_(y-1.2)S-CH2-CH3
+$>
+
+en: ethyl _N,N_-dimethylcarbamimidothioate (PIN)  <br>
+(not _S_-ethyl-_N,N_-dimethylisothiourea) 
+ru: этил _N,N_-диметилкарбамимидотиоат (PIN) <br>
+(не _S_-этил-_N,N_-диметилизотиомочевина)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(\textit{N})-C=N@n(\textit{N'},-80)-CH3; #C_(y-1.2)S-CH2-CH3
+$>
+
+en: ethyl _N′_-methylcarbamimidothioate (PIN)  <br>
+(not _S_-ethyl-_N′_-methylisothiourea) 
+ru: этил _N′_-метилкарбамимидотиоат (PIN) <br>
+(не _S_-этил-_N′_-метилизотиомочевина)
+
+@End
+
+en: For the example just above, when the position of the double bond is not known the names would be: 
+ru: В приведенном выше примере, когда положение двойной связи неизвестно, названия будут следующими:
+
+@Examples --
+
+@cell
+en: ethyl _N_-methylcarbamimidothioate (PIN)  <br>
+(not _S_-ethyl-_N_-methylisothiourea) 
+ru: этил _N_-метилкарбамимидотиоат (PIN) <br>
+(не _S_-этил-_N_-метилизотиомочевина)
+
+@End
+
+#P-66.1.6.1.3.3+
+en: Prefixes for substituents derived from chalcogen analogues of urea and isourea are as follows: 
+ru: Приставки для &(substituent|ro*), полученных из &(chalcogen analogue|ro*) мочевины и изомочевины, следующие:
+
+@Examples -- 2 .left-aligned-cells .cells-align-top
+
+@cell
+<$H2N-CS-NH–{}$>
+
+@cell
+en: carbamothioylamino (preferred prefix)  <br>
+[amino(sulfanylidene)methyl]amino- 
+ru: карбамотиоиламино (&(preferred prefix)) <br>
+[амино(сульфанилиден)метил]амино-
+
+
+@cell
+<$ HN=C(SH)-NH–{} $>
+
+@cell
+en: (_C_-sulfanylcarbonimidoyl)amino (preferred prefix)  <br>
+[imino(sulfanyl)methyl]amino- 
+ru: (_C_-сульфанилкарбонимидоил)амино (&(preferred prefix)) <br>
+[имино(сульфанил)метил]амино-
+
+
+@cell
+<$H2N-C(SH)=N–{} $>
+
+@cell
+en: [amino(sulfanyl)methylidene]amino (preferred prefix) 
+ru: [амино(сульфанил)метилиден]амино (&(preferred prefix))
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CS-NH-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(carbamothioylamino)propanoic acid (PIN)  <br>
+3-{[amino(sulfanylidene)methyl]amino}propanoic acid 
+ru: 3-(карбамотиоиламино)пропановая кислота (PIN) <br>
+3-{[амино(сульфанилиден)метил]амино}пропановая кислота
+
+@End
+
+
+#P-66.1.6.1.4
+en: Condensed ureas 
+ru: Конденсированные мочевины
+
+en: Condensed ureas, <%a%>, where _n_ = 2, 3, or 4, are named systematically as diamides of imidodicarbonic 
+acid, diimidotricarbonic acid, and triimidotetracarbonic acid, etc., functional replacement names derived from the 
+corresponding di- or polycarbonic acids. The names biuret, triuret, etc., are no longer recommended as preferred 
+IUPAC names. Chalcogen analogues are described by functional replacement prefixes alphabetized along with ‘imido’ 
+in front of the corresponding di- or polycarbonic acid. Locants, as shown above the structures, below, are used to 
+indicate the positions of substituents and functional replacement prefixes, where needed. Preferred IUPAC names use 
+these locants which are also prescribed for the amides of imidopolycarbonic acids (see P-66.4.1.2.2). The full numerical 
+numbering system used previously and shown below the structures may be used in general nomenclature. 
+ru: Конденсированные мочевины, <%a%>, где _n_ = 2, 3 или 4, систематически называются диамидами имидоди&(carbonic acid|ro), 
+диимидотри&(carbonic acid) и триимидотетра&(carbonic acid) и т. д., &(functional replacement name|*), производные от 
+соответствующих ди- или &(polycarbonic acid|ro*). Названия биурет, триурет и т. д. больше не рекомендуются в качестве 
+предпочтительных названий по номенклатуре IUPAC. &(Chalcogen analogue|*) описываются &(functional replacement prefix|tv*), 
+расположенными в алфавитном порядке вместе с «имидо» перед соответствующей ди- или &(polycarbonic acid|tv). Локанты, 
+показанные над структурами ниже, используются для обозначения положений &(substituent|ro*) и &(functional replacement prefix|ro*), 
+где это необходимо. Предпочтительные названия по номенклатуре IUPAC используют эти локанты, которые также предписаны для 
+амидов имидо&(polycarbonic acid|ro*) (см. P-66.4.1.2.2). Полная числовая система нумерации, использованных ранее и 
+показанных ниже структур, может использоваться в общей номенклатуре.
+%a: <$ H2N-[CO-NH]'n'-H $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+H2N@n(1,90)@nN(1)-CO@n(1)@n(2,90)-NH@n(2)@n(3,90)-CO@n(3)@n(4,90)-NH2@n(5,90)@nN(3)
+$>
+
+en: 2-imidodicarbonic diamide (PIN)  <br>
+biuret
+ru: 2-имидоди&(carbonic [amide]) диамид (PIN) <br>
+биурет
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+H2N@n(1,90)@nN(1)-CO@n(1)@n(2,90)-NH@n(2)@n(3,90)-CO@n(3)@n(4,90)-NH@n(4)@n(5,90)-CO@n(5)@n(6,90)-NH2@n(7,90)@nN(5)
+$>
+
+en: 2,4-diimidotricarbonic diamide (PIN)  <br>
+triuret
+ru: 2,4-диимидотри&(carbonic [amide]) диамид (PIN) <br>
+триурет
+
+@End
+
+@p .framed
+en: Numerical locants for condensed ureas are no longer used in IUPAC preferred names.
+ru: В предпочтительных названиях IUPAC числовые обозначения для конденсированных мочевин больше не используются.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+CH3-NH@n(1,90)@nN(1)-CO@n(1)-NH@n(2)-CO@n(3)-NH2@nN(3)
+$>
+
+en: _N_^{1}-methyl-2-imidodicarbonic diamide (PIN)  <br>
+1-methylbiuret 
+ru: _N_^{1}-метил-2-имидоди&(carbonic [amide]) диамид (PIN) <br>
+1-метилбиурет
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+CH3-NH@n(1,90)@nN(1)-CS@n(2,90)@n(1)-NH@n(2)-CO@n(3)-NH2@nN(3)
+$>
+
+en: _N_^{1}-methyl-2-imido-1-thiodicarbonic diamide (PIN)  <br>
+1-methyl-2-thiobiuret 
+ru: _N_^{1}-метил-2-имидо-1-тиоди&(carbonic [amide]) диамид (PIN) <br>
+1-метил-2-тиобиурет
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+CH3-NH@n(1,90)@nN(1)-CO@n(1)-NH@n(2)-CS@n(4,90)@n(3)-NH@n(4)-CO@n(5)-NH2@nN(5)
+$>
+
+en: _N_^{1}-methyl-2,4-diimido-3-thiotricarbonic diamide (PIN)  <br>
+1-methyl-4-thiotriuret 
+ru: _N_^{1}-метил-2,4-диимидо-3-тиотри&(carbonic [amide]) диамид (PIN) <br>
+1-метил-4-тиотриурет
+
+@End
+
+en: For polyurets, where _n_ = 5 and higher, skeletal replacement (‘a’) nomenclature leads to preferred IUPAC names. 
+ru: Для полиуретов, где _n_ = 5 и выше, используется номенклатура &(skeletal replacement a|ro), что приводит к 
+предпочтительным названиям по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO@n(1)-NH@n(2)-CO@n(3)-NH@n(4)-CO@n(5)-NH@n(6)-CO@n(7)-NH@n(8)-CO@n(9)-NH2
+$>
+
+en: 3,5,7-trioxo-2,4,6,8-tetraazanonane-1,9-diamide (PIN)  <br>
+pentauret 
+ru: 3,5,7-триоксо-2,4,6,8-тетраазанонан-1,9-диамид (PIN) <br>
+пентаурет
+
+@End
+
+#P-66.1.6.2
+en: Amides derived from cyanic acid
+ru: Амиды, полученные из циановой кислоты
+
+en: The traditional name ‘cyanamide’ is retained for <%a%> and is the preferred IUPAC name. Substitution is allowed on 
+the <%b%> group. The systematic functional replacement name is carbononitridic amide. 
+ru: Традиционное название «цианамид» сохранено для <%a%> и является предпочтительным названием по номенклатуре IUPAC. 
+Допускается замещение в группе <%b%>. Систематическое название функциональной замены — карбонитридный амид.
+%a: <$NC-NH2$>
+%b: <${}–NH2$>
+
+@Examples
+
+@cell
+<$ NC-NH-CH(CH3)2 $>
+  
+en: (propan-2-yl)cyanamide (PIN)  <br>
+(propan-2-yl)carbononitridic amide 
+ru: (пропан-2-ил)цианамид (PIN) <br>
+(пропан-2-ил)карбонитридный амид
+
+@cell
+<$ NC-N(CH2-CH3)2 $>
+
+en: diethylcyanamide (PIN)  <br>
+diethylcarbononitridic amide 
+ru: диэтилцианамид (PIN) <br>
+диэтилкарбонитридамид
+
+@End
+
+#P-66.1.6.3
+en: Amides of di- and polycarbonic acids 
+ru: Амиды ди- и &(polycarbonic acid|ro*)
+
+en: Systematic names for amides of the polycarbonic acids are formed by adding the functional class name ‘amide’ to that 
+of the corresponding acid, preceded by the numerical prefix ‘di’ to indicate the presence of two <%a%> groups. 
+Chalcogen analogues are described by functional replacement prefixes. Numerical and letter locants are used to number 
+the structures. 
+ru: Систематические названия амидов &(polycarbonic acid|ro*) образуются путем добавления названия функционального класса 
+«амид» к названию соответствующей кислоты, перед которым ставится числовой префикс «ди», указывающий на наличие двух 
+групп <%a%>. &(Chalcogen analogue|*) описываются &(functional replacement prefix|tv*). Для нумерации структур 
+используются числовые и буквенные локанты.
+%a: <${}–NH2$>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+H2N@nN(1)-CO@n(1)-O@n(2)-CO@n(3)-NH2@nN(3)
+$>
+
+en: dicarbonic diamide (PIN)
+ru: ди&(carbonic [amide]) диамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+H2N@nN(1)-CO@n(1)-O@n(2)-CO@n(3)-O@n(4)-CO@n(5)-NH2@nN(3)
+$>
+
+en: tricarbonic diamide (PIN) 
+ru: три&(carbonic [amide]) диамид (PIN)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+(CH3)2CH-NH@nN(1)-CO@n(1)-O@n(2)-CO@n(3)-NH2@nN(3)
+$>
+
+en: _N_^{1}-(propan-2-yl)dicarbonic diamide (PIN)  <br>
+_N_-isopropyldicarbonic diamide 
+ru: _N_^{1}-(пропан-2-ил)дикарбоновая кислота диамид (PIN) <br>
+_N_-изопропилди&(carbonic [amide]) диамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+CH3-NH@nN(1)-CO@n(1)-S@n(2)-CO@n(3)-O@n(4)-CO@n(5)-NH2@nN(5)
+$>
+
+en: _N_^{1}-methyl-2-thiotricarbonic diamide (PIN)  
+ru: _N_^{1}-метил-2-тиотри&(carbonic [amide]) диамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+H2N@nN(1)-CS@n(1)-S@n(2)-CS@n(3)-NH2@nN(3)
+$>
+
+en: 1,2,3-trithiodicarbonic diamide (PIN)  <br>
+(not ‘thiuram monosulfide’) 
+ru: 1,2,3-тритиоди&(carbonic [amide]) диамид (PIN) <br>
+(не «тиурам моносульфид»)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nN(i)@n(\textit{N}^&i,-75)@;
+H2N@nN(1)-CS@n(1)-S@n(2,-55,.7)-S-CS@n(3)-NH2@nN(3)
+$>
+
+en: 2-dithioperoxy-1,3-dithiodicarbonic diamide (PIN)  <br>
+(not ‘thiuram disulfide’) 
+ru: 2-дитиоперокси-1,3-дитиоди&(carbonic [amide]) диамид (PIN) <br>
+(не «тиурамдисульфид»)
+
+@End
+
+#P-66.1.7
+en: Polyfunctional amides 
+ru: Полифункциональные амиды
+
+en: Amides follow acids, anhydrides, esters, and acid halides in the seniority order of compound classes expressed by 
+suffixes (see P-41); within the amide class, amides rank in the same order as the corresponding acid. Seniority for 
+numbering polyfunctional amides follows that described for acids, for which see P-65.1.2.3 and P-65.1.2.4. 
+ru: Амиды следуют за кислотами, ангидридами, эфирами и галогенидами кислот в порядке старшинства классов соединений, 
+выраженном суффиксами (см. P-41); внутри класса амидов амиды располагаются в том же порядке, что и соответствующие кислоты. 
+Старшинство при нумерации полифункциональных амидов соответствует порядку, описанному для кислот, см. P-65.1.2.3 и P-65.1.2.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-NH@n(2)-N@n(1)<-CO-NH2>`|CH_(h)(NO2)2
+$>
+
+en: 1-(dinitromethyl)hydrazine-1,2-dicarboxamide (PIN)
+ru: 1-(динитрометил)гидразин-1,2-дикарбоксамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH2@n(3)=CH@n(2)-CO@n(1)-NH-CH2-N<`|NO2>-CH2-N<`|NO2>-CH2-NH-CO-CH3
+$>
+
+en: _N_-[({[(acetamidomethyl)nitramido]methyl}nitramido)methyl]prop-2-enamide (PIN)  <br>
+_N_-{[{[(acetamidomethyl)(nitro)amino]methyl}(nitro)amino]methyl}prop-2-enamide  <br>
+_N_-{[({[(acetylamino)methyl](nitro)amino}methyl)(nitro)amino]methyl}prop-2-enamide 
+ru: _N_-[({[(ацетамидометил)нитрамидо]метил}нитрамидо)метил]проп-2-енамид (PIN) <br>
+_N_-{[{[(ацетамидометил)(нитро)амино]метил}(нитро)амино]метил}проп-2-енамид <br>
+_N_-{[({[(ацетиламино)метил](нитро)амино}метил)(нитро)амино]метил}проп-2-енамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2-C<`|H3C>=N@n(2)-NH@n(1)-CO-NH2
+$>
+
+en: 2-(1-aminopropan-2-ylidene)hydrazine-1-carboxamide (PIN) 
+ru: 2-(1-аминопропан-2-илиден)гидразин-1-карбоксамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2-CH2-NH-CH2@n(4)-CH2@n(3)-CH2@n(2)-CO-NH-CH2-CH2-NH-CH2-CH2-OH
+$>
+
+en: 4-[(2-hydroxyethyl)amino]-_N_-{2-[(2-hydroxyethyl)amino]ethyl}butanamide (PIN) 
+ru: 4-[(2-гидроксиэтил)амино]-_N_-{2-[(2-гидроксиэтил)амино]этил}бутанамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CH2@n(2)-CO@n(1)-N<`|CH3>-CH2-CHOH-CH2OH
+$>
+
+en: 2-amino-_N_-(2,3-dihydroxypropyl)-_N_-methylacetamide (PIN)  
+ru: 2-амино-_N_-(2,3-дигидроксипропил)-_N_-метилацетамид (PIN)
+
+@End
+
+//===========================
+
+#P-66.2
+en: Imides 
+
+#P-66.3
+en: Hydrazides 
+
+#P-66.4
+en: Amidines, amidrazones, hydrazidines, and amidoximes (amide oximes) 
+
+#P-66.5
+en: Nitriles 
+
+#P-66.6
+en: Aldehydes 
+
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 #P-67
 en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
 parents for naming organic compounds 

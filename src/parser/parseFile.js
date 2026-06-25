@@ -270,7 +270,8 @@ const parseExamples = (reader) => {
   const noTitle = params.find(p => p === "--");
   const single = params.find(p => p === "single");
   const multi = params.find(p => p === "multi");
-  const extCls = params.find(p => /^\.[-a-z\d]+$/.test(p));
+  // const extCls = params.find(p => /^\.[-a-z\d]+$/.test(p));
+  const clsList = params.filter(p => /^\.[-a-z\d]+$/.test(p)).map(s => s.slice(1));
 
   part.cells = [];
   part.cols = +sCols || 1;
@@ -281,7 +282,8 @@ const parseExamples = (reader) => {
   } else if (multi) {
     part.specTitle = "multi";
   }
-  if (extCls) part.extCls = extCls.slice(1);
+  // if (extCls) part.extCls = extCls.slice(1);
+  if (clsList.length > 0) part.extCls = clsList.join(" ");
   addPartToDocument(reader.ctx.doc, part);
 
   let curCell = {p:[], v:{}};
