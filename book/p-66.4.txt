@@ -1,0 +1,922 @@
+#P-66.4
+en: Amidines, amidrazones, hydrazidines, and amidoximes (amide oximes) 
+ru: Амидины, амидразоны, гидразидины и амидоксимы (амидооксимы)
+
+@Content
+
+#P-66.4.1
+en: Amidines 
+ru: Амидины
+
+en: Compounds having the general structure <%a%> generically are known as ‘carboxamidines’ and those having 
+the general structure <%b%> as ‘sulfinamidines’. Compounds having the structures below are known only as 
+‘sulfonimidamides’, and not as amidines. 
+ru: Соединения, имеющие общую структуру <%a%>, обычно называются «карбоксамидинами», а соединения, имеющие общую 
+структуру <%b%>, — «сульфинамидинами». Соединения, имеющие структуры, указанные ниже, известны только как «сульфонимидамиды», 
+а не как амидины.
+%a: <${R}-C(=NH)-NH2$>
+%b: <${R}-S(=NH)-NH2$>
+
+@Examples 3 --
+
+@cell
+<$ {R}--S<`||O><||NH>-NH2 $>
+
+@cell
+en: or
+ru: или
+
+@cell
+<$ {R}--S<`||NH><||NH>-NH2 $>
+
+@End
+
+@Content
+
+#P-66.4.1.1
+en: Suffixes for amidines 
+ru: Суффиксы для амидинов
+
+en: Amidines are named as amides by functional replacement nomenclature in which the <%a%> atom has been replaced by the 
+<%b%> group. As a principal characteristic group they are designated by the suffixes ‘-imidamide’ and  
+‘-carboximidamide’. The locant for the <%n%> group is _N_ and for the imino group _N_′. The suffixes ‘-amidine’ and  
+‘-carboxamidine’ are no longer recommended.
+ru: Амидины обозначаются как амиды с помощью &(functional replacement nomenclature|ro), в которой атом <%a%> заменен группой <%b%>. 
+В качестве основной &(characteristic group|ro) они обозначаются суффиксами «-имидамид» и «-карбоксимидамид». 
+Для группы <%n%> используется локант _N_, а для иминогруппы — _N_′. 
+Использование суффиксов «-амидин» и «-карбоксамидин» больше не рекомендуется.
+%a: <${}=O$>
+%b: <${}=NH$> 
+%n: <${}–NH2$> 
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}-(C)(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: -imidamide (preferred suffix) 
+ru: -имидамид (&(preferred suffix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}-C(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: -carboximidamide (preferred suffix) 
+ru: -карбоксимидамид (&(preferred suffix))
+// Формулы выглядят одинаково, но названия разные.
+// Разница в том, что в первом случае углерод является частью исходной цепи. Поэтому в названии функциональной группы не присутствует.
+// А во втором случае углерод принадлежит функциональной группе, поэтому и в её названии добавляется "карбокс"
+
+@End
+
+en: Suffixes for the sulfonic and sulfinic analogues and their selenium and tellurium analogues are named similarly. For 
+‘sulfonodiimidamides’ and analogues, the locant for the second ‘imido’ group is _N_′′. 
+ru: Суффиксы для сульфоновых и сульфиновых аналогов, а также их селеновых и теллуровых аналогов, называются аналогично. 
+Для «сульфонодиимидамидов» и их аналогов локант для второй «имидной» группы — _N_′′.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}--S<||mO><`||NH@Nx(′)>-NH2@Nx()
+$>
+
+en: -sulfonimidamide (preselected suffix) 
+ru: -сульфонимидамид (&(preselected suffix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}--S<||mNH@Nx(′′,80)><`||NH@Nx(′)>-NH2@Nx()
+$>
+
+en: -sulfonodiimidamide (preselected suffix) 
+ru: -сульфонодиимидамид (&(preselected suffix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}--S<`||NH@Nx(′)>-NH2@Nx()
+$>
+
+en: -sulfinimidamide (preselected suffix) 
+ru: -сульфинимидамид (&(preselected suffix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}--Se<`||NH@Nx(′)>-NH2@Nx()
+$>
+
+en: -seleninimidamide (preselected suffix)
+ru: -селенинимидамид (&(preselected suffix))
+
+@End
+
+en: Suffixes for groups containing S, Se, and Te in place of O in a sulfonimidamide suffix are named by functional 
+replacement, for example: 
+ru: Суффиксы для групп, содержащих S, Se и Te вместо O в суффиксе сульфонимидамида, именуются путем 
+&(functional replacement|ro), например:
+
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+{}--S<||S><`||NH@Nx(′)>-NH2@Nx()
+$>
+
+en: -sulfonimidothioamide (preselected suffix) 
+ru: -сульфонимидотиоамид (&(preselected suffix))
+
+@End
+
+en: The suffix ‘imidamide’ is used to denote an acyclic amidine with one terminal amidine characteristic group; two 
+terminal amidine characteristic groups on an acyclic parent hydride are denoted by the suffix ‘diimidamide’. All the 
+other suffixes are used to name acyclic polyamidines and all amidines having the suffix attached to a cyclic parent 
+hydride or to a heteroatom of a heteroacyclic parent hydride. 
+ru: Суффикс «имидамид» используется для обозначения ациклического амидина с одной концевой амидиновой &(characteristic group|tv); 
+две концевые амидиновые &(characteristic group|*) в ациклическом &(parent hydride|pr) обозначаются суффиксом «диимидамид». 
+Все остальные суффиксы используются для обозначения ациклических полиамидинов и всех амидинов, имеющих этот суффикс, 
+присоединенный к циклическому &(parent hydride|da) или к гетероатому гетероациклического &(parent hydride|ro).
+
+en: Retained names of amidines are formed by replacing the ‘amide’ ending in names of amides by ‘imidamide’, but these 
+are not preferred IUPAC names; preferred IUPAC names are derived systematically. Other than that, the nomenclatural 
+properties of amides are transferred to amidines; thus, names of amidines correspond to preferred names of amides. 
+Amide names that are not substitutable generate nonsubstitutable amidine names. 
+ru: &(Retained name|*) амидинов образуются путем замены окончания «амид» в названиях амидов на «имидамид», но это 
+не предпочтительные названия по номенклатуре ИЮПАК; предпочтительные названия по ИЮПАК выводятся систематически. 
+В остальном, номенклатурные свойства амидов переносятся на амидины; таким образом, названия амидинов соответствуют 
+предпочтительным названиям амидов. Названия амидов, которые не подлежат замене, порождают названия амидинов, которые 
+не подлежат замене.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-[CH2]4-C@n(1)(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: hexanimidamide (PIN)  <br>
+(no longer hexanamidine) 
+ru: гексанимидамид (PIN) <br>
+(больше не гексанамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H11-C(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: cyclohexanecarboximidamide (PIN)  <br>
+(no longer cyclohexanecarboxamidine) 
+ru: циклогексанкарбоксимидамид (PIN) <br>
+(больше не циклогексанкарбоксамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3@n(2)-C@n(1)(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: ethanimidamide (PIN)  <br>
+acetimidamide  <br>
+(no longer acetamidine) 
+ru: этанимидамид (PIN) <br>
+ацетимидамид <br>
+(больше не ацетамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3@n(1)-S(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: methanesulfinimidamide (PIN)  <br>
+(no longer methanesulfinamidine)
+ru: метансульфинимидамид (PIN) <br>
+(больше не метансульфинимидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+HC@n(1)(=NH:a)-NH2@Nx(); #a@Nx(′)
+$>
+
+en: methanimidamide (PIN)  <br>
+formimidamide  <br>
+(no longer formamidine)
+ru: метанимидамид (PIN) <br>
+формимидамид <br>
+(больше не формамидин)
+
+@End
+
+en: The letter locants ‘_N_’, ‘_N_′’, etc. with superscripted numbers are used to differentiate among the different nitrogen atoms 
+for ‘diimidamides’ 
+ru: Буквенные обозначения «_N_», «_N_′» и т. д. с надстрочными цифрами используются для различения разных атомов 
+азота в «диимидамидах».
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^5)-C@n(5)(=NH); #-1@Nx(′^5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-C@n(1)(=NH); #-1@Nx(′^1)-NH2@Nx(^1)
+$>
+
+en: pentanediimidamide (PIN)  <br>
+(no longer pentanediamidine) 
+ru: пентандиимидамид (PIN) <br>
+(больше не пентандиамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^2)-C(=NH); #-1@Nx(′^2)-SiH2@n(2)-SiH2@n(1)-C(=NH); #-1@Nx(′^1)-NH2@Nx(^1)
+$>
+
+en: disilane-1,2-dicarboximidamide (PIN)  <br>
+(no longer disilane-1,2-dicarboxamidine) 
+ru: дисилан-1,2-дикарбоксимидамид (PIN) <br>
+(больше не дисилан-1,2-дикарбоксамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^4)-C@n(4)(=NH); #-1@Nx(′^4)-CH2@n(3)-CH2@n(2)-C@n(1)(=NH); #-1@Nx(′^1)-NH2@Nx(^1)
+$>
+
+en: butanediimidamide (PIN)  <br>
+succinimidamide
+ru: бутандиимидамид (PIN) <br>
+сукцинимидамид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^2)-C@n(2)(=NH); #-1@Nx(′^2)-C@n(1)(=NH); #-1@Nx(′^1)-NH2@Nx(^1)
+$>
+
+en: ethanediimidamide (PIN)  <br>
+oxalimidamide 
+ru: этандиимидамид (PIN) <br>
+оксалимидамид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+`|@n(1)<_p6@:ci(i)C(=NH); #-1@Nx(′^&i,-70)-NH2@Nx(^&i)@(1)>`\\`/||\//@n(2,90)_p6@ci(2)
+$>
+// Исправлена ошибка в оригинале. Имидная группа должна иметь локант со штрихом.
+
+en: benzene-1,2-dicarboximidamide (PIN)  <br>
+phthalimidamide  <br>
+(no longer benzene-1,2-dicarboxamidine) 
+ru: бензол-1,2-дикарбоксимидамид (PIN) <br>
+фталимидамид <br>
+(больше не бензол-1,2-дикарбоксамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-75,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^4)-C(=N`H); #-1@Nx(′^4,-100)-{}@n(4,-120)_(h)/=\@n(1,-60)<`//`-`\\>-C(=NH); #-1@Nx(′^1)-NH2@Nx(^1)
+$>
+
+en: benzene-1,4-dicarboximidamide (PIN)  <br>
+terephthalimidamide  <br>
+(no longer benzene-1,4-dicarboxamidine) 
+ru: бензол-1,4-дикарбоксимидамид (PIN) <br>
+терефталимидамид <br>
+(больше не бензол-1,4-дикарбоксамидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-65,L:.65)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx(^1,80,.7)-C<`||mNH@Nx(′^1)>_(A45)@n(1)`/|\/`|`\_(A-45)C<`||mNH@Nx(′′′^1)>-NH@Nx(′′^1,70,.8)-CH2-CH3
+$>
+
+en: <%L1%>-ethyl-<%L2%>-dimethylcyclohexane-1,1-dicarboximidamide (PIN) 
+ru: <%L1%>-этил-<%L2%>-диметилциклогексан-1,1-дикарбоксимидамид (PIN)
+%L1: _N_′′^{1}
+%L2: _N_^{1},_N_^{1}
+
+@End
+
+#P-66.4.1.2
+en: Amidines of carbonic, and di- and polycarbonic acids  
+ru: Амидины &(carbonic [acid]|ro), ди- и &(polycarbonic acid|ro*)
+
+#P-66.4.1.2.1
+en: Guanidine and its derivatives
+ru: Гуанидин и его производные
+
+#P-66.4.1.2.1.1+
+en: The preferred IUPAC name for the ‘amidine’ related to carbonic acid, <%a%>, is the retained 
+name ‘guanidine’; the locants _N_, _N_′ and _N_′′ are used in preferred IUPAC names. The locants 1, 2, and 3 have been used 
+but are no longer recommended even for general nomenclature. 
+ru: Предпочтительное название по номенклатуре IUPAC для «амидина», родственного угольной кислоте, <%a%>, — это &(retained name) 
+«гуанидин»; в предпочтительных названиях по номенклатуре IUPAC используются локанты _N_, _N_′ и _N_′′. 
+Локанты 1, 2 и 3 использовались, но больше не рекомендуются даже для общей номенклатуры.
+%a: <$ H2N-C(=NH)-NH2 $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx()@n(1)-C(=NH); #-1@n(2)@Nx(′′)-NH2@n(3)@Nx(′)
+$>
+
+@End
+
+en: The systematic functional replacement name ‘carbonimidic diamide’ may be used in general nomenclature. 
+ru: В общей номенклатуре может использоваться систематическое &(functional replacement name) «карбонимидный диамид».
+
+#P-66.4.1.2.1.2+
+en: Hydrocarbyl derivatives are named as substituted guanidines. When the position of the double bond is 
+unknown, the preferred IUPAC name uses a minimum number of primes. 
+ru: Гидрокарбильные производные называются замещенными гуанидинами. Если положение двойной связи неизвестно, 
+предпочтительное название по номенклатуре IUPAC использует минимальное количество штрихов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx(,-90)-C(=N:a-C6H5)-N@Nx(′)(CH3)2; #a@Nx(′′)
+$>
+
+en: _N_,_N_,_N_′,_N_′-tetramethyl-_N_′′-phenylguanidine (PIN)  <br>
+_N_,_N_,_N_′,_N_′-tetramethyl-_N_′′-phenylcarbonimidic diamide
+ru: _N_,_N_,_N_′,_N_′-тетраметил-_N_′′-фенилгуанидин (PIN) <br>
+_N_,_N_,_N_′,_N_′-тетраметил-_N_′′-фенилкарбонимидный диамид
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-NH@Nx(′)-C(=NH:a)-N@Nx(,-90)(CH3)2; #a@Nx(′′,-70)
+$>
+
+en: _N_,_N_,_N_′-trimethylguanidine (PIN)  <br>
+_N_,_N_,_N_′-trimethylcarbonimidic diamide 
+ru: _N_,_N_,_N_′-триметилгуанидин (PIN) <br>
+_N_,_N_,_N_′-триметилкарбонимидный диамид
+
+@cell
+<div class="flex-row">
+
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-NH@Nx(′)-C(=NH:a)-NH@Nx(,-90)-CH3; #a@Nx(′′,-70)
+$>
+
+en: or
+ru: или
+
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-NH@Nx(′)-C(=N:a-CH3)-NH2@Nx(,-90); #a@Nx(′′,-70)
+$>
+
+</div>
+
+en: _N_,_N_′-dimethylguanidine (PIN)  <br>
+(not _N_,_N_′′-dimethylguanidine)  <br>
+_N_,_N_′-dimethylcarbonimidic diamide 
+
+@End
+
+#P-66.4.1.2.1.3+
+en: In the presence of a characteristic group having seniority over guanidine (see item 11 in P-41), the 
+following prefixes are used. The prefix guanidino may be used in general nomenclature.
+ru: При наличии &(characteristic group|ro), имеющей приоритет над гуанидином (см. пункт 11 в P-41), используются 
+следующие префиксы. В общей номенклатуре может использоваться префикс гуанидино.
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′)-C(=NH); #-1@Nx(′′,-70)-NH@Nx(,-90)-{}
+$>
+
+en: carbamimidoylamino (preferred prefix)  <br>
+carbamimidamido  <br>
+[amino(imino)methyl]amino  <br>
+guanidino 
+ru: карбамимидоиламино (&(preferred prefix)) <br>
+карбамимидамидо <br>
+[амино(имино)метил]амино <br>
+гуанидино
+
+@cell
+<$ (H2N)2C=N–{} $>
+
+en: (diaminomethylidene)amino (preferred prefix) 
+ru: (диаминометилиден)амино (&(preferred prefix))
+
+@End
+
+@Examples
+
+@cell
+<$ (H2N)2C=N-CH2-COOH $>
+
+en: _N_-(diaminomethylidene)glycine  <br>
+[(diaminomethylidene)amino]acetic acid 
+ru: _N_-(диаминометилиден)глицин <br>
+[(диаминометилиден)амино]уксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(H2N)2C=N-CH2@n(4)-CH2-CH2-COOH@n(1)
+$>
+
+en: 4-[(diaminomethylidene)amino]butanoic acid (PIN) 
+ru: 4-[(диаминометилиден)амино]бутановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:80,L:.55)@n(\textit{N}&x,&a,&L)@;
+HOOC-@n(1,-120)/=\@n(4,-60)<`//`-`\\>-N@Nx(,90)<`|CH3>--C<||mNH>--N@Nx(′)<`|CH3>-/=\`//`-`\\
+$>
+
+en: 4-[methyl(_N_-methyl-_N_-phenylcarbamimidoyl)amino]benzoic acid (PIN)  <br>
+4-({imino[methyl(phenyl)amino]methyl}methylamino)benzoic acid  <br>
+4-(_N_,_N_′-dimethyl-_N_′-phenylcarbamimidamido)benzoic acid 
+ru: 4-[метил(_N_-метил-_N_-фенилкарбамимидоил)амино]бензойная кислота (PIN) <br>
+4-({имино[метил(фенил)амино]метил}метиламино)бензойная кислота <br>
+4-(_N_,_N_'-диметил-_N_'-фенилкарбамимидамидо)бензойная кислота
+
+@cell
+<$ H2N-C(=NH)-NH-CHO $>
+
+en: _N_-carbamimidoylformamide (PIN)  <br>
+_N_-[amino(imino)methyl]formamide  <br>
+(not _N_-formylguanidine) 
+
+@cell
+<$ H2N-C(=NH)-NH-CO-NH2 $>
+  
+en: _N_-carbamimidoylurea (PIN)  <br>
+_N_-[amino(imino)methyl]urea  <br>
+(not _N_-carbamoylguanidine) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N-C(=NH)-NH@Nx()-CO@n(1)-CH3@n(2)
+$>
+
+en: _N_-carbamimidoylacetamide (PIN)  <br>
+_N_-(_C_-aminocarbonimidoyl)acetamide  <br>
+_N_-[amino(imino)methyl]acetamide  <br>
+(not _N_-acetylguanidine) 
+ru: _N_-карбамимидоилацетамид (PIN) <br>
+_N_-(_C_-аминокарбонимидоил)ацетамид <br>
+_N_-[амино(имино)метил]ацетамид <br>
+(не _N_-ацетилгуанидин)
+
+@End
+
+#P-66.4.1.2.2
+en: Condensed guanidines
+ru: Конденсированные гуанидины
+
+en: The names biguanide, triguanide, etc., are no longer recommended. Condensed guanidines, <%a%> 
+where _n_ = 2, 3, or 4 are named systematically as the diamides of imidodicarbonimidic acid, diimidotricarbonimidic 
+acid, and triimidotetracarbonimidic acid. Locants, as shown, are used to indicate the positions of substituents. 
+ru: Названия бигуанид, тригуанид и т. д. больше не рекомендуются. Конденсированные гуанидины, <%a%>, где _n_ = 2, 3 или 4, 
+именуются систематически диамидами имидодикарбонимидной кислоты, диимидотрикарбонимидной кислоты и триимидотетракарбонимидной 
+кислоты. Локанты, как показано, используются для обозначения положения заместителей.
+%a: <$ H2N-[C(=NH)-NH]'n'-H $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-75,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-C@n(1)(=NH); #-1@Nx(′^1,-70,.6)-NH@n(2)-C@n(3)(=NH); #-1@Nx(′^3,-70,.6)-NH2@Nx(^3)
+$>
+
+en: imidodicarbonimidic diamide (PIN) 
+ru: имидодикарбонимидный диамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-75,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-C@n(1)(=NH); #-1@Nx(′^1,-70,.6)-NH@n(2)-C@n(3)(=NH); #-1@Nx(^3,-70,.6)-NH@n(4)-C@n(5)(=NH); #-1@Nx(′^5)-NH2@Nx(^5)
+$>
+
+en: diimidotricarbonimidic diamide (PIN)
+ru: диимидотрикарбонимидный диамид (PIN)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-75,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^3)-C@n(3)(=NH); #-1@Nx(′^3,-70,.6)-NH@n(2)-C@n(1)(=N:a-CH2-CH3)-N@Nx(^1)(C6H5)2; #a@Nx(′^1,-70,.6)
+$>
+
+en: _N_′^{1}-ethyl-_N_^{1},_N_^{1}-diphenylimidodicarbonimidic diamide (PIN)
+ru: _N_′^{1}-этил-_N_^{1},_N_^{1}-дифенилимидодикарбонимидный диамид (PIN)
+
+@End
+
+en: For polyguanides, where _n_ = 5 and higher, skeletal replacement (‘a’) nomenclature leads to preferred IUPAC names  
+ru: Для полигуанидов, где _n_ = 5 и выше, номенклатура &(skeletal replacement a|ro) приводит к предпочтительным названиям 
+по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-75,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N-@:ch(n1,n2)C@n(&n1)(=NH)-NH@n(&n2)@(1,2)-@ch(3,4)-@ch(5,6)-@ch(7,8)-C@n(9)(=NH)-NH2
+$>
+
+en: 3,5,7-triimino-2,4,6,8-tetraazanonane-1,9-diimidamide (PIN)  
+ru: 3,5,7-триимино-2,4,6,8-тетраазанонан-1,9-диимидамид (PIN)
+
+@End
+
+#P-66.4.1.3
+en: Prefixes for the amidine characteristic group 
+ru: Префиксы для &(characteristic group|ro) амидина
+
+#P-66.4.1.3.1+
+en: The systematic name for the group <%a%> is ‘carbamimidoyl’; it is the name of the acyl group 
+derived from the name carbamimidic acid, <%b%> and is the preferred IUPAC prefix. The prefix ‘amidino’ is 
+no longer recommended. In the acyl group, the <%c%> group is denoted by the locant _N_ and the <%d%> group by _N_′. 
+ru: Систематическое название группы <%a%> — «карбамимидоил»; это название ацильной группы, производное от названия 
+карбамимидовой кислоты, <%b%>, и является предпочтительным префиксом IUPAC. Префикс «амидино» больше не рекомендуется. 
+В ацильной группе группа <%c%> обозначается локантом _N_, а группа <%d%> — _N_′.
+%a: <${}–C(=NH)-NH2$>
+%b: <$HO-C(=NH)-NH2$>
+%c: <${}–NH2$>
+%d: <${}=NH$>
+
+@p .framed
+en: The prefix ‘amidino’ is no longer acceptable in IUPAC nomenclature; ‘carbamimidoyl’ is now recommended for 
+preferred IUPAC names.
+ru: Префикс «амидино» больше не допускается в номенклатуре ИЮПАК; теперь для предпочтительных названий по ИЮПАК 
+рекомендуется использовать «карбамимидоил».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-C(=N`H)-{}_(h)@n(4,-120)/=\@n(1,-60)<`//`-`\\>-COOH
+$>
+
+en: 4-carbamimidoylbenzoic acid (PIN)  <br>
+4-[amino(imino)methyl]benzoic acid  <br>
+(not 4-amidinobenzoic acid) 
+ru: 4-карбамимидоилбензойная кислота (PIN) <br>
+4-[амино(имино)метил]бензойная кислота <br>
+(не 4-амидинобензойная кислота)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-75,L:.55)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx(,-90)-C(=N:a-CH2-CH3)-{}c@n(4,-120)/==\@n(1,-60)<`//`--`\\>-COOH; #a@Nx(′)
+$>
+
+en: 4-(_N_′-ethyl-_N_,_N_-dimethylcarbamimidoyl)benzoic acid (PIN)  <br>
+4-[(dimethylamino)(ethylimino)methyl]benzoic acid  <br>
+[not 4-(_N_′-ethyl-_N_,_N_-dimethylamidino)benzoic acid] 
+
+@End
+
+#P-66.4.1.3.2+
+en: When the carbon atom of the <%a%> group terminates a chain, the groups <%b%> and <%c%> are 
+designated by the prefixes ‘amino’ and ‘imino’, respectively.  
+ru: Когда атом углерода группы <%a%> обрывает цепь, группы <%b%> и <%c%> обозначаются префиксами 
+«амино» и «имино» соответственно.
+%a: <$H2N-C(=NH)–{}$>
+%b: <${}–NH2$>
+%c: <${}=NH$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N-C@n(4)(=N-CH2-CH3)-CH2@n(3)-CH2@n(2)-CO@n(1)-O-CH3
+$>
+
+en: methyl 4-(dimethylamino)-4-(ethylimino)butanoate (PIN)  <br>
+(not methyl 3-[_C_-(dimethylamino)-_N_-ethylcarbonimidoyl]propanoate)  <br>
+(not methyl 3-(_N_^{2}-ethyl-_N_^{1},_N_^{1}-dimethylamidino)propionate) 
+ru: метил 4-(диметиламино)-4-(этилимино)бутаноат (PIN) <br>
+(не метил 3-[_C_-(диметиламино)-_N_-этилкарбонидоил]пропаноат) <br>
+(не метил 3-(_N_^{2}-этил-_N_^{1},_N_^{1}-диметиламидино)пропионат)
+
+@End
+
+#P-66.4.1.3.3+
+en: The substituent group <%a%> is named ‘methanimidamido’; it can also be named as a compound 
+substituent prefix ‘formimidoylamino’ or a complex substituent prefix ‘(iminomethyl)amino’. ‘Methanimidamido’ is 
+the preferred IUPAC prefix. The substituent group <%b%> can only be named as a complex substituent group, 
+‘(aminomethylidene)amino’. 
+ru: &(Substituent group) <%a%> называется «метанимидамидо»; она также может называться
+&(compound substituent prefix|tv) «формимидоиламино» или &(complex substituent prefix|tv) «(иминометил)амино». 
+«Метанимидамидо» — &(preferred prefix) по номенклатуре IUPAC. &(Substituent group) <%b%> может называться только 
+как &(complex substituent group) «(аминометилиден)амино».
+%a: <$HN=CH-NH–{}$>
+%b: <$H2N-CH=N–{}$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN=CH-N`H-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-COOH
+$>
+
+en: 4-methanimidamidobenzoic acid (PIN)  <br>
+4-[(iminomethyl)amino]benzoic acid  <br>
+4-(formimidoylamino)benzoic acid
+ru: 4-метанимидамидобензойная кислота (PIN) <br>
+4-[(иминометил)амино]бензойная кислота <br>
+4-(формимидоиламино)бензойная кислота
+
+@End
+
+#P-66.4.1.3.4+
+en: Substituent prefixes corresponding to the suffixes sulfonimidamide, sulfinimidamide, and related selenium 
+and tellurium suffixes are formed systematically by concatenation using the prefix ‘amino-’ and the name of the 
+appropriate acyl group: 
+ru: &(Substituent prefix|*), соответствующие суффиксам сульфонимидамид, сульфинимидамид и родственным суффиксам селена и 
+теллура, образуются систематически путем конкатенации с использованием префикса «амино-» и названия соответствующей 
+ацильной группы:
+
+@Examples --
+
+@cell
+<$ {}–S(O)(=NH)-NH2 $>
+  
+en: _S_-aminosulfonimidoyl (preselected prefix) 
+ru: _S_-аминосульфонимидоил (&(preselected prefix))
+
+@cell
+<$ {}–S(=NH)2-NH2 $>
+  
+en: _S_-aminosulfonodiimidoyl (preselected prefix) 
+ru: _S_-аминосульфондиимидоил (&(preselected prefix))
+
+@cell
+<$ {}–S(=NH)-NH2 $>
+  
+en: _S_-aminosulfinimidoyl (preselected prefix)  
+ru: _S_-аминосульфинимидоил (&(preselected prefix))
+
+@End
+
+en: **Note**: The italic letter locant ‘_S_’ is used to avoid potential ambiguity regarding substitution on the imido nitrogen atom
+ru: **Примечание**: Буквенный курсивный локант «_S_» используется для предотвращения возможной неоднозначности 
+в отношении &(substitution|ro) на имидогруппе атома азота.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-S(=NH)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(_S_-aminosulfinimidoyl)propanoic acid (PIN) 
+ru: 3-(_S_-аминосульфинимидоил)пропановая кислота (PIN)
+
+@End
+
+#P-66.4.1.3.5+
+en: In the presence of a characteristic group cited as a suffix, the group <%a%> or <%b%> 
+and their selenium and tellurium analogues are named in two ways. 
+ru: При наличии &(characteristic group|ro), указанной в качестве суффикса, группа <%a%> или <%b%> и их аналоги из 
+селена и теллура обозначаются двумя способами.
+%a: <$ {R}-C(=NH)NH–{} $>
+%b: <$ {R}-S(O)(=NH)NH–{} $>
+
+@List 1
+
+@item
+en: substitutively, by using a prefix formed by changing the final letter ‘e’ in the complete name of the amide to ‘o’, 
+thus changing the suffixes ‘imidamide’ and ‘carboximidamide’ into ‘imidamido’ and ‘carboximidamido’, 
+respectively, or ‘sulfonimidamide’ to ‘sulfonimidamido’, etc. 
+ru: Замещающим способом, используя префикс, образованный заменой последней буквы «е» в полном названии амида на «о», 
+таким образом, изменяя суффиксы «имидамид» и «карбоксимидамид» на «имидамидо» и «карбоксимидамидо» соответственно, 
+или «сульфонимидамид» на «сульфонимидамидо» и т. д.
+
+@item
+en: substitutively, by using ‘acylamino’ prefixes formed by substituting the name of the acyl group to the substituent 
+‘amino’ 
+ru: Замещающим способом, используя префиксы «ациламино», образованные заменой названия ацильной группы на &(substituent) «амино».
+
+@End
+
+en: Method (1) generates preferred IUPAC prefixes.  
+ru: Метод (1) генерирует &(preferred prefix|*) IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-C(=NH)-N`H-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-COOH
+$>
+
+en: 4-ethanimidamidobenzoic acid (PIN)  <br>
+4-(acetimidoylamino)benzoic acid  <br>
+4-acetimidamidobenzoic acid 
+ru: 4-этамидамидобензойная кислота (PIN) <br>
+4-(ацетимидоиламино)бензойная кислота <br>
+4-ацетимидамидобензойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</COOH>|@n(2,90)_q6NH-S(=NH)2-CH2-CH3
+$>
+
+en: 2-(ethanesulfonodiimidamido)benzoic acid (PIN)  <br>
+2-(ethanesulfonodiimidoylamino)benzoic acid 
+ru: 2-(этансульфонодиимидамидо)бензойная кислота (PIN) <br>
+2-(этансульфонодиимидоиламино)бензойная кислота
+
+@End
+
+#P-66.4.1.4
+en: Substituted amidines 
+ru: Замещенные амидины
+
+#P-66.4.1.4.1+
+en: _N_-Substituted amidines are named by prefixing the name of the appropriate substituent to the name of the 
+unsubstituted imidamides, with _N_ and _N_′ as locants when there is only one imidamide suffix; the locant _N_ refers to the 
+amino group and _N_′ refers to the imino group. The locants _N_ and _N_′ with superscripted numbers for example, _N_^{1} or _N_′^{2}, 
+are used when there are two or more imidamide suffixes. Because of tautomerism, the locants _N_, _N_′, etc. are used when 
+only one substituent is present on each imidamide group. 
+ru: _N_-Замещенные амидины именуются путем добавления названия соответствующего &(substituent|ro) к названию незамещенных 
+имидаминидов, при этом локанты _N_ и _N_′ используются, когда присутствует только один суффикс имидаминовой группы; 
+локант _N_ обозначает аминогруппу, а _N_′ — иминогруппу. Локанты _N_ и _N_′ с надстрочными цифрами, например, 
+_N_^{1} или _N_′^{2}, используются, когда присутствует два или более суффикса имидаминовой группы. Из-за таутомерии 
+локанты _N_, _N_′ и т. д. используются, когда на каждой имидаминовой группе присутствует только один заместитель.
+
+@p .framed
+en: The locants _N_ and _N_′ are used for the <%a%> and <%b%> group of amidines, respectively, rather than the locants 
+_N_^{1} and _N_^{2} which were used in the 1979 recommendations (ref. 1).  
+ru: Для групп амидинов <%a%> и <%b%> используются локанты _N_ и _N_′ соответственно, 
+а не локанты _N_^{1} и _N_^{2}, которые использовались в рекомендациях 1979 года (ссылка 1).
+%a: <$NH2$>
+%b: <$NH$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-C(=N:a-CH3)-N@Nx(,-90)(C6H5)2; #a@Nx(′)
+$>
+
+en: _N_′-methyl-_N_,_N_-diphenylbenzenecarboximidamide (PIN)  <br>
+(not _N_′-methyl-_N_,_N_-diphenylbenzenecarboxamidine) 
+ru: _N_′-метил-_N_,_N_-дифенилбензолкарбоксимидамид (PIN) <br>
+(не _N_′-метил-_N_,_N_-дифенилбензолкарбоксимидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-C(=N:a-CH2-CH3)-NH@Nx(,-90)-CH3; #a@Nx(′)
+$>
+
+en: _N_′-ethyl-_N_-methylbenzenecarboximidamide (PIN)  <br>
+(not _N_′-ethyl-_N_-methylbenzenecarboxamidine) 
+ru: _N_′-этил-_N_-метилбензолкарбоксимидамид (PIN) <br>
+(не _N_′-этил-_N_-метилбензолкарбоксимидин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-C(=NH:a)-NH@Nx(,-90)-C6H5; #a@Nx(′)
+$>
+
+en: _N_-phenylbenzenecarboximidamide (PIN)  <br>
+(not _N_-phenylbenzenecarboxamidine;  <br>
+not benzimidanilide) 
+ru: _N_-фенилбензенкарбоксимидамид (PIN) <br>
+(не _N_-фенилбензенкарбоксамидин; <br>
+не бензимиданилид)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+N@Nx(′^1,-70)<-CH2>||mC<-N@Nx(^1,85,.75)(CH2-CH3)2>|@n(1,-150)`/`\\`/||\//<`|>\//@n(3,90)<`|`\\>_p6C:d|N@Nx(^3,85,.75)(CH3)2;
+#d==N@Nx(′^3,-70)-CH2-CH3
+$>
+
+en: <%L1%>-triethyl-<%L2%>-trimethylnaphthalene-1,3-dicarboximidamide (PIN) 
+ru: <%L1%>-триэтил-<%L2%>-триметилнафтален-1,3-дикарбоксимидамид (PIN)
+%L1:_N_^{1},_N_^{1},_N_′^{3}
+%L2:_N_′^{1},_N_^{3},_N_^{3}
+
+@End
+
+//-------------
+
+#P-66.4.1.5
+en: Formamidine disulfides 
+ru: Дисульфиды формамидина
+
+#P-66.4.1.6
+en: Diamidides
+ru: Диамидиды
+
+//--------------
+
+#P-66.4.2
+en: Amidrazones 
+ru: Амидразоны
+
+#P-66.4.3
+en: Hydrazidines 
+ru: Гидразидины
+
+#P-66.4.4
+en: Amidoximes (amide oximes) 
+ru: Амидоксимы (амидооксимы)
+
+//=======================================
+
+#P-66.5
+en: Nitriles 
+
+#P-66.6
+en: Aldehydes 
+
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
+для наименования органических соединений
+
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

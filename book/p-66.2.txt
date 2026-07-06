@@ -1,0 +1,1133 @@
+#P-66.2
+en: Imides 
+ru: Имиды
+
+#P-66.2.1+
+en: Imides are compounds containing the structural grouping <%a%>. Acyclic imides are _N_-acyl 
+derivatives of primary amides and are named as such (see P-66.1.2.1). Cyclic imides are preferably named as 
+heterocyclic pseudoketones. They may also be named by replacing the suffixes ‘dioic acid’, or ‘dicarboxylic acid’ of 
+the corresponding dibasic acid, or ‘ic acid’ in retained names of diacids, by ‘imide’ or ‘dicarboximide’. 
+ru: Имиды — это соединения, содержащие структурную группу <%a%>. Ациклические имиды представляют собой _N_-ацильные 
+производные первичных амидов и называются соответственно (см. P-66.1.2.1). Циклические имиды предпочтительно называют 
+гетероциклическими псевдокетонами. Их также можно называть, заменив суффиксы «ди&(oic acid)» или «дикарбоновая кислота» 
+соответствующей двуосновной кислоты, или «&(ic acid)» в &(retained name|pr*) дикислот, на «имид» или «дикарбоксиимид».
+%a: –CO-NH-CO–
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.1)_q<_(a54,N2)O>@n(2,60)_qN<_(y-.5)H>@n(1,90,.55)_q<_(a54,N2)O>@n(5,120)_q
+$>
+
+en: pyrrolidine-2,5-dione (PIN)  <br>
+succinimide 
+ru: пирролидин-2,5-дион (PIN) <br>
+сукцинимид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.1,N2)_q<_(a54,N2)O>@n(2,60)_qN<_(y-.5)H>@n(1,90,.55)_q<_(a54,N2)O>@n(5,120)_q
+$>
+
+en: 1_H_-pyrrole-2,5-dione (PIN)  <br>
+pyrrole-2,5-dione 
+ru: 1_H_-пиррол-2,5-дион (PIN) <br>
+пиррол-2,5-дион
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.1)_q<_(a54,N2)O>@n(2,60)_qN<`|Br>@n(1,90,.55)_q<_(a54,N2)O>@n(5,120)_q
+$>
+
+en: 1-bromopyrrolidine-2,5-dione (PIN)  <br>
+(not _N_-bromosuccinimide;  <br>
+substitution is not allowed on succinimide) 
+ru: 1-бромпирролидин-2,5-дион (PIN) <br>
+(не _N_-бромсукцинимид; <br>
+замена в сукцинимиде не допускается)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\`|/\|_q<_(a54,N2)O>@n(3,0)_qNH@n(2,180)_q<_(a54,N2)O>@n(1,0)_q
+$>
+
+en: hexahydro-1_H_-isoindole-1,3(2_H_)-dione (PIN)  <br>
+hexahydro-2_H_-isoindole-1,3-dione  <br>
+cyclohexane-1,2-dicarboximide 
+ru: гексагидро-1_H_-изоиндол-1,3(2_H_)-дион (PIN) <br>
+гексагидро-2_H_-изоиндол-1,3-дион <br>
+циклогексан-1,2-дикарбоксиимид
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_q<_(a54,N2)O>@n(3,0)_qN@n(2,180)<-/=\`//`-`\\>_q<_(a54,N2)O>@n(1,0)_q
+$>
+
+en: 2-phenyl-1_H_-isoindole-1,3(2_H_)-dione (PIN)  <br>
+2-phenyl-2_H_-isoindole-1,3-dione  <br>
+_N_-phenylphthalimide 
+ru: 2-фенил-1_H_-изоиндол-1,3(2_H_)-дион (PIN) <br>
+2-фенил-2_H_-изоиндол-1,3-дион <br>
+_N_-фенилфталимид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H_(y-.5)N@n(3,,.55)_(A-45,L1.2)<=O>@n(2,-80)_q4O@n(1,,.55)_q4@n(4,-100)<`=O>_q4
+$>
+
+en: 1,3-oxazetidine-2,4-dione (PIN)
+ru: 1,3-оксазетидин-2,4-дион (PIN)
+
+@End
+
+#P-66.2.2+
+en: Prefixes derived from imides by removal of the hydrogen atom attached to the imide nitrogen atom are named 
+systematically as preferred prefixes. However, for general nomenclature they may be formed from the name of the 
+corresponding imide by changing the ending ‘imide’ to ‘imido’. 
+ru: Префиксы, образованные от имидов путем удаления атома водорода, присоединенного к атому азота имидной группы, 
+систематически называются как &(preferred prefix|*). Однако для общей номенклатуры они могут быть образованы от 
+названия соответствующего имида путем изменения окончания «имид» на «имидо».
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(3,150)_q<_(a54,N2)O>@n(2,0)_qN@n(1,50,.5)<--{}>_q@n(5,0)<_(a54,N2)O>_q@n(4,-150)
+$>
+
+en: succinimido  <br>
+2,5-dioxopyrrolidin-1-yl (preferred prefix) 
+ru: сукцинимидо  <br>
+2,5-диоксопирролидин-1-ил (предпочтительный префикс)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`\\`|//\||_q<_(a54,N2)O>@n(3,0)_qN@n(2,45,.5)<_q@n(1,0)<_q>_(a54,N2)O>-||\//\//`|`\\<`|COOH>@n(1,-40)`/<|>`\\`/@n(7,-100)
+$>
+
+en: 7-phthalimido-1-naphthoic acid  <br>
+7-(1,3-dioxo-1,3-dihydro-2_H_-isoindol-2-yl)naphthalene-1-carboxylic acid (PIN) 
+ru: 7-фталимидо-1-нафтойная кислота <br>
+7-(1,3-диоксо-1,3-дигидро-2_H_-изоиндол-2-ил)нафтален-1-карбоновая кислота (PIN)
+
+@End
+
+#P-66.3
+en: Hydrazides
+ru: Гидразиды 
+
+@Content
+
+#P-66.3.0
+en: Definition
+ru: Определение 
+
+en: Hydrazides are compounds derived from the organic oxoacids denoted by a suffix, such as <%a%>, <%b%>, 
+<%c%>, etc., by replacing <%x%> groups with <%y%> groups.  
+ru: Гидразиды — это соединения, полученные из органических оксокислот, обозначаемых суффиксом, например, <%a%>, <%b%>, 
+<%c%> и т. д., путем замены групп <%x%> на группы <%y%>.
+%a: <${}–COOH$>
+%b: <${}–SO2-OH$>
+%c: <${}–SO-OH$>
+%x: <${}–OH$>
+%y: <${}–NH-NH2$>
+
+#P-66.3.1
+en: Systematic names
+ru: Систематические названия 
+
+en: Hydrazides of the type <%a%> are named in two ways: 
+ru: Гидразиды типа <%a%> называются двумя способами:
+%a: <${R}-CO-NH-NH2$>
+
+@List 1
+
+@item
+en: by substitutive nomenclature; 
+ru: при помощи &(substitutive nomenclature|ro);
+
+@item
+en: by modification of retained names of carboxylic acids.
+ru: при помощи модификации &(retained name|ro*) карбоновых кислот.
+
+@End
+
+#P-66.3.1.1
+en: Substitutive nomenclature
+ru: &(Substitutive nomenclature)
+
+en: Hydrazides are named substitutively by using the following suffixes (see Table 4.4). The method of naming hydrazides 
+as acyl derivatives of hydrazine is no longer recommended. 
+ru: Гидразиды именуются замещающим способом с использованием следующих суффиксов (см. &[Таблицу 4.4]). Метод именования 
+гидразидов как ацильных производных гидразина больше не рекомендуется.
+
+@Examples 2 -- .cells-align-top .left-aligned-cells
+
+@cell
+<${}–(C)O-NH-NH2$>
+
+@cell
+en: hydrazide (preferred suffix) 
+ru: гидразид (&(preferred suffix))
+
+@cell
+<${}–CO-NH-NH2$>
+
+@cell
+en: carbohydrazide (preferred suffix) 
+ru: карбогидразид (&(preferred suffix))
+
+@cell
+<${}–SO2-NH-NH2$>
+
+@cell
+en: sulfonohydrazide (and corresponding Se  <br>
+and Te analogues; preselected suffixes) 
+ru: сульфоногидразид (и соответствующие аналоги Se <br>
+и Te; &(preselected suffix|*))
+
+@cell
+<${}–SO-NH-NH2$>
+
+@cell
+en: sulfinohydrazide (and corresponding Se  <br>
+and Te analogues; preselected suffixes)
+ru: сульфиногидразид (и соответствующие аналоги Se <br>
+и Te; &(preselected suffix|*))
+
+@End
+
+@p .framed
+en: For naming acyclic hydrazides, the suffix ‘hydrazide’ is recommended in place of ‘ohydrazide’ in accordance with 
+the general use of suffixes added to names of parent hydrides, for example pentanehydrazide for <%a%>, not pentanohydrazide.  
+ru: При наименовании ациклических гидразидов рекомендуется использовать суффикс «гидразид» вместо «огидразид» в соответствии 
+с общепринятым использованием суффиксов, добавляемых к названиям исходных гидридов, например, пентангидразид для <%a%>, а 
+не пентаногидразид.
+%a: <$CH3-CH2-CH2-CH2-CO-NH-NH2$>
+
+en: The suffix ‘hydrazide’ is used to name acyclic compounds. The suffix ‘carbohydrazide’ is used to denote the <%a%>
+ characteristic group attached to cyclic compounds and in chains having more than two <%a%> 
+characteristic groups, or when the group is attached to a heteroatom of a heterocycle or parent compound. 
+Multiplicative nomenclature may be used when the symmetry conditions for its use are met. 
+ru: Суффикс «гидразид» используется для именования ациклических соединений. Суффикс «карбогидразид» используется для 
+обозначения &(characteristic group|ro), присоединенной к циклическим соединениям и цепям, имеющим более двух 
+&(characteristic group|ro*), или когда группа присоединена к гетероатому гетероцикла или &(parent compound|ro). 
+&(Multiplicative nomenclature) может использоваться, если соблюдены условия симметрии для ее использования.
+%a: <${}–CO-NH-NH2$>
+
+@p .has-inline-formula
+en: Nitrogen atoms in hydrazides are identified by the locants _N_ and _N_′ as <%a%>, even though hydrazine itself, is
+numbered using the numerical locants 1 and 2, <%b%>. When two hydrazide suffixes are attached to an acyclic
+alkane, the suffix in position 1 is labeled _N_^{1}, _N_′^{1}, a second suffix in position ‘x’, _N_^{x}, _N_′^{x} (see P-16.9). 
+ru: Атомы азота в гидразидах идентифицируются по локантам _N_ и _N_′ как <%a%>, хотя сам гидразин нумеруется с 
+использованием числовых локантов 1 и 2, <%b%>. Когда к ациклическому алкану присоединены два суффикса гидразида, суффикс 
+в позиции 1 обозначается как _N_^{1}, _N_′^{1}, а второй суффикс в позиции «x» — как _N_^{x}, _N_′^{x} (см. P-16.9).
+%a: <$@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; {}-CO-NH@n(\textit{N})-NH2@n(\textit{N′},-80)$>
+%b: <$@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; H2N@n(1)-NH2@n(2)$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80)@n(\textit{N}&x,&a)@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-NH@Nx()-NH2@Nx(′)
+$>
+
+en: pentanehydrazide (PIN)  <br>
+(not pentanoylhydrazine) 
+ru: пентангидразид (PIN) <br>
+(не пентаноилгидразин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80)@n(\textit{N}&x,&a)@;
+H2N@Nx(′^4)-NH@Nx(^4,-70)-CO@n(4)-CH2@n(3)-CH2@n(2)-CO@n(1)-NH@Nx(^1)-NH2@Nx(′^1)
+$>
+
+en: butanedihydrazide (PIN)  <br>
+succinohydrazide (see P-66.3.1.2)  <br>
+[not (ethane-1,2-diyldicarbonyl)dihydrazine]  <br>
+[not succinyldihydrazine] 
+ru: бутандигидразид (PIN) <br>
+сукциногидразид (см. P-66.3.1.2) <br>
+[не (этан-1,2-диилдикарбонил)дигидразин] <br>
+[не сукцинилдигидразин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80)@n(\textit{N}&x,&a)@;
+CH`/`-`\/-\-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: cyclohexanecarbohydrazide (PIN)  <br>
+[not (cyclohexanecarbonyl)hydrazine] 
+ru: циклогексанкарбогидразид (PIN) <br>
+[не (циклогексанкарбонил)гидразин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80)@n(\textit{N}&x,&a)@;
+N`/`-`\/-\-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: piperidine-1-carbohydrazide (PIN)  <br>
+[not (piperidine-1-carbonyl)hydrazine] 
+ru: пиперидин-1-карбогидразид (PIN) <br>
+[не (пиперидин-1-карбонил)гидразин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80)@n(\textit{N}&x,&a)@;
+CH3-SO2-NH@Nx()-NH2@Nx(′)
+$>
+
+en: methanesulfonohydrazide (PIN)  <br>
+[not (methanesulfonyl)hydrazine] 
+ru: метансульфоногидразид (PIN) <br>
+[не (метансульфонил)гидразин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L)@n(\textit{N}&x,&a,&L)@;
+CH3-C<_(y-%h:1.4)CO-NH@Nx(^1)-NH2@Nx(′^1)><-CO-NH@Nx(′′^1)-NH2@Nx(′′′^1)>_(y%h)CO-NH@Nx(′′′ ′^1)-NH2@Nx(′′′ ′′^1,-45,.75)
+$>
+
+en: ethane-1,1,1-tricarbohydrazide (PIN)
+ru: этан-1,1,1-трикарбогидразид (PIN)
+
+@End
+
+#P-66.3.1.2
+en: Names formed by modifying retained names of carboxylic acids 
+ru: Названия, образованные путем модификации &(retained name|ro*) карбоновых кислот
+
+en: Names of hydrazides are formed by changing the ‘ic acid’ or ‘-oic acid’ ending of the retained names of carboxylic 
+acids into ‘ohydrazide’ (for nitrogen locants, see P-66.3.3). 
+ru: Названия гидразидов образуются путем замены окончаний «&(ic acid)» или «-&(oic acid)» в &(retained name|pr*) 
+карбоновых кислот на «огидразид» (для определения местоположения азота см. P-66.3.3).
+
+#P-66.3.1.2.1+
+en: Only the following five names are preferred IUPAC names and can be substituted in the same way as 
+corresponding amides (see P-66.1.1.1.2). Systematic substitutive names are used to generate acids modified by 
+functional replacement. 
+ru: Только следующие пять названий являются предпочтительными названиями по номенклатуре IUPAC и могут быть заменены 
+таким же образом, как и соответствующие амиды (см. P-66.1.1.1.2). Систематические &(substitutive name|*) используются 
+для получения кислот, модифицированных путём &(functional replacement|ro).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L)@n(\textit{N}&x,&a,&L)@;
+NC-NH@Nx()-NH2@Nx(′)
+$>
+
+en: cyanohydrazide (PIN)  <br>
+hydrazinecarbonitrile (see P-66.5.1.1.3) 
+ru: цианогидразид (PIN) <br>
+гидразинкарбонитрил (см. P-66.5.1.1.3)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L)@n(\textit{N}&x,&a,&L)@;
+HCO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: formohydrazide (PIN)  <br>
+(not hydrazinecarbaldehyde; see P-66.6.1.3) 
+ru: формогидразид (PIN) <br>
+(не гидразинкарбальдегид; см. P-66.6.1.3)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L)@n(\textit{N}&x,&a,&L)@;
+CH3-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: acetohydrazide (PIN)  
+ru: ацетогидразид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L)@n(\textit{N}&x,&a,&L)@;
+C6H5-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: benzohydrazide (PIN)  
+ru: бензогидразид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′^1)-NH@Nx(^1,-70,.6)-CO@n(1)-CO@n(2)-NH@Nx(^2)-NH2@Nx(′^2,-70,.6)
+$>
+
+en: oxalohydrazide (PIN) 
+ru: оксалогидразид (PIN)
+
+@End
+
+en: Hydrazides of the -imidic and -hydrazonic analogues of these acids are named systematically. 
+ru: Гидразиды -имидных и -гидразоновых аналогов этих кислот именуются систематически.
+
+@Examples
+
+@cell
+<$ CH3-C(=NH)-NH-NH2 $>
+
+en: ethanimidohydrazide (PIN)  <br>
+(not acetimidohydrazide) 
+ru: этанимидогидразид (PIN) <br>
+(не ацетимидогидразид)
+
+@End
+
+#P-66.3.1.2.2+
+en: For general nomenclature, only the names furohydrazide, phthalohydrazide, isophthalohydrazide, and 
+terephthalohydrazide are retained with limited substitution allowed (see P-65.1.1.2); the corresponding systematic 
+names are preferred IUPAC names (see P-66.3.1.1). When two or more ‘carbohydrazide’ suffixes are present, the 
+nitrogen locants are _N_ and _N_′ with appropriate superscript numerical locants denoting the locants of the parent structure. 
+ru: В общей номенклатуре сохраняются только названия фурогидразид, фталогидразид, изофталогидразид и терефталогидразид 
+с ограниченными заменами (см. P-65.1.1.2); предпочтительными являются соответствующие систематические названия IUPAC 
+(см. P-66.3.1.1). При наличии двух или более суффиксов «карбогидразид» локанты азота обозначаются как _N_ и _N_′, 
+а соответствующие числовые локанты в верхнем индексе указывают на локанты &(parent structure|ro).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+|@n(2,90)<_q6CO-NH@Nx(^2)-NH2@Nx(′^2,-70,.6)>`//`\`||/\\@n(1)_q6CO-NH@Nx(^1)-NH2@Nx(′^1,-70,.6)
+$>
+
+en: benzene-1,2-dicarbohydrazide (PIN)  <br>
+phthalohydrazide
+ru: бензол-1,2-дикарбогидразид (PIN) <br>
+фталогидразид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′^4)-NH@Nx(^4,-70,.6)-C`O-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-CO-NH@Nx(^1)-NH2@Nx(′^1,-70,.6)
+$>
+
+en: benzene-1,4-dicarbohydrazide (PIN)  <br>
+terephthalohydrazide 
+ru: бензол-1,4-дикарбогидразид (PIN) <br>
+терефталогидразид
+
+@End
+
+#P-66.3.1.2.3+
+en: For retained names for carboxylic acids used only in general nomenclature (see P-65.1.1.2.1), hydrazide 
+formation is governed by the above rule, P-66.3.1.2.1; but substitution is not allowed, including substitution on the 
+nitrogen atom(s) of the hydrazide characteristic group. Systematic names are preferred IUPAC names (see P-66.3.1.1). 
+ru: Для &(retained name|ro*) карбоновых кислот, используемых только в общей номенклатуре (см. P-65.1.1.2.1), образование 
+гидразида регулируется вышеуказанным правилом, P-66.3.1.2.1; однако замещение не допускается, включая замещение на 
+атоме(ах) азота в &(characteristic group|pr) гидразида. Систематические названия являются предпочтительными по 
+номенклатуре IUPAC (см. P-66.3.1.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CH2-CH2-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: butanehydrazide (PIN)  <br>
+butyrohydrazide  <br>
+(substitution not allowed) 
+ru: бутангидразид (PIN) <br>
+бутирогидразид <br>
+(&(substitution) не допускается)
+
+@End
+
+#P-66.3.1.2.4+
+en: Hydrazides derived from carbohydrate acids and α-amino acids are discussed in P-102.5.6.6.2.1 and P-103.2.7, respectively. 
+ru: Гидразиды, полученные из углеводных кислот и α-аминокислот, обсуждаются в разделах P-102.5.6.6.2.1 и P-103.2.7 соответственно.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CO@n(1)<-NH@Nx()-NH2@Nx(′)>|C<-OH><`-H>|C<`-HO><-H>|C<-OH><`-H>|C<-OH><`-H>|CH2-OH
+$>
+
+en: D-gluconohydrazide
+ru: D-глюконогидразид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N-CH2@n(2)-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: 2-aminoacetohydrazide  <br>
+glycinohydrazide 
+ru: 2-аминоацетогидразид <br>
+глициногидразид
+
+@End
+
+#P-66.3.2
+en: Substituent groups derived from hydrazides
+ru: &(Substituent group|*), полученные из гидразидов 
+
+en: Substituent groups corresponding to hydrazides are of two types: <%a%>, <%b%>, etc.; and <%c%>, <%d%>, etc.
+ru: &(Substituent group|*), соответствующие гидразидам, бывают двух типов: <%a%>, <%b%> и т. д.; и <%c%>, <%d%> и т. д.
+%a: <${}–CO-NH-NH2$>
+%b: <${}–SO2-NH-NH2$>
+%c: <${}–NH-NH-CO-{R}$>
+%d: <${}–NH-NH-SO2-{R}$>
+
+#P-66.3.2.1+
+en: Substituent groups of the type <%a%>, <%b%>, etc., may be named in three ways except when 
+the <%a%> group is at the end of a carbon chain: 
+ru: &(Substituent group|*) типа <%a%>, <%b%> и т. д. могут быть названы тремя способами, за исключением случаев, 
+когда группа <%a%> находится на конце углеродной цепи:
+%a: <${}–CO-NH-NH2$>
+%b: <${}–SO2-NH-NH2$>
+
+@List 1
+
+@item
+en: as an acyl group derived from the corresponding acid, which gives the preferred prefix; or 
+ru: в виде ацильной группы, полученной из соответствующей кислоты, что дает предпочтительный префикс; или
+
+@item
+en: as the appropriate carbonohydrazidoyl acyl prefix; or 
+ru: в виде соответствующего префикса карбоногидразидоил ацила; или
+
+@item
+en: by concatenation using the prefix hydrazinyl with carbonyl. 
+ru: путем конкатенации с использованием префикса гидразинил с карбонилом.
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-COOH
+$>
+
+en: hydrazinecarboxylic acid (PIN)  <br>
+carbonohydrazidic acid 
+ru: гидразинкарбоновая кислота (PIN) <br>
+карбоногидразидная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-CO-{}
+$>
+
+en: (1) hydrazinecarbonyl (preferred prefix)  <br>
+(2) carbonohydrazidoyl (see P-65.2.1.4)  <br>
+(3) hydrazinylcarbonyl 
+ru: (1) гидразинкарбонил (&(preferred prefix)) <br>
+(2) карбогидразидоил (см. P-65.2.1.4) <br>
+(3) гидразинилкарбонил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-SO2-OH
+$>
+
+en: hydrazinesulfonic acid (preselected name) 
+ru: гидразин&(sulfonic acid) (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-SO2-{}
+$>
+
+en: (1) hydrazinesulfonyl (preselected prefix, see P-65.3.2.2.2)  <br>
+(3) hydrazinylsulfonyl
+ru: (1) гидразинсульфонил (&(preselected prefix), см. P-65.3.2.2.2) <br>
+(3) гидразинилсульфонил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-SO-OH
+$>
+
+en: hydrazinesulfinic acid (preselected name) 
+ru: гидразин&(sulfinic acid) (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-SO-{}
+$>
+
+en: (1) hydrazinesulfinyl (preselected prefix: see P-65.3.2.2.2)  <br>
+(3) hydrazinylsulfinyl 
+ru: (1) гидразинсульфинил (&(preselected prefix): см. P-65.3.2.2.2) <br>
+(3) гидразинилсульфинил
+
+@End
+
+en: Method (1) leads to preferred prefixes. 
+ru: Метод (1) приводит к предпочтительным префиксам.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-SO2-CH2-COOH
+$>
+
+en: (hydrazinesulfonyl)acetic acid (PIN)  <br>
+(hydrazinylsulfonyl)acetic acid 
+ru: (гидразинсульфонил)уксусная кислота (PIN) <br>
+(гидразинилсульфонил)уксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(1)\\</COOH>@n(2)|@n(3,90)<`//`\>_q6SO-NH-NH2
+$>
+
+en: 3-(hydrazinesulfinyl)naphthalene-2-carboxylic acid (PIN)  <br>
+3-(hydrazinylsulfinyl)naphthalene-2-carboxylic acid 
+ru: 3-(гидразинсульфинил)нафтален-2-карбоновая кислота (PIN) <br>
+3-(гидразинилсульфинил)нафтален-2-карбоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</SO3H>|@n(2,90)_q6CO-NH-NH2
+$>
+
+en: 2-(hydrazinecarbonyl)benzene-1-sulfonic acid (PIN)  <br>
+2-carbonohydrazidoylbenzene-1-sulfonic acid 
+ru: 2-(гидразинкарбонил)бензол-1-&(sulfonic acid) (PIN) <br>
+2-карбоногидразидоилбензол-1-&(sulfonic acid)
+
+@End
+
+#P-66.3.2.2+
+en: When the <%a%> group is at the end of a chain the use of the prefixes ‘hydrazinyl’ and ‘oxo’ generates preferred IUPAC names. 
+ru: Когда группа <%a%> находится в конце цепи, использование префиксов «гидразинил» и «оксо» позволяет получить 
+предпочтительные названия по номенклатуре IUPAC.
+%a: <${}–CO-NHNH2$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-NH-CO@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-hydrazinyl-3-oxopropanoic acid (PIN)  <br>
+(hydrazinecarbonyl)acetic acid  <br>
+carbonohydrazidoylacetic acid 
+ru: 3-гидразинил-3-оксопропановая кислота (PIN) <br>
+(гидразинкарбонил)уксусная кислота <br>
+карбоногидразидоилуксусная кислота
+
+@End
+
+#P-66.3.2.3+
+en: When a group having priority for citation as a principal characteristic group is present, a hydrazide group of 
+the type <%a%> or <%b%> (or the analogous selenium or tellurium group) is named: 
+ru: Если присутствует группа, имеющая приоритет для &(citation|ro) в качестве основной &(characteristic group|ro), 
+то гидразидная группа типа <%a%> или <%b%> (или аналогичная группа селена или теллура) именуется:
+%a: <${R}-CO-NH-NH–{}$>
+%b: <${R}-SO2-NH-NH–{}$>
+
+@List 1
+
+@item
+en: by expressing the corresponding hydrazide as a prefix by replacing the final letter ‘e’ in the name of the hydrazide 
+by the letter ‘o’, for example, ‘acetohydrazido’, ‘propanehydrazido’, and ‘benzohydrazido’; the locant _N_ designates 
+the nitrogen atom adjacent to the –CO– group. 
+ru: путем выражения соответствующего гидразида в качестве префикса, заменяя конечную букву «е» в названии гидразида 
+на букву «о», например, «ацетогидразид», «пропангидразид» и «бензогидразид»; локант _N_ обозначает атом азота, 
+соседний с группой –CO–.
+
+@item
+en: as an acylhydrazinyl substituent group; the hydrazinyl group is numbered by using numerical locants ‘1’ and ‘2’, 
+the locant ‘1’ being the nitrogen atom adjacent to the free valence. 
+ru: в качестве ацилгидразинильной &(substituent group|ro); гидразинильная группа нумеруется с использованием числовых 
+локантов «1» и «2», причем локант «1» — это атом азота, соседний со свободной валентностью.
+
+@End
+
+en: Method (1) generates preferred IUPAC names.  
+ru: Метод (1) генерирует предпочтительные названия IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO-NH-N`H-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: (1) 4-acetohydrazidobenzoic acid (PIN)  <br>
+(2) 4-(2-acetylhydrazin-1-yl)benzoic acid 
+ru: (1) 4-ацетогидразидобензойная кислота (PIN) <br>
+(2) 4-(2-ацетилгидразин-1-ил)бензойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CO\N<`/CH2`-CH3>-N`H-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-SO2-OH
+$>
+
+en: (1) 4-(_N_-ethylacetohydrazido)benzene-1-sulfonic acid (PIN)  <br>
+(2) 4-(2-acetyl-2-ethylhydrazin-1-yl)benzene-1-sulfonic acid 
+ru: (1) 4-(_N_-этилацетогидразидо)бензол-1-&(sulfonic acid) (PIN) <br>
+(2) 4-(2-ацетил-2-этилгидразин-1-ил)бензол-1-&(sulfonic acid)
+
+@End
+
+en: The groups <%a%>, <%b%>, etc. are named as substituted derivatives of the group ‘hydrazinyl,’ with 
+numerical locants. This method leads to preferred prefixes. 
+ru: Группы <%a%>, <%b%> и т. д. именуются как замещенные производные группы «гидразинил» с указанием числовых локантов. 
+Этот метод приводит к &(preferred prefix|da).
+%a: <${R}-CO-N(NH2)–{}$>
+%b: <${R}-SO2N(NH2)–{}$>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-NH/N<`\CO`-CH3>-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: 4-(1-acetyl-2-ethylhydrazin-1-yl)benzoic acid (PIN) 
+ru: 4-(1-ацетил-2-этилгидразин-1-ил)бензойная кислота (PIN)
+
+@End
+
+
+#P-66.3.3
+en: Substituted hydrazides 
+ru: &(Substituted [substituent]|*) гидразиды
+
+#P-66.3.3.1+
+en: Alkyl, aryl, cycloalkyl, etc. substituents on the nitrogen atoms of hydrazides are described by the appropriate 
+prefix names and the locants ‘_N_’ for <%a%> and ‘_N_′’ for <%b%>, as illustrated below. The locants ‘1′’ and ‘2′’ have been 
+used in the past for naming hydrazides as derivatives of hydrazine; these locants are no longer recommended. Preferred 
+IUPAC names are hydrazide names and use the locants ‘_N_’ and ‘_N_′’ 
+ru: Алкильные, арильные, циклоалкильные и т. д. &(substituent|*) на атомах азота гидразидов описываются соответствующими 
+префиксными названиями и локантами «_N_» для <%a%> и «_N_′» для <%b%>, как показано ниже. Локанты «1′» и «2′» ранее 
+использовались для наименования гидразидов как производных гидразина; эти локанты больше не рекомендуются. 
+Предпочтительными названиями по номенклатуре IUPAC являются названия гидразидов с использованием локантов «_N_» и «_N_′».
+%a: <${}–NH–{}$>
+%b: <${}–NH2$>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80)@n(\textit{N}&x,&a)@;
+CH3-CH2-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:80)@n(\textit{N}&x,&a)@;
+CH3-CO-N@Nx(,90)<`|CH3>-NH2@Nx(′)
+$>
+
+en: _N_-methylacetohydrazide (PIN)  <br>
+(not 1-acetyl-1-methylhydrazine) 
+ru: _N_-метилацетогидразид (PIN) <br>
+(не 1-ацетил-1-метилгидразин)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:80)@n(\textit{N}&x,&a)@;
+CH3@n(3)-CH@n(2,90)<`|Cl>-CO@n(1)-N@Nx(,90)<`|CH3>-N@Nx(′)(CH3)2
+$>
+
+en: 2-chloro-_N_,_N_′,_N_′-trimethylpropanehydrazide (PIN) <br>
+[not 1-(2-chloropropanoyl)-1,2,2-trimethylhydrazine] 
+ru: 2-хлор-_N_,_N_′,_N_′-триметилпропангидразид (PIN) <br>
+[не 1-(2-хлорпропаноил)-1,2,2-триметилгидразин]
+
+@End
+
+#P-66.3.3.2+
+en: When two hydrazide groups are present, each is identified by the locants _N_ and _N_′. To distinguish the four 
+nitrogen atoms, the numerical locant of the position on the parent structure at which the nitrogen atoms are attached is 
+cited as a superscript to the letter locant _N_ or _N_′ for example, _N_^{1}, _N_′^{1}, etc. (see also P-62.2.4.1.2). 
+ru: При наличии двух гидразидных групп каждая обозначается локантами _N_ и _N_′. Для различения четырех атомов азота 
+числовой локант положения в исходной структуре, к которому присоединены атомы азота, указывается в виде верхнего индекса 
+перед буквенным локантом _N_ или _N_′, например, _N_^{1}, _N_′^{1} и т. д. (см. также P-62.2.4.1.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+`|`\\`/||\//\@n(4,150)<|CO-NH@Nx(^4)-NH@Nx(′^4)-CH3>//`|`\\<`/>@n(1,-150)`|CO-N@Nx(^1,80,.7)<`|CH3>-NH2@Nx(′^1,70,.7)
+$>
+
+en: _N_^{1},_N_′^{4}-dimethylnaphthalene-1,4-dicarbohydrazide (PIN)  <br>
+(numbering is based on the lower set of locants:  <br>
+since _N_^{1} is lower than _N_′^{1}; the set _N_^{1},_N_′^{4} is lower than _N_′^{1},_N_^{4}) 
+ru: _N_^{1},_N_′^{4}-диметилнафтален-1,4-дикарбогидразид (PIN) <br>
+(нумерация основана на меньшем наборе локантов: <br>
+поскольку _N_^{1} меньше, чем _N_′^{1}; набор _N_^{1},_N_′^{4} меньше, чем _N_′^{1},_N_^{4})
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+`|`\\`/||<`/H3C>@n(6,90)\//\@n(4,150)<|CO-NH@Nx(^4)-NH@Nx(′^4)-CH3>//`|`\\<`/>@n(1,-150)`|CO-N@Nx(^1,80,.7)<`|CH3>-NH2@Nx(′^1,70,.7)
+$>
+
+en: _N_^{1},_N_′^{4},6-trimethylnaphthalene-1,4-dicarbohydrazide (PIN)  <br>
+(the numbering is based on the lowest set of locants for the three substituent groups,  <br>
+and ‘_N_^{1},_N_′^{4},6’ is lower than ‘_N_′^{1},_N_^{4},7’) 
+ru: _N_^{1},_N_′^{4},6-триметилнафтален-1,4-дикарбогидразид (PIN) <br>
+(нумерация основана на наименьшем наборе локаторов для трех замещающих групп, <br>
+и ‘_N_^{1},_N_′^{4},6’ меньше, чем ‘_N_′^{1},_N_^{4},7’)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CO-NH@Nx(′′)-NH@Nx(′′′,-70)-CH2-NH@Nx(′)-NH@Nx()-CO-CH3
+$>
+
+en: _N_′,_N_′′′-methylenediacetohydrazide (PIN, a multiplicative name) 
+ru: _N_′,_N_′′′-метилендиацетогидразид (PIN, &(multiplicative name))
+
+@End
+
+#P-66.3.3.3+
+en: Acyl, diacyl, and triacyl derivatives of hydrazides are named by substituting the senior hydrazide by the 
+appropriate acyl groups (the senior hydrazide is the one derived from the senior acid). Names based on substitution of 
+the parent hydride ‘hydrazine’ are no longer recommended even in general nomenclature. Hydrazine, a retained name, 
+is preferred to diazane for preferred IUPAC names. 
+ru: Ацильные, диацильные и триацильные производные гидразидов именуются путем замены старшего гидразида соответствующими 
+ацильными группами (старший гидразид — это тот, который получен из старшей кислоты). Названия, основанные на &(substitution|pr) 
+&(parent hydride|ro) «гидразин», больше не рекомендуются даже в общей номенклатуре. Гидразин, &(retained name), 
+предпочтительнее диазана для предпочтительных названий IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-CO-NH@Nx()@n(1)-NH@Nx(′)@n(2)-CO-C6H5
+$>
+
+en: _N_′-benzoylbenzohydrazide (PIN)  <br>
+(not 1,2-dibenzoylhydrazine) 
+ru: _N_′-бензоилбензогидразид (PIN) <br>
+(не 1,2-дибензоилгидразин)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CH2-CO-N@Nx(,90)<`|H3C>-N@Nx(′)<`|CH2-CH3>-CO-CH3
+$>
+
+en: _N_′-acetyl-_N_′-ethyl-_N_-methylpropanehydrazide (PIN)  <br>
+(not 1-acetyl-1-ethyl-2-methyl-2-propanoylhydrazine) 
+ru: _N_′-ацетил-_N_′-этил-_N_-метилпропангидразид (PIN) <br>
+(не 1-ацетил-1-этил-2-метил-2-пропаноилгидразин)
+
+@End
+
+#P-66.3.4
+en: Chalcogen analogues of hydrazides 
+ru: &(Chalcogen analogue|*) гидразидов
+
+en: Chalcogen analogues of hydrazides are named substitutively using suffixes formed by functional replacement, i.e., 
+‘thiohydrazide’, ‘carbothiohydrazide’, ‘sulfonothiohydrazide’, etc., as described in P-33.2.2 and Table 4.4.
+ru: &(Chalcogen analogue|*) гидразидов именуются замещающим образом с использованием суффиксов, образованных путем 
+&(functional replacement|ro), т.е. «тиогидразид», «карботиогидразид», «сульфонотиогидразид» и т. д., как описано 
+в P-33.2.2 и &[Таблице 4.4].
+
+en: The following methods are no longer recommended: 
+ru: Следующие методы больше не рекомендуются:
+
+@List a
+
+@item
+en: substitution of hydrazine with appropriately modified acyl groups; 
+ru: замена гидразина на соответствующим образом модифицированные ацильные группы;
+
+@item
+en: modification of retained names by the prefixes ‘thio’, ‘seleno’, ‘telluro’.  
+ru: модификация сохранившихся названий с помощью префиксов «тио», «селено», «теллуро».
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CH2-CS-NH@Nx()-NH2@Nx(′)
+$>
+
+en: propanethiohydrazide (PIN)  <br>
+[not (propanethioyl)hydrazine;  <br>
+nor (thiopropionyl)hydrazine] 
+ru: пропантиогидразид (PIN) <br>
+[не (пропантиоил)гидразин; <br>
+и не (тиопропионил)гидразин]
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-CS-NH@Nx()-NH2@Nx(′)
+$>
+
+en: benzenecarbothiohydrazide (PIN)  <br>
+[not (benzenecarbothioyl)hydrazine;  <br>
+nor (thiobenzoyl)hydrazine] 
+ru: бензолкарботиогидразид (PIN) <br>
+[не (бензолкарботиоил)гидразин; <br>
+и не (тиобензоил)гидразин]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′)-NH@Nx()-CO@n(1)-CS@n(2)-NH-NH2
+$>
+
+en: 2-hydrazinyl-2-sulfanylideneacetohydrazide (PIN)  <br>
+(not thiooxalic dihydrazide) 
+ru: 2-гидразинил-2-сульфанилиденацетогидразид (PIN) <br>
+(не тиооксалатный дигидразид)
+
+@End
+
+#P-66.3.5
+en: Hydrazides from carbonic, cyanic, and di- and polycarbonic acids 
+ru: Гидразиды из &(carbonic [acid]|ro), циановой, ди- и &(polycarbonic acid|ro*)
+
+#P-66.3.5.1+
+en: Preferred IUPAC names for hydrazides derived from carbonic and cyanic acids are chosen according to the 
+seniority order of classes.  
+ru: Предпочтительные названия по номенклатуре IUPAC для гидразидов, полученных из &(carbonic [acid]|ro) и циановой 
+кислот, выбираются в соответствии с порядком старшинства классов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-CN
+$>
+
+en: cyanohydrazide (PIN)  <br>
+[cyanic acid is a retained name (see P-65.2.2)]  <br>
+carbononitridic hydrazide  <br>
+hydrazinecarbonitrile 
+ru: цианогидразид (PIN) <br>
+[циановая кислота — &(retained name) (см. P-65.2.2)] <br>
+карбонитридный гидразид <br>
+гидразинкарбонитрил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-COOH
+$>
+
+en: hydrazinecarboxylic acid (PIN)  <br>
+carbonohydrazidic acid 
+ru: гидразинкарбоновая кислота (PIN) <br>
+карбоногидразидная кислота
+// Тут пока непонятно, как надо правильно переводить carbono
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@n(2)-NH@n(1)-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: hydrazinecarbohydrazide (PIN)  <br>
+carbonic dihydrazide 
+ru: гидразинкарбогидразид (PIN) <br>
+&(carbonic [amide]) дигидразид
+
+@End
+
+#P-66.3.5.2+
+en: Names of hydrazides derived from the di- and polycarbonic acids are formed by adding the functional class 
+name ‘hydrazide’ to that of the corresponding acid, preceded by the numerical prefix ‘di’ to express multiplicity of 
+hydrazide groups, when necessary. Chalcogen and other replacement analogues are described by the appropriate 
+functional replacement prefix. 
+ru: Названия гидразидов, полученных из ди- и &(polycarbonic acid|ro*), образуются путем добавления названия 
+функционального класса «гидразид» к названию соответствующей кислоты, при необходимости с добавлением числового 
+префикса «ди» для обозначения кратности гидразидных групп. Халькогены и другие аналоги замещения описываются 
+соответствующим &(functional replacement prefix|tv).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′^1)-NH@Nx(^1,-70)-CO@n(1)-O@n(2)-CO@n(3)-NH@Nx(^3)-NH2@Nx(′^3,-70)
+$>
+
+en: dicarbonic dihydrazide (PIN)  <br>
+[(hydrazinecarbonyl)oxy]formohydrazide
+ru: ди&(carbonic [amide]) дигидразид (PIN) <br>
+[(гидразинкарбонил)окси]формогидразид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′^1)-NH@Nx(^1,-70)-CO@n(1)-NH@n(2)-CO@n(3)-NH@Nx(^3)-NH2@Nx(′^3,-70)
+$>
+
+en: 2-imidodicarbonic dihydrazide (PIN)  <br>
+[(hydrazinecarbonyl)amino]formohydrazide
+ru: 2-имидоди&(carbonic [amide]) дигидразид (PIN) <br>
+[(гидразинкарбонил)амино]формогидразид
+
+@End
+
+#P-66.3.5.3
+en: Corresponding substituent groups 
+ru: Соответствующие &(substituent group|*)
+
+en: When a group having priority for citation as a principal characteristic group is present, the hydrazide group is named: 
+ru: Когда присутствует группа, имеющая приоритет для &(citation|ro) в качестве основной &(characteristic group|ro), 
+группа гидразида называется:
+
+@List 1
+
+@item
+en: as an acylhydrazinyl compound; the hydrazinyl group is numbered by the numerical locants 1 and 2; 
+ru: как ацилгидразинильное соединение; группа гидразина нумеруется числовыми локантами 1 и 2;
+
+@item
+en: by expressing the corresponding hydrazide substitutively as a prefix by replacing the final letter ‘e’ in the name 
+of the hydrazide by the letter ‘o’. 
+ru: путем замещения соответствующего гидразида в качестве префикса путем замены последней буквы «е» в названии
+гидразида на букву «о».
+
+@End
+
+en: Method (2) generates preferred IUPAC names.  
+ru: Метод (2) генерирует предпочтительные названия IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC-NH-NH-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-formohydrazidopropanoic acid (PIN)  <br>
+3-(2-formylhydrazin-1-yl)propanoic acid 
+ru: 3-формогидразидопропановая кислота (PIN) <br>
+3-(2-формилгидразин-1-ил)пропановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-NH-CO-O-CO-NH-NH-CH2@n(4)-CH2-CH2-COOH@n(1)
+$>
+
+en: 4-{[(hydrazinecarbonyl)oxy]formohydrazido}butanoic acid (PIN)  <br>
+4-(2-{[(hydrazinecarbonyl)oxy]carbonyl}hydrazin-1-yl)butanoic acid 
+ru: 4-{[(гидразинкарбонил)окси]формогидразидо}бутановая кислота (PIN) <br>
+4-(2-{[(гидразинкарбонил)окси]карбонил}гидразин-1-ил)бутановая кислота
+
+@cell
+<$ H2N-NH-CO-NH-NH-CH2-COOH $>
+
+en: (hydrazinecarbohydrazido)acetic acid (PIN)  <br>
+[2-(hydrazinecarbonyl)hydrazin-1-yl]acetic acid  <br>
+[2-(hydrazinylcarbonyl)hydrazin-1-yl]acetic acid 
+ru: (гидразинкарбогидразидо)уксусная кислота (PIN) <br>
+[2-(гидразинкарбонил)гидразин-1-ил]уксусная кислота <br>
+[2-(гидразинилкарбонил)гидразин-1-ил]уксусная кислота
+
+@End
+
+#P-66.3.6
+en: Semioxamazones
+ru: Семиоксамазоны
+
+en: Semioxamazones have the general structure <%a%>. They are derivatives of the hydrazide of oxamic 
+acid. Their preferred IUPAC names are based on the parent name acetamide, but they may also be named as derivatives 
+of oxamic hydrazide. 
+ru: Семиоксамазоны имеют общую структуру <%a%>. Они являются производными гидразида оксаминовой кислоты. 
+Их предпочтительные названия по номенклатуре IUPAC основаны на &(parent name|ro) ацетамид, но их также можно 
+называть производными оксаминового гидразида.
+%a: <${R}=N-NH-CO-CO-NH2$>
+
+@Examples
+
+@cell
+<$ C6H5-CH=N-NH-COCO-NH2 $>
+  
+en: 2-(benzylidenehydrazinyl)-2-oxoacetamide (PIN)  <br>
+_N_′-benzylideneoxamic hydrazide 
+ru: 2-(бензилиденгидразинил)-2-оксоацетамид (PIN) <br>
+_N_′-бензилиденоксаминовый гидразид
+
+@End
+

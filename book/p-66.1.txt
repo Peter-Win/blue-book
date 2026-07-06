@@ -2852,38 +2852,3 @@ en: 2-amino-_N_-(2,3-dihydroxypropyl)-_N_-methylacetamide (PIN)
 ru: 2-амино-_N_-(2,3-дигидроксипропил)-_N_-метилацетамид (PIN)
 
 @End
-
-//===========================
-
-#P-66.2
-en: Imides 
-
-#P-66.3
-en: Hydrazides 
-
-#P-66.4
-en: Amidines, amidrazones, hydrazidines, and amidoximes (amide oximes) 
-
-#P-66.5
-en: Nitriles 
-
-#P-66.6
-en: Aldehydes 
-
-//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-#P-67
-en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
-parents for naming organic compounds 
-ru: Моноядерные и полиядерные неуглеродные кислоты и их функционально замещенные аналоги как &(functional parent|*) 
-для наименования органических соединений
-
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
-
-
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений

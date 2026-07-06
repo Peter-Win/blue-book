@@ -165,6 +165,7 @@
   "characteristic group|da": "характеристической группе",
   "characteristic group|tv": "характеристической группой",
   "characteristic group|vi": "характеристическую группу",
+  "characteristic group|pr": "характеристической группе",
   "characteristic group|*": "характеристические группы",
   "characteristic group|ro*": "характеристических групп",
   "characteristic group|da*": "характеристическим группам",
@@ -189,6 +190,7 @@
   "complex [prefix]|*": "сложные",
   "complex substituent prefix": "сложный замещающий префикс",
   "complex substituent prefix|ro": "сложного замещающего префикса",
+  "complex substituent prefix|tv": "сложным замещающим префиксом",
   "complex substituent prefix|*": "сложные замещающие префиксы",  
   "complex substituent prefix|ro*": "сложных замещающих префиксов", 
   
@@ -234,6 +236,7 @@
   "compound substituent prefix": "составной замещающий префикс",
   "compound substituent prefix|ro": "составного замещающего префикса",
   "compound substituent prefix|da": "составному замещающему префиксу",
+  "compound substituent prefix|tv": "составным замещающим префиксом",
   "compound substituent prefix|*": "составные замещающие префиксы",
   "compound substituent prefix|ro*": "составных замещающих префиксов",
 
@@ -737,6 +740,7 @@
 
   "preferred prefix": "предпочтительный префикс",
   "preferred prefix|ro": "предпочтительного префикса",
+  "preferred prefix|da": "предпочтительному префиксу",
   "preferred prefix|tv": "предпочтительным префиксом",
   "preferred prefix|pr": "предпочтительном префиксе",
   "preferred prefix|*": "предпочтительные префиксы",
@@ -749,6 +753,7 @@
 
   "preselected prefix": "предварительно выбранный префикс",
   "preselected suffix": "предварительно выбранный суффикс",
+  "preselected suffix|*": "предварительно выбранные суффиксы",
 
   "pseudoester": "псевдоэстер",
   "pseudoester|*": "псевдоэстеры",
@@ -885,6 +890,7 @@
   "substitution": "замещение",
   "substitution|ro": "замещения",
   "substitution|tv": "замещением",
+  "substitution|pr": "замещении",
 
   "substituting group|pr": "замещающей группе",
 
