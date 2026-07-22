@@ -243,7 +243,7 @@ ru: карбам&(imidic acid) (PIN; &(retained name))
 <$ HO-C(=N-NH2)-OH $>
 
 en: carbonohydrazonic acid (PIN) 
-ru: карбо&(hydrazonic acid) (PIN)
+ru: &(carbonohydrazonic [acid]) кислота (PIN)
 
 @cell
 <$ HS-C(=NH)-OH $>
@@ -451,7 +451,7 @@ ru: карбонимидоил (&(preferred prefix))
 <$ HO-C(=NNH2)-OH $>
 
 en: carbonohydrazonic acid (PIN) 
-ru: карбоно&(hydrazonic acid) (PIN)
+ru: &(carbonohydrazonic [acid]) кислота (PIN)
 
 @cell
 <$ {}–C(=N-NH2)–{} $>

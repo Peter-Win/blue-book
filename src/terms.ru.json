@@ -139,6 +139,10 @@
   "carbonochloridic acid": "carbonochloridic acid",
   "carbonocyanidic acid": "carbonocyanidic acid",
 
+  "carbonohydrazonic [acid]": "карбоногидразоновая",
+  "carbonohydrazonic [acid]|ro": "карбоногидразоновой",
+  "carbonohydrazonic [amide]": "карбоногидразоновый",
+
   "carbononitridic acid": "карбонитридная кислота",
   "carbononitridic acid|ro": "карбонитридной кислоты",
   "carbononitridic [anion]": "карбонитрид",
@@ -179,6 +183,7 @@
   "cited": "цитируется",
   "cited|p*": "цитируемые",
   "cited|ro": "цитируемого",
+  "cited|da": "цитируемому",
   "cited|*": "цитируются",
   "cited|ro*": "цитируемых",
   "cited|s*": "процитированы",
@@ -284,6 +289,8 @@
   "detachable [prefix]|ro*": "отделяемых",
   "detachable [prefix]|tv*": "отделяемыми",
   "detachable [prefix]|da*": "отделяемым",
+
+  "disubstituted|ro*": "дизамещённых",
 
   "ester": "сложный эфир",
   "ester|pr": "сложном эфире",
@@ -420,6 +427,9 @@
   "hydrazonic [acid]|ro*": "гидразоновых",
   "hydrazonic acid": "гидразоновая кислота",
   "hydrazonic acid|*": "гидразоновые кислоты",
+
+  "hydrazonodicarbonic [amide]": "гидразонодиугольный",
+
 
   "hydrogen [anion]": "водород",
 
@@ -882,6 +892,8 @@
   "substituent prefix|*": "префиксы-заместители",
   "substituent prefix|ro*": "префиксов-заместителей",
   "substituent prefix|tv*": "префиксами-заместителями",
+
+  "substituted group|da": "замещённой группе",
 
   "substituted [substituent]": "замещённый",
   "substituted [substituent]|s": "замещён",
