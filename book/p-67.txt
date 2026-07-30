@@ -1,0 +1,39 @@
+#P-67
+en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
+parents for naming organic compounds 
+ru: &(Mononuclear [acid]|*) и &(polynuclear [acid]|*) неуглеродные кислоты и их &(functional replacement analogue|*) как &(functional parent|*) 
+для наименования органических соединений
+
+@Content
+
+#P-67.0
+en: Introduction 
+ru: Введение
+
+en: Mono-, di-, and polynuclear noncarbon oxoacids and their chalcogen analogues having retained names are used as 
+parent structures to generate names of carbon containing compounds. In these recommendations, the names for these 
+compounds are preselected names (see P-12.2) 
+ru: В качестве &(parent structure|ro*) для генерации названий углеродсодержащих соединений используются моно-, ди- и 
+&(polynuclear [acid]|*) неуглеродсодержащие оксокислоты и их &(chalcogen analogue|*), имеющие &(retained name|*). 
+В данных рекомендациях названия этих соединений являются &(preselected name|tv*) (см. P-12.2).
+
+#P-67.1
+en: Mononuclear noncarbon oxoacids  
+
+#P-67.2
+en: Di- and polynuclear noncarbon oxoacids  
+
+#P-67.3
+en: Substitutive names and functional class names of polyacids 
+
+
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

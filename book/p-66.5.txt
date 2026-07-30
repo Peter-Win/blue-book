@@ -1,0 +1,1612 @@
+#P-66.5
+en: Nitriles
+ru: Нитрилы 
+
+@Content
+
+#P-66.5.0
+en: Introduction 
+ru: Введение
+
+en: Compounds with the general structure R-C≡N are called ‘nitriles’ or ‘cyanides’. Nitriles and cyanides are derived from 
+hydrocyanic acid, H-C≡N. When the point of attachment of the –C≡N group to ‘R’ is a carbon atom or a heteroatom, 
+these compounds form the class of nitriles and are named substitutively as nitriles. They may also be named as cyanides 
+according to the principles of functional class nomenclature. In substitutive nomenclature formonitrile is the preferred 
+IUPAC name. So, when substituted the compound is a preferred IUPAC name.  
+ru: Соединения с общей структурой R-C≡N называются «нитрилами» или «цианидами». Нитрилы и цианиды образуются из 
+синильной кислоты, H-C≡N. Когда точка присоединения группы –C≡N к «R» находится на атоме углерода или гетероатоме, эти 
+соединения образуют класс нитрилов и называются нитрилами в порядке замещения. В соответствии с принципами 
+&(functional class nomenclature|ro) они также могут называться цианидами. В &(substitutive nomenclature|pr) 
+предпочтительным названием по номенклатуре IUPAC является формонитрил. Таким образом, при замещении соединение 
+имеет предпочтительное название по номенклатуре IUPAC.
+
+en: These two types of nomenclature are fully discussed in this Section.
+ru: Эти два типа номенклатуры подробно обсуждаются в данном разделе.
+
+#P-66.5.1
+en: Nomenclature for generating preferred names for nitriles
+ru: Номенклатура для формирования предпочтительных названий нитрилов 
+
+en: Compounds of the general structure R-C≡N have the class names ‘nitriles’ and are named in three ways: 
+ru: Соединения общей структуры R-C≡N имеют классовые названия «нитрилы» и называются тремя способами:
+
+@List 1
+
+@item
+en: substitutively, using the suffixes ‘nitrile’ for –(C)N and ‘carbonitrile for –CN; 
+ru: путем замещения, используя суффиксы «нитрил» для –(C)N и «карбонитрил» для –CN;
+// тут имеется в виду, что нитрил - когда углерод является частью цепи, карбонитрил - когда нет.
+
+@item
+en: by changing the ‘ic acid’ or ‘oic acid’ endings in retained names of carboxylic acids into ‘onitrile’; the 
+nomenclatural properties of acids are transferred to nitriles; thus, preferred names of nitriles correspond to preferred 
+names of carboxylic acids (see P-65.1.1.1) and carboxylic acids that are not substitutable generate nonsubstitutable 
+nitriles (see P-65.1.1.2) 
+ru: путём замены окончаний «&(ic acid)» или «&(oic acid)» в &(retained name|pr*) карбоновых кислот на «онитрил»; 
+номенклатурные свойства кислот переносятся на нитрилы; таким образом, предпочтительные названия нитрилов соответствуют 
+предпочтительным названиям карбоновых кислот (см. P-65.1.1.1), а карбоновые кислоты, которые не подлежат замене, 
+образуют незаменяемые нитрилы (см. P-65.1.1.2).
+
+@item
+en: by functional class nomenclature, using the class name ‘cyanide’
+ru: с помощью &(functional class nomenclature|ro), используя название класса «цианид»  
+
+@End
+
+#P-66.5.1.1
+en: Substitutive and functional class names for nitriles
+ru: Замещающие и &(functional class name|*) нитрилов 
+
+#P-66.5.1.1.1+
+en: Acyclic mono- and dinitriles are named in the following two ways: 
+ru: Ациклические моно- и динитрилы называются двумя способами:
+
+@List 1
+
+@item
+en: substitutively by using the suffix ‘nitrile’; and 
+ru: замещающим способом с использованием суффикса «нитрил»; и
+
+@item`
+en: by functional class nomenclature using the class name ‘cyanide’. 
+ru: по &(functional class nomenclature|pr) с использованием названия класса «цианид».
+
+@End
+
+en: Method (1) leads to preferred IUPAC names.
+ru: Метод (1) приводит к предпочтительным названиям по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-[CH2]4-CN@n(1)
+$>
+
+en: hexanenitrile (PIN)  <br>
+pentyl cyanide 
+ru: гексаннитрил (PIN) <br>
+пентил цианид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CN@n(1)
+$>
+
+en: pentanedinitrile (PIN) <br> 
+propane-1,3-diyl dicyanide 
+ru: пентандинитрил (PIN) <br>
+пропан-1,3-диил дицианид
+
+@End
+
+#P-66.5.1.1.2+
+en: If an unbranched alkane is linked to more than two terminal cyano groups, all cyano groups are named 
+from the parent hydride by the substitutive suffix ‘carbonitrile’, preceded by appropriate multiplying prefix and locants. 
+ru: Если неразветвленный алкан связан с более чем двумя концевыми цианогруппами, все цианогруппы называются 
+от &(parent hydride|ro) с помощью замещающего суффикса «карбонитрил», которому предшествует соответствующий 
+умножающий префикс и локанты.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-[CH2]2-C@n(1)(CN)3
+$>
+
+en: butane-1,1,1-tricarbonitrile (PIN) 
+ru: бутан-1,1,1-трикарбонитрил (PIN)
+
+@End
+
+#P-66.5.1.1.3+
+en: The suffix ‘carbonitrile’ is always used to name nitriles having the –CN group attached to a ring or ring 
+system or to an acyclic heteroatom. 
+ru: Суффикс «карбонитрил» всегда используется для обозначения нитрилов, в которых группа –CN присоединена к кольцу 
+или кольцевой системе, либо к ациклическому гетероатому.
+
+@Examples
+
+@cell
+<$ H3Si-CN $>
+
+en: silanecarbonitrile (PIN)  <br>
+silyl cyanide 
+ru: силанкарбонитрил (PIN) <br>
+силил цианид
+
+@cell
+<$ H2N-NH-CN $>
+
+en: hydrazinecarbonitrile  <br>
+cyanohydrazide (PIN; see P-66.3.1.2.1)  <br>
+hydrazinyl cyanide (see P-66.5.1.3) 
+ru: гидразинкарбонитрил <br>
+циангидразид (PIN; см. P-66.3.1.2.1) <br>
+гидразинил цианид (см. P-66.5.1.3)
+
+@cell
+<$ `/`-`\/-\-CN $>
+
+en: cyclohexanecarbonitrile (PIN)  <br>
+cyclohexyl cyanide 
+ru: циклогексанкарбонитрил (PIN) <br>
+циклогексил цианид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N`/`-`\/-\@n(1,-80)-CN
+$>
+
+en: piperidine-1-carbonitrile (PIN) 
+ru: пиперидин-1-карбонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qq7_q7_qq7_q7<_(a64.3)CN>@n(2,0)_qq7@n(1,-100)_q7`\\`/|<\\/>_p7_pp7_p7_pp7_p7_pp7
+$>
+
+en: (benzo[1,2:4,5]di[7]annulene)-2-carbonitrile (PIN)  <br>
+(benzo[1,2:4,5]dicycloheptene)-2-carbonitrile 
+ru: (бензо[1,2:4,5]ди[7]аннулен)-2-карбонитрил (PIN) <br>
+(бензо[1,2:4,5]дициклогептен)-2-карбонитрил
+
+@End
+
+#P-66.5.1.1.4+
+en: When a group is present that has priority for citation as the principal characteristic group or when all –CN 
+groups cannot be expressed as the principal characteristic group, the –CN group is designated by the preferred prefix 
+‘cyano’. The prefix ‘cyano’ must also be used when the –CN group is located at the end of a chain. 
+ru: Если присутствует группа, имеющая приоритет при &(citation|pr) в качестве основной характеристической группы, 
+или если не все группы –CN могут быть выражены как основная характеристическая группа, группа –CN обозначается 
+предпочтительным префиксом «циано». Префикс «циано» также должен использоваться, если группа –CN находится в конце цепочки.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq<_(a54)COOH>@n(2,50)_qO@n(1,,.55)_q<_qq>@n(5,130)_(a54)NC
+$>
+
+en: 5-cyanofuran-2-carboxylic acid (PIN) <br>
+5-cyano-2-furoic acid
+ru: 5-цианофуран-2-карбоновая кислота (PIN) <br>
+5-циано-2-фур&(oic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-cyanopropanoic acid (PIN) 
+ru: 3-цианопропан&(oic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC@n(7)-CH2@n(6)-CH2@n(5)-CH@n(4,90)<`|CH2-CN>-CH2@n(3)-CH2@n(2)-CN@n(1)
+$>
+
+en: 4-(cyanomethyl)heptanedinitrile (PIN) 
+ru: 4-(цианометил)гептандинитрил (PIN)
+
+@End
+
+#P-66.5.1.2
+en: Nitriles derived from retained names of carboxylic acids 
+ru: Нитрилы образованные от &(retained name|ro*) карбоновых кислот
+
+#P-66.5.1.2.1+
+en: The following names are preferred IUPAC names, with unlimited substitution, except for formonitrile 
+whose substitution rules are the same as formic acid (see P-65.1.8) and, obviously, for oxalonitrile for which no 
+substitution is possible. 
+ru: Следующие названия являются предпочтительными названиями по номенклатуре IUPAC, допускающими неограниченное 
+количество замещений, за исключением формонитрила, правила замещения которого совпадают с правилами для 
+муравьиной кислоты (см. P-65.1.8), и, очевидно, оксалонитрила, для которого замещение невозможно.
+
+@Examples --
+
+@cell
+<$ HCN $>
+
+en: formonitrile(PIN)  <br>
+methanenitrile  <br>
+hydrogen cyanide 
+ru: формонитрил (PIN) <br>
+метанитрил <br>
+цианистый водород
+
+@cell
+<$ CH3-CN $>
+
+en: acetonitrile (PIN)  <br>
+ethanenitrile 
+ru: ацетонитрил (PIN) <br>
+этанентрил
+
+@cell
+<$ C6H5-CN $>
+
+en: benzonitrile (PIN)  <br>
+benzenecarbonitrile 
+ru: бензонитрил (PIN) <br>
+бензолкарбонитрил
+
+@cell
+<$ NC-CN $>
+
+en: oxalonitrile (PIN)  <br>
+ethanedinitrile
+ru: оксалонитрил (PIN) <br>
+этандинитрил
+
+@End
+
+#P-66.5.1.2.2+
+en: For general nomenclature, only the names furonitrile, phthalonitrile, isophthalonitrile, and 
+terephthalonitrile are retained with full substitution allowed (see P-65.1.1.2.1). Systematic names (see P-65.1.2) are the 
+preferred IUPAC names. 
+ru: В общей номенклатуре сохранены только названия фуронитрил, фталонитрил, изофталонитрил и терефталонитрил с возможностью 
+полной замены (см. P-65.1.1.2.1). Предпочтительными названиями по номенклатуре IUPAC являются систематические названия 
+(см. P-65.1.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</CN>|@n(2,90)\CN
+$>
+
+en: phthalonitrile  <br>
+benzene-1,2-dicarbonitrile (PIN) 
+ru: фталонитрил <br>
+бензол-1,2-дикарбонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-CN
+$>
+
+en: terephthalonitrile  <br>
+benzene-1,4-dicarbonitrile (PIN) 
+ru: терефталонитрил <br>
+бензол-1,4-дикарбонитрил (PIN)
+
+@End
+
+#P-66.5.1.2.3+
+en: Nitriles derived from retained acid names given in P-65.1.1.2.2 are only used in general nomenclature; no 
+substitution is allowed. Preferred IUPAC names are systematic names (see P-66.5.1.1). 
+ru: Нитрилы, образованные из &(retained name|ro*) кислот, приведенных в P-65.1.1.2.2, используются только в общей номенклатуре; 
+&(substitution) не допускается. Предпочтительными названиями по номенклатуре IUPAC являются систематические 
+названия (см. P-66.5.1.1).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CN $>
+
+en: propiononitrile  <br>
+propanenitrile (PIN) 
+ru: пропиононитрил <br>
+пропаннитрил (PIN)
+
+@cell
+<$ NC-CH2-CH2-CN $>
+
+en: succinonitrile  <br>
+butanedinitrile (PIN) 
+ru: сукцинонитрил <br>
+бутандинитрил (PIN)
+
+@End
+
+#P-66.5.1.2.4+
+en: Names of nitriles derived from carbohydrate acids and amino acids are discussed in P-102.5.6.6.2.1 and  
+P-103.2.8, respectively. 
+ru: Названия нитрилов, полученных из кислот углеводов и аминокислот, обсуждаются в разделах P-102.5.6.6.2.1 
+и P-103.2.8 соответственно.
+
+@Examples
+
+@cell
+<$
+CN|C<-H><`-HO>|C<-OH><`-H>|C<-H><`-HO>|CH2OH
+$>
+
+en: L-xylononitrile (see P-102.5.6.6.2.1) 
+ru: L-ксилононитрил (см. P-102.5.6.6.2.1)
+
+@cell
+<$ H2N-CH2-CN $>
+
+en: aminoacetonitrile (see P-103.2.8)  <br>
+glycinonitrile 
+ru: аминоацетонитрил (см. P-103.2.8) <br>
+глицинонитрил
+
+@End
+
+#P-66.5.1.3
+en: Functional class nomenclature for generating preferred IUPAC names of cyanides
+ru: &(Functional class nomenclature) для генерации предпочтительных названий цианидов по номенклатуре ИЮПАК 
+
+en: Functional class nomenclature is used, when needed, to name compounds in accordance with the seniority of classes 
+and to name compounds that cannot be named substitutively, for example, cyanides corresponding to sulfonic acid, 
+sulfinic acids and their selenium and tellurium analogues, carbonic acid, cyanic acid, and inorganic acids. 
+ru: &(Functional class nomenclature) используется при необходимости для наименования соединений в соответствии со 
+старшинством классов, а также для наименования соединений, которые нельзя назвать замещающим способом, например, цианидов, 
+соответствующих &(sulfonic acid|da), &(sulfinic acid|da*) и их селеновым и теллуровым аналогам, &(carbonic acid|da), 
+циановой кислоте и неорганическим кислотам.
+
+#P-66.5.1.3.1
+en: Nitriles with an α-oxo group
+ru: Нитрилы с α-оксогруппой
+
+en: Compounds of the type <%a%> can be named as acyl cyanides in a way similar to acid halides. Since acyl cyanides 
+are senior to nitriles, in the seniority of classes, functional class nomenclature must be used to express correctly the 
+seniority order.
+ru: Соединения типа <%a%> можно называть ацилцианидами аналогично галогенидам кислот. Поскольку ацилцианиды занимают более 
+высокое положение, чем нитрилы, в порядке старшинства классов необходимо использовать &(functional class nomenclature|vi)
+для корректного выражения порядка старшинства.
+%a: R-CO-CN
+
+@Examples
+
+@cell
+<$ HCO-CN $>
+
+en: formyl cyanide (PIN)  <br>
+oxoacetonitrile 
+ru: формил цианид (PIN) <br>
+оксоацетонитрил
+
+@cell
+<$ CH3-CO-CN $>
+
+en: acetyl cyanide (PIN)  <br>
+2-oxopropanenitrile 
+ru: ацетил цианид (PIN) <br>
+2-оксопропаннитрил
+
+@cell
+<$ CH3-[CH2]5-CO-CN $>
+
+en: heptanoyl cyanide (PIN)  <br>
+2-oxooctanenitrile 
+ru: гептаноил цианид (PIN) <br>
+2-оксооктаненитрил
+
+@cell
+<$ NC-CO-CO-CN $>
+
+en: oxalyl dicyanide (PIN)  <br>
+2,3-dioxobutanedinitrile
+ru: оксалил дицианид (PIN) <br>
+2,3-диоксобутандинитрил
+
+@End
+
+#P-66.5.1.3.2+
+en: Cyanides corresponding to the sulfur, selenium, and tellurium acids Cyanides formally formed by 
+replacing the –OH group of sulfonic acids, sulfinic acids, and similar Se and Te acids are named by functional class 
+nomenclature.  
+ru: Цианиды, соответствующие серной, селеновой и теллуровой кислотам. Цианиды, формально образующиеся путем замены 
+–OH-группы в &(sulfonic acid|pr*), &(sulfinic acid|pr*) и ​​подобных Se- и Te-кислотах, называются в соответствии с 
+&(functional class nomenclature|tv).
+
+@Examples
+
+@cell
+<$ CH3-SO2-CN $>
+
+en: methanesulfonyl cyanide (PIN) 
+ru: метансульфонил цианид (PIN)
+
+@cell
+<$ C6H5-SeO-CN $>
+
+en: benzeneseleninyl cyanide (PIN) 
+ru: бензолселенил цианид (ПИН)
+
+@End
+
+#P-66.5.2
+en: Substituted nitriles 
+ru: Замещенные нитрилы
+
+en: Substituents on the parent hydrides are denoted as prefixes. Nitriles, in the seniority order of classes, are senior to 
+ketones, pseudoketones, heterones, hydroxy compounds, amines, and imines; these classes must be cited as prefixes in 
+the presence of a nitrile group. Seniority for numbering of polyfunctional nitriles follows that described for acids, for 
+which see P-65.1.2.3 and P-65.1.2.4. 
+ru: &(Substituent|*) в &(parent hydride|pr*) обозначаются префиксами. Нитрилы, в порядке старшинства классов, занимают 
+более высокое положение, чем кетоны, псевдокетоны, гетероны, гидроксисоединения, амины и имины; эти классы должны 
+&(cite|self) в качестве префиксов при наличии нитрильной группы. Старшинство при нумерации полифункциональных нитрилов 
+соответствует старшинству, описанному для кислот, см. P-65.1.2.3 и P-65.1.2.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CO@n(5)-[CH2]3-CN@n(1)
+$>
+
+en: 5-oxohexanenitrile (PIN)
+ru: 5-оксогексаненитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-CH2@n(4)-CH2@n(3)-CH2@n(2)-CN@n(1)
+$>
+
+en: 4-hydroxybutanenitrile (PIN)  <br>
+(not 4-hydroxybutyronitrile;  <br>
+no substitution for this retained name, see P-65.1.1.2) 
+ru: 4-гидроксибутаненитрил (PIN) <br>
+(не 4-гидроксибутиронитрил; <br>
+замена для этого &(retained name|ro) невозможна, см. P-65.1.1.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-@n(3,110)<_(a54)NH2>_qqN@n(2,-10,.5)_qN<_(y-.5)H>@n(1,90,.55)_q@n(5,-170)_qq@n(4,70)_(a54)NC
+$>
+
+en: 3-amino-1_H_-pyrazole-4-carbonitrile (PIN)
+ru: 3-амино-1_H_-пиразол-4-карбонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NC-CH2_(h){}\@n(1)||\//`|@n(3)</Br>`\\`/
+$>
+
+en: (3-bromophenyl)acetonitrile (PIN) 
+ru: (3-бромфенил)ацетонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)H2N-CH2-C`H2/@n(5)`||/@n(1,-150)<`|CN>\\|@n(3)<`//`\>\CH2-CH2-NH2
+$>
+
+en: 3,5-bis(2-aminoethyl)benzonitrile (PIN) 
+ru: 3,5-бис(2-аминоэтил)бензонитрил (PIN)
+
+@cell
+<$ NC-CH2-CH2-NH-CH2-CH2-CN $>
+
+en: 3,3′-azanediyldipropanenitrile (PIN)  <br>
+(not 3,3′-azanediyldipropionitrile;  <br>
+no substitution on propionitrile, see P-65.1.1.2)
+ru: 3,3'-азандиилдипропаннитрил (PIN) <br>
+(не 3,3'-азандиилдипропионитрил; <br>
+нет &(substitution|ro) для пропионитрила, см. P-65.1.1.2)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CN|\|`//`\`||<`\O2`N>@n(6)/@n(1,-150)\@n(2)/Cl
+$>
+
+en: 2-chloro-6-nitrobenzonitrile (PIN)
+ru: 2-хлор-6-нитробензонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</CN>|@n(2,90)_q6O-CH3
+$>
+
+en: 2-methoxybenzonitrile (PIN)
+ru: 2-метоксибензонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-CH2@n(3)-CH2@n(2)-CO@n(1)-CN
+$>
+
+en: 3-chloropropanoyl cyanide (PIN)  <br>
+4-chloro-2-oxobutanenitrile  <br>
+(not 3-chloropropionyl cyanide) 
+ru: 3-хлорпропаноил цианид (PIN) <br>
+4-хлор-2-оксобутаненитрил <br>
+(не 3-хлорпропионил цианид)
+
+@End
+
+
+#P-66.5.3
+en: Nitriles/cyanides corresponding to carbonic and di- and polycarbonic acids 
+ru: Нитрилы/цианиды, соответствующие &(carbonic [acid]|da), ди- и &(polycarbonic acid|da*)
+
+#P-66.5.3.1+
+en: Nitriles corresponding to carbonic acid and di- and polycarbonic acids are named by functional class nomenclature.
+ru: Нитрилы, соответствующие &(carbonic acid|da), а также ди- и &(polycarbonic acid|da*), именуются в соответствии 
+с &(functional class nomenclature|tv).  
+
+@Examples
+
+@cell
+<$ NC-CO-CN $>
+
+en: carbonyl dicyanide (PIN)  <br>
+2-oxopropanedinitrile  <br>
+(not oxomalononitrile;  <br>
+no substitution allowed on malononitrile) 
+ru: карбонилдицианид (PIN) <br>
+2-оксопропандинитрил <br>
+(не оксомалононитрил; <br>
+&(substitution) малононитрила не допускается)
+
+@cell
+<$ NC-CO-CO-CN $>
+
+en: oxalyl dicyanide (PIN)  <br>
+2,3-dioxobutanedinitrile  
+ru: оксалил дицианид (PIN) <br>
+2,3-диоксобутандинитрил
+
+@cell
+<$ NC-C(=NH)-CN $>
+
+en: carbonimidoyl dicyanide (PIN)  <br>
+(not 2-iminopropanedinitrile) 
+ru: карбонимидоилдицианид (PIN) <br>
+(не 2-иминопропандинитрил)
+
+@cell
+<$ NC-C(=NNH2)-CN $>
+
+en: carbonohydrazonoyl dicyanide (PIN)  <br>
+(not 2-hydrazonopropanedinitrile) 
+ru: карбогидразоноил дицианид (PIN) <br>
+(не 2-гидразонопропандинитрил)
+
+@cell
+<$ H2N-CO-CN $>
+
+en: carbamoyl cyanide (PIN) 
+en: карбамоил цианид (PIN)
+
+@cell
+<$ NC-CO-O-CO-CN $>
+
+en: dicarbonic dicyanide (PIN) (see P-65.5.3.2)
+ru: дикарбонат дицианид (PIN) (см. P-65.5.3.2)
+
+@End
+
+#P-66.5.4
+en: Nitrile oxides and chalcogen analogues 
+ru: Оксиды нитрилов и &(chalcogen analogue|*)
+
+#P-66.5.4.1+
+en: Compounds with the general structure R-C≡NO have the generic name ‘nitrile oxides’. As they may be 
+considered as zwitterions, they are classed with zwitterions in the order of compound classes. They are named by three 
+methods: 
+ru: Соединения с общей структурой R-C≡NO имеют общее название «нитрилоксиды». Поскольку их можно рассматривать как 
+цвиттерионы, они классифицируются вместе с цвиттерионами в порядке классов соединений. Их называют тремя способами:
+
+@List 1
+
+@item
+en: by the term ‘oxide’, ‘sulfide’, ‘selenide’, or ‘telluride’ added to the name of the nitrile (see P-74.2.2.2.1.2). 
+ru: путем добавления к названию нитрила терминов «оксид», «сульфид», «селенид» или «теллурид» (см. P-74.2.2.2.1.2).
+
+@item
+en: by applying the λ-convention and oxo substitution to the nitrogen atom (see P-14.1); 
+ru: путем применения λ-конвенции и оксо-замещения к атому азота (см. P-14.1);
+
+@item
+en: as zwitterions (see P-74.2.2.2.1.2).  
+ru: как цвиттерионы (см. P-74.2.2.2.1.2).
+
+@End
+
+en: Method (1) leads to preferred IUPAC names 
+ru: Метод (1) приводит к предпочтительным названиям по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$ C6H5-C≡N^+# –O^– $>
+
+en: (1) benzonitrile oxide (PIN)  <br>
+(2) benzylidyne(oxo)-λ^{5}-azane  <br>
+(3) (benzylidyneazaniumyl)oxidanide 
+ru: (1) бензонитрил оксид (PIN) <br>
+(2) бензилидин(оксо)-λ^{5}-азан <br>
+(3) (бензилидинеазанийил)оксиданид
+
+@cell
+<$ HC≡N^+# –O^– $>
+
+en: (1) formonitrile oxide (PIN)  <br>
+(2) methylidyne(oxo)-λ^{5}-azane  <br>
+(3) (methylidyneazaniumyl)oxidanide 
+ru: (1) формонитрил оксид (PIN) <br>
+(2) метилидин(оксо)-λ^{5}-азан <br>
+(3) (метилидинеазанийил)оксиданид
+
+@End
+
+#P-66.5.4.2+
+en: When it is necessary to cite the group –C≡NO as a substituent prefix, method (2), above is applied. 
+ru: Когда необходимо &(cite) группу –C≡NO в качестве префикса &(substituent|ro), применяется метод (2), описанный выше.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+ONC-@n(1,-120)/=\<`//`-`\\>@n(4,-60)-CO-O-CH3
+$>
+
+en: 4-(methoxycarbonyl)benzonitrile oxide (PIN)  <br>
+(not methyl 4-[(oxo-λ^{5}-azanylidyne)methyl]benzoate) <br>
+(no longer methyl 4-isofulminatobenzoate)  
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+ONC-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COO^-# -0Na^+
+$>
+
+en: sodium 4-[(oxo-λ^{5}-azanylidyne)methyl]benzoate (PIN)  <br>
+(no longer sodium 4-isofulminatobenzoate) 
+ru: 4-[(оксо-λ^{5}-азанилидин)метил]бензоат натрия (PIN) <br>
+(больше не 4-изофульминатобензоат натрия)
+
+@End
+
+
+
+
+#P-66.6
+en: Aldehydes 
+ru: Альдегиды
+
+@Content
+
+#P-66.6.0
+en: Introduction 
+ru: Введение
+
+en: The class name ‘aldehyde’ traditionally refers to compounds containing the –CH=O group attached to a carbon atom. 
+However, nomenclature for aldehydes has been extended to describe a –CHO group attached to a heteroatom. 
+ru: Традиционно под термином «альдегид» подразумеваются соединения, содержащие группу –CH=O, присоединенную к атому углерода.
+Однако номенклатура альдегидов была расширена и теперь описывает группу –CHO, присоединенную к гетероатому.
+
+#P-66.6.1
+en: Systematic names of aldehydes
+ru: Систематические названия альдегидов 
+
+en: Aldehydes are systematically named in three ways: 
+ru: Альдегиды систематически именуются тремя способами:
+
+@List 1
+
+@item
+en: substitutively, using the suffixes ‘al’ for –(C)HO and ‘carbaldehyde’ for –CHO; 
+ru: путем замещения, используя суффиксы «&(al)» для –(C)HO и «карбальдегид» для –CHO;
+
+@item
+en: by changing the ‘ic acid’ or ‘oic acid’ endings of retained names of carboxylic acids into ‘aldehyde’; the 
+nomenclatural properties of acids are transferred to aldehydes; thus, preferred names of aldehydes correspond to 
+preferred names of acids, and carboxylic acids that are not substitutable generate nonsubstitutable aldehydes; 
+ru: путем замены окончаний «&(ic acid)» или «&(oic acid)» в &(retained name|pr*) карбоновых кислот на «альдегид»; 
+номенклатурные свойства кислот переносятся на альдегиды; таким образом, предпочтительные названия альдегидов соответствуют 
+предпочтительным названиям кислот, а карбоновые кислоты, которые не подлежат замещению, образуют незамещаемые альдегиды;
+
+@item
+en: by using the prefixes ‘oxo’, denoting =O, or ‘formyl-’, denoting the substituent group –CHO. 
+ru: с использованием префиксов «оксо», обозначающих =O, или «формил-», обозначающих заместительную группу –CHO.
+
+@End
+
+#P-66.6.1.1
+en: Names based on suffixes 
+ru: Названия, основанные на суффиксах
+
+#P-66.6.1.1.1+
+en: Mono- and dialdehydes derived from alkanes are named substitutively using the suffix ‘al’ added to the 
+name of the parent hydride with elision of the final letter ‘e’ of the parent hydride before ‘a’.
+ru: Моно- и диальдегиды, полученные из алканов, называются замещающим образом с использованием суффикса «&(al)», 
+добавляемого к названию &(parent hydride|ro), с опущением последней буквы «е» &(parent hydride|ro) перед «а».
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-CH2-CHO $>
+
+en: pentanal (PIN) 
+ru: пентан&(al) (PIN)
+
+@cell
+<$ OHC-CH2-CH2-CH2-CHO $>
+
+en: pentanedial (PIN) 
+ru: пентанди&(al) (PIN) 
+
+@End
+
+#P-66.6.1.1.2+
+en: The suffix ‘carbaldehyde’ is used when more than two –CHO groups are attached to an unbranched alkane chain. 
+ru: Суффикс «карбальдегид» используется, когда к неразветвленной алкановой цепи присоединено более двух групп –CHO.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC-CH2@n(1)-CH@n(2,90)<`|CHO>-CH2@n(3)-CH2@n(4)-CHO
+$>
+
+en: butane-1,2,4-tricarbaldehyde (PIN)
+ru: бутан-1,2,4-трикарбальдегид (PIN)
+
+@End
+
+#P-66.6.1.1.3+
+en: The suffix ‘carbaldehyde’ is used when the –CHO group is attached to a carbon atom of a ring or ring 
+system, or to a heteroatom.
+ru: Суффикс «карбальдегид» используется, когда группа –CHO присоединена к атому углерода кольца или кольцевой системы, 
+или к гетероатому.
+
+@Examples
+
+@cell
+<$ |`/`\`|/\/CHO $>
+
+en: cyclohexanecarbaldehyde (PIN) 
+ru: циклогексанкарбальдегид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC\@n(6)/N@n(1,,.55)\\@n(2)</CHO>|`//`\`||
+$>
+
+en: pyridine-2,6-dicarbaldehyde (PIN) 
+ru: пиридин-2,6-дикарбальдегид (PIN)
+
+@cell
+<$ H2P-CHO $>
+
+en: phosphanecarbaldehyde (PIN) 
+ru: фосфанкарбальдегид (PIN) 
+
+@cell
+<$ H2NNH-CHO $>
+
+en: hydrazinecarbaldehyde  <br>
+formohydrazide (PIN;  <br>
+hydrazide is senior to an aldehyde) 
+ru: гидразинкарбальдегид <br>
+формогидразид (PIN; <br>
+гидразид имеет более высокий статус, чем альдегид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N@n(4)-N@n(3)=N@n(2)-N@n(1,90)<`|CH3>-CHO
+$>
+
+en: 1,4,4-trimethyltetraaz-2-ene-1-carbaldehyde (PIN) 
+ru: 1,4,4-триметилтетрааз-2-ен-1-карбальдегид (PIN)
+
+@End
+
+#P-66.6.1.2
+en: Names of aldehydes derived from retained names of carboxylic acids 
+ru: Названия альдегидов, полученные из &(retained name|ro*) карбоновых кислот
+
+en: Names of aldehydes derived from retained names are formed by changing the ‘ic acid’ or ‘oic acid’ ending of the 
+retained names of carboxylic acids to ‘aldehyde’. Substitution of aldehydes parallels that of corresponding carboxylic 
+acids (see P-65.1.1.2). 
+ru: Названия альдегидов, полученные из &(retained name|ro*), образуются путем замены окончания «&(ic acid)» или 
+«&(oic acid)» в &(retained name|pr*) карбоновых кислот на «альдегид». &(Substitution) альдегидов аналогично 
+&(substitution|da) соответствующих карбоновых кислот (см. P-65.1.1.2).
+
+#P-66.6.1.2.1+
+en: The following names are preferred IUPAC names, with substitution allowed for acetaldehyde and 
+benzaldehyde. Substitution rules for formaldehyde are the same as for formic acid (see P-65.1.8). 
+ru: Ниже приведены предпочтительные названия по номенклатуре IUPAC, допускающие &(substitution|vi) ацетальдегида и бензальдегида. 
+Правила замены формальдегида такие же, как и для муравьиной кислоты (см. P-65.1.8).
+
+@Examples --
+
+@cell
+<$ HCHO $>
+
+en: formaldehyde (PIN)  <br>
+methanal 
+ru: формальдегид (PIN) <br>
+метаналь
+
+@cell
+<$ CH3-CHO $>
+
+en: acetaldehyde (PIN)  <br>
+ethanal 
+ru: ацетальдегид (PIN) <br>
+этаналь
+
+@cell
+<$ C6H5-CHO $>
+
+en: benzaldehyde (PIN)  <br>
+benzenecarbaldehyde 
+ru: бензальдегид (PIN) <br>
+бензенкарбальдегид
+
+@End
+
+#P-66.6.1.2.2+
+en: For general nomenclature, only the names furaldehyde, phthalaldehyde, isophthalaldehyde, and 
+terephthalaldehyde are retained with substitution allowed (see P-34). Systematic names (P-66.6.1.1) are the preferred 
+IUPAC names. 
+ru: Для общей номенклатуры сохранены только названия фуральдегид, фталальдегид, изофталальдегид и терефталальдегид 
+с возможностью &(substitution|ro) (см. P-34). Систематические названия (P-66.6.1.1) являются предпочтительными названиями 
+по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</CHO>|@n(2,90)\CHO
+$>
+
+en: phthalaldehyde  <br>
+benzene-1,2-dicarbaldehyde (PIN) 
+ru: фталальдегид <br>
+бензол-1,2-дикарбальдегид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-CHO
+$>
+
+en: terephthalaldehyde  <br>
+benzene-1,4-dicarbaldehyde (PIN) 
+ru: терефталальдегид <br>
+бензол-1,4-дикарбальдегид (PIN)
+
+@End
+
+#P-66.6.1.2.3+
+en: Aldehydes derived from retained acid names given in P-65.1.1.2 are only used in general nomenclature; no 
+substitution is allowed. Preferred IUPAC names are systematic names (see P-66.6.1.1)
+ru: Альдегиды, производные от &(retained name|ro*) кислот, приведенных в P-65.1.1.2, используются только 
+в общей номенклатуре; &(substitution) не допускается. Предпочтительными названиями по номенклатуре IUPAC являются 
+систематические названия (см. P-66.6.1.1).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CHO $>
+
+en: propionaldehyde  <br>
+propanal (PIN) 
+ru: пропиональдегид <br>
+пропаналь (PIN)
+
+@cell
+<$ OHC-CH2-CH2-CHO $>
+
+en: succinaldehyde  <br>
+butanedial (PIN) 
+ru: сукцинальдегид <br>
+бутанди&(al) (PIN)
+
+@End
+
+#P-66.6.1.3+
+en: In the presence of a characteristic group having priority to be cited as a suffix or when present on a side 
+chain, a –CHO group is expressed by the preferred prefix ‘oxo’ if located at an end of a carbon chain, or, otherwise, by 
+the preferred prefix ‘formyl’. 
+ru: При наличии &(characteristic group|ro), имеющей приоритет в качестве суффикса, или при наличии на боковой цепи, 
+группа –CHO обозначается предпочтительным префиксом «оксо», если она расположена на конце углеродной цепи, или, 
+в противном случае, предпочтительным префиксом «формил».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC@n(4)-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 4-oxobutanoic acid (PIN)  <br>
+3-formylpropanoic acid
+ru: 4-оксобутановая кислота (PIN) <br>
+3-формилпропановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC-@n(4,-120)/-\@n(1,-60)<`/`-`\>-COOH
+$>
+
+en: 4-formylcyclohexane-1-carboxylic acid (PIN) 
+ru: 4-формилциклогексан-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-100,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,100)<_(a-54)CHO>_p_p_p_p@n(1)_(a-54)CH2-CH2-CH2-CH2-CH2-CH2-CHO
+$>
+
+en: 2-(7-oxoheptyl)cyclopentane-1-carbaldehyde (PIN)  <br>
+7-(2-formylcyclopentyl)heptanal  <br>
+(ring preferred to chain: see P-44.1.2.2) 
+ru: 2-(7-оксогептил)циклопентан-1-карбальдегид (PIN) <br>
+7-(2-формилциклопентил)гептаналь <br>
+(кольцо предпочтительнее цепи: см. P-44.1.2.2)
+
+@End
+
+#P-66.6.2
+en: Aldehydes from di- and polycarbonic acids
+ru: Альдегиды из ди- и &(polycarbonic acid|ro*)
+
+en: Aldehydes from di- and polycarbonic acids are named on the basis of the higher compound class. Multiplicative names 
+based on formaldehyde can be used (see P-15.3.2.1).  
+ru: Альдегиды из ди- и &(polycarbonic acid|ro*) называются на основе класса соединений более высокого порядка. 
+Могут использоваться &(multiplicative name|*), основанные на формальдегиде (см. P-15.3.2.1).
+
+@Examples
+
+@cell
+<$ O=CH-O-CH=O $>
+
+en: formic anhydride (PIN)  <br>
+(anhydride senior to aldehyde; see P-41)  
+ru: муравьиный ангидрид (PIN) <br>
+(ангидрид старше альдегида; см. P-41)
+
+@cell
+<$ O=CH-O-CO-O-CH=O $>
+
+en: carbonic diformic dianhydride (PIN)  <br>
+(anhydride senior to ester; see P-41)  <br>
+bis(oxomethyl) carbonate 
+ru: карбоновый димуравьиный диангидрид (PIN) <br>
+(ангидрид старше сложного эфира; см. P-41) <br>
+бис(оксометил)карбонат
+
+@End
+
+#P-66.6.3
+en: Chalcogen analogues of aldehydes 
+ru: &(Chalcogen analogue|*) альдегидов
+
+en: Chalcogen analogues of aldehydes are named by using the suffixes and prefixes in Table 6.4. In the seniority order of 
+classes, aldehydes are senior to ketones, hydroxy compounds, amines, and imines. Names of chalcogen analogues 
+corresponding to aldehydes with retained names are all systematically formed. 
+ru: &(Chalcogen analogue|*) альдегидов, именуются с использованием суффиксов и префиксов, приведенных в &[Таблице 6.4]. 
+В порядке старшинства классов альдегиды занимают более высокое положение, чем кетоны, гидроксисоединения, амины и имины. 
+Названия &(chalcogen analogue|ro*), соответствующих альдегидам с &(retained name|tv*), формируются систематически.
+
+@Table 6.4 .left-aligned-cells .cells-align-top
+en: Suffixes and prefixes for chalcogen analogues of aldehydes  
+ru: Суффиксы и префиксы для &(chalcogen analogue|ro*) альдегидов
+
+@th
+en: Group
+ru: Группа
+
+@th
+en: Suffix
+ru: Суффикс
+
+@th
+en: Prefix
+ru: Префикс
+
+@td
+<$ {}–(C)HS $>
+
+@td
+en: thial
+ru: &(thial)
+
+@td
+en: sulfanylidene (preferred prefix)  <br>
+thioxo
+ru: сульфанилиден (&(preferred prefix)) <br>
+тиоксо
+
+// --
+
+@td
+<${}–(C)HSe$>
+
+@td
+en: selenal
+ru: селен&(al)
+
+@td
+en: selanylidene (preferred prefix)  <br>
+selenoxo 
+ru: селанилиден (&(preferred prefix)) <br>
+селеноксо
+
+// --
+
+@td
+<$ {}–(C)HTe $>
+
+@td
+en: tellanal
+ru: теллан&(al)
+
+@td
+en: tellanylidene (preferred prefix)  <br>
+telluroxo 
+ru: телланилиден (&(preferred prefix)) <br>
+теллуроксо
+
+// --
+
+@td
+<$ {}–CHS $>
+
+@td
+en: carbothialdehyde
+ru: карботиальдегид
+
+@td
+en: methanethioyl (preferred prefix)  <br>
+thioformyl 
+ru: метантиоил (&(preferred prefix)) <br>
+тиоформил
+
+// --
+
+@td
+<$ {}–CHSe $>
+
+@td
+en: carboselenaldehyde
+ru: карбоселенальдегид
+
+@td
+en: methaneselenoyl (preferred prefix)  <br>
+selenoformyl
+ru: метанселеноил (&(preferred prefix)) <br>
+селеноформил
+
+// --
+
+@td
+<$ {}–CHTe $>
+
+@td
+en: carbotelluraldehyde
+ru: карботеллуральдегид
+
+@td
+en: methanetelluroyl (preferred prefix)  <br>
+telluroformyl 
+ru: метантеллуроил (&(preferred prefix)) <br>
+теллуроформил
+
+@EndTable
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(2)-CHS@n(1)
+$>
+
+en: ethanethial (PIN)  <br>
+thioacetaldehyde 
+ru: этан&(thial) (PIN) <br>
+тиоацетальдегид
+
+@cell
+<$ C6H5-CHS $>
+
+en: benzenecarbothialdehyde (PIN)  <br>
+thiobenzaldehyde 
+ru: бензолкарботиальдегид (PIN) <br>
+тиобензальдегид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-[CH2]4-CHSe@n(1)
+$>
+
+en: hexaneselenal (PIN) 
+ru: гексанселен&(al) (PIN) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SHC@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CHS@n(1)
+$>
+
+en: pentanedithial (PIN) 
+ru: пентанди&(thial) (PIN) 
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/=\<`//`-`\\>@n(4,-60)-CHS
+$>
+
+en: 4-(methanethioyl)benzoic acid (PIN)  <br>
+4-(thioformyl)benzoic acid 
+ru: 4-(метантиоил)бензойная кислота (PIN) <br>
+4-(тиоформил)бензойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/-\<`/`-`\>@n(4,-60)-CHSe
+$>
+
+en: 4-(methaneselenoyl)cyclohexane-1-carboxylic acid (PIN)  <br>
+4-(selenoformyl)cyclohexane-1-carboxylic acid 
+ru: 4-(метанселеноил)циклогексан-1-карбоновая кислота (PIN) <br>
+4-(селеноформил)циклогексан-1-карбоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+S=@n(4,-120)/-\<`/`-`\>@n(1,-60)-CHSe
+$>
+
+en: 4-sulfanylidenecyclohexane-1-carboselenaldehyde (PIN)  <br>
+4-thioxocyclohexane-1-carboselenaldehyde 
+ru: 4-сульфанилиденциклогексан-1-карбоселенальдегид (PIN) <br>
+4-тиоксоциклогексан-1-карбоселенальдегид
+
+@End
+
+#P-66.6.4
+en: Polyfunctional aldehydes 
+ru: Полифункциональные альдегиды
+
+en: In the presence of an aldehyde group, ketones, pseudoketones, heterones, hydroxy compounds, amines, and imines are 
+expressed by prefixes. Seniority for numbering polyfunctional aldehydes follows that described for acids, for which see 
+P-65.1.2.3 and P-65.1.2.4.
+ru: В присутствии альдегидной группы кетоны, псевдокетоны, гетероны, гидроксисоединения, амины и имины обозначаются 
+префиксами. Порядок нумерации полифункциональных альдегидов соответствует порядку нумерации кислот, см. P-65.1.2.3 и P-65.1.2.4.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CO@n(3)-CH2@n(2)-CHO@n(1)
+$>
+
+en: 3-oxobutanal (PIN)  <br>
+(not 3-oxobutyraldehyde)  
+ru: 3-оксобутаналь (PIN) <br>
+(не 3-оксобутиральдегид)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH2@n(4)-CH2@n(3)-C@n(2,90)<`||CH2>-CHO@n(1,90)
+$>
+
+en: 2-methylidenehexanal (PIN)  <br>
+[not 2-butylprop-2-enal,  <br>
+the longest chain is the principal chain (see P-44.3)] 
+ru: 2-метилиденгексаналь (PIN) <br>
+[не 2-бутилпроп-2-еналь, <br>
+самая длинная цепь является основной цепью (см. P-44.3)]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1,-90)</CHO>|@n(2,90)\OH
+$>
+
+en: 2-hydroxybenzaldehyde (PIN)  <br>
+(not salicylaldehyde)
+ru: 2-гидроксибензальдегид (PIN) <br>
+(не салицилальдегид) 
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq<_(a54)CHO>@n(2,50)_qO@n(1,,.55)_q@n(5,130)<_qq>_(a54){}_(h-)CH2`-HO
+$>
+
+en: 5-(hydroxymethyl)furan-2-carbaldehyde (PIN)  <br>
+5-(hydroxymethyl)-2-furaldehyde  <br>
+[not 5-(hydroxymethyl)furfural] 
+ru: 5-(гидроксиметил)фуран-2-карбальдегид (PIN) <br>
+5-(гидроксиметил)-2-фуральдегид <br>
+[не 5-(гидроксиметил)фурфурал]
+
+@cell
+<$ `//`-`\\/=\-O-CH2-CHO $>
+
+en: phenoxyacetaldehyde (PIN) 
+ru: феноксиацетальдегид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CHO|\|@n(3,90)<\F>`//`\`||/@n(1,-30)\@n(2)/CH3
+$>
+
+en: 3-fluoro-2-methylbenzaldehyde (PIN) 
+ru: 3-фтор-2-метилбензальдегид (PIN)
+
+@End
+
+#P-66.6.5
+en: Acetals and ketals, hemiacetals and hemiketals, and their chalcogen analogues 
+ru: Ацет&(al|*) и кет&(al|*), &(hemiacetal|*) и &(hemiketal|*), а также их &(chalcogen analogue|*)
+
+@Content
+
+#P-66.6.5.1
+en: Acetals and ketals 
+ru: Ацет&(al|*) и кет&(al|*)
+
+#P-66.6.5.1.1+
+en: Compounds with the general structure <%a%>, where only R and R′ may be, but need not be, 
+hydrogen, have the class name ‘acetal’. ‘Ketals’ constitute a subclass of acetals wherein neither R nor R′ may be 
+hydrogen. Acetals (ketals) are named in two ways: 
+ru: Соединения с общей структурой <%a%>, где только R и R′ могут быть, но не обязательно, водородом, имеют классовое 
+название «ацеталь». «Кетали» представляют собой подкласс ацеталей, в которых ни R, ни R′ не могут быть водородом. 
+Ацетали (кетали) называются двумя способами:
+%a: RR′C(O-R′′)(O-R′′′)
+
+@List 1
+
+@item
+en: substitutively as ‘alkoxy’, alkyloxy, ‘aryloxy’, etc. derivatives of an appropriate parent hydride or functional 
+parent compound; 
+ru: путем замещения как «алкокси», «алкилокси», «арилокси» и т. д. производные соответствующего &(parent hydride|ro) 
+или функционального &(parent compound|ro);
+
+@item
+en: by functional class nomenclature by citing the name of the aldehyde or ketone, the names of the _O_-substituents, 
+in alphanumerical order if required, and finally the class terms ‘acetal’ or ‘ketal’. 
+ru: по &(functional class nomenclature|pr) с указанием названия альдегида или кетона, названий _O_-&(substituent|ro*) 
+в алфавитно-цифровом порядке, если требуется, и, наконец, терминов класса «ацеталь» или «кеталь».
+
+@End
+
+en: Method (1), the substitutive method, leads to preferred IUPAC names.
+ru: Метод (1), метод замещения, приводит к предпочтительным названиям по номенклатуре IUPAC.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CHO@n(1)(O-CH2-CH3)2
+$>
+
+en: (1) 1,1-diethoxypropane (PIN)  <br>
+(2) propanal diethyl acetal 
+ru: (1) 1,1-диэтоксипропан (PIN) <br>
+(2) пропаналь диэтил ацеталь 
+
+@cell
+<$
+@:n(n,a:-80,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\@n(1)<_(A30)O-CH3>_(A-30)O-CH2-CH3
+$>
+
+en: (1) 1-ethoxy-1-methoxycyclohexane (PIN)  <br>
+(2) cyclohexanone ethyl methyl ketal 
+ru: (1) 1-этокси-1-метоксициклогексан (PIN) <br>
+(2) циклогексанон этил метил кеталь
+
+@cell
+<$
+@:n(n,a:-80,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-O_(A30)@n(1,-100)/-\@n(4)<_(A-30)O-CH3><_(A30)O-CH3>`/`-`\_(A150)O`-CH2`-CH3
+$>
+
+en: (1) 1,1-diethoxy-4,4-dimethoxycyclohexane (PIN)  <br>
+(2) cyclohexane-1,4-dione 1,1-diethyl 4,4-dimethyl diketal 
+ru: (1) 1,1-диэтокси-4,4-диметоксициклогексан (PIN) <br>
+(2) циклогексан-1,4-дион 1,1-диэтил 4,4-диметил дикеталь
+
+@cell
+<$
+@:n(n,a:-80,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-O_(A30)@n(1,-100)/-\@n(4)<_(A-30)O-CH3><_(A30)O-CH3>`/`-`\_(A150)O`-CH3
+$>
+
+en: (1) 1-ethoxy-1,4,4-trimethoxycyclohexane (PIN) <br>
+(2) cyclohexane-1,4-dione 1-ethyl 1,4,4-trimethyl diketal 
+ru: (1) 1-этокси-1,4,4-триметоксициклогексан (PIN) <br>
+(2) циклогексан-1,4-дион 1-этил 1,4,4-триметил дикеталь
+
+@End
+
+#P-66.6.5.1.2
+en: Cyclic acetals and ketals
+ru: Циклические ацетали и кетали
+
+en: Cyclic acetals as the principal function are named as heterocyclic compounds and these names are preferred IUPAC 
+names; cyclic ketals are spiro compounds that are named in accordance with the rules described in Section P-24 giving 
+preferred IUPAC names.
+ru: Циклические ацетали, как основная функциональная группа, именуются как гетероциклические соединения, 
+и эти названия являются предпочтительными названиями по номенклатуре IUPAC; 
+циклические кетали — это спиросоединения, которые именуются в соответствии с правилами, описанными в разделе P-24, 
+содержащем предпочтительные названия по номенклатуре IUPAC.
+
+en: Functional class nomenclature using the name of the appropriate divalent substituent groups may be used in general 
+nomenclature. 
+ru: В общей номенклатуре может использоваться &(functional class nomenclature) с указанием названий соответствующих 
+двухвалентных &(substituent group|ro*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|_pO@n(1,,.55)_p@n(2,-70)<_pO_p>-CH2-CH3
+$>
+
+en: 2-ethyl-1,3-dioxolane (PIN)  <br>
+propanal ethylene acetal 
+ru: 2-этил-1,3-диоксолан (PIN) <br>
+пропаналь этилен ацеталь
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_pO@n(4,90)_p<_pO@n(1)_p>`/`-`\/-\
+$>
+
+en: 1,4-dioxaspiro[4.5]decane (PIN)  <br>
+cyclohexanone ethylene ketal 
+ru: 1,4-диоксаспиро[4.5]декан (PIN) <br>
+циклогексанон этилен кет&(al)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qO@n(3,90)_q@n(2,-70,.45)<_qO@n(1)_q>-CH2-CH2-Si(CH3)3
+$>
+
+en: [2-(1,3-dioxolan-2-yl)ethyl]tri(methyl)silane (PIN)  <br>
+3-(trimethylsilyl)propanal ethylene ketal 
+ru: [2-(1,3-диоксолан-2-ил)этил]три(метил)силан (PIN) <br>
+3-(триметилсилил)пропаналь этилен кет&(al)
+
+@End
+
+
+#P-66.6.5.2
+en: Hemiacetals and hemiketals 
+ru: &(Hemiacetal|*) и &(hemiketal|*)
+
+en: Compounds with the general structure <%a%> have the class name ‘hemiacetals’. They are named 
+substitutively as ‘alkoxy’, ‘alkyloxy’, ‘aryloxy’, etc. derivatives of an appropriate hydroxy parent compound, such as an 
+alcohol; these names are the preferred IUPAC names. Other names are formed by functional class nomenclature using 
+the class name ‘hemiacetal’; similarly derivatives of ketones are denoted by the class name ‘hemiketal’. 
+ru: Соединения с общей структурой <%a%> имеют классовое название «&(hemiacetal|*)». Они называются замещающим образом 
+как «алкокси», «алкилокси», «арилокси» и т. д. — производные соответствующего гидроксильного исходного соединения, 
+например, спирта; эти названия являются предпочтительными названиями по номенклатуре ИЮПАК. Другие названия образуются 
+с помощью &(functional class nomenclature|ro), используя классовое название «&(hemiacetal)»; аналогично производные 
+кетонов обозначаются классовым названием «&(hemiketal)».
+%a: RR′C(OH)(O-R′′)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(4)-CH2@n(3)-CH2@n(2)-CH@n(1,90)<-OH>`|O-CH2-CH3
+$>
+
+en: 1-ethoxybutan-1-ol (PIN)  <br>
+butanal ethyl hemiacetal 
+ru: 1-этоксибутан-1-ол (PIN) <br>
+бутаналь этил &(hemiacetal)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH_(A150)`/`-`\/-\@n(1)_(A30)O-CH3
+$>
+
+en: 1-methoxycyclohexan-1-ol (PIN)  <br>
+cyclohexanone methyl hemiketal 
+ru: 1-метоксициклогексан-1-ол (PIN) <br>
+циклогексанон метил &(hemiketal)
+
+@End
+
+#P-66.6.5.3
+en: Chalcogen analogues of acetals and ketals 
+ru: &(Chalcogen analogue|*) ацеталей и кеталей
+
+en: Sulfur analogues of acetals and ketals with the general structures <%a%>, or <%b%>, have the 
+class names ‘dithioacetals’ or ‘monothioacetals’, respectively. They are named substitutively as ‘alkylsulfanyl’, 
+‘arylsulfanyl’, ‘alkoxy’, or ‘aryloxy’ derivatives, as appropriate, of a parent hydride; these names are preferred IUPAC 
+names. Other names can be generated by functional class nomenclature, using class names such as ‘monothioacetal’ and 
+‘dithioketal’. Capital italic letter locants are used to provide structural specificity. Selenium, tellurium, and mixed 
+chalcogen analogues are treated in the same way as their sulfur analogues.
+ru: Серные аналоги ацеталей и кеталей с общими структурами <%a%> или <%b%> имеют классовые названия «дитиоацетали» или 
+«монотиоацетали» соответственно. Их называют замещающими производными как «алкилсульфанильные», «арилсульфанильные», 
+«алкокси» или «арилокси» производные, в зависимости от ситуации, &(parent hydride|ro); эти названия являются 
+предпочтительными названиями по номенклатуре IUPAC. Другие названия могут быть образованы с помощью 
+&(functional class nomenclature|ro), используя такие классовые названия, как «монотиоацеталь» и «дитиокеталь». 
+Для обеспечения структурной специфичности используются заглавные курсивные буквы-локанты. Аналоги селена, теллура и 
+смешанных халькогенов рассматриваются так же, как и их серные аналоги.
+%a: RR′C(S-R′′)(S-R′′′)
+%b: RR′C(S-R′′)(O-R′′′)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH@n(1)(S-CH3)2
+$>
+
+en: 1,1-bis(methylsulfanyl)pentane (PIN)  <br>
+pentanal dimethyl dithioacetal 
+ru: 1,1-бис(метилсульфанил)пентан (PIN) <br>
+пентаналь диметил дитиоацеталь
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH@n(1,90)<`|O-CH3>-S-CH2-CH3
+$>
+
+en: 1-(ethylsulfanyl)-1-methoxypropane (PIN)  <br>
+propanal _S_-ethyl _O_-methyl monothioacetal
+ru: 1-(этилсульфанил)-1-метоксипропан (PIN) <br>
+пропаналь _S_-этил _O_-метил монотиоацеталь
+
+@cell
+<$
+@:n(n,a:-80,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q<_q_q>@n(1)<_(A-30)O-CH2-CH3>_(A30)S-CH2-CH3
+$>
+
+en: 1-ethoxy-1-(ethylsulfanyl)cyclopentane (PIN)  <br>
+cyclopentanone diethyl monothioketal 
+ru: 1-этокси-1-(этилсульфанил)циклопентан (PIN) <br>
+циклопентанон диэтил монотиокет&(al)
+
+@cell
+<$
+@:n(n,a:-80,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qS@n(3,80)_q<-CH3>@n(2,-70,.4)_qO@n(1)_q
+$>
+
+en: 2-methyl-1,3-oxathiolane (PIN)  <br>
+acetaldehyde ethylene monothioacetal 
+ru: 2-метил-1,3-оксатиолан (PIN) <br>
+ацетальдегид этилен монотиоацеталь
+
+@cell
+<$
+@:n(n,a:-80,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\@n(1)<_(A30)S-CH3>_(A-30)Se-CH2-CH3
+$>
+
+en: 1-(ethylselanyl)-1-(methylsulfanyl)cyclohexane (PIN)  <br>
+cyclohexanone _Se_-ethyl _S_-methyl selenothioketal 
+ru: 1-(этилселанил)-1-(метилсульфанил)циклогексан (PIN) <br>
+циклогексанон _Se_-этил _S_-метил селенотиокеталь
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q_(a0)O@n(1)_p_p_pSe@n(4,90)_p_(a0)_q
+$>
+
+en: 1-oxa-4-selenaspiro[4.4]nonane (PIN)  <br>
+cyclopentanone ethylene monoselenoketal 
+ru: 1-окса-4-селенаспиро[4.4]нонан (PIN) <br>
+циклопентанон этилен моноселенокеталь
+
+@End
+
+#P-66.6.5.4
+en: Chalcogen analogues of hemiacetals and hemiketals 
+ru: &(Chalcogen analogue|*) &(hemiacetal|ro*) и &(hemiketal|ro*)
+
+en: Sulfur analogues of hemiacetals and hemiketals with the general structures <%a%>, <%b%> or 
+<%c%>, have the class names ‘dithiohemiacetals’ or ‘monothiohemiacetals’, respectively. They are named 
+substitutively as ‘alkylsulfanyl’, ‘arylsulfanyl’, ‘alkoxy’, or ‘aryloxy’ derivatives, as appropriate, of a hydroxy parent 
+compound; these are preferred IUPAC names. Other names can be generated by functional class nomenclature. Capital 
+italic letter locants are used to provide structural specificity. Selenium, tellurium, and mixed analogues are treated in the 
+same way as their sulfur analogues; generically, they are ‘monoselenohemiacetals’, ‘ditellurohemiacetals’, 
+‘selenothiohemiacetals’, etc.
+ru: Серные аналоги &(hemiacetal|ro*) и &(hemiketal|ro*) с общими структурами <%a%>, <%b%> или <%c%> имеют классовые названия 
+«дитио&(hemiacetal|*)» или «монотио&(hemiacetal|*)» соответственно. Они &(named substitutively|*) как  «алкилсульфанил», 
+«арилсульфанил», «алкокси» или «арилокси» производные гидроксильного &(parent compound|ro); это предпочтительные названия 
+по номенклатуре IUPAC. Другие названия могут быть получены с помощью &(functional class nomenclature). Для обеспечения 
+структурной специфичности используются заглавные курсивные буквы в качестве локантов. Селеновые, теллуровые и смешанные 
+аналоги рассматриваются так же, как и их серные аналоги; в общем, они называются «моноселено&(hemiacetal|*)», 
+«дителлуро&(hemiacetal|*)», «селенотио&(hemiacetal|*)» и т. д.
+%a: RR′C(SH)(S-R′′)
+%b: RR′C(OH)(S-R′′)
+%c: RR′C(SH)(O-R′′)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH@n(1,90)<-SH>`|S-CH2-CH3
+$>
+
+en: 1-(ethylsulfanyl)propane-1-thiol (PIN)  <br>
+propanal ethyl dithiohemiacetal 
+ru: 1-(этилсульфанил)пропан-1-тиол (PIN) <br>
+пропаналь этил дитио&(hemiacetal)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH@n(1,90)<-SH>`|O-CH2-CH3
+$>
+
+en: 1-ethoxypropane-1-thiol (PIN)  <br>
+propanal _O_-ethyl monothiohemiacetal 
+ru: 1-этоксипропан-1-тиол (PIN) <br>
+пропаналь _O_-этил монотио&(hemiacetal)
+
+@cell
+<$
+@:n(n,a:-80,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_q_q<_q_q>@n(1)<_(A30)SeH>_(A-30)S-CH2-CH3
+$>
+
+en: 1-(ethylsulfanyl)cyclopentane-1-selenol (PIN)  <br>
+cyclopentanone _S_-ethyl selenothiohemiketal 
+ru: 1-(этилсульфанил)циклопентан-1-селенол (PIN) <br>
+циклопентанон _S_-этилселенотио&(hemiketal)
+
+@End

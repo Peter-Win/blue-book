@@ -11,6 +11,9 @@
 
   "additive operation|ro": "аддитивной операции",
 
+  "al": "аль",
+  "al|*": "али",
+
   "amic acid:comment": "Точного перевода найти не удалось. Гугл упрямо подсовывает аминокислоты",
   "amic acid": "амидная кислота",
   "amic acid|ro": "амидной кислоты",
@@ -126,6 +129,7 @@
 
   "carbonic acid": "угольная кислота",
   "carbonic acid|ro": "угольной кислоты",
+  "carbonic acid|da": "угольной кислоте",
   "carbonic acid|tv": "угольной кислотой",
   "carbonic acid|pr": "угольной кислоте",
   "carbonic acid|ro*": "угольных кислот",
@@ -180,6 +184,7 @@
   "citation|pr": "цитировании",
   "citation|da": "цитированию",
   "cite": "цитировать",
+  "cite|self": "цитироваться",
   "cited": "цитируется",
   "cited|p*": "цитируемые",
   "cited|ro": "цитируемого",
@@ -418,6 +423,14 @@
 
   "hantzsch-widman|ro": "Ганча-Видмана",
 
+  "hemiacetal": "полуацеталь",
+  "hemiacetal|*": "полуацетали",
+  "hemiacetal|ro*": "полуацеталей",
+
+  "hemiketal": "полукеталь",
+  "hemiketal|*": "полукетали",
+  "hemiketal|ro*": "полукеталей",
+
   "heterophane parent hydride": "исходный гидрид гетерофана",
   "heterophane parent hydride|ro*": "исходных гидридов гетерофанов",
 
@@ -503,6 +516,8 @@
   "monoester|*": "моноэстеры",
   "monoester|tv*": "моноэстерами",
 
+  "mononuclear [acid]|*": "многоядерные",
+
   "multiparent [system]": "мультиисходная",
   "multiparent [system]|ro": "мультиисходной",
   "multiparent [system]|*": "мультиисходные",
@@ -529,6 +544,8 @@
 
   "multiplicative operation": "мультипликативная операция",
   "multiplicative operation|pr": "мультипликативной операции",
+
+  "named substitutively|*": "именуются при помощи замещения",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
@@ -743,6 +760,7 @@
 
   "polynuclear acid|*": "многоядерные кислоты",
   "polynuclear acid|ro*": "многоядерных кислот",
+  "polynuclear [acid]|*": "многоядерные",
   "polynuclear [acid]|ro*": "многоядерных",
 
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",
@@ -760,6 +778,7 @@
   "preferred suffix": "предпочтительный суффикс",
 
   "preselected name": "предварительно выбранное название",
+  "preselected name|tv*": "предварительно выбранными названиями",
 
   "preselected prefix": "предварительно выбранный префикс",
   "preselected suffix": "предварительно выбранный суффикс",
@@ -901,6 +920,8 @@
 
   "substitution": "замещение",
   "substitution|ro": "замещения",
+  "substitution|da": "замещению",
+  "substitution|vi": "замещение",
   "substitution|tv": "замещением",
   "substitution|pr": "замещении",
 
@@ -947,6 +968,8 @@
   "sulfinic acid|ro": "сульфиновой кислоты",
   "sulfinic acid|*": "сульфиновые кислоты",
   "sulfinic acid|ro*": "сульфиновых кислот",
+  "sulfinic acid|da*": "сульфиновым кислотам",
+  "sulfinic acid|pr*": "сульфиновых кислотах",
   "sulfinic [acid]|ro": "сульфиновой",
   "sulfinic [acid]|*": "сульфиновые",
   "sulfinic [acid]|ro*": "сульфиновых",
@@ -958,9 +981,11 @@
   "sulfonic acid:comment": "Хотя википедии основной вариант - сульфокислоты, но тут выбран вариант 'сульфоновые кислоты', т.к. он единообразен с подобными названиями. И лучше соответствует инфиксам",
   "sulfonic acid": "сульфоновая кислота",
   "sulfonic acid|ro": "сульфоновой кислоты",
+  "sulfonic acid|da": "сульфоновой кислоте",
   "sulfonic acid|*": "сульфоновые кислоты",
   "sulfonic acid|ro*": "сульфоновых кислот",
   "sulfonic acid|da*": "сульфоновым кислотам",
+  "sulfonic acid|pr*": "сульфоновых кислотах",
   "sulfonic [acid]|ro": "сульфоновой",
   "sulfonic [acid]|*": "сульфоновые",
   "sulfonic [acid]|ro*": "сульфоновых",
@@ -980,6 +1005,8 @@
   "telluronic acid": "теллуроновая кислота",
   "telluronic acid|*": "теллуроновые кислоты",
   "telluronic [acid]|*": "теллуроновые",
+
+  "thial": "тиаль",
 
   "thioic [acid]": "тиоевая",
   "thioic acid": "тиоевая кислота",
