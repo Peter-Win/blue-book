@@ -1,8 +1,8 @@
 #P-67
 en: Mononuclear and polynuclear noncarbon acids and their functional replacement analogues as functional 
 parents for naming organic compounds 
-ru: &(Mononuclear [acid]|*) и &(polynuclear [acid]|*) неуглеродные кислоты и их &(functional replacement analogue|*) как &(functional parent|*) 
-для наименования органических соединений
+ru: &(Mononuclear [acid]|*) и &(polynuclear [acid]|*) &(noncarbon [acid]|*) кислоты и их &(functional replacement analogue|*) 
+как &(functional parent|*) для наименования органических соединений
 
 @Content
 
@@ -14,18 +14,940 @@ en: Mono-, di-, and polynuclear noncarbon oxoacids and their chalcogen analogues
 parent structures to generate names of carbon containing compounds. In these recommendations, the names for these 
 compounds are preselected names (see P-12.2) 
 ru: В качестве &(parent structure|ro*) для генерации названий углеродсодержащих соединений используются моно-, ди- и 
-&(polynuclear [acid]|*) неуглеродсодержащие оксокислоты и их &(chalcogen analogue|*), имеющие &(retained name|*). 
+&(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты и их &(chalcogen analogue|*), имеющие &(retained name|*). 
 В данных рекомендациях названия этих соединений являются &(preselected name|tv*) (см. P-12.2).
+
+en: Names of chalcogen analogues of noncarbon oxoacids are formed by functional replacement nomenclature. This type of 
+nomenclature is also used to create derived classes, for example, acid halides and pseudohalides, amides, hydrazides, 
+and amidines. With regard to functional replacement, mono- di- and polynuclear noncarbon acids do not constitute a 
+homogeneous group. Names of mononuclear oxoacids are modified by infixes, with the exception of silicic acid, nitrous 
+acid, nitric acid and the halogen acids. Names of the di- and polynuclear noncarbon oxoacids are modified by prefixes. 
+Functional class nomenclature is used to generate names for esters, organic anhydrides, carbon containing 
+pseudohalides such as cyanides and isocyanates, and organic derivatives of amides, imides, and hydrazides. 
+ru: Названия &(chalcogen analogue|ro*) &(noncarbon [acid]|ro*) оксокислот образуются с помощью &(functional replacement nomenclature|ro). 
+Этот тип номенклатуры также используется для создания производных классов, например, галогенидов и псевдогалогенидов кислот, 
+амидов, гидразидов и амидинов. В отношении функциональной замены моно-, ди- и &(polynuclear [acid]|*) &(noncarbon [acid]|*) 
+кислоты не образуют однородной группы. Названия &(mononuclear [acid]|ro*) оксокислот модифицируются инфиксами, за исключением 
+кремниевой кислоты, азотистой кислоты, азотной кислоты и галогеноводородных кислот. Названия ди- и &(polynuclear [acid]|ro*) 
+&(noncarbon [acid]|ro*) оксокислот модифицируются префиксами. &(Functional class nomenclature) используется для образования 
+названий сложных эфиров, органических ангидридов, углеродсодержащих псевдогалогенидов, таких как цианиды и изоцианаты, 
+а также органических производных амидов, имидов и гидразидов.
+
+en: Mononuclear noncarbon oxoacids are discussed first, then di- and polynuclear noncarbon oxoacids, such as 
+diphosphoric acid, <%a%>, which are named as acids, not as anhydrides, and hypodiphosphoric acid, <%b%>. 
+ru: Сначала рассматриваются &(mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, затем ди- и &(polynuclear [acid]|*) 
+&(noncarbon [acid]|*) оксокислоты, такие как дифосфорная кислота, <%a%>, которые называются кислотами, а не ангидридами, 
+и гиподифосфорная кислота, <%b%>.
+%a: <$(HO)2P(O)-O-P(O)(OH)2$>
+%b: <$(HO)2P(O)-P(O)(OH)2$>
+
+en: Systematization has been achieved, taking into consideration the nomenclature of inorganic compounds (ref. 12), that 
+has restricted the use of retained names and of prefixes such as ‘hypo’, ‘ortho’, ‘iso’ added to the names of mononuclear 
+oxoacids to generate retained names. However, the traditional nomenclature of organic compounds derived from mono-, di-, 
+and polynuclear oxoacids has been maintained. 
+ru: Систематизация была достигнута с учетом номенклатуры неорганических соединений (ссылка 12), что ограничило использование 
+&(retained name|ro*) и префиксов, таких как «гипо», «орто», «изо», добавляемых к названиям &(mononuclear [acid]|ro*) оксокислот 
+для получения &(retained name|ro*). Однако традиционная номенклатура органических соединений, полученных из моно-, ди- и 
+&(polynuclear [acid]|ro*) оксокислот, была сохранена.
+
+en: For carbonic, cyanic, di- and polynuclear carbonic acids, see P-65.2. 
+ru: Для получения информации о &(carbonic [acid]|tv), циановой, ди- и &(polynuclear carbon acid|pr*) см. P-65.2.
 
 #P-67.1
 en: Mononuclear noncarbon oxoacids  
+ru: &(Mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты
+
+en: Retained names for mononuclear noncarbon oxoacids have the following elements as central atoms: N, P, As, Sb, Si, B, 
+S, Se, Te, F, Cl, Br, and I. They are used as parent structures and also for derivation of prefixes to be used in the 
+presence of classes that have seniority for being named as parent compounds. These parent structures have retained 
+names that are traditional names used as preselected names (see P-12.2). They may also have systematic additive or 
+substitutive names, but these names are not recommended for generating preselected names (see IR-8, ref. 12) 
+ru: &(Retained name|*) для &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот имеют в качестве центральных атомов следующие 
+элементы: N, P, As, Sb, Si, B, S, Se, Te, F, Cl, Br и I. Они используются в качестве &(parent structure|ro*), а также для 
+образования префиксов, используемых в присутствии классов, имеющих приоритет в качестве &(parent compound|ro*). 
+Эти &(parent structure|*) имеют &(retained name|*), которые являются традиционными названиями, используемыми в качестве 
+&(preselected name|ro*) (см. P-12.2). Они также могут иметь систематические аддитивные или &(substitutive name|*), но эти 
+названия не рекомендуются для генерации &(preselected name|ro*) (см. IR-8, ссылка 12).
+
+en: Functional replacement nomenclature is discussed first; next the formation of esters and anhydrides using functional 
+class nomenclature; and finally, substitutive nomenclature using prefixes is described. Application of the seniority order 
+of oxoacids and their derivatives, described in Section P-42, is discussed. The Section ends with the nomenclature of 
+_aci_-nitro compounds that are named as derivatives of azinic acid.
+ru: Сначала обсуждается &(functional replacement nomenclature); затем рассматривается образование сложных эфиров и ангидридов 
+с использованием &(functional class nomenclature|ro); и, наконец, описывается &(substitutive nomenclature) с использованием 
+префиксов. Обсуждается применение порядка старшинства оксокислот и их производных, описанного в разделе P-42. 
+Раздел завершается номенклатурой _аци_-нитросоединений, которые именуются как производные азиновой кислоты.
+
+@Content
+
+#P-67.1.1
+en: Names for mononuclear noncarbon oxoacids and their derivatives formed by substitution 
+ru: Названия для &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот и их производных, образованных путем замещения
+
+#P-67.1.1.1
+en: Names of mononuclear noncarbon oxoacids
+ru: Названия &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Preselected names (see P-12.2) of the mononuclear noncarbon oxoacids used for deriving preferred IUPAC names for 
+organic compounds and names for general organic nomenclature are noted in the following list, given in alphabetical 
+order. 
+ru: В следующем списке, приведенном в алфавитном порядке, указаны &(preselected name|*)(см. P-12.2) &(mononuclear [acid]|ro*) 
+&(noncarbon [acid]|ro*) оксокислот, используемые для выведения предпочтительных названий органических соединений 
+по номенклатуре ИЮПАК и названий для общей органической номенклатуры.
+
+// Систематические названия кислот фосфорной группы
+//             ars- арс-      phosph- фосф-      stib- сурьм-
+// H2R(O)(OH)  H2As(O)(OH)    H2P(O)(OH)
+// -inic       arsinic
+// -иновая     арсиновая      фосфиновая         сурьминовая
+//
+// H2R(OH)     H2As(OH)       H2P(OH)
+// -inous      arsinous
+// -инистая    арсинистая     фосфинистая        сурьминистая
+//
+// HR(O)(OH)2  HAs(O)(OH)2
+// -onic       arsonic
+// -оновая     арсоновая      фосфоновая         сурьмоновая
+//
+// HR(OH)2     HAs(OH)2
+// -onous      arsonous
+// -онистая    арсонистая    фосфонистая         сурьмонистая
+//
+// R(O)(OH)3   As(O)(OH)3
+// -oric       arsoric
+// -орная      арсорная      фосфорная           сурьморная
+//
+// R(OH)3      As(OH)3
+// -orous      arsorous
+// -ористая    арсористая    фосфористая         сурьмористая
+
+@Examples 2 -- .cells-align-top .left-aligned-cells
+
+@cell
+<$ H2As(O)(OH) $>
+
+@cell
+en: arsinic acid (preselected name) 
+ru: &(ars-)&(inic [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=6774
+
+@cell
+<$ H2As(OH) $>
+
+@cell
+en: arsinous acid (preselected name) 
+ru: &(ars-)&(inous [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=6775&langMode=all&langs=%2A
+
+@cell
+<$ HAs(O)(OH)2 $>
+
+@cell
+en: arsonic acid (preselected name)
+ru: &(ars-)&(onic [acid]) кислота (&(preselected name))
+
+@cell
+<$ HAs(OH)2 $>
+
+@cell
+en: arsonous acid (preselected name) 
+ru: &(ars-)&(onous [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=6773&langMode=all&langs=%2A
+
+@cell
+<$ As(O)(OH)3 $>
+
+@cell
+en: arsoric acid (preselected name)  <br>
+arsenic acid 
+ru: &(ars-)&(oric [acid]) кислота (&(preselected name)) <br>
+мышьяковая кислота
+// мышьяковая кислота (соли арсенаты) = arsenic acid
+
+@cell colspan=2 .centred
+en: **Note**: Arsoric acid is preferred to arsenic acid as the  <br>
+preselected name for clarity and consistency with phosphoric acid. 
+ru: **Примечание**: Для большей ясности и согласованности с &(phosph-)&(oric [acid]|tv) кислотой в качестве <br>
+&(preselected name|ro) предпочтительнее использовать &(ars-)&(oric [acid]|vi) кислоту, а не мышьяковую кислоту.
+
+@cell
+<$ As(OH)3 $>
+
+@cell
+en: arsorous acid (preselected name) <br>
+(formerly arsen(i)ous acid) 
+ru: &(ars-)&(orous [acid]) кислота (&(preselected name)) <br>
+(ранее ортомышьяковистая кислота)
+
+@cell colspan=2 .centred
+en: **Note**: Arsorous acid is preferred to arsen(i)ous acid as the  <br>
+preselected name for clarity and consistency with phosphorous acid 
+ru: **Примечание**: Для большей ясности и согласованности с &(phosph-)&(orous [acid]|tv) кислотой в качестве <br>
+&(preselected name|ro) предпочтительнее использовать «&(ars-)&(orous [acid]) кислота» <br>
+вместо «ортомышьяковистая кислота»
+
+@cell
+<$ H2N(O)(OH) $>
+
+@cell
+en: azinic acid (preselected name) 
+ru: азиновая кислота (&(preselected name))
+
+@cell
+<$ H2N-OH $>
+
+@cell
+en: azinous acid  <br>
+hydroxylamine (preselected name,  <br>
+for which see P-68.3.1.1.1) 
+ru: аз&(inous [acid]) кислота <br>
+гидроксиламин (предварительно выбранное название, <br>
+см. P-68.3.1.1.1)
+
+@cell
+<$ HN(O)(OH)2 $>
+
+@cell
+en: azonic acid (preselected name) 
+ru: аз&(onic [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=6800 
+
+
+@cell
+<$ HN(OH)2 $>
+
+@cell
+en: azonous acid (preselected name)
+ru: аз&(onous [acid]) кислота (&(preselected name))
+
+@cell
+<$ N(O)(OH)3 $>
+
+@cell
+en: nitroric acid (preselected name) 
+ru: нитрорная кислота (&(preselected name)) <br>
+ортоазотная кислота
+
+@cell
+<$ N(OH)3 $>
+
+@cell
+en: azorous acid (preselected name) 
+ru: аз&(orous [acid]) кислота (&(preselected name))
+
+@cell
+<$ B(OH)3 $>
+
+@cell
+en: boric acid (preselected name)
+ru: борная кислота (&(preselected name))
+
+@cell
+<$ H2B(OH) $>
+
+@cell
+en: borinic acid (preselected name)
+ru: бор&(inic [acid]) кислота (&(preselected name))
+
+@cell
+<$ HB(OH)2 $>
+
+@cell
+en: boronic acid (preselected name)
+ru: бор&(onic [acid]) (&(preselected name))
+
+@cell
+<$ Br(O)2(OH) $>
+
+@cell
+en: bromic acid (preselected name)
+ru: бромноватая кислота  (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=778&langs=%2A
+
+@cell
+<$ Br(O)(OH) $>
+
+@cell
+en: bromous acid (preselected name) 
+ru: бромистая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=6790&langMode=all&langs=%2A
+
+@cell
+<$ Cl(O)2(OH) $>
+
+@cell
+en: chloric acid (preselected name) 
+ru: хлорноватая кислота (&(preselected name))
+
+@cell
+<$ Cl(O)(OH) $>
+
+@cell
+en: chlorous acid (preselected name)
+ru: хлористая кислота (&(preselected name))
+
+@cell
+<$ Br(OH) $>
+
+@cell
+en: hypobromous acid (preselected name)
+ru: бромноватистая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=5590&langMode=all&langs=%2A
+
+@cell
+<$ Cl(OH) $>
+
+@cell
+en: hypochlorous acid (preselected name) 
+ru: хлорноватистая кислота (&(preselected name))
+
+@cell
+<$ F(OH) $>
+
+@cell
+en: hypofluorous acid (preselected name)
+ru: фторноватистая кислота (&(preselected name))
+
+@cell
+<$ I(OH) $>
+
+@cell
+en: hypoiodous acid (preselected name)
+ru: иодноватистая кислота (&(preselected name))
+
+@cell
+<$ I(O)2(OH) $>
+
+@cell
+en: iodic acid (preselected name) 
+ru: иодноватая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=781&langMode=all&langs=%2A
+
+@cell
+<$ I(O)(OH) $>
+
+@cell
+en: iodous acid (preselected name) 
+ru: иодистая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=6799
+
+@cell
+<$ HO-NO2 $>
+
+@cell
+en: nitric acid (preselected name)
+ru: азотная кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=211&langMode=all&langs=%2A
+
+@cell
+<$ HO-NO $>
+
+@cell
+en: nitrous acid (preselected name)
+ru: азотистая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=298&langMode=all&langs=%2A
+
+@cell
+<$ Br(O)3(OH) $>
+
+@cell
+en: perbromic acid (preselected name)
+ru: бромная кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=2932&langMode=all&langs=%2A
+
+@cell
+<$ Cl(O)3(OH)  $>
+
+@cell
+en: perchloric acid (preselected name)
+ru: хлорная кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=383
+
+@cell
+<$ F(O)3(OH) $>
+
+@cell
+en: perfluoric acid (preselected name)
+ru: фторная кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=6786&langMode=all&langs=%2A
+
+@cell
+<$ I(O)3(OH) $>
+
+@cell
+en: periodic acid (preselected name)
+ru: иодная кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=4943
+
+@cell
+<$ H2P(O)(OH) $>
+
+@cell
+en: phosphinic acid (preselected name) 
+ru: &(phosph-)&(inic [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=2560&langMode=all&langs=%2A
+
+@cell
+<$ H2P(OH) $>
+
+@cell
+en: phosphinous acid (preselected name)
+ru: &(phosph-)&(inous [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=6771&langMode=all&langs=%2A
+
+@cell
+<$ HP(O)(OH)2 $>
+
+@cell
+en: phosphonic acid (preselected name) 
+ru: &(phosph-)&(onic [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=655&langMode=all&langs=%2A
+
+@cell
+<$ HP(OH)2 $>
+
+@cell
+en: phosphonous acid (preselected name)
+ru: &(phosph-)&(onous [acid]) кислота (preselected name)
+// http://charchem.org/en/subst-ref/?id=2560&langMode=all&langs=%2A
+// тут получившееся систематическое название "фосфонистая кислота" не соответствует ни одному реальному:
+// Фосфорнова́тистая кислота (гипофосфористая кислота, фосфи́новая кислота)
+// А фосфиновая - это вообще название другого вещества H2P(O)(OH)
+
+@cell
+<$ P(O)(OH)3 $>
+
+@cell
+en: phosphoric acid (preselected name)
+ru: &(phosph-)&(oric [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=245
+
+@cell
+<$ P(OH)3 $>
+
+@cell
+en: phosphorous acid (preselected name)
+ru: &(phosph-)&(orous [acid]) кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=655&langMode=all&langs=%2A
+
+@cell
+<$ Se(O)2(OH)2 $>
+
+@cell
+en: selenic acid (preselected name) 
+ru: селеновая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=670&langMode=all&langs=%2A
+
+@cell
+<$ Se(O)(OH)2 $>
+
+@cell
+en: selenous acid (preselected name) 
+ru: селен&(ous [acid]) (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=673&langMode=all&langs=%2A
+
+@cell
+<$ Si(OH)4 $>
+
+@cell
+en: silicic acid (preselected name)  <br>
+(not orthosilicic acid) 
+ru: кремниевая кислота (&(preselected name)) <br>
+(не ортокремниевая кислота)
+// http://charchem.org/ru/subst-ref/?id=506&langMode=all&langs=%2A
+// забавно, но у меня в справочнике она значилась как ортокремниевая кислота 😂
+// ...хотя, вполне ожидаемо. Т.к. в википедии тоже - https://en.wikipedia.org/wiki/Orthosilicic_acid
+// А кремниевыми называется всё семейство. 
+// но у нас тут не какая-то лженаучная википедия! 🤣
+// однако, вот уж кого трудно было заподозрить в безграмотности, так это справочник ChemSpider
+// но там тоже Orthosilicic acid - https://www.chemspider.com/Chemical-Structure.14236.html 
+
+@cell
+<$ H2Sb(O)(OH) $>
+
+@cell
+en: stibinic acid (preselected name)
+ru: &(stib-)&(inic [acid]) кислота (&(preselected name))
+// тут уже приходится полагаться только на правила генерации систематических названий, т.к. в русскоязычных источниках ничего найти пока не удалось
+
+@cell
+<$ H2Sb(OH) $>
+
+@cell
+en: stibinous acid (preselected name) 
+ru: &(stib-)&(inous [acid]) кислота (&(preselected name))
+
+@cell
+<$HSb(O)(OH)2$>
+
+@cell
+en: stibonic acid (preselected name) 
+ru: &(stib-)&(onic [acid]) кислота (&(preselected name))
+
+@cell
+<$ HSb(OH)2 $>
+
+@cell
+en: stibonous acid (preselected name)
+ru: &(stib-)&(onous [acid]) кислота (&(preselected name))
+
+@cell
+<$ Sb(O)(OH)3 $>
+
+@cell
+en: stiboric acid (preselected name) <br>
+antimonic acid 
+ru: &(stib-)&(oric [acid]) кислота (&(preselected name)) <br>
+сурьмяная кислота
+
+@cell colspan=2 .centred
+en: **Note**: Stiboric acid is preferred to antimonic acid as the  <br>
+preselected name for clarity and consistency with stibonic  <br>
+and with phosphoric and arsoric acid 
+ru: **Примечание**: В целях ясности и согласованности с терминами &(phosph-)&(oric [acid]) <br>
+и &(ars-)&(oric [acid]) кислота название «&(stib-)&(oric [acid]) кислота» предпочтительнее <br>
+в качестве &(preselected name|ro), чем «антимоновая кислота».
+
+@cell
+<$ Sb(OH)3 $>
+
+@cell
+en: stiborous acid (preselected name)  <br>
+antimonous acid 
+ru: &(stib-)&(orous [acid]) кислота (&(preselected name))  <br>
+сурьмянистая кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=4767
+
+@cell colspan=2 .centred
+en: **Note**: Stiborous acid is preferred to antimonous acid as the  <br>
+preselected name for clarity and consistency with stibonic acid  <br>
+and with phosphorous and arsorous acid 
+ru: **Примечание**: Для ясности и согласованности с названиями &(phosph-)&(orous [acid]|ro) и &(ars-)&(orous [acid]|ro) кислот <br>
+в качестве предварительно выбранного названия предпочтительнее использовать <br>
+&(stib-)&(orous [acid]|vi) кислоту вместо сурьмянистой кислоты.
+
+@cell
+<$ S(O)2(OH)2 $>
+
+@cell
+en: sulfuric acid (preselected name)
+ru: серная кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?langs=*&id=50
+
+@cell
+<$ S(O)(OH)2 $>
+
+@cell
+en: sulfurous acid (preselected name) 
+ru: сернистая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=423&langMode=all&langs=%2A
+
+@cell
+<$ Te(O)2(OH)2 $>
+
+@cell
+en: telluric acid (preselected name) 
+ru: теллуровая кислота (&(preselected name))
+// http://charchem.org/ru/subst-ref/?id=2203&langMode=all&langs=%2A
+
+@cell
+<$ Te(O)(OH)2 $>
+
+@cell
+en: tellurous acid (preselected name) 
+ru: теллуристая кислота (&(preselected name))
+
+@End
+
+#P-67.1.1.2+
+en: Substitution of mononuclear noncarbon oxoacids with hydrogen atoms attached to the central atom 
+(substitutable hydrogen) 
+ru: &(Substitution) &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот атомами водорода, присоединенными 
+к центральному атому (&(substitutable hydrogen))
+
+en: Acids with hydrogen atoms attached to the central atom may be substituted by organyl groups and preferred IUPAC 
+names are formed in this manner. 
+ru: Кислоты, в которых атомы водорода присоединены к центральному атому, могут быть замещены органическими группами, 
+и таким образом образуются предпочтительные названия по номенклатуре IUPAC.
+
+en: **Note**: Another method has been suggested which would treat the acid as a suffix (like sulfonic acid) leading to names 
+such as benzenephosphonic acid. This suggestion has been rejected because in cases where the acid has two 
+substitutable hydrogen atoms, the use of additional letter locants would be required leading to unnecessarily more 
+cumbersome names. 
+ru: **Примечание**: Был предложен другой метод, при котором кислота рассматривалась бы как суффикс (например, 
+sulfonic acid), что привело бы к таким названиям, как бензол&(phosph-)&(onic [acid]) кислота. Это предложение было отклонено, 
+поскольку в случаях, когда кислота имеет два замещаемых атома водорода, потребовалось бы использование дополнительных 
+буквенных обозначений, что привело бы к излишне громоздким названиям.
+
+@Examples
+
+@cell
+<$ C2H5-P(O)(OH)2 $>
+
+en: ethylphosphonic acid (PIN)  <br>
+(not ethanephosphonic acid) 
+ru: этил&(phosph-)&(onic [acid]) кислота (PIN) <br>
+(не этан&(phosph-)&(onic [acid]) кислота)
+
+@cell
+<$ (C2H5)2P(O)(OH) $>
+
+en: diethylphosphinic acid (PIN)  <br>
+(not _P_-ethylethanephosphinic acid) 
+ru: диэтил&(phosph-)&(inic [acid]) кислота (PIN) <br>
+(не _P_-этилэтан&(phosph-)&(inic [acid]) кислота)
+
+@cell
+<$ (C6H5)2As(OH) $>
+
+en: diphenylarsinous acid (PIN) 
+ru: дифенил&(ars-)&(inous [acid]) кислота (PIN)
+
+@cell
+<$ C6H5Sb(OH)2 $>
+  
+en: phenylstibonous acid (PIN) 
+ru: фенил&(stib-)&(onous [acid]) кислота (PIN)
+
+@cell
+<$
+(HO)2P/`||/\\|<`//`\>\//`|<`\\`/>/P(OH)2
+$>
+
+en: (naphthalene-2,6-diyl)bis(phosphonous acid) (PIN)  
+ru: (нафталин-2,6-диил)бис(&(phosph-)&(onous [acid]) кислота) (PIN)
+
+@End
+
+
+#P-67.1.2
+en: Functional replacement nomenclature applied to noncarbon oxoacids 
+ru: &(Functional replacement nomenclature), применяемая к &(noncarbon [acid]|da*) оксокислотам
+
+en: Mononuclear noncarbon oxoacids are modified by either infixes or prefixes in functional replacement nomenclature. 
+ru: &(Mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты модифицируются либо инфиксами, либо префиксами 
+в &(functional replacement nomenclature|pr).
+
+@Content
+
+%P-67.1.2.1
+en: Mononuclear acids modified by infixes  
+ru: &(Mononuclear [acid]|*) кислоты, модифицированные инфиксами
+
+#P-67.1.2.1+
+en: Mononuclear noncarbon oxoacids modified by infixes. The following acids are modified by infixes; they are 
+listed in group order <%order%>: 
+ru: &(Mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, модифицированные инфиксами. 
+Следующие кислоты модифицированы инфиксами; они перечислены в порядке групп <%order%>:
+%order: B, N, P, As, Sb, S, Se, Te
+
+@Examples 2 -- .left-aligned-cells
+
+@cell
+<$ B(OH)3 $>
+
+@cell
+en: boric acid
+ru: борная кислота
+// http://charchem.org/ru/subst-ref/?id=343&langMode=all&langs=%2A
+
+@cell
+<$ HB(OH)2 $>
+
+@cell
+en: boronic acid 
+ru: бороновая кислота
+// http://charchem.org/ru/subst-ref/?id=6780&langMode=all&langs=%2A
+
+@cell
+<$ H2B(OH) $>
+
+@cell
+en: borinic acid
+ru: бориновая кислота
+// http://charchem.org/ru/subst-ref/?id=6781&langMode=all&langs=%2A
+
+@cell
+<$ N(O)(OH)3 $>
+
+@cell
+en: nitroric acid (hypothetical)
+ru: нитрорная кислота (гипотетическая)
+
+@cell
+<$ N(OH)3 $>
+
+@cell
+en: azorous acid (hypothetical) 
+ru: аз&(orous [acid]) кислота (гипотетическая)
+
+@cell
+<$ HN(O)(OH)2 $>
+
+@cell
+en: azonic acid
+ru: аз&(onic [acid]) кислота
+// http://charchem.org/ru/subst-ref/?langs=*&id=6800 
+
+@cell
+<$ H2N(O)(OH) $>
+
+@cell
+en: azinic acid
+ru: азиновая кислота
+
+@cell
+<$ HN(OH)2 $>
+
+@cell
+en: azonous acid
+ru: аз&(onous [acid]) кислота 
+
+@cell
+<$ P(O)(OH)3 $>
+
+@cell
+en: phosphoric acid
+ru: &(phosph-)&(oric [acid]) кислота
+
+@cell
+<$ P(OH)3 $>
+
+@cell
+en: phosphorous acid 
+ru: &(phosph-)&(orous [acid]) кислота
+
+@cell
+<$ HP(O)(OH)2 $>
+
+@cell
+en: phosphonic acid
+ru: &(phosph-)&(onic [acid]) кислота
+
+@cell
+<$ HP(OH)2 $>
+
+@cell
+en: phosphonous acid 
+ru: &(phosph-)&(onous [acid]) кислота
+
+@cell
+<$ H2P(O)(OH) $>
+
+@cell
+en: phosphinic acid
+ru: &(phosph-)&(inic [acid]) кислота
+
+@cell
+<$ H2P(OH)  $>
+
+@cell
+en: phosphinous acid 
+ru: &(phosph-)&(inous [acid]) кислота
+
+@cell
+<$ As(O)(OH)3 $>
+
+@cell
+en: arsoric acid (formerly arsenic acid)
+ru: &(ars-)&(oric [acid]) кислота (ранее мышьяковая кислота)
+// http://charchem.org/ru/subst-ref/?id=603&langMode=all&langs=%2A
+
+@cell
+<$ As(OH)3 $>
+
+@cell
+en: arsorous acid (formerly arsen(i)ous acid) 
+ru: &(ars-)&(orous [acid]) кислота (ранее ортомышьяковистая кислота)
+
+@cell
+<$ HAs(O)(OH)2 $>
+
+@cell
+en: arsonic acid 
+ru: &(ars-)&(onic [acid]) кислота
+
+@cell
+<$ HAs(OH)2 $>
+
+@cell
+en: arsonous acid
+ru: &(ars-)&(onous [acid]) кислота
+
+@cell
+<$ H2As(O)(OH) $>
+
+@cell
+en: arsinic acid
+ru: &(ars-)&(inic [acid]) кислота
+
+@cell
+<$ H2As(OH) $>
+
+@cell
+en: arsinous acid
+ru: &(ars-)&(inous [acid]) кислота
+
+@cell
+<$ Sb(O)(OH)3 $>
+
+@cell
+en: stiboric acid (formerly antimonic acid)
+ru: &(stib-)&(oric [acid]) кислота (ранее сурьмяная кислота)
+
+@cell
+<$ Sb(OH)3 $>
+
+@cell
+en: stiborous acid (formerly antimonous acid) 
+ru: &(stib-)&(orous [acid]) кислота (ранее сурьмянистая кислота)
+
+@cell
+<$ HSb(O)(OH)2 $>
+
+@cell
+en: stibonic acid
+ru: &(stib-)&(onic [acid]) кислота
+
+@cell
+<$ HSb(OH)2 $>
+
+@cell
+en: stibonous acid 
+ru: &(stib-)&(onous [acid]) кислота
+
+@cell
+<$ H2Sb(O)(OH) $>
+
+@cell
+en: stibinic acid
+ru: &(stib-)&(inic [acid]) кислота
+
+@cell
+<$ H2Sb(OH) $>
+
+@cell
+en: stibinous acid
+ru: &(stib-)&(inous [acid]) кислота
+
+@cell
+<$ S(O)2(OH)2 $>
+
+@cell
+en: sulfuric acid
+ru: серная кислота
+
+@cell
+<$ S(O)(OH)2 $>
+
+@cell
+en: sulfurous acid
+ru: сернистая кислота
+
+@cell
+<$ Se(O)2(OH)2 $>
+
+@cell
+en: selenic acid 
+ru: селеновая кислота
+
+@cell
+<$ Se(O)(OH)2 $>
+
+@cell
+en: selenous acid 
+ru: селен&(ous [acid]) кислота
+
+@cell
+<$ Te(O)2(OH)2 $>
+
+@cell
+en: telluric acid
+ru: теллуровая кислота 
+
+@cell
+<$ Te(O)(OH)2 $>
+
+@cell
+en: tellurous acid
+ru: теллуристая кислота
+
+@End
+
+
+%P-67.1.2.2
+en: Mononuclear acids modified by prefixes 
+ru: &(Mononuclear [acid]|*) кислоты, модифицированные префиксами
+
+#P-67.1.2.2+
+en: Mononuclear noncarbon oxoacids modified by prefixes. The following acids are modified by prefixes; they 
+are listed in the order <%o%>.
+ru: &(Mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, модифицированные префиксами. Следующие кислоты 
+модифицированы префиксами; они перечислены в порядке <%o%>.
+%o: Si, N, F, Cl, Br, I
+
+@Examples 2 -- .left-aligned-cells
+
+@cell
+<$ Si(OH)4 $>
+
+@cell
+en: silicic acid (formerly orthosilicic acid) 
+ru: кремниевая кислота (ранее ортокремниевая кислота)
+
+@cell
+<$ HO-NO2 $>
+
+@cell
+en: nitric acid
+ru: азотная кислота
+
+@End
+
+#P-67.1.2.3
+en: General methodology for functional replacement nomenclature using infixes 
+ru: Общая методология &(functional replacement nomenclature|ro) с использованием инфиксов.
+
+#P-67.1.2.4
+en: Mononuclear noncarbon oxoacids modified by functional replacement nomenclature 
+ru: &(Mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, модифицированные с помощью 
+&(functional replacement nomenclature|ro)
+
+#P-67.1.2.5
+en: Acid halides and pseudohalides 
+ru: Галогениды и псевдогалогениды кислот
+
+#P-67.1.2.6
+en: Amides and hydrazides
+ru: Амиды и гидразиды
+
+// -----------
+
+#P-67.1.3
+en: Salts, esters, and anhydrides of noncarbon oxoacids  
+ru: Соли, сложные эфиры и ангидриды &(noncarbon [acid]|ro*) оксокислот
+
+#P-67.1.4
+en: Substituent prefix groups derived from mononuclear noncarbon oxoacids 
+ru: Заместительные префиксные группы, полученные из &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+#P-67.1.5
+en: Seniority order among noncarbon oxoacids and derivatives  
+ru: Порядок старшинства среди &(noncarbon [acid]|ro*) оксокислот и их производных
+
+#P-67.1.6
+en: _aci_-Nitro compounds
+ru: _аци_-Нитросоединения
+
+// --------------
 
 #P-67.2
 en: Di- and polynuclear noncarbon oxoacids  
+ru: Ди- и &(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты
 
 #P-67.3
 en: Substitutive names and functional class names of polyacids 
-
+ru: &(Substitutive name|*) и &(functional class name|*) поликислот
 
 //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #P-68

@@ -45,6 +45,8 @@
   "anilic acid|tv*": "аниловыми кислотами",
   "anilic [acid]": "аниловая",
 
+  "ars-": "арс",
+
   "assembly|comment": "по тексту сочетается с прилагательными в женском роде",
   "assembly": "сборка",
   "assembly|ro": "сборки",
@@ -137,6 +139,7 @@
   "carbonic [acid]|ro": "угольной",
   "carbonic [acid]|da": "угольной",
   "carbonic [acid]|vi": "угольную",
+  "carbonic [acid]|tv": "угольной",
 
   "carbonic [amide]": "угольный",
 
@@ -481,6 +484,9 @@
   "indicated hydrogen atom|da*": "атомам указанного водорода",
   "indicated hydrogen atom|tv*": "атомами указанного водорода",
 
+  "inic [acid]": "иновая",
+  "inous [acid]": "инистая",
+
   "interparent component|ro": "промежуточного компонента",
   "interparent component|tv": "промежуточным компонентом",
   "interparent component|*": "промежуточные компоненты",
@@ -516,7 +522,8 @@
   "monoester|*": "моноэстеры",
   "monoester|tv*": "моноэстерами",
 
-  "mononuclear [acid]|*": "многоядерные",
+  "mononuclear [acid]|*": "моноядерные",
+  "mononuclear [acid]|ro*": "моноядерных",
 
   "multiparent [system]": "мультиисходная",
   "multiparent [system]|ro": "мультиисходной",
@@ -547,6 +554,11 @@
 
   "named substitutively|*": "именуются при помощи замещения",
 
+  "noncarbon [acid]": "неуглеродная",
+  "noncarbon [acid]|*": "неуглеродные",
+  "noncarbon [acid]|ro*": "неуглеродных",
+  "noncarbon [acid]|da*": "неуглеродным",
+
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
   "nondetachable [prefix]|ro*": "неотделяемых",
@@ -567,6 +579,9 @@
   "oic anhydride": "овый ангидрид",
   "oic [anhydride]": "овый",
 
+  "onic [acid]": "оновая",
+  "onous [acid]": "онистая",
+
   "organyl group": "органильная группа",
   "organyl group|ro": "органильной группы",
   "organyl group|tv": "органильной группой",
@@ -575,8 +590,19 @@
   "organyl group|ro*": "органильных группп",
   "organyl group|tv*": "органильными групппами",
 
+  "oric [acid]": "орная",
+  "oric [acid]|vi": "орную",
+  "oric [acid]|tv": "орной",
+
+  "orous [acid]": "ористая",
+  "orous [acid]|ro": "ористой",
+  "orous [acid]|tv": "ористой",
+  "orous [acid]|vi": "ористую",
+
   "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
   "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
+
+  "ous [acid]": "истая",
 
   "oxamic acid": "оксамовая кислота",
 
@@ -749,6 +775,8 @@
   "phane system|ro*": "фановых систем",
   "phane system|da*": "фановым системам",
 
+  "phosph-": "фосф",
+
   "polycarbonic acid|tv": "полиугольной кислотой",
   "polycarbonic acid|*": "полиугольные кислоты",
   "polycarbonic acid|ro*": "полиугольных кислот",
@@ -765,6 +793,7 @@
 
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",
   "polynuclear carbon acid|ro*": "многоядерных угольных кислот",
+  "polynuclear carbon acid|pr*": "многоядерных угольных кислотах",
 
   "preferred prefix": "предпочтительный префикс",
   "preferred prefix|ro": "предпочтительного префикса",
@@ -778,6 +807,9 @@
   "preferred suffix": "предпочтительный суффикс",
 
   "preselected name": "предварительно выбранное название",
+  "preselected name|ro": "предварительно выбранного названия",
+  "preselected name|*": "предварительно выбранные названия",
+  "preselected name|ro*": "предварительно выбранных названий",
   "preselected name|tv*": "предварительно выбранными названиями",
 
   "preselected prefix": "предварительно выбранный префикс",
@@ -869,6 +901,8 @@
 
   "spiro system": "спиросистема",
 
+  "stib-": "сурьм",
+
   "subsidiary parent|f": "вторичная исходная",
   "subsidiary parent|f,tv": "вторичной исходной",
 
@@ -917,6 +951,8 @@
   "substituted [substituent]": "замещённый",
   "substituted [substituent]|s": "замещён",
   "substituted [substituent]|*": "замещённые",
+
+  "substitutable hydrogen": "замещаемый водород",
 
   "substitution": "замещение",
   "substitution|ro": "замещения",
