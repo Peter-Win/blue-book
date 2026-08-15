@@ -902,20 +902,1116 @@ ru: кремниевая кислота (ранее ортокремниевая
 en: nitric acid
 ru: азотная кислота
 
+@cell
+<$ HO-NO $>
+
+@cell
+en: nitrous acid
+ru: азотистая кислота
+
+@cell
+<$ F(O)3(OH) $>
+
+@cell
+en: perfluoric acid
+ru: фторная кислота
+
+@cell
+<$ F(O)2(OH) $>
+
+@cell
+en: fluoric acid
+ru: фторноватая кислота
+
+@cell
+<$ F(O)(OH) $>
+
+@cell
+en: fluorous acid
+ru: фтористая кислота
+
+@cell
+<$ F(OH) $>
+
+@cell
+en: hypofluorous acid
+ru: фторноватистая кислота
+
+@cell
+<$ Cl(O)3(OH) $>
+
+@cell
+en: perchloric acid
+ru: хлорная кислота
+
+@cell
+<$ Cl(O)2(OH) $>
+
+@cell
+en: chloric acid
+ru: хлорноватая кислота
+
+@cell
+<$ Cl(O)(OH) $>
+
+@cell
+en: chlorous acid 
+ru: хлористая кислота
+
+@cell
+<$ Cl(OH) $>
+
+@cell
+en: hypochlorous acid
+ru: хлорноватистая кислота
+
+@cell
+<$ Br(O)3(OH) $>
+
+@cell
+en: perbromic acid
+ru: бромная кислота
+
+@cell
+<$ Br(O)2(OH) $>
+
+@cell
+en: bromic acid
+ru: бромноватая кислота
+
+@cell
+<$ Br(O)(OH) $>
+
+@cell
+en: bromous acid
+ru: бромистая кислота
+
+@cell
+<$ Br(OH) $>
+
+@cell
+en: hypobromous acid
+ru: бромноватистая кислота
+
+@cell
+<$ I(O)3(OH)  $>
+
+@cell
+en: periodic acid
+ru: иодная кислота
+
+@cell
+<$ I(O)2(OH) $>
+
+@cell
+en: iodic acid
+ru: иодноватая кислота
+
+@cell
+<$ I(O)(OH) $>
+
+@cell
+en: iodous acid
+ru: иодистая кислота
+
+@cell
+<$ I(OH) $>
+
+@cell
+en: hypoiodous acid 
+ru: иодноватистая кислота 
+
 @End
 
 #P-67.1.2.3
 en: General methodology for functional replacement nomenclature using infixes 
 ru: Общая методология &(functional replacement nomenclature|ro) с использованием инфиксов.
 
+en: Functional replacement nomenclature (see P-15.5) using infixes generates functional class names for the following 
+classes: acid halides and pseudo halides (azides, cyanides, isocyanides, and isocyanates), amides, hydrazides, and also 
+imidic, hydrazonic and nitridic acids. Chalcogen analogues are also described by infixes. 
+ru: &(Functional replacement nomenclature) (см. P-15.5) с использованием инфиксов позволяет создавать 
+&(functional class name|*) для следующих веществ: галогениды кислот и псевдогалогениды (азиды, цианиды, изоцианиды и изоцианаты), 
+амиды, гидразиды, а также имидные, гидразоновые и нитридные кислоты. &(Chalcogen analogue|*) также описываются с помощью инфиксов.
+
+en: **Note**: Preferred IUPAC names are retained names modified by functional nomenclature. The use of infixes is restricted 
+to acids listed in P-67.1.2.1 and leads to preferred IUPAC names. Prefixes are used as recommended for acids listed in 
+P-67.1.2.2, and in general nomenclature for all mononuclear acids. Substitutive names and names modified by prefixes 
+are used only in special occasions (see P-67.1.4.1.1.6 and P-67.3.1). 
+ru: **Примечание**: Предпочтительными названиями по номенклатуре IUPAC являются &(retained name|*), модифицированные 
+&(functional nomenclature|tv). Использование инфиксов ограничено кислотами, перечисленными в P-67.1.2.1, и приводит 
+к предпочтительным названиям по номенклатуре IUPAC. Префиксы используются, как рекомендуется, для кислот, перечисленных 
+в P-67.1.2.2, и в общей номенклатуре для всех &(mononuclear [acid]|ro*) кислот. &(Substitutive name|*) и названия, 
+модифицированные префиксами, используются только в особых случаях (см. P-67.1.4.1.1.6 и P-67.3.1).
+
+@Examples
+
+@cell
+<$ (C6H5)2P-SH $>
+
+en: diphenylphosphinothious acid (PIN)  <br>
+(not diphenylphosphanethiol)  <br>
+[not diphenyl(sulfanyl)phosphane] 
+ru: дифенилфосфинотио&(ous [acid]) кислота (PIN) <br>
+(не дифенилфосфанетиол) <br>
+[не дифенил(сульфанил)фосфан]
+
+@End
+
+#P-67.1.2.3.1+
+en: The following infixes are used to describe the replacement of =O and –OH by chalcogen analogues (in 
+decreasing order of seniority):
+ru: Для описания замены =O и –OH на &(chalcogen analogue|*) (в порядке убывания приоритета) используются следующие инфиксы:
+
+@Examples -- 3 .left-aligned-cells .cells-align-top
+
+@cell
+(1)
+
+@cell
+<$ {}–OO–{} $>
+
+@cell
+en: peroxo
+ru: пероксо
+
+@cell
+(2)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <$ {}–OS–{} $>
+%b: <$ {}–SO–{} $>
+
+@cell
+en: thioperoxo  <br>
+(similarly selenoperoxo, telluroperoxo)
+ru: тиопероксо <br>
+(аналогично селенопероксо, теллуропероксо)
+
+@cell
+(3)
+
+@cell
+<$ {}–SS–{} $>
+
+@cell
+en: dithioperoxo  <br>
+(similarly diselenoperoxo, ditelluroperoxo) 
+ru: дитиопероксо <br>
+(аналогично диселенопероксо, дителлуропероксо)
+
+@cell
+(4)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <${}–SSe–{}$>
+%b: <${}–SeS–{}$>
+
+@cell
+en: selenothioperoxo  <br>
+(similarly for other mixed chalcogens) 
+ru: селенотиопероксо <br>
+(аналогично для других смешанных халькогенов)
+
+@cell
+(5)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <${}–S–{}$>
+%b: <${}=S$>
+
+@cell
+en: thio
+ru: тио
+
+@cell
+(6)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <${}–Se–{}$>
+%b: <${}=Se$>
+
+@cell
+en: seleno
+ru: селено
+
+@cell
+(7)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <${}–Te–{}$>
+%b: <${}=Te$>
+
+@cell
+en: telluro
+ru: теллуро
+
+@End
+
+#P-67.1.2.3.2+
+en: Infixes denoting classes (in decreasing order of seniority except for halides that have the same rank but are 
+cited in alphabetical order and pseudohalides that have the same rank but are cited in alphabetical order) 
+ru: Инфиксы, обозначающие классы (в порядке убывания старшинства, за исключением галогенидов, имеющих одинаковый ранг, 
+но &(cited|ro*) в алфавитном порядке, и псевдогалогенидов, имеющих одинаковый ранг, но &(cited|ro*) в алфавитном порядке).
+
+@Examples -- 3 .left-aligned-cells
+
+@cell
+(1)
+
+@cell
+<${}–Br$>
+
+@cell
+en: bromido
+ru: бромидо
+
+@cell
+
+@cell
+<${}–Cl$>
+
+@cell
+en: chlorido
+ru: хлоридо
+
+@cell
+
+@cell
+<$ {}–F $>
+
+@cell
+en: fluorido
+ru: фторидо
+
+@cell
+
+@cell
+<$ {}–I $>
+
+@cell
+en: iodido
+ru: иодидо
+
+@cell
+(2)
+
+@cell
+<$ {}–N3 $>
+
+@cell
+en: azido
+ru: азидо
+
+@cell
+
+@cell
+<$ {}–OCN $>
+
+@cell
+en: cyanatido
+ru: цианатидо
+
+@cell
+
+@cell
+<$ {}–CN $>
+
+@cell
+en: cyanido
+ru: цианидо
+
+@cell
+
+@cell
+<$ {}–NCO $>
+
+@cell
+en: isocyanatido
+ru: изоцианатидо
+
+@cell
+
+@cell
+<$ {}–NC $>
+
+@cell
+en: isocyanido
+ru: изоцианидо
+
+@cell
+
+@cell
+<$ {}–NCSe $>
+
+@cell
+en: isoselenocyanatido
+ru: изоселеноцианатидо
+
+@cell
+
+@cell
+<$ {}–NCTe $>
+
+@cell
+en: isotellurocyanatido
+ru: изотеллуроцианатидо
+
+@cell
+
+@cell
+<$ {}–NCS $>
+
+@cell
+en: isothiocyanatido
+ru: изотиоцианатидо
+
+@cell
+
+@cell
+<$ {}–SeCN $>
+
+@cell
+en: selenocyanatido
+ru: селеноцианатидо
+
+@cell
+
+@cell
+<$ {}–TeCN $>
+
+@cell
+en: tellurocyanatido 
+ru: теллуроцианатидо
+
+@cell
+
+@cell
+<$ {}–SCN $>
+
+@cell
+en: thiocyanatido
+ru: тиоцианатидо
+
+@cell
+(3)
+
+@cell
+<$ {}–NH2 $>
+
+@cell
+en: amido
+ru: амидо
+
+@cell
+(4)
+
+@cell
+<$ {}–NH-NH2 $>
+
+@cell
+en: hydrazido 
+ru: гидразидо
+
+@cell
+(5)
+
+@cell
+<$ {}≡N $>
+
+@cell
+en: nitrido 
+ru: нитридо
+
+@cell
+(6)
+
+@cell
+<$ {}=NH $>
+
+@cell
+en: imido 
+ru: имидо
+
+@cell
+(7)
+
+@cell
+<$ {}=NNH2 $>
+
+@cell
+en: hydrazono
+ru: гидразоно
+
+@End
+
+#P-67.1.2.3.3+
+en: Prefixes denoting chalcogen analogues of acids by replacing oxygen atoms (in decreasing order of seniority): 
+ru: Приставки, обозначающие &(chalcogen analogue|*) кислот путем замены атомов кислорода (в порядке убывания приоритета):
+
+@Examples 3 -- .left-aligned-cells .cells-align-top
+
+@cell
+(1) 
+
+@cell
+<$ {}–OO–{} $>
+
+@cell
+en: peroxo 
+ru: пероксо
+
+@cell
+(2)
+
+@cell
+en: <%a%> or <%b%> 
+ru: <%a%> или <%b%>
+%a: <$ {}–OS–{} $>
+%b: <$ {}–SO–{} $>
+
+@cell
+en: thioperoxy  <br>
+(similarly selenoperoxy, telluroperoxy) 
+ru: тиоперокси <br>
+(аналогично селеноперокси, теллуроперокси)
+
+@cell
+(3)
+
+@cell
+<$ {}–SS–{} $> 
+
+@cell
+en: dithioperoxy  <br>
+(similarly diselenoperoxy, ditelluroperoxy) 
+ru: дитиоперокси <br>
+(аналогично диселеноперокси, дителлуроперокси)
+
+@cell
+(4)
+
+@cell
+en: <%a%> or <%b%> 
+ru: <%a%> или <%b%> 
+%a: <$ {}–SSe–{} $>
+%b: <$ {}–SeS–{} $>
+ 
+@cell
+en: selenothioperoxy  <br>
+(similarly for other mixed chalcogens) 
+ru: селенотиоперокси <br>
+(аналогично для других смешанных халькогенов)
+
+@cell
+(5)
+
+@cell
+en: <%a%> or <%b%> 
+ru: <%a%> или <%b%> 
+%a: <${}–S–{}$>
+%b: <${}=S$>
+
+@cell
+en: thio
+ru: тио
+
+@cell
+(6)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%> 
+%a: <$ {}–Se–{} $>
+%b: <$ {}=Se $>
+
+@cell
+en: seleno
+ru: селено
+
+@cell
+(7)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%> 
+%a: <$ {}–Te–{} $>  
+%b: <$ {}=Te $>
+
+@cell
+en: telluro
+ru: теллуро
+
+@End
+
+#P-67.1.2.3.4+
+en: Prefixes denoting classes (in decreasing order of seniority except for halides that have the same rank but 
+are cited in alphabetical order and pseudohalides that have the same rank but are cited in alphabetical order). 
+ru: Префиксы, обозначающие классы (в порядке убывания старшинства, за исключением галогенидов, имеющих одинаковый ранг, 
+но &(cited|ro*) в алфавитном порядке, и псевдогалогенидов, имеющих одинаковый ранг, но &(cited|ro*) в алфавитном порядке).
+
+@Examples 3 -- .left-aligned-cells .cells-align-top
+
+@cell
+(1)
+
+@cell
+<$ {}–Br $>
+
+@cell
+en: bromo
+ru: бромо
+
+@cell
+
+@cell
+<$ {}–Cl $>
+
+@cell
+en: chloro
+ru: хлоро
+
+@cell
+
+@cell
+<$ {}–F $>
+
+@cell
+en: fluoro
+ru: фторо
+
+@cell
+
+@cell
+<$ {}–I $>
+
+@cell
+en: iodo
+ru: иодо
+
+@cell
+(2)
+
+@cell
+<$ {}–N3 $>
+
+@cell
+en: azido
+ru: азидо
+
+@cell
+
+@cell
+<$ {}–OCN $>
+
+@cell
+en: cyanato
+ru: цианато
+
+@cell
+
+@cell
+<$ {}–CN $> 
+
+@cell
+en: cyano
+ru: циано
+
+@cell
+
+@cell
+<$ {}–NCO $>
+
+@cell
+en: isocyanato
+ru: изоцианато
+
+@cell
+
+@cell
+<$ {}–NC $>
+
+@cell
+en: isocyano
+ru: изоциано
+
+@cell
+
+@cell
+<$ {}–NCSe $>
+
+@cell
+en: isoselenocyanato
+ru: изоселеноцианато
+
+@cell
+
+@cell
+<$ {}–NCTe $> 
+
+@cell
+en: isotellurocyanato 
+ru: изотеллуроцианато
+
+@cell
+
+@cell
+<$ {}–NCS $>
+
+@cell
+en: isothiocyanato
+ru: изотиоцианато
+
+@cell
+
+@cell
+<$ {}–SeCN $>
+
+@cell
+en: selenocyanato
+ru: селеноцианато
+
+@cell
+
+@cell
+<$ {}–TeCN $>
+
+@cell
+en: tellurocyanato 
+ru: теллуроцианато
+
+@cell
+
+@cell
+<$ {}–SCN $>
+
+@cell
+en: thiocyanato
+ru: тиоцианато 
+
+// Номера (3) нет в исходной документации! если сравнивать с P-67.1.2.3.2, то должны быть амиды.
+
+@cell
+(4)
+
+@cell
+<$ {}–NH-NH2 $>
+
+@cell
+en: hydrazido
+ru: гидразидо
+
+@cell
+(5)
+
+@cell
+<$ {}≡N $>
+
+@cell
+en: nitrido
+ru: нитридо 
+
+@cell
+(6)
+
+@cell
+<$ {}=NH $>
+
+@cell
+en: imido
+ru: имидо 
+
+@cell
+(7)
+
+@cell
+<$ {}=NNH2 $>
+
+@cell
+en: hydrazono
+ru: гидразоно
+
+@End
+
+#P-67.1.2.3.5+
+en: The appropriate infix is indicated (in alphabetical order if more than one) before the ‘ic acid’ or ‘ous acid’ 
+ending in the parent name, with elision of the letter ‘o’ before a vowel, with the exception of the infixes ‘thio’, ‘seleno’, 
+‘telluro’ and ‘peroxo’ which are cited as such, with no elision of the letter ‘o’, before the ‘ic ending’. An euphonic letter 
+‘o’ also may be added when necessary. Multiplying an infix by multiplying prefixes ‘di’ or ‘tri’ does not change its 
+place in the alphabetical order. 
+ru: Соответствующий инфикс указывается (в алфавитном порядке, если их несколько) перед окончанием «&(ic acid)» или 
+«&(ous acid)» в основном названии, с опущением буквы «о» перед гласной, за исключением инфиксов «тио», «селено», 
+«теллуро» и «пероксо», которые указываются без опущения буквы «о» перед окончанием «&(ic [acid])». При необходимости может 
+быть добавлена ​​также эвфоническая буква «о». Умножение инфикса на умножение префиксов «ди» или «три» не меняет его место 
+в алфавитном порядке.
+
+en: The appropriate prefix is indicated (in alphabetical order if there is more than one) before the name of the acid; no 
+elision is recommended. Multiplying a prefix by multiplying prefixes ‘di’ or ‘tri’ does not change its place in the 
+alphabetical order.
+ru: Соответствующий префикс указывается (в алфавитном порядке, если их несколько) перед названием кислоты; опущение 
+не рекомендуется. Умножение префикса при помощи умножающих префиксов «ди» или «три» не меняет его место в алфавитном порядке.
+
+
 #P-67.1.2.4
 en: Mononuclear noncarbon oxoacids modified by functional replacement nomenclature 
 ru: &(Mononuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, модифицированные с помощью 
 &(functional replacement nomenclature|ro)
 
+en: Preselected names described in P-67.1.2 are used for deriving preferred IUPAC names for organic compounds. As long 
+as there is at least one –OH group left in an oxoacid having a retained name, the acid modified by functional 
+replacement is classified as an acid and denoted by class name ‘acid’. 
+ru: Для получения предпочтительных названий органических соединений по номенклатуре ИЮПАК используются 
+&(preselected name|*), описанные в пункте P-67.1.2. До тех пор, пока в оксокислоте с &(retained name|tv) остается хотя бы 
+одна группа –OH, кислота, модифицированная путем функционального замещения, классифицируется как кислота и 
+обозначается названием класса «кислота».
+
+#P-67.1.2.4.1+
+en: Functional replacement of the oxoacids specifically listed in P-67.1.2 is expressed by infixes or prefixes. 
+Substitution of nonacidic hydrogen atoms is indicated by prefixes, with a letter locant B, N, P, As or Sb, as needed. 
+Tautomers may be distinguished by prefixing italic elements symbols, such as S and O, to the term ‘acid’. Parentheses 
+are needed to enclose infixes modified by a chalcogen prefix, for example, ‘thioperoxoic’. In addition to infixes and 
+prefixes listed in P-67.1.2.3, the prefix ‘cyanato’ and the infix ‘cyanatido’, for –OCN, are used to modify acids as 
+indicated in P-67.1.2.4.1.3. 
+ru: &(Functional replacement) оксокислот, указанных в пункте P-67.1.2, обозначается инфиксами или префиксами. 
+&(Substitution) некислотных атомов водорода обозначается префиксами с буквенным обозначением B, N, P, As или Sb, 
+в зависимости от необходимости. Таутомеры можно различать, добавляя к термину «кислота» символы элементов, выделенные курсивом, 
+такие как S и O. Скобки необходимы для заключения инфиксов, модифицированных префиксом халькогена, например, «тиопероксоевая». 
+В дополнение к инфиксам и префиксам, перечисленным в пункте P-67.1.2.3, для модификации кислот используются префикс «цианато» 
+и инфикс «цианатидо» для –OCN, как указано в пункте P-67.1.2.4.1.3.
+
+#P-67.1.2.4.1.1+
+en: Examples of mononuclear noncarbon oxoacids modified by infixes: 
+ru: Примеры &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот, модифицированных инфиксами:
+
+@Examples --
+
+@cell
+<$ CH3-B(OH)(SH) $>
+
+en: methylboronothioic acid (PIN)
+ru: метилбороно&(thioic acid) (PIN)
+
+@cell
+<$ CH3-B(NH-CH3)(OH) $>
+
+en: _B_,_N_-dimethylboronamidic acid (PIN)
+ru: _B_,_N_-диметилборонамидная кислота (PIN) 
+
+@cell
+<$ CH3-N(OH)(SH) $>
+
+en: methylazonothious acid (PIN)
+ru: метилазонотио&(ous acid) (PIN) 
+
+@cell
+<$ (C2H5)2P(S)(SH) $>
+
+en: diethylphosphinodithioic acid (PIN)  
+ru: диэтилфосфиноди&(thioic acid) (PIN)
+
+@cell
+<$ (CH3)2N-P(O)(OH)2 $>
+  
+en: _N_,_N_-dimethylphosphoramidic acid (PIN)  
+ru: _N_,_N_-диметилфосфорамидная кислота (PIN)
+
+@cell
+<$ (C6H5)2P(=N-CH3)(OH) $>
+
+en: _N_-methyl-_P_,_P_-diphenylphosphinimidic acid (PIN)
+ru: _N_-метил-_P_,_P_-дифенилфосфинимидная кислота (PIN) 
+
+@cell
+<$ C6H5-P(=N-C6H5)(Cl)(SH) $>
+
+en: _N_,_P_-diphenylphosphonochloridimidothioic acid (PIN)  
+ru: _N_,_P_-дифенилфосфонохлоридимидо&(thioic acid) (PIN)
+
+@cell
+<$ C6H5-P(S)(NH-CH3)(OH) $>
+
+en: _N_-methyl-_P_-phenylphosphonamidothioic _O_-acid (PIN)  
+ru: _N_-метил-_P_-фенилфосфонамидо&(thioic [acid]) _O_-кислота (PIN)
+
+@cell
+<$ (CH3)2N-P(O)(NCS)(SH) $>
+
+en: _N_,_N_-dimethylphosphoramid(isothiocyanatido)thioic _S_-acid (PIN)  
+ru: _N_,_N_-диметилфосфорамид(изотиоцианатидо)&(thioic [acid]) _S_-кислота (PIN)
+
+@cell
+<$ (CH3)2N-P(=N-C6H5)(SCN)(OH) $>
+
+en: _N_,_N_-dimethyl-_N_′-phenylphosphoramidimido(thiocyanatidic) acid (PIN)  
+ru: _N_,_N_-диметил-_N_′-фенилфосфорамимидимо(тио&(cyanatidic [acid])) кислота (PIN)
+
+@cell
+<$ C6H5-P(OH)(SH) $>
+
+en: phenylphosphonothious acid (PIN)  
+ru: фенилфосфонотио&(ous acid) (PIN)
+
+@cell
+<$ C6H5-P(≡N)(OH) $>
+
+en: phenylphosphononitridic acid (PIN) 
+ru: фенилфосфононитридная кислота (PIN)
+
+@cell
+<$ C6H5-P(O)(Cl)(OH) $>
+
+en: phenylphosphonochloridic acid (PIN)  
+ru: фенилфосфонохлоридная кислота (PIN)
+
+@cell
+<$ CH3-CH2-P(Se)(OH)2 $>
+  
+en: ethylphosphonoselenoic _O_,_O_-acid (PIN)  
+ru: этилфосфоно&(selenoic [acid]) _O_,_O_-кислота (PIN)
+
+@cell
+<$ CH3-CH2-P(O)(OH)(SeH) $>
+
+en: ethylphosphonoselenoic _Se_-acid (PIN) 
+ru: этилфосфоно&(selenoic [acid]) _Se_-кислота (PIN)
+
+@cell
+<$ P(=NH)(NH-NH2)(OH)2 $>
+  
+en: phosphorohydrazidimidic acid  <br>
+(name derived from the preselected name phosphoric acid)  
+ru: фосфорогидразидимидная кислота <br>
+(название образовано от &(preselected name|ro) фосфорной кислоты)
+
+@cell
+<$ P(O)(OH)(SH)(SSH) $>
+
+en: phosphoro(dithioperoxo)thioic _S_-acid  <br>
+(name derived from the preselected name phosphoric acid)  
+ru: фосфоро(дитиопероксо)&(thioic [acid]) _S_-кислота <br>
+(название образовано от &(preselected name|ro) фосфорной кислоты)
+
+@cell
+<$ P(O)(OH)2(OSH) $>
+
+en: phosphoro(thioperoxoic) _OS_-acid  <br>
+(name derived from the preselected name phosophoric acid)
+ru: фосфоро(тиопероксоевая) _OS_-кислота <br>
+(название образовано от &(preselected name|ro) фосфорной кислоты)
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <$ As(O)(OH)(SH)2 $>
+%b: <$ As(S)(OH)2(SH) $>
+
+en: arsorodithioic acid  <br>
+(name derived from the preselected name arsoric acid)  
+ru: арсороди&(thioic acid)  <br>
+(название образовано от &(preselected name|ro) &(ars-)&(oric [acid]|ro) кислоты)
+
+@cell
+<$ As(S)(OH)3 $>
+  
+en: arsorothioic _O_,_O_,_O_-acid  <br>
+(name derived from the preselected name arsoric acid)  
+ru: арсоро&(thioic [acid]) _O_,_O_,_O_-кислота  <br>
+(название образовано от &(preselected name|ro) &(ars-)&(oric [acid]|ro) кислоты)
+
+@cell
+<$ (C6H5)2As(SH) $>
+
+en: diphenylarsinothious acid (PIN) 
+ru: дифениларсинотио&(ous acid) (PIN) 
+
+@cell
+<$ HO-SO2-SH $>
+
+en: sulfurothioic _S_-acid  <br>
+(name derived from the preselected name sulfuric acid)  
+ru: &(sulfuro-)&(thioic [acid]) _S_-кислота <br>
+(название образовано от &(preselected name|ro) серной кислоты)
+
+@cell
+<$ H2N-SO2-OH  $>
+
+en: sulfamic acid  <br>
+(name derived from the preselected name sulfuric acid; contraction of sulfuramidic acid)  
+ru: &(sulf-)&(amic acid) <br>
+(название образовано от &(preselected name|ro) серной кислоты)
+// http://charchem.org/ru/subst-ref/?id=6801
+// в русских источниках известна как Аминосульфоновая кислота, Сульфаминовая кислота или амидосерная кислота
+// но гугловый ИИ такое название опознал правильно
+
+@cell
+<$ H2S2O3 $>
+  
+en: sulfurothioic acid  <br>
+(name derived from the preselected name sulfuric acid; the position of the sulfur atom is undetermined) 
+ru: &(sulfuro-)&(thioic acid) <br>
+(название образовано от &(preselected name|ro) серной кислоты; положение атома серы не определено)
+// гугловый ИИ не точно опознал данное название. Т.е. вероятно тиосерную кислоту (H₂S₂O₃), либо серную (H₂SO₄), либо сернистую (H₂SO₃)
+
+@cell
+<$ HO-SO2-NC $>
+
+en: sulfurisocyanidic acid (PIN)
+ru: &(sulfuro-)изоцианидная кислота (PIN)
+
+@cell
+<$ HO-SO2-NCS $>
+
+en: sulfur(isothiocyanatidic) acid (PIN)  
+ru: &(sulfuro-)(изотио&(cyanatidic [acid])) кислота (PIN)
+
+@cell
+<$ HO-SO2-CN $>
+
+en: sulfurocyanidic acid (PIN) 
+ru: &(sulfuro-)цианидная кислота (PIN)
+// Данное название гугловый ИИ опознал неправильно. Он думает что:
+// "Серноцианидная (более известная как тиоциановая или роданистоводородная) кислота — это неорганическое соединение с формулой HSCN (или HNCS)."
+// Хотя ту же ошибку он допустил и с английским названием:
+// "Sulfurocyanidic acid (also known as thiocyanic acid or hydrosulfocyanic acid) has the chemical formula HSCN or HNCS."
+// Впрочем, это английское название не удалось найти даже в справочниках. Спидер вообще не нашёл совпадений. Пабкем нашел Sulfurocyanidous acid, что является другим соединением.
+// Так что больше похоже на то, что новая номенклатура пока ещё не прижилась
+
+@cell
+<$ HS-SO2-NH2 $>
+  
+en: sulfamothioic _S_-acid  <br>
+(name derived from the preselected name sulfuric acid; a contraction of sulfuramidothioic _S_-acid)  
+ru: &(sulf-)амо&(thioic [acid]) _S_-кислота <br>
+(название образовано от &(preselected name|ro) серная кислота)
+
+@cell
+<$ HS-TeO2-NH2 $>
+  
+en: telluramidothioic acid  <br>
+(name derived from the preselected name telluric acid) 
+ru: теллурамидо&(thioic acid) <br>
+(название образовано от &(preselected name|ro) теллуровая кислота)
+
+@End
+
+#P-67.1.2.4.1.2+
+en: Examples of mononuclear noncarbon oxoacids modified by prefixes:
+ru: Примеры &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот, модифицированных префиксами:
+
+@Examples --
+
+@cell
+<$ Si(OH)3(SH) $>
+
+en: thiosilicic acid  <br>
+(name derived from the preselected name silicic acid) 
+ru: тиокремниевая кислота <br>
+(название образовано от &(preselected name|ro) кремниевая кислота)
+
+@cell
+<$ S=N-OH $>
+
+en: thionitrous _O_-acid  <br>
+(name derived from the preselected name nitrous acid) 
+ru: тиоазотистая _O_-кислота <br>
+(название образовано от &(preselected name|ro) азотистая кислота)
+
+@cell
+<$ Cl(S)2-OH $>
+
+en: dithiochloric _O_-acid  <br>
+(name derived from the preselected name chloric acid) 
+ru: дитиохлорноватая кислота <br>
+(название образовано от &(preselected name|ro) хлорноватая кислота)
+
+@End
+
+#P-67.1.2.4.1.3
+en: Specific use of the prefix ‘cyanato’ and the infix ‘cyanatido’
+ru: Особенности использования префикса «цианато» и инфикса «цианатидо»
+
+en: When attached to the central atom of a mononuclear noncarbon oxoacid, the group <%a%> creates an anhydride linkage 
+(see P-67.1.3.3). In order to respect the seniority order classes, this group is used, therefore, in functional replacement 
+nomenclature to name acids; acids are senior to anhydrides. For the prefixes ‘cyanato’, ‘thiocyanato’, ‘selenocyanato’ 
+and ‘tellurocyanato’, see P-65.2.2. 
+ru: При присоединении к центральному атому &(mononuclear [acid]|ro) &(noncarbon [acid]|ro) оксокислоты группа <%a%> образует 
+ангидридную связь (см. P-67.1.3.3). Поэтому, в соответствии с правилами старшинства классов соединений, эта группа 
+используется в &(functional replacement nomenclature|pr) для наименования кислот, так как кислоты имеют приоритет перед 
+ангидридами. Сведения о префиксах «цианато-», «тиоцианато-», «селеноцианато-» и «теллуроцианато-» см. в разделе P-65.2.2.
+%a: <${}–OCN$>
+
+@Examples
+
+@cell
+<$ CH3-P(O)(OCN)OH $>
+
+en: methylphosphonocyanatidic acid (PIN)
+ru: метилфосфоно&(cyanatidic acid) (PIN)
+
+@cell
+<$ P(O)(OCN)2OH $>
+
+en: phosphorodicyanatidic acid (PIN)  
+ru: фосфороди&(cyanatidic acid) (PIN)
+
+@cell
+<$ Si(OCN)(OH)3 $>
+  
+en: cyanatosilicic acid (PIN) 
+ru: цианатокремниевая кислота (PIN)
+
+@End
+
+#P-67.1.2.4.2
+en: Name construction guidelines for functional replacement nomenclature. 
+ru: Рекомендации по формированию наименований для &(functional replacement nomenclature|ro).
+
+en: The names phosphonous, phosphinous, phosphonic and phosphinic acid (and similarly for arsenic, antimony and 
+nitrogen acids) can only be used when P, As or Sb is attached to atoms of hydrogen, carbon or another atom of a parent 
+hydride such as N, As, Si. Thus, <%a%> is phenylphosphonochloridic acid and not chloro(phenyl)phosphinic 
+acid; <%b%> is (piperidin-1-yl)phosphonochloridic acid and not chloro(piperidin-1-yl)phosphinic acid; 
+and <%c%> is phosphorochloridic acid and not chlorophosphonic acid.
+ru: Названия &(phosph-)&(onous [acid]), &(phosph-)&(inous [acid]), &(phosph-)&(onic [acid]) и &(phosph-)&(inic [acid]) 
+кислоты (а также аналогичные названия для 
+кислот мышьяка, сурьмы и азота) могут использоваться только в том случае, если атом P, As или Sb связан с атомом водорода, 
+углерода или другим атомом &(parent hydride|ro) (например, N, As, Si). Так, <%a%> — это фенилфосфоно&(chloridic acid), 
+а не хлор(фенил)фосфиновая кислота; <%b%> — это (пиперидин-1-ил)фосфоно&(chloridic acid), а не хлор(пиперидин-1-ил)фосфиновая 
+кислота; а <%c%> — это фосфоро&(chloridic acid), а не хлорфосфоновая кислота.
+%a: <$ C6H5-P(O)Cl(OH) $>
+%b: <$ (C5H10N)-P(O)Cl(OH) $>
+%c: <$ ClP(O)(OH)2 $>
+
 #P-67.1.2.5
 en: Acid halides and pseudohalides 
 ru: Галогениды и псевдогалогениды кислот
+
+#P-67.1.2.5.1+
+en: Except for the boron acids and silicic acid, preferred IUPAC names of acid halides and pseudohalides are 
+formed by adding the class name(s) of a halide or pseudohalide to that of the acid. Exceptionally, in accordance with 
+tradition and the recommended nomenclature of inorganic compounds (ref. 12), halides and pseudohalides with 
+identical atoms or groups and derived from phosphoric acid, sulfuric acid, selenic acid and telluric acid are named by 
+adding the class name(s) to the acyl group name ‘phosphoryl’, ‘sulfuryl’, ‘sulfamoyl’, ‘selenonyl’ and ‘telluronyl’, and 
+not to the name of the acid itself. In accordance with the seniority order of halides and pseudohalides, names are formed 
+on the basis of the senior class, as described in P-67.1.2.1.
+ru: За исключением борсодержащих кислот и кремниевой кислоты, предпочтительные названия галогенидов и псевдогалогенидов 
+кислот по номенклатуре ИЮПАК образуются путем добавления названия(й) класса галогенида или псевдогалогенида к названию кислоты. 
+В исключительных случаях, в соответствии с традицией и рекомендуемой номенклатурой неорганических соединений (ссылка 12), 
+галогениды и псевдогалогениды с идентичными атомами или группами, полученные из фосфорной кислоты, серной кислоты, селеновой 
+кислоты и теллуровой кислоты, называются путем добавления названия(й) класса к названию ацильной группы «фосфорил», «сульфурил», 
+«сульфамоил», «селенонил» и «теллуронил», а не к названию самой кислоты. В соответствии с порядком старшинства галогенидов и 
+псевдогалогенидов, названия образуются на основе старшего класса, как описано в P-67.1.2.1.
+
+// ----
 
 #P-67.1.2.6
 en: Amides and hydrazides

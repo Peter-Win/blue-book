@@ -182,6 +182,9 @@
   "characteristic group|da*": "характеристическим группам",
   "characteristic group|tv*": "характеристическими группами",
 
+  "chloridic acid:comment": "суффикс. русских аналогов не найдено.",
+  "chloridic acid": "хлоридная кислота",
+
   "citation": "цитирование",
   "citation|ro": "цитирования",
   "citation|pr": "цитировании",
@@ -274,6 +277,9 @@
   "cumulative suffix": "кумулятивный суффикс",
   "cumulative suffix|*": "кумулятивные суффиксы",
 
+  "cyanatidic acid": "цианатидная кислота",
+  "cyanatidic [acid]": "цианатидная",
+
   "cyclophane": "циклофан",
   "cyclophane|ro": "циклофана",
   "cyclophane|*": "циклофаны",
@@ -329,6 +335,9 @@
   "functional class nomenclature|vi": "номенклатуру функциональных классов",
   "functional class nomenclature|tv": "номенклатурой функциональных классов",
   "functional class nomenclature|pr": "номенклатуре функциональных классов",
+
+  "functional nomenclature": "функциональная номенклатура",
+  "functional nomenclature|tv": "функциональной номенклатурой",
 
   "functional parent": "функциональный родитель",
   "functional parent|*": "функциональные родители",
@@ -523,6 +532,7 @@
   "monoester|tv*": "моноэстерами",
 
   "mononuclear [acid]|*": "моноядерные",
+  "mononuclear [acid]|ro": "моноядерной",
   "mononuclear [acid]|ro*": "моноядерных",
 
   "multiparent [system]": "мультиисходная",
@@ -556,6 +566,7 @@
 
   "noncarbon [acid]": "неуглеродная",
   "noncarbon [acid]|*": "неуглеродные",
+  "noncarbon [acid]|ro": "неуглеродной",
   "noncarbon [acid]|ro*": "неуглеродных",
   "noncarbon [acid]|da*": "неуглеродным",
 
@@ -591,6 +602,7 @@
   "organyl group|tv*": "органильными групппами",
 
   "oric [acid]": "орная",
+  "oric [acid]|ro": "орной",
   "oric [acid]|vi": "орную",
   "oric [acid]|tv": "орной",
 
@@ -603,6 +615,7 @@
   "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
 
   "ous [acid]": "истая",
+  "ous acid": "истая кислота",
 
   "oxamic acid": "оксамовая кислота",
 
@@ -992,6 +1005,11 @@
 
   "substitution pattern": "шаблон замещения",
   "substitution pattern|ro*": "шаблонов замещения",
+
+  "sulfuro-:comment": "серная кислота с замещённой OH-группой. правила предписывают использовать именно название серной кислоты, но среди реальных названий такие не попадаются",
+  "sulfuro-": "серно",
+  "sulf-:comment": "в англ. языке особый случай для sulfamic acid. есть шанс, что в русском тоже может отличаться",
+  "sulf-": "серно",
 
   "sulfenic acid": "сульфеновая кислота",
 

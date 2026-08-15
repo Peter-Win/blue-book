@@ -346,7 +346,7 @@ en: carbonazidic acid (PIN)
 <$ SCN-CO-OH $>
 
 en: carbonisothiocyanatidic acid (PIN) 
-ru: карбонизотиоцианатидная кислота (PIN)
+ru: карбонизотио&(cyanatidic acid) (PIN)
 
 @cell
 <$ H2N-NH-CO-OH $>
