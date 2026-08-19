@@ -2011,21 +2011,1023 @@ ru: За исключением борсодержащих кислот и кр�
 «сульфамоил», «селенонил» и «теллуронил», а не к названию самой кислоты. В соответствии с порядком старшинства галогенидов и 
 псевдогалогенидов, названия образуются на основе старшего класса, как описано в P-67.1.2.1.
 
-// ----
+en: Preferred IUPAC names of acid halides and pseudohalides derived from the boron acids and silicic acid are formed on 
+the basis of the parent hydride names borane and silane, respectively. 
+ru: Предпочтительные названия галогенидов и псевдогалогенидов кислот, образованных от борсодержащих кислот и кремниевой кислоты, 
+согласно номенклатуре ИЮПАК, формируются на основе названий &(parent hydride|ro*) — борана и силана соответственно.
 
+@Examples
+
+@cell
+<$ CH3-N(O)Cl2 $>
+  
+en: methylazonic dichloride (PIN) 
+ru: метилазоновый дихлорид (PIN)
+
+@cell
+<$ P(O)(NCO)3 $>
+  
+en: phosphoryl triisocyanate (PIN) 
+ru: фосфорил триизоцианат (PIN)
+
+@cell
+<$ (C6H5)2P-Cl $>
+
+en: diphenylphosphinous chloride (PIN) 
+ru: дифенил&(phosph-)&(inous [anion]) хлорид (PIN)
+
+@cell
+<$ (C6H5)2Sb-NCO $>
+
+en: diphenylstibinous isocyanate (PIN) 
+ru: дифенил&(stib-)&(inous [anion]) изоцианат (PIN)
+
+@cell
+<$ C6H5-PCl2 $>
+  
+en: phenylphosphonous dichloride (PIN) 
+ru: фенил&(phosph-)&(onous [anion]) дихлорид (PIN)
+
+@cell
+<$ C6H5-PBrCl $>
+
+en: phenylphosphonous bromide chloride (PIN)  <br>
+phenylphosphonobromidous chloride 
+ru: фенил&(phosph-)&(onous [anion]) бромид хлорид (PIN) <br>
+фенилфосфонобромид&(ous [anion]) хлорид
+
+@cell
+<$ (C6H5)2P(=N-C6H5)Cl  $>
+
+en: _N_,_P_,_P_-triphenylphosphinimidic chloride (PIN)  
+ru: _N_,_P_,_P_-трифенилфосфин&(imidic [anion]) хлорид (PIN)
+
+@cell
+<$ (CH3-CH2)2P(S)Cl $>
+
+en: diethylphosphinothioic chloride (PIN)  
+ru: диэтилфосфино&(thioic [anion]) хлорид (PIN)
+
+@cell
+<$ C6H5-P(O)Cl2 $>
+  
+en: phenylphosphonic dichloride (PIN) 
+ru: фенил&(phosph-)&(onic [anion]) дихлорид (PIN)
+
+@cell
+<$ CH3-CH2-P(O)[N(CH3)2]Cl $>
+
+en: _P_-ethyl-_N_,_N_-dimethylphosphonamidic chloride (PIN)  
+ru: _P_-этил-_N_,_N_-диметилфосфонамидный хлорид (PIN)
+
+@cell
+<$ (CH3)2N-P(O)(NCO)Cl $>
+
+en: _N_,_N_-dimethylphosphoramidisocyanatidic chloride (PIN) 
+ru: _N_,_N_-диметилфосфорамидизо&(cyanatidic [anion]) хлорид (PIN)
+
+@cell
+<$ HP(O)(NCO)2 $>
+  
+en: phosphonic diisocyanate (PIN)  
+ru: &(phosph-)&(onic [anion]) диизоцианат (PIN)
+
+@cell
+<$ P(=NH)(NCS)3 $>
+  
+en: phosphorimidic triisothiocyanate (PIN)  
+ru: фосфор&(imidic [anion]) триизотиоцианат (PIN)
+
+@cell
+<$ (CH3)2PN3 $>
+  
+en: dimethylphosphinous azide (PIN) 
+ru: диметил&(phosph-)&(inous [anion]) азид (PIN)
+
+@cell
+<$ SO2(NCO)2 $>
+  
+en: sulfuryl diisocyanate (PIN)  
+ru: сульфурил диизоцианат (PIN)
+
+@cell
+<$ S(=N-CH3)Cl2 $>
+  
+en: _N_-methylsulfurimidous dichloride (PIN) 
+ru: _N_-метилсульфуримид&(ous [anion]) дихлорид (PIN)
+
+@cell
+<$ F-SO2-NCO $>
+
+en: sulfurisocyanatidic fluoride (PIN)  
+ru: &(sulfuro-)изо&(cyanatidic [anion]) фторид (PIN)
+
+@cell
+<$ F-S(=NH)(NCO) $>
+
+en: sulfurimidisocyanatidous fluoride (PIN) 
+ru: &(sulfuro-)имидизоцианатид&(ous [anion]) фторид (PIN)
+
+@cell
+<$ CH3-NH-SO2Cl  $>
+
+en: _N_-methylsulfamoyl chloride (PIN)
+ru: _N_-метилсульфамоил хлорид (PIN)
+
+@End
+
+#P-67.1.2.5.2+
+en: Preferred IUPAC names of halides of the boron acids and silicic acid are substitutive names.
+ru: Предпочтительными названиями ИЮПАК для галогенидов борных кислот и кремниевой кислоты являются &(substitutive name|*).
+
+@Examples
+
+@cell
+<$ C6H5-B(Cl)(Br) $>
+
+en: bromo(chloro)(phenyl)borane (PIN)  <br>
+phenylboronic bromide chloride  <br>
+phenylboronobromidic chloride 
+ru: бром(хлор)(фенил)боран (PIN) <br>
+фенилбороновый бромид хлорид <br>
+фенилборонобромидный хлорид
+
+@cell
+<$ CH3-SiCl3 $>
+  
+en: trichloro(methyl)silane (PIN) 
+ru: трихлор(метил)силан (PIN)
+
+@cell
+<$ SiCl4 $>
+ 
+en: tetrachlorosilane (preselected name)  <br>
+silicon tetrachloride  <br>
+(not silicic tetrachloride) 
+ru: тетрахлорсилан (&(preselected name)) <br>
+кремния тетрахлорид <br>
+(не тетрахлорид кремниевой кислоты)
+
+@End
 #P-67.1.2.6
 en: Amides and hydrazides
 ru: Амиды и гидразиды
 
-// -----------
+en: Amides and hydrazides are named by functional class nomenclature by replacing the term ‘acid’ in the name of the 
+corresponding acid by ‘amide’ or ‘hydrazide’. Amides and hydrazides of nitric acid and nitrous acid are discussed in  
+P-67.1.2.6.3. Preferred IUPAC names of amides and hydrazides of the boron acids and silicic acid are exceptions (see 
+P-67.1.2.6.2) as are azorous acid, azinous acid and azonous acid which are names of polyazanes. 
+ru: Названия амидов и гидразидов образуются по &(functional class nomenclature|pr) путем замены слова «кислота» в названии 
+соответствующей кислоты на «амид» или «гидразид». Амиды и гидразиды азотной и азотистой кислот рассматриваются в разделе 
+P-67.1.2.6.3. Исключение составляют предпочтительные названия ИЮПАК для амидов и гидразидов кислот бора и кремниевой кислоты 
+(см. P-67.1.2.6.2), а также названия аз&(orous [acid]|ro), аз&(inous [acid]|ro) и аз&(onous [acid]|ro) кислот, 
+которые являются названиями полиазанов.
 
-#P-67.1.3
+#P-67.1.2.6.1+
+en: Preferred IUPAC names of amides and hydrazides are denoted by the class name ‘amide’ or ‘hydrazide’: 
+ru: Рекомендуемые названия амидов и гидразидов по номенклатуре ИЮПАК обозначаются с помощью названий классов «амид» или «гидразид»:
+
+@List a
+
+@item
+en: when all –OH groups in the corresponding acid have been replaced by <%a%> or <%b%> groups, and 
+ru: когда все –OH группы в соответствующей кислоте заменены группами <%a%> или <%b%>, и
+%a: <${}–NH2$>
+%b: <${}–NH-NH2$>
+
+@item
+en: when the amide or hydrazide is the principal functional group in accordance with the following order of 
+seniority:  
+ru: когда амид или гидразид является старшей функциональной группой в соответствии со следующим порядком старшинства:
+
+@End
+
+<div class="centred has-inline-formula">
+
+en: <%a%>, <%b%>, <%c%>, <%d%>, <%e%>, <%f%>, <%g%>, <%i%>, <%j%>, <%k%> (amide), <%h%> (hydrazide)
+ru: <%a%>, <%b%>, <%c%>, <%d%>, <%e%>, <%f%>, <%g%>, <%i%>, <%j%>, <%k%> (амид), <%h%> (гидразид)
+%a: <$Br$>
+%b: <$Cl$>
+%c: <$F$>
+%d: <$I$>
+%e: <$N3$>
+%f: <$CN$>
+%g: <$NC$>
+%i: <$NCO$>
+%j: <$ONC$>
+%k: <$NH2$>
+%h: <$@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@; NH@n(1)_(h)NH2@n(2)$>
+
+</div>
+
+en: **Note**: This order is not quite the same as that used by CAS (where amide follows the halogens and precedes the 
+pseudohalogens) but it is consistent with the order of compound classes in P-41. 
+ru: **Примечание**: Этот порядок не совсем совпадает с порядком, используемым CAS (где амиды следуют за галогенидами 
+и предшествуют псевдогалогенидам), но он согласуется с порядком классов соединений в разделе P-41.
+
+en: Substituents on the nitrogen atoms are denoted by italic letter locants such as, _N_ (primed and double primed as 
+required), in addition to the italic letter locants ‘_P_’, ‘_As_’, and ‘_Sb_’. 
+ru: Заместители у атомов азота обозначаются буквенными локантами, выделенными курсивом (например, _N_ — при необходимости 
+со штрихом или двумя штрихами), в дополнение к буквенным локантам «_P_», «_As_» и «_Sb_», также выделенным курсивом.
+
+en: Locants to denote hydrazides are 1 and 2, primed and double primed as required.
+ru: Для обозначения гидразидов используются локанты 1 и 2, при необходимости — со штрихами и двойными штрихами.
+
+@Examples
+
+@cell
+<$ [(CH3)2N]3PO $>
+
+en: hexamethylphosphoric triamide (PIN)  <br>
+hexamethylphosphoramide  <br>
+[not phosphoric tris(dimethylamide)] 
+ru: гексаметил&(phosph-)&(oric [amid]) триамид (PIN) <br>
+гексаметилфосфорамид <br>
+[не фосфорный трис(диметиламид)]
+
+@cell
+<$ (CH3)2P(O)[N(CH3)2] $>
+
+en: <%L%>-tetramethylphosphinic amide (PIN)  <br>
+(not dimethylphosphinic dimethylamide) 
+ru: <%L%>-тетраметил&(phosph-)&(inic [amid]) амид (PIN) <br>
+(не диметил&(phosph-)&(inic [amid]) диметиламид)
+%L: _N_,_N_,_P_,_P_
+
+@cell
+<$ C6H5-P(O)(NHCH3)2 $>
+  
+en: <%L%>-dimethyl-_P_-phenylphosphonic diamide (PIN)  <br>
+[not phenylphosphonic bis(methylamide)] 
+ru: <%L%>-диметил-_P_-фенил&(phosph-)&(onic [amid]) диамид (PIN) <br>
+[не фенилфосфоновый бис(метиламид)]
+%L: _N_,_N_′
+
+@cell
+<$ C6H5-P(S)[N(CH3)2]2 $>
+  
+en: <%L%>-tetramethyl-_P_-phenylphosphonothioic diamide (PIN) 
+ru: <%L%>-тетраметил-_P_-фенилфосфоно&(thioic [amide]) диамид (PIN)
+%L: _N_,_N_,_N_′,_N_′
+
+@cell
+<$ C6H5-Sb(S)[N(CH3)2][N(CH2-CH3)2] $>
+
+en: <%L1%>-diethyl-<%L2%>-dimethyl-_Sb_-phenylstibonothioic diamide (PIN) 
+ru: <%L1%>-диэтил-<%L2%>-диметил-_Sb_-фенилстибоно&(thioic [amide]) диамид (PIN)
+%L1:_N_,_N_
+%L2:_N_′,_N_′
+
+@cell
+<$ (CH3)2N-P(O)Cl2 $>
+  
+en: <%L%>-dimethylphosphoramidic dichloride (PIN) 
+ru: <%L%>-диметилфосфорамидный дихлорид (PIN)
+%L:_N_,_N_
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-As<`||O><-N@Nx(′)(CH3)2>|N@Nx(,90)(CH2-CH3)2
+$>
+
+en: <%L1%>-diethyl-<%L2%>-dimethyl-_As_-phenylarsonothioic diamide (PIN)
+ru: <%L1%>-диэтил-<%L2%>-диметил-_As_-фениларсоно&(thioic [amide]) диамид (PIN)
+%L1:_N_,_N_
+%L2:_N_′,_N_′
+
+@cell
+<$
+@:n(n,a:-70,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+P(O)[N:a(CH3)-NH2:b]3; #a@n(1;1′;1′′); #b@n(2;2′;2′′)
+$>
+
+en: 1,1′,1′′-trimethylphosphoric trihydrazide (PIN) 
+ru: 1,1′,1′′-триметил&(phosph-)&(oric [anion]) тригидразид (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+P(S)[NH:a-N:b(CH3)2]3; #a@n(1;1′;1′′,-100); #b@n(2;2′;2′′,-50,0.85)
+$>
+
+en: <%L%>-hexamethylphosphorothioic trihydrazide (PIN)  <br>
+[not phosphorothioic tris(2,2-dimethylhydrazide)] 
+ru: <%L%>-гексаметилфосфоро&(thioic [anion]) триазид (PIN) <br>
+[не фосфоро&(thioic [anion]) трис(2,2-диметилгидразид)]
+%L:2,2,2′,2′,2′′,2′′
+
+@cell
+<$
+@:n(n,a:-80,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-NH@Nx()-SO-NH2@Nx(′)
+$>
+
+en: _N_-methylsulfurous diamide (PIN)
+ru: _N_-метил&(sulfur-)&(ous [anion]) диамид (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx(,-90)-SO2-NH2@Nx(′)
+$>
+
+en: _N_,_N_-dimethylsulfuric diamide (PIN)  <br>
+_N_,_N_-dimethylsulfamide
+ru: _N_,_N_-диметил&(sulfur-)&(ic [amide]) диамид (PIN) <br>
+_N_,_N_-диметилсульфамид
+
+@cell
+<$
+@:n(n,a:-80,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx(,-90)-S(=`NCH3); #-1@Nx(′′)-N@Nx(′)(CH3)2
+$>
+
+en: pentamethylsulfurimidous diamide (PIN)
+ru: пентаметил&(sulfuro-)имид&(ous [amide]) диамид (PIN)
+
+@cell
+<$ CH3-NH-S(O)(=N-CH3)-Br  $>
+
+en: _N_,_N_′-dimethylsulfuramidimidic bromide (PIN) 
+ru: _N_,_N_′-диметил&(sulfuro-)амид&(imidic [anion]) бромид (PIN)
+
+@cell
+<$
+@:n(n,a:-80,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx()-S<||O><-N@Nx(′)(CH3)2>_(y-1.2,N2m)N@Nx(′′,-80)--C6H5
+$>
+
+en: <%L1%>-tetramethyl-<%L2%>-phenylsulfurimidic diamide (PIN) 
+ru: <%L1%>-тетраметил-<%L2%>-фенил&(sulfuro-)&(imidic [anion]) диамид (PIN)
+%L1:_N_,_N_,_N_′,_N_′
+%L2:_N_′′
+
+@End
+
+#P-67.1.2.6.2+
+en: Preselected names of amides and hydrazides of the boron acids and silicic acid are substitutive names 
+based on the preselected parent hydride names borane and silane. 
+ru: &(Preselected name|*) амидов и гидразидов борных кислот и кремниевой кислоты являются &(substitutive name|tv*), образованными от 
+&(preselected name|ro*) &(parent hydride|ro*) — борана и силана.
+
+@Examples
+
+@cell
+<$ H2B-NH2 $>
+  
+en: boranamine  <br>
+(name derived from the preselected name borane)  <br>
+(not borinic amide)
+ru: боранамин <br>
+(название образовано от &(preselected name|ro) «боран») <br>
+(не бориновый амид)
+
+@cell
+<$ B(NH2)3 $>
+  
+en: boranetriamine  <br>
+(name derived from the preselected name borane)  <br>
+(not boric triamide) 
+ru: борантриамин <br>
+(название образовано от &(preselected name|ro) «боран») <br>
+(не борный триамид)
+
+@cell
+<$
+@:n(n,a,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+B(NH:a-N`H2:b)3; #a@n(1;1′;1′′,-100); #b@n(2;2′;2′′,-80)
+$>
+
+en: <%L%>-boranetriyltrihydrazine  <br>
+(name derived from the preselected name borane)  <br>
+(not boric trihydrazide) 
+ru: <%L%>-борантриилтригидразин <br>
+(название образовано от &(preselected name|ro) «боран») <br>
+(не борный тригидразид)
+%L:1,1′,1′′
+
+@cell
+<$ Si(NH2)4 $>
+  
+en: silanetetramine  <br>
+(name derived from the preselected name silane)  <br>
+(not silicic tetramide) 
+ru: силантетрамин <br>
+(название получено от &(preselected name|ro) «силан») <br>
+(не кремниевый тетрамид)
+
+@cell
+<$ Si(NH-NH2)4 $>
+  
+en: <%L%>-silanetetrayltetrahydrazine  <br>
+(name derived from the preselected name silane )  <br>
+(not silicic tetrahydrazide)
+ru: <%L%>-силанантетраилтетрагидразин <br>
+(название образовано от &(preselected name|ro) «силан») <br>
+(не кремниевый тетрагидразид)
+%L:1,1′,1′′,1′′′
+
+@End
+
+#P-67.1.2.6.3
+en: Amides and hydrazides of nitric and nitrous acids
+ru: Амиды и гидразиды азотной и азотистой кислот
+
+en: Nitramines are amides of nitric acid (see ref. 23). The class is composed of ‘nitramide’ (a shortened form of nitric 
+amide), <%a%>, and the names of its derivatives are formed by substitution. Nitrosamines are amides of nitrous acid, 
+<%b%> (see ref. 23); and the names of its derivatives are formed by substitution. Nitric acid and nitrous acid are 
+preselected names, see P-12. 
+ru: Нитрамины представляют собой амиды азотной кислоты (см. ссылку 23). В этот класс входит «нитрамид» (сокращенная форма 
+названия «амид азотной кислоты»), <%a%>, а названия производных образуются путем &(substitution|ro). Нитрозамины представляют 
+собой амиды азотистой кислоты, <%b%> (см. ссылку 23); названия их производных также образуются путем &(substitution|ro). 
+«Азотная кислота» и «азотистая кислота» — это &(preselected name|*) (см. P-12).
+%a: <$NO2-NH2$>
+%b: <$NO-NH2$>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+O2N-NH@Nx()-NH2@Nx(′,-80)
+$>
+
+**(I)**
+
+@cell
+<$
+@:n(n,a,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+ON-NH@Nx()-NH2@Nx(′,-80)
+$>
+
+**(II)**
+
+@End
+
+en: Similarly, nitric hydrazide **(I)** and nitrous hydrazide **(II)** are preselected names used as parent structures for generation 
+of preferred IUPAC names. 
+ru: Аналогичным образом, &(nitric [anion]) гидразид **(I)** и &(nitrous [anion]) гидразид **(II)** — это &(preselected name|*), используемые 
+в качестве &(parent structure|ro*) для формирования предпочтительных названий ИЮПАК.
+
+@p .framed
+en: Preferred IUPAC names for amides and hydrazides of nitric and nitrous acids are now systematically based on nitric 
+or nitrous amide and hydrazide, in accordance with the seniority order of classes rather than as nitro and nitroso 
+amines; the latter names can be used in general nomenclature. 
+ru: Предпочтительные названия ИЮПАК для амидов и гидразидов азотной и азотистой кислот теперь систематически строятся 
+на основе «амид азотной/азотистой кислоты» и «гидразид азотной/азотистой кислоты» (в соответствии с правилами старшинства 
+классов), а не как «нитроамины» и «нитрозоамины»; последние могут использоваться в рамках общей номенклатуры.
+
+@Examples
+
+@cell
+<$ ON-N(CH2-CH2-CH3)2 $>
+  
+en: dipropylnitrous amide (PIN)  <br>
+_N_-nitroso-_N_-propylpropan-1-amine
+ru: дипропил&(nitrous [anion]) амид (PIN) <br>
+_N_-нитрозо-_N_-пропилпропан-1-амин
+
+@cell
+<$ ON-N<`|CH2-CH3>-CH2-CH2-CH2-CH3 $>
+
+en: butyl(ethyl)nitrous amide (PIN)  <br>
+_N_-ethyl-_N_-nitrosobutan-1-amine
+ru: бутил(этил)&(nitrous [anion]) амид (PIN) <br>
+_N_-этил-_N_-нитрозобутан-1-амин
+
+@cell
+<$ O2N-N<`|CH3>-CH2-Cl $>
+
+en: (chloromethyl)(methyl)nitramide (PIN)  <br>
+1-chloro-_N_-methyl-_N_-nitromethanamine 
+ru: (хлорметил)(метил)нитрамид (PIN) <br>
+1-хлор-_N_-метил-_N_-нитрометанамин
+
+@cell
+<$ O2N-N<`|NO2>-CH3 $>
+
+en: methyl(nitro)nitramide (PIN)  <br>
+_N_,_N_-dinitromethanamine
+ru: метил(нитро)нитрамид (PIN) <br>
+_N_,_N_-динитрометанамин
+
+@cell
+<$
+@:n(n,a,L:.65)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+ON-NH@Nx()-N@Nx(′,-80)=CH-CH2-CH2-CH2-CH2-CH3
+$>
+
+en: _N_′-hexylidenenitrous hydrazide (PIN) 
+ru: _N_′-гексилиден&(nitrous [anion]) гидразид (PIN)
+
+@End
+
+
+%P-67.1.3
 en: Salts, esters, and anhydrides of noncarbon oxoacids  
 ru: Соли, сложные эфиры и ангидриды &(noncarbon [acid]|ro*) оксокислот
 
+#P-67.1.3
+en: Salts, esters, and anhydrides of mononuclear noncarbon oxoacids
+ru: Соли, сложные эфиры и ангидриды &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: The methodology discussed in this section is applicable to all mononuclear oxo acids whether or not they have retained 
+names or names using infixes or prefixes. 
+ru: Методология, рассматриваемая в данном разделе, применима ко всем &(mononuclear [acid]|da*) оксокислотам, 
+независимо от того, имеют ли они &(retained name|*) или названия, содержащие инфиксы либо префиксы.
+
+@Content
+
+%P-67.1.3.1
+en: Salts  
+ru: Соли
+
+#P-67.1.3.1
+en: Salts of mononuclear noncarbon oxoacids
+ru: Соли &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Neutral salts of mononuclear noncarbon oxoacids are named by citing the cation(s) followed by the name(s) of the 
+anion(s) as a separate word. Names of anions are formed by changing the ‘ic acid’ ending to ‘ate’ and the ‘ous acid’ 
+ending to ‘ite’. Different cations are cited in alphabetical order. 
+ru: Названия средних солей &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот образуются путем &(citation|ro) 
+катиона (или катионов), за которым следует название аниона (или анионов), записываемое как отдельное слово. Названия анионов 
+образуются путем замены окончания «-&(ic acid)» на «-ат», а окончания «-&(ous acid)» — на «-ит». Различные катионы 
+&(cited|*) в алфавитном порядке.
+
+@Examples
+
+@cell
+<$ Na2(CH3-PO2) $>
+
+en: disodium methylphosphonite (PIN) 
+ru: динатрия метилфосфонит (PIN)
+
+@cell
+<$ K[(CH3)2As(O)O] $>
+
+en: potassium dimethylarsinate (PIN) 
+ru: калия диметиларсинат (PIN)
+
+@End
+
+en: Acid salts of polybasic mononuclear noncarbon oxoacids are named in the same way as neutral salts, the remaining acid 
+hydrogen atom(s) being indicated by the word ‘hydrogen’ ( or ‘dihydrogen’, etc., as appropriate) inserted between the 
+name of the cation(s) and the name of the anion from which it is separated by spaces. 
+ru: Названия кислых солей многоосновных &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот образуются так же, 
+как названия средних солей, при этом оставшиеся атомы кислого водорода обозначаются словом «&(hydrogen [cation])» 
+(или «ди&(hydrogen [cation])» и т. д., 
+в зависимости от числа атомов), которое помещается между названием катиона и названием аниона и отделяется от них пробелами.
+
+en: **Note**: In the nomenclature of inorganic chemistry (IR-8.4, ref. 12), the term ‘hydrogen’ is written directly in front of the 
+name of the anion, without a space, to indicate that it is part of the anion. 
+ru: **Примечание**: В номенклатуре неорганической химии (IR-8.4, ссылка 12) термин «&(hydrogen [cation])» пишется непосредственно 
+перед названием аниона, без пробела, чтобы указать, что он входит в состав аниона.
+
+@Examples
+
+@cell
+<$ Na^+ B(OH)(OCN)(O^–) $>
+
+en: sodium hydrogen borocyanatidate
+ru: натрий &(hydrogen [cation]) бороцианатидат 
+
+@End
+
+%P-67.1.3.2
+en: Esters  
+ru: Сложные эфиры
+
+#P-67.1.3.2
+en: Esters of mononuclear noncarbon oxoacids
+ru: Сложные эфиры &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Esters of mononuclear noncarbon acids are named in the same way as esters of organic acids (see P-65.6.3.2). Alkyl 
+groups, aryl groups, etc. are cited as separate words, in alphanumerical order when more than one, and followed by the 
+name of the appropriate anion. Partial acid esters of polybasic acids are named by citing alkyl groups, aryl groups, etc. 
+as separate words, in alphanumeric order if more than one, followed by the word ‘hydrogen’ (with the appropriate 
+multiplying prefix, as necessary) also cited as a separate word, and the name of the appropriate anion. Salts of partial 
+acid esters are named by citing the name of the cation before the name of the organic group; remaining acids groups are 
+denoted by the word ‘hydrogen’ as described above. Structural specificity for esters of chalcogen analogues of 
+mononuclear noncarbon oxoacids is provided by the appropriate italic element symbols _O_, _S_, _Se_, and _Te_, prefixed to the 
+name of the group, as needed.
+ru: Названия сложных эфиров &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) кислот образуются так же, как названия 
+сложных эфиров органических кислот (см. P-65.6.3.2). Названия алкильных, арильных и других подобных групп &(cited|*) 
+как отдельные слова (в алфавитно-цифровом порядке, если таких групп несколько), за которыми следует название соответствующего 
+аниона. Названия кислых сложных эфиров многоосновных кислот образуются путем указания алкильных, арильных и других подобных 
+групп в виде отдельных слов (в алфавитно-цифровом порядке, если их несколько), за которыми следуют слово «&(hydrogen [cation])» 
+(с соответствующей множительной приставкой, если это необходимо), также записываемое как отдельное слово, и название 
+соответствующего аниона. Названия солей кислых сложных эфиров образуются путем указания названия катиона перед названием 
+органической группы; оставшиеся кислые группы обозначаются словом «&(hydrogen [cation])», как описано выше. Для указания 
+структурных особенностей сложных эфиров &(chalcogen analogue|ro*) &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот 
+перед названием группы при необходимости добавляются соответствующие символы элементов (_O_, _S_, _Se_, _Te_), выделенные курсивом.
+
+@Examples
+
+@cell
+<$ CH3-CH2-CH2-CH2-CH2-O-NO $>
+
+en: pentyl nitrite (PIN) 
+ru: пентил нитрит (PIN)
+
+@cell
+<$ CH3-S-NO2 $>
+  
+en: _S_-methyl thionitrate (PIN) 
+ru: _S_-метил тионитрат (PIN)
+
+@cell
+(C6H5)2P-O-CH3
+  
+en: methyl diphenylphosphinite (PIN) 
+ru: метил дифенилфосфинит (PIN)
+
+@cell
+<$ CH3-P(Cl)(S-CH2-CH3) $>
+
+en: ethyl methylphosphonochloridothioite (PIN) 
+ru: этил метилфосфонохлоридотиоит (PIN)
+
+@cell
+<$ CH3-P(NH-CH3)(OCH3) $>
+
+en: methyl _N_,_P_-dimethylphosphonamidite (PIN) 
+ru: метил _N_,_P_-диметилфосфонамидит (PIN)
+
+@cell
+<$ P(O-CH3)3 $>
+ 
+en: trimethyl phosphite (PIN) 
+ru: триметил фосфит (PIN)
+
+@cell
+<$ P(Cl)[N(CH3)2](O-CH3) $>
+
+en: methyl _N_,_N_-dimethylphosphoramidochloridite (PIN) 
+ru: метил _N_,_N_-диметилфосфорамидохлоридит (PIN)
+
+@cell
+<$ P(O)(O-CH3)3 $>
+  
+en: trimethyl phosphate (PIN) 
+ru: триметил фосфат (PIN)
+
+@cell
+<$ P(O)(O-C2H5)(O-CH3)(O-C6H5) $>
+
+en: ethyl methyl phenyl phosphate (PIN) 
+ru: этил метил фенил фосфат (PIN)
+
+@cell
+<$ P(O)(O-CH3)(OH)2 $>
+  
+en: methyl dihydrogen phosphate (PIN) 
+ru: метил ди&(hydrogen [cation]) фосфат (PIN)
+
+@cell
+<$ C6H5-HAs(S)(O-CH3) $>
+
+en: _O_-methyl phenylarsinothioate (PIN) 
+ru: _O_-метил фениларсинотиоат (PIN)
+
+@cell
+<$ CH3-O-P(O)(OH)-O^– Na^+ $>
+
+en: sodium methyl hydrogen phosphate (PIN) 
+ru: натрий метил &(hydrogen [cation]) фосфат (PIN)
+
+@cell
+<$ HP(O)(O-CH3)2 $>
+  
+en: dimethyl phosphonate (PIN) 
+ru: диметил фосфонат (PIN)
+
+@cell
+<$ (CH3-CH2)2P(S)(S-CH2-CH3) $>
+
+en: ethyl diethylphosphinodithioate (PIN) 
+ru: этил диэтилфосфинодитиоат (PIN)
+
+@cell
+<$ (CH3)2As(O)(S-CH3) $>
+
+en: _S_-methyl dimethylarsinothioate (PIN) 
+ru: _S_-метил диметиларсинотиоат (PIN)
+
+@cell
+<$ CH3-P(O)(O-CH2-CH3)2 $>
+  
+en: diethyl methylphosphonate (PIN) 
+ru: диэтил метилфосфонат (PIN)
+
+@cell
+<$ C6H5-P(O)(O-CH3)(S-CH2-CH3) $>
+
+en: _S_-ethyl _O_-methyl phenylphosphonothioate (PIN) 
+ru: _S_-этил _O_-метил фенилфосфонотиоат (PIN)
+
+@cell
+<$ C6H5-P(O)(Cl)(O-CH3) $>
+
+en: methyl phenylphosphonochloridate (PIN)  
+ru: метил фенилфосфонохлоридат (PIN)
+
+@cell
+<$ (CH3)2N-P(O)(O-CH3)2 $>
+  
+en: dimethyl _N_,_N_-dimethylphosphoramidate (PIN) 
+ru: диметил _N_,_N_-диметилфосфорамидат (PIN)
+
+@cell
+<$ (CH3-CH2)2N-P(O)(NCS)(O-CH2-CH3) $>
+
+en: ethyl _N_,_N_-diethylphosphoramid(isothiocyanatidate) (PIN) 
+ru: этил _N_,_N_-диэтилфосфорамид(изотиоцианатидат) (PIN)
+
+@cell
+<$ As(O)(F)(O-CH3)2 $>
+  
+en: dimethyl arsorofluoridate (PIN) 
+ru: диметил арсорофторидат (PIN)
+
+@cell
+<$ Sb(O)(F)2(S-CH3) $>
+
+en: _S_-methyl stiborodifluoridothioate (PIN) 
+ru: _S_-метил стибородифтортиоат (PIN)
+
+@cell
+<$ (CH3)2B-O-C6H5 $>
+  
+en: phenyl dimethylborinate (PIN) 
+ru: фенил диметилборинат (PIN)
+
+@cell
+<$ CH3-O-SO2-OH $>
+
+en: methyl hydrogen sulfate (PIN) 
+ru: метил &(hydrogen [cation]) сульфат (PIN)
+
+@cell
+<$ C6H5-O-F $>
+
+en: phenyl hypofluorite (PIN) 
+ru: фенил гипофторит (PIN)
+
+@cell
+<$ CH3-S-Cl $>
+
+en: methyl thiohypochlorite (PIN) 
+ru: метил тиогипохлорит (PIN)
+
+@cell
+<$ CH3-CO-CH2-CH2-O-BrO2 $>
+ 
+en: 3-oxobutyl bromate (PIN) 
+ru: 3-оксобутил бромат (PIN)
+
+@cell
+<$ HO-CH2-CH<-CH2-CH3>|B<`-O`-CH3>-CH<-CH2-CH3>|CH2-OH $>
+
+en: methyl bis(1-hydroxybutan-2-yl)borinate (PIN)
+ru: метил бис(1-гидроксибутан-2-ил)боринат (PIN)
+
+@cell
+<$ Si(S-CH3)3(O-CH2-CH3) $>
+
+en: _O_-ethyl _S_,_S_,_S_-trimethyl trithiosilicate (PIN) 
+ru: _O_-этил _S_,_S_,_S_-триметил тритиосиликат (PIN)
+
+@cell
+<$ $slope(60)CH3-CH2-S/P<_q4O`-CH3><`||O>-CH2-CH2-P<`||O><_(A-30)O-CH3>\S-CH2-CH3 $>
+
+en: <%s%>-diethyl <%o%>-dimethyl <%p%>-(ethane-1,2-diyl)bis(phosphonothioate) (PIN)  
+ru: <%s%>-диэтил <%o%>-диметил <%p%>-(этан-1,2-диил)бис(фосфонотиоат) (PIN)
+%s:_S_,_S_′
+%o:_O_,_O_′
+%p:_P_,_P_′
+
+@End
+
+%P-67.1.3.3
+en: Anhydrides 
+ru: Ангидриды
+
+#P-67.1.3.3
+en: Anhydrides of mononuclear noncarbon oxoacids
+ru: Ангидриды &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Neutral anhydrides formed between acids named by suffixes and mononuclear noncarbon oxoacids described in 
+P-67.1.1 are named in the same way as described for anhydrides derived from carboxylic and the sulfur acids named by 
+suffixes (see P-65.7). The names of the acids are cited in alphabetical order followed by the class name ‘anhydride’ 
+prefixed by a numerical term indicating the number of anhydride linkages (the numerical prefix mono is not used); such 
+names lead to preferred IUPAC names. Names formed by acyl groups substituting the phosphorus, arsenic or antimony 
+mononuclear oxoacid modified by the ending ‘ate’ can be used in general nomenclature. Halogen oxoacids form 
+anhydrides with carboxylic and the sulfur acids expressed by suffixes.
+ru: Нейтральные ангидриды, образованные кислотами, названия которых строятся с использованием суффиксов, и 
+&(mononuclear [acid]|tv*) &(noncarbon [acid]|tv*) оксокислотами, описанными в разделе P-67.1.1, именуются так же, 
+как ангидриды, производные от карбоновых кислот и серосодержащих кислот, именуемых с помощью суффиксов (см. P-65.7). 
+Названия кислот приводятся в алфавитном порядке, за ними следует название класса «ангидрид» с числовой приставкой, 
+указывающей количество ангидридных связей (приставка «моно-» не используется); такие названия являются предпочтительными 
+названиями ИЮПАК. В общей номенклатуре могут использоваться названия, образованные путем замещения ацильными группами 
+в &(mononuclear [acid]|pr*) оксокислотах фосфора, мышьяка или сурьмы (названия которых оканчиваются на «-ат»). 
+Галогенсодержащие оксокислоты образуют ангидриды с карбоновыми и серосодержащими кислотами, именуемыми с помощью суффиксов.
+
+en: Acidic anhydrides are named as described in P-67.3.1 using the senior acid as parent, or by using systematic 
+substitutive nomenclature. 
+ru: Названия кислотных ангидридов образуют в соответствии с правилом P-67.3.1, используя в качестве основы название 
+старшей кислоты, либо применяют систематическую &(substitutive nomenclature|vi).
+
+@Examples
+
+@cell
+<$ (CH3)2B-O-CO-CH3 $>
+  
+en: acetic dimethylborinic anhydride (PIN) 
+ru: уксусный диметилбориновый ангидрид (PIN)
+
+@cell
+<$ CH3-CO-O-As(O)(CH3)2 $>
+  
+en: acetic dimethylarsinic anhydride (PIN)  <br>
+acetyl dimethylarsinate 
+ru: уксусный диметиларсиновый ангидрид (PIN) <br>
+ацетилдиметиларсинат
+
+@cell
+<$ B(O-CO-CH3)3 $>
+  
+en: acetic boric trianhydride (PIN) 
+ru: уксусный борный триангидрид (PIN)
+
+@cell
+<$ [(CH3)2CH]2Sb-S-C(S)-N(CH2-CH3)2 $>
+  
+en: diethylcarbamothioic di(propan-2-yl)stibinous thioanhydride (PIN) 
+ru: диэтилкарбамо&(thioic [anhydride]) ди(пропан-2-ил)&(stib-)&(inous [anhydride]) тиоангидрид (PIN)
+
+@cell
+<$ C6H5-CO-O-I $>
+
+en: benzoic hypoiodous anhydride (PIN) 
+ru: бензойный гипоиодистый ангидрид (PIN)
+
+@cell
+<$ (CH3)2B-O-O-B(CH3)2 $>
+ 
+en: dimethylborinic peroxyanhydride (PIN) 
+ru: диметилбориновый пероксиангидрид (PIN)
+
+@cell
+<$ B(OCN)3 $>
+  
+en: boric cyanic trianhydride (PIN) 
+ru: борный циановый триангидрид (PIN)
+
+@cell
+<$ CH3-HP(O)(OCN) $>
+
+en: cyanic methylphosphinic anhydride (PIN) 
+ru: циановый метил&(phosph-)&(inic [anhydride]) ангидрид (PIN)
+
+@End
+
+
 #P-67.1.4
 en: Substituent prefix groups derived from mononuclear noncarbon oxoacids 
-ru: Заместительные префиксные группы, полученные из &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+ru: &(Substituent prefix group|*), производные от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+@Content
+
+#P-67.1.4.1
+en: Substituent groups derived from the mononuclear nitrogen, phosphorus, arsenic, and antimony acids 
+ru: &(Substituent group|*), производные от &(mononuclear [acid]|ro*) кислот азота, фосфора, мышьяка и сурьмы
+
+@Content
+
+#P-67.1.4.1.1
+en: Preselected prefixes 
+ru: &(Preselected prefix|*)
+
+en: Substituent prefix groups derived from mononuclear noncarbon oxoacids have retained names and systematic names 
+corresponding to simple or compound acyl groups. The preselected prefixes are formed by applying the following 
+seniority order, in the order given, until a decision is reached: 
+ru: &(Substituent prefix group|*), производные от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот,
+именуются при помощи &(retained name|ro*) и систематических названий, соответствующих простым или сложным ацильным группам. 
+Выбор префикса осуществляется путем применения следующего порядка старшинства (в указанной последовательности) до принятия 
+окончательного решения:
+
+#P-67.1.4.1.1.1
+en: Retained names for substituent groups derived from mononuclear noncarbon oxoacids
+ru: &(Retained name|*) &(substituent group|ro*), производных от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: A few names denoting monovalent acidic groups are retained. These names are preselected names when unsubstituted 
+or for chalcogen analogues when the position of chalcogen atoms introduced by functional replacement is not known or 
+it is not necessary to specify their position(s): the chalcogen atoms are expressed by prefixes. 
+ru: Сохранен ряд названий, обозначающих одновалентные кислотные группы. Эти названия используются для незамещенных групп, 
+а также для &(chalcogen analogue|ro*) в тех случаях, когда положение атомов халькогена, введенных путем &(functional replacement|ro), 
+неизвестно или нет необходимости указывать их положение (при этом атомы халькогена обозначаются с помощью префиксов).
+
+@Table
+
+@th
+en: Acid
+ru: Кислота
+
+@th
+en: Derived preselected prefix
+ru: Производный &(preselected prefix)
+
+@td
+<$ {}–N(O)(OH)2 $>
+
+@td
+en: azono (preselected prefix)
+ru: азоно (&(preselected prefix))
+
+@td
+<$ {}–P(O)(OH)2 $>
+
+@td
+en: phosphono (preselected prefix) 
+ru: фосфоно (&(preselected prefix))
+
+@td
+<$ {}–As(O)(OH)2 $>
+
+@td
+en: arsono (preselected prefix) 
+ru: арсоно (&(preselected prefix))
+
+@td
+<$ {}–Sb(O)(OH)2 $>
+
+@td
+en: stibono (preselected prefix) 
+ru: стибоно (&(preselected prefix))
+
+@td
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <$–P(O)(OH)(SH)$>
+%b: <$–P(S)(OH)2$>
+
+@td
+en: thiophosphono (preselected prefix) 
+ru: тиофосфоно (&(preselected prefix))
+
+@td
+<$ –P(S)(SH)2 $>
+
+@td
+en: trithiophosphono (preselected prefix)
+ru: тритиофосфоно (&(preselected prefix))
+
+@EndTable
+
+#P-67.1.4.1.1.2
+en: Fundamental acyl groups for substituents derived from mononuclear noncarbon oxoacids
+ru: Основные ацильные группы для &(substituent|ro*), производных от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+// ----------
+
+#P-67.1.4.1.2
+en: Substituent groups for general nomenclature  
+ru: &(Substituent group|*) для общей номенклатуры
+
+#P-67.1.4.1.3
+en: Compound and complex substituent groups 
+ru: &(Compound [substituent group]|*) и &(complex substituent group|*) 
+
+// -----------------
+
+#P-67.1.4.2
+en: Substituent groups derived from boron acid and silicic acid  
+ru: &(Substituent group|*), производные от борной и кремниевой кислот
+
+#P-67-1.4.3
+en: Substituent groups derived from nitric and nitrous acids 
+ru: &(Substituent group|*), производные от азотной и азотистой кислот
+
+#P-67.1.4.4
+en: Substituent groups derived from chalcogen acids 
+ru: &(Substituent group|*), производные от халькогеновых кислот
+
+#P-67.1.4.5
+en: Substituent groups derived from halogen acids 
+ru: &(Substituent group|*), производные от галогеновых кислот
+
+
+
+//======================
 
 #P-67.1.5
 en: Seniority order among noncarbon oxoacids and derivatives  

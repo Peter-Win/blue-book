@@ -17,7 +17,7 @@
 
 #P-0
 en: Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.
-ru: Номенклатура органической химии. Рекомендации ИЮПАК и предпочтительные названия 2013.
+ru: Номенклатура Органической Химии. Рекомендации ИЮПАК и Предпочтительные Названия 2013.
 
 @Content ^
 

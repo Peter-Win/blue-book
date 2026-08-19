@@ -279,6 +279,7 @@
 
   "cyanatidic acid": "цианатидная кислота",
   "cyanatidic [acid]": "цианатидная",
+  "cyanatidic [anion]": "цианатидный",
 
   "cyclophane": "циклофан",
   "cyclophane|ro": "циклофана",
@@ -456,7 +457,7 @@
   "hydrazonodicarbonic [amide]": "гидразонодиугольный",
 
 
-  "hydrogen [anion]": "водород",
+  "hydrogen [cation]": "водород",
 
   "hydroxamic acid": "гидроксамовая кислота",
   "hydroxamic acid|*": "гидроксамовые кислоты",
@@ -470,6 +471,7 @@
 
   "ic acid": "ая кислота",
   "ic [acid]": "ая",
+  "ic [amide]": "ый",
 
   "icos": "эйкоз",
 
@@ -494,7 +496,13 @@
   "indicated hydrogen atom|tv*": "атомами указанного водорода",
 
   "inic [acid]": "иновая",
+  "inic [amid]": "иновый",
+  "inic [anhydride]": "иновый",
+
   "inous [acid]": "инистая",
+  "inous [acid]|ro": "инистой",
+  "inous [anion]": "инистый",
+  "inous [anhydride]": "инистый",
 
   "interparent component|ro": "промежуточного компонента",
   "interparent component|tv": "промежуточным компонентом",
@@ -512,6 +520,8 @@
   "imidic|ro": "имидной",
   "imidic|*": "имидные",
   "imidic|ro*": "имидных",
+  "imidic [anion]": "имидный",
+
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
@@ -534,6 +544,9 @@
   "mononuclear [acid]|*": "моноядерные",
   "mononuclear [acid]|ro": "моноядерной",
   "mononuclear [acid]|ro*": "моноядерных",
+  "mononuclear [acid]|da*": "моноядерным",
+  "mononuclear [acid]|tv*": "моноядерными",
+  "mononuclear [acid]|pr*": "моноядерных",
 
   "multiparent [system]": "мультиисходная",
   "multiparent [system]|ro": "мультиисходной",
@@ -564,11 +577,15 @@
 
   "named substitutively|*": "именуются при помощи замещения",
 
+  "nitric [anion]": "нитрат",
+  "nitrous [anion]": "нитрит",
+
   "noncarbon [acid]": "неуглеродная",
   "noncarbon [acid]|*": "неуглеродные",
   "noncarbon [acid]|ro": "неуглеродной",
   "noncarbon [acid]|ro*": "неуглеродных",
   "noncarbon [acid]|da*": "неуглеродным",
+  "noncarbon [acid]|tv*": "неуглеродными",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
@@ -591,7 +608,11 @@
   "oic [anhydride]": "овый",
 
   "onic [acid]": "оновая",
+  "onic [amid]": "оновый",
+  "onic [anion]": "оновый",
   "onous [acid]": "онистая",
+  "onous [acid]|ro": "онистой",
+  "onous [anion]": "онистый",
 
   "organyl group": "органильная группа",
   "organyl group|ro": "органильной группы",
@@ -606,6 +627,9 @@
   "oric [acid]|vi": "орную",
   "oric [acid]|tv": "орной",
 
+  "oric [amid]": "орный",
+  "oric [anion]": "орный",
+
   "orous [acid]": "ористая",
   "orous [acid]|ro": "ористой",
   "orous [acid]|tv": "ористой",
@@ -616,6 +640,8 @@
 
   "ous [acid]": "истая",
   "ous acid": "истая кислота",
+  "ous [anion]": "истый",
+  "ous [amide]": "истый",
 
   "oxamic acid": "оксамовая кислота",
 
@@ -826,6 +852,8 @@
   "preselected name|tv*": "предварительно выбранными названиями",
 
   "preselected prefix": "предварительно выбранный префикс",
+  "preselected prefix|*": "предварительно выбранные префиксы",
+
   "preselected suffix": "предварительно выбранный суффикс",
   "preselected suffix|*": "предварительно выбранные суффиксы",
 
@@ -959,6 +987,8 @@
   "substituent prefix|ro*": "префиксов-заместителей",
   "substituent prefix|tv*": "префиксами-заместителями",
 
+  "substituent prefix group|*": "замещающие префиксные группы",
+
   "substituted group|da": "замещённой группе",
 
   "substituted [substituent]": "замещённый",
@@ -1008,6 +1038,7 @@
 
   "sulfuro-:comment": "серная кислота с замещённой OH-группой. правила предписывают использовать именно название серной кислоты, но среди реальных названий такие не попадаются",
   "sulfuro-": "серно",
+  "sulfur-": "серн",
   "sulf-:comment": "в англ. языке особый случай для sulfamic acid. есть шанс, что в русском тоже может отличаться",
   "sulf-": "серно",
 
@@ -1068,6 +1099,7 @@
   "thioic anhydride": "тиоевый ангидрид",
   "thioic [anhydride]": "тиоевый",
   "thioic [amide]": "тиоевый",
+  "thioic [anion]": "тиоевый",
 
   "von baeyer name": "название по Фон-Баеру",
   "von baeyer name|ro": "названия по Фон-Баеру",
