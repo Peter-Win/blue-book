@@ -9,6 +9,9 @@
   "added indicated hydrogen|tv": "добавленным указанным водородом",
   "added indicated hydrogen|pr": "добавленном указанном водороде",
 
+  "additive name": "аддитивное название",
+  "additive name|ro*": "аддитивных названий",
+
   "additive operation|ro": "аддитивной операции",
 
   "al": "аль",
@@ -184,6 +187,7 @@
 
   "chloridic acid:comment": "суффикс. русских аналогов не найдено.",
   "chloridic acid": "хлоридная кислота",
+  "chloridic acid|ro": "хлоридной кислоты",
 
   "citation": "цитирование",
   "citation|ro": "цитирования",
@@ -203,6 +207,7 @@
   "complete substituent": "полный заместитель",
 
   "complex [prefix]": "сложный",
+  "complex [prefix]|ro": "сложного",
   "complex [prefix]|*": "сложные",
   "complex substituent prefix": "сложный замещающий префикс",
   "complex substituent prefix|ro": "сложного замещающего префикса",
@@ -495,9 +500,14 @@
   "indicated hydrogen atom|da*": "атомам указанного водорода",
   "indicated hydrogen atom|tv*": "атомами указанного водорода",
 
+  "in[ic]": "ин",
   "inic [acid]": "иновая",
+  "inic [acid]|ro": "иновой",
+  "inic acid": "иновая кислота",
   "inic [amid]": "иновый",
   "inic [anhydride]": "иновый",
+
+  "inoyl": "иноил",
 
   "inous [acid]": "инистая",
   "inous [acid]|ro": "инистой",
@@ -607,7 +617,11 @@
   "oic anhydride": "овый ангидрид",
   "oic [anhydride]": "овый",
 
+  "on[ic]": "он",
+  "on[ic]o": "оно",
   "onic [acid]": "оновая",
+  "onic [acid]|ro": "оновой",
+  "onic acid": "оновая кислота",
   "onic [amid]": "оновый",
   "onic [anion]": "оновый",
   "onous [acid]": "онистая",
@@ -622,6 +636,9 @@
   "organyl group|ro*": "органильных группп",
   "organyl group|tv*": "органильными групппами",
 
+  "or[ic]": "ор",
+  "or[ic]o": "оро",
+  "oric acid": "орная кислота",
   "oric [acid]": "орная",
   "oric [acid]|ro": "орной",
   "oric [acid]|vi": "орную",
@@ -841,18 +858,23 @@
   "preferred prefix|pr": "предпочтительном префиксе",
   "preferred prefix|*": "предпочтительные префиксы",
   "preferred prefix|ro*": "предпочтительных префиксов",
+  "preferred [prefix]|ro*": "предпочтительных",
   "preferred prefix|tv*": "предпочтительными префиксами",
 
   "preferred suffix": "предпочтительный суффикс",
 
   "preselected name": "предварительно выбранное название",
   "preselected name|ro": "предварительно выбранного названия",
+  "preselected name|tv": "предварительно выбранным названием",
   "preselected name|*": "предварительно выбранные названия",
   "preselected name|ro*": "предварительно выбранных названий",
   "preselected name|tv*": "предварительно выбранными названиями",
+  "preselected name|pr*": "предварительно выбранных названиях",
 
+  "preselected [prefix]": "предварительно выбранный",
   "preselected prefix": "предварительно выбранный префикс",
   "preselected prefix|*": "предварительно выбранные префиксы",
+  "preselected prefix|ro*": "предварительно выбранных префиксов",
 
   "preselected suffix": "предварительно выбранный суффикс",
   "preselected suffix|*": "предварительно выбранные суффиксы",
@@ -1094,12 +1116,14 @@
   "thial": "тиаль",
 
   "thioic [acid]": "тиоевая",
+  "thioic [acid]|ro": "тиоевой",
   "thioic acid": "тиоевая кислота",
 
   "thioic anhydride": "тиоевый ангидрид",
   "thioic [anhydride]": "тиоевый",
   "thioic [amide]": "тиоевый",
   "thioic [anion]": "тиоевый",
+  "thioic [anion]|ro": "тиоевого",
 
   "von baeyer name": "название по Фон-Баеру",
   "von baeyer name|ro": "названия по Фон-Баеру",

@@ -1,0 +1,28 @@
+#P-67.2
+en: Di- and polynuclear noncarbon oxoacids  
+ru: Ди- и &(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты
+
+en: Like mononuclear acids, polynuclear acids have retained names that are used as preselected names. Substitutive or 
+additive names are not recommended. Retained names are used as parents and are modifiable by functional replacement 
+in the same manner that mononuclear acids are, except that only prefixes are used for the functional replacement 
+operation. 
+ru: Как и в случае с &(mononuclear [acid]|tv*) кислотами, для &(polynuclear [acid]|ro*) кислот сохраняются определенные 
+названия, используемые в качестве &(preselected name|ro*). Использование &(substitutive [name]|ro*) или &(additive name|ro*) 
+не рекомендуется. &(Retained name|*) служат основой, которую можно модифицировать путем &(functional replacement|ro) так же, 
+как и названия &(mononuclear [acid]|ro*) кислот, с той лишь разницей, что для операции &(functional replacement|ro) 
+используются только префиксы.
+
+#P-67.3
+en: Substitutive names and functional class names of polyacids 
+ru: &(Substitutive name|*) и &(functional class name|*) поликислот
+
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

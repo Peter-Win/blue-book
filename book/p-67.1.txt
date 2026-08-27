@@ -2925,6 +2925,8 @@ ru: &(Substituent prefix group|*), производные от &(mononuclear [ac
 Выбор префикса осуществляется путем применения следующего порядка старшинства (в указанной последовательности) до принятия 
 окончательного решения:
 
+@Content
+
 #P-67.1.4.1.1.1
 en: Retained names for substituent groups derived from mononuclear noncarbon oxoacids
 ru: &(Retained name|*) &(substituent group|ro*), производных от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
@@ -2997,63 +2999,1571 @@ ru: тритиофосфоно (&(preselected prefix))
 en: Fundamental acyl groups for substituents derived from mononuclear noncarbon oxoacids
 ru: Основные ацильные группы для &(substituent|ro*), производных от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
 
-// ----------
+en: Acyl prefix groups are formed by removing all <%a%> groups from a mononuclear noncarbon oxoacid having the general 
+structures <%b%>, <%c%> or <%d%>, where R and R′ = H or an organyl group. Names of acyl 
+groups derived from the names of acids, modified or not by functional replacement, by elimination of all hydroxy 
+groups or their chalcogen analogues, are formed by changing the ‘ic acid’ ending in the name of the acid to ‘oyl’, with 
+the exception of ‘nitroryl’ –N(O)<; ‘phosphoryl’, –P(O)<; ‘arsoryl’, –As(O)<; and ‘stiboryl’, –Sb(O)<. Prefixes formed 
+in this manner are preselected prefixes. For example, the group ‘phosphoryl’ –P(O)<, is derived from phosphoric acid, 
+<%p1%> or phosphorothioic _S_-acid, <%p2%>, or phosphorodithioic _S_,_S_-acid, <%p3%> or 
+phosphorotrithioic _S_,_S_,_S_-acid, <%p4%>. 
+ru: Ацильные префиксы образуются путем удаления всех групп <%a%> из &(mononuclear [acid]|ro) &(noncarbon [acid]|ro) 
+оксокислоты, имеющей общую структуру <%b%>, <%c%> или <%d%>, где R и R′&nbsp;— это H или органильная группа. Названия ацильных групп, 
+производные от названий кислот (модифицированных или немодифицированных путем &(functional replacement|ro)) и образуемые 
+путем удаления всех гидроксильных групп или их &(chalcogen analogue|ro*), формируются заменой окончания «-&(ic acid)» 
+в названии кислоты на «-оил», за исключением названий «нитрорил» (–N(O)<), «фосфорил» (–P(O)<), «&(ars-)орил» (–As(O)<) 
+и «&(stib-)орил» (–Sb(O)<). Префиксы, образованные таким образом, относятся к категории «&(preselected prefix|*)». 
+Например, группа «фосфорил» (–P(O)<) происходит от фосфорной кислоты (<%p1%>), фосфоро&(thioic [acid]|ro) _S_-кислоты (<%p2%>), 
+фосфороди&(thioic [acid]|ro) _S_,_S_-кислоты (<%p3%>) или фосфоротри&(thioic [acid]|ro) _S_,_S_,_S_-кислоты (<%p4%>).
+%a: <$–OH$>
+%b: <$ {E}(=O)(OH)3 $>
+%c: <$ {R}-{E}(=O)(OH)2 $>
+%d: <$ {R,R′E}(=O)OH $>
+%p1:<$ P(O)(OH)3 $>
+%p2:<$ P(O)(OH)2(SH) $>
+%p3:<$ P(O)(SH)2(OH) $>
+%p4:<$ P(O)(SH)3 $>
+
+en: The prefix ‘nitroryl’ (not azoryl), for the acyl group –N(O)<, derived from the hypothetical nitroric acid, <%n%>, 
+has been recommended since 1993 (see R-3.3, ref. 2). 
+ru: Приставка «нитрорил» (а не «азорил»), обозначающая ацильную группу –N(O)<, производную от гипотетической 
+нитроровой кислоты <%n%>, рекомендована к применению с 1993 года (см. R-3.3, ссылка 2).
+%n: <$ N(O)(OH)3 $>
+
+@Examples 4 .cells-align-top .left-aligned-cells
+
+@cell colspan=2 .centred
+en: **Acid**
+ru: **Кислота**
+
+@cell colspan=2 .centred
+en: **Derived preselected prefix **
+ru: **Производный &(preselected prefix)**
+
+@cell
+<$ N(O)(OH)3 $>
+
+@cell
+en: nitroric acid (hypothetical; <br> preselected name)
+ru: нитрорная кислота (гипотетическая; <br> &(preselected name))
+
+@cell
+<$ –N(O)"<" $>
+
+@cell
+en: nitroryl (preselected prefix) 
+ru: нитрорил (&(preselected prefix))
+
+@cell
+<$ P(O)(OH)3 $>
+
+@cell
+en: phosphoric acid (preselected name) 
+ru: фосфорная кислота (&(preselected name))
+
+@cell
+<$ –P(O)"<" $>
+
+@cell
+en: phosphoryl (preselected prefix)
+ru: фосфорил (&(preselected prefix))
+
+@cell
+<$ As(O)(OH)3 $>
+
+@cell
+en: arsoric acid (preselected name)  <br>
+(not arsenic acid) 
+ru: &(ars-)&(oric [acid]) кислота (&(preselected name)) <br>
+(не мышьяковая кислота)
+
+@cell
+<$ –As(O)"<" $>
+
+@cell
+en: arsoryl (preselected prefix)  <br>
+(not arsenyl) 
+ru: &(ars-)орил (&(preselected prefix)) <br>
+(не арсенил)
+
+@cell
+<$ Sb(O)(OH)3 $>
+
+@cell
+en: stiboric acid (preselected name)  <br>
+(not antimonic acid) 
+ru: &(stib-)&(oric [acid]) кислота (&(preselected name)) <br>
+(не сурьмяная кислота)
+
+@cell
+<$ –Sb(O)"<" $>
+
+@cell
+en: stiboryl (preselected prefix)  <br>
+(not antimonyl) 
+ru: &(stib-)орил (&(preselected prefix)) <br>
+(не антимонил)
+
+@cell
+<$ NH(O)(OH)2 $>
+
+@cell
+en: azonic acid (preselected name)
+ru: азоновая кислота (&(preselected name))
+
+@cell
+<$ NH(O)"<" $>
+
+@cell
+en: azonoyl (preselected prefix) 
+ru: азоноил (&(preselected prefix))
+
+@cell
+<$ NH2(O)(OH) $>
+
+@cell
+en: azinic acid (preselected name)
+ru: аз&(inic [acid]) кислота (&(preselected name))
+
+@cell
+<$ NH2(O)– $>
+
+@cell
+en: azinoyl (preselected prefix)
+ru: азиноил (&(preselected prefix))
+
+@cell
+<$ PH(O)(OH)2 $>
+
+@cell
+en: phosphonic acid (preselected name) 
+ru: &(phosph-)&(onic [acid]) кислота (&(preselected name))
+
+@cell
+<$ PH(O)"<" $>
+
+@cell
+en: phosphonoyl (preselected prefix) 
+ru: фосфоноил (&(preselected prefix))
+
+@cell
+<$ PH2(O)(OH) $>
+
+@cell
+en: phosphinic acid (preselected name)  
+ru: &(phosph-)&(inic [acid]) кислота (&(preselected name))
+
+@cell
+<$ PH2(O)–{} $> 
+
+@cell
+en: phosphinoyl (preselected prefix)  <br>
+(not phosphinyl) 
+ru: фосфиноил (&(preselected prefix)) <br>
+(не фосфинил)
+
+@cell
+<$ AsH(O)(OH)2 $>
+
+@cell
+en: arsonic acid (preselected name)
+ru: &(ars-)&(onic [acid]) кислота (&(preselected name))
+
+@cell
+<$ AsH(O)"<" $>
+
+@cell
+en: arsonoyl (preselected prefix) 
+ru: арсоноил (&(preselected prefix))
+
+@cell
+<$ AsH2(O)OH $>
+
+@cell
+en: arsinic acid (preselected name) 
+ru: &(ars-)&(inic [acid]) кислота (&(preselected name))
+
+@cell
+<$ AsH2(O)–{} $>
+
+@cell
+en: arsinoyl (preselected prefix) <br>  
+(not arsinyl)
+ru: арсиноил (&(preselected prefix)) <br>
+(не арсинил)
+
+@cell
+<$ SbH(O)(OH)2 $>
+
+@cell
+en: stibonic acid (preselected name) 
+ru: &(stib-)&(onic [acid]) кислота (&(preselected name))
+
+@cell
+<$ SbH(O)"<" $> 
+
+@cell
+en: stibonoyl (preselected prefix) 
+ru: &(stib-)оноил (&(preselected prefix))
+
+@cell
+<$ SbH2(O)OH $>
+
+@cell
+en: stibinic acid (preselected name)
+ru: &(stib-)&(inic [acid]) кислота (&(preselected name))
+
+@cell
+<$ SbH2(O)– $>
+
+@cell
+en: stibinoyl (preselected prefix) 
+ru: &(stib-)&(inoyl) (&(preselected prefix))
+
+@End
+
+#P-67.1.4.1.1.3
+en: Names of substituted fundamental acyl groups derived from mononuclear noncarbon oxoacids
+ru: Названия замещенных фундаментальных ацильных групп, производных от &(mononuclear [acid]|ro*) 
+&(noncarbon [acid]|ro*) оксокислот
+
+en: Names of substituted fundamental acyl groups are formed directly from those of the acids generated by the method 
+described in P-67.1.4.1.1.2. Preferred prefix names of acyl groups are those derived from the preferred IUPAC names 
+of acids. The addition of hydrogen atoms to acyl groups by the method of concatenation, described in P-67.1.4.1.2, is 
+not allowed. 
+ru: Названия замещенных основных ацильных групп образуются непосредственно от названий кислот, полученных методом, 
+описанным в разделе P-67.1.4.1.1.2. В качестве предпочтительных названий ацильных групп (в форме префиксов) используются 
+названия, производные от предпочтительных названий кислот по номенклатуре ИЮПАК. Добавление атомов водорода к ацильным 
+группам методом конкатенации, описанным в разделе P-67.1.4.1.2, не допускается.
+
+@Examples 2
+
+@cell
+en: **Acid**
+ru: **Кислота**
+
+@cell
+en: **Derived preferred prefix**
+ru: **Производный &(preferred prefix)**
+
+@cell
+<$ CH3-P(O)(OH)2 $>
+  
+en: methylphosphonic acid (PIN) 
+ru: метил&(phosph-)&(onic acid) (PIN) 
+
+@cell
+<$ CH3-P(O)"<" $>
+
+en: methylphosphonoyl (preferred prefix) 
+ru: метилфосфоноил (&(preferred prefix))
+
+@cell
+<$ CH3-CH2-SbH(O)OH $>
+
+en: ethylstibinic acid (PIN)
+ru: этил&(stib-)&(inic acid) (PIN)
+
+@cell
+<$ CH3-CH2-SbH(O)–{} $>
+
+en: ethylstibinoyl (preferred prefix)
+ru: этил&(stib-)&(inoyl) (&(preferred prefix))
+
+@cell
+<$ C6H5-As(CH3)(O)OH $>
+
+en: methyl(phenyl)arsinic acid (PIN)
+ru: метил(фенил)&(ars-)&(inic acid) (PIN)
+
+@cell
+<$ C6H5-As(CH3)(O)–{} $>
+
+en: methyl(phenyl)arsinoyl (preferred prefix) 
+ru: метил(фенил)&(ars-)&(inoyl) (&(preferred prefix))
+
+@End
+
+#P-67.1.4.1.1.4
+en: Names of acyl groups derived from mononuclear noncarbon oxoacids modified by functional replacement nomenclature 
+ru: Названия ацильных групп, производных от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот, 
+образованные с использованием &(functional replacement nomenclature|ro)
+
+en: Preferred IUPAC prefixes are formed by the methodology indicated in P-65.2.1.5 for acyl groups derived from carbonic 
+acids modified by the infixes and prefixes in functional replacement nomenclature. All infixes and prefixes listed in 
+Table 1.6 and cited in P-65.1.2.3 are allowed. Applied to the B, N, P, As and Sb mononuclear noncarbon oxoacids, the 
+method consists of first achieving functional replacement in acids, then removing all remaining –OH groups. 
+Preselected names use infixes to denote functional replacement. Names using prefixes to effect functional replacement 
+may be used in general nomenclature. 
+ru: Предпочтительные префиксы ИЮПАК формируются по методике, указанной в P-65.2.1.5, для ацильных групп, полученных из 
+&(carbonic acid|ro*), модифицированных с помощью инфиксов и префиксов в &(functional replacement nomenclature). 
+Допускаются все инфиксы и префиксы, перечисленные в &[Таблице 1.6] и &(cited|p*) согласно P-65.1.2.3. 
+Применительно к &(mononuclear [acid]|da*) &(noncarbon [acid]|da*) оксокислотам B, N, P, As и Sb метод заключается в том, 
+чтобы сначала осуществить &(functional replacement) в кислотах, а затем удалить все оставшиеся –OH группы. 
+В &(preselected name|pr*) названиях для обозначения &(functional replacement|ro) используются инфиксы. Названия, 
+в которых для осуществления &(functional replacement|ro) используются префиксы, могут использоваться в общей номенклатуре.
+
+@Examples 2 .cells-align-top
+
+@cell
+en: **Acid**
+ru: **Кислота**
+
+@cell
+en: **Derived preselected or preferred prefix**
+ru: **Производный &(preselected [prefix])<br> или &(preferred prefix)**
+
+@cell
+<$ P(S)(OH)3 $>
+  
+en: phosphorothioic <%o%>-acid (preselected name)  <br>
+thiophosphoric <%o%>-acid
+ru: фосфоро&(thioic [acid]) <%o%>-кислота (&(preselected name)) <br>
+тио&(phosph-)&(oric [acid]) <%o%>-кислота
+%o:_O_,_O_,_O_
+
+@cell
+<$ ">"P(S)–  $>
+
+en: phosphorothioyl (preselected prefix)  <br>
+thiophosphoryl 
+ru: фосфоротиоил (&(preselected prefix)) <br>
+тиофосфорил
+
+@cell
+<$ As(=NH)(OH)3 $>
+  
+en: arsorimidic acid (preselected name)  <br>
+imidoarsoric acid
+ru: &(ars-)ор&(imidic acid) (&(preselected name)) <br>
+имидо&(ars-)&(oric acid)
+
+@cell
+<$ ">"As(=NH)– $>
+
+en: arsorimidoyl (preselected prefix)  <br>
+imidoarsoryl 
+ru: &(ars-)оримидоил (&(preselected prefix)) <br>
+имидо&(ars-)орил
+
+@cell
+<$ Sb(=NNH2)(OH)3 $>
+  
+en: stiborohydrazonic acid (preselected name)  <br>
+hydrazonostiboric acid 
+ru: &(stib-)оро&(hydrazonic acid) (&(preselected name))  <br>
+гидразоно&(stib-)&(oric acid) 
+
+@cell
+<$ ">"Sb(=NNH2)– $>
+
+en: stiborohydrazonoyl (preselected prefix)  <br>
+hydrazonostiboryl
+ru: &(stib-)орогидразоноил (&(preselected prefix))  <br>
+гидразоно&(stib-)орил
+
+@cell
+<$ NH(S)(OH)2 $>
+  
+en: azonothioic acid (preselected name)  <br>
+thioazonic acid 
+ru: азоно&(thioic acid) (&(preselected name))  <br>
+тиоазоновая кислота
+
+
+@cell
+<$ ">"NH(S) $>
+
+en: azonothioyl (preselected prefix)  <br>
+thioazonoyl
+ru: азонотиоил (&(preselected prefix))  <br>
+тиоазоноил
+
+@cell
+<$ PH2(=NH)(OH) $>
+
+en: phosphinimidic acid (preselected name)  <br>
+imidophosphinic acid 
+ru: &(phosph-)&(in[ic])&(imidic acid) (&(preselected name))  <br>
+имидо&(phosph-)&(inic acid) 
+
+@cell
+<$ –PH2(=NH) $>
+
+en: phosphinimidoyl (preselected prefix)  <br>
+imidophosphinoyl
+ru: &(phosph-)&(in[ic])имидоил (&(preselected prefix))  <br>
+имидо&(phosph-)&(inoyl)
+
+@cell
+<$ (CH3)2P(Se)(OH) $>
+
+en: dimethylphosphinoselenoic acid (PIN)  <br>
+dimethyl(selenophosphinic acid) 
+ru: диметил&(phosph-)&(in[ic])о&(selenoic acid) (PIN)  <br>
+диметил(селено&(phosph-)&(inic acid)) 
+
+@cell
+<$ (CH3)2P(Se)– $>
+
+en: dimethylphosphinoselenoyl (preferred prefix)  <br>
+dimethyl(selenophosphinoyl) 
+ru: диметил&(phosph-)&(in[ic])оселеноил (&(preferred prefix))  <br>
+диметил(селено&(phosph-)&(inoyl)) 
+
+@cell
+<$ C6H5-P(O)Cl(OH) $>
+
+en: phenylphosphonochloridic acid (PIN)  <br>
+phenyl(chlorophosphonic acid) 
+ru: фенил&(phosph-)&(on[ic])о&(chloridic acid) (PIN)  <br>
+фенил(хлоро&(phosph-)&(onic acid)) 
+
+@cell
+<$ C6H5-P(O)(Cl)– $>
+
+en: phenylphosphonochloridoyl (preferred prefix)  <br>
+phenyl(chlorophosphonoyl) 
+ru: фенил&(phosph-)&(on[ic])охлоридоил (&(preferred prefix))  <br>
+фенил(хлорфосфоноил)
+
+@cell
+<$ P(≡N)(OH)2 $>
+  
+en: phosphoronitridic acid (preselected name)  <br>
+nitridophosphoric acid
+ru: фосфоронитридная кислота (&(preselected name)) <br>
+нитридофосфорная кислота
+
+@cell
+<$ ">"P(≡N) $>
+
+en: phosphoronitridoyl (preselected prefix)  <br>
+nitridophosphoryl 
+ru: фосфоронитридоил (&(preselected prefix)) <br>
+нитридофосфорил
+
+@cell
+<$ P(=NH)(NHNH2)(OH)2 $>
+  
+en: phosphorohydrazidimidic acid (preselected name)  <br>
+hydrazidimidophosphoric acid 
+ru: &(phosph-)&(or[ic]o)гидразид&(imidic acid) (&(preselected name))  <br>
+гидразидимидо&(phosph-)&(oric acid)
+
+@cell
+<$ ">"P(=NH)(NHNH2) $>
+
+en: phosphorohydrazidimidoyl (preselected prefix)  <br>
+hydrazidimidophosphoryl 
+ru: &(phosph-)&(or[ic]o)гидразидимидоил (&(preselected prefix))  <br>
+гидразидимидофосфорил 
+
+@cell
+<$ P(O)Cl2(OH) $>
+
+en: phosphorodichloridic acid (preselected name)  <br>
+dichlorophosphoric acid
+ru: &(phosph-)&(or[ic]o)ди&(chloridic acid) (&(preselected name))  <br>
+дихлорфосфорная кислота
+
+@cell
+<$ P(O)(Cl)2–{} $>
+
+en: phosphorodichloridoyl (preselected prefix)  <br>
+dichlorophosphoryl 
+ru: &(phosph-)&(or[ic]o)дихлоридоил (&(preselected prefix))  <br>
+дихлорфосфорил 
+
+@cell
+<$ (CH3)2N-P(O)(OH)2 $>
+  
+en: _N_,_N_-dimethylphosphoramidic acid (PIN)  <br>
+(dimethylamido)phosphoric acid  
+ru: _N_,_N_-диметилфосфорамидная кислота (PIN)  <br>
+(диметиламидо)фосфорная кислота  
+
+@cell
+<$ (CH3)2N-P(O)"<" $>
+
+en: _N_,_N_-диметилфосфорамидоил (&(preferred prefix)) <br>
+(диметиламидо)фосфорил
+
+@cell
+<$ P(O)(OH)2(OOH) $>
+
+en: phosphoroperoxoic acid (preselected prefix)  <br>
+peroxyphosphoric acid 
+ru: &(phosph-)&(or[ic]o)&(peroxoic acid) (&(preselected prefix))  <br>
+перокси&(phosph-)&(oric acid)
+
+@cell
+<$ ">"P(O)(OOH) $>
+
+en: phosphoroperoxoyl (preselected prefix)  <br>
+(hydroperoxy)phosphoryl  <br>
+peroxyphosphoryl 
+ru: фосфоропероксоил (&(preselected prefix))  <br>
+(гидроперокси)фосфорил  <br>
+пероксифосфорил 
+
+@cell
+en: <%a%> or <%b%>  
+ru: <%a%> или <%b%>  
+%a: <$ P(O)(OH)2(OSH) $>
+%b: <$ P(O)(OH)2(SOH) $>
+
+en: phosphoro(thioperoxoic) acid (preselected name)  <br>
+(thioperoxy)phosphoric acid 
+ru: фосфоро(тиопероксоевая) кислота (&(preselected name))  <br>
+(тиоперокси)фосфорная кислота
+
+@cell
+en: <%a%> or <%b%>  
+ru: <%a%> или <%b%>  
+%a: <$ ">"P(O)(OSH) $>
+%b: <$ ">"P(O)(SOH) $>
+
+en: phosphoro(thioperoxoyl) (preselected prefix)  <br>
+(thiohydroperoxy)phosphoryl
+ru: фосфоро(тиопероксоил) (&(preselected prefix)) <br>
+(тиогидроперокси)фосфорил
+
+@End
+
+#P-67.1.4.1.1.5
+en: Names for preferred or preselected prefixes of acyl groups substituted by hydroxy groups or their 
+chalcogen and peroxy analogues
+ru: Названия для &(preferred [prefix]|ro*) или &(preselected prefix|ro*) ацильных групп, замещенных гидроксигруппами, 
+или их халькогеновых и пероксидных аналогов
+
+en: Concatenation is the recommended method to reintroduce groups and their chalcogen analogues in substituent groups or 
+groups that are not treated as infixes in functional replacement nomenclature, such as ‘–OR’, ‘–SR’, etc. It is important 
+to respect the concatenation procedure that is an additive operation using acyl groups only. The following acyl groups 
+are allowed: basic acyl groups described in P-67.1.4.1.1.2 above, substituted basic acyl groups described in  
+P-67.1.4.1.1.3 above, and acyl groups modified by functional replacement described in P-67.1.4.1.1.4 above. 
+Substitution of hydrogen atoms attached to the central atom (substitutable hydrogen) in the basic acyl groups described 
+in P-67.1.4.1.1.2 above is not allowed to generate preferred IUPAC names. 
+ru: Конкатенация — это рекомендуемый метод введения групп и их &(chalcogen analogue|ro*) в состав &(substituent group|ro*) 
+или групп, которые в &(functional replacement nomenclature|pr) не рассматриваются как инфиксы (например, –OR, –SR и т. д.). 
+Важно соблюдать процедуру конкатенации, представляющую собой аддитивную операцию с использованием исключительно ацильных групп. 
+Допускается использование следующих ацильных групп: основных ацильных групп (описанных выше в разделе P-67.1.4.1.1.2), 
+замещенных основных ацильных групп (описанных выше в разделе P-67.1.4.1.1.3) и ацильных групп, модифицированных путем 
+&(functional replacement|ro) (описанных выше в разделе P-67.1.4.1.1.4). Замещение атомов водорода, связанных 
+с центральным атомом (&(substitutable hydrogen)), в основных ацильных группах, описанных выше в разделе P-67.1.4.1.1.2, 
+не допускается при формировании предпочтительных названий ИЮПАК.
+
+en: This method is not recommended to generate any of the prefixes in P-67.1.4.1.1.1 above. 
+ru: Этот метод не рекомендуется использовать для формирования каких-либо префиксов, указанных выше в пункте P-67.1.4.1.1.1.
+
+@Examples
+
+@cell
+<$ {}–NH(O)(OH) $>
+
+en: hydroxyazonoyl (preselected prefix) 
+ru: гидроксиазоноил (&(preselected prefix))
+
+@cell
+<$ {}–P(Se)(OCH3)2 $>
+  
+en: dimethoxyphosphoroselenoyl (preferred prefix)  <br>
+dimethoxy(selenophosphoryl) 
+ru: диметоксифосфороселеноил (&(preferred prefix)) <br>
+диметокси(селенофосфорил)
+
+@cell
+<$ {}–P(O)(OH)(SH)  $>
+
+en: hydroxy(sulfanyl)phosphoryl (preselected prefix) 
+ru: гидрокси(сульфанил)фосфорил (&(preselected prefix))
+
+@cell
+<$ {}–P(O)(SH)2 $>
+  
+en: bis(sulfanyl)phosphoryl (preselected prefix)  
+ru: бис(сульфанил)фосфорил (&(preselected prefix))
+
+@cell
+<$ {}–PH(O)(SeH) $>
+
+en: selanylphosphonoyl (preselected prefix)  
+ru: селанилфосфоноил (&(preselected prefix))
+
+@cell
+<$ {}–PH(S)(SH)  $>
+
+en: sulfanylphosphonothioyl (preselected prefix)  <br>
+sulfanyl(thiophosphonoyl) 
+ru: сульфанилфосфонотиоил (&(preselected prefix))  <br>
+сульфанил(тиофосфоноил) 
+
+@cell
+<$ ">"P(O)(OSH) $>
+
+en: (sulfanyloxy)phosphoryl (preselected prefix)  <br>
+(_SO_-thiohydroperoxy)phosphoryl 
+ru: (сульфанилокси)фосфорил (&(preselected prefix)) <br>
+(_SO_-тиогидроперокси)фосфорил
+
+@cell
+<$ ">"P(S)(SOH)  $>
+
+en: (hydroxysulfanyl)phosphorothioyl (preselected prefix)  <br>
+(_OS_-thiohydroperoxy)phosphorothioyl 
+ru: (гидроксисульфанил)фосфоротиоил (&(preselected prefix)) <br>
+(_OS_-тиогидроперокси)фосфоротиоил
+
+@cell
+<$ CH3-P(O)(OH)–{}  $>
+
+en: hydroxy(methylphosphonoyl) (preferred prefix) 
+ru: гидрокси(метилфосфоноил) (&(preferred prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)//-\\@n(4,-60)<`/`=`\>-P<`||O><|OH>-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: 4,4′-(hydroxyphosphoryl)dibenzoic acid (PIN) 
+ru: 4,4′-(гидроксифосфорил)бензойная кислота (PIN)
+
+@End
+
+#P-67.1.4.1.1.6
+en: Substitutive names for groups derived from mononuclear noncarbon oxoacids 
+ru: &(Substitutive name|*) групп, производных от &(mononuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Substitutive nomenclature based on parent hydrides <%a%>, <%b%>, <%c%>, <%d%>, <%e%>, <%f%>, <%g%> is used to generate names 
+of substituent groups for which acyl group names cannot be generated by the methods in P-67.1.4.1.1.1 through  
+P-67.1.4.1.1.5 and the corresponding As and Sb acids. It is also used to indicate a different type of free valencies, for 
+example an ‘ylidene’ type instead of the ‘diyl’ observed in a substituent group derived from the acid in criteria (b) and (d).
+ru: &(Substitutive nomenclature), основанная на &(parent hydride|pr*) <%a%>, <%b%>, <%c%>, <%d%>, <%e%>, <%f%>, <%g%>, 
+используется для образования названий &(substituent group|ro*), для которых невозможно образовать названия ацильных групп 
+методами, описанными в пунктах P-67.1.4.1.1.1 – P-67.1.4.1.1.5, а также для соответствующих кислот мышьяка и сурьмы. 
+Она также применяется для обозначения иного типа свободных валентностей — например, типа «илиден» вместо типа «диил», 
+характерного для &(substituent group|ro), производной от кислоты, указанной в критериях (b) и (d).
+%a: <$ BH3 $>
+%b: <$ PH3 $>
+%c: <$ AsH3 $>
+%d: <$ SbH3 $>
+%e: <$ PH5 $>
+%f: <$ AsH5 $>
+%g: <$ SbH5 $>
+
+@Examples
+
+@cell
+<$ {}–P(OH)2 $>
+  
+en: dihydroxyphosphanyl (preselected prefix)
+ru: дигидроксифосфанил (&(preselected prefix))
+
+@cell
+<$ {}–AsH(OH)  $>
+
+en: hydroxyarsanyl (preselected prefix) 
+ru: гидроксиарсанил (&(preselected prefix)) 
+
+@cell
+<$ {}–AsHCl $>
+
+en: chloroarsanyl (preselected prefix) 
+ru: хлороарсанил (&(preselected prefix)) 
+
+@cell
+<$ –P(NH2)2 $>
+  
+en: diaminophosphanyl (preselected prefix) 
+ru: диаминофосфанил (&(preselected prefix)) 
+
+@cell
+<$ ">"Sb(OH)  $>
+
+en: hydroxystibanediyl (preselected prefix)
+ru: гидроксистибандиил (&(preselected prefix)) 
+
+@cell
+<$ {}=P(OH)  $>
+
+en: hydroxyphosphanylidene (preselected prefix)  
+ru: гидроксифосфанилиден (&(preselected prefix))
+
+@cell
+<$ {}=B(O-CH3)  $>
+
+en: methoxyboranylidene (preferred prefix) 
+ru: метоксиборанилиден (&(preferred prefix)) 
+
+@cell
+<$ {}–P(O-CH3)2 $>
+  
+en: dimethoxyphosphanyl (preferred prefix) 
+ru: диметоксифосфанил (&(preferred prefix)) 
+
+@cell
+<$ {}=P(O)(OH)  $>
+
+en: hydroxy(oxo)-<%L%>-phosphanylidene (preselected prefix) 
+ru: гидрокси(оксо)-<%L%>-фосфанилиден (&(preselected prefix)) 
+%L:λ^{5}
+
+@cell
+<$ {}=As(O)(OCH3)  $>
+
+en: methoxy(oxo)-<%L%>-arsanylidene (preferred prefix) 
+ru: метокси(оксо)-<%L%>-арсанилиден (&(preferred prefix)) 
+%L:λ^{5}
+
+@cell
+<$ {}=N(O)OH  $>
+
+en: hydroxy(oxo)-<%L%>-azanylidene (preselected prefix)  <br>
+_aci_-nitro  <br>
+(see P-67.1.6) 
+ru: гидрокси(оксо)-<%L%>-азанилиден (&(preferred prefix)) <br>
+_аци_-нитро <br>
+(см. P-67.1.6)
+%L:λ^{5}
+
+@cell
+<$ HO-N(O)={}_(h)/-\<`/`-`\>-COOH $>
+
+en: 4-[hydroxy(oxo)-<%L%>-azanylidene]cyclohexane-1-carboxylic acid (PIN)  <br>
+4-_aci_-nitrocyclohexane-1-carboxylic acid <br>
+(see _aci_-nitro compounds, P-67.1.6) 
+ru: 4-[гидрокси(оксо)-<%L%>-азанилиден]циклогексан-1-карбоновая кислота (PIN) <br>
+4-_аци_-нитроциклогексан-1-карбоновая кислота <br>
+(см. _аци_-нитросоединения, P-67.1.6)
+%L:λ^{5}
+
+@cell
+<$ {}–P=O $>
+
+en: oxophosphanyl (preselected prefix)
+ru: оксофосфанил (&(preselected prefix))
+
+@cell
+<$ {}–P(O)2 $>
+  
+en: dioxo-<%L%>-phosphanyl (preselected prefix)
+ru: диоксо-<%L%>-фосфанил (&(preselected prefix))
+%L:λ^{5}
+
+@cell
+<$ {}–Sb=O $>
+
+en: oxostibanyl (preselected prefix) 
+ru: оксостибанил (&(preselected prefix)) 
+
+@End
 
 #P-67.1.4.1.2
 en: Substituent groups for general nomenclature  
 ru: &(Substituent group|*) для общей номенклатуры
 
+en: The prefix ‘hydro’ may be added by concatenation only for use in general nomenclature. 
+ru: Префикс «гидро-» может присоединяться путем конкатенации только при использовании в общей номенклатуре.
+
+@Examples
+
+@cell
+<$ ">"PH(O)  $>
+
+en: hydrophosphoryl  <br>
+phosphonoyl (preselected prefix) 
+ru: гидрофосфорил <br>
+фосфоноил (&(preselected prefix))
+
+@cell
+<$ ">"PH(S)  $>
+
+en: hydro(thiophosphoryl)  <br>
+phosphonothioyl (preselected prefix) 
+ru: гидро(тиофосфорил) <br>
+фосфонотиоил (&(preselected prefix))
+
+@End
+
 #P-67.1.4.1.3
 en: Compound and complex substituent groups 
 ru: &(Compound [substituent group]|*) и &(complex substituent group|*) 
 
-// -----------------
+en: If a B, N, P, As, or Sb containing group is attached by an oxygen or other chalcogen atom or a nitrogen atom to a 
+compound that also contains another substituent having priority over the B, N, P, As, or Sb containing group for citation 
+as principal group, then the B, N, P, As, or Sb containing group is named by a compound or complex prefix built from 
+prefixes described above and arranged in the order in which the components occur in the compound. 
+ru: Если группа, содержащая B, N, P, As или Sb, присоединена атомом кислорода или другого халькогена или атомом азота 
+к соединению, которое также содержит другой &(substituent), имеющий приоритет перед группой, содержащей B, N, P, As или Sb, 
+для &(citation|ro) в качестве основной группы, то группа, содержащая B, N, P, As или Sb, именуется при помощи 
+&(compound [prefix]|ro) или &(complex [prefix]|ro) префикса, построенного из префиксов, описанных выше, и расположенных в том 
+порядке, в котором компоненты встречаются в соединении.
+
+@Examples
+
+@cell
+<$ (HO)2P(O)-O-CH2-COOH $>
+
+en: (phosphonooxy)acetic acid (PIN) 
+ru: (фосфоноокси)уксусная кислота (PIN)
+
+@cell
+<$ (CH3O)2P(O)-S-CH2-CH2-COOH $>
+
+en: 3-[(dimethoxyphosphoryl)sulfanyl]propanoic acid (PIN) 
+ru: 3-[(диметоксифосфорил)сульфанил]пропановая кислота (PIN)
+
+@cell
+<$ (HO)(HS)P(S)-NH-CH2-CH2-COOH $>
+
+en: 3-{[hydroxy(sulfanyl)phosphorothioyl]amino}propanoic acid (PIN) 
+ru: 3-{[гидрокси(сульфанил)фосфоротиоил]амино}пропановая кислота (PIN)
+
+@End
 
 #P-67.1.4.2
-en: Substituent groups derived from boron acid and silicic acid  
-ru: &(Substituent group|*), производные от борной и кремниевой кислот
+en: Substituent groups derived from boron acids and silicic acid  
+ru: &(Substituent group|*), производные от борных кислот и кремниевой кислоты
 
-#P-67-1.4.3
+en: Substituent groups derived from boron and silicon mononuclear acids and their analogues are formed by substituting the 
+parent hydride names ‘borane’ and ‘silane’. The name borono, for <%a%>, is retained and is the preselected name. 
+%a: <$ {}–B(OH)2 $>
+ru: &(Substituent group|*), производные от &(mononuclear [acid]|ro*) кислот бора и кремния и их аналогов, образуются путем 
+изменения названий соответствующих &(parent hydride|ro*) — «боран» и «силан». Название «бороно» для <%a%> сохраняется 
+и является &(preselected name|tv).
+
+en: The name boryl has been used for the substituent group <%a%>, now named boranyl as the preselected name, and 
+consequently is not to be used for the prefix group derived from boric acid by removal of all three <%b%> groups. 
+ru: Название «борил» использовалось для &(substituent group|ro) <%a%> (для которого в качестве &(preselected name|ro) 
+теперь установлено название «боранил») и, следовательно, не должно применяться для префикса, образуемого из борной кислоты 
+путем удаления всех трех групп <%b%>.
+%a: <$ H2B–{} $>
+%b: <$ {}–OH $>
+
+@Examples
+
+@cell
+<$ {}–B(OH)2 $>
+  
+en: borono (preselected prefix)
+ru: бороно (&(preselected prefix))
+
+@cell
+<$ {}–BH2 $>
+ 
+en: boranyl (preselected prefix)  <br>
+(not boryl) 
+ru: боранил (&(preselected prefix)) <br>
+(не борил)
+
+@cell
+<$ ">"BH  $>
+
+en: boranediyl (preselected prefix)  <br>
+(not boronoyl)
+ru: борандиил (&(preselected prefix)) <br>
+(не бороноил)
+
+@cell
+–B<  
+
+en: boranetriyl (preselected prefix)  <br>
+(not boryl) 
+ru: борантриил (&(preselected prefix)) <br>
+(не борил)
+
+@cell
+=BH  
+
+en: boranylidene (preselected prefix)  <br>
+(not boronoyl) 
+ru: боранилиден (&(preselected prefix)) <br>
+(не бороноил)
+
+@cell
+≡B  
+
+en: boranylidyne (preselected prefix)  <br>
+(not boryl) 
+ru: боранилидин (&(preselected prefix)) <br>
+(не борил)
+
+@cell
+<$ {}–B(NH2)2 $>
+  
+en: diaminoboranyl (preselected prefix)  <br>
+(not borodiamidoyl) 
+ru: диаминоборанил (&(preselected prefix)) <br>
+(не бородиамидоил)
+
+@cell
+<$ {}–BH(O-CH3)  $>
+
+en: methoxyboranyl (preferred prefix)  <br>
+(not hydromethoxyboryl) 
+ru: метоксиборанил (&(preferred prefix)) <br>
+(не гидрометоксиборил)
+
+@cell
+<$ {}–Si(OH)3 $>
+  
+en: trihydroxysilyl (preselected prefix) 
+ru: тригидроксисилил (&(preselected prefix))
+
+@cell
+<$ {}–SiCl2(NH2) $>
+
+en: aminodichlorosilyl (preselected prefix) 
+ru: аминодихлорсилил (&(preselected prefix)) 
+
+@cell
+<$ {}–Si(O-CH3)3 $>
+  
+en: trimethoxysilyl (preferred prefix) 
+ru: триметоксисилил (&(preferred prefix)) 
+
+@cell
+<$ {}–Si(OH)2(SH)  $>
+
+en: dihydroxy(sulfanyl)silyl (preselected prefix) 
+ru: дигидрокси(сульфанил)силил (&(preselected prefix)) 
+
+@End
+
+#P-67.1.4.3
 en: Substituent groups derived from nitric and nitrous acids 
 ru: &(Substituent group|*), производные от азотной и азотистой кислот
+
+@Content
+
+en: The acyl groups ‘nitro’ for <%a%> and ‘nitroso’ for <%b%> when attached to the following elements C, P, As, Sb, Bi, Si, 
+Ge, Sn, Pb, B, Al, Ga, In, and Tl were discussed in P-61.5. In this section, the rules for naming substituent groups 
+related to esters, amides and hydrazides of nitric acid and nitrous acid are discussed. 
+ru: Ацильные группы «нитро» (для <%a%>) и «нитрозо» (для <%b%>) при их присоединении к элементам C, P, As, Sb, Bi, Si, 
+Ge, Sn, Pb, B, Al, Ga, In и Tl были рассмотрены в подразделе P-61.5. В данном разделе обсуждаются правила наименования 
+&(substituent group|ro*), производных сложных эфиров, амидов и гидразидов азотной и азотистой кислот.
+%a: <$ {}–NO2 $>
+%b: <$ {}–NO $>
+
+#P-67.1.4.3.1
+en: Substituent groups derived from esters of nitric acid and nitrous acid 
+ru: &(Substituent group|*), производные сложных эфиров азотной и азотистой кислот
+
+en: Nitrates and nitrites as esters of nitric acid and nitrous acid are discussed in P-67.1.3.2. Substituent groups derived from 
+these compounds are named by concatenation by adding the acyl groups ‘nitro’ for <%a%> and ‘nitroso’ for <%b%> to the 
+prefix ‘oxy’ or by substituting these acyl groups into substituent groups such as ‘sulfanyl’ , ‘selanyl’, or ‘tellanyl’.
+ru: Нитраты и нитриты, являющиеся эфирами азотной и азотистой кислот, рассматриваются в разделе P-67.1.3.2. 
+Названия &(substituent group|ro*), производных от этих соединений, образуются путем конкатенации: к префиксу «окси» добавляются 
+ацильные группы «нитро» (для <%a%>) и «нитрозо» (для <%b%>) либо эти ацильные группы вводятся в состав таких 
+&(substituent group|ro*), как «сульфанил», «селанил» или «телланил». 
+%a: <$ {}–NO2 $>
+%b: <$ {}–NO $>
+
+@Examples
+
+@cell
+<$ {}–O-NO2 $>
+  
+en: nitrooxy (preselected prefix) 
+ru: нитроокси (&(preselected prefix)) 
+
+@cell
+<$ {}–S-NO2 $>
+  
+en: nitrosulfanyl (preselected prefix)
+ru: нитросульфанил (&(preselected prefix)) 
+
+@cell
+<$ {}–O-NO $>
+
+en: nitrosooxy (preselected prefix)
+ru: нитрозоокси (&(preselected prefix))
+
+@cell
+<$ {}–Se-NO  $>
+
+en: nitrososelanyl (preselected prefix) 
+ru: нитрозоселанил (&(preselected prefix)) 
+
+@End
+
+#P-67.1.4.3.2
+en: Substituent groups derived from amides of nitric acid and nitrous acid 
+ru: &(Substituent group|*), производные амидов азотной и азотистой кислот
+
+en: The amide of nitric acid, <%a%>, is named ‘nitramide’ and the substituent group derived from this amide by the loss 
+of one hydrogen atom is called ‘nitramido’ by applying the general rule for naming amides (see P-66.1.1.4.3); that is, 
+changing the final letter ‘e’ of the amide name to ‘o’. Other derivatives and those derived from nitrous amide, <%b%>, 
+are formed by substituting the acyl groups ‘nitro’ and ‘nitroso’ into the appropriate substituent groups ‘amino’, ‘imino’, 
+and ‘azanetriyl’. It must be noted that the location of the groups <%c%> and <%d%> to another nitrogen atom does not 
+constitute lengthening of a chain.
+ru: Амид азотной кислоты, <%a%>, называется «нитрамид», а &(substituent group), образующаяся из этого амида при отщеплении 
+одного атома водорода, именуется «нитрамидо» в соответствии с общим правилом наименования амидов (см. P-66.1.1.4.3) — 
+заменой конечной буквы «e» в названии амида на «o». Другие производные, а также производные амида азотистой кислоты, <%b%>, 
+образуются путем введения ацильных групп «нитро» и «нитрозо» в &(substituent group|*): «амино», «имино» и «азанетриил». 
+Следует отметить, что присоединение групп <%c%> и <%d%> к другому атому азота не считается удлинением цепи.
+%a: <$ O2N-NH2 $>
+%b: <$ ON–NH2 $>
+%c: <$ {}–NO $>
+%d: <$ {}–NO2 $>
+
+@Examples
+
+@cell
+<$ –NH-NO $>
+
+en: nitrosoamino (preselected prefix) 
+ru: нитрозоамино (&(preselected prefix)) 
+
+@cell
+<$ ">"N-NO2 $>
+  
+en: nitroazanediyl (preselected prefix) 
+ru: нитроазандиил (&(preselected prefix)) 
+
+@cell
+<$ =N-NO2 $>
+  
+en: nitroimino (preselected prefix)
+ru: нитроимино (&(preselected prefix))
+
+@cell
+<$ –NH-NO2 $>
+  
+en: nitramido (preselected prefix) 
+ru: нитрамидо (&(preselected prefix)) 
+
+@cell
+<$ –N=S $>
+
+en: sulfanylideneamino (preselected prefix)  <br>
+thioxoamino  <br>
+thionitroso 
+ru: сульфанилиденамино (&(preselected prefix)) <br>
+тиоксоамино <br>
+тионитрозо
+
+@cell
+<$ –O2S-N=S $>
+
+en: (sulfanylidineamino)sulfonyl (preselected prefix)  <br>
+(thioxoimino)sulfonyl  <br>
+(thionitroso)sulfonyl 
+ru: (сульфанилидинамино)сульфонил (&(preselected prefix)) <br>
+(тиоксоимино)сульфонил <br>
+(тионитрозо)сульфонил
+
+@End
+
+#P-67.1.4.3.3
+en: Substituent groups derived from the hydrazides of nitric acid and nitrous acid 
+ru: &(Substituent group|*), производные гидразидов азотной и азотистой кислот
+
+en: Substituent groups derived from nitric hydrazide, <%a%>, and nitrous hydrazide, <%b%>, are named by 
+substituting the acyl groups ‘nitro’ or ‘nitroso’ into the appropriate substituent group ‘hydrazin-1-yl’,  
+‘hydrazin-1-ylidene’, etc. 
+ru: &(Substituent group|*), производные от азотного гидразида <%a%> и азотистого гидразида <%b%>, называют путем 
+введения ацильных групп «нитро» или «нитрозо» в соответствующие &(substituent group|*), такие как «гидразин-1-ил», 
+«гидразин-1-илиден» и т. д.
+%a: <$ O2N-NH-NH2 $>
+%b: <$ ON-NH-NH2 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+O2N-NH@n(2)-NH@n(1)-{}
+$>
+
+en: 2-nitrohydrazin-1-yl (preselected prefix) 
+ru: 2-нитрогидразин-1-ил (&(preselected prefix)) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+ON-NH@n(2)-N@n(1)={}
+$>
+
+en: nitrosohydrazinylidene (preselected prefix) 
+ru: нитрозогидразинилиден (&(preselected prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-N@n(1)(NO2)-{}
+$>
+
+en: 1-nitrohydrazin-1-yl (preselected prefix)
+ru: 1-нитрогидразин-1-ил (&(preselected prefix))
+
+@End
 
 #P-67.1.4.4
 en: Substituent groups derived from chalcogen acids 
 ru: &(Substituent group|*), производные от халькогеновых кислот
 
+#P-67.1.4.4.1
+en: Acyl groups
+ru: Ацильные группы
+
+en: There are two methods to generate names of acyl groups derived from the chalcogen acids for use as substituent groups. 
+ru: Существуют два метода образования названий ацильных групп, производных от халькогеновых кислот, 
+для использования в качестве &(substituent group|ro*).
+
+@List 1
+
+@item
+en: The methodology described in P-65.3.2.3, i.e., infixes denoting functional replacement by -S-, -Se-, -Te-, =NH, 
+and <%nh2%>, and concatenation for other atoms or groups. 
+ru: Методика, описанная в разделе P-65.3.2.3, а именно: использование инфиксов, обозначающих &(functional replacement) 
+на -S-, -Se-, -Te-, =NH и <%nh2%>, а также объединение названий для других атомов или групп.
+%nh2: <$ =NNH2 $>
+
+@item
+en: The general method described in P-65.2.1.5 for deriving acyl groups from derivatives of carbonic acid, and 
+applied in P-67.1.4.1.1.4 for acyl groups derived from phosphoric, phosphonic and phosphinic acids and their 
+arsenic and antimony congeners is applied to sulfuric acid and its functional replacement analogues. 
+ru: Общий метод, описанный в разделе P-65.2.1.5 для образования ацильных групп из производных &(carbonic acid|ro) 
+(и примененный в разделе P-67.1.4.1.1.4 к ацильным группам, производным от &(phosph-)&(oric [acid]|ro), 
+&(phosph-)&(onic [acid]|ro) и &(phosph-)&(inic [acid]|ro) кислот, а также их мышьяк- и сурьмасодержащих аналогов), 
+применяется к серной кислоте и ее аналогам, полученным путем функционального замещения.
+
+@End
+
+en: Method (1) produces preselected prefixes. 
+ru: Метод (1) позволяет получить &(preselected prefix|*).
+
+@Examples
+
+@cell
+<$ –SO2–  $>
+
+en: sulfonyl (preselected prefix)  <br>
+sulfuryl 
+ru: сульфонил (&(preselected prefix)) <br>
+сульфурил
+
+@cell
+<$ –S(O)(S)– $>
+
+en: sulfonothioyl (preselected prefix)  
+sulfurothioyl 
+ru: сульфонотиоил (&(preselected prefix))
+сульфуротиоил
+
+@cell
+<$ –S(S)2– $>
+
+en: sulfonodithioyl (preselected prefix)  <br>
+sulfurodithioyl
+ru: сульфонодитиоил (&(preselected prefix)) <br>
+сульфуродитиоил
+
+@cell
+<$ –S(O)(=NH)– $>
+
+en: sulfonimidoyl (preselected prefix)  <br>
+sulfurimidoyl
+ru: сульфонимидоил (&(preselected prefix)) <br>
+сульфуримидоил
+
+@cell
+<$ –S(=NH)2– $>
+
+en: sulfonodiimidoyl (preselected prefix)  <br>
+sulfurodiimidoyl
+ru: сульфонодиимидоил (&(preselected prefix)) <br>
+сульфуродиимидоил
+
+@cell
+<$ –S(O)(=NNH2)– $>
+
+en: sulfonohydrazonoyl (preselected prefix)  <br>
+sulfurohydrazonoyl 
+ru: сульфоногидразоноил (&(preselected prefix)) <br>
+сульфурогидразоноил
+
+@cell
+<$ –S(=NNH2)2– $>
+
+en: sulfonodihydrazonoyl (preselected prefix)  <br>
+sulfurodihydrazonoyl
+ru: сульфонодигидразоноил (&(preselected prefix)) <br>
+сульфуродигидразоноил
+
+@cell
+<$ –SO2-Cl $>
+
+en: chlorosulfonyl (preselected prefix)  <br>
+sulfurochloridoyl
+ru: хлорсульфонил (&(preselected prefix)) <br>
+сульфурохлоридоил
+
+@cell
+<$ –SO2-CN $>
+
+en: cyanosulfonyl (preferred prefix)  <br>
+sulfurocyanidoyl 
+ru: цианосульфонил (&(preferred prefix)) <br>
+сульфуроцианидоил
+
+@cell
+<$ –SO2-NCS $>
+
+en: isothiocyanatosulfonyl (preferred prefix)  <br>
+sulfur(isothiocyanatidoyl)
+ru: изотиоцианатосульфонил (&(preferred prefix)) <br>
+сульфур(изотиоцианатидоил)
+
+@cell
+<$ –S(O)(S)-NCS $>
+
+en: isothiocyanatosulfonothioyl (preferred prefix)  <br>
+sulfur(isothiocyanatido)thioyl
+ru: изотиоцианатосульфонотиоил (&(preferred prefix)) <br>
+сульфур(изотиоцианатидо)тиоил
+
+@cell
+<$ –SO2-O-CH3 $>
+  
+en: methoxysulfonyl (preferred prefix)  <br>
+methoxysulfuryl
+ru: метоксисульфонил (&(preferred prefix)) <br>
+метоксисульфурил
+
+@cell
+<$ –S(=O)-Cl $>
+
+en: chlorosulfinyl (preselected prefix) 
+ru: хлорсульфинил (&(preselected prefix))
+
+@End
+
+en: Method (2) cannot be applied to sulfurous acid, selenic acid and selenous acid, and telluric acid and tellurous acid, 
+because ambiguous names may result. 
+ru: Метод (2) неприменим к сернистой, селеновой и селенистой, а также теллуровой и теллуристой кислотам, 
+поскольку это может привести к неоднозначности названий.
+
+#P-67.1.4.4.2+
+en: If a sulfur-containing group is attached by oxygen (chalcogen) or nitrogen to a compound that contains 
+also another substituent having priority over the sulfur- containing group for citation as principal group, then the sulfur
+containing group is named by an appropriate prefix formed by concatenation or substitution (see P-35.4) as described in 
+P-65.3.2.3 and P-67.1.4.4.1. 
+ru: Если серосодержащая группа присоединена через атом кислорода (халькогена) или азота к соединению, содержащему также 
+другой &(substituent), имеющий приоритет над серосодержащей группой при выборе старшей группы, то серосодержащая группа 
+обозначается соответствующим префиксом, образованном путем конкатенации или &(substitution|ro) (см. P-35.4), 
+как описано в разделах P-65.3.2.3 и P-67.1.4.4.1.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(sulfooxy)propanoic acid (PIN) 
+ru: 3-(сульфоокси)пропановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-SO-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-[(methoxysulfinyl)oxy]propanoic acid (PIN) 
+ru: 3-[(метоксисульфинил)окси]пропановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-SO2-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-[(chlorosulfonyl)oxy]propanoic acid (PIN)  <br>
+3-(sulfurochloridoyloxy)propanoic acid
+ru: 3-[(хлорсульфонил)окси]пропановая кислота (PIN) <br>
+3-(сульфурохлоридоилокси)пропановая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-SO2-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(sulfamoyloxy)propanoic acid (PIN)  <br>
+3-(sulfuramidoyloxy)propanoic acid  <br>
+[not 3-(sulfonamidoyloxy)propanoic acid;  <br>
+the name sulfonamidic acid is not an approved name] 
+ru: 3-(сульфамоилокси)пропановая кислота (PIN) <br>
+3-(сульфурамидоилокси)пропановая кислота <br>
+[не 3-(сульфонамидоилокси)пропановая кислота; <br>
+название «сульфонамидовая кислота» не является утвержденным]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-SO-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-[(aminosulfinyl)oxy]propanoic acid (PIN)  <br>
+[not 3-(sulfinamidoyloxy)propanoic acid;  <br>
+the name sulfinamidic acid is not an approved name] 
+ru: 3-[(аминосульфинил)окси]пропановая кислота (PIN) <br>
+[не 3-(сульфинамидоилокси)пропановая кислота; <br>
+название «сульфинамидовая кислота» не является утвержденным]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-O-SO2-NH-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-[(methoxysulfonyl)amino]propanoic acid (PIN) 
+ru: 3-[(метоксисульфонил)амино]пропановая кислота (PIN)
+
+@End
+
 #P-67.1.4.5
 en: Substituent groups derived from halogen acids 
 ru: &(Substituent group|*), производные от галогеновых кислот
 
+en: Names of prefixes derived from halogen acids and their chalcogen analogues are used as compulsory prefixes in 
+substitutive nomenclature. They are listed in Table 5.1 and discussed in P-61.3.2.3. 
+ru: Названия префиксов, производных от галогеновых кислот и их &(chalcogen analogue|ro*), используются в качестве 
+обязательных префиксов в &(substitutive nomenclature|pr). Они приведены в &[Таблице 5.1] и рассматриваются в разделе P-61.3.2.3.
 
+@Examples
 
-//======================
+@cell
+<$ OCl– $>
+
+en: chlorosyl (preselected prefix)  
+ru: хлорозил (&(preselected prefix))  
+
+@cell
+<$ SCl– $>
+
+en: thiochlorosyl (preselected prefix)  
+ru: тиохлорозил (&(preselected prefix))  
+
+@cell
+<$ O2Cl– $>
+
+en: chloryl (preselected prefix)  
+ru: хлорил (&(preselected prefix))  
+
+@cell
+<$ O3Cl– $>
+
+en: perchloryl (preselected prefix) 
+ru: перхлорил (&(preselected prefix)) 
+
+@End
+
+en: The corresponding Br , F and I groups are named in a similar manner. 
+ru: Соответствующие группы Br, F и I называются аналогичным образом.
+
+@Examples
+
+@cell
+<$ C6H5-BrO $>
+
+en: bromosylbenzene (PIN) 
+ru: бромозилбензол (PIN)
+
+@End
 
 #P-67.1.5
 en: Seniority order among noncarbon oxoacids and derivatives  
 ru: Порядок старшинства среди &(noncarbon [acid]|ro*) оксокислот и их производных
 
+#P-67.1.5.1+
+en: When a characteristic group having priority to be cited as principal group is present (see seniority order of 
+classes, P-41, and of acids, P-42), prefixes having retained names or names systematically formed (see P-67.1.4.1) are 
+used to denote inorganic acids. 
+ru: При наличии &(characteristic group|ro), имеющей приоритет при выборе главной группы (см. порядок старшинства классов, 
+P-41, и кислот, P-42), для обозначения неорганических кислот используются префиксы, имеющие &(retained name|*) 
+или названия, образованные систематически (см. P-67.1.4.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO\As<`/HO>-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-COOH
+$>
+
+en: 4-(dihydroxyarsanyl)benzoic acid (PIN)  <br>
+[<%a%> is senior to <%b%>] 
+ru: 4-(дигидроксиарсанил)бензойная кислота (PIN) <br>
+[<%a%> имеет приоритет над <%b%>]
+%a:<$ –COOH $>
+%b:<$ –As(OH)2 $>
+
+@cell
+<$ (HO)2P(O)-CH2-COOH $>
+
+en: phosphonoacetic acid (PIN) 
+ru: фосфоноуксусная кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(2,90)<_q6SO2-O-CH3>`//`\`||/\\@n(1)_q6P(O)(OH)2
+$>
+
+en: [2-(methoxysulfonyl)phenyl]phosphonic acid (PIN)  <br>
+(an acid is senior to an ester) 
+ru: [2-(метоксисульфонил)фенил]фосф&(onic acid) (PIN) <br>
+(кислота имеет более высокий приоритет, чем сложный эфир)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HO)2As(O)-CH2@n(4)-CH2@n(3)-CH2@n(2)-CH2@n(1)-P(O)(OH)2
+$>
+
+en: (4-arsonobutyl)phosphonic acid (PIN)  <br>
+(a phosphorus acid is senior to an arsenic acid) 
+ru: (4-&(ars-)&(on[ic]o)бутил)&(phosph-)&(onic acid) (PIN) <br>
+(фосфорная кислота старше мышьяковой кислоты)
+
+@cell
+<$ C6H5-SO2-N=P(NH-C6H5)3 $>
+  
+en: _N_-(trianilino-<%L%>-phosphanylidene)benzenesulfonamide (PIN)   <br>
+_N_-(trianilinophosphoranylidene)benzenesulfonamide   <br>
+[not <%L2%>-triphenyl-<%L3%>-benzenesulfonylphosphorimidic triamide;   <br>
+nor <%L3%>-benzenesulfonylphosphorimidic tris(phenylamide)] 
+ru: _N_-(трианилино-<%L%>-фосфанилиден)бензолсульфонамид (PIN)   <br>
+_N_-(трианилинофосфоранилиден)бензолсульфонамид   <br>
+[не <%L2%>-трифенил-<%L3%>-бензолсульфонилфосфор&(imidic [anion]) триамид; <br>
+и не <%L3%>-бензолсульфонилфосфор&(imidic [anion]) трис(фениламид)]
+%L:λ^{5}
+%L2:_N_,_N_′,_N_′′
+%L3:_N_′′′
+
+@End
+
+#P-67.1.5.2+
+en: When derivatives of mononuclear acids are named by functional class nomenclature, the seniority order is 
+established in accordance with the greater number of atoms linked to the central atom and appearing as early as possible 
+in the list: <%o%>, <%oo%>, <%s%>, <%se%>, <%te%> for the acids, then F, Cl, Br, I, then the pseudohaliodes in the order 
+<%a%>, <%b%>, <%c%>, <%d%>, <%e%>, <%f%>, <%g%>, then amides and hydrazides. 
+ru: При наименовании производных &(mononuclear [acid]|ro*) кислот по &(functional class nomenclature|pr) порядок 
+старшинства определяется на основе наибольшего числа атомов, связанных с центральным атомом и встречающихся в списке 
+как можно раньше: <%o%>, <%oo%>, <%s%>, <%se%>, <%te%> (для кислот), затем F, Cl, Br, I, далее псевдогалогениды в порядке 
+<%a%>, <%b%>, <%c%>, <%d%>, <%e%>, <%f%>, <%g%>, и, наконец, амиды и гидразиды.
+%o: <$O$>
+%oo: <$OO$>
+%s: <$S$>
+%se: <$Se$>
+%te: <$Te$>
+%a: <$N3$>
+%b: <$CN$>
+%c: <$NC$>
+%d: <$NCO$>
+%e: <$NCS$>
+%f: <$NCSe$>
+%g: <$NCTe$>
+
+@Examples
+
+@cell
+<$ Br2P(O)-CH2-CH2-P(O)Cl2 $>
+  
+en: (2-phosphorodibromidoylethyl)phosphonic dichloride (PIN)  <br>
+(Cl is senior to Br in the seniority order of classes) 
+ru: (2-&(phosph-)&(or[ic]o)дибромидоилэтил)&(phosph-)&(onic [anion]) дихлорид (PIN)  <br>
+(в порядке старшинства классов Cl старше Br) 
+
+@cell
+<$ Br2P(O)-CH2-CH2-P(S)Cl2 $>
+
+en: (2-phosphorodichloridothioylethyl)phosphonic dibromide (PIN) <br>
+(phosphonic dibromide is preferred to phosphonothioic dichloride; <br>
+O > S is considered before Cl > Br)  
+ru: (2-&(phosph-)&(or[ic]o)дихлоридотиоэтил)&(phosph-)&(onic [anion]) дибромид (PIN)  <br>
+(&(phosph-)&(onic [anion]) дибромид предпочтительнее &(phosph-)&(on[ic]o)&(thioic [anion]|ro) дихлорида;  <br>
+O > S рассматривается до Cl > Br) 
+
+@cell
+<$ Cl2P(O)-O-CH2-CH2-O-P(O)Cl(NH2) $>
+
+en: 2-(phosphoramidochloridoyloxy)ethyl phosphorodichloridate (PIN)  <br>
+(phosphorodichloridic acid preferred to phosphoramidochloridic acid) 
+ru: 2-(фосфорамидохлоридоилокси)этил фосфородихлоридат (PIN) <br>
+(фосфороди&(chloridic acid) предпочтительнее фосфорамидо&(chloridic acid|ro))
+
+@End
+
+
 #P-67.1.6
 en: _aci_-Nitro compounds
 ru: _аци_-Нитросоединения
 
-// --------------
+en: _aci_-Nitro compounds deserve a special mention. They are tautomers of nitro compounds having the general structure 
+<%a%> or <%b%> and are named as derivatives of azinic acid, <%c%>. 
+ru: Особого упоминания заслуживают _аци_-нитросоединения. Они представляют собой таутомеры нитросоединений, имеющие общую 
+структуру <%a%> или <%b%>, и называются производными азиновой кислоты <%c%>.
+%a: <$ {R}=N(O)OH $>
+%b: <$ {R}2N(O)OH $>
+%c: <$ H2N(O)OH $>
 
-#P-67.2
-en: Di- and polynuclear noncarbon oxoacids  
-ru: Ди- и &(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты
+@Examples
 
-#P-67.3
-en: Substitutive names and functional class names of polyacids 
-ru: &(Substitutive name|*) и &(functional class name|*) поликислот
+@cell
+<$ CH2=N(O)-OH $>
 
-//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-#P-68
-en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
-P-62 through P-67 
-ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+en: methylideneazinic acid (PIN)  <br>
+_aci_-nitromethane 
+ru: метилиденазиновая кислота (PIN) <br>
+_аци_-нитрометан
 
+@End
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+en: When needed, the <%a%> group is designated by a prefix derived from ‘azinoyl’, that is preferred to ‘nitroryl’ (see  
+P-67.1.4.1.1.2). The group <%b%> is named ‘hydroxy(oxo)-<%L%>-azanylidene’. 
+ru: При необходимости группа <%a%> обозначается префиксом, образованным от «азиноил» ​​(предпочтительным по сравнению с 
+«нитрорил»; см. P-67.1.4.1.1.2). Группа <%b%> называется «гидрокси(оксо)-<%L%>-азанилиден».
+%a: <$ {R}2N(O)–{} $>
+%b: <$ {}=N(O)OH $>
+%L:λ^{5}
+
+@p .framed
+en: The name ‘hydroxy(oxo)-<%L%>-azanylidene’ is a change from the 1993 (ref. 2) recommended name ‘hydroxynitroryl’, 
+that is not acceptable in the context of these recommendations where two free valencies must be expressed by the 
+correct ‘ylidene’ or ‘diyl’ type. 
+ru: Название «гидрокси(оксо)-<%L%>-азанилиден» пришло на смену рекомендованному в 1993 г. (ссылка 2) названию 
+«гидроксинитрорил», которое неприемлемо в контексте данных рекомендаций, требующих обозначения двух свободных валентностей 
+с использованием корректных суффиксов типа «-илиден» или «-диил».
+%L:λ^{5}
+
+@Examples
+
+@cell
+<$ (CH3)2N(O)-CH2-CN $>
+
+en: cyano-_N_,_N_-dimethylmethanamine _N_-oxide (PIN; see P-62.5) <br>
+(dimethylazinoyl)acetonitrile  <br>
+[not (dimethylnitroryl)acetonitrile] 
+ru: циано-_N_,_N_-диметилметанамин _N_-оксид (PIN; см. P-62.5) <br>
+(диметилазиноил)ацетонитрил <br>
+[не (диметилнитрорил)ацетонитрил]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/-\<`/`-`\>@n(4,-60)=N(O)-OH
+$>
+
+en: 4-[hydroxy(oxo)-<%L%>-azanylidene]cyclohexane-1-carboxylic acid (PIN)  <br>
+4-_aci_-nitrocyclohexane-1-carboxylic acid 
+ru: 4-[гидрокси(оксо)-<%L%>-азанилиден]циклогексан-1-карбоновая кислота (PIN) <br>
+4-_аци_-нитроциклогексан-1-карбоновая кислота
+%L:λ^{5}
+
+@End
