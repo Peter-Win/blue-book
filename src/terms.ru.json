@@ -60,6 +60,8 @@
   "assembly|da*": "сборокам",
   "assembly|tv*": "сборками",
 
+  "-ate": "ат",
+
   "attachment atom": "атом прикрепления",
   "attachment atom|*": "атомы прикрепления",
   "attachment atom|tv*": "атомами прикрепления",
@@ -532,6 +534,7 @@
   "imidic|ro*": "имидных",
   "imidic [anion]": "имидный",
 
+  "-ite": "ит",
 
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
@@ -596,6 +599,7 @@
   "noncarbon [acid]|ro*": "неуглеродных",
   "noncarbon [acid]|da*": "неуглеродным",
   "noncarbon [acid]|tv*": "неуглеродными",
+  "noncarbon [acid]|pr*": "неуглеродных",
 
   "nondetachable [prefix]": "неотделяемый",
   "nondetachable [prefix]|*": "неотделяемые",
@@ -611,6 +615,9 @@
   "nonstandard bonding atom|ro": "атома с нестандартными связями",
   "nonstandard bonding atom|ro*": "атомов с нестандартными связями",
 
+  "-nuclear [acid]": "ядерная",
+  "-nuclear [acid]|ro*": "ядерных",
+
   "oic acid": "овая кислота",
   "oic acid|*": "овые кислоты",
 
@@ -622,8 +629,11 @@
   "onic [acid]": "оновая",
   "onic [acid]|ro": "оновой",
   "onic acid": "оновая кислота",
+  "onic acid|ro": "оновой кислоты",
   "onic [amid]": "оновый",
   "onic [anion]": "оновый",
+
+  "onous acid": "онистая кислота",
   "onous [acid]": "онистая",
   "onous [acid]|ro": "онистой",
   "onous [anion]": "онистый",
@@ -647,10 +657,12 @@
   "oric [amid]": "орный",
   "oric [anion]": "орный",
 
+  "orous acid": "ористая кислота",
   "orous [acid]": "ористая",
   "orous [acid]|ro": "ористой",
   "orous [acid]|tv": "ористой",
   "orous [acid]|vi": "ористую",
+  "orous [anion]": "ористый",
 
   "ortho- and peri-fused|tv": "_орто_- и _пери_-конденсированным",
   "ortho- and peri-fused|tv*": "_орто_- и _пери_-конденсированными",
@@ -833,6 +845,10 @@
 
   "phosph-": "фосф",
 
+  "polybasic [acid]": "многоосновная",
+  "polybasic [acid]|ro*": "многоосновных",
+  "polybasic acid": "многоосновная кислота",
+
   "polycarbonic acid|tv": "полиугольной кислотой",
   "polycarbonic acid|*": "полиугольные кислоты",
   "polycarbonic acid|ro*": "полиугольных кислот",
@@ -846,6 +862,7 @@
   "polynuclear acid|ro*": "многоядерных кислот",
   "polynuclear [acid]|*": "многоядерные",
   "polynuclear [acid]|ro*": "многоядерных",
+  "polynuclear [acid]|pr*": "многоядерных",
 
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",
   "polynuclear carbon acid|ro*": "многоядерных угольных кислот",

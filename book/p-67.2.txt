@@ -12,6 +12,937 @@ ru: Как и в случае с &(mononuclear [acid]|tv*) кислотами, �
 как и названия &(mononuclear [acid]|ro*) кислот, с той лишь разницей, что для операции &(functional replacement|ro) 
 используются только префиксы.
 
+en: Di- and polynuclear noncarbon oxoacids, whose central atoms are B, P, As, Sb, S, Se, are described here. They are 
+divided into three types. Di- and trinuclear acids are exemplified for each central atom. In some cases higher 
+polynuclear acids are known. Their names are formed by using the appropriate multiplying prefixes to indicate the 
+number of central atoms. Di- and polynuclear noncarbon oxoacids are discussed in Sections P-67.2 and P-67.3. 
+ru: Здесь описаны ди- и &(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, центральными атомами которых являются 
+B, P, As, Sb, S или Se. Они подразделяются на три типа. Для каждого центрального атома приведены примеры ди- и 
+трёх&(-nuclear [acid]|ro*) кислот; в ряде случаев известны и более сложные &(polynuclear acid|*). Их названия образуются 
+с использованием соответствующих множительных приставок, указывающих на число центральных атомов. Ди- и &(polynuclear [acid]|*) 
+&(noncarbon [acid]|*) оксокислоты, рассматриваются в разделах P-67.2 и P-67.3.
+
+en: Insofar as their structures are known and conform to those of the phosphorus acids, arsenic and antimony acids are 
+named in the same way as those of phosphorus, with ‘ars’ and ‘stib’, respectively, in place of ‘phosph’. Similarly, 
+tellurium acids are named in the same way as those of selenium, by changing ‘selen’ to ‘tellur’ in the names of acids. 
+ru: Поскольку структуры кислот мышьяка и сурьмы известны и аналогичны структурам кислот фосфора, их называют так же, как и 
+кислоты фосфора, заменяя корень «&(phosph-)» на «&(ars-)» и «&(stib-)» соответственно. Аналогичным образом кислоты теллура 
+называют так же, как и кислоты селена, заменяя в названиях кислот часть «селен» на «теллур».
+
+@Content
+
+#P-67.2.1
+en: Preselected names 
+ru: &(Preselected name|*)
+
+en: The following traditional names are retained as preselected names (for consistency in the names of polynuclear 
+oxoacids, the numerical infix ‘di’ has been uniformly used in naming dinuclear ‘hypo’ acids). Although the ‘meta’ acids 
+are for general nomenclature only, they are preferred IUPAC names if the structure is unknown. 
+ru: Следующие традиционные названия сохранены в качестве &(preselected name|ro*) (для обеспечения единообразия в наименованиях 
+&(polynuclear [acid]|ro*) оксокислот при обозначении двух&(-nuclear [acid]|ro*) «гипо»-кислот систематически используется 
+числовой инфикс «ди»). Хотя названия «мета»-кислот относятся лишь к общей номенклатуре, они считаются предпочтительными названиями 
+по номенклатуре ИЮПАК в тех случаях, когда структура соединения неизвестна.
+
+@p .framed
+en: For consistency in the names of polynuclear oxoacids, the numerical infix ‘di’ has been uniformly used in naming 
+dinuclear ‘hypo’ acids, for example, hypodiphosphorous acid, rather than hypophosphorous acid.
+ru: Для обеспечения единообразия в наименованиях &(polynuclear [acid]|ro*) оксокислот при названии двух&(-nuclear [acid]|ro*) 
+«гипокислот» систематически используется числовой инфикс «ди-»: например, гиподи&(phosph-)&(orous acid) (а не 
+гипо&(phosph-)&(orous acid)).
+
+@Examples --
+
+@cell
+<$ (HO)2B-O-B(OH)2 $>
+  
+en: diboric acid (preselected name) 
+ru: диборная кислота (&(preselected name))
+
+@cell
+<$ (HO)2B-B(OH)2 $>
+  
+en: hypodiboric acid (preselected name) 
+ru: гиподиборная кислота (&(preselected name)) 
+
+@cell
+<$ (HO)3Si-O-Si(OH)3 $>
+  
+en: disilicic acid (preselected name)
+ru: дикремниевая кислота (&(preselected name))
+
+@cell
+<$ (HO)HP(O)-O-HP(O)(OH) $>
+
+en: diphosphonic acid (preselected name) 
+ru: ди&(phosph-)&(onic acid) (&(preselected name)) 
+
+@cell
+<$ (HO)(O)HP-PH(O)(OH) $>
+
+en: hypodiphosphonic acid (preselected name) 
+ru: гиподи&(phosph-)&(onic acid) (&(preselected name)) 
+
+@cell
+<$ HO-PH-O-PH-OH $>
+
+en: diphosphonous acid (preselected name) 
+ru: ди&(phosph-)&(onous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)HP-PH(OH) $>
+
+en: hypodiphosphonous acid (preselected name) 
+ru: гиподи&(phosph-)&(onous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2P(O)-O-P(O)(OH)2 $>
+  
+en: diphosphoric acid (preselected name) 
+ru: ди&(phosph-)&(oric acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2(O)P-P(O)(OH)2 $>
+  
+en: hypodiphosphoric acid (preselected name) 
+ru: гиподи&(phosph-)&(oric acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2P-O-P(OH)2 $>
+  
+en: diphosphorous acid (preselected name) 
+ru: ди&(phosph-)&(orous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2P-P(OH)2 $>
+  
+en: hypodiphosphorous acid (preselected name) 
+ru: гиподи&(phosph-)&(orous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)HAs(O)-O-HAs(O)(OH) $>
+
+en: diarsonic acid (preselected name) 
+ru: ди&(ars-)&(onic acid) (&(preselected name)) 
+
+@cell
+<$ (HO)(O)HAs-HAs(O)(OH) $>
+
+en: hypodiarsonic acid (preselected name) 
+ru: гиподи&(ars-)&(onic acid) (&(preselected name)) 
+
+@cell
+<$ HO-AsH-O-AsH-OH $>
+
+en: diarsonous acid (preselected name) 
+ru: ди&(ars-)&(onous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)HAs-AsH(OH) $>
+
+en: hypodiarsonous acid (preselected name) 
+ru: гиподи&(ars-)&(onous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2As(O)-O-As(O)(OH)2 $>
+  
+en: diarsoric acid (preselected name)  <br>
+diarsenic acid 
+ru: ди&(ars-)&(oric acid) (&(preselected name))  <br>
+димышьяковая кислота 
+
+@cell
+<$ (HO)2(O)As-As(O)(OH)2 $>
+  
+en: hypodiarsoric acid (preselected name)  <br>
+hypodiarsenic acid 
+ru: гиподи&(ars-)&(oric acid) (&(preselected name))  <br>
+гиподимышьяковая кислота 
+
+@cell
+<$ (HO)2As-O-As(OH)2 $>
+  
+en: diarsorous acid (preselected name)  <br>
+diarsenous acid 
+ru: ди&(ars-)&(orous acid) (&(preselected name))  <br>
+димышьяковистая кислота 
+
+@cell
+<$ (HO)2As-As(OH)2 $>
+  
+en: hypodiarsorous acid (preselected name)  <br>
+hypodiarsenous acid 
+ru: гиподи&(ars-)&(orous acid) (&(preselected name))  <br>
+гиподимышьяковистая кислота 
+
+@cell
+<$ (HO)HSb(O)-O-HSb(O)(OH) $>
+
+en: distibonic acid (preselected name) 
+ru: ди&(stib-)&(onic acid) (&(preselected name))
+
+@cell
+<$ (HO)(O)HSb-HSb(O)(OH) $>
+
+en: hypodistibonic acid (preselected name) 
+ru: гиподи&(stib-)&(onic acid) (&(preselected name)) 
+
+@cell
+<$ HO-SbH-O-SbH-OH $>
+
+en: distibonous acid (preselected name) 
+ru: ди&(stib-)&(onous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)HSb-SbH(OH) $>
+
+en: hypodistibonous acid (preselected name)
+ru: гиподи&(stib-)&(onous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2Sb(O)-O-Sb(O)(OH)2 $>
+  
+en: distiboric acid (preselected name) 
+ru: ди&(stib-)&(oric acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2(O)Sb-Sb(O)(OH)2 $>
+  
+en: hypodistiboric acid (preselected name) 
+ru: гиподи&(stib-)&(oric acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2Sb-O-Sb(OH)2 $>
+  
+en: distiborous acid (preselected name)
+ru: ди&(stib-)&(orous acid) (&(preselected name)) 
+
+@cell
+<$ (HO)2Sb-Sb(OH)2 $>
+  
+en: hypodistiborous acid (preselected name)
+ru: гиподи&(stib-)&(orous acid) (&(preselected name))
+
+@cell
+<$ HO-SO2-O-SO2-OH $>
+
+en: disulfuric acid (preselected name) 
+ru: дисерная кислота (&(preselected name)) 
+
+@cell
+<$ HO-SO2-SO2-OH $>
+
+en: dithionic acid (preselected name)  <br>
+hypodisulfuric acid 
+ru: дитионовая кислота (&(preselected name))  <br>
+гиподисерная кислота 
+
+@cell
+<$ HO-SO-SO-OH $>
+
+en: dithionous acid (preselected name)  <br>
+hypodisulfurous acid
+ru: дитионистая кислота (&(preselected name))  <br>
+гиподисернистая кислота
+
+@cell
+<$ [HAsO3]'n' = ({}-As(O)(OH)O-{})'n' $>
+
+en: metaarsoric acid  <br>
+(only for general nomenclature)  <br>
+metaarsenic acid
+ru: мета&(ars-)&(oric acid) <br>
+(только для общей номенклатуры) <br>
+метамышьяковая кислота
+
+@cell
+<$ [HAsO2]'n' = ({}-As(OH)O-{})'n' $>
+  
+en: metaarsorous acid  <br>
+(only for general nomenclature)  <br>
+metaarsenous aicd 
+ru: мета&(ars-)&(orous acid) <br>
+(только для общей номенклатуры) <br>
+метамышьяковистая кислота
+
+@cell
+<$ [HBO]'n' = ({}-B(OH)O-{})'n' $>
+  
+en: metaboric acid  <br>
+(only for general nomenclature) 
+ru: метаборная кислота <br>
+(только для общей номенклатуры)
+
+@cell
+<$ [HPO3]'n' = ({}-P(O)(OH)O-{})'n' $>
+  
+en: metaphosphoric acid  <br>
+(only for general nomenclature) 
+ru: метафосфорная кислота <br>
+(только для общей номенклатуры)
+
+@cell
+<$ [HPO2]'n' = ({}-P(OH)O-{})'n' $>
+  
+en: metaphosphorous acid  <br>
+(only for general nomenclature) 
+ru: мета&(phosph-)&(orous acid) <br>
+(только для общей номенклатуры)
+
+@cell
+<$ [H2SiO3]'n' = ({}-Si(OH)2O-{})'n' $>
+  
+en: metasilicic acid  <br>
+(only for general nomenclature) 
+ru: метакремниевая кислота <br>
+(только для общей номенклатуры)
+
+@cell
+<$ [HSbO3]'n' = ({}-Sb(O)(OH)O-{})'n' $>
+  
+en: metastiboric acid  <br>
+(only for general nomenclature) 
+ru: мета&(stib-)&(oric acid) <br>
+(только для общей номенклатуры)
+
+@cell
+<$ [HSbO2]'n' = ({}-Sb(OH)O-{})'n' $>
+  
+en: metastiborous acid  <br>
+(only for general nomenclature) 
+ru: мета&(stib-)&(orous acid) <br>
+(только для общей номенклатуры)
+
+@cell
+<$ (HO)HP(O)-O-HP(O)-O-HP(O)(OH)  $>
+
+en: triphosphonic acid (preselected name)
+ru: три&(phosph-)&(onic acid) (&(preselected name))
+
+@cell
+<$ (HO)2P(O)-O-P(O)(OH)-O-P(O)(OH)2 $>
+  
+en: triphosphoric acid (preselected name) 
+ru: три&(phosph-)&(oric acid) (&(preselected name)) 
+
+@cell
+<$ HO-SO2-O-SO2-O-SO2-OH  $>
+
+en: trisulfuric acid (preselected name)
+ru: трисерная кислота (&(preselected name))
+
+@End
+
+
+#P-67.2.2
+en: Functional replacement derivatives of di- and polynuclear noncarbon oxoacids  
+ru: Производные &(functional replacement|ro) ди- и &(polynuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+@Content
+
+#P-67.2.2.1
+en: General methodology
+ru: Общая методология 
+
+en: Prefixes are used to indicate functional replacement of polynuclear noncarbon oxoacids, listed in P-67.1.2.3.3 and  
+P-67.1.2.3.4. The prefixes are cited and numbered in alphabetical order in front of the retained name of the polyacid, 
+with appropriate locants as required. Each acid is numbered from one end to the other, starting from and finishing at a 
+central atom. Before applying the functional replacement operation, the principal function must be selected; it receives 
+the lower locant. The order of functions to be considered is: acids (see P-67.2.2.2), acid halides and pseudohalides (see 
+P-67.2.3), amides and hydrazides (see P-67.2.4).
+ru: Префиксы используются для обозначения &(functional replacement|ro) в &(polynuclear [acid]|pr*) &(noncarbon [acid]|pr*) 
+оксокислотах, перечисленных в P-67.1.2.3.3 и P-67.1.2.3.4. Эти префиксы &(cited|*) в алфавитном порядке и нумеруются 
+перед &(retained name|tv) поликислоты с добавлением соответствующих локантов (при необходимости). Нумерация каждой кислоты 
+осуществляется от одного конца к другому, начиная и заканчивая на центральном атоме. Перед выполнением операции 
+&(functional replacement|ro) необходимо выбрать старшую функцию; ей присваивается меньший локант. Рассматриваемые 
+функции располагаются в следующем порядке: кислоты (см. P-67.2.2.2), галогенангидриды и псевдогалогенангидриды кислот 
+(см. P-67.2.3), амиды и гидразиды (см. P-67.2.4).
+
+#P-67.2.2.2
+en: Replacement by –OO–, –S–, =S, –Se–, =Se, –Te–, =Te, –NH–, and =NH
+ru: Замена на –OO–, –S–, =S, –Se–, =Se, –Te–, =Te, –NH– и =NH
+
+en: Functional replacement of oxygen atom(s) is denoted by prefixes, i.e., peroxy, for –OO–; thio, for –S– or =S; seleno, 
+for –Se– or =Se; telluro, for –Te– or =Te; and imido, for –NH– or =NH. Superscripted italic letter locants <%nn%> are 
+used to designate substitution on imido groups that are not linkages between atoms that receive numerical locants as 
+part of the chain. For rules on primes, see P-16.9. 
+ru: &(Functional replacement) атома (или атомов) кислорода обозначается префиксами: перокси- для –OO–; тио- для –S– или =S; 
+селено- для –Se– или =Se; теллуро- для –Te– или =Te; и имидо- для –NH– или =NH. Для обозначения &(substitution|ro) 
+в имидогруппах, не являющихся мостиками между атомами, которые получают цифровые локанты как часть цепи, используются 
+курсивные буквенные локанты в верхнем индексе <%nn%>. Правила использования штрихов см. в разделе P-16.9.
+%nn: _N_^{1} _N_^{2}
+
+@p .framed
+en: The use of superscripted ‘_N_’ locants is a change from previous recommendations serially letters for example, ‘_N_′’, 
+‘_N_′′’, etc. ; the priming serially follows the arabic numbers of the chain, the number of primes parallels the 
+increasing value of the arabic numbers. 
+ru: Использование локантов «_N_» с верхними индексами (например, «_N_′», «_N_′′» и т. д.) представляет собой отход от прежних 
+рекомендаций, предписывавших последовательное использование штрихов; количество штрихов при этом соответствует возрастанию 
+значений арабских цифр, обозначающих положения в цепи.
+
+en: Superscripted italic letters are used to specifically locate the chalcogen atoms in acid groups, for example <%s%>.
+ru: Для точного указания положения атомов халькогенов в кислотных группах используются курсивные символы в верхнем индексе, 
+например <%s%>.
+%s: _S_^{3} 
+
+@p .framed
+en: This is a change from previous recommendations where the specific location of a chalcogen atom in acid groups was 
+described by an on line arabic number prefixed to the atomic symbol. 
+ru: Это отличие от предыдущих рекомендаций, согласно которым конкретное положение атома халькогена в кислотных группах 
+обозначалось арабской цифрой, стоящей перед символом атома.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HO)2P<`||mO>@n(5)-O@n(4)-P@n(3)<`||mO>(SH)-O@n(2)-P@n(1)<`||mO>(OH)_(h,N0)(SH)
+$>
+
+en: 1,3-dithiotriphosphoric <%L1%>-acid  <br>
+(not 1,3-dithiotriphosphoric <%L2%>-acid)  <br>
+(name derived from the preselected name triphosphoric acid) 
+ru: 1,3-дитиотрифосфорная <%L1%>-кислота <br>
+(не 1,3-дитиотрифосфорная <%L2%>-кислота) <br>
+(название образовано от &(preselected name|ro) трифосфорная кислота)
+%L1:_S_^{1},_S_^{3}
+%L2:1-_S_,3-_S_
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HO)2P<`||mO>@n(3)-O@n(2)-P@n(1)<`||mO>(SH)_(h,N0)(OH)
+$>
+
+en: 1-thiodiphosphoric _S_^{1}-acid (name derived from the preselected name diphosphoric acid;  <br>
+the ‘thio’ replacement determines locant ‘1’) 
+ru: 1-тиодифосфорная _S_^{1}-кислота (название образовано от &(preselected name|ro) «дифосфорная кислота»; <br>
+замещение «тио» определяет локант «1»)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-AsH<`||mO>@n(3)-Se@n(2)-AsH<`||mS>@n(1)-SH
+$>
+
+en: 2-seleno-1,1,3-trithiodiarsonic <%L%>-acid  <br>
+(name derived from the preselected name diarsonic acid;  <br>
+the ‘dithio’ replacement for one acid group determines the locant ‘1’) 
+ru: 2-селено-1,1,3-тритиоди&(ars-)&(onic [acid]) <%L%>-кислота <br>
+(название получено из &(preselected name|ro) ди&(ars-)&(onic acid|ro); <br>
+замена одной кислотной группы на «дитио» определяет локант «1»)
+%L:_S_^{1},_S_^{3}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-PH@n(3)(O)-O@n(2)-PH@n(1)(S)-OH
+$>
+
+en: 1,3-dithiodiphosphonic <%L%>-acid  <br>
+(name derived from the preselected name diphosphonic acid;  <br>
+the ‘OH’ group of the acid function is alphabetically preferred for lower locant to the ‘SH’ group) 
+ru: 1,3-дитиоди&(phosph-)&(onic [acid]) <%L%>-кислота <br>
+(название образовано от &(preselected name|ro) ди&(phosph-)&(onic acid); <br>
+группа «OH» в кислотной функции предпочтительнее в алфавитном порядке для меньшего локанта, чем группа «SH»)
+%L:_O_^{1},_S_^{3}
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-AsH<`||mNH>@n(1)-AsH<`||mO>@n(2)-OH
+$>
+
+en: 1-imidohypodiarsonic acid  <br>
+(name derived from the preselected name hypodiarsonic acid;  <br>
+the ‘imido’ replacement prefix determines the locant ‘1’) 
+ru: 1-имидогиподи&(ars-)&(onic acid) <br>
+(название образовано от &(preselected name|ro) гиподи&(ars-)&(onic acid); <br>
+префикс замены «имидо» определяет локант «1»)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HO)2P<`||mHN>@n(1)-O@n(2)-P@n(3)<`||mNH>(OH)2
+$>
+
+en: 1,3-diimidodiphosphoric acid  <br>
+(name derived from the preselected name diphosphoric acid)
+ru: 1,3-диимидоди&(phosph-)&(oric acid) <br>
+(название образовано от &(preselected name|ro) ди&(phosph-)&(oric acid))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2@n(3)-O@n(2)-SO2@n(1)-SH
+$>
+
+en: 1-thiodisulfuric <%s%>-acid  <br>
+(name derived from preselected name disulfuric acid) 
+ru: 1-тиодисерная <%s%>-кислота <br>
+(название образовано от &(preselected name|ro) дисерная кислота)
+%s:_S_^{1}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-SO2@n(3)-O@n(2)-SO2@n(1)-SeH
+$>
+
+en: 3-amido-1-selenodisulfuric _Se_^{1}-acid  <br>
+(name derived from the preselected name disulfuric acid;  <br>
+the acid determines the locant ‘1’) 
+ru: 3-амидо-1-селенодисерная _Se_^{1}-кислота <br>
+(название образовано от &(preselected name|ro) дисерной кислоты; <br>
+кислота определяет локант «1»)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2@n(3)-S@n(2)-SO2@n(1)-OH
+$>
+
+en: 2-thiodisulfuric acid (preselected name)  <br>
+sulfanedisulfonic acid  <br>
+trithionic acid (traditional name) 
+ru: 2-тиодисерная кислота (&(preselected name)) <br>
+сульфанди&(sulfonic acid) <br>
+тритионовая кислота (традиционное название)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2@n(3)-S@n(2,-53,.69)-S-SO2@n(1)-OH
+$>
+
+en: 2-(dithioperoxy)disulfuric acid (preselected name)  <br>
+disulfanedisulfonic acid  <br>
+tetrathionic acid (traditional name) 
+ru: 2-(дитиоперокси)дисерная кислота (&(preselected name)) <br>
+дисульфанди&(sulfonic acid) <br>
+тетратионовая кислота (традиционное название)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2@n(1)-NH@n(2)-SO2@n(3)-NH@n(4)-SO2@n(5)-OH
+$>
+
+en: 2,4-diimidotrisulfuric acid  <br>
+(name derived from the preselected name trisulfuric acid) 
+ru: 2,4-диимидотрисерная кислота <br>
+(название образовано от &(preselected name|ro) трисерная кислота)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+HO-S@n(1)<-SO@n(2)-SH>`||mN@Nx(^1)-CH3
+$>
+
+en: _N_^{1}-methyl-1-imido-2-thiodithionous _S_^{2}-acid (PIN;  <br>
+the ‘imido’ replacememt prefix determines the locant ‘1’)  <br>
+[not 1-(methylimido)-2-thiodithionous 2-_S_-acid] 
+ru: _N_^{1}-метил-1-имидо-2-тиодити&(onous [acid]) _S_^{2}-кислота (PIN; <br>
+префикс замены «имидо» определяет локант «1») <br>
+[не 1-(метилимидо)-2-тиодитионовая 2-_S_-кислота]
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-N@Nx(^1)||mS@n(1)<`-HO>-S@n(2)<-OH>`||NH@Nx(^2)
+$>
+
+en: _N_^{1}-methyl-1,2-diimidodithionous acid (PIN)
+ru: _N_^{1}-метил-1,2-диимидодити&(onous acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-S<`||S><||O>@n(3,-125)-NH@n(2)-S<`||S><||O>@n(1,-55)-SH
+$>
+
+en: 2-imido-1,1,3-trithiodisulfuric <%L%>-acid  <br>
+(name derived from the preselected name disulfuric acid) 
+ru: 2-имидо-1,1,3-тритиодисерная <%L%>-кислота <br>
+(название образовано от &(preselected name|ro) дисерная кислота)
+%L:_O_^{3},_S_^{1}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+HO-S<`||NH@Nx()><||S>@n(1,-125)-O@n(2)-S<`||O><||O>@n(3,-55)-SH
+$>
+
+en: 1-imido-1,3-dithiodisulfuric <%L%>-acid  <br>
+(name derived from the preselected name disulfuric acid;  <br>
+the ‘OH’ group of the acid function is alphabetically preferred for lower locant to the ‘SH’ group) 
+ru: 1-имидо-1,3-дитиодисерная <%L%>-кислота <br>
+(название образовано от &(preselected name|ro) дисерная кислота; <br>
+группа «OH» кислотной функции предпочтительнее в алфавитном порядке для меньшего локанта, чем группа «SH»)
+%L:_O_^{1},_S_^{3}
+
+@End
+
+#P-67.2.3
+en: Acid halides and pseudohalides of di- and polynuclear noncarbon oxoacids  
+ru: Галогениды кислот и псевдогалогениды ди- и &(polynuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Acid halides and pseudohalides, in which all OH groups have been replaced by halides or pseudohalide atoms or 
+groups, are named by functional class nomenclature by replacing the name ‘acid’ by the name of the appropriate halide 
+or pseudohalide. For acid halides and acid pseudohalides the senority is halides (alphabetical) followed by the following 
+seniority for the halogenides: <%a%>, CN, NC, NCO, NCS, NCSe, NCTe. 
+ru: Галогениды и псевдогалогениды кислот, в которых все ОН-группы заменены атомами или группами галогенов или псевдогалогенидов, 
+называются по &(functional class nomenclature|pr) путем замены названия «кислота» на название соответствующего галогенида 
+или псевдогалогенида. Для галогенидов и псевдогалогенидов кислот приоритет отдается галогенидам (в алфавитном порядке), 
+за которыми следует следующий порядок для галогенидов: <%a%>, CN, NC, NCO, NCS, NCSe, NCTe.
+%a: <$ N3 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Br-PH<`||O>@n(1)-NH@n(2)-PH<`||O>@n(3)-Cl
+$>
+
+en: 2-imidodiphosphonic 1-bromide 3-chloride  <br>
+(name derived from the preselected name diphosphonic acid;  <br>
+the ‘Br’, bromide, is preferred to ‘Cl’, chloride (alphabetically) and determines the locant ‘1’)
+ru: 2-имидоди&(phosph-)&(onic [anion]) 1-бромид 3-хлорид <br>
+(название образовано от &(preselected name|ro) названия ди&(phosph-)&(onic acid); <br>
+«Br», бромид, предпочтительнее, чем «Cl», хлорид (в алфавитном порядке), и определяет локант «1»)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl2`P@n(1)(O)-S@n(2)-P@n(3)(O)Cl2
+$>
+
+en: 2-thiodiphosphoric tetrachloride  <br>
+(name derived from the preselected name diphosphoric acid) 
+ru: 2-тиодифосф&(oric [anion]) тетрахлорид <br>
+(название образовано от &(preselected name|ro) дифосф&(oric acid))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(OCN)2P@n(1)(O)-O@n(2)-P@n(3)(O)(NCO)2
+$>
+
+en: diphosphoric tetraisocyanate (PIN) 
+ru: ди&(phosph-)&(oric [anion]) тетраизоцианат  (PIN)
+
+@cell
+<$ I-P<`|I>-P<`|I>-CN $>
+
+en: cyanohypodiphosphorous triiodide (PIN) 
+ru: цианогиподи&(phosph-)&(orous [anion]) трииодид (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-PH@n(3)<`||O>-NH@n(2)-PH@n(1)<`||O>-Cl
+$>
+
+en: 3-amido-2-imidodiphosphonic chloride  <br>
+(name derived from the preselected name diphosphonic acid,  <br>
+the acid chloride is preferred to the amide group and determines the locant ‘1’) 
+ru: 3-амидо-2-имидоди&(phosph-)&(onic [anion]) хлорид <br>
+(название происходит от &(preselected name|ro) ди&(phosph-)&(onic acid), <br>
+хлорид кислоты предпочтительнее амидной группы и определяет локант «1»)
+
+@End
+
+#P-67.2.4
+en: Amides and hydrazides of di- and polynuclear noncarbon oxoacids  
+ru: Амиды и гидразиды ди- и &(polynuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Polynuclear noncarbon oxoacids in which all –OH groups have been replaced by <%a%> or <%b%> groups are named 
+as amides or hydrazides, respectively, by functional class nomenclature. Amides are expressed by the class name 
+‘amide’, preceded by an appropriate multiplying prefix, ‘di’, ‘tri’, etc. Similarly, hydrazides are expressed by the class 
+name ‘hydrazide’. Functional replacement is described by prefixes cited before the whole name and not in front of the 
+class name. Italic letter locants <%L1%>, etc. and superscripted letter locants <%L2%>, etc. are used to designate substitution 
+on nitrogen atoms that are not linkages between central atoms that receive numerical locants as part of the chain. When 
+a choice is needed, amides are senior to hydrazides, and receive the lower locants. 
+ru: &(Polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты, в которых все группы –OH заменены группами <%a%> или <%b%>, 
+называются, соответственно, амидами или гидразидами по &(functional class nomenclature|pr). Амиды обозначаются названием 
+класса «амид», перед которым ставится соответствующий умножающий префикс «ди», «три» и т. д. Аналогично, гидразиды 
+обозначаются названием класса «гидразид». &(Functional replacement) описывается префиксами, которые указываются перед 
+полным названием, а не перед названием класса. Для обозначения замещения на атомах азота, не являющихся связями между 
+центральными атомами, которые получают числовые локанты в составе цепи, используются курсивные буквенные обозначения 
+<%L1%> и т. д., а также надстрочные буквенные обозначения <%L2%> и т. д. . При необходимости выбора амиды имеют более 
+высокий приоритет, чем гидразиды, и получают меньшие локанты.
+%a: <$–NH2$>
+%b: <$–NHNH2$>
+%L1:_N_, _N_′
+%L2:_N_^{1}, _N_′^{1}
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-P<`||mO><|H2N@Nx(′^1,80,.7)>@n(1,130)--P@n(2,50)<`||mO><|NH2@Nx(′^2,80,.7)>-NH2@Nx(^2)
+$>
+
+en: hypodiphosphoric tetraamide  <br>
+(name derived from the preselected name hypodiphosphoric acid) 
+ru: гиподи&(phosph-)&(oric [anion]) тетраамид <br>
+(название образовано от &(preselected name|ro) гиподифосфорная кислота)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-PH@n(1)<`||mO>-PH@n(2)<`||mO>-NH2@Nx(^2)
+$>
+
+en: hypodiphosphonic diamide  <br>
+(name derived from the preselected name hypodiphosphonic acid) 
+ru: гиподи&(phosph-)&(onic [anion]) диамид <br>
+(название образовано от &(preselected name|ro) гиподи&(phosph-)&(onic acid))
+
+@cell
+<$
+@:n(n,a:90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-P<`||mO><|H2N@Nx(′^1,80,.7)>@n(1,130)-O@n(2,90,.55)-P@n(3,50)<`||mO><|NH2@Nx(′^3,80,.7)>-NH2@Nx(^3)
+$>
+
+en: diphosphoric tetraamide  <br>
+(name derived from the preselected name diphosphoric acid) 
+ru: ди&(phosph-)&(oric [anion]) тетраамид <br>
+(название образовано от &(preselected name|ro) ди&(phosph-)&(oric acid))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-SO2@n(1)-NH@n(2)-SO2@n(3)-NH@n(4)-SO2@n(5)-NH2@Nx(^5)
+$>
+
+en: 2,4-diimidotrisulfuric diamide  <br>
+(name derived from the preselected name trisulfuric acid) 
+ru: 2,4-диимидотрисерный диамид <br>
+(название образовано от &(preselected name|ro) трисерной кислоты)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′^1)-NH@Nx(^1,-70)-PH@n(1)<`||mO>-O@n(2)-PH@n(3)<`||mO>-NH@Nx(^3)-NH2@Nx(′^3)
+$>
+
+en: diphosphonic dihydrazide  <br>
+(name derived from the preselected name diphosphonic acid) 
+ru: ди&(phosph-)&(onic [anion]) дигидразид <br>
+(название образовано от &(preselected name|ro) ди&(phosph-)&(onic acid))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′^1)-P<`||mO><|H2N@Nx(′^1,90,.75)>@n(1,120,.5)-S@n(2)-P<`||mO><|NH2@Nx(′^3,80,.75)>@n(3,60,.5)-NH2@Nx(^3)
+$>
+
+en: 2-thiodiphosphoric tetraamide  <br>
+(name derived from the preselected name diphosphoric acid)
+ru: 2-тиоди&(phosph-)&(oric [anion]) тетраамид <br>
+(название образовано от &(preselected name|ro) дифосфорной кислоты)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-PH<`||mO>@n(1,90)-O@n(2)-PH<`||mO>@n(3,90)-O@n(4)-PH@n(5,90)<`||O>-NH2@Nx(^5)
+$>
+
+en: triphosphonic diamide  <br>
+(name derived from the preselected name triphosphonic acid) 
+ru: три&(phosph-)&(onic [anion]) диамид <br>
+(название образовано от &(preselected name|ro) три&(phosph-)&(onic acid))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-NH@Nx(^1)-P<|H2N@Nx(′^1,90,.75)><`||NH@Nx(′′^1,-70)>@n(1,130,.5)-NH@n(2)-P@n(3,130,.5)<|NH2@Nx(′^3,80,.75)><`||NH@Nx(′′^3)>-NH2@Nx(^3,-70)
+$>
+
+en: _N_^{1}-methyl-1,2,3-triimidodiphosphoric tetraamide (PIN) 
+ru: _N_^{1}-метил-1,2,3-триимидоди&(phosph-)&(oric [anion]) тетраамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(^1)-P<`||mO><|NH2@Nx(′^1,80,.75)>@n(1,130,.5)-NH@n(2)-P@n(3,130,.5)<`||O><|NH2@Nx(^3,80,.75)>-NH@n(4)-P@n(5,130,.5)<`||O><|NH2@Nx(′^5,80,.75)>-NH2@Nx(^5)
+$>
+
+en: 2,4-diimidotriphosphoric pentaamide  <br>
+(name derived from the preselected name triphosphoric acid) 
+ru: 2,4-диимидотри&(phosph-)&(oric [anion]) пентаамид <br>
+(название образовано от &(preselected name|ro) трифосфорной кислоты)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+@:pn(p,n)P<`||mO><|NH2@Nx(&n,80,.75)>@n(&p,130,.5)@;
+H2N@Nx(^1)-@pn(1,′^1)-NH@n(2)-@pn(3,^3)-NH@n(4)-@pn(5,^5)-NH@n(6)-@pn(7,′^7)-NH2@Nx(^7)
+$>
+
+en: 2,4,6-triimidotetraphosphoric hexaamide  <br>
+(name derived from the preselected name tetraphosphoric acid) 
+ru: 2,4,6-триимидотетра&(phosph-)&(oric [anion]) гексаамид <br>
+(название образовано от &(preselected name|ro) тетрафосфорной кислоты)
+
+@cell
+<$
+@:n(n,a:80,L:.52)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+@:pa(p,n,m)P<`||mNH@Nx(&m,-70)><|NH2@Nx(&n,80,.75)>@n(&p,130,.5)@;
+H2N@Nx(^1)--@pa(1,′^1,′′^1)-NH@n(2)-@pa(3,^3,′^3)-NH@n(4)-@pa(5,′^5,′′^5)--NH2@Nx(^5)
+$>
+
+en: pentaimidotriphosphoric pentaamide  <br>
+(name derived from the preselected name triphosphoric acid) 
+ru: пентаимидотри&(phosph-)&(oric [anion]) пентаамид <br>
+(название образовано от &(preselected name|ro) трифосфорная кислота)
+
+@cell
+<$
+@:n(n,a:80,L:.52)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+@:pa(p,n,m)P<`||mNH@Nx(&m,-70)><|NH2@Nx(&n,80,.75)>@n(&p,130,.5)@;
+H2N@Nx(^1)--@pa(1,′^1,′′^1)-NH@n(2)-@pa(3,^3,′^3)-NH@n(4)-@pa(5,^5,′^5)-NH@n(6)-@pa(7,′^7,′′^7)--NH2@Nx(^7,-70)
+$>
+
+en: heptaimidotetraphosphoric hexaamide  <br>
+(name derived from the preselected name tetraphosphoric acid) 
+ru: гептаимидотетра&(phosph-)&(oric [anion]) гексаамид <br>
+(название образовано от &(preselected name|ro) тетрафосфорной кислоты)
+
+@cell
+<$ H2N-SO2-O-SO2-NH2 $>
+ 
+en: disulfuric diamide  <br>
+(name derived from the preselected name disulfuric acid) 
+ru: дисерный диамида <br>
+(название образовано от &(preselected name|ro) дисерная кислота)
+
+@cell
+<$ H2N-SeO2-O-SeO2-NH2 $>
+ 
+en: diselenic diamide  <br>
+(name derived from the preselected name diselenic acid) 
+ru: диселеновый диамид <br>
+(название образовано от &(preselected name|ro) диселеновая кислота)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-PH@n(1)(O)-O@n(2)-PH@n(3)(O)-NH-NH2
+$>
+
+en: 3-hydrazidodiphosphonic 1-amide 
+ru: 3-гидразидоди&(phosph-)&(onic [anion]) 1-амид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-NH-P<`|NH2>(O)-O-P<`|NH2>(O)-NH-NH2
+$>
+
+en: 1,3-dihydrazidodiphosphoric 1,3-diamide
+ru: 1,3-дигидразидоди&(phosph-)&(oric [anion]) 1,3-диамид
+
+@End
+
+#P-67.2.5
+en: Salts, esters, and anhydrides of di- and polynuclear noncarbon oxoacids 
+ru: Соли, сложные эфиры и ангидриды ди- и &(polynuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+@Content
+
+#P-67.2.5.1
+en: Salts of di- and polybasic noncarbon oxoacids 
+ru: Соли ди- и &(polybasic [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+#P-67.2.5.1.1+
+en: Neutral salts of di- and polynuclear noncarbon oxoacids are named by citing the cation(s) followed by the 
+name of the anion(s) as (a) separate word(s). Names of anions are formed by changing the ‘ic acid’ ending to ‘ate’ and 
+the ‘ous acid’ to ‘ite’. Different cations are cited in alphabetical order. 
+ru: Нейтральные соли ди- и &(polynuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот называются путем &(citation|ro) 
+катиона (катионов), за которым следует название аниона (анионов) в виде отдельного слова (слов). Названия анионов образуются 
+путем замены окончания «&(ic acid)» на «&(-ate)», а окончания «&(ous acid)» на «&(-ite)». Различные катионы &(cited|*) 
+в алфавитном порядке.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+2Na^+ {}-0O`^-# -S@n(1)(=N:n-CH3)-S@n(2)(=NH)-O^-; #n@Nx(^1)
+$>
+
+en: disodium _N_-methyl-1,2-diimidodithionite (PIN) 
+ru: динатрий _N_-метил-1,2-диимидодитионит (PIN)
+
+@cell
+<$
+4Na^+ {}_(A0,N0)(O`^-)2P(=O)-O-P(=O)(O^-)2
+$>
+
+en: tetrasodium diphosphate  <br>
+(name derived from the preselected name diphosphoric acid) 
+ru: тетранатрий дифосфат <br>
+(название образовано от &(preselected name|ro) дифосфорная кислота)
+
+@End
+
+#P-67.2.5.1.2+
+en: Acid salts of di- and polynuclear noncarbon oxoacids are named in the same way as neutral salts, the 
+remaining acid hydrogen atom(s) being indicated by the word ‘hydrogen’ (or ‘dihydrogen’, etc., as appropriate) inserted 
+between the name of the cation and the name of the anion from which it is separated by spaces. 
+ru: Кислые соли ди- и &(polynuclear [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот называются так же, как и нейтральные соли, 
+при этом оставшийся атом(ы) водорода кислоты обозначается словом «&(hydrogen [cation])» (или «ди&(hydrogen [cation])» и т. д., 
+в зависимости от ситуации), вставляемым между названием катиона и названием аниона, от которого он отделен, пробелами.
+
+@Examples
+
+@cell
+<$ NaO-SO2-SS-SO2-OH $>
+
+en: sodium hydrogen 2-dithioperoxydisulfate  <br>
+(name derived from the preselected name disulfuric acid) 
+ru: натрий &(hydrogen [cation]) 2-дитиопероксидисульфат <br>
+(название образовано от &(preselected name|ro) дисерной кислоты)
+
+@End
+
+// -------
+
+#P-67.2.5.2
+en: Esters of polybasic noncarbon oxoacids 
+ru: &(Ester|*) &(polybasic [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+#P-67.2.5.3
+en: Anhydrides of polybasic noncarbon oxoacids 
+ru: Ангидриды &(polybasic [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+
+#P-67.2.6
+en: Substituent groups derived from polyacids 
+
+
+
+// ===================================
+
 #P-67.3
 en: Substitutive names and functional class names of polyacids 
 ru: &(Substitutive name|*) и &(functional class name|*) поликислот
