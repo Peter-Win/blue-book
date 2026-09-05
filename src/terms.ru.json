@@ -632,11 +632,12 @@
   "onic acid|ro": "оновой кислоты",
   "onic [amid]": "оновый",
   "onic [anion]": "оновый",
-
+  
   "onous acid": "онистая кислота",
   "onous [acid]": "онистая",
   "onous [acid]|ro": "онистой",
   "onous [anion]": "онистый",
+  "-onite": "онит",
 
   "organyl group": "органильная группа",
   "organyl group|ro": "органильной группы",
@@ -762,7 +763,9 @@
   "parent skeleton|pr": "исходном скелете",
 
   "parent substituent": "исходный заместитель",
+  "parent substituent|ro": "исходного заместителя",
   "parent substituent|tv": "исходным заместителем",
+  "parent substituent|da*": "исходным заместителям",
 
   "peroxoic acid": "пероксоевая кислота",
   "peroxoic [acid]": "пероксоевая",
@@ -862,6 +865,7 @@
   "polynuclear acid|ro*": "многоядерных кислот",
   "polynuclear [acid]|*": "многоядерные",
   "polynuclear [acid]|ro*": "многоядерных",
+  "polynuclear [acid]|tv*": "многоядерными",
   "polynuclear [acid]|pr*": "многоядерных",
 
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",

@@ -925,21 +925,176 @@ ru: натрий &(hydrogen [cation]) 2-дитиопероксидисульфа
 
 @End
 
-// -------
-
 #P-67.2.5.2
 en: Esters of polybasic noncarbon oxoacids 
 ru: &(Ester|*) &(polybasic [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
+
+en: Fully esterified polynuclear noncarbon oxoacids are named as neutral salts, except that names of allowed groups (alkyl 
+groups, aryl groups, etc.), cited in alphanumerical order when more than one, replace the name of the cations. Partial 
+(acid) esters of polybasic noncarbon oxoacids and their salts are named by the procedures for neutral esters and acid 
+salts, except that the name ‘hydrogen’ denoting acid hydrogen atoms is indicated by the separate word ‘hydrogen’ (with 
+the appropriate multiplying prefix denoting multiplicity) inserted between the name of the cation or of the organic 
+group and the name of the anion. 
+ru: Полностью этерифицированные &(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты называются как нейтральные соли, 
+за исключением того, что названия допустимых групп (алкильных групп, арильных групп и т. д.), &(cited|p*) в буквенно-цифровом 
+порядке, если их более одной, заменяют название катионов. Частичные (кислотные) &(ester|*) &(polybasic [acid]|ro*) 
+&(noncarbon [acid]|ro*) оксокислот и их соли называются по той же процедуре, что и нейтральные &(ester|*) и кислые соли, 
+за исключением того, что название «&(hydrogen [cation])», обозначающее атомы водорода кислоты, указывается отдельным 
+словом «&(hydrogen [cation])» (с соответствующим умножающим префиксом, обозначающим кратность), вставляемым между названием 
+катиона или органической группы и названием аниона.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S-PH@n(1)-PH@n(2)-O-CH3
+$>
+
+en: dimethyl thiohypodiphosphonite (PIN) 
+ru: диметил тиогиподи&(phosph-)&(-onite) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HS-PH@n(1)-PH@n(2)-S-CH3
+$>
+
+en: methyl hydrogen dithiohypodiphosphonite (PIN) 
+ru: метил &(hydrogen [cation]) дитиогиподи&(phosph-)&(-onite) (PIN)
+
+@cell
+<$ CH3-O-SO2-O-SO2-S-CH2-CH3 $>
+  
+en: _S_-ethyl _O_-methyl thiodisulfate (PIN) 
+ru: _S_-этил _O_-метил тиодисульфат (PIN)
+
+@cell
+<$ (CH3)2CH-O-SO-O-SO-O-CH(CH3)2 $>
+  
+en: di(propan-2-yl) disulfite (PIN) 
+ru: ди(пропан-2-ил) дисульфит (PIN)
+
+@cell
+<$ CH3-O-SO2-S-SO2-O-CH3 $>
+  
+en: _O_^{1},_O_^{3}-dimethyl thiodisulfate (PIN)
+ru: _O_^{1},_O_^{3}-диметил тиодисульфат (PIN)
+
+@End
+
 
 #P-67.2.5.3
 en: Anhydrides of polybasic noncarbon oxoacids 
 ru: Ангидриды &(polybasic [acid]|ro*) &(noncarbon [acid]|ro*) оксокислот
 
+en: Neutral anhydrides formed between organic acids and polynuclear noncarbon oxoacids having preselected names are 
+named by citing, in alphabetical order, the names of the acids followed by the name of the class ‘anhydride’; 
+multiplying prefixes ‘di’, ‘tri’, etc. are used to indicate the multiplicity of the anhydride linkages. 
+ru: Нейтральные ангидриды, образующиеся между органическими кислотами и &(polynuclear [acid]|tv*) &(noncarbon [acid]|tv*) 
+оксокислотами, имеющие &(preselected name|*) названия, именуются в алфавитном порядке названиями кислот, за которыми 
+следует название класса «ангидрид»; для обозначения множественности ангидридных связей используются умножающие 
+префиксы «ди», «три» и т. д.
+
+en: Acidic anhydrides are named by using the senior acid as parent or by using systematic substitutive nomenclature as 
+described in P-67.3.1. 
+ru: Кислые ангидриды называются либо с использованием старшей кислоты в качестве основной, либо с использованием систематической
+&(substitutive nomenclature|ro), как описано в P-67.3.1.
+
+@Examples
+
+@cell
+<$ (CH3-CO-O)2P(O)-P(O)(O-CO-CH3)2 $>
+  
+en: tetraacetic hypodiphosphoric tetraanhydride (PIN)
+ru: тетрауксусный гиподифосфорный тетраангидрид (PIN)
+
+@cell
+<$ CH3-CO-O-SO-SO-O-CO-CH2-CH3 $>
+  
+en: acetic dithionous propanoic dianhydride (PIN)  <br>
+acetic hypodisulfurous propanoic dianhydride 
+ru: уксусный дити&(onous [anion]) пропановый диангидрид  (PIN) <br>
+уксусный гиподи&(sulfur-)&(ous [anion]) пропановый диангидрид
+
+@End
+
 
 #P-67.2.6
 en: Substituent groups derived from polyacids 
+ru: &(Substituent group|*), полученные из поликислот
 
+en: In the presence of a characteristic group having precedence for citation as principal group, polynuclear noncarbon 
+oxoacids are cited as prefixes. The names of these prefixes are formed by: 
+ru: При наличии &(characteristic group|ro), имеющей приоритет для &(citation|ro) в качестве основной группы, в качестве 
+префиксов указываются &(polynuclear [acid]|*) &(noncarbon [acid]|*) оксокислоты. Названия этих префиксов образуются:
 
+@List 1
+
+@item
+en: combinations of acyl groups; 
+ru: комбинациями ацильных групп;
+
+@item
+en: on the basis of the names of the group which includes the greatest number of P, As, Sb, S, Se, and Te central atoms;
+ru: на основе названий группы, включающей наибольшее число центральных атомов P, As, Sb, S, Se и Te;
+
+@item
+en: skeletal replacement nomenclature (see P-15.4 and P-51.4), when conditions for its use are satisfied. 
+ru: номенклатурой &(skeletal replacement a|ro) (см. P-15.4 и P-51.4), если соблюдены условия ее использования.
+
+@End
+
+en: When there is a choice for parent substituent, seniority is given to parent substituents having the largest size, then, if 
+needed, to alphanumerical order. 
+ru: При выборе &(parent substituent|ro) приоритет отдается &(parent substituent|da*) наибольшего размера, а затем, 
+при необходимости, в алфавитно-цифровом порядке.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HO)2P(O)-O-P(O)(OH)-O-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: (2) 3-[(1,3,3-trihydroxy-1,3-dioxo-<%L%>-diphosphoxan-1-yl)oxy]propanoic acid (PIN)  <br>
+(1) 3-{[hydroxy(phosphonooxy)phosphoryl]oxy}propanoic acid 
+ru: (2) 3-[(1,3,3-тригидрокси-1,3-диоксо-<%L%>-дифосфоксан-1-ил)окси]пропановая кислота (PIN) <br>
+(1) 3-{[гидрокси(фосфоноокси)фосфорил]окси}пропановая кислота
+%L:1λ^{5},3λ^{5}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-O@n(2)-S@n(3)(O)-O@n(4)-S@n(5)(O)-O@n(6)-S@n(7)(O)-O@n(8)-CH2@n(9)-COOH@n(10)
+$>
+
+en: (3) 3,5,7-trioxo-2,4,6,8-tetraoxa-<%L1%>-trithiadecan-10-oic acid (PIN)  <br>
+(1) {[({[(methoxysulfinyl)oxy]sulfinyl}oxy)sulfinyl]oxy}acetic acid  <br>
+(2) [(5-methoxy-1,3,5-trioxo-<%L2%>-trisulfoxan-1-yl)oxy]acetic acid 
+ru: (3) 3,5,7-триоксо-2,4,6,8-тетраокса-<%L1%>-тритиадекан-10-&(oic acid) (PIN) <br>
+(1) {[({[(метоксисульфинил)окси]сульфинил}окси)сульфинил]окси}уксусная кислота <br>
+(2) [(5-метокси-1,3,5-триоксо-<%L2%>-трисульфоксан-1-ил)окси]уксусная кислота
+%L1:3λ^{4},5λ^{4},7λ^{4}
+%L2:1λ^{4},3λ^{4},5λ^{4}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-S@n(2)-S@n(3)(S)-S@n(4)-S@n(5)(S)-S@n(6)-CH2@n(7)-CH2@n(8)-COOH@n(9)
+$>
+
+en: (3) 3,5-bis(sulfanylidene)-<%L1%>-pentathianonan-9-oic acid (PIN)  <br>
+(2) 3-[5-methyl-2,4-bis(sulfanylidene)-<%L2%>-pentasulfanyl]propanoic acid  <br>
+(1) 3-[({[(methylsulfanyl)sulfinothioyl]sulfanyl}sulfinothioyl)sulfanyl]propanoic acid 
+ru: (3) 3,5-бис(сульфанилиден)-<%L1%>-пентатианонан-9-&(oic acid) (PIN) <br>
+(2) 3-[5-метил-2,4-бис(сульфанилиден)-<%L2%>-пентасульфанил]пропановая кислота <br>
+(1) 3-[({[(метилсульфанил)сульфинотиоил]сульфанил}сульфинотиоил)сульфанил]пропановая кислота
+%L1:2,3λ^{4},4,5λ^{4},6
+%L2:2λ^{4},4λ^{4}
+
+@End
 
 // ===================================
 
