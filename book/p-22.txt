@@ -1895,7 +1895,7 @@ en: The λ-convention is used to denote heteroatoms with nonstandard bonding num
 (see P-14.1). The symbol λ^{_n_}, where _n_ is the bonding number, is cited immediately after the locant denoting the 
 heteroatom with the nonstandard bonding number. The indicated hydrogen symbol _H_, if required to denote saturated 
 skeletal atoms, is cited at the front of the complete name with the appropriate locant(s).
-ru: λ-соглашение используется для обозначения гетероатомов с нестандартными связевыми числами в гетеромоноциклах 
+ru: &(l-Convention) используется для обозначения гетероатомов с нестандартными связевыми числами в гетеромоноциклах 
 (см. P-14.1). Символ λ^{_n_}, где _n_ — связевой номер, приводится сразу после локанта, обозначающего гетероатом 
 с нестандартным связевым числом. Указанный символ водорода _H_, если требуется для обозначения насыщенных скелетных атомов, 
 приводится в начале полного названия с соответствующим локантом(ами).

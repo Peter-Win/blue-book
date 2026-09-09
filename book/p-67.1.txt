@@ -1705,7 +1705,7 @@ ru: метилбороно&(thioic acid) (PIN)
 <$ CH3-B(NH-CH3)(OH) $>
 
 en: _B_,_N_-dimethylboronamidic acid (PIN)
-ru: _B_,_N_-диметилборонамидная кислота (PIN) 
+ru: _B_,_N_-диметилборон&(amidic acid) (PIN) 
 
 @cell
 <$ CH3-N(OH)(SH) $>
@@ -1723,7 +1723,7 @@ ru: диэтилфосфиноди&(thioic acid) (PIN)
 <$ (CH3)2N-P(O)(OH)2 $>
   
 en: _N_,_N_-dimethylphosphoramidic acid (PIN)  
-ru: _N_,_N_-диметилфосфорамидная кислота (PIN)
+ru: _N_,_N_-диметилфосфор&(amidic acid) (PIN)
 
 @cell
 <$ (C6H5)2P(=N-CH3)(OH) $>
@@ -3480,7 +3480,7 @@ ru: &(phosph-)&(or[ic]o)дихлоридоил (&(preselected prefix))  <br>
   
 en: _N_,_N_-dimethylphosphoramidic acid (PIN)  <br>
 (dimethylamido)phosphoric acid  
-ru: _N_,_N_-диметилфосфорамидная кислота (PIN)  <br>
+ru: _N_,_N_-диметилфосфор&(amidic acid) (PIN)  <br>
 (диметиламидо)фосфорная кислота  
 
 @cell
@@ -4300,7 +4300,7 @@ the name sulfonamidic acid is not an approved name]
 ru: 3-(сульфамоилокси)пропановая кислота (PIN) <br>
 3-(сульфурамидоилокси)пропановая кислота <br>
 [не 3-(сульфонамидоилокси)пропановая кислота; <br>
-название «сульфонамидовая кислота» не является утвержденным]
+название «сульфон&(amidic acid)» не является утвержденным]
 
 @cell
 <$
@@ -4313,7 +4313,7 @@ en: 3-[(aminosulfinyl)oxy]propanoic acid (PIN)  <br>
 the name sulfinamidic acid is not an approved name] 
 ru: 3-[(аминосульфинил)окси]пропановая кислота (PIN) <br>
 [не 3-(сульфинамидоилокси)пропановая кислота; <br>
-название «сульфинамидовая кислота» не является утвержденным]
+название «сульфин&(amidic acid)» не является утвержденным]
 
 @cell
 <$

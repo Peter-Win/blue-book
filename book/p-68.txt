@@ -1,0 +1,738 @@
+#P-68
+en: Nomenclature for organic compounds of the group 13, 14, 15, 16, and 17 elements not included in sections 
+P-62 through P-67 
+ru: Номенклатура органических соединений групп 13, 14, 15, 16 и 17 элементов, не включенных в разделы P-62 – P-67
+
+@Content
+
+#P-68.0
+en: Introduction 
+ru: Введение
+
+en: The nomenclature of organic compounds is based on two approaches. General principles, rules, and conventions 
+applicable, with some rare exceptions, to all compounds of elements belonging to Groups 13 through 17; they have 
+been described and illustrated in previous Chapters. Another approach is based on the identical treatment of compounds 
+within one Group. Up until now the nomenclature of compounds of Group 13 was compounds of the element boron; 
+these will be included in a future publication by another group. It is advantageous to describe all compounds of a Group 
+in the same manner to identify clearly their similarities and underline exceptions, if any. This method should facilitate 
+naming of new compounds by comparison with established models. 
+ru: Номенклатура органических соединений основана на двух подходах. Общие принципы, правила и соглашения, применимые, 
+за редкими исключениями, ко всем соединениям элементов, принадлежащих к Группам с 13 по 17; они были описаны и проиллюстрированы 
+в предыдущих главах. Другой подход основан на одинаковом подходе к соединениям внутри одной Группы. До настоящего времени 
+номенклатура соединений Группы 13 основывалась на соединениях элемента бора; они будут включены в будущую публикацию, 
+посвященную другой Группе. Целесообразно описывать все соединения группы одинаково, чтобы четко выявлять их сходства 
+и подчеркивать исключения, если таковые имеются. Этот метод должен облегчить наименование новых соединений путем сравнения 
+с установленными моделями.
+
+en: Another aspect of nomenclature that is described Group by Group would be to easily grasp the general patterns of the 
+different Groups. The nomenclature of Group 15 is diverse; suffixes are associated with nitrogen, mononuclear and 
+polynuclear acids are the base of many derivatives of phosphorus, arsenic, and many compounds of antimony and 
+bismuth compounds are named substitutively. By comparison, compounds of Group 14 are essentially named by 
+substitutive nomenclature. Thus, the compound <%a%> is named by functional class nomenclature as an ester, 
+i.e., methyl phenylphosphinite, but the compound, <%b%> is named substitutively as
+dimethoxy(phenyl)stannane in spite of their apparent similarity of structures. 
+ru: Еще один аспект номенклатуры, описываемый по Группам, позволяет легко понять общие закономерности различных Групп. 
+Номенклатура Группы 15 разнообразна; суффиксы связаны с азотом, &(mononuclear [acid]|*) и &(polynuclear [acid]|*) кислоты 
+являются основой многих производных фосфора, мышьяка, а многие соединения сурьмы и висмута названы замещающим образом. 
+В сравнении с этим, соединения Группы 14 в основном названы &(substitutive nomenclature|tv). Так, соединение <%a%> названо 
+&(functional class nomenclature|tv) как &(ester), т.е. метил фенилфосфинит, а соединение <%b%> названо замещающим образом 
+как диметокси(фенил)станнан, несмотря на кажущееся сходство их структур.
+%a: <$ C6H5-PH-OCH3 $>
+%b: <$ C6H5-SnH(OCH3)2 $>
+
+en: There is a third purpose for this Section about Groups 13 through 17. In it, substitutive nomenclature treats metals, 
+semi-metals, and non-metals equally when a compound contains carbon. The Group treatment illustrates many aspects 
+of the nomenclature of organometallic compounds. This is particularly evident for the nomenclature of compounds of 
+the Groups 13 and 14 elements, for which the extensive and well known nomenclature for boron and carbon compounds 
+serves as models to name the other compounds of the Group. 
+ru: Третий аспект этого раздела, посвященного Группам с 13 по 17, заключается в том, что в нем &(substitutive nomenclature) 
+рассматривает металлы, полуметаллы и неметаллы одинаково, если соединение содержит углерод. Рассмотрение групп иллюстрирует 
+многие аспекты номенклатуры металлоорганических соединений. Это особенно очевидно для номенклатуры соединений элементов 
+13 и 14 Групп, для которых обширная и хорошо известная номенклатура соединений бора и углерода служит образцом для наименования 
+других соединений этой Группы.
+
+en: For boron and the metals of Groups 14 and 15, i.e., Ge, Sn, Pb, Sb, and Bi, the same principles are followed as in other 
+sections of these recommendations, namely, if the compound contains carbon and can be named by substitutive 
+nomenclature principles given elsewhere in these recommendations based on acceptable parent hydride names, it is 
+assigned a PIN; however, if there is no carbon present, the name is described as a preselected parent hydride or a name 
+based on a preselected parent hydride or compound. Finally, for many compounds of these elements, their structures are 
+not consistent with the principles of substitutive nomenclature; these, then, are named by the principles of inorganic and 
+coordination nomenclature, for which see ref. 12.
+ru: Для бора и металлов 14-й и 15-й Групп, т.е. Ge, Sn, Pb, Sb и Bi, применяются те же принципы, что и в других разделах 
+этих рекомендаций, а именно: если соединение содержит углерод и может быть названо в соответствии с принципами 
+&(substitutive nomenclature|ro), приведенными в других разделах этих рекомендаций на основе приемлемых названий 
+&(parent hydride|ro), ему присваивается PIN; однако, если углерод отсутствует, название описывается как предварительно выбранный 
+&(parent hydride) или название, основанное на предварительно выбранном &(parent hydride|pr) или соединении. 
+Наконец, для многих соединений этих элементов их структуры не соответствуют принципам &(substitutive nomenclature|ro); 
+в этом случае они называются в соответствии с принципами неорганической и координационной номенклатуры, см. ссылку 12.
+
+#P-68.1
+en: Nomenclature for compounds of the Group 13 elements 
+ru: Номенклатура соединений элементов 13-й Группы
+
+en: Except for the polynuclear boron hydrides, boron compounds have traditionally been included in the recommendations 
+for naming organic compounds. However, substitutive nomenclature has been applied on the basis of parent hydrides, 
+their substituent groups, and appropriate operations to complement the nomenclature of polynuclear boron compounds, 
+for example names formed by skeletal replacement (‘a’) nomenclature, multiplicative nomenclature, and names derived 
+from the functional parent acids based on boric acid, <%a%>, boronic acid, <%b%>, and borinic acid, <%c%>; these 
+are retained functional parent compounds. 
+ru: За исключением &(polynuclear [hydride]|ro*) гидридов бора, соединения бора традиционно включались в рекомендации по 
+наименованию органических соединений. Однако для дополнения номенклатуры &(polynuclear [hydride]|ro*) соединений бора применялась 
+&(substitutive nomenclature) на основе &(parent hydride|ro*), их &(substituent group|ro*) и соответствующих операций, например, 
+названия, образованные с помощью номенклатуры &(skeletal replacement a|ro), &(multiplicative nomenclature|ro) и названия, 
+производные от функциональных исходных кислот на основе борной кислоты, <%a%>, &(boronic acid|ro), <%b%>, и 
+бориновой кислоты, <%c%>; эти функциональные исходные соединения сохраняются.
+%a: <$ B(OH)3 $>
+%b: <$ HB(OH)2 $>
+%c: <$ H2B(OH) $>
+
+en: The nomenclature of Al, Ga, In, and Tl compounds in these recommendations, including formal organometallic 
+compounds, is patterned on boron nomenclature and is recommended only for use in general nomenclature. 
+Recommendations of preferred IUPAC names for most compounds of these elements will appear in a later publication 
+by another group. 
+ru: Номенклатура соединений Al, Ga, In и Tl в данных рекомендациях, включая формальные металлоорганические соединения, 
+основана на номенклатуре бора и рекомендуется для использования только в общей номенклатуре. Рекомендации по 
+предпочтительным названиям IUPAC для большинства соединений этих элементов будут опубликованы в более поздней публикации 
+другой группы исследователей.
+
+@Content
+
+#P-68.1.1
+en: Parent hydrides 
+ru: &(Parent hydride|*) 
+
+@Content
+
+#P-68.1.1.1
+en: Mononuclear hydrides  
+ru: &(Mononuclear [hydride]|*) гидриды
+
+en: The names of the mononuclear hydrides are listed in Table 2.1. The standard bonding number is 3 and the λ-convention 
+(see P-14.1) is used to indicate nonstandard bonding numbers. The names of these parent hydrides are all preselected 
+names (see P-12.2). 
+ru: Названия &(mononuclear [hydride]|ro*) гидридов приведены в &[Таблице 2.1]. Стандартное &(bonding number) равно 3, а для 
+обозначения нестандартных &(bonding number|ro*) используется &(l-convention) (см. P-14.1). Названия этих &(parent hydride|ro*) 
+являются &(preselected name|tv*) (см. P-12.2).
+
+@Examples
+
+@cell
+<$ BH3 $>
+  
+en: borane (preselected name) 
+ru: боран (&(preselected name))
+
+@cell
+<$ BH $>
+
+en: λ^{1}-borane (preselected name) 
+ru: λ^{1}-боран (&(preselected name))
+
+@cell
+<$ AlH3 $>
+  
+en: alumane (preselected name) 
+ru: алюман (&(preselected name)) 
+
+@cell
+<$ GaH3 $>
+  
+en: gallane (preselected name) 
+ru: галлан (&(preselected name)) 
+
+@cell
+<$ InH3 $>
+  
+en: indigane (preselected name)
+ru: индиган (&(preselected name))
+
+@cell
+<$ TlH3 $>
+  
+en: thallane (preselected name)
+ru: таллан (&(preselected name))
+
+@End
+
+#P-68.1.1.2
+en: Acyclic polynuclear hydrides  
+ru: Ациклические &(polynuclear [hydride]|*) гидриды
+
+#P-68.1.1.2.1+
+en: Acyclic di- and polynuclear parent hydrides are named by citing the number of skeletal atoms in the 
+molecule as a multiplying prefix, ‘di’, ‘tri’, etc., in front of the name of the mononuclear parent hydride. The number of 
+hydrogen atoms in the molecule is designated by an arabic numeral enclosed in parentheses immediately following the 
+name derived as above. These numbers are omitted when there is no ambiguity or by convention in the names of acyclic 
+polynuclear hydrides. A specific nomenclature is used to name polycyclic polyboranes; these names are described in 
+Chapter IR-6.2.3 of ref. 12. Parent hydrides are preselected names. 
+ru: Ациклические ди- и &(polynuclear [hydride]|*) &(parent hydride|*) называются путем указания числа атомов скелета 
+в молекуле в качестве умножающего префикса, «ди», «три» и т. д., перед названием &(mononuclear [hydride]|ro) 
+&(parent hydride|ro). Число атомов водорода в молекуле обозначается арабской цифрой в скобках, непосредственно следующей 
+за названием, полученным выше. Эти числа опускаются, если нет двусмысленности или по соглашению в названиях ациклических 
+&(polynuclear [hydride]|ro*) гидридов. Для наименования полициклических полиборанов используется специальная номенклатура; 
+эти названия описаны в главе IR-6.2.3 ссылки 12. Названия &(parent hydride|ro*) являются &(preselected name|tv*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2B@n(2)-BH2@n(1)
+$>
+
+en: diborane(4) (preselected name)
+ru: диборан(4) (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2B@n(3)-BH@n(2)-BH2@n(1)
+$>
+
+en: triborane(5) (preselected name)
+ru: триборан(5) (&(preselected name))
+
+@cell
+<$
+$slope(60)H\B<`/H>_(x%x:1.2,y-%y:.5,d+)H_(x%x,y%y,d-)B</H><\H>_(x-%x,y%y,w+)H_(x-%x,y-%y,w-)
+$>
+
+en: diborane(6) (preselected name) 
+ru: диборан(6) (&(preselected name))
+
+@cell
+<$
+$slope(60)H\Ga<`/H>_(x%x:1.2,y-%y:.5,d+)H_(x%x,y%y,d-)Ga</H><\H>_(x-%x,y%y,w+)H_(x-%x,y-%y,w-)
+$>
+
+en: digallane(6) (preselected name)
+ru: дигаллан(6) (&(preselected name))
+
+@cell
+<$
+$slope(60)H\B<`/H>_(x%x:1.2,y-%y:.5,d+)H_(x%x,y%y,d-)B</CH3><\H>_(x-%x,y%y,w+)H_(x-%x,y-%y,w-)
+$>
+
+en: 1-methyldiborane(6) (PIN) 
+ru: 1-метилдиборан(6) (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.5)HB@n(4)_(x%x1:1.3,y-%y1:.9,H)HB:t@n(5)_(x%x2:1.7,y%y2:.3,H)BH:r@n(2)_(x-%x1,y%y1)B:b<_(y.5)H>@n(3,150)_(x-%x2,y-%y2);
+#1_(x#1;r,y-2.7)CH@n(1,-90)<_#t><_#r><_#b>
+$>
+
+en: 1-carba-_nido_-pentaborane(5) (PIN) 
+ru: 1-карба-_нидо_-пентаборан (5) (PIN)
+
+@End
+
+#P-68.1.1.2.2+
+en: Compounds formed of alternating heteroatoms are named in accordance with Rule P-21.2.3.1 . They are 
+considered as nonfunctional parent structures having preselected names, except when nitrogen atoms are present; then 
+the compounds are named as amines (see P-62.2.).
+ru: Соединения, образованные чередующимися гетероатомами, называются в соответствии с Правилом P-21.2.3.1. 
+Они считаются нефункциональными &(parent structure|tv), имеющими заранее &(preselected name|*), за исключением случаев 
+наличия атомов азота; в этом случае соединения называются аминами (см. P-62.2.).
+
+@p .framed
+en: When nitrogen atoms are present, this is a change from the 1993 Guide (ref. 2) because the ‘amine’ characteristic 
+group was not recognized there.
+ru: При наличии атомов азота это изменение по сравнению с Руководством 1993 года (ссылка 2), поскольку там не была 
+указана «аминная» &(characteristic group).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2B@n(3)-O@n(2)-B@n(1)(CH3)2
+$>
+
+en: tetramethyldiboroxane (PIN) 
+ru: тетраметилдибороксан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2Al@n(5)-O@n(4)-AlH@n(3)-O@n(2)-AlH2@n(1)
+$>
+
+en: trialuminoxane (preselected name) 
+ru: триалюминоксан (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-BH@n(1)-NH@n(\textit{N})-BH-CH3
+$>
+
+en: 1-methyl-_N_-(methylboranyl)boranamine (PIN)
+ru: 1-метил-_N_-(метилборанил)боранамин (PIN)
+
+@End
+
+#P-68.1.1.2.3+
+en: Compounds named by skeletal replacement (‘a’) nomenclature (see P-15.4)  
+ru: Соединения, названные по номенклатуре &(skeletal replacement a|ro) (см. P-15.4)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-B@n(9)(CH3)-CH2@n(8)-O@n(7)-CH2@n(6)-CH2@n(5)-O@n(4)-CH2@n(3)-B@n(2)(CH3)-CH3@n(1)
+$>
+
+en: 2,9-dimethyl-4,7-dioxa-2,9-diboradecane (PIN)  <br>
+[ethane-1,2-diylbis(oxymethylene)]bis(dimethylborane) 
+ru: 2,9-диметил-4,7-диокса-2,9-диборадекан (PIN) <br>
+[этан-1,2-диилбис(оксиметилен)]бис(диметилборан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2B@n(9)-CH2@n(8)-SiH2@n(7)-CH2@n(6)-SiH2@n(5)-CH2@n(4)-SiH2@n(3)-CH2@n(2)-BH2@n(1)
+$>
+
+en: 3,5,7-trisila-1,9-diboranonane (PIN)  <br>
+[silanediylbis(methylene)]bis[(boranylmethyl)silane]  <br>
+_Si_,_Si_′-bis(boranylmethyl)[silanediylbis(methylene)]bis(silane) 
+ru: 3,5,7-трисила-1,9-диборанонан (PIN) <br>
+[силанедиилбис(метилен)]бис[(боранилметил)силан] <br>
+_Si_,_Si_′-бис(боранилметил)[силанедиилбис(метилен)]бис(силан)
+
+@End
+
+#P-68.1.1.3
+en: Cyclic hydrides 
+ru: Циклические гидриды
+
+#P-68.1.1.3.1
+en: Polyhedral polyboranes
+ru: Полиэдральные полибораны
+
+en: Nomenclature of polyhedral polyboranes constitute a rich and diversified system characterized by specific prefixes. It 
+has been described and illustrated in the Section IR-6.2.3 (ref. 12); it is not reproduced in these recommendations. 
+ru: Номенклатура полиэдральных полиборанов представляет собой богатую и разнообразную систему, характеризующуюся специфическими 
+префиксами. Она была описана и проиллюстрирована в разделе IR-6.2.3 (ссылка 12); в данных рекомендациях она не воспроизводится.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+BH:b1@n(1)_(x.6,y1.3)BH2:b2@n(2,90)_(x-1.7,y.4)HB:b3@n(3,90)_#1_(x-1.6,y-.3)H2B:b4@n(4)_#b3;
+#1_(x1.3,y.3)H_#b2_(x-.6,y1)H_#b3_(x-1.1,y-.7)H_#b4_(x1,y-.5)H_#1
+$>
+
+en: _arachno_-tetraborane(10)  <br>
+(preselected name) 
+ru: _арахно_-тетраборан(10) <br>
+(&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HB:b5@n(5,20)_(x2.5,y-0.9,H)BH:b2@n(2)_(x#1,y-.3,H)H_#1_(x.7,y1.2)B:b4@n(4,-55)<_(y.5)H>_(x1.9,y-.5)BH:b3@n(3,-150)_#b2;
+#1_(x1.2,y-2)B:b1<_(y-.5)H>@n(1,-160,.5)<_#b4><_#b3>_#b2_(x1.1,y.8)H_#b3_(x-.7,y1)H_#b4_(x-1.2,y-.1)H_#1
+$>
+
+en: _nido_-pentaborane(9)  <br>
+(preselected name) 
+ru: _нидо_-пентаборан(9) <br>
+(&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:nd(t,n,a,L)&t:b&n@n(&n,&a,&L)@;
+@:bbond(b)$color(#888)_&b$color()@;
+@nd(HB,4)@bbond((x1.5,y-.3))@nd(HB,5,-110,.55)@bbond((x2.2,y.3))@nd(CH,2)@bbond((x-1.7,y1.9))@nd(BH,9,-75)@bbond((H))#b5;
+@nd(B<_(y.5)H>,10,180,.65)@bbond((y-1.9,x.2))#b9@bbond((x-2.2,y-.1,H))@nd(HB,8,-120)<@bbond()#b10>@bbond((H))#b5@bbond((y-1.2,x.1))@nd(C<_(y-.5)H>,1,-170)_#b4;
+#b1_#b2_(x-.4,y2.4)@nd(BH,6,80)<@bbond()#b9><_#b10>_(x-2.1,y.3)@nd(HB,7)_#b4_#b8_#b7;
+#b4_(x2.2,y.6)@nd(BH,3,-70)<_#b1><_#b2><_#b6>_#b7_#b10
+$>
+
+en: 1,2-dicarba-_closo_-decaborane(10) (PIN) 
+ru: 1,2-дикарба-_клозо_-декаборан(10) (PIN)
+
+@End
+
+#P-68.1.1.3.2+
+en: Heterocyclic parent hydrides containing Group 13 atom(s) belong to all the different classes of rings and 
+ring systems described in Chapter P-2. Preferred IUPAC names are selected according to the general rules given for 
+each class.
+ru: Гетероциклические &(parent hydride|*), содержащие атомы элементов 13-й Группы, относятся ко всем различным классам колец 
+и кольцевых систем, описанным в Главе P-2. Предпочтительные названия по номенклатуре IUPAC выбираются в соответствии с 
+общими правилами, приведенными для каждого класса.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`-O@n(6,120)_p8@n(7,150,.4)_p8@n(8,-150,.4)_p8O@n(1)_p8AlH@n(2,100)_p8O@n(3,-10)|@n(4,30,.4)_p8
+$>
+
+en: 1,3,6,2-trioxaluminocane  <br>
+(not 1,3,6-trioxa-2-aluminacyclooctane) 
+ru: 1,3,6,2-триоксалюминокан <br>
+(не 1,3,6-триокса-2-алюминациклооктан)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.1)_qq_qGa<_(y-.5)H>@n(1)_q_qq
+$>
+
+en: 1_H_-gallole  <br>
+(not 1-gallacyclopenta-2,4-diene) 
+ru: 1_H_-галлол <br>
+(не 1-галлациклопента-2,4-диен)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)-O@n(1,-80)|BH@n(2,-120)`--O@n(3,120)`|@n(4,-160,.35)
+$>
+
+en: 1,3,2-dioxaboretane (PIN)  <br>
+(not 1,3-dioxa-2-boracyclobutane) 
+ru: 1,3,2-диоксаборетан (PIN) <br>
+(не 1,3-диокса-2-борациклобутан)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+=_q7_qq7@n(2,-60,.4)_q7B<_(y-.5)H>@n(1)_q7_qq7_q7
+$>
+
+en: 1_H_-borepine (PIN)  <br>
+(not 1_H_-1-boracyclohepta-2,4,6-triene) 
+ru: 1_H_-борепин (PIN) <br>
+(не 1_H_-1-борациклогепта-2,4,6-триен)
+
+@cell
+<$ $L(1.1)HB--BH|BH`--HB`| $>
+
+en: tetraboretane (preselected name; see P-12.2; P-22.2.5)  <br>
+cyclotetraborane(4)  <br>
+(not 1,2,3,4-tetraboracyclobutane) 
+ru: тетраборетан (&(preselected name); см. P-12.2; P-22.2.5) <br>
+циклотетраборан(4) <br>
+(не 1,2,3,4-тетраборациклобутан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)HB@n(4)--S@n(1)|BH@n(2,90)`--S@n(3,90)`|
+$>
+
+en: 1,3,2,4-dithiadiboretane (preselected name; see P-12.2; P-22.2.6)  <br>
+cyclodiborathiane  <br>
+(not 1,3-dithia-2,4-diboracyclobutane) 
+ru: 1,3,2,4-дитиадиборетан (&(preselected name); см. P-12.2; P-22.2.6) <br>
+циклодиборатиан <br>
+(не 1,3-дитиа-2,4-диборациклобутан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)H_(y.5)N@n(1,90)\BH@n(2,160,.45)|NH@n(3,-160,.45)`/B<_(y.5)H>@n(4)`\HN@n(5,-20,.45)`|HB@n(6,20,.45)/
+$>
+
+en: 1,3,5,2,4,6-triazatriborinane  <br>
+(preselected name)  <br>
+borazine (see D-7.54, ref. 1) <br>
+cyclotriborazane  <br>
+(not 1,3,5-triaza-2,4,6-triboracyclohexane)
+ru: 1,3,5,2,4,6-триазатриборинан <br>
+(&(preselected name)) <br>
+боразин (см. D-7.54, ссылка 1) <br>
+циклотриборазан <br>
+(не 1,3,5-триаза-2,4,6-триборациклогексан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)O@n(1)\BH@n(2,160,.45)|O@n(3,30,.45)`/B<_(y.5)H>@n(4)`\O@n(5,150,.45)`|HB@n(6,20,.45)/
+$>
+
+en: 1,3,5,2,4,6-trioxatriborinane (preselected name)  <br>
+boroxin (see D-7.54, ref. 1)  <br>
+cyclotriboroxane  <br>
+(not 1,3,5-trioxa-2,4,6-triboracyclohexane) 
+ru: 1,3,5,2,4,6-триоксатриборинан (&(preselected name)) <br>
+бороксин (см. D-7.54, ссылка 1) <br>
+циклотрибороксан <br>
+(не 1,3,5-триокса-2,4,6-триборациклогексан)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)S@n(1)\BH@n(2,160,.45)|S@n(3,30,.45)`/B<_(y.5)H>@n(4)`\S@n(5,150,.45)`|HB@n(6,20,.45)/
+$>
+
+en: 1,3,5,2,4,6-trithiatriborinane (preselected name)  <br>
+borthiin (see D-7.54, ref. 1) <br>
+cyclotriborathiane  <br>
+(not 1,3,5-trithia-2,4,6-triboracyclohexane) 
+ru: 1,3,5,2,4,6-тритиатриборинан (&(preselected name)) <br>
+бортиин (см. D-7.54, ссылка 1) <br>
+циклотриборатиан <br>
+(не 1,3,5-тритиа-2,4,6-триборациклогексан)
+
+@End
+
+#P-68.1.1.3.3+
+en: von Baeyer and spiro compounds (see also P-23 and P-24)
+ru: Соединения фон Байера и спиросоединения (см. также P-23 и P-24)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(65)B@n(1,180)@:sb()_(x.8)@()O@n(11)@sb()CH2-CH2{}-O@n(14)@sb()B@n(6,0)$L(1.3)<`\O:t@n(5)>`/O:b@n(7,90);
+#1/O@n(2)-CH2-CH2{}_#t; #1\O@n(10,90)-CH2-CH2{}_#b
+$>
+
+en: 2,5,7,10,11,14-hexaoxa-1,6-diborabicyclo[4.4.4]tetradecane (PIN)
+ru: 2,5,7,10,11,14-гексаокса-1,6-диборабицикло[4.4.4]тетрадекан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-O@n(8,110)`\HB@n(9,0)/O@n(10,-110)-\c\-O@n(4,70)/BH@n(3,180)`\O@n(2,-70)`-@n(1,-100,.4)`/
+$>
+
+en: 2,4,8,10-tetraoxa-3,9-diboraspiro[5.5]undecane (PIN) 
+ru: 2,4,8,10-тетраокса-3,9-дибораспиро[5.5]ундекан (PIN)
+
+@End
+
+#P-68.1.1.3.4+
+en: Fused ring systems (see also P-25) 
+ru: &(Fused ring system|*) (см. также P-25)
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//@n(9)\|\\B@n(5,90,.55)/\@n(4,90)//@n(3,30)`|@n(2,-30)`\\@n(1,-90)`/<||r>`\B@n(10,,.55)`//
+$>
+
+en: boranthrene (PIN) 
+ru: борантрен (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_pN<_(y.5)H>@n(4,170,.5)_p_ppN@n(6,-120,.6)_p_p_qO@n(3,80)_qB@n(2,-70)<_qO@n(1,-70)_q>-/=\`//`-`\\
+$>
+
+en: 2-phenyl-2_H_,4_H_-[1,3,2]dioxaborolo[4,5-_d_]imidazole (PIN)
+ru: 2-фенил-2_H_,4_H_-[1,3,2]диоксабороло[4,5-_d_]имидазол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_pl_q6_qq6_q6@n(2,-60)_qq6@n(1,-100)_q6_q6_pB<_(y.5)H>@n(5,-90,.55)_p_ppl_q6_qq6_q6_qq6_q6
+$>
+
+en: 5_H_-dibenzo[_b_,_d_]borole (PIN) 
+ru: 5_H_-дибензо[_b_,_d_]борол (PIN)
+
+@End
+
+#P-68.1.2
+en: Names for substituent groups derived from parent hydrides 
+ru: Названия для &(substituent group|ro*), производных от &(parent hydride|ro*)
+
+en: Names of substituent groups <%a%> and <%b%> derived from borane are formed by method (2) described in P-29.2; they 
+are preselected prefixes. 
+ru: Названия &(substituent group|ro*) <%a%> и <%b%>, полученных из борана, формируются методом (2), описанным в P-29.2; 
+они представляют собой &(preselected prefix|*).
+%a: <$ {}–BH2 $>
+%b: <$ {}=BH $>
+
+@p .framed .centred
+en: Prefixes derived from borane are no longer named by method (1) in P-29.2.
+ru: Префиксы, производные от борана, больше не называются методом (1) в P-29.2.
+
+@Examples
+
+@cell
+<$ {}–BH2 $>
+  
+en: boranyl (preselected prefix)  <br>
+(not boryl) 
+ru: боранил (&(preselected prefix)) <br>
+(не борил)
+
+@cell
+<$ {}=BH $>  
+
+en: boranylidene (preselected prefix)  <br>
+(not borylidene) 
+ru: боранилиден (&(preselected prefix)) <br>
+(не борилиден)
+
+@cell
+<$ ">"BH $>
+
+en: boranediyl (preselected prefix)  <br>
+(not borylidene)  <br>
+(not borylene)
+ru: борандиил (&(preselected prefix)) <br>
+(не борилиден) <br>
+(не борилен)
+
+@cell
+<$ {}--B<`|{}>--{} $>
+
+en: boranetriyl (preselected prefix)  <br>
+(not borylidyne) 
+ru: борантриил (&(preselected prefix)) <br>
+(не борилидин)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2B@n(3)-B@n(2)<-BH2@n(1)>`|BH2
+$>
+
+en: 2-boranyltriborane(5) (preselected name) 
+// исправлена ошибка из оригинала - там было preselected prefix. но это конечно не префикс
+ru: 2-боранилтриборан(5) (&(preselected name)) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-BH@n(1)-BH@n(2)-BH2@n(3)
+$>
+
+en: triboran(5)-1-yl (preselected prefix) 
+ru: триборан(5)-1-ил (&(preselected prefix))
+
+@cell
+<$ {}–BH-O-BH2 $>
+  
+en: diboroxanyl (preselected prefix) 
+ru: дибороксанил (&(preselected prefix))
+
+@cell
+<$ {}–BH-NH-BH2 $>
+  
+en: (boranylamino)boranyl (preselected prefix)  <br>
+(not diborazan-1-yl)  
+ru: (бораниламино)боранил (&(preselected prefix)) <br>
+(не диборазан-1-ил)
+
+@cell
+<$ H2Al–{} $>  
+
+en: alumanyl  <br>
+(preselected prefix) 
+ru: алюманил <br>
+(&(preselected prefix))
+
+@cell
+<$ H2Ga– $>
+
+en: gallanyl  <br>
+(preselected prefix) 
+ru: галланил <br>
+(&(preselected prefix))
+
+@cell
+<$ H2In–  $>
+
+en: indiganyl  <br>
+(preselected prefix)  
+ru: индиганил <br>
+(&(preselected prefix))
+
+@cell
+<$ H2Tl–{} $>
+
+en: thallanyl  <br>
+(preselected prefix) 
+ru: талланил <br>
+(&(preselected prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-SiH2@n(2)-CH2-SiH2@n(4)-CH2-SiH2@n(6)-CH2-BH@n(8)-CH2@n(9)-{}
+$>
+
+en: 2,4,6-trisila-8-boranonan-9-yl (preferred prefix) 
+ru: 2,4,6-трисила-8-боранонан-9-ил (&(preferred prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$L(1.1)B@n(2,90)`--O@n(3,90)`|H2C@n(4)--O@n(1)|_(A45)@w()
+$>
+
+en: 1,3,2-dioxaboretan-2-yl (preferred prefix)
+ru: 1,3,2-диоксаборетан-2-ил (&(preferred prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+|@n(3,30)`//@n(4,90)`\N@n(5,90,.55)`/@n(6,90)`\\@n(7,150)`|@n(8,-150)//N@n(9,,.55)\B@n(10,,.6)<|>/N@n(1,,.55)\\@n(2,30)/@w()
+$>
+
+en: [1,3,2]diazaborinino[1,2-_a_][1,3,2]diazaborinin-2-yl (preferred prefix)
+ru: [1,3,2]диазаборинино[1,2-_a_][1,3,2]диазаборинин-2-ил (&(preferred prefix))
+
+@End
+
+// ------------
+
+#P-68.1.3
+en: Modification of the degree of hydrogenation  
+ru: Изменение степени гидрирования
+
+#P-68.1.4
+en: Functional parent compounds 
+ru: Функциональные &(parent compound|*)
+
+#P-68.1.5
+en: Substitutive nomenclature
+ru: &(Substitutive nomenclature)  
+
+#P-68.1.6
+en: Adducts
+ru: Аддукты
+
+// ================
+
+#P-68.2
+en: Nomenclature for compounds of the Group 14 elements 
+ru: Номенклатура соединений элементов 14-й Группы
+
+#P-68.3
+en: Nomenclature for compounds of the Group 15 elements 
+ru: Номенклатура соединений элементов 15-й Группы
+
+#P-68.4
+en: Nomenclature for compounds of the Group 16 elements 
+ru: Номенклатура соединений элементов 16-й Группы
+
+#P-68.5
+en: Nomenclature for compounds of the Group 17 elements 
+ru: Номенклатура соединений элементов 17-й Группы
+
+// =================================================
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

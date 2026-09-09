@@ -18,13 +18,19 @@
   "al|*": "али",
 
   "amic acid:comment": "Точного перевода найти не удалось. Гугл упрямо подсовывает аминокислоты",
-  "amic acid": "амидная кислота",
-  "amic acid|ro": "амидной кислоты",
+  "amic acid": "амовая кислота",
+  "amic acid|ro": "амовая кислоты",
   "amic acid|tv": "амидной кислотой",
-  "amic acid|*": "амидные кислоты",
-  "amic acid|ro*": "амидных кислот",
-  "amic acid|tv*": "амидными кислотами",
-  "amic [acid]": "амидная",
+  "amic acid|*": "амовые кислоты",
+  "amic acid|ro*": "амовых кислот",
+  "amic acid|tv*": "амовыми кислотами",
+  "amic [acid]": "амовая",
+
+  "amidic acid": "амидная кислота",
+  "amidic [anhydride]": "амидный",
+
+  "amidous acid": "амидистая кислота",
+  "amidous [anhydride]": "амидистый",
 
   "amplificant": "амплификант",
   "amplificant|ro": "амплификанта",
@@ -83,7 +89,11 @@
   "bonding number|ro": "числа связей",
   "bonding number|tv": "числом связей",
   "bonding number|pr": "числе связей",
+  "bonding number|ro*": "чисел связей",
   "bonding number|tv*": "числами связей",
+
+  "boronic acid": "бороновая кислота",
+  "boronic acid|ro": "бороновой кислоты",
 
   "bridge prefix": "мостиковый префикс",
 
@@ -147,6 +157,7 @@
   "carbonic [acid]|tv": "угольной",
 
   "carbonic [amide]": "угольный",
+  "carbonic [anhydride]": "угольный",
 
   "carbonochloridic acid": "carbonochloridic acid",
   "carbonocyanidic acid": "carbonocyanidic acid",
@@ -511,6 +522,7 @@
 
   "inoyl": "иноил",
 
+  "inous acid": "инистая кислота",
   "inous [acid]": "инистая",
   "inous [acid]|ro": "инистой",
   "inous [anion]": "инистый",
@@ -539,6 +551,9 @@
   "ium:comment": "Суффикс для таких случаев: methanium - метаний",
   "ium": "ий",
 
+  "l-convention": "λ-конвенция",
+  "l-convention|tv": "λ-конвенцией",
+
   "locant set": "набор локантов",
   "locant set|*": "наборы локантов",
 
@@ -560,6 +575,10 @@
   "mononuclear [acid]|da*": "моноядерным",
   "mononuclear [acid]|tv*": "моноядерными",
   "mononuclear [acid]|pr*": "моноядерных",
+
+  "mononuclear [hydride]|*": "моноядерные",
+  "mononuclear [hydride]|ro": "моноядерного",
+  "mononuclear [hydride]|ro*": "моноядерных",
 
   "multiparent [system]": "мультиисходная",
   "multiparent [system]|ro": "мультиисходной",
@@ -650,6 +669,7 @@
   "or[ic]": "ор",
   "or[ic]o": "оро",
   "oric acid": "орная кислота",
+  "oric acid|ro": "орной кислоты",
   "oric [acid]": "орная",
   "oric [acid]|ro": "орной",
   "oric [acid]|vi": "орную",
@@ -867,6 +887,9 @@
   "polynuclear [acid]|ro*": "многоядерных",
   "polynuclear [acid]|tv*": "многоядерными",
   "polynuclear [acid]|pr*": "многоядерных",
+
+  "polynuclear [hydride]|*": "многоядерные",
+  "polynuclear [hydride]|ro*": "многоядерных",
 
   "polynuclear carbon acid|*": "многоядерные угольные кислоты",
   "polynuclear carbon acid|ro*": "многоядерных угольных кислот",
