@@ -3824,7 +3824,7 @@ ru: 3-{[гидрокси(сульфанил)фосфоротиоил]амино}
 
 #P-67.1.4.2
 en: Substituent groups derived from boron acids and silicic acid  
-ru: &(Substituent group|*), производные от борных кислот и кремниевой кислоты
+ru: &(Substituent group|*), производные от &(boron acid|ro*) и кремниевой кислоты
 
 en: Substituent groups derived from boron and silicon mononuclear acids and their analogues are formed by substituting the 
 parent hydride names ‘borane’ and ‘silane’. The name borono, for <%a%>, is retained and is the preselected name. 

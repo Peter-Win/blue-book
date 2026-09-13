@@ -92,8 +92,18 @@
   "bonding number|ro*": "чисел связей",
   "bonding number|tv*": "числами связей",
 
+  "borinic acid": "бориновая кислота",
+  "borinic acid|pr": "бориновой кислоте",
+  "borinic [anion]": "бориновый",
+
+  "boron acid|*": "борные кислоты",
+  "boron acid|ro*": "борных кислот",
+  "boron acid|pr*": "борных кислотах",
+
   "boronic acid": "бороновая кислота",
   "boronic acid|ro": "бороновой кислоты",
+  "boronic acid|pr": "бороновой кислоте",
+  "boronic [anion]": "бороновый",
 
   "bridge prefix": "мостиковый префикс",
 
@@ -128,6 +138,19 @@
   "bridging": "образование мостика",
   "bridging|ro": "образования мостика",
   "bridging|tv": "образованием мостика",
+
+  "bridging atom|ro*": "мостиковых атомов",
+  "bridging atom|tv*": "мостиковыми атомами",
+
+  "nonbridging atom|ro": "немостикового атома",
+
+  "bridging group|ro": "мостиковой группы",
+
+  "bridging substituent": "мостиковый заместитель",
+  "bridging substituent|*": "мостиковые заместители",
+  "bridging substituent|ro*": "мостиковых заместителей",
+
+  "nonbridging substituent|ro": "немостикового заместителя",
 
   "bridging nomenclature": "мостиковая номенклатура",
 
@@ -206,6 +229,7 @@
   "citation|ro": "цитирования",
   "citation|pr": "цитировании",
   "citation|da": "цитированию",
+  "citation|tv": "цитированием",
   "cite": "цитировать",
   "cite|self": "цитироваться",
   "cited": "цитируется",
@@ -304,10 +328,9 @@
   "cyclophane|*": "циклофаны",
   "cyclophane|ro*": "циклофанов",
 
-  "divalent bridge": "двухвалентный мост",
-  "divalent bridge|ro": "двухвалентного моста",
-  "divalent bridge|ro*": "двухвалентных мостов",
-  
+  "dative [bond]": "донорно-акцепторная",
+  "dative [bond]|ro": "донорно-акцепторной",
+  "dative [bond]|ro*": "донорно-акцепторных",
 
   "dependent bridge": "зависимый мост",
   "dependent bridge|ro": "зависимого моста",
@@ -324,6 +347,11 @@
   "detachable [prefix]|da*": "отделяемым",
 
   "disubstituted|ro*": "дизамещённых",
+
+
+  "divalent bridge": "двухвалентный мост",
+  "divalent bridge|ro": "двухвалентного моста",
+  "divalent bridge|ro*": "двухвалентных мостов",
 
   "ester": "сложный эфир",
   "ester|pr": "сложном эфире",
@@ -552,6 +580,7 @@
   "ium": "ий",
 
   "l-convention": "λ-конвенция",
+  "l-convention|ro": "λ-конвенции",
   "l-convention|tv": "λ-конвенцией",
 
   "locant set": "набор локантов",
@@ -914,6 +943,8 @@
   "preselected name|ro*": "предварительно выбранных названий",
   "preselected name|tv*": "предварительно выбранными названиями",
   "preselected name|pr*": "предварительно выбранных названиях",
+
+  "preselected [name]|tv*": "предварительно выбранными",
 
   "preselected [prefix]": "предварительно выбранный",
   "preselected prefix": "предварительно выбранный префикс",

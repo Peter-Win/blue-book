@@ -695,23 +695,871 @@ ru: [1,3,2]диазаборинино[1,2-_a_][1,3,2]диазаборинин-2-
 
 @End
 
-// ------------
-
 #P-68.1.3
 en: Modification of the degree of hydrogenation  
 ru: Изменение степени гидрирования
+
+en: Double bonds are denoted by the ‘ene’ ending or by saturation of double bonds of mancude ring systems by the use of 
+‘hydro’ prefixes, as described in Sections P-31.1 and P-31.2, respectively. 
+ru: Двойные связи обозначаются окончанием «ен» или насыщенностью двойных связей в &(mancude) кольцевых системах 
+с использованием префикса «гидро», как описано в разделах P-31.1 и P-31.2 соответственно.
+
+@p .framed
+en: Hydro/dehydro prefixes are now classified as detachable prefixes but are not included in the category of 
+alphabetized detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2). 
+ru: Префиксы «гидро»/«дегидро» теперь классифицируются как &(detachable [prefix]|*) префиксы, но не входят в категорию 
+алфавитных &(detachable [prefix]|ro*) префиксов (см. P-14.4; см. также P-15.1.5.2, P-31.2, P-58.2).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HB@n(1)=B@n(2)-BH2@n(3)
+$>
+
+en: triborene(5) (preselected name) 
+ru: триборен(5) (&(preselected name))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3|Al@n(1)\@n(2,-30,.35)|`/`\`/`\`|/\<|>/
+$>
+
+en: 1-methyldecahydro-1-benzaluminine 
+ru: 1-метилдекагидро-1-бензалюминин
+
+@End
 
 #P-68.1.4
 en: Functional parent compounds 
 ru: Функциональные &(parent compound|*)
 
+#P-68.1.4.1+
+en: The names boric acid, boronic acid, and borinic acid are preselected retained names for the compounds 
+<%a%>, <%b%>, and <%c%>, respectively (see P-67.1.1). They are preferred IUPAC names for deriving the names 
+of the corresponding salts, esters, or anhydrides; or when the hydrogen atom(s) attached to the boron atom is (are) 
+substituted, for example methylboronic acid for <%d%>. Chalcogen analogues are named using infixes to denote 
+functional replacement of oxygen by S, Se, and Te. 
+ru: Названия борная кислота, &(boronic acid) и &(borinic acid) являются &(preselected [name]|tv*) &(retained name|tv*) 
+для соединений <%a%>, <%b%> и <%c%> соответственно (см. P-67.1.1). Они являются предпочтительными названиями по номенклатуре 
+IUPAC для получения названий соответствующих солей, сложных эфиров или ангидридов; или когда атом(ы) водорода, присоединенный(е) 
+к атому бора, замещен(ы), например, метил&(boronic acid) для <%d%>. &(Chalcogen analogue|*) называются с использованием 
+инфиксов для обозначения &(functional replacement|ro) кислорода на S, Se и Te.
+%a: <$ B(OH)3 $>
+%b: <$ HB(OH)2 $>
+%c: <$ H2B(OH) $>
+%d: <$ CH3-B(OH)2 $>
+
+en: Acid names such as these are not used for other elements of Group 13, which are named using substitutive 
+nomenclature based on the appropriate parent hydride. For names such as methaneboronic acid vs. methylboronic acid 
+for <%f%>, see P-67.1.1.2. 
+ru: Названия кислот, подобные этим, не используются для других элементов 13-й группы, которые именуются с использованием 
+&(substitutive nomenclature), основанной на соответствующем &(parent hydride|pr). Например, названия метан&(boronic acid|ro) 
+и метил&(boronic acid|ro) для <%f%> см. в P-67.1.1.2.
+%f: <$ CH3-B(OH)2 $>
+
+@Examples
+
+@cell
+<$ CH3-B(O^–)2  2Na^+ $>  
+
+en: disodium methylboronate (PIN) 
+ru: динатрий метилборонат (PIN)
+
+@cell
+<$ CH3-B(O^–)(OH) Na^+  $>
+
+en: sodium hydrogen methylboronate (PIN)
+ru: натрий &(hydrogen [cation]) метилборонат (PIN)
+
+@cell
+<$ CH3-B(OH)2 $>
+  
+en: methylboronic acid (PIN)  <br>
+(not methylboranediol) 
+ru: метил&(boronic acid) (PIN) <br>
+(не метилборандиол)
+
+@cell
+<$ (CH3)2B(SH)  $>
+
+en: dimethylborinothioic acid (PIN)  <br>
+dimethyl(thioborinic) acid  <br>
+(not dimethylboranethiol) 
+ru: диметилборино&(thioic acid) (PIN) <br>
+диметил(тиобориновая) кислота <br>
+(не диметилборантиол)
+
+@cell
+<$ B(S-CH3)3 $>
+  
+en: trimethyl borotrithioate (PIN)  <br>
+trimethyl trithioborate
+ru: триметил боротритиоат (PIN) <br>
+триметил тритиоборат
+
+@cell
+<$ CH3-CH2-S-B<-OH>`|O-CH3 $>
+
+en: _S_-ethyl _O_-methyl hydrogen borothioate (PIN)  <br>
+_S_-ethyl _O_-methyl hydrogen thioborate 
+ru: _S_-этил _O_-метил &(hydrogen [cation]) боротиоат (PIN) <br>
+_S_-этил _O_-метил &(hydrogen [cation]) тиоборат
+
+@cell
+<$ CH3-CH2-B<`|Cl>-OH $>
+
+en: ethylboronochloridic acid (PIN)  <br>
+ethylchloroboronic acid; (chloro replaces an OH group of boronic acid)  <br>
+chloro(ethyl)borinic acid  <br>
+(chloro and ethyl substitute the H atoms of borinic acid) 
+ru: этилбороно&(chloridic acid) (PIN) <br>
+этилхлор&(boronic acid); (хлор замещает группу OH в &(boronic acid|pr)) <br>
+хлор(этил)&(borinic acid|pr) <br>
+(хлор и этил замещают атомы H в &(borinic acid|pr))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-B<`|O-S-CH3>-O-CH2-CH3
+$>
+
+en: _O_-ethyl _OS_-methyl phenylborono(thioperoxoate) (PIN)  <br>
+_O_-ethyl _OS_-methyl phenyl(thioperoxy)boronate
+ru: _O_-этил _OS_-метил фенилбороно(тиопероксоат) (PIN) <br>
+_O_-этил _OS_-метил фенил(тиоперокси)боронат
+
+@cell
+<$ (CH3)2Al-O^-_(x1.2,N0)Na^+ $>
+
+en: sodium dimethylalumanolate
+ru: натрий диметилалюманолат
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-74,L:.55)@n(\textit{N}&x,&a,&L)@;
+(C6H5)2B-NH@Nx(^2)-CH2@n(2)-CH2@n(1)-NH@Nx(^1)-B(C6H5)2
+$>
+
+en: <%L1%>-bis(diphenylboranyl)ethane-1,2-diamine (PIN)  <br>
+[not <%L2%>-(ethane-1,2-diyl)bis(diphenylborinic amide);  <br>
+not <%L2%>-(ethane-1,2-diyl)bis(diphenylboranamine);  <br>
+not 1,1,6,6-tetraphenyl-2,5-diaza-1,6-diborahexane] 
+ru: <%L1%>-бис(дифенилборанил)этан-1,2-диамин (PIN) <br>
+[не <%L2%>-(этан-1,2-диил)бис(дифенил&(borinic [anion]) амид); <br>
+не <%L2%>-(этан-1,2-диил)бис(дифенилборанамин); <br>
+не 1,1,6,6-тетрафенил-2,5-диаза-1,6-диборагексан]
+%L1:_N_^{1},_N_^{2}
+%L2:_N_,_N_′
+
+@End
+
+#P-68.1.4.2
+en: Substituent groups for the boron acids
+ru: &(Substituent group|*) в &(boron acid|pr*)
+
+en: The general methodology for forming substituent groups derived from the boron acids has been described in P-67.1.4.2. 
+Except for the name ‘borono’ for <%a%> which is retained, their names are formed substitutively based on the parent 
+hydride ‘borane’, <%b%>. Chalcogen analogues of ‘borono’ are named by replacement prefixes, and not replacement 
+infixes. 
+ru: Общая методология образования &(substituent group|ro*), производных от &(boron acid|ro*), описана в разделе P-67.1.4.2. 
+За исключением названия «бороно» для группы <%a%> (которое сохраняется), их названия образуются по заместительному принципу 
+на основе &(parent hydride|ro) «боран» <%b%>. Названия &(chalcogen analogue|ro*) группы «бороно» образуются с использованием 
+префиксов замещения, а не инфиксов замещения.
+%a: <$ (HO)2B–{} $>
+%b: <$ BH3 $>
+
+@Examples
+
+@cell
+<$ (HO)2B–{}  $>
+
+en: borono (preselected prefix)  <br>
+dihydroxyboranyl 
+ru: бороно (&(preselected prefix)) <br>
+дигидроксиборанил
+
+@cell
+<$ (HS)BH–{} $>
+
+en: sulfanylboranyl (preselected prefix) 
+ru: сульфанилборанил (&(preselected prefix))
+
+@cell
+<$ (HO)(HS)B–{} $>
+
+en: thioborono (preselected prefix)  <br>
+hydroxy(sulfanyl)boranyl 
+ru: тиобороно (&(preselected prefix)) <br>
+гидрокси(сульфанил)боранил
+
+@cell
+<$ (HSe)2B–{} $>
+
+en: diselenoborono (preselected prefix)  <br>
+bis(selanyl)boranyl 
+ru: диселенобороно (&(preselected prefix)) <br>
+бис(селанил)боранил
+
+@cell
+<$ Cl-BH–{} $>
+
+en: chloroboranyl (preselected prefix)  <br>
+(not chloroboryl) 
+ru: хлорборанил (&(preselected prefix)) <br>
+(не хлорборил)
+
+@cell
+<$ (H2N)2B–{}  $>
+
+en: diaminoboranyl (preselected prefix) 
+ru: диаминоборанил (&(preselected prefix))
+
+@cell
+<$ (CH3)2B-O–{} $>
+
+en: (dimethylboranyl)oxy (preferred prefix) 
+ru: (диметилборанил)окси (&(preferred prefix))
+
+@cell
+<$ CH3-BH-NH–{}  $>
+
+en: (methylboranyl)amino (preferred prefix) 
+ru: (метилборанил)амино (&(preferred prefix))
+
+@cell
+<$ CH3-B<-{}>`|OH $>
+
+en: hydroxy(methyl)boranyl (preferred prefix) 
+ru: гидрокси(метил)боранил (&(preferred prefix))
+
+@End
+
 #P-68.1.5
 en: Substitutive nomenclature
 ru: &(Substitutive nomenclature)  
 
-#P-68.1.6
+en: Derivatives of borane, <%a%>, are named by substitutive nomenclature, the substituents being denoted by suffixes and 
+prefixes in accordance with the principles, rules, and conventions of substitutive nomenclature. The three acids 
+described in P-68.1.4 have retained names that are preselected names. 
+ru: Производные борана, <%a%>, именуются по правилам &(substitutive nomenclature|ro), при этом &(substituent|*) 
+обозначаются суффиксами и префиксами в соответствии с принципами, правилами и общепринятыми нормами 
+&(substitutive nomenclature|ro). Три кислоты, описанные в разделе P-68.1.4, имеют &(retained name|*), относящиеся к 
+категории &(preselected name|ro*).
+%a: <$ BH3 $>
+
+en: Derivatives are named in accordance with the seniority of classes described by the general rule in Section P-41. Thus, 
+acids having retained names have seniority over other suffixes. Suffixes are used when recommended in substitutive 
+nomenclature, in accordance with the general rule described in Section P-43. In the absence of a suffix that has priority 
+for naming organic compounds, when a choice is possible for selecting the parent hydride, the seniority order is as 
+follows: <%order%>  (substituent groups). 
+ru: Названия производных формируются с учетом старшинства классов, определяемого общим правилом, изложенным в разделе P-41. 
+Так, кислоты, имеющие &(retained name|*), обладают старшинством по отношению к другим суффиксам. Суффиксы используются 
+в случаях, предусмотренных правилами &(substitutive nomenclature|ro) (см. раздел P-43). При отсутствии суффикса, 
+определяющего приоритет в названии органического соединения, и наличии возможности выбора &(parent hydride|ro), 
+порядок старшинства следующий: <%order%> (&(substituent group|*)).
+%order: N > P > As > Sb > Bi > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl > O > S > Se > Te > C
+
+@Content
+
+#P-68.1.5.1
+en: Suffix nomenclature 
+ru: Номенклатура суффиксов 
+
+en: Suffixes, when available, are used to denote characteristic groups; prefixes are not recommended. Suffixes containing a 
+carbon atom generate preferred IUPAC names.
+ru: Для обозначения &(characteristic group|ro*) используются суффиксы (при их наличии); использование префиксов не рекомендуется. 
+Суффиксы, содержащие атом углерода, образуют предпочтительные названия по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$ H2B-CN  $>
+
+en: boranecarbonitrile (PIN) 
+ru: боранкарбонитрил (PIN)
+
+@cell
+<$ (HO)2B-B(OH)2 $>
+  
+en: hypodiboric acid (preselected name; see P-67.2.1)  <br>
+diborane(4)tetrol  <br>
+[not tetrahydroxydiborane(4)] 
+ru: гиподиборная кислота (&(preselected name); см. P-67.2.1) <br>
+диборан(4)тетрол <br>
+[не тетрагидроксидиборан(4)]
+
+@cell
+<$ (CH3)2Tl-OH $>
+
+en: dimethylthallanol  <br>
+hydroxydi(methyl)thallane 
+ru: диметилталланол <br>
+гидроксиди(метил)таллан
+
+@cell
+<$ (CH3)2Tl-O^– Na^+  $>
+
+en: sodium dimethylthallanolate
+ru: натрий диметилталланолат
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-B@n(9,-120)/O@n(10)-\<`/`-O@n(8,100)`\>\-O@n(4,80)/B@n(3,-60)<-OH>`\O@n(2,-80)`-@n(1,-100,.4)`/@n(6,0,.4)
+$>
+
+en: 2,4,8,10-tetraoxa-3,9-diboraspiro[5.5]undecane-3,9-diol (PIN)
+ru: 2,4,8,10-тетраокса-3,9-дибораспиро[5.5]ундекан-3,9-диол (PIN)
+
+@End
+
+
+#P-68.1.5.2
+en: Prefix nomenclature 
+ru: Номенклатура префиксов
+
+@Content
+
+#P-68.1.5.2.1
+en: Substituted parent hydrides 
+ru: &(Substituted [substituent]|*) &(parent hydride|*)
+
+en: Normal prefix names are used to describe substituents of the B, Al, In, or Tl parent hydrides. 
+ru: Для обозначения &(substituent|ro*) в &(parent hydride|pr*) бора, алюминия, индия или таллия используются 
+стандартные названия префиксов.
+
+@Examples
+
+@cell
+<$ B(CH3)3 $>
+  
+en: trimethylborane (PIN) 
+ru: триметилборан (PIN)
+
+@cell
+<$ Al(C2H5)3 $>
+  
+en: triethylalumane
+ru: триэтилалюман 
+
+@cell
+<$ HAl(CH2-CH2-CH:a-CH3)2; #a`|CH3 $>
+
+en: bis(3-methylbutyl)alumane 
+ru: бис(3-метилбутил)алюман
+
+@cell
+<$ Al(O-CH2-CH2-CH2-CH3)3 $>
+  
+en: tributoxyalumane
+ru: трибутоксиалюман
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CH2-CH2-CH2-BH-NH@Nx()-BH-NH@Nx(′)-BH-CH2-CH2-CH2-CH3
+$>
+
+en: <%L%>-bis(butylboranyl)boranediamine (PIN)  <br>
+(not 1,5-dibutyltriborazane) 
+ru: <%L%>-бис(бутилборанил)борандиамин (PIN) <br>
+(не 1,5-дибутилтриборазан)
+%L:_N_,_N_′
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(10)-B@n(9)(CH3)-CH2@n(8)-O@n(7)-CH2@n(6)-CH2@n(5)-O@n(4)-CH2@n(3)-B@n(2)(CH3)-CH3@n(1)
+$>
+
+en: 2,9-dimethyl-4,7-dioxa-2,9-diboradecane (PIN)  <br>
+[ethane-1,2-diylbis(oxymethylene)]bis(dimethylborane) 
+ru: 2,9-диметил-4,7-диокса-2,9-диборадекан (PIN) <br>
+[этан-1,2-диилбис(оксиметилен)]бис(диметилборан)
+
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CH2-N@Nx(,-90)<|CH2CH3>-O-BH-CH2@n(1)-CH2@n(2)-BH-O-N@Nx(′)<|CH2CH3>-CH2-CH3
+$>
+
+en: _N_,_N_′-[ethane-1,2-diylbis(boranediyloxy)]bis(_N_-ethylethanamine) (PIN)  <br>
+_O_,_O_′-[ethane-1,2-diylbis(boranediyl)]bis(_N_,_N_-diethylhydroxylamine) 
+ru: _N_,_N_′-[этан-1,2-диилбис(борандиилокси)]бис(_N_-этилэтанамин) (PIN) <br>
+_O_,_O_′-[этан-1,2-диилбис(борандиил)]бис(_N_,_N_-диэтилгидроксиламин)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|_qq7_q7S@n(3,10)_q7B@n(2,-60,.55)<-S-CH3>_q7O@n(1,-50,.55)_q7_qq7
+$>
+
+en: 2-(methylsulfanyl)-2_H_-1,3,2-oxathiaborepine (PIN)
+ru: 2-(метилсульфанил)-2_H_-1,3,2-оксатиаборепин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(7,150)_q8O@n(6,110,.55)_q8B@n(5,-110,.55)<_(a67.5)CH2-CH3>_q8@n(4,80)<_(a67.5)CH2-CH3>_qq8<_(a67.5)CH3>@n(3,-80)_q8#
+Si@n(2,110,.55)<_(a40)H3C><_(a97.5)CH3>_q8O@n(1,-110,.55)_q8@n(8,-150)
+$>
+
+en: 4,5-diethyl-2,2,3-trimethyl-2,5,7,8-tetrahydro-1,6,2,5-dioxasilaborocine (PIN) 
+ru: 4,5-диэтил-2,2,3-триметил-2,5,7,8-тетрагидро-1,6,2,5-диоксасилабороцин (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.2,N2)<_(a30)C6H5>@n(2,-60)_q3Al@n(1,-130,.55)<_q3@n(3,-120)_(a30)C6`H5>`|CH2-CH3
+$>
+
+en: 1-ethyl-2,3-diphenyl-1_H_-aluminirene 
+ru: 1-этил-2,3-дифенил-1_H_-алюминирен
+
+@End
+
+#P-68.1.5.2.2
+en: Compounds with bridging atoms or groups 
+ru: Соединения с &(bridging atom|tv*) или группами
+
+en: Derivatives of di- and polyheteranes of the Group 13 elements, such as diborane, polyboranes, and related Al, Ga, In, 
+and Tl congeners, are named using substitutive nomenclature. When a nonbridging hydrogen is substituted, locants, 
+including the locant ‘1’, are used in the customary way. Bridging atoms or groups are indicated as follows: 
+ru: Производные ди- и полигетеранов элементов 13-й Группы (таких как диборан, полибораны и родственные соединения 
+Al, Ga, In и Tl) называют с использованием &(substitutive nomenclature|ro). При замещении &(nonbridging atom|ro) водорода 
+локанты (включая локант «1») используются обычным образом. Обозначение &(bridging atom|ro*) или групп осуществляется 
+следующим образом:
+
+@List a
+
+@item
+en: a bridging substituent is indicated by adding the Greek letter μ (mu) immediately before the name of the 
+substituent and separating its prefix name from that of the rest of the name by hyphens; 
+ru: &(bridging substituent) обозначают путем добавления греческой буквы μ (мю) непосредственно перед названием 
+&(substituent|ro), отделяя его название (в форме префикса) от остальной части наименования дефисами;
+
+@item
+en: two or more bridging substituents of the same kind are indicated by ‘di-μ’ or ‘bis-μ’, and so on; 
+ru: два или более &(bridging substituent|ro*) одного типа обозначают приставками «ди-μ», «бис-μ» и т. д.;
+
+@item
+en: bridging substituents are listed with the other substituents in alphanumerical order; 
+ru: &(bridging substituent|*) перечисляют вместе с другими &(substituent|tv*) в алфавитно-цифровом порядке;
+
+@End
+
+en: where the same substituent is present as a bridging group and as a nonbridging substituent it is cited first as a bridging 
+substituent. 
+ru: если один и тот же &(substituent) присутствует и в качестве &(bridging group|ro), и в качестве &(nonbridging substituent|ro), 
+он сначала &(cited) как &(bridging substituent).
+
+@Examples
+
+@cell
+<$ 
+$slope(60)H\B<`/H>_(x%x:1.2,y-%y:.5,d+)H_(x%x,y%y,d-)B</H><\CH3>_(x-%x,y%y,w+)H_(x-%x,y-%y,w-) 
+$>
+
+en: 1-methyldiborane(6) (PIN) 
+ru: 1-метилдиборан(6) (PIN)
+
+@cell
+<$
+$slope(60)H3C\In:a<`/H3C>_(x%x:1.3,y-%y:.5,d+)C_(h)H3{}_(x%x,y%y,d-)In</H><\CH3>_(x-%x,y%y,w+)H3_(h-)C_(w-)#a
+$>
+
+en: di-μ-methyl-tetramethyldiindigane(6) 
+ru: ди-μ-метил-тетраметилдииндиган(6)
+
+@cell
+<$
+$slope(60)CH2=CH-C`H2\In<`/C`H2`-CH`=CH2>_(x%x:1.3,y-%y:.5,d+)I_(x%x,y%y,d-)In</I><\CH2-CH=CH2>_(x-%x,y%y,w+)I_(x-%x,y-%y,w-) 
+$>
+
+en: di-μ-iodo-1-iodo-1,2,2-tris(prop-2-en-1-yl)diindigane(6) 
+ru: ди-μ-йод-1-йод-1,2,2-трис(проп-2-ен-1-ил)дииндиган(6)
+
+@End
+
+en: For more examples of the application of the symbol ‘μ’, see Rule IR-9.2.5.2 and IR-10.2.3.1, in ref. 12. 
+ru: Дополнительные примеры использования символа «μ» см. в правилах IR-9.2.5.2 и IR-10.2.3.1 (ссылка 12).
+
+
+#P-68.1.5.2.3
+en: Compounds with groups of higher seniority 
+ru: Соединения с группами старшего приоритета
+
+en: In the presence of groups of higher seniority, parent structures and prefixes are chosen in accordance with the seniority 
+of classes (see P-41). 
+ru: При наличии групп с более высоким старшинством выбор &(parent structure|ro*) и префиксов осуществляется в соответствии 
+со старшинством классов (см. P-41).
+
+@Examples
+
+@cell
+<$
+H3C`|_(x1.1)<|CH3><_(A20)CH3>_qO_qB<_qO_q_(A160)H3C>`|CH2-Sn(CH3)3
+$>
+
+en: trimethyl[(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)methyl]stannane (PIN)  <br>
+(Sn is senior to B) 
+ru: триметил[(4,4,5,5-тетраметил-1,3,2-диоксаборолан-2-ил)метил]станнан (PIN) <br>
+(Sn имеет более высокий приоритет, чем B)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3C--Sn@n(1,-75)|_q_q@n(3,-60,.4)<_q_q_(A-120)H3C>-B@n(9)_(x1,y-.2):a#
+$color(darkgray)_(x.6,y1.2)_(x1.5,y.4)$color()_(x-1,y.2)_(x-.3,y-1.2)<_#B>_(x.6,y-1)_(x.8,y-.5)$color(darkgray)_(x-1.4,y.1)_#a
+$>
+
+en: 3-(9-borabicyclo[3.3.1]nonan-9-yl)-1,1-dimethylstannolane (PIN)
+ru: 3-(9-борабицикло[3.3.1]нонан-9-ил)-1,1-диметилстаннолан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:80,L:.6)@n(\textit{N}&x,&a,&L)@;
+(H3C)3Si-N@Nx(′)<`|Si_(h-)(H3C)3>-BH-N@Nx(,90)<`|Si_(h)(CH3)3>-Si(CH3)3
+$>
+
+en: <%L1%>-tetrakis(trimethylsilyl)boranediamine (PIN)  <br>
+[not <%L2%>-boranediylbis[1,1,1-trimethyl-_N_-(trimethylsilyl)silanamine]; <br>  
+the diamine is senior to a monoamine even though ‘Si’ is senior to ‘B’ ( see P-44.1.1) ]
+ru: <%L1%>-тетракис(триметилсилил)борандиамин (PIN) <br>
+[не <%L2%>-борандиилбис[1,1,1-триметил-_N_-(триметилсилил)силанамин]; <br>
+диамин имеет старшинство по отношению к моноамину, несмотря на то, что «Si» старше «B» (см. P-44.1.1)]
+%L1:_N_,_N_,_N_′,_N_′
+%L2:_N_,_N_′
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:90,L:.55)@n(\textit{N}&x,&a,&L)@;
+$slope(60)(H3C)3C-@n(4,-120)/=@n(6,-120)</C(CH3)3>\<`//@n(2,120)<\C(CH3)3>`-`\\>_(x1.5)Ga<|Cl>_(x1.2)N@Nx()<`|Si_(h)(CH3)3>-Si@n(1,90,.55)(CH3)3
+$>
+
+en: _N_-[chloro(2,4,6-tri-_tert_-butylphenyl)gallanyl]-1,1,1-trimethyl-_N_-(trimethylsilyl)silanamine  
+(Si is senior to Ga)
+ru: _N_-[хлоро(2,4,6-три-_трет_-бутилфенил)галланил]-1,1,1-триметил-_N_-(триметилсилил)силанамин
+(Si старше Ga)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+$slope(60)(H3C)3C-@n(4,-120)/=@n(6,-120)</C(CH3)3>\<`//@n(2,120)<\C(CH3)3>`-`\\>@n(1,-60)_(x2)In$L(1.2)</N@Nx()[Si(CH3)3]2>\N@Nx(′,-70)[Si(CH3)3]2
+$>
+
+en: (2,4,6-tri-_tert_-butylphenyl)-<%L1%>-tetrakis(trimethylsilyl)indiganediamine <br>  
+{not <%L2%>-[(2,4,6-tri-tert-butylphenyl)indiganediyl]bis[1,1,1-trimethyl-_N_-(trimethylsilyl)silanamine];  <br>
+the diamine is senior to a monoamine even though Si is senior to In; see P-44.1.1} 
+ru: (2,4,6-три-_трет_-бутилфенил)-<%L1%>-тетракис(триметилсилил)индигандиамин <br>
+{не <%L2%>-[(2,4,6-три-_трет_-бутилфенил)индигандиил]бис[1,1,1-триметил-_N_-(триметилсилил)силанамин]; <br>
+диамин имеет приоритет перед моноамином, несмотря на то что Si старше In; см. P-44.1.1}
+%L1:_N_,_N_,_N_′,_N_′
+%L2:_N_,_N_′
+
+@cell
+<$
+C6H5-Ga<`|PH-C6H5>-PH-C6H5
+$>
+
+en: <%p%>-(phenylgallanediyl)bis(phenylphosphane)  <br>
+(P is senior to Ga) 
+ru: <%p%>-(фенилгалланедиил)бис(фенилфосфан) <br>
+(P старше Ga)
+%p:_P_,_P_′
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-\\-//@n(4,-170)<`\`=`/@n(1,-10)>-B</=/`\\</NH2>@n(1',130,.55)`-`//\@n(4',-60,.55)>\-\\`/<\NH2>@n(1'',-110,.5)`=`\//@n(4'',45)
+$>
+
+en: 4,4′,4′′-boranetriyltrianiline (PIN; a multiplicative name)  <br>
+4,4′,4′′-boranetriyltris(benzen-1-amine) 
+ru: 4,4′,4′′-борантриилтрианилин (PIN; &(multiplicative name)) <br>
+4,4′,4′′-борантриилтрис(бензол-1-амин)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2B-@n(4,-120)/=\@n(1,-60)<-OH>`//`-`\\
+$>
+
+en: 4-(dimethylboranyl)phenol (PIN)
+ru: 4-(диметилборанил)фенол (PIN)
+
+@cell
+<$
+@:n(n,a,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(HO)2B-@n(4,-120)/=@n(2,-120)</NO2>\@n(1,-60)<-COOH>`//`-`\\
+$>
+
+en: 4-borono-2-nitrobenzoic acid (PIN) 
+ru: 4-бороно-2-нитробензойная кислота (PIN)
+
+@cell
+<$ (CH3)3Si-BF2 $>
+  
+en: (difluoroboranyl)tri(methyl)silane (PIN)  <br>
+(Si is senior to B) <br>
+[not (trimethylsilyl)boronic difluoride; see P-67.1.2.5.2] 
+ru: (дифторборанил)три(метил)силан (PIN) <br>
+(Si старше B) <br>
+[не (триметилсилил)&(boronic [anion]) дифторид; см. P-67.1.2.5.2]
+
+@cell
+<$ Ga(S-S-CH2-CH3)3 $>
+  
+en: tris(ethyldisulfanyl)gallane  <br>
+tris[ethyl(dithioperoxy)]gallane 
+ru: трис(этилдисульфанил)галлан <br>
+трис[этил(дитиоперокси)]галлан
+
+
+@cell
+<$ Al(O-CO-[CH2]16-CH3)3 $>
+  
+en: alumanetriyl tri(octadecanoate)  <br>
+(a pseudoester) 
+ru: алюмантриил три(октадеканоат) <br>
+(&(pseudoester))
+
+@End
+
+%P-68.1.6
 en: Adducts
 ru: Аддукты
+
+#P-68.1.6
+en: Adducts (see also P-14.8)
+ru: Аддукты (см. также P-14.8)
+
+en: An adduct is a new chemical species (AB), each molecular entity of which is formed by direct combination (addition) 
+of two separate molecular entities (A) and (B) in such a way that there may be a change of connectivity but no gain or 
+loss of atoms in either of the molecular entities (see ref. 18). ‘Adduct’ is a general term specifically used for products of 
+addition reactions which, whenever appropriate, should be used in preference to the less explicit term ‘complex’. 
+Stoichiometries other than ‘1:1’ are also possible, e.g. ‘2:1’, a bis-adduct. An intramolecular adduct is formed when A 
+and B are groups contained within the same molecular entity. 
+ru: Аддукт — это новвый вид химических соединений (AB), каждая молекулярная единица которого образуется в результате прямого 
+объединения (присоединения) двух отдельных молекулярных единиц (A) и (B) таким образом, что может изменяться связность 
+атомов, но не происходит ни присоединения, ни отщепления атомов ни в одной из исходных молекулярных единиц (см. ссылку 18). 
+Термин «аддукт» является общим и применяется специально для продуктов реакций присоединения; его следует использовать 
+(там, где это уместно) вместо менее определенного термина «комплекс». Возможны и иные стехиометрические соотношения, 
+отличные от «1:1», например «2:1» (бисаддукт). Внутримолекулярный аддукт образуется, когда A и B представляют собой группы, 
+входящие в состав одной и той же молекулярной единицы.
+
+en: In this section Lewis adducts involving boron compounds are described based on the general principles for organic 
+adducts given in P-14.8. The Lewis acid component is usually an organic boron compound, the electron-pair acceptor; 
+the Lewis base component is usually, but not always, an organic nitrogen compound. 
+ru: В данном разделе описываются аддукты Льюиса, содержащие соединения бора, на основе общих принципов для органических 
+аддуктов, изложенных в подразделе P-14.8. Компонентом, выступающим в роли кислоты Льюиса (акцептора электронной пары), 
+обычно является органическое соединение бора, а компонентом, выступающим в роли основания Льюиса, — как правило 
+(хотя и не всегда), органическое соединение азота.
+
+@p .framed
+en: For adducts composed solely of organic compounds, the individual components are cited in the order of seniority of 
+classes (see P-41) in formulas, no longer according to the number of species in the adduct, nor in accordance with 
+the alphanumerical order as recommended in the 1979 Recommendations (see Rule D-1.55, ref. 1) and in the revised 
+Nomenclature of Inorganic Chemistry, 2005 Recommendations (ref. 12). 
+ru: Для аддуктов, состоящих исключительно из органических соединений, отдельные компоненты в формулах &(cited|*) в порядке 
+старшинства классов (см. P-41), а не в зависимости от числа частиц в аддукте или в алфавитно-цифровом порядке, как это 
+рекомендовалось в Рекомендациях 1979 года (см. правило D-1.55, ссылка 1) и в пересмотренной номенклатуре неорганической 
+химии (Рекомендации 2005 года, ссылка 12).
+
+#P-68.1.6.1
+en: Structures for Lewis ‘adducts’
+ru: Структуры аддуктов Льюиса
+
+en: These adducts may be separate species that are mixed at the molecular level or be attached to each other in an undefined 
+way, in which case the components are associated with each other in the formula using a center dot. When the 
+attachments are known, the components have been shown in three different ways, each of which has connotations to the 
+type of nomenclature used. 
+ru: Такие аддукты могут представлять собой отдельные частицы, смешанные на молекулярном уровне, либо быть соединенными друг 
+с другом неопределенным образом; в последнем случае компоненты в формуле связываются знаком «точка». Если же характер связи 
+известен, компоненты обозначают тремя различными способами, каждый из которых соотносится с определенным типом номенклатуры.
+
+en: One of the fundamental principles of organic chemical nomenclature is to name the structure that is drawn, and not to 
+ascertain what an actual electronic configuration might be. Hence, one must be prepared to name any of the following 
+structures that might in fact be drawn. 
+ru: Один из основополагающих принципов номенклатуры органических соединений заключается в том, что название дается изображенной 
+структуре, а не определяется ее реальная электронная конфигурация. Поэтому необходимо уметь называть любую из приведенных ниже 
+структур, которая может быть изображена.
+
+@Examples --
+
+@cell
+<$
+H2C_(y1.3)H2C_qNH2_qvB<(CH3)2>_qO_q
+$>
+
+*: **(I)**
+
+@cell
+<$
+H2C_(y1.3)H2C_qNH2_qB<(CH3)2>_qO_q
+$>
+
+*: **(II)**
+
+@cell
+<$
+H2C_(y1.3)H2C_qN$pos(-100)^+<_(h)H2>_qB$pos(-70)^-<(CH3)2>_qO_q
+$>
+
+*: **(III)**
+
+@End
+
+en: Structure **(I)** shows a connection of two components using a ‘dative’ bond, defined in ref. 23 as follows: “The 
+coordination bond is formed upon interaction between molecular species, one of which serves as a donor and the other 
+as an acceptor of the electron pair to be shared in the complex formed, e.g. the N→B bond in <%c%>→<%d%>. In spite of the 
+analogy of dative bonds with covalent bonds, in that both types imply sharing a common electron pair between two 
+vicinal atoms, the former are distinguished by their significant polarity, lesser strength, and greater length. The 
+distinctive feature of dative bonds is that their minimum-energy rupture in the gas phase or in inert solvent follows the 
+heterolytic bond cleavage path”. Elsewhere in the discussion of the entry ‘coordination’ in ref. 23, this term is declared 
+to be obsolete declaring that the origin of the bonding electrons has by itself no bearing on the character of the bond 
+formed. Nevertheless, the use of the arrow clearly suggests that the components may be treated as separate structures 
+and is the format most commonly used for adduct nomenclature using organic principles; hence, it is the structure used 
+in this document for Lewis adducts. 
+ru: Структура **(I)** демонстрирует соединение двух компонентов посредством так называемой &(dative [bond]|ro) связи, 
+которая в источнике [23] определяется следующим образом: «Координационная связь образуется при взаимодействии молекулярных 
+частиц, одна из которых выступает в роли донора, а другая — в роли акцептора электронной пары, обобществляемой в 
+образующемся комплексе (например, связь N→B в <%c%>→<%d%>). Несмотря на сходство &(dative [bond]|ro*) и ковалентных 
+связей — поскольку оба типа предполагают обобществление электронной пары двумя соседними атомами, — первые отличаются 
+значительной полярностью, меньшей прочностью и большей длиной. Характерной особенностью &(dative [bond]|ro*) связей является 
+то, что их разрыв с минимальными затратами энергии в газовой фазе или в инертном растворителе происходит по механизму 
+гетеролитического расщепления». В другом месте того же источника [23], при обсуждении термина «координация», утверждается, 
+что этот термин устарел, поскольку происхождение электронов, участвующих в образовании связи, само по себе не влияет на 
+характер возникающей связи. Тем не менее, использование стрелки четко указывает на то, что компоненты можно рассматривать 
+как отдельные структуры; кроме того, такой формат наиболее распространен в номенклатуре аддуктов, основанной на принципах 
+органической химии, поэтому именно он используется в данном документе для описания аддуктов Льюиса.
+%c:<$H3N$>
+%d:<$BH3$>
+
+en: Structure **(II)** shows a connection using a covalent bond now favored to describe a bond consisting of two electrons 
+regardless of their origin (ref. 18). It calls for a nomenclature using coordination principles, and would be the structures 
+used in this document for the generation of coordination names when they are given, even though such structures are 
+not shown. To use organic principles to name a structure showing a strict covalent bond would require use of the  
+λ-convention for the atoms involved in the connection which simply is not favored for intermediate bonding numbers. 
+ru: Структура **(II)** демонстрирует связь, обозначаемую как ковалентная; в настоящее время такой способ описания связи, 
+образованной двумя электронами, считается предпочтительным независимо от их происхождения (см. ссылку 18). Это требует 
+применения номенклатуры, основанной на координационных принципах; именно такие структуры подразумеваются в данном документе 
+при формировании координационных названий (даже если сами структуры не приведены). Использование принципов органической 
+номенклатуры для структуры с четко выраженной ковалентной связью потребовало бы применения &(l-convention|ro) для участвующих 
+в связи атомов, что, однако, не приветствуется в случаях с промежуточными значениями валентности.
+
+en: Structure **(III)** is the formal representation of structure **(II)** showing the formal charges on the involved atoms which 
+would be required in order to use organic principles in naming this structure. 
+ru: Структура **(III)** представляет собой формальное изображение структуры **(II)**, в котором указаны формальные заряды 
+на соответствующих атомах, необходимые для применения принципов органической номенклатуры при названии данной структуры.
+
+en: Organic nomenclature principles would require a zwitterionic name (see P-74), which tend to be largely avoided in 
+organic nomenclature. No zwitterionic names are given in this subsection. 
+ru: Принципы номенклатуры органических соединений требовали бы использования цвиттер-ионного названия (см. P-74), однако 
+в органической номенклатуре таких названий стараются по возможности избегать. В данном подразделе цвиттер-ионные названия 
+не приводятся.
+
+en: In the formulas of Lewis adducts, Lewis bases, which are generally organic in nature, are cited first following the 
+seniority order of classes of organic compounds, rings and ring systems, and of chains as indicated in Chapter P-4, 
+followed by inorganic compounds, i.e., compounds which do not contain carbon, in order of increasing number and, if 
+they occur in equal numbers, in alphabetical order of the first symbols of the formulas. Lewis acids are then cited in the 
+same order. Addition compounds containing water are exceptional, in that the water is always cited last. 
+ru: В формулах аддуктов Льюиса основания Льюиса (как правило, органической природы) указываются первыми в соответствии с 
+порядком старшинства классов органических соединений, циклов и циклических систем, а также цепей, установленным в Главе P-4; 
+за ними следуют неорганические соединения (т. е. соединения, не содержащие углерода) в порядке возрастания их количества, 
+а при равном количестве — в алфавитном порядке первых символов формул. Затем в том же порядке указываются кислоты Льюиса. 
+Исключение составляют продукты присоединения, содержащие воду: вода в них всегда указывается последней.
+
+#P-68.1.6.2
+en: General organic method for naming Lewis adducts 
+ru: Общий метод номенклатуры аддуктов Льюиса в органической химии
+
+en: Adducts (addition compounds) between neutral Lewis bases and Lewis acids are named by citing the name of each 
+component in the order given by the formula and connecting the name of each component by an ‘em’ dash (see  
+P-16.2.4.5) or by the set of connected atomic symbols separated by an ‘em’ dash and enclosed in parentheses. The 
+number of molecules of each component is denoted by two methods: 
+ru: Аддукты (продукты присоединения), образованные нейтральными основаниями Льюиса и кислотами Льюиса, именуют 
+при помощи &(citation|ro) названий компонентов в порядке их следования в формуле и соединяя эти названия длинным тире 
+(см. P-16.2.4.5) либо записывая в скобках последовательность символов атомов, соединенных длинным тире. Число молекул 
+каждого компонента указывают одним из двух способов:
+
+@List 1
+
+@item
+en: appropriate multiplying prefixes, except for mono; or 
+ru: с помощью соответствующих множительных приставок (за исключением приставки «моно-»); или
+
+@item
+en: by indicating the proportions of the species, if necessary, after the complete name by arabic numbers separated 
+by a solidus (/) and placed in parentheses with a space in front of the first parenthesis; water, if present, is cited last 
+in the name, and the number of water molecules per formula unit is therefore also cited last among these numerals 
+within the parentheses.
+ru: путем указания (при необходимости) соотношения компонентов после полного названия; для этого используют арабские цифры, 
+разделенные косой чертой (/) и заключенные в скобки, перед которыми ставится пробел; если в состав входит вода, ее название 
+указывают последним, и, следовательно, число молекул воды на формульную единицу также указывают последним среди этих цифр 
+внутри скобок.
+
+@End
+
+en: When desired, and especially when there may be more than one possible donor or acceptor atom, the attachments are 
+indicated in the name by italicized atomic symbols joined by an ‘em’ dash (see P-16.2.4.5), enclosed in parentheses, 
+and cited between the names of each component of the adduct. Each atomic symbol refers to the component nearest to 
+it. The names of components and the atomic symbols are cited in the sequence donor-acceptor, the locant of a 
+component being added before the appropriate atomic symbols, as required. 
+ru: При необходимости, и особенно в случаях, когда возможно наличие более одного атома-донора или атома-акцептора, 
+места присоединения указывают в названии с помощью символов атомов, выделенных курсивом и соединенных длинным тире 
+(см. P-16.2.4.5); эти обозначения заключают в скобки и помещают между названиями компонентов аддукта. Каждый символ атома 
+относится к ближайшему к нему компоненту. Названия компонентов и символы атомов приводят в последовательности 
+«донор — акцептор», причем локант присоединяемого компонента при необходимости указывают перед соответствующими символами атомов.
+
+en: However, these ‘adduct names’ are not PINs; the latter are coordination or ‘inorganic’ names (see ref. 12). Thus, in this 
+document, PINs for these adducts are not assigned. They will be assigned in a forthcoming document on PINs for 
+inorganic and coordination compounds.
+ru: Однако эти «названия аддуктов» не являются PIN; последние представляют собой координационные или «неорганические» 
+названия (см. ссылку 12). Таким образом, в данном документе PIN для этих аддуктов не присваиваются. Они будут присвоены 
+в готовящемся документе, посвященном PIN для неорганических и координационных соединений.
+
+@Examples
+
+@cell
+<$ BF3*2H2O $>
+
+en: trifluoroborane—water (1/2)  <br>
+(from preselected parent borane)  <br>
+boron trifluoride–bis(water)  <br>
+trifluoridoboron dihydrate 
+ru: трифторборан — вода (1:2) <br>
+(на основе выбранного исходного борана) <br>
+бор трифторид — бис(вода) <br>
+трифторбор дигидрат
+
+@cell
+<$ (CH3)3N_(x1.2,C)BCl3 $>
+  
+en: _N_,_N_-dimethylmethanamine—trichloroborane (1/1)  <br>
+trichlorido(_N_,_N_-dimethylmethanamine-ϰ_N_)boron
+ru: _N_,_N_-диметилметанамин—трихлорборан (1/1) <br>
+трихлоридо(_N_,_N_-диметилметанамин-ϰ_N_)бор
+
+@cell
+<$ (CH3-CH2)2S_(x1.2,C)`H2B-CH3 $>
+  
+en: (ethylsulfanyl)ethane—methylborane (1/1)  <br>
+[(ethylsulfanyl-ϰ_S_)ethane]dihydridomethanidoboron 
+ru: (этилсульфанил)этан — метилборан (1/1) <br>
+[(этилсульфанил-ϰ_S_)этан]дигидридометанидобор
+
+@End
 
 // ================
 
