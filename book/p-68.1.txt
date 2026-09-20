@@ -1534,21 +1534,21 @@ ru: Однако эти «названия аддуктов» не являют�
 @cell
 <$ BF3*2H2O $>
 
-en: trifluoroborane—water (1/2)  <br>
+en: trifluoroborane&(em dash)water (1/2)  <br>
 (from preselected parent borane)  <br>
-boron trifluoride–bis(water)  <br>
+boron trifluoride&(em dash)bis(water)  <br>
 trifluoridoboron dihydrate 
-ru: трифторборан — вода (1:2) <br>
+ru: трифторборан&(em dash)вода (1/2) <br>
 (на основе выбранного исходного борана) <br>
-бор трифторид — бис(вода) <br>
+бор трифторид&(em dash)бис(вода) <br>
 трифторбор дигидрат
 
 @cell
 <$ (CH3)3N_(x1.2,C)BCl3 $>
   
-en: _N_,_N_-dimethylmethanamine—trichloroborane (1/1)  <br>
+en: _N_,_N_-dimethylmethanamine&(em dash)trichloroborane (1/1)  <br>
 trichlorido(_N_,_N_-dimethylmethanamine-ϰ_N_)boron
-ru: _N_,_N_-диметилметанамин—трихлорборан (1/1) <br>
+ru: _N_,_N_-диметилметанамин&(em dash)трихлорборан (1/1) <br>
 трихлоридо(_N_,_N_-диметилметанамин-ϰ_N_)бор
 
 @cell
@@ -1556,31 +1556,246 @@ ru: _N_,_N_-диметилметанамин—трихлорборан (1/1) <b
   
 en: (ethylsulfanyl)ethane—methylborane (1/1)  <br>
 [(ethylsulfanyl-ϰ_S_)ethane]dihydridomethanidoboron 
-ru: (этилсульфанил)этан — метилборан (1/1) <br>
+ru: (этилсульфанил)этан&(em dash)метилборан (1/1) <br>
 [(этилсульфанил-ϰ_S_)этан]дигидридометанидобор
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HB:b5@n(5,20)_(x2.5,y-0.9,H)B:b2@n(2,110)<_(y-.5)H>_(x#1,y-.3,H)H_#1_(x.7,y1.2)B:b4@n(4,-55)<_(y.5)H>_(x1.9,y-.5)BH:b3@n(3,-150)_#b2;
+#1_(x1.2,y-2)B:b1<_(y-.5)H>@n(1,-160,.5)<_#b4><_#b3>_#b2_(x1.1,y.8)H_#b3_(x-.7,y1)H_#b4_(x-1.2,y-.1)H_#1;
+CH3-CH2-N`H2_(A-30,L2,>)#b4; #b2_(A-30,L2,<)`H2N-CH2-CH3
+$>
+
+en: ethanamine(_N_→_B_^{2})(_N_→_B_^{4})pentaborane(9) (2/1)  <br>
+2,4-bis(ethanamine-ϰ_N_)-2,3:2,5:3,4:4,5-tetra-μ_H_-_nido_-pentaborane(9)
+
+@cell
+<$
+NH2|CH2|CH2|NH2$L(2)-vBH3; #1-vBH3
+$>
+
+en: ethane-1,2-diamine—borane (1/2)  <br>
+ethane-1,2-diamine—bis(borane)  <br>
+μ-(ethane-1,2-diamine-1ϰ_N_^{1},2ϰ_N_^{2})-bis(trihydridoboron) 
+ru: этан-1,2-диамин&(em dash)боран (1/2) <br>
+этан-1,2-диамин&(em dash)бис(боран) <br>
+μ-(этан-1,2-диамин-1ϰ_N_^{1},2ϰ_N_^{2})-бис(тригидридобор)
+
+@cell
+<$ (CH3)3N*(CH3)2S*B12H10 $>
+  
+en: <%n%>-dimethylmethanamine–(methylsulfanyl)methane–dodecaborane(10) <%u%>  <br>
+(trimethyl)amine–(methylsulfanyl)methane–dodecaborane(10) <%u%>  <br>
+(<%n%>-dimethylmethanamine)decahydrido[(methylsulfanyl)methane]dodecaboron 
+ru: <%n%>-диметилметанамин&(em dash)(метилсульфанил)метан&(em dash)додекаборан(10) <%u%>  <br>
+(триметил)амин&(em dash)(метилсульфанил)метан&(em dash)додекаборан(10) <%u%>  <br>
+(<%n%>-диметилметанамин)декагидридо[(метилсульфанил)метан]додекабор
+%n:_N_,_N_
+%u:(1/1/1)
+
+@cell
+<$ H3C-O-NH2$L(2)-vBH3_(x.1,N0){} $>
+  
+en: _O_-methylhydroxylamine(_N_—_B_)borane <%u%>  <br>
+trihydrido(_O_-methylhydroxylamine-ϰ_N_)boron 
+ru: _O_-метилгидроксиламин(_N_—_B_)боран <%u%> <br>
+тригидридо(_O_-метилгидроксиламин-ϰ_N_)бор
+%u:(1/1)
+
+@cell
+<$ (CH3)2NPF2*B4H8 $>
+  
+en: <%n%>-dimethylphosphoramidous difluoride(<%p%>)tetraborane(8) <%u%>  <br>
+(<%n%>-dimethylphosphoramidous difluoride-ϰ_P_)octahydridotetraboron 
+ru: <%n%>-диметилфосфор&(amidous [anhydride]) дифторид(<%p%>)тетраборан(8) <%u%> <br>
+(<%n%>-диметилфосфор&(amidous [anhydride]) дифторид-ϰ_P_)октагидридотетрабор
+%n:_N_,_N_
+%u:(1/1)
+%p:_P_&(em dash)_B_
+// здесь в оригинале нет курсива для P и B. но я добавил, т.к. в остальных местах он есть
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+`//`-`\\/=\-`HN@Nx()-CO-NH2@Nx(′)$L(2)-vBH3
+$>
+
+en: _N_-phenylurea(<%nb%>)borane <%u%>  <br>
+trihydrido(_N_-phenylurea-<%k%>)boron
+ru: _N_-фенилмочевина(<%nb%>)боран <%u%> <br>
+тригидрид(_N_-фенилмочевина-<%k%>)бор
+%u:(1/1)
+%nb:_N_′&(em dash)_B_
+%k:ϰ_N_′
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$padding(0,.2)[B$pos(-90)^+@n(10,90)`\`//`\`||/\\<|>/O@n(5)\|l\@n(1,60,.4)//@n(2,30,.4)`|`\\`/|`/#
+$slope(60)_(x-1,y.9,<)N@n(1,130,.55)\r`/`=`\//-\@n(2,170,.45)-\\-//`\`=N@n(1',50)<`/@n(2',10)>_(>)#B]-0ClO3^-
+$>
+
+en: 2,2′-bipyridine(<%a%>)-10_H_-phenoxaborin-10-ylium perchlorate  <br>
+(2,2′-bipyridine-<%b%>)[2,2′-oxybis(benzen-1-ido-<%c%>)]boron(1+) perchlorate 
+ru: 2,2′-бипиридин(<%a%>)-10_H_-феноксаборин-10-илиум перхлорат <br>
+(2,2′-бипиридин-<%b%>)[2,2′-оксибис(бензол-1-идо-<%c%>)]бор(1+) перхлорат
+%a:_N_^{1},_N_^{1′}&(em dash)_B_
+%b:ϰ^{2}_N_^{1},_N_^{1′}
+%c:ϰ_C_^{1}
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+(CH3)2N@Nx(,-90)-C<|N@Nx(′,85,.65)>=NH@Nx(′′)$L(2)-vGaH3
+$>
+
+en: <%n%>-tetramethylguanidine(<%g%>)gallane <%u%>  <br>
+trihydrido[<%n%>-tetramethylguanidine-<%k%>]gallium 
+ru: <%n%>-тетраметилгуанидин(<%g%>)галлан <%u%> <br>
+тригидридо[<%n%>-тетраметилгуанидин-<%k%>]галлий
+%n:_N_,_N_,_N_′,_N_′
+%g:_N_′′—_Ga_
+%k:ϰ_N_′′
+%u:(1/1)
 
 @End
 
-// ================
+#P-68.1.6.3
+en: Intramolecular adducts 
+ru: Внутримолекулярные аддукты
 
-#P-68.2
-en: Nomenclature for compounds of the Group 14 elements 
-ru: Номенклатура соединений элементов 14-й Группы
+en: An intramolecular adduct between a group acting as a Lewis base and another group acting as a Lewis acid in the same 
+molecule is denoted by atomic symbol pairs in the order donor-acceptor as described in Rule P-68.1.6.2, but enclosed in 
+parentheses and cited in front of an appropriate portion of the name of the compound. A symbol denoting the 
+proportions of the components is not required. 
+ru: Внутримолекулярный аддукт, образованный группой, выступающей в роли основания Льюиса, и другой группой, выступающей 
+в роли кислоты Льюиса в пределах одной молекулы, обозначается парами символов атомов в порядке «донор-акцептор» 
+(как описано в правиле P-68.1.6.2), однако эти символы заключаются в скобки и указываются перед соответствующей частью 
+названия соединения. Указание количественного соотношения компонентов не требуется.
 
-#P-68.3
-en: Nomenclature for compounds of the Group 15 elements 
-ru: Номенклатура соединений элементов 15-й Группы
+@Examples
 
-#P-68.4
-en: Nomenclature for compounds of the Group 16 elements 
-ru: Номенклатура соединений элементов 16-й Группы
+@cell
+<$
+H2C_(y1.3)H2C_qNH2_qvB<(CH3)2>_qO_q
+$>
 
-#P-68.5
-en: Nomenclature for compounds of the Group 17 elements 
-ru: Номенклатура соединений элементов 17-й Группы
+en: <%nb%>-2-aminoethyl dimethylborinate  <br>
+(2-amino-ϰ_N_-ethan-1-olato-ϰ_O_)dimethanidoboron 
+ru: <%nb%>-2-аминоэтил диметилборинат <br>
+(2-амино-ϰ_N_-этан-1-олато-ϰ_O_)диметанидобор
+%nb:(_N_—_B_)
 
-// =================================================
+@cell
+<$ $L(1.2)`//`\`||/\\|\N<||O>//mO`|vBCl2`\O`/ $>
 
-#P-69
-en: Nomenclature for organometallic compounds 
-ru: Номенклатура металлоорганических соединений
+en: <%ob%>-2-nitrophenyl borodichloridate  <br>
+<%ob%>dichloro(2-nitrophenoxy)borane  <br>
+dichlorido(2-nitro-ϰ_O_-phenolato-ϰ_O_)boron 
+ru: <%ob%>-2-нитрофенил бородихлоридат <br>
+<%ob%>дихлор(2-нитрофенокси)боран <br>
+дихлоридо(2-нитро-ϰ_O_-фенолато-ϰ_O_)бор
+%ob:(_O_—_B_)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.6)$slope(20)\$color(darkgray)/$color()N@n(1,-40)<`|:t><\:n2@n(2,-40,.4)>_(A120,>)B@n(5)<`/_#1><`|_(A-120,L2)_#t>\@n(4,120)_(A50)@n(3,0,.4)_#n2
+$>
+
+en: <%nb%>-1-aza-5-borabicyclo[3.3.3]undecane (numbering shown)  <br>
+[<%t%>-nitrilo-<%kn%>-tris(propan-1-yl-<%kc%>)]boron  <br>
+[<%t%>-nitrilo-<%kn%>-tris(propan-1-ido-<%kc%>)]boron <br>
+**Note**: If the structure is shown as a charged system, it is named as a zwitterion (see P-74.1.1). 
+ru: <%nb%>-1-аза-5-борабицикло[3.3.3]ундекан (показана нумерация) <br>
+[<%t%>-нитрило-<%kn%>-трис(пропан-1-ил-<%kc%>)]бор <br>
+[<%t%>-нитрило-<%kn%>-трис(пропан-1-идо-<%kc%>)]бор <br>
+**Примечание**: Если структура представлена ​​как заряженная система, она обозначается как цвиттер-ион (см. P-74.1.1).
+%t:3,3′,3′′
+%nb:(_N_—_B_)
+%kc:ϰ_C_^{1}
+%kn:ϰ_N_
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+N_(y1.3)N_qqO_qvBF@n(2,80)_qO_q_(a54)H3C
+$>
+
+en: <%ob%>-_N_-[(difluoroboranyl)oxy]-_N_-nitrosomethanamine  <br>
+difluorido(_N_-nitroso-ϰ_O_-_N_-oxido-ϰ_O_-methanamine)boron
+ru: <%ob%>-_N_-[(дифторборанил)окси]-_N_-нитрозометанамин <br>
+дифторидо(_N_-нитрозо-ϰ_O_-_N_-оксидо-ϰ_O_-метанамин)бор
+%ob:(_O_—_B_)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\|_qN:n@n(3,110)_qql<_qN@n(1,100)<_(y-.5)H>_q>-\l-//`\`=`/\_(x-1,y.7)B<_(<)#n>$slope(45)<`/HO>\OH
+$>
+
+en: <%nb%>[2-(1_H_-1,3-benzimidazol-2-yl)phenyl]boronic acid <br>
+<%nb%>[2-(1_H_-benzimidazol-2-yl)phenyl]boronic acid <br>
+{not <%nb%>-2-[(dihydroxyboranyl)phenyl]benzimidazole}  <br>
+[2-(1_H_-1,3-benzimidazol-2-yl-<%kn%>)benzen-1-ido-<%kc%>]dihydroxidoboron <br>
+[2-(1_H_-benzimidazol-2-yl-<%kn%>)benzen-1-ido-<%kc%>]dihydroxidoboron
+ru: <%nb%>[2-(1_H_-1,3-бензимидазол-2-ил)фенил]&(boronic acid) <br>
+<%nb%>[2-(1_H_-бензимидазол-2-ил)фенил]&(boronic acid) <br>
+{не <%nb%>-2-[(дигидроксиборанил)фенил]бензимидазол} <br>
+[2-(1_H_-1,3-бензимидазол-2-ил-<%kn%>)бензол-1-идо-<%kc%>]дигидроксидобор <br>
+[2-(1_H_-бензимидазол-2-ил-<%kn%>)бензол-1-идо-<%kc%>]дигидроксидобор
+%nb:(_N_^{3}—_B_)
+%kn:ϰ_N_^{3}
+%kc:ϰ_C_^{1}
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$padding(.2)[B$pos(-90)^+`\O`|<`\H3C>//\</CH3>||mO`/v`/vvO||m<`/H3C@n(5)>@n(4,,.4)\@n(3,,.4)//@n(2,,.4)<\CH3@n(1)>`|O`\]-0Cl^-
+$>
+
+en: <%ob%>bis[(4-oxopent-2-en-2-yl)oxy]boranylium chloride  <br>
+bis(4-oxo-<%ko%>-pent-2-en-2-olato-<%ko%>)boron(1+) chloride 
+ru: <%ob%>бис[(4-оксопент-2-ен-2-ил)окси]боранил&(ium) хлорид <br>
+бис(4-оксо-<%ko%>-пент-2-ен-2-олато-<%ko%>)бор(1+) хлорид
+%ob:[2(_O_—_B_)]
+%ko:ϰ_O_
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(60)(CH3)3C-//-</C(CH3)3>\\<`/`=`\>-O\Ga</CH2-CH3><\CH2-CH3>`/vvN<`==HC`\>\CH2-CH2-N=CH#
+$slope(30)/@n(6,-150)`||<`\HO>@n(1)/@n(2,-30)<`|C(CH3)3>\\|@n(4,90)<`//`\>\C(CH3)3
+$>
+
+en: 2,4-di-_tert_-butyl-6-[({2-[({<%n%>-3,5-di-_tert_-butyl-2-[(diethylgallanyl)-oxy]phenyl}methylidene)amino]ethyl}imino)methyl]phenol <br>
+[2,4-di-_tert_-butyl-6-{[(2-{[(3,5-di-_tert_-butyl-2-hydroxyphenyl)methylidene]amino}ethyl)imino-<%kn%>]methyl}phenolato-<%ko%>]diethanidogallium 
+ru: 2,4-ди-_трет_-бутил-6-[({2-[({<%n%>-3,5-ди-_трет_-бутил-2-[(диэтилгалланил)-окси]фенил}метилиден)амино]этил}имино)метил]фенол <br>
+[2,4-ди-_трет_-бутил-6-{[(2-{[(3,5-ди-_трет_-бутил-2-гидроксифенил)метилиден]амино}этил)имино-<%kn%>]метил}фенолато-<%ko%>]диэтанидогаллий
+%n:(_N_—_Ga_)
+%ko:ϰ_O_
+%kn:ϰ_N_
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:0,L:.6)@n(\textit{N}&x,&a,&L)@;
+$L(1.3)$slope(60)(CH3)3C-//-</C(CH3)3>\\<`/`=`\>-O\Ga</CH2-CH3><\CH2-CH3>`/vvN<`==HC`\>@Nx(^1)#
+\[CH2]2`/N@Nx(^2)\vGa</CH2-CH3><\CH2-CH3>`/O`-`\</HC==>`=`/<`-C(CH3)3>\\-/`/\C(CH3)3
+$>
+
+en: <%nn%>-bis({3,5-di-_tert_-butyl-2-[(diethylgallanyl)oxy]phenyl}methylidene)-2<%ng%>-ethane-1,2-diamine  <br>
+(μ-{2,2′-[ethane-1,2-diylbis(azanylylidene-<%kn%>-methanylylidene)bis(4,6-di-_tert_-butylphenolato-<%ko%>)]})bis[di(ethanido-<%kc%>)gallium]
+// в оригинале ошибка со скобками. правильный вариант взят с сайта с исправлениями
+ru: <%nn%>-бис({3,5-ди-_трет_-бутил-2-[(диэтилгалланил)окси]фенил}метилиден)-2<%ng%>-этан-1,2-диамин <br>
+(μ-{2,2'-[этан-1,2-диилбис(азанилилиден-<%kn%>-метанилилиден)бис(4,6-ди-_трет_-бутилфенолато-<%ko%>)]})бис[ди(этанидо-<%kc%>)галлий]
+%nn:_N_^{1},_N_^{2}
+%ng:(_N_—_Ga_)
+%kn:1ϰ_N_^{1}:2ϰ_N_^{2}
+%ko:1ϰ_O_:2ϰ_O_′
+%kc:1ϰ^{2}_C_^{1},2ϰ^{2}_C_^{1}
+
+@End

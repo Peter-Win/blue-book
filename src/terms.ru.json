@@ -82,6 +82,11 @@
   "attachment locant|ro*": "локантов прикрепления",
   "attachment locant|tv*": "локантами прикрепления",
 
+  "azinic [acid]|*": "азиновые",
+
+  "azonic [acid]": "азоновая",
+  "azonic [acid]|*": "азоновые",
+
   "benzyne|comment": "Речь о веществе https://www.chemspider.com/Chemical-Structure.109690.html - Имеет краткое англ название benzyne, но русскоязычного аналога не найдено",
   "benzyne": "benzyne",
 
@@ -353,6 +358,8 @@
   "divalent bridge|ro": "двухвалентного моста",
   "divalent bridge|ro*": "двухвалентных мостов",
 
+  "em dash": "—",
+
   "ester": "сложный эфир",
   "ester|pr": "сложном эфире",
   "ester|*": "сложные эфиры",
@@ -387,6 +394,7 @@
   "functional nomenclature|tv": "функциональной номенклатурой",
 
   "functional parent": "функциональный родитель",
+  "functional parent|tv": "функциональным родителем",
   "functional parent|*": "функциональные родители",
   "functional parent|ro*": "функциональных родителей",
 
@@ -481,6 +489,7 @@
   "general nomenclature|pr": "общей номенклатуре",
 
   "hantzsch-widman|ro": "Ганча-Видмана",
+  "hantzsch-widman name": "название по номенклатуре Ганча-Видмана",
 
   "hemiacetal": "полуацеталь",
   "hemiacetal|*": "полуацетали",
@@ -507,6 +516,7 @@
 
   "hydroxamic acid": "гидроксамовая кислота",
   "hydroxamic acid|*": "гидроксамовые кислоты",
+  "hydroxamic acid|ro*": "гидроксамовых кислот",
   "hydroxamic [acid]|ro": "гидроксамовой",
 
   "hydroximic acid": "гидроксимовая кислота",
@@ -944,6 +954,7 @@
   "preselected name|tv*": "предварительно выбранными названиями",
   "preselected name|pr*": "предварительно выбранных названиях",
 
+  "preselected [name]": "предварительно выбранное",
   "preselected [name]|tv*": "предварительно выбранными",
 
   "preselected [prefix]": "предварительно выбранный",

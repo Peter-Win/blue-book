@@ -209,7 +209,7 @@ ru: аз&(inous [acid]) кислота <br>
 
 @cell
 en: azonic acid (preselected name) 
-ru: аз&(onic [acid]) кислота (&(preselected name))
+ru: &(azonic [acid]) кислота (&(preselected name))
 // http://charchem.org/ru/subst-ref/?langs=*&id=6800 
 
 

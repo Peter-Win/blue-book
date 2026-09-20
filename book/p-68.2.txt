@@ -1,0 +1,1096 @@
+#P-68.2
+en: Nomenclature for compounds of the Group 14 elements 
+ru: Номенклатура соединений элементов 14-й Группы
+
+@Content
+
+#P-68.2.0
+en: Introduction
+ru: Введение
+
+en: The nomenclature of carbon compounds as the basis for organic compounds, has been described in previous chapters. It 
+is not exemplified in this Section, unless comparisons with other compounds are needed. 
+ru: Номенклатура соединений углерода, составляющих основу органических соединений, была описана в предыдущих главах. 
+В данном разделе она не иллюстрируется примерами, за исключением случаев, когда требуется сравнение с другими соединениями.
+
+en: With the exception of silicic acid, a retained name for <%a%> (formerly orthosilic acid), all silicon compounds and a 
+large number of germanium, tin, and lead compounds are named in accordance with the principles, rules and 
+conventions of substitutive nomenclature. 
+ru: За исключением кремниевой кислоты — &(retained name|ro) для <%a%> (ранее — ортокремниевой кислоты), — все соединения 
+кремния, а также значительное число соединений германия, олова и свинца именуются в соответствии с принципами, правилами 
+и соглашениями &(substitutive nomenclature|ro).
+%a: <$ Si(OH)4 $>
+
+en: Germanium, tin, and lead compounds that do not contain carbon or that cannot be named by the principles of 
+substitutive nomenclature as defined in these recommendations for carbon compounds are named by the principles of 
+coordination nomenclature (see ref. 12). 
+ru: Соединения германия, олова и свинца, не содержащие углерода или не поддающиеся наименованию по принципам 
+&(substitutive nomenclature|ro) (определенным в данных рекомендациях для соединений углерода), именуются согласно принципам 
+координационной номенклатуры (см. ссылку 12).
+
+@p .framed
+en: Suffixes are now used in accordance with the seniority of classes (see P-41) for germanium, tin, and lead compounds, 
+which is a change from the traditional system where prefixes only were used for compounds of these elements.  
+ru: Для соединений германия, олова и свинца теперь используются суффиксы в соответствии с иерархией классов (см. P-41); 
+это нововведение отличается от традиционной системы, в которой для соединений этих элементов применялись только префиксы.
+
+#P-68.2.1
+en: Silicon, germanium, tin, and lead parent hydrides 
+ru: &(Parent hydride|*) кремния, германия, олова и свинца
+
+@Content
+
+#P-68.2.1.1
+en: Mononuclear and acyclic parent hydrides 
+ru: &(Mononuclear [hydride]|*) и ациклические &(parent hydride|*)
+
+en: Names of acyclic parent hydrides are formed in accordance with the general rules described in Section P-21. They are 
+preselected names.  
+ru: Названия ациклических &(parent hydride|ro*) образуются в соответствии с общими правилами, описанными в разделе P-21. 
+Это &(preselected name|*).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Sn@n(13)-[SnH2]11-SnH3@n(1)
+$>
+
+en: tridecastannane (preselected name) 
+ru: тридекастаннан (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Ge@n(5)-Se@n(4)-GeH2@n(3)-Se@n(2)-GeH3@n(1)
+$>
+
+en: trigermaselenane (preselected name) 
+ru: тригермаселенан (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Si@n(43)-[O-SiH2]20-O@n(2)-SiH3@n(1)
+$>
+
+en: docosasiloxane (preselected name) 
+ru: докозасилоксан (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Pb@n(3)-Te@n(2)-PbH3@n(1)
+$>
+
+en: diplumbatellurane (preselected name) 
+ru: диплюмбателлуран (&(preselected name))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(12)-SiH2@n(11)-CH2@n(10)-CH2@n(9)-SiH2@n(8)-CH2@n(7)-CH2@n(6)-SiH2@n(5)-CH2@n(4)-CH2@n(3)-SiH2@n(2)-CH3@n(1)
+$>
+
+en: 2,5,8,11-tetrasiladodecane (PIN)  <br>
+ethylenebis[2-(methylsilyl)ethylsilane] 
+ru: 2,5,8,11-тетрасиладодекан (PIN) <br>
+этиленбис[2-(метилсилил)этилсилан]
+
+@End
+
+#P-68.2.1.2
+en: Cyclic parent hydrides
+ru: Циклические &(parent hydride|*)
+
+en: Names and preferred IUPAC names of cyclic parent hydrides are formed in accordance with the rules described in 
+Sections P-22 through P-28. Those with no carbon atoms are preselected. 
+ru: Названия и предпочтительные названия по номенклатуре ИЮПАК для циклических &(parent hydride|ro*) образуются в соответствии 
+с правилами, изложенными в разделах P-22 – P-28. Соединения, не содержащие атомов углерода, получают &(preselected name|*).
+
+@Examples
+
+@cell
+<$
+$L(1.2)H2Sn|H2Sn--SnH2`|SnH2`--
+$>
+
+en: tetrastannetane (preselected name, Hantzsch-Widman name)  <br>
+cyclotetrastannane 
+ru: тетрастаннетан (&(preselected name), &(hantzsch-widman name)) <br>
+циклотетрастаннан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.2)S@n(3,90)_qGeH2@n(2,165)_qS@n(1)_q_q
+$>
+
+en: 1,3,2-dithiagermolane (PIN) 
+ru: 1,3,2-дитиагермолан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+GeH2@n(2,160,.6)_(A80,L1.2)O_p8GeH2_p8O_p8H2Ge_p8O_p8H2Ge_p8O@n(1)_p8
+$>
+
+en: 1,3,5,7,2,4,6,8-tetroxatetragermocane (preselected Hantzsch-Widman name)  <br>
+cyclotetragermoxane 
+ru: 1,3,5,7,2,4,6,8-тетроксатетрагермокан (&(preselected [name]) &(hantzsch-widman name)) <br>
+циклотетрагермоксан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:cb(c)$color(darkgray)&c$color()@;
+$L(%L:1.6)$slope(%a:20)HSi@n(7,-120,.6)@cb(\)$L(%s:1.4)S@n(10)@cb(/)SiH2:n3@n(3,70)`|S@n(2,-50)$L(%L)`\Si:n1<_(y-.5)H>@n(1,-30)$L(%s)#
+`/S@n(8,-140)|_(A120)S@n(6,150)/Si<_(y.5)H>@n(5,130,.65)<`|S@n(9,-100,.5)_#n1>$L(%L)\S@n(4,30)_#n3
+$>
+
+en: 2,4,6,8,9,10-hexathia-1,3,5,7-tetrasilaadamantane (preselected name) 
+ru: 2,4,6,8,9,10-гексатиа-1,3,5,7-тетрасилаадамантан (&(preselected name))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`|@n(2,-20)_q@n(1,-120)_qSi<_q_q>@n(5,90,.6)`/`-`\/-\
+$>
+
+en: 5-silaspiro[4.5]decane (PIN) 
+ru: 5-силаспиро[4.5]декан (PIN)
+
+@End
+
+#P-68.2.2
+en: Substituent groups derived from parent hydrides 
+ru: &(Substituent group|*), полученные из &(parent hydride|ro*)
+
+en: Names of substituent groups <%a%>, <%b%>, and <%c%> derived from mononuclear parent hydrides where X = Si, Ge, Sn, 
+and Pb, but not B, are formed by the method (1) described in P-29.2; all other substituent groups are named by using the 
+general method (2) described in P-29.2. 
+ru: Названия &(substituent group|ro*) <%a%>, <%b%> и <%c%>, производных от &(mononuclear [hydride]|ro*) &(parent hydride|ro*), 
+в которых X = Si, Ge, Sn и Pb (но не B), образуются по методу (1), описанному в P-29.2; названия всех остальных 
+&(substituent group|ro*) формируются с использованием общего метода (2), описанного в P-29.2.
+%a: <$ {}–{X}H3 $>
+%b: <$ {}={X}H2 $>
+%c: <$ {}≡{X}H $>
+
+@Examples
+
+@cell
+<$ {}–SiH3 $>
+  
+en: silyl (preselected prefix) 
+ru: силил (&(preselected prefix))
+
+@cell
+<$ {}–GeH3 $>
+  
+en: germyl (preselected prefix) 
+ru: гермил (&(preselected prefix))
+
+@cell
+<$ {}–SnH3 $>
+  
+en: stannyl (preselected prefix) 
+ru: станнил (&(preselected prefix))
+
+@cell
+<$ {}–PbH3 $>
+  
+en: plumbyl (preselected prefix)
+ru: плюмбил (&(preselected prefix))
+
+@cell
+<$ –SiH2–  $>
+
+en: silanediyl (preselected prefix)  <br>
+(not silylene)
+ru: силандиил (&(preselected prefix)) <br>
+(не силилен)
+
+@cell
+<$ –GeH2–  $>
+
+en: germanediyl (preselected prefix)  <br>
+(not germylene) 
+ru: германдиил (&(preselected prefix)) <br>
+(не гермилен)
+
+@cell
+<$ –SnH2–  $>
+
+en: stannanediyl (preselected prefix)  <br>
+(not stannylene) 
+ru: станнандиил (&(preselected prefix)) <br>
+(не станнилиен)
+
+@cell
+<$ –PbH2– $>
+
+en: plumbanediyl (preselected prefix)  <br>
+(not plumbylene) 
+ru: плюмбандиил (&(preselected prefix)) <br>
+(не плюмбилиден)
+
+@cell
+<$ =SiH2 $>
+  
+en: silylidene (preselected prefix)  <br>
+(not silylene)
+ru: силилиден (&(preselected prefix)) <br>
+(не силилен)
+
+@cell
+<$ =PbH2 $>
+  
+en: plumbylidene (preselected prefix)  <br>
+(not plumbylene) 
+ru: плюмбилиден (&(preselected prefix)) <br>
+(не плюмбилен)
+
+@cell
+<$ ≡GeH  $>
+
+en: germylidyne (preselected prefix)  
+ru: гермилидин (&(preselected prefix))
+
+@cell
+<$ ≡SnH  $>
+
+en: stannylidyne (preselected prefix)  <br>
+(not stannylene) 
+ru: станнилидин (&(preselected prefix)) <br>
+(не станнилен)
+
+@cell
+<$ ≡SiH $>
+
+en: silylidyne (preselected prefix) 
+ru: силилидин (&(preselected prefix))
+
+@cell
+<$ –SiH= $>
+
+en: silanylylidene (preselected prefix) 
+ru: силанилилиден (&(preselected prefix))
+
+@cell
+<$ –SnH"<" $>
+
+en: stannanetriyl (preselected prefix) 
+ru: станнантриил (&(preselected prefix))
+
+@cell
+<$ =Ge= $>
+
+en: germanediylidene (preselected prefix) 
+ru: германдиилиден (&(preselected prefix))
+
+@cell
+<$ ">"Pb"<" $>
+
+en: plumbanetetrayl (preselected prefix)  
+ru: плюмбантетраил (&(preselected prefix))
+
+@cell
+<$ H3Si-SiH2–{} $>
+
+en: disilanyl (preselected prefix)  <br>
+(not disilyl) 
+ru: дисиланил (&(preselected prefix)) <br>
+(не дисилил)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H3Ge@n(3)-GeH2@n(2)-GeH@n(1)={}
+$>
+
+en: trigerman-1-ylidene (preselected prefix) 
+ru: тригерман-1-илиден (&(preselected prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-H2Si@n(1)-SiH2@n(2)-{}
+$>
+
+en: disilane-1,2-diyl (preselected prefix) 
+ru: дисилан-1,2-диил (&(preselected prefix))
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH3@n(2)-SiH@n(1)"<"
+$>
+
+en: disilane-1,1-diyl (preselected prefix) 
+ru: дисилан-1,1-диил (&(preselected prefix))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$L(1.2)SiH@n(1)\SiH2@n(2,150)|SiH2`/Si<_(y.5)H2>`\H2Si`|H2Si/$L()`|@w()
+$>
+
+en: hexasilinanyl (preselected prefix)  <br>
+cyclohexasilanyl 
+ru: гексасилинанил (&(preselected prefix)) <br>
+циклогексасиланил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+Si|`//`\`//`\`||/\\<|>/@n(1,,.4)\\@n(2)/@w()
+$>
+
+en: 2-benzosilin-2-yl (preferred prefix) 
+ru: 2-бензосилин-2-ил (&(preferred prefix))
+
+@End
+
+//============
+
+#P-68.2.3
+en: Modification of the degree of hydrogenation 
+ru: Изменение степени гидрирования
+
+en: Double bonds are denoted by the ‘ene’ ending, as described in Section P-31.1, and saturation of double bonds of 
+mancude structures by ‘hydro’ prefixes as indicated in P-31.2. 
+ru: Двойные связи обозначаются окончанием «-ен» (как описано в разделе P-31.1), а насыщение двойных связей в 
+&(mancude)-структурах — приставкой «гидро-» (как указано в разделе P-31.2).
+
+@p .framed
+en: In these recommendations, the prefixes ‘hydro’ and ‘dehydro’ are detachable, but are not included in the category 
+of alphabetized detachable prefixes (see P-14.4; see also P-15.1.5.2, P-31.2, P-58.2). This is a change from 
+recommendations in earlier editions (ref. 1, 2). 
+ru: В данных рекомендациях приставки «гидро-» и «дегидро-» являются &(detachable [prefix]|tv*), однако не относятся 
+к категории &(detachable [prefix]|ro*) префиксов, учитываемых при алфавитном упорядочивании (см. P-14.4; см. также P-15.1.5.2, 
+P-31.2, P-58.2). Это отличие от рекомендаций, содержащихся в предыдущих изданиях (ссылки 1, 2).
+
+@Examples
+
+@cell
+<$ H2Ge=GeH2 $>
+  
+en: digermene (preselected name)
+ru: дигермен (&(preselected name)) 
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2_(y.5)Ge@n(1,90,.55)\@n(2,-30)|@n(3,30)`/@n(4,90)`\`||/
+$>
+
+en: 1,2,3,4-tetrahydrogermine (PIN) 
+ru: 1,2,3,4-тетрагидрогермин (PIN)
+
+@End
+
+#P-68.2.4
+en: Silicic acid as a functional parent compound 
+ru: Кремниевая кислота как функциональное &(parent compound)
+
+en: The nomenclature of silicic acid (formerly orthosilicic acid) has been discussed in Section P-67.1.2. Silicic acid is 
+modified only by prefixes to denote functional replacement by chalcogen atoms. Functional replacement by other atoms 
+or groups is not recommended. Names of salts, esters, and anhydrides are derived from the retained name silicic acid. 
+Amides of silicic acid are classified as amines. Hydrazides of silicic acid are considered as derivatives of hydrazine. 
+ru: Номенклатура кремниевой кислоты (ранее — ортокремниевой кислоты) была рассмотрена в разделе P-67.1.2. Названия 
+кремниевой кислоты модифицируют только с помощью префиксов, обозначающих &(functional replacement) атомами халькогенов. 
+&(Functional replacement) другими атомами или группами не рекомендуется. Названия солей, &(ester|ro*) и ангидридов образуют 
+от &(retained name|ro) «кремниевая кислота». Амиды кремниевой кислоты классифицируют как амины. Гидразиды кремниевой кислоты 
+рассматривают как производные гидразина.
+
+en: Names of substituent groups derived from silicic acid are formed on the basis of the parent hydride ‘silane’ (see  
+P-67.1.4.2).
+ru: Названия &(substituent group|ro*), производных от кремниевой кислоты, образуются на основе родоначального гидрида «силан» 
+(см. P-67.1.4.2).
+
+@Examples
+
+@cell
+<$ (HO)3Si– $>
+
+en: trihydroxysilyl (preselected name) 
+ru: тригидроксисилил (&(preselected name))
+
+@cell
+<$ (HS)(HO)2Si– $>
+
+en: dihydroxy(sulfanyl)silyl (preselected name) 
+ru: дигидрокси(сульфанил)силил (&(preselected name))
+
+@cell
+<$ Si(NH2)4 $>
+  
+en: silanetetramine (preselected name)  <br>
+(not silicic tetraamide) 
+ru: силантетрамин (&(preselected name)) <br>
+(не кремниевый тетраамид)
+
+@cell
+<$ Si(NH-NH2)4 $>
+  
+en: 1,1′,1′′,1′′′-silanetetrayltetrahydrazine (preselected name)  <br>
+(not silicic tetrahydrazide) 
+ru: 1,1′,1′′,1′′′-силанантетраилтетрагидразин (&(preselected name)) <br>
+(не кремниевый тетрагидразид)
+
+@End
+
+#P-68.2.5
+en: Substitutive nomenclature: suffix mode 
+ru: &(Substitutive nomenclature): суффиксный режим
+
+en: Traditionally, silicon compounds were denoted by suffixes or prefixes; germanium, tin, and lead compounds were 
+denoted only by prefixes. Full systematization is recommended to use suffixes, when available, to generate preferred 
+names, in accordance with the seniority order of suffixes, and the seniority of suffixes over prefixes. 
+ru: Традиционно соединения кремния обозначались с помощью суффиксов или префиксов, тогда как соединения германия, олова 
+и свинца — только с помощью префиксов. В рамках полной систематизации для образования предпочтительных названий 
+рекомендуется использовать суффиксы (при их наличии), руководствуясь порядком старшинства суффиксов, а также правилом 
+о приоритете суффиксов над префиксами.
+
+@Examples
+
+@cell
+<$ CH3-Si(NH2)3 $>
+  
+en: methylsilanetriamine (PIN) 
+ru: метилсилантриамин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H3Si-NH@Nx()-SiH@n(1)(CH3)-NH@Nx(′)-SiH3
+$>
+
+en: 1-methyl-<%n%>-disilylsilanediamine (PIN)  <br>
+(not 3-methyltrisilazane) 
+ru: 1-метил-<%n%>-дисилилсиландиамин (PIN) <br>
+(не 3-метилтрисилазан)
+%n:_N_,_N_′
+
+@cell
+<$ (CH3)2Si(OH)2 $>
+  
+en: dimethylsilanediol (PIN) 
+ru: диметилсиландиол (PIN) 
+
+@cell
+<$ CH3-NH-Si(OH)3 $>
+  
+en: (methylamino)silanetriol (PIN) 
+ru: (метиламино)силантриол (PIN) 
+
+@cell
+<$ (CH3)3Si-COOH  $>
+
+en: trimethylsilanecarboxylic acid (PIN) 
+ru: триметилсиланкарбоновая кислота (PIN)
+
+@cell
+<$ CH3-GeH2-SH  $>
+
+en: methylgermanethiol (PIN)  <br>
+methyl(sulfanyl)germane 
+ru: метилгермантиол (PIN) <br>
+метил(сульфанил)герман
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(6)-CH2@n(5)-CH@n(4)<|CH(SiH3)2>-CH2@n(3)-C@n(2,90)<`||mO>-CH3@n(1)
+$>
+
+en: 4-(disilylmethyl)hexan-2-one (PIN)  <br>
+4-[bis(silanyl)methyl]hexan-2-one 
+ru: 4-(дисилилметил)гексан-2-он (PIN) <br>
+4-[бис(силанил)метил]гексан-2-он
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+GeH2@n(1)|@n(2,30,.4)`/<|CN>@n(3,150,.4)`\`/`\`/`\`|/\/\/\
+$>
+
+en: 1-germacyclotetradecane-3-carbonitrile (PIN)  <br>
+3-cyano-1-germacyclotetradecane
+ru: 1-гермациклотетрадекан-3-карбонитрил (PIN) <br>
+3-циано-1-гермациклотетрадекан
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(H3Si)2N-@n(4,-120)/-\@n(1,-60)<-CN>`/`-`\
+$>
+
+en: 4-(disilylamino)cyclohexane-1-carbonitrile (PIN)  <br>
+4-[bis(silanyl)amino]cyclohexane-1-carbonitrile 
+
+@cell
+<$
+CH3-O-CO-CH2-CH2-CO-O-Sn-O-CO-CH2-CH2-CO-O-CH3;
+CH3`-CH2`-CH2`-CH2|#Sn|CH2-CH2-CH2-CH3
+$>
+
+en: dimethyl dibutylstannanediyl dibutanedioate (PIN; see P-65.6.3.3.4)  <br>
+dibutylbis[(4-methoxy-4-oxobutanoyl)oxy]stannane 
+ru: диметил дибутилстаннандиил дибутандиоат (PIN; см. P-65.6.3.3.4) <br>
+дибутилбис[(4-метокси-4-оксобутаноил)окси]станнан
+
+@cell
+<$ [(CH3)3Si]2CH-SnH(OH)-CH[Si(CH3)3]2 $>
+  
+en: bis[bis(trimethylsilyl)methyl]stannanol (PIN)  <br>
+[(hydroxystannanediyl)dimethanetriyl]tetrakis(trimethylsilane) 
+ru: бис[бис(триметилсилил)метил]станнанол (PIN) <br>
+[(гидроксистаннандиил)диметантриил]тетракис(триметилсилан)
+
+@End
+
+#P-68.2.6
+en: Substitutive nomenclature: prefix mode 
+ru: &(Substitutive nomenclature): префиксный режим
+
+en: Prefixes are used as recommended for substitutive nomenclature in two ways. 
+ru: Префиксы используются двумя способами, как это рекомендовано для &(substitutive nomenclature|ro).
+
+@Content
+
+en: When required, parent structures and prefixes are chosen in accordance with the seniority of classes (see P-41). 
+ru: При необходимости выбор &(parent structure|ro*) и префиксов осуществляется в соответствии со старшинством классов (см. P-41).
+
+#P-68.2.6.1
+en: Subsititued parent hydrides
+ru: Замещенные &(parent hydride|*)
+
+@Examples
+
+@cell
+<$ CH3-[CH2]11-SiH2-[CH2]11-CH3 $>
+  
+en: di(dodecyl)silane (PIN) 
+ru: ди(додецил)силан (PIN)
+
+@cell
+<$
+@:n(n,a,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ed(n,na,bnd:_p6,c:Si,l:CH3,r:CH3)&bnd&c@n(&n,&na)<_(a-90)&l><_(a-30)&r>@;
+Si@ed(1,-150,_(y1.3))@ed(6,-90,l:C6H5,r:C6`H5)@ed(5,-30,l:H3C,r:H3C)@ed(4,30,l:H3C,r:H3C)@ed(3,90,l:H3C)@ed(2,150,c:)
+$>
+
+en: 1,1,2,2,3,3,4,4,5,5-decamethyl-6,6-diphenylhexasilinane (PIN; Hantzsch-Widman name)  <br>
+1,1,2,2,3,3,4,4,5,5-decamethyl-6,6-diphenylcyclohexasilane
+ru: 1,1,2,2,3,3,4,4,5,5-декаметил-6,6-дифенилгексасилинан (PIN; &(hantzsch-widman name)) <br>
+1,1,2,2,3,3,4,4,5,5-декаметил-6,6-дифенилциклогексасилан
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(45)CH3-CH2-CH2-CH2$L(1.2)\Ge@n(1)/$L()CH2-CH2-CH2-CH3; -_qq_q#Ge_q_qq
+$>
+
+en: 1,1-dibutyl-1_H_-germole (PIN)  <br>
+(note the indicated hydrogen atom) 
+ru: 1,1-дибутил-1_H_-гермол (PIN) <br>
+(обратите внимание на &(indicated hydrogen atom))
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-<_(a54)C<=CH2>|CH3>@n(3,-20)_q_qGe@n(1,-90,.55)<_(A-45)CH3><_(A-135)H3C>_q_q@n(4,-160)_(a54)C<`=H2C>|H3C
+$>
+
+en: 1,1-dimethyl-3,4-di(prop-1-en-2-yl)germolane (PIN)  <br>
+3,4-diisopropenyl-1,1-dimethylgermolane 
+ru: 1,1-диметил-3,4-ди(проп-1-ен-2-ил)гермолан (PIN) <br>
+3,4-диизопропенил-1,1-диметилгермолан
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|@n(5,150)_qS@n(1,90,.55)_q@n(2,-60)<_qq@n(3,-80)_q@n(4,-150)>-Ge<`|CH3><|CH3>-@n(2,120)_(a54)S@n(1,90,.55)_q@n(5,30)_q@n(4,-30)_q@n(3,-110)_qq
+$>
+
+en: bis(4,5-dihydrothiophen-2-yl)di(methyl)germane (PIN)  <br>
+(Ge is senior to S) 
+ru: бис(4,5-дигидротиофен-2-ил)ди(метил)герман (PIN)  <br>
+(Ge старше S)
+
+@End
+
+#P-68.2.6.2
+en: Seniority of the Group 14 elements
+ru: Старшинство элементов 14-й Группы 
+
+en: In the presence of groups of higher seniority, parent structures and prefixes are chosen according to the order of 
+seniority (see P-41 and P-44) and the rules for selection of a preferred name (see P-45). 
+ru: При наличии групп с более высоким старшинством выбор &(parent structure|ro*) и префиксов осуществляется в соответствии 
+с порядком старшинства (см. P-41 и P-44) и правилами выбора предпочтительного названия (см. P-45).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC@n(1')-CH2@n(2',-80)-[CH2]2-CH2@n(5',-80)|Ge@n(2,90)<_(h-)(H3C)2>_(x1.5)Ge@n(1,90)<(CH3)2>`|CH2@n(5)-[CH2]2-CH2@n(2)-CHO@n(1)
+$>
+
+en: 5,5′-(1,1,2,2-tetramethyldigermane-1,2-diyl)di(pentanal) (PIN) 
+ru: 5,5′-(1,1,2,2-тетраметилдигерман-1,2-диил)ди(пентаналь) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3-CH2-O)3Ge-CH2@n(3)-CH2@n(2)-COO@n(1)-CH3
+$>
+
+en: methyl 3-(triethoxygermyl)propanoate (PIN) 
+ru: метил 3-(триэтоксигермил)пропаноат (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CO-O|Sn@n(1)<_(h-)(H3C)2>-O@n(2)-Sn@n(3)<(CH3)2>`|O-CO-CH2-CH3
+$>
+
+en: 1,1,3,3-tetramethyldistannoxane-1,3-diyl dipropanoate (PIN) 
+ru: 1,1,3,3-тетраметилдистанноксан-1,3-диил дипропаноат (PIN)
+
+@cell
+<$ H3Pb-CH2-PbH2-CH2-PbH3 $>
+  
+en: [plumbanediylbis(methylene)]bis(plumbane) (PIN)  <br>
+bis(plumbylmethyl)plumbane 
+ru: [плюмбанедиилбис(метилен)]бис(плюмбан) (PIN) <br>
+бис(плюмбилметил)плюмбан
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<_(a-60,L1.2)Ge(CH3)3>@n(2)`//`\`||/\\@n(1,-90)_(a-60,L1.1)Si<_(a-90)H3C><_(a-30)CH3>_p6O-CH3
+$>
+
+en: methoxydi(methyl)[2-(trimethylgermyl)phenyl]silane (PIN)  
+(Si is senior to Ge) 
+ru: метоксиди(метил)[2-(триметилгермил)фенил]силан (PIN)
+(Si старше Ge)
+
+@cell
+<$
+@:n(n,a:90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(60)H3C\HSi<`/H3C>-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-SiH<\CH3>/CH3
+$>
+
+en: (1,4-phenylene)bis(dimethylsilane) (PIN) 
+ru: (1,4-фенилен)бис(диметилсилан) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-_qq<_(a54,L%d:1.2)Sn(CH3)3>@n(2,-80)_qS@n(1,-90,.55)_q@n(5,-100)<_qq>_(a54,L%d)Sn(H3C)3
+$>
+
+en: (thiophene-2,5-diyl)bis(trimethylstannane) (PIN)  <br>
+(Sn preferred to S, see P-41) 
+ru: (тиофен-2,5-диил)бис(триметилстаннан) (PIN) <br>
+(предпочтение отдается Sn, а не S; см. P-41)
+
+@cell
+<$ [(CH3)3Si]2CH-SnH(OH)-CH[Si(CH3)3]2 $>
+  
+en: bis[bis(trimethylsilyl)methyl]stannanol (PIN)  <br>
+[(hydroxystannanediyl)dimethanetriyl]tetrakis(trimethylsilane)  <br>
+[Decided by P-41 &[table 4.1] class 17, not class 26 or class 28] 
+ru: бис[бис(триметилсилил)метил]станнанол (PIN) <br>
+[(гидроксистаннандиил)диметанетриил]тетракис(триметилсилан) <br>
+[Решено согласно &[таблице 4.1] P-41, класс 17, а не класс 26 или класс 28]
+
+@End
+
+// ============================
+
+#P-68.3
+en: Nomenclature for compounds of the Group 15 elements 
+ru: Номенклатура соединений элементов 15-й Группы
+
+
+@Content
+
+en: For the purposes of nomenclature, compounds of the Group 15 elements are divided into three categories: 
+ru: В целях номенклатуры соединения элементов 15-й группы подразделяются на три категории:
+
+@List 1
+
+@item
+en: Nitrogen compounds are named as amines and imines (see P-62), amides, hydrazides, imides, amidines, 
+amidrazones, hydrazidines, nitriles and cyanides (see P-66), or substitutively on the basis of parent hydrides, such as 
+hydrazine, triazane, etc., or as derivatives of functional parent compounds, such as hydroxylamine (see P-68.3.1.1). 
+Because of similarities, azonic <%a%> and azinic acids <%b%>, are discussed in Section P-67 along with 
+the P, As, and Sb oxoacids. 
+ru: Азотсодержащие соединения называют как амины и имины (см. P-62), амиды, гидразиды, имиды, амидины, амидразоны, 
+гидразидины, нитрилы и цианиды (см. P-66), либо по заместительной номенклатуре на основе &(parent hydride|ro*) 
+(таких как гидразин, триазан и т. д.), либо как производные функциональных &(parent compound|ro*) (например, гидроксиламина; 
+см. P-68.3.1.1). Ввиду их сходства &(azonic [acid]|*) <%a%> и &(azinic [acid]|*) <%b%> кислоты рассматриваются в разделе P-67 
+наряду с оксокислотами фосфора, мышьяка и сурьмы.
+%a: <$ HN(O)(OH)2 $>
+%b: <$ H2N(O)(OH) $>
+
+@item
+en: Phosphorus, arsenic, and antimony compounds are discussed together in P-68.3.2 because of the importance of 
+functional class nomenclature based on their acids used as functional parents. Other compounds are named 
+substitutively on the basis of parent hydrides. 
+ru: Соединения фосфора, мышьяка и сурьмы рассматриваются совместно в разделе P-68.3.2 ввиду важности 
+&(functional class nomenclature|ro), основанной на использовании их кислот в качестве &(functional parent|ro*). 
+Названия других соединений образуются по заместительному принципу на основе &(parent hydride|ro*).
+
+@item
+en: Bismuth compounds that contain carbon and that can be named by the principles of substitutive nomenclature as 
+described in these recommendations are named by substitution of parent hydrides, such as bismuthane, <%a%> (see  
+P-68.3.3). Bismuth compounds that do not contain carbon or that cannot be named by the principles of substitutive 
+nomenclature as defined in these recommendations for carbon compounds are named by the principles of 
+coordination nomenclature (see ref. 12). 
+ru: Соединения висмута, содержащие углерод и поддающиеся наименованию согласно принципам &(substitutive nomenclature|ro), 
+описанным в настоящих рекомендациях, именуются путём &(substitution|ro) &(parent hydride|ro*), таких как висмутан (см. P-68.3.3). 
+Соединения висмута, не содержащие углерода или не поддающиеся наименованию согласно принципам &(substitutive nomenclature|ro), 
+определенным в настоящих рекомендациях для углеродсодержащих соединений, именуются по правилам координационной номенклатуры 
+(см. ссылку 12).
+%a: <$ BiH3 $>
+
+@End
+
+#P-68.3.1
+en: Nitrogen compounds
+ru: Азотсодержащие соединения
+
+@Content
+
+#P-68.3.1.0
+en: Introduction
+ru: Введение 
+
+en: Many acyclic nitrogen compounds have retained names or functional class names. These names are retained for use in 
+general nomenclature, but for most acyclic nitrogen compounds preferred IUPAC names are formed systematically. 
+Hydroxylamine is a preselected name and urea, guanidine, and formazan are retained as preferred IUPAC names. Other 
+retained names have been inserted into systematic substitutive nomenclature; oxime is retained only as a functional 
+class name. 
+ru: Многие ациклические азотсодержащие соединения имеют &(retained name|*) или &(functional class name|*). 
+Эти названия сохраняются для использования в общей номенклатуре, однако для большинства ациклических азотсодержащих 
+соединений предпочтительные названия по номенклатуре ИЮПАК образуются систематически. Название «гидроксиламин» является 
+&(preselected name|tv), а названия «мочевина», «гуанидин» и «формазан» сохранены в качестве предпочтительных названий 
+по номенклатуре ИЮПАК. Другие &(retained name|*) были включены в систематическую &(substitutive nomenclature|vi); 
+название «оксим» сохранено только как &(functional class name).
+
+#P-68.3.1.1
+en: Hydroxylamines, oximes, and nitrolic acids and nitrosolic acids
+ru: Гидроксиламины, оксимы, а также нитроловые и нитрозоловые кислоты 
+
+en: Compounds containing a nitrogen atom which belong to classes identified as hydroxylamines, oximes, and nitrolic and 
+nitrosolic acids are illustrated here. Nitro and nitroso compounds, isocyanates, and isonitriles were discussed in Section 
+P-61. 
+ru: Здесь представлены соединения, содержащие атом азота и относящиеся к таким классам, как гидроксиламины, оксимы, а также 
+нитроловые и нитрозоловые кислоты. Нитро- и нитрозосоединения, изоцианаты и изонитрилы были рассмотрены в разделе P-61.
+
+en: The class name ‘hydroxylamine’, a preselected name, is also used as a functional parent compound. The class name 
+‘oxime’ is used as a functional class modifier. Nitrolic and nitrosolic acids are named as oximes of pseudoketones. 
+ru: Название класса «гидроксиламин» (&(preselected name)) используется также в качестве названия функционального 
+&(parent compound|ro). Название класса «оксим» применяется как модификатор функционального класса. Нитроловые и нитрозоловые 
+кислоты именуются как оксимы псевдокетонов.
+
+@Content
+
+#P-68.3.1.1.1
+en: Hydroxylamines
+ru: Гидроксиламины  
+
+en: The retained name ‘hydroxylamine’ is a preselected name and designates the structure <%a%>. It is a functional parent 
+compound allowing full substitution even, as an exception, on the oxygen atom. Substitution on the nitrogen or the 
+oxygen atom of hydroxylamine may create a function senior to hydroxylamine, justifying a systematic name based on a 
+higher class denoting the new function. 
+ru: &(Retained name) «гидроксиламин» является заранее &(preselected name|tv) и обозначает структуру <%a%>. Оно представляет 
+собой название функционального &(parent compound|ro), допускающее полное &(substitution), в том числе — в качестве исключения 
+— и по атому кислорода. &(Substitution) по атому азота или кислорода в молекуле гидроксиламина может привести к образованию 
+функции, старшей по отношению к гидроксиламину; в этом случае оправдано использование систематического названия, основанного 
+на классе соединений, соответствующем этой новой функции.
+%a: <$ H2N-OH $>
+
+#P-68.3.1.1.1.1
+en: Substituted hydroxylamines of the type <%a%> or <%b%> are named as _N_-derivatives of the senior amine
+ru: Замещенные гидроксиламины типа <%a%> или <%b%> называют как _N_-производные соответствующего амина
+%a: <$ {R}-NH-OH $>
+%b: <$ {R}{R′}N-OH $>
+
+@Examples
+
+@cell
+<$ CH3-NH-OH $>
+
+en: _N_-hydroxymethanamine (PIN)  <br>
+_N_-methylhydroxylamine 
+ru: _N_-гидроксиметанамин (PIN) <br>
+_N_-метилгидроксиламин
+
+@cell
+<$ (CH3)2N-OH  $>
+
+en: _N_-hydroxy-_N_-methylmethanamine (PIN)  <br>
+_N_,_N_-dimethylhydroxylamine 
+ru: _N_-гидрокси-_N_-метилметанамин (PIN) <br>
+_N_,_N_-диметилгидроксиламин
+
+@cell
+<$ H3Si-NH-OH  $>
+
+en: _N_-hydroxysilanamine (preselected name)  <br>
+_N_-silylhydroxylamine 
+ru: _N_-гидроксисиланамин (&(preselected name)) <br>
+_N_-силилгидроксиламин
+
+@cell
+<$ H2B-NH-OH  $>
+
+en: _N_-hydroxyboranamine (preselected name)  <br>
+_N_-boranylhydroxylamine 
+ru: _N_-гидроксиборанамин (&(preselected name)) <br>
+_N_-боранилгидроксиламин
+
+@End
+
+en: _N_-Substitution of hydroxylamine by acyl groups generates hydroxamic acids that are now named as _N_-hydroxyamides 
+(see P-65.1.3.4).  
+ru: _N_-&(Substitution) в гидроксиламине ацильными группами приводит к образованию &(hydroxamic acid|ro*), которые 
+в настоящее время именуются _N_-гидроксиамидами (см. P-65.1.3.4).
+
+@Examples
+
+@cell
+<$ CH3-CO-NH-OH  $>
+
+en: _N_-hydroxyacetamide (PIN)  <br>
+(not acetohydroxamic acid) 
+ru: _N_-гидроксиацетамид (PIN) <br>
+(не ацето&(hydroxamic acid))
+
+@cell
+<$ CH3-SO2-NH-OH  $>
+
+en: _N_-hydroxymethanesulfonamide (PIN)  
+ru: _N_-гидроксиметансульфонамид (PIN)
+
+@cell
+<$ CH3-CH2-CO-NH-OH  $>
+
+en: _N_-hydroxypropanamide (PIN)  <br>
+propanohydroxamic acid  <br>
+propionohydroxamic acid
+ru: _N_-гидроксипропанамид (PIN) <br>
+пропано&(hydroxamic acid) <br>
+пропионо&(hydroxamic acid)
+
+@End
+
+#P-68.3.1.1.1.2
+en: Substitution on the oxygen atom of hydroxylamine 
+ru: &(Substitution) у атома кислорода гидроксиламина
+
+en: Substitution of hydroxylamine on the oxygen atom by hydrocarbyl or acyl groups is expressed as _O_-substitution. Names 
+such as ‘alkyloxyamines’ are not recommended and the class ‘peroxyamide’ has never been recognized. 
+ru: &(Substitution) у атома кислорода гидроксиламина на углеводородные или ацильные группы обозначается как _O_-замещение. 
+Использование таких названий, как «алкилоксиамины», не рекомендуется, а класс соединений «пероксиамиды» никогда 
+не был официально признан.
+
+@Examples
+
+@cell
+<$ H2N-O-CH3 $>
+  
+en: _O_-methylhydroxylamine (PIN)  <br>
+(not methoxyamine) 
+ru: _O_-метилгидроксиламин (PIN) <br>
+(не метоксиамин)
+
+@cell
+<$ H2N-O-C6H5 $>
+  
+en: _O_-phenylhydroxylamine (PIN)  <br>
+(not phenoxyamine) 
+ru: _O_-фенилгидроксиламин (PIN) <br>
+(не феноксиамин)
+
+@cell
+<$ H2N-O-CH2-CH2-O-NH2 $>
+  
+en: _O_,_O_′-(ethane-1,2-diyl)bis(hydroxylamine) (PIN) 
+ru: _O_,_O_′-(этан-1,2-диил)бис(гидроксиламин) (PIN)
+
+@cell
+<$ H2N-O-CO-C6H5 $>
+  
+en: aminooxy(phenyl)methanone (PIN) <br>
+_O_-benzoylhydroxylamine  <br>
+(not azanyl benzoate) 
+ru: аминоокси(фенил)метанон (PIN) <br>
+_O_-бензоилгидроксиламин <br>
+(не азанилбензоат)
+
+@cell
+<$ H2N-O-SO-CH3 $>
+  
+en: _O_-(methanesulfinyl)hydroxylamine (PIN)  <br>
+(not azanyl methanesulfinate) 
+ru: _O_-(метансульфинил)гидроксиламин (PIN) <br>
+(не азанил метансульфинат)
+
+@End
+
+en: _O_-Substitution of hydroxylamine by –NHR or –NRR′ leads to _N_-(aminooxy)amines not derivatives of diazoxane.
+ru: _O_-&(Substitution) гидроксиламина на –NHR или –NRR′ приводит к образованию _N_-(аминоокси)аминов, а не производных диазоксана.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-O-NH@n(\textit{N})-CH3
+$>
+
+en: _N_-(aminooxy)methanamine (PIN)  <br>
+(not 1-methyldiazoxane) 
+ru: _N_-(аминоокси)метанамин (PIN) <br>
+(а не 1-метилдиазоксан)
+
+@End
+
+#P-68.3.1.1.1.3
+en: _N_,_O_-Disubstitution of hydroxylamine 
+ru: _N_,_O_-Ди&(substitution) гидроксиламина
+
+en: Substitution of hydroxylamine on both nitrogen and oxygen atoms leads to _O_-substituted amines. 
+ru: &(Substitution) в молекуле гидроксиламина как по атому азота, так и по атому кислорода приводит к образованию 
+_O_-замещенных аминов.
+
+@Examples
+
+@cell
+<$ CH3-NH-O-CH3 $>
+  
+en: _N_-methoxymethanamine (PIN)  <br>
+_N_,_O_-dimethylhydroxylamine 
+ru: _N_-метоксиметанамин (PIN) <br>
+_N_,_O_-диметилгидроксиламин
+
+@cell
+<$ C6H5-NH-O-CH2-CH3 $>
+  
+en: _N_-ethoxyaniline (PIN)  <br>
+_O_-ethyl-_N_-phenylhydroxylamine 
+ru: _N_-этоксианилин (PIN) <br>
+_O_-этил-_N_-фенилгидроксиламин
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CH2-N@Nx()<|CH2-CH3>-O-BH-CH2@n(1)-CH2@n(2)-BH-O-N@Nx(′)<|CH2-CH3>-CH2-CH3
+$>
+
+en: _N_,_N_′-[ethane-1,2-diylbis(boranediyloxy)]bis(_N_-ethylethanamine) (PIN)  <br>
+_O_,_O_′-[ethane-1,2-diylbis(boranediyl)]bis(_N_,_N_-diethylhydroxylamine) 
+ru: _N_,_N_′-[этан-1,2-диилбис(борандиилокси)]бис(_N_-этилэтанамин) (PIN) <br>
+_O_,_O_′-[этан-1,2-диилбис(борандиил)]бис(_N_,_N_-диэтилгидроксиламин)
+
+@End
+
+en: **Note**: Skeletal (‘a’) replacement nomenclature cannot be used for this compound because the amine characteristic 
+group would not be recognized and an ‘a’ chain cannot terminate on an oxygen atom. 
+ru: **Примечание**: Для данного соединения нельзя использовать номенклатуру &(skeletal replacement a|ro), поскольку 
+аминогруппа как &(characteristic group) не будет распознана, а цепь, обозначаемая дескриптором «a», не может 
+заканчиваться на атоме кислорода.
+
+#P-68.3.1.1.1.4
+en: Substitution of hydroxylamine by characteristic groups normally expressed as suffixes
+ru: &(Substitution) гидроксиламина &(characteristic group|tv*), обычно обозначаемыми суффиксами
+
+en: Hydroxylamine is a functional parent to which, exceptionally, suffixes expressing characteristic groups, such as acids, 
+amides, etc., can be attached to the oxygen atom. In names, the locant ‘_O_’ is placed in front of the suffix. 
+ru: Гидроксиламин является &(functional parent|tv), к атому кислорода которого — в виде исключения — могут присоединяться 
+суффиксы, обозначающие &(characteristic group|*) (например, кислотные, амидные и т. д.). В названиях перед суффиксом 
+ставится локант «_O_».
+
+en: Attachment of characteristic groups to the nitrogen atom generally leads to compounds of higher function. 
+ru: Присоединение &(characteristic group|ro*) к атому азота, как правило, приводит к образованию соединений 
+с более высокой функцией.
+
+@Examples
+
+@cell
+<$ H2N-O-SO2-OH  $>
+
+en: hydroxylamine-_O_-sulfonic acid (preselected name)  <br>
+(not azanyl hydrogen sulfate) 
+ru: гидроксиламин-_O_-сульфоновая кислота (&(preselected name)) <br>
+(не азанил &(hydrogen [cation]) сульфат)
+
+@cell
+<$ H2N-O-COOH  $>
+
+en: hydroxylamine-_O_-carboxylic acid (PIN)  <br>
+(not azanyl hydrogen carbonate) 
+ru: гидроксиламин-_O_-карбоновая кислота (PIN) <br>
+(не азанил &(hydrogen [cation]) карбонат)
+
+@cell
+<$ H2N-O-CO-NH2 $>
+  
+en: hydroxylamine-_O_-carboxamide (PIN)  <br>
+(not azanyl carbamate) 
+ru: гидроксиламин-_O_-карбоксамид (PIN) <br>
+(не азанил карбамат)
+
+@End
+
+//----------------------
+
+#P-68.3.1.1.2
+en: Oximes
+ru: Оксимы 
+
+#P-68.3.1.1.3
+en: Nitrolic and nitrosolic acids
+ru: Нитроловые и нитрозоловые кислоты 
+
+//--------------
+
+#P-68.3.1.2
+en: Hydrazine and related compounds: hydrazones, azines, semicarbazides, semicarbazones, and carbonohydrazides 
+ru: Гидразин и родственные соединения: гидразоны, азины, семикарбазиды, семикарбазоны и карбоногидразиды
+
+#P-68.3.1.3
+en: Diazene and related compounds  
+ru: Диазен и родственные соединения
+
+#P-68.3.1.4
+en: Polyazanes 
+ru: Полиазаны
+
+// ============================
+
+#P-68.4
+en: Nomenclature for compounds of the Group 16 elements 
+ru: Номенклатура соединений элементов 16-й Группы
+
+#P-68.5
+en: Nomenclature for compounds of the Group 17 elements 
+ru: Номенклатура соединений элементов 17-й Группы
+
+// =================================================
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений
