@@ -809,6 +809,8 @@ ru: Название класса «гидроксиламин» (&(preselected 
 en: Hydroxylamines
 ru: Гидроксиламины  
 
+@Content
+
 en: The retained name ‘hydroxylamine’ is a preselected name and designates the structure <%a%>. It is a functional parent 
 compound allowing full substitution even, as an exception, on the oxygen atom. Substitution on the nitrogen or the 
 oxygen atom of hydroxylamine may create a function senior to hydroxylamine, justifying a systematic name based on a 
@@ -1055,21 +1057,648 @@ ru: гидроксиламин-_O_-карбоксамид (PIN) <br>
 
 @End
 
-//----------------------
+#P-68.3.1.1.1.5
+en: Hydroxylamine expressed as prefixes 
+ru: Гидроксиламин, выраженный в виде префиксов
+
+en: In the presence of a characteristic group having priority for citation as suffix or in the presence of a senior parent 
+hydride, appropriate compound or complex prefixes are used: 
+ru: При наличии &(characteristic group|ro), имеющей приоритет при &(citation|pr) в качестве суффикса, или при наличии 
+старшего &(parent hydride|ro) используются соответствующие составные или сложные префиксы:
+
+@Examples --
+
+@cell
+<$ –NH-OH  $>
+
+en: hydroxyamino (preselected prefix) 
+ru: гидроксиамино- (&(preselected prefix))
+
+@cell
+<$ ">"N-OH $>
+
+en: hydroxyazanediyl (preselected prefix)
+ru: гидроксиазандиил (&(preselected prefix))
+
+@cell
+<$ –O-NH2 $>
+  
+en: aminooxy (preselected prefix)  <br>
+(note that there is no elision of the final letter ‘o’ of amino)
+ru: аминоокси (&(preselected prefix)) <br>
+(обратите внимание, что конечная буква «о» в слове амино не опускается)
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-N`H-@n(4,-120)/=\@n(1,-60)<-OH>`//`-`\\
+$>
+
+en: 4-(hydroxyamino)phenol (PIN)
+ru: 4-(гидроксиамино)фенол (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-O-CH2@n(2)-CH2@n(1)-NH2
+$>
+
+en: 2-(aminooxy)ethan-1-amine (PIN)  
+ru: 2-(аминоокси)этан-1-амин (PIN)
+
+@cell
+<$ H2N-NH-CH2-O-NH2 $>
+ 
+en: [(aminooxy)methyl]hydrazine (PIN) 
+ru: [(аминоокси)метил]гидразин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||<`\HOOC>@n(1')/\\@n(3')/N<`|OH>\@n(3)|\\/`||<`\`//>@n(1)/COOH
+$>
+
+en: 3,3′-(hydroxyazanediyl)dibenzoic acid (PIN)
+ru: 3,3′-(гидроксиазандиил)дибензойная кислота (PIN)
+
+@End
+
+#P-68.3.1.1.1.6
+en: Chalcogen analogues of hydroxylamine
+ru: &(Chalcogen analogue|*) гидроксиламина
+
+en: Chalcogen analogues of hydroxylamine are denoted by the appropriate functional replacement prefix ‘thio’, ‘seleno’, or 
+‘telluro’. Parentheses are sometimes required to avoid the possibility of ambiguity. Substitution follows the principles 
+given above for naming derivatives of hydroxylamine. 
+ru: &(Chalcogen analogue|*) гидроксиламина обозначают с помощью соответствующих &(functional replacement prefix|ro*):
+«тио-», «селено-» или «теллуро-». Иногда для исключения неоднозначности требуются скобки. &(Substitution) осуществляется 
+в соответствии с принципами, изложенными выше для наименования производных гидроксиламина.
+
+@Examples
+
+@cell
+<$ H2N-SH  $>
+
+en: thiohydroxylamine (preselected name) 
+ru: тиогидроксиламин (&(preselected name))
+
+@cell
+<$ CH3-NH-SH  $>
+
+en: _N_-sulfanylmethanamine (PIN) <br>
+_N_-methyl(thiohydroxylamine) 
+ru: _N_-сульфанилметанамин (PIN) <br>
+_N_-метил(тиогидроксиламин)
+
+@cell
+<$ CH3-CO-NH-SH  $>
+
+en: _N_-sulfanylacetamide (PIN)  
+ru: _N_-сульфанилацетамид (PIN)
+
+@cell
+<$ H2N-S-CH3 $>
+  
+en: _S_-methyl(thiohydroxylamine) (PIN) 
+ru: _S_-метил(тиогидроксиламин) (PIN)
+
+@End
+
 
 #P-68.3.1.1.2
 en: Oximes
 ru: Оксимы 
 
+en: Compounds having the general structure <%a%> or <%b%> have the class name ‘oxime’ and have been 
+further classified as ‘aldoximes’ and ‘ketoximes’, respectively. For general nomenclature they are named according to 
+the principles of functional class nomenclature by placing the class name ‘oxime’ as a separate word after the name of 
+the aldehyde or ketone. Preferred IUPAC names are formed substitutively as _N_-hydroxy derivatives of imines. 
+Compounds containing the group <%c%> are named substitutively as alkoxy substituted imines. In the presence of a 
+characteristic group having priority for citation as a suffix, in substitutive nomenclature oximes are designated by the 
+prefix ‘hydroxyimino’. 
+ru: Соединения, имеющие общую структуру <%a%> или <%b%>, относятся к классу «оксимы» и подразделяются соответственно 
+на «альдоксимы» и «кетоксимы». В рамках общей номенклатуры их называют согласно принципам &(functional class nomenclature|ro), 
+записывая название класса «оксим» отдельным словом после названия альдегида или кетона. Предпочтительные названия 
+по номенклатуре ИЮПАК образуются по заместительному принципу как _N_-гидроксипроизводные иминов. Соединения, содержащие 
+группу <%c%>, называют по заместительному принципу как алкоксизамещенные имины. При наличии &(characteristic group|ro), 
+имеющей приоритет при &(citation|pr) суффиксом, в &(substitutive nomenclature|pr) оксимы обозначают префиксом «гидроксиимино».
+%a: <$ {R}-CH=N-OH $>
+%b: <$ {R}{R′}C=N-OH $>
+%c: <$ {}=N-O{R} $>
+
+@p .framed
+en: In these recommendations preferred IUPAC names for oximes are generated substitutively as _N_-hydroxy derivatives 
+of imines rather than by functional class nomenclature as in previous recommendations. 
+ru: В данных рекомендациях предпочтительные названия ИЮПАК для оксимов образуются по заместительному принципу — 
+как _N_-гидроксипроизводные иминов, — а не по &(functional class nomenclature|pr), как это было в предыдущих рекомендациях.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-CH2@n(3)-C@n(2,90)<-CH3@n(1,90)>`||mN-OH
+$>
+
+en: _N_-hydroxypentan-2-imine (PIN)  <br>
+(pentan-2-ylidene)hydroxylamine  <br>
+pentan-2-one oxime
+ru: _N_-гидроксипентан-2-имин (PIN) <br>
+(пентан-2-илиден)гидроксиламин <br>
+пентан-2-он оксим
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH@n(1)=N@n(\textit{N})-O-CH2-CH3
+$>
+
+en: _N_-ethoxypropan-1-imine (PIN)  <br>
+propanal _O_-ethyloxime 
+ru: _N_-этоксипропан-1-имин (PIN) <br>
+пропаналь _O_-этилоксим
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)CH3@n(4)-C@n(3,90)<`||mN`-HO>-C@n(2,90)<`||mN-OH>-CH3@n(1)
+$>
+
+en: <%n%>-dihydroxybutane-2,3-diimine (PIN) <br>
+(butane-2,3-diylidene)bis(hydroxylamine)  <br>
+butane-2,3-dione dioxime 
+ru: <%n%>-дигидроксибутан-2,3-диимин (PIN) <br>
+(бутан-2,3-дилиден)бис(гидроксиламин) <br>
+бутан-2,3-дион диоксим
+%n:_N_^{2},_N_^{3}
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)CH3@n(1)-CO@n(2)-C@n(3,90)<`||mN-OH>-CH3@n(4)
+$>
+
+en: 3-(hydroxyimino)butan-2-one (PIN)  <br>
+butane-2,3-dione oxime 
+ru: 3-(гидроксиимино)бутан-2-он (PIN) <br>
+бутан-2,3-дион оксим
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-N=@n(4,-120)/=\<`/`=`\>@n(1,-80)<_(A-30)CH3>_(A30)COOH
+$>
+
+en: 4-(hydroxyimino)-1-methylcyclohexa-2,5-diene-1-carboxylic acid (PIN)
+ru: 4-(гидроксиимино)-1-метилциклогекса-2,5-диен-1-карбоновая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-O-N=C`H-@n(4,-120)/=\<`//`-`\\>@n(1,-60)-SO3H
+$>
+
+en: 4-[(ethoxyimino)methyl]benzene-1-sulfonic acid (PIN) 
+ru: 4-[(этоксиимино)метил]бензол-1-&(sulfonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)CH3@n(4)-C@n(3,90)<`||mN-OH>-CH2@n(2)-CHO@n(1)
+$>
+
+en: 3-(hydroxyimino)butanal (PIN) 
+ru: 3-(гидроксиимино)бутаналь (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(5)-CH2@n(4)-C@n(3,90)<`||O>-C@n(2,90)<`||mN-OH>-CH3@n(1,90)
+$>
+
+en: 2-(hydroxyimino)pentan-3-one (PIN)  <br>
+pentane-2,3-dione 2-oxime
+ru: 2-(гидроксиимино)пентан-3-он (PIN) <br>
+пентан-2,3-дион 2-оксим
+
+@cell
+<$
+@:n(n,a:-90,L:.51)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)C`H3@n(5)-C@n(4,90)<`||mN`-O`-C6H5>-CH2@n(3)-C@n(2,90)<`||mN-O-C6H5>-CH3@n(1)
+$>
+
+en: <%n%>-diphenoxypentane-2,4-diimine (PIN)  <br>
+pentane-2,4-dione bis(_O_-phenyloxime) 
+ru: <%n%>-дифеноксипентан-2,4-диимин (PIN) <br>
+пентан-2,4-дион бис(_O_-фенилоксим)
+%n:_N_^{2},_N_^{4}
+
+@End
+
 #P-68.3.1.1.3
 en: Nitrolic and nitrosolic acids
 ru: Нитроловые и нитрозоловые кислоты 
 
-//--------------
+en: Compounds having the general structures <%a%> and <%b%> are called generically ‘nitrolic acids’ 
+and ‘nitrosolic acids’, respectively. They are named substitutively for general nomenclature as oximes of 
+pseudoketones. Preferred IUPAC names are formed as described above for ‘oximes’ (see P-68.3.1.1.2). Traditionally, 
+they were named by functional class nomenclature as oximes of aldehydes substituted in position 1 by a nitro or nitroso 
+group.
+ru: Соединения, имеющие общие структуры <%a%> и <%b%>, в общем случае называют «нитроловыми кислотами» и 
+«нитрозоловыми кислотами» соответственно. В рамках общей номенклатуры их называют по заместительному принципу как оксимы 
+псевдокетонов. Предпочтительные названия по номенклатуре ИЮПАК образуют так же, как названия оксимов (см. P-68.3.1.1.2). 
+Традиционно их называли по &(functional class nomenclature|pr) как оксимы альдегидов, замещенных в положении 1 нитро- 
+или нитрозогруппой.
+%a: <$ {R}-C(=NOH)-NO2 $>
+%b: <$ {R}-C(=NOH)-NO $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3@n(3)-CH2@n(2)-C@n(1)(=NOH); #-1@Nx()-NO2
+$>
+
+en: _N_-hydroxy-1-nitropropan-1-imine (PIN)  <br>
+_N_-(1-nitropropylidene)hydroxylamine  <br>
+1-nitropropanal oxime  <br>
+1-nitropropan-1-one oxime 
+ru: _N_-гидрокси-1-нитропропан-1-имин (PIN) <br>
+_N_-(1-нитропропилиден)гидроксиламин <br>
+1-нитропропаналь оксим <br>
+1-нитропропан-1-он оксим
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-90,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3@n(2)-C@n(1)(=NOH); #-1@Nx()-NO
+$>
+
+en: _N_-hydroxy-1-nitrosoethan-1-imine (PIN)  <br>
+_N_-(1-nitrosoethylidene)hydroxylamine (PIN)  <br>
+1-nitrosoacetaldehyde oxime  <br>
+1-nitrosoethan-1-one oxime
+ru: _N_-гидрокси-1-нитрозоэтан-1-имин (PIN) <br>
+_N_-(1-нитрозоэтилиден)гидроксиламин (PIN) <br>
+1-нитрозоацетальдегид оксим <br>
+1-нитрозоэтан-1-он оксим
+
+@End
 
 #P-68.3.1.2
 en: Hydrazine and related compounds: hydrazones, azines, semicarbazides, semicarbazones, and carbonohydrazides 
 ru: Гидразин и родственные соединения: гидразоны, азины, семикарбазиды, семикарбазоны и карбоногидразиды
+
+#P-68.3.1.2.1
+en: Hydrazine and derivatives
+ru: Гидразин и его производные
+
+en: Hydrazine is a retained name describing the structure <%a%>; it is a preselected name and is preferred to the 
+systematic heterane name ‘diazane’. 
+ru: Гидразин — это &(retained name), описывающее структуру <%a%>; оно является &(preselected name|tv) и предпочтительнее 
+систематического гетеранового названия «диазан».
+%a: <$ H2N-NH2 $>
+
+en: Substituent groups derived from hydrazine are named systematically: 
+ru: &(Substituent group|*), производные гидразина, называют систематически:
+
+@p .framed
+en: Preselected prefixes derived from the preselected parent hydride hydrazine are now formed systematically from 
+hydrazine. For <%a%> ‘hydrazinyl’; for <%b%> ‘hydrazinylidene’; for <%c%> ‘hydrazinediylidene’; and for  
+<%d%> ‘hydrazine-1,2-diyl’. The traditional names ‘hydrazino’, ‘hydrazono’, ‘azino’, and ‘hydrazo’, 
+respectively, are no longer recommended, even for general nomenclature. 
+ru: &(Preselected prefix|*), производные от предварительно выбранного &(parent hydride|ro) — гидразина, теперь 
+образуются от гидразина систематическим путем. Для <%a%> — «гидразинил»; для <%b%> — «гидразинилиден»; 
+для <%c%> — «гидразиндиилиден»; и для <%d%> — «гидразин-1,2-диил». Традиционные названия «гидразино», «гидразоно», 
+«азино» и «гидразо» (соответственно) больше не рекомендуются к использованию, даже в рамках общей номенклатуры.
+%a: <$ H2N-NH–{} $>
+%b: <$ H2N-N={} $> 
+%c: <$ {}=N-N={} $>
+%d: <$ {}–NH-NH–{} $> 
+
+@Examples --
+
+@cell
+<$ H2N-NH–{}  $>
+
+en: hydrazinyl (preselected prefix)  <br>
+diazanyl  <br>
+(not hydrazino)
+ru: гидразинил (&(preselected prefix)) <br>
+диазанил <br>
+(не гидразино)
+
+@cell
+<$ H2N-N={}  $>
+
+en: hydrazinylidene (preselected prefix)  <br>
+diazanylidene  <br>
+(not hydrazono)
+ru: гидразинилиден (&(preselected prefix)) <br>
+диазанилиден <br>
+(не гидразоно)
+
+@cell
+<$ {}=N-N={} $>
+
+en: hydrazinediylidene (preselected prefix)  <br>
+diazanediylidene  <br>
+(not azino)
+ru: гидразиндиилиден (&(preselected prefix)) <br>
+диазандиилиден <br>
+(не азино)
+
+@cell
+<$ {}–NH-NH–{}  $>
+
+en: hydrazine-1,2-diyl (preselected prefix)  <br>
+diazane-1,2-diyl  <br>
+(not hydrazo)
+ru: гидразин-1,2-диил (&(preselected prefix)) <br>
+диазан-1,2-диил <br>
+(не гидразо)
+
+@End
+
+en: As a parent hydride, hydrazine is numbered by numerical locants, 1 and 2, not _N_ and _N_′. Hydrazine is substituted by 
+hydrocarbyl groups and characteristic groups expressed by suffixes and prefixes. 
+ru: Как &(parent hydride), гидразин нумеруется с помощью цифровых локантов 1 и 2, а не _N_ и _N_′. В гидразине могут 
+присутствовать заместители в виде углеводородных групп и &(characteristic group|ro*), обозначаемых суффиксами и префиксами.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2N@n(1)-NH2@n(2)
+$>
+
+en: 1,1-dimethylhydrazine (PIN) 
+ru: 1,1-диметилгидразин (PIN)
+
+@cell
+<$ C6H5-NH-NH2 $>
+  
+en: phenylhydrazine (PIN) 
+ru: фенилгидразин (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-NH-CH2@n(1)-NH2@n(\textit{N})
+$>
+
+en: 1-hydrazinylmethanamine (PIN)  <br>
+(see also P-62.2.1.2) 
+ru: 1-гидразинилметанамин (PIN) <br>
+(см. также P-62.2.1.2)
+
+@cell
+<$ H2N-NH-COOH  $>
+
+en: hydrazinecarboxylic acid (PIN)  <br>
+(not carbazic acid) 
+ru: гидразинкарбоновая кислота (PIN) <br>
+(не карбазиновая кислота)
+
+@cell
+<$ F2N-NF2 $>
+  
+en: tetrafluorohydrazine  <br>
+(from preselected name hydrazine) 
+ru: тетрафторгидразин <br>
+(от &(preselected name|ro) гидразин)
+
+@cell
+<$ H2N-NH-CH2-CN  $>
+
+en: hydrazinylacetonitrile (PIN) 
+ru: гидразинилацетонитрил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-CH2-CH2@n(3)-NH-NH-CH2@n(3',-80)-CH2-CO-{}
+$>
+
+en: 3,3′-(hydrazine-1,2-diyl)dipropanamide (PIN)  <br>
+(not 3,3′-hydrazodipropanamide) 
+eu: 3,3′-(гидразин-1,2-диил)дипропанамид (PIN) <br>
+(а не 3,3′-гидразодипропанамид)
+
+@End
+
+#P-68.3.1.2.2
+en: Hydrazones
+ru: Гидразоны
+
+en: Compounds having the general structure <%a%> or <%b%> are called ‘hydrazones’ and are named in two ways: 
+ru: Соединения общей структуры <%a%> или <%b%> называются «гидразонами» и именуются двумя способами:
+%a: <$ {R}CH=N-NH2 $>
+%b: <$ {R}{R′}C=N-NH2 $>
+
+@List 1
+
+@item
+en: substitutively as derivatives of the parent hydride ‘hydrazine’, <%a%>;
+ru: по заместительной номенклатуре — как производные &(parent hydride|ro) «гидразина» (H2N-NH2);
+%a: <$ H2N-NH2 $>
+
+@item
+en: by functional class nomenclature using the class name ‘hydrazone’. 
+ru: по &(functional class nomenclature|pr) — с использованием названия класса «гидразон».
+
+@End
+
+en: Method (1) generates preferred IUPAC names. 
+ru: Способ (1) позволяет получить предпочтительные названия по номенклатуре ИЮПАК.
+
+@p .framed
+en: In these recommendations preferred IUPAC names for hydrazones are generated substitutively as ‘ylidene’ 
+derivatives of hydrazine rather than by functional class nomenclature as in previous recommendations. 
+ru: В данных рекомендациях предпочтительные названия ИЮПАК для гидразонов образуются по заместительному принципу 
+как «илиден»-производные гидразина, а не на основе &(functional class nomenclature|pr), как это было в предыдущих рекомендациях.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH=N@n(1)-NH2@n(2)
+$>
+
+en: propylidenehydrazine (PIN)  <br>
+propanal hydrazone 
+ru: пропилиденгидразин (PIN)  <br>
+пропаналь гидразон
+
+@cell
+<$ (CH3)2N-N=C(CH3)2 $>
+  
+en: 1,1-dimethyl-2-(propan-2-ylidene)hydrazine (PIN)  <br>
+1,1-dimethyl-2-(1-methylethylidene)hydrazine  <br>
+acetone dimethylhydrazone 
+ru: 1,1-диметил-2-(пропан-2-илиден)гидразин (PIN) <br>
+1,1-диметил-2-(1-метилэтилиден)гидразин <br>
+ацетон диметилгидразон
+
+@cell
+<$ C6H5-NH-N=CH-CH=N-NH-C6H5 $>
+  
+en: 1,1′-(ethane-1,2-diylidene)bis(2-phenylhydrazine) (PIN)  <br>
+ethane-1,2-dione bis(phenylhydrazone) 
+ru: 1,1'-(этан-1,2-диилиден)бис(2-фенилгидразин) (PIN) <br>
+этан-1,2-дион бис(фенилгидразон)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`\`||/\\@n(1)</COOH>|@n(2,90)_q6NH-N=C(CH3)2
+$>
+
+en: 2-[(propan-2-ylidene)hydrazinyl]benzoic acid (PIN)  <br>
+2-[(1-methylethylidene)hydrazinyl]benzoic acid 
+ru: 2-[(пропан-2-илиден)гидразинил]бензойная кислота (PIN) <br>
+2-[(1-метилэтилиден)гидразинил]бензойная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-NH-N=@n(4,-110)/-\<`/`-`\>@n(1,-60)-COOH
+$>
+
+en: 4-(phenylhydrazinylidene)cyclohexane-1-carboxylic acid (PIN) 
+ru: 4-(фенилгидразинилиден)циклогексан-1-карбоновая кислота (PIN)
+
+@End
+
+#P-68.3.1.2.3
+en: Azines
+ru: Азины
+
+#P-68.3.1.2.3.1+
+en: Compounds having the general structure <%a%> or <%b%> are called ‘azines’ and are named in two ways: 
+ru: Соединения общей структуры <%a%> или <%b%> называются «азинами» и именуются двумя способами:
+%a: <$ {R}-CH=N-N=CH-{R} $>
+%b: <$ {R}{R′}C=N-N=C{R}{R′} $>
+// в оригинале ошибка - пропущен второй атом углерода. см. P-68.3.1.2.3.2 - там правильно.
+
+@List 1
+
+@item
+en: substitutively, as derivatives of hydrazine; 
+ru: по заместительной номенклатуре — как производные гидразина;
+
+@item
+en: by functional class nomenclature using the class name ‘azine’.  
+ru: по &(functional class nomenclature|pr) — с использованием названия класса «азин».
+
+@End
+
+en: Method (1) leads to preferred IUPAC names. 
+ru: Способ (1) приводит к предпочтительным названиям ИЮПАК.
+
+@p .framed
+en: In these recommendations preferred IUPAC names for azines are generated substitutively as ‘ylidene’ derivatives of 
+hydrazine rather than by functional class nomenclature as in previous recommendations. 
+ru: В данных рекомендациях предпочтительные названия ИЮПАК для азинов образуются по заместительному принципу как 
+«илиден-»производные гидразина, а не по &(functional class nomenclature|pr), как это было в предыдущих рекомендациях.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)2C=N@n(1)-N@n(2)=C(CH3)2
+$>
+
+en: di(propan-2-ylidene)hydrazine (PIN)  <br>
+bis(1-methylethylidene)hydrazine  <br>
+acetone azine 
+ru: ди(пропан-2-илиден)гидразин (PIN) <br>
+бис(1-метилэтилиден)гидразин <br>
+ацетон азин
+
+@End
+
+#P-68.3.1.2.3.2+
+en: Azines are symmetrical derivatives of hydrazine. When this condition is not fulfilled, compounds having 
+the structures <%a%> or <%b%>, are named in two ways: 
+ru: Азины представляют собой симметричные производные гидразина. Если это условие не выполняется, соединения 
+со структурами <%a%> или <%b%> называют двумя способами:
+%a: <$ {R}-CH=N-N=CH-{R′} $>
+%b: <$ {R}{R}C=N-N=C{R′}{R′} $>
+
+@List 1
+
+@item
+en: as unsymmetrical derivatives of hydrazine; 
+ru: как несимметричные производные гидразина;
+
+@item
+en: as ‘ylidenehydrazones’ of the preferred ketone or aldehyde.  
+ru: как «илиденгидразоны» соответствующего кетона или альдегида.
+
+@End
+
+en: Method (1) generates preferred IUPAC names. 
+ru: Способ (1) дает предпочтительные названия по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`-`\/-\=N@n(2)-N@n(1)=C<`|CH3>-CH2-CH3
+$>
+
+en: (butan-2-ylidene)(cyclohexylidene)hydrazine (PIN)  <br>
+cyclohexylidene(1-methylpropylidene)hydrazine  <br>
+cyclohexanone butan-2-ylidenehydrazone 
+ru: (бутан-2-илиден)(циклогексилиден)гидразин (PIN) <br>
+циклогексилиден(1-метилпропилиден)гидразин <br>
+циклогексанон бутан-2-илиденгидразон
+
+@End
+
+#P-68.3.1.2.3.3+
+en: In the presence of functions having seniority the prefix ‘hydrazinylidene’ is used substitutively, and in 
+multiplicative nomenclature the prefix ‘hydrazinediylidene’ is used.
+ru: При наличии старших функций префикс «гидразинилиден» используется по заместительному принципу, 
+а в &(multiplicative nomenclature|pr) применяется префикс «гидразиндиилиден».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-120)/-\<`/`-`\>@n(4,-60)=N-N=C(CH3)2
+$>
+
+en: 4-[(propan-2-ylidene)hydrazinylidene]cyclohexane-1-carboxylic acid (PIN)  <br>
+4-[(1-methylethylidene)hydrazinylidene]cyclohexane-1-carboxylic acid 
+ru: 4-[(пропан-2-илиден)гидразинилиден]циклогексан-1-карбоновая кислота (PIN) <br>
+4-[(1-метилэтилиден)гидразинилиден]циклогексан-1-карбоновая кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1,-110)/-\<`/`-`\>@n(4,-70)=N-N=@n(4',-110)/-\<`/`-`\>@n(1',-70)-COOH
+$>
+
+en: 4,4′-hydrazinediylidenedi(cyclohexane-1-carboxylic acid) (PIN) 
+ru: 4,4′-гидразиндиилиденди(циклогексан-1-карбоновая кислота) (PIN)
+
+@End
+
+//--------------
 
 #P-68.3.1.3
 en: Diazene and related compounds  
