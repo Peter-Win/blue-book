@@ -184,6 +184,7 @@
   "carbonic [acid]|vi": "угольную",
   "carbonic [acid]|tv": "угольной",
 
+  "carbonic [anion]": "угольный",
   "carbonic [amide]": "угольный",
   "carbonic [anhydride]": "угольный",
 
@@ -394,6 +395,7 @@
   "functional nomenclature|tv": "функциональной номенклатурой",
 
   "functional parent": "функциональный родитель",
+  "functional parent|ro": "функционального родителя",
   "functional parent|tv": "функциональным родителем",
   "functional parent|*": "функциональные родители",
   "functional parent|ro*": "функциональных родителей",
@@ -959,6 +961,7 @@
 
   "preselected [prefix]": "предварительно выбранный",
   "preselected prefix": "предварительно выбранный префикс",
+  "preselected prefix|tv": "предварительно выбранным префиксом",
   "preselected prefix|*": "предварительно выбранные префиксы",
   "preselected prefix|ro*": "предварительно выбранных префиксов",
 

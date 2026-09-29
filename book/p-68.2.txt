@@ -1698,11 +1698,547 @@ ru: 4,4′-гидразиндиилиденди(циклогексан-1-кар�
 
 @End
 
-//--------------
+#P-68.3.1.2.4
+en: Semicarbazides
+ru: Семикарбазиды
+// такой термин есть https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0%D1%80%D0%B1%D0%B0%D0%B7%D0%B8%D0%B4
+
+en: Semicarbazide is the amide of ‘hydrazinecarboxylic acid’. As acids and amides expressed by suffixes are senior to acids 
+or amides modified by functional replacement, these names are senior to ‘carbonohydrazidic acid’ and 
+‘carbonohydrazidic amide’.
+ru: Семикарбазид — это амид гидразинкарбоновой кислоты. Поскольку кислоты и амиды, обозначаемые суффиксами, имеют 
+приоритет перед кислотами или амидами, названия которых образованы путем функционального замещения, эти наименования имеют 
+приоритет перед «карбоногидразидной кислотой» и «карбоногидразидным амидом».
+
+en: Semicarbazide is the traditional name for the compound <%a%>, systematically named 
+‘hydrazinecarboxamide’. The systematic name is the preferred IUPAC name. The usual numbering for amides is 
+recommended for the systematic name; special numbering is characteristic for the name semicarbazide. 
+ru: Семикарбазид — это традиционное название соединения <%a%>, систематическое название которого — «гидразинкарбоксамид». 
+Систематическое название является предпочтительным названием по номенклатуре ИЮПАК. Для систематического названия 
+рекомендуется использовать стандартную нумерацию, применяемую для амидов, тогда как для названия «семикарбазид» характерна 
+особая нумерация.
+%a: <$ H2N-NH-CO-NH2 $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-CO-NH2@n(\textit{N})
+$>
+
+en: hydrazinecarboxamide (PIN) 
+ru: гидразинкарбоксамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(1)-NH@n(2)-CO@n(3)-NH2@n(4)
+$>
+
+en: semicarbazide
+ru: семикарбазид
+
+@p .framed
+en: Numerical locants are no longer used for the parent name semicarbazide in preferred IUPAC names. 
+ru: В предпочтительных названиях ИЮПАК для &(parent name|ro) «семикарбазид» цифровые локанты больше не используются.
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-CO-NH@n(\textit{N})-C6H5
+$>
+
+en: _N_-phenylhydrazinecarboxamide (PIN)  <br>
+4-phenylsemicarbazide 
+ru: _N_-фенилгидразинкарбоксамид (PIN) <br>
+4-фенилсемикарбазид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-N@n(1)(CH3)-CO-NH@n(\textit{N})-CH3
+$>
+
+en: _N_,1-dimethylhydrazine-1-carboxamide (PIN)  <br>
+2,4-dimethylsemicarbazide
+ru: _N_,1-диметилгидразин-1-карбоксамид (PIN) <br>
+2,4-диметилсемикарбазид
+
+@End
+
+en: As a prefix, the <%a%> group is called ‘semicarbazido’, ‘2-carbamoylhydrazin-1-yl’ (preferred prefix), or 
+‘2-(aminocarbonyl)hydrazin-1-yl’. 
+ru: В качестве префикса группа <%a%> называется «семикарбазидо», «2-карбамоилгидразин-1-ил» (&(preferred prefix)) 
+или «2-(аминокарбонил)гидразин-1-ил».
+%a: <$ {}–HN-NH-CO-NH2 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-CO-NH-NH-CH2@n(3)-CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(2-carbamoylhydrazin-1-yl)propanoic acid (PIN)
+ru: 3-(2-карбамоилгидразин-1-ил)пропановая кислота (PIN)
+
+@End
+
+en: Chalcogen analogues are named systematically as described for amides or by functional replacement nomenclature 
+using the class term ‘semicarbazide’ modified by the replacement prefixes ‘thio’, ‘seleno’, and ‘telluro’; for example, 
+‘thiosemicarbazide’. 
+ru: &(Chalcogen analogue|*) называют систематически — по правилам, установленным для амидов, — либо с использованием 
+&(functional replacement nomenclature|ro), где к названию класса «семикарбазид» добавляют приставки замещения «тио-», 
+«селено-» и «теллуро-» (например, «тиосемикарбазид»).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-CSe-NH2@n(\textit{N})
+$>
+
+en: hydrazinecarboselenoamide (PIN)
+ru: гидразинкарбоселеноамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(1)-NH@n(2)-CSe@n(3)-NH2@n(4)
+$>
+
+en: selenosemicarbazide
+ru: селеносемикарбазид
+
+@End
+
+#P-68.3.1.2.5
+en: Semicarbazones
+ru: Семикарбазоны
+// этот термин есть. https://xumuk.ru/encyklopedia/2/4011.html
+
+en: Compounds with the structure <%a%> or <%b%> are generically called 
+‘semicarbazones’. They are named in two ways: 
+ru: Соединения со структурой <%a%> или <%b%> в общем случае называются «семикарбазонами». Их называют двумя способами:
+%a: <$ {R}-CH=N-NH-CO-N{R′}{R′′} $>
+%b: <$ {R}{R′}C=N-NH-CO-N{R′′}{R′′′} $>
+
+@List 1
+
+@item
+en: substitutively by using the functional parent ‘hydrazinecarboxamide’; 
+ru: по заместительной номенклатуре, используя в качестве &(functional parent|ro) «гидразинкарбоксамид»;
+
+@item
+en: by the class modifier ‘semicarbazone’ placed after the name of the corresponding aldehyde or ketone. 
+ru: с использованием группового названия «семикарбазон», помещаемого после названия соответствующего альдегида или кетона.
+
+@End
+
+en: Method (1) yields preferred IUPAC names. 
+ru: Способ (1) дает предпочтительные названия по номенклатуре ИЮПАК.
+
+@p .framed
+en: Numerical locants are no longer used for the functional class name semicarbazone in preferred IUPAC names. 
+ru: В предпочтительных названиях ИЮПАК для &(functional class name|ro) «семикарбазон» цифровые локанты больше не используются.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-C<-CH2-CH3>`||mN@n(2)-NH@n(1)-CO-N@n(\textit{N})(C6H5)2
+$>
+
+en: 2-(hexan-3-ylidene)-_N_,_N_-diphenylhydrazine-1-carboxamide (PIN)  <br>
+2-(1-ethylbutylidene)-_N_,_N_-diphenylhydrazine-1-carboxamide  <br>
+hexan-3-one 4,4-diphenylsemicarbazone 
+ru: 2-(гексан-3-илиден)-_N_,_N_-дифенилгидразин-1-карбоксамид (PIN) <br>
+2-(1-этилбутилиден)-_N_,_N_-дифенилгидразин-1-карбоксамид <br>
+гексан-3-он 4,4-дифенилсемикарбазон
+
+@End
+
+en: The compound prefix ‘carbamoylhydrazinylidene’ is used in the presence of a characteristic group that is preferred for 
+citation as a suffix. This prefix is preferred to the traditional name ‘semicarbazono’, whose structure is numbered as 
+follows: 
+ru: &(Compound [prefix]) префикс «карбамоилгидразинилиден» используется при наличии &(characteristic group|ro), которую 
+предпочтительно &(cite) в качестве суффикса. Этот префикс предпочтительнее традиционного названия «семикарбазоно», 
+структура которого нумеруется следующим образом:
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}=N@n(1)-NH@n(2)-CO@n(3)-NH2@n(4)
+$>
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.51)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(7)-CH2@n(6)-CH2@n(5)-C@n(4,90)-CH2@n(3)-CH2@n(2)-COOH@n(1);
+#C_(y-1.2,N2m)N-NH-CO-N(CH3)2
+$>
+
+en: 4-[(dimethylcarbamoyl)hydrazinylidene]heptanoic acid (PIN)  <br>
+4-(4,4-dimethylsemicarbazono)heptanoic acid 
+ru: 4-[(диметилкарбамоил)гидразинилиден]гептановая кислота (PIN) <br>
+4-(4,4-диметилсемикарбазоно)гептановая кислота
+
+@End
+
+en: Chalcogen analogues of semicarbazones are named systematically as described for amides to give preferred IUPAC 
+names, or by functional replacement nomenclature using the class terms ‘semicarbazone’ modified by the replacement 
+prefixes ‘thio’, ‘seleno’, and ‘telluro’; for example, ‘thiosemicarbazone’. The prefix ‘carbamothioylhydrazinylidene’ is 
+preferred to the traditional prefix ‘thiosemicarbazono’. 
+ru: &(Chalcogen analogue|*) семикарбазонов называют либо систематически (по правилам для амидов) для получения 
+предпочтительных названий по номенклатуре ИЮПАК, либо с использованием &(functional replacement nomenclature|ro), 
+где к термину «семикарбазон» добавляются приставки «тио-», «селено-» или «теллуро-» (например, «тиосемикарбазон»). 
+Приставка «карбамотиоилгидразинилиден» является предпочтительной по сравнению с традиционной приставкой «тиосемикарбазоно».
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.51)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-NH@n(1)-CS-NH2@n(\textit{N})
+$>
+
+en: hydrazinecarbothioamide (PIN)
+ru: гидразинкарботиоамид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.51)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(1)-NH@n(2)-CS@n(3)-NH2@n(4)
+$>
+
+en: thiosemicarbazide
+ru: тиосемикарбазид
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.51)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-CH2-C<-C6H5>`||mN@n(2)-NH@n(1)-CS-N@n(\textit{N})(C6H5)2
+$>
+
+en: _N_,_N_-diphenyl-2-(1-phenylbutylidene)hydrazine-1-carbothioamide (PIN)  <br>
+1-phenylbutan-1-one 4,4-diphenylthiosemicarbazone 
+ru: _N_,_N_-дифенил-2-(1-фенилбутилиден)гидразин-1-карботиоамид (PIN) <br>
+1-фенилбутан-1-он 4,4-дифенилтиосемикарбазон
+
+@cell
+<$
+@:n(n,a:-90,L:.51)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC@n(7)-CH2@n(6)-CH2@n(5)-C@n(4,90)-CH2@n(3)-CH2@n(2)-COOH@n(1);
+#C_(y-1.2,N2m)N-NH-CSe-N(CH3)2
+$>
+
+en: 4-[(dimethylcarbamoselenoyl)hydrazinylidene]heptanedioic acid (PIN)  <br>
+4-[4,4-dimethyl(selenosemicarbazono)]heptanedioic acid 
+ru: 4-[(диметилкарбамоселеноил)гидразинилиден]гептанди&(oic acid) (PIN) <br>
+4-[4,4-диметил(селеносемикарбазоно)]гептанди&(oic acid)
+
+@End
+
+#P-68.3.1.2.6
+en: Hydrazinecarbohydrazide and derivatives 
+ru: Гидразинкарбогидразид и его производные
+
+en: The preferred IUPAC name for the compound <%a%> is ‘hydrazinecarbohydrazide’. The name 
+‘carbonic dihydrazide’ is also recommended, but only for general nomenclature; the names ‘carbonohydrazide’, 
+‘carbohydrazide’, and ‘carbazide’ are not recommended. Systematic numbering is applied to the systematic name; a 
+special numbering is assigned to carbonic dihydrazide, as follows: 
+ru: Предпочтительным названием соединения <%a%> по номенклатуре ИЮПАК является «гидразинкарбогидразид». Также 
+рекомендуется название «карбондигидразид», но только для общей номенклатуры; названия «карбоногидразид», «карбогидразид» 
+и «карбазид» не рекомендуются. К систематическому названию применяется систематическая нумерация; для карбондигидразида 
+установлена ​​специальная нумерация, представленная ниже:
+%a: <$ H2N-NH-CO-NH-NH2 $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@n(2)-NH@n(1)-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: hydrazinecarbohydrazide (PIN)
+ru: гидразинкарбогидразид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+H2N@Nx(′′′)-NH@Nx(′′,-70)-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: carbonic dihydrazide 
+ru: &(carbonic [anion]) дигидразид
+
+@End
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-CH=N@Nx(′)-NH@Nx()-CO-N@n(1,90)<`|CH3>-N@n(2,90)=CH-CH3
+$>
+
+en: _N_′-benzylidene-2-ethylidene-1-methylhydrazine-1-carbohydrazide (PIN)  <br>
+(the twice substituted chain is the principal chain)  <br>
+_N_′′′-benzylidene-_N_′-ethylidene-_N_-methylcarbonic dihydrazide  <br>
+(not _N_′-benzylidene-_N_′′′-ethylidene-_N_′′-methylcarbonic dihydrazide;  <br>
+the set of locants ‘_N_,_N_′,_N_′′′’ is lower than ‘_N_′,_N_′′,_N_′′′’) 
+ru: _N_′-бензилиден-2-этилиден-1-метилгидразин-1-карбогидразид (PIN) <br>
+(дважды замещенная цепь является главной цепью) <br>
+_N_′′′-бензилиден-_N_′-этилиден-_N_-метилкарбондигидразид <br>
+(не _N_′-бензилиден-_N_′′′-этилиден-_N_′′-метилкарбондигидразид; <br>
+набор локантов «_N_,_N_′,_N_′′′» меньше, чем «_N_′,_N_′′,_N_′′′»)
+
+@End
+
+en: As prefixes, the groups <%a%> and <%b%> are called ‘hydrazinecarbohydrazido’ and 
+‘(hydrazinecarbonyl)hydrazinylidene’, respectively; these names are preferred prefixes. 
+ru: В качестве префиксов группы <%a%> и <%b%> называются «гидразинкарбогидразидо» и «(гидразинкарбонил)гидразинилиден» 
+соответственно; эти названия являются &(preferred prefix|tv*).
+%a: <$ {}–NH-NH-CO-NH-NH2 $>
+%b: <$ {}=N-NH-CO-NH-NH2 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N-NH-CO-NH-NH-CH2@n(3)-CH2-COOH
+$>
+
+en: 3-(hydrazinecarbohydrazido)propanoic acid (PIN)  <br>
+3-[2-(hydrazinecarbonyl)hydrazin-1-yl]propanoic acid
+ru: 3-(гидразинкарбонилгидразидо)пропановая кислота (PIN) <br>
+3-[2-(гидразинкарбонил)гидразин-1-ил]пропановая кислота
+
+@End
 
 #P-68.3.1.3
 en: Diazene and related compounds  
 ru: Диазен и родственные соединения
+
+@Content
+
+#P-68.3.1.3.1
+en: Substitution of diazene 
+ru: &(Substitution) диазена
+
+en: Diazene is a modified parent hydride derived from the parent hydride diazane (see P-68.3.1.2.1) The prefix ‘diazenyl’ is 
+a preselected prefix (see P-32.1.1).
+ru: Диазен — это модифицированный &(parent hydride), производный от &(parent hydride|ro) диазана (см. P-68.3.1.2.1). 
+Префикс «диазенил» является заранее &(preselected prefix|tv) (см. P-32.1.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OHC-N@n(2)=N@n(1)-CHO
+$>
+
+en: diazenedicarbaldehyde (PIN) 
+ru: диазендикарбальдегид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-N@n(2)=N@n(1)-CN
+$>
+
+en: phenyldiazenecarbonitrile (PIN) 
+ru: фенилдиазенкарбонитрил (PIN)
+
+@cell
+<$ CH3-N=N-CH2-COOH $>
+
+en: (methyldiazenyl)acetic acid (PIN) 
+ru: (метилдиазенил)уксусная кислота (PIN)
+
+@cell
+<$ HN=N-CH2-CH2-COOH  $>
+
+en: 3-diazenylpropanoic acid (PIN) 
+ru: 3-диазенилпропановая кислота (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)HN=mN\|@n(4,90)\//`|</COOH>@n(1)`\\`/@n(3)|`/N`=mHN
+$>
+
+en: 3,4-bis(diazenyl)benzoic acid (PIN) 
+ru: 3,4-бис(диазенил)бензойная кислота (PIN)
+
+@End
+
+#P-68.3.1.3.2
+en: Azo compounds, <%a%> 
+ru: Азосоединения, <%a%>
+%a: <$ {R}-N=N-{R′} $>
+
+en: **Note:** Rules for naming azo compounds using the azo prefix were quite complex in the 1979 recommendations (ref. 1). 
+Two sets of rules were recommended, the so-called ‘old method’ (Rule C-911) and the method used in CAS index 
+nomenclature (Rule C-912) before 1972. The ‘old method’ (Rule C-911, ref. 1) must be totally discarded because some 
+examples do not follow the basic rules developed in the 1979 organic nomenclature rules (ref. 1), especially with 
+respect to the treatment of suffixes. In 1993, a new approach, introduced by CAS in 1972, was adopted based on the use 
+of the parent hydride name ‘diazene’ [Method (1), below]. It brought simplicity and rationalization to the field and is 
+the method chosen to generate preferred IUPAC names in these recommendations. However, names based on the 
+method given as Rule C-912 in the 1979 recommendations are given here as an acceptable alternative for general 
+nomenclature. 
+ru: **Примечание:** Правила наименования азосоединений с использованием приставки «азо-», содержавшиеся в рекомендациях 
+1979 года (ссылка 1), были довольно сложными. В них предлагалось два набора правил: так называемый «старый метод» 
+(правило C-911) и метод, применявшийся в номенклатуре указателей CAS (правило C-912) до 1972 года. От «старого метода» 
+(правило C-911, ссылка 1) следует полностью отказаться, поскольку некоторые примеры его применения противоречат основным 
+принципам номенклатуры органических соединений 1979 года (ссылка 1), особенно в части использования суффиксов. В 1993 году 
+был принят новый подход, введенный CAS еще в 1972 году и основанный на использовании названия родоначального гидрида 
+«диазен» [см. метод (1) ниже]. Этот метод внес ясность и упорядоченность в данную область и был выбран для формирования 
+предпочтительных названий ИЮПАК в настоящих рекомендациях. Тем не менее, названия, образованные по методу, описанному 
+в правиле C-912 рекомендаций 1979 года, приводятся здесь как допустимая альтернатива для целей общей номенклатуры.
+
+
+en: Compounds with the general structure <%a%>, where R and R′ may be alike or different, are known generically as 
+‘azo compounds’. They are named in two ways:
+ru: Соединения с общей структурой <%a%>, где R и R′ могут быть одинаковыми или различными, 
+в общем случае называют «азосоединениями». Их называют двумя способами:
+%a: <$ {R}-N=N-{R′} $>
+
+@List 1
+
+@item
+en: substitutively using the parent ‘diazene’, HN=NH; 
+ru: по заместительной номенклатуре, используя в качестве &(parent compound|ro) «диазен» (HN=NH);
+
+@item
+en: by using the prefix ‘azo’ in the traditional manner (P-68.3.1.3.2.1). 
+ru: с использованием приставки «азо-» в соответствии с традиционным способом (P-68.3.1.3.2.1).
+
+@End
+
+en: Method (1) leads to preferred IUPAC names. 
+ru: Способ (1) позволяет получить предпочтительные названия ИЮПАК.
+
+en: Azo compounds are divided into monoazo compounds, having one –N=N– group, bis(azo) compounds, having two  
+–N=N– groups, and so on. 
+ru: Азосоединения подразделяются на моноазосоединения (содержащие одну группу –N=N–), 
+бис(азо)соединения (содержащие две группы –N=N–) и т. д.
+
+#P-68.3.1.3.2.1+
+en: Symmetrical monoazo compounds, <%a%>, are named: 
+ru: Симметричные моноазосоединения <%a%> называют следующим образом:
+%a: <$ {R}-N=N-{R} $>
+
+@List 1
+
+@item
+en: by substituting the parent diazene, HN=NH, by the appropriate substituent groups; 
+ru: путем замещения в исходном диазене HN=NH соответствующих &(substituent group|ro*);
+
+@item
+en: by adding ‘azo’ to the name of the parent hydride, RH; substituents are denoted in the usual way by prefixes, the 
+two RH parents being distinguished by unprimed and primed locants. Attachment of the azo group has priority for 
+lowest available numbers. 
+ru: путем добавления приставки «азо-» к названию &(parent hydride|ro) RH; &(substituent|*) обозначают обычным образом 
+с помощью префиксов, а два &(parent hydride|ro*) RH различают с помощью локантов без штриха и со штрихом. При нумерации 
+приоритет в получении наименьших возможных номеров отдается месту присоединения азогруппы.
+
+@End
+
+en: Method (1) gives preferred IUPAC names. 
+ru: Метод (1) дает предпочтительные названия по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$ CH3-N=N-CH3 $>
+  
+en: dimethyldiazene (PIN)  <br>
+azomethane 
+ru: диметилдиазен (PI\) <br>
+азометан
+
+@cell
+<$ C6H5-N=N-C6H5 $>
+  
+en: diphenyldiazene (PIN)  <br>
+azobenzene 
+ru: дифенилдиазен (PIN) <br>
+азобензол
+
+@cell
+<$
+@:n(n,a:-90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cl-@n(4',-120)//-\\@n(1',-60)<`/`=`\>-N=N-@n(1,-120)/=</Cl>@n(3,0)\`//`-`\\
+$>
+
+en: (3-chlorophenyl)(4-chlorophenyl)diazene (PIN)  <br>
+3,4′-dichloroazobenzene (numbering shown) 
+ru: (3-хлорфенил)(4-хлорфенил)диазен (PIN)  <br>
+3,4′-дихлоразобензол (с указанием нумерации)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)|`//`\`//`\`||/\\<|>/@n(1',-80)\\@n(2',-60)-N=#
+$slope(60)N-@n(1,-120)/@n(2,-120)=\`//`-`\c\`/\\-//`\
+$>
+
+en: (naphthalen-1-yl)(naphthalen-2-yl)diazene (PIN)  <br>
+1,2′-azonaphthalene (numbering shown) 
+ru: (нафталин-1-ил)(нафталин-2-ил)диазен (PIN)  <br>
+1,2′-азонафталин (показана нумерация)
+
+@End
+
+// ------------------
+
+
+#P-68.3.1.3.3
+en: Azoxy compounds, <%a%>
+%a: <$ {R}-N=N(O)-{R′} $>  
+
+#P-68.3.1.3.4
+en: Diazenecarbohydrazide, <%a%>
+%a: <$ HN=N-CO-NH-NH2 $>
+ 
+#P-68.3.1.3.5
+en: Formazan, <%a%>
+%a: <$ H2N-N=CH-N=NH $> 
+
+#P-68.3.1.3.6
+en: Carbodiazone [bis(diazenyl)methanone], <%a%>
+%a: <$ HN=N-CO-N=NH $>  
+
+#P-68.3.1.3.7
+en: Isodiazene, <%a%>
+%a: <$ {R}2N^+=N^– $> 
+
+//------------------------
 
 #P-68.3.1.4
 en: Polyazanes 
