@@ -3355,12 +3355,14 @@ ru: Замещение атома водорода в муравьиной ки�
 @cell
 <$ O2N-COOH $>
 
-en: nitroformic acid (PIN) <br>
+en: nitroformic acid (PIN)
+ru: нитромуравьиная кислота (PIN)
 
 @cell
 <$ H{{{S/O}}}C-COOH $>
 
 en: (thiocarboxy)formic acid (PIN, see P-65.1.5.2) 
+ru: (тиокарбокси)муравьиная кислота (PIN, см. P-65.1.5.2)
 
 @End
 

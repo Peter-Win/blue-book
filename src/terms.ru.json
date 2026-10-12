@@ -633,6 +633,7 @@
 
   "multiplicative name": "мультипликативное название",
   "multiplicative name|ro": "мультипликативного названия",
+  "multiplicative name|da": "мультипликативному названию",
   "multiplicative name|tv": "мультипликативным названием",
   "multiplicative name|*": "мультипликативные названия",
   "multiplicative name|ro*": "мультипликативных названий",
@@ -1122,6 +1123,7 @@
   "substitutive [name]|*": "заместительные", 
   "substitutive [name]|ro*": "заместительных", 
   "substitutive name": "заместительное название",
+  "substitutive name|tv": "заместительным названием",
   "substitutive name|*": "заместительные названия",
   "substitutive name|ro*": "заместительных названий",
   "substitutive name|tv*": "заместительными названиями",
@@ -1131,11 +1133,13 @@
   "substitutive nomenclature|ro": "заместительной номенклатуры",
   "substitutive nomenclature|vi": "заместительную номенклатуру",
   "substitutive nomenclature|tv": "заместительной номенклатурой",
+  "substitutive nomenclature|da": "заместительной номенклатуре",
   "substitutive nomenclature|pr": "заместительной номенклатуре",
   "substitutive [nomenclature]|ro": "заместительной",
   "substitutive [nomenclature]|vi": "заместительную",
 
   "substitutive operation|pr": "замещающей операции",
+  "substitutive operation|*": "замещающие операции",
 
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",

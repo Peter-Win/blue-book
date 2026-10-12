@@ -2215,20 +2215,658 @@ ru: (нафталин-1-ил)(нафталин-2-ил)диазен (PIN)  <br>
 
 @End
 
-// ------------------
+
+#P-68.3.1.3.2.2+ 
+en: Unsymmetrical monoazo compounds are named in two ways:  
+ru: Несимметричные моноазосоединения называют двумя способами:
+
+@List 1
+
+@item
+en: substitutively, by prefixing the names of the appropriate substituent groups, in alphabetical order, before the 
+parent hydride name diazene; 
+ru: по заместительной номенклатуре: названия соответствующих &(substituent group|ro*) располагают в алфавитном порядке 
+перед названием &(parent hydride|ro) — диазена;
+
+@item
+en: by inserting ‘azo’ between the names of the parent hydrides RH and R′H; the principal chain or the senior ring or 
+ring system is cited first and is assigned plain locants, the other parent hydride being given primed locants; when 
+locants are required to denote the points of attachment of the parent hydrides, they are placed immediately before or 
+after the prefix ‘azo’, respectively. 
+ru: путем вставки «азо» между названиями &(parent hydride|ro*) RH и R′H; при этом сначала указывают главную цепь или 
+старший цикл (либо циклическую систему), обозначая их локантами без штрихов, а для второго &(parent hydride|ro) 
+используют локанты со штрихами; если для указания точек присоединения &(parent hydride|ro*) требуются локанты, 
+их помещают непосредственно перед префиксом «азо» или после него соответственно.
+
+@End
+
+en: Method (1) leads to preferred IUPAC names.  
+ru: Способ (1) приводит к предпочтительным названиям ИЮПАК.
+
+@Examples
+
+@cell
+<$ CH2=CH-N=N-CH3 $>
+  
+en: ethenyl(methyl)diazene (PIN)  <br>
+methyl(vinyl)diazene  <br>
+etheneazomethane 
+ru: этенил(метил)диазен (PIN) <br>
+метил(винил)диазен <br>
+этеназометан
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)|`//`\`//`\`||/\\<|>/@n(1,-80)\\@n(2,-60)-N=#
+$slope(60)N-@n(1',-120)/@n(2',-120)=\`//`-`\\
+$>
+
+en: (naphthalen-2-yl)(phenyl)diazene (PIN)  <br>
+naphthalene-2-azobenzene (numbering shown) 
+ru: (нафталин-2-ил)(фенил)диазен (PIN) <br>
+нафталин-2-азобензол (показана нумерация)
+
+@End
+
+en: Monoazo compounds with the general structure <%a%> in which R is substituted by a principal characteristic group 
+are named on the basis of the parent hydride, RH, substituted by an organyl diazenyl group, <%b%>. If both R and R′ 
+are substituted by the same number of the principal characteristic group, a multiplicative name, using the prefix 
+‘diazenediyl’ for <%c%>, is preferred to a substitutive name. 
+ru: Моноазосоединения общей структуры <%a%>, в которых R замещен главной &(characteristic group|tv), называют на основе 
+&(parent hydride|ro) RH, замещенного органильной диазенильной группой <%b%>. Если R и R′ замещены одинаковым числом 
+главных &(characteristic group|ro*), то &(multiplicative name|da) (с использованием приставки «диазендиил» для <%c%>) 
+отдается предпочтение перед &(substitutive name|tv).
+%a: <$ {R}-N=N-{R′} $>
+%b: <$ {R′}-N=N–{} $>
+%c: <$ {}–N=N–{} $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\//-\\-N=N-@n(4,-120)/=\@n(1,-60)<`//`-`\\>-SO3H
+$>
+
+en: 4-(phenyldiazenyl)benzene-1-sulfonic acid (PIN) 
+ru: 4-(фенилдиазенил)бензол-1-&(sulfonic acid) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+NH2`/\`/`-r`/\\-//`\`-`\//-@n(2,-120)\@n(1,-70)-N=N-/<`\H3C>=\<-Cl>`//`-`\\
+$>
+
+en: 1-[(4-chloro-2-methylphenyl)diazenyl]naphthalen-2-amine (PIN)  <br>
+[not 2-aminonaphthalene-1-azo(4′-chloro-2′-methylbenzene) (see C-911.2, ref. 1);  <br>
+the principal characteristic group, the amine, must be denoted by a suffix] 
+ru: 1-[(4-хлор-2-метилфенил)диазенил]нафталин-2-амин (PIN) <br>
+[а не 2-аминонафталин-1-азо(4′-хлор-2′-метилбензол) (см. C-911.2, ссылка 1); <br>
+главная &(characteristic group) — аминогруппа — должна обозначаться суффиксом]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+OH`/\`/`-r`/\\-//`\`-`\//-\-N=N-@n(4,-120)/=\<`//`-`\\>@n(1,-70)-SO3H
+$>
+
+en: 4-[(2-hydroxynaphthalen-1-yl)diazenyl]benzene-1-sulfonic acid (PIN)  <br>
+4-[(2-hydroxy-1-naphthyl)azo]benzene-1-sulfonic acid 
+ru: 4-[(2-гидроксинафталин-1-ил)диазенил]бензол-1-&(sulfonic acid) (PIN)  <br>
+4-[(2-гидрокси-1-нафтил)азо]бензол-1-&(sulfonic acid)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-//-\\<`/`=`\>@n(4',-60)-N=N-@n(4,-120)/=\<-COOH>`//`-`\\
+$>
+
+en: 4,4′-diazenediyldibenzoic acid (PIN)  <br>
+(traditionally 4,4′-azodibenzoic acid) 
+ru: 4,4′-диазендиилдибензойная кислота (PIN)  <br>
+(традиционное название: 4,4′-азодибензойная кислота)
+
+@End
+
+#P-68.3.1.3.2.3+
+en: Bis(azo) compounds and more complex analogues, in the absence of a characteristic group having 
+seniority to be cited as suffix, are named: 
+ru: Бис(азо)соединения и более сложные аналоги при отсутствии &(characteristic group|ro), старшей по отношению к ним 
+и обозначаемой суффиксом, называют:
+
+@List 1
+
+@item
+en: on the basis of ‘diazene’, as described in P-68.3.1.3.2.1 above, the first cited substituent being chosen on the 
+basis of the principle of alphanumerical order; 
+ru: на основе названия «диазен», как описано выше в пункте P-68.3.1.3.2.1, причем первый из &(cited|ro*) &(substituent|ro*) 
+выбирают в соответствии с принципом алфавитно-цифрового порядка;
+
+@item
+en: by using the prefix ‘azo’, as described in P-68.3.1.3.2.1; 
+ru: путем использования приставки «азо-», как описано в P-68.3.1.3.2.1;
+
+@item
+en: by using the prefix ‘azo’ and, after choosing the principal parent hydride, substituting the other components as 
+an ‘organylazo’ group. 
+ru: с использованием префикса «азо-» и, после выбора основного &(parent hydride|ro), замещением остальных компонентов 
+в качестве группы «органилазо-».
+
+@End
+
+en: Method (1) generates preferred IUPAC names.  
+ru: Метод (1) позволяет получить предпочтительные названия по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\//-\\-N=N-@n(2,-110)$slope(30)||\//`|<`\\`/>/\\<|`//`\>@n(7,-70)-N=N-@n(2,-110)||\//`|<`\\@n(1)`/>/\\|<`//`\>\//`|`\\`/
+$>
+
+en: (1) {7-[(anthracen-2-yl)diazenyl]naphthalen-2-yl}(phenyl)diazene(PIN)  <br>
+{not (anthracen-2-yl)[7-(phenyldiazenyl)naphthalen-2-yl]diazene;  <br>
+each primary substituent has the same locant, i.e., none,  <br>
+so ‘anthracenyldiazenyl’ is alphabtically preferred to ‘anthracenylphenyl’}  <br>
+(2) anthracene-2-azo-2′-naphthalene-7′-azobenzene  <br>
+(3) 2-{[7-(phenylazo)naphthalen-2-yl]azo}anthracene 
+ru: (1) {7-[(антрацен-2-ил)диазенил]нафталин-2-ил}(фенил)диазен (PIN) <br>
+{не (антрацен-2-ил)[7-(фенилдиазенил)нафталин-2-ил]диазен; <br>
+каждый из основных заместителей имеет один и тот же локант, а именно — никакой, <br>
+поэтому название «антраценилдиазенил» имеет алфавитное преимущество перед «антраценилфенил»} <br>
+(2) антрацен-2-азо-2′-нафталин-7′-азобензол <br>
+(3) 2-{[7-(фенилазо)нафталин-2-ил]азо}антрацен
+
+@End
+
+en: When characteristic groups that have priority for citation as suffixes are present, the usual substitutive operations based 
+on priority of suffixes are carried out. Names based on the prefix ‘diazenyl’ are preferred to those using ‘azo’ for 
+generating preferred IUPAC names.
+ru: При наличии &(characteristic group|ro*), имеющих приоритет при обозначении суффиксами, выполняются обычные 
+&(substitutive operation|*), основанные на приоритете суффиксов. При формировании предпочтительных названий 
+по номенклатуре ИЮПАК предпочтение отдается названиям, содержащим префикс «диазенил», а не «азо».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/`=`\//-\\-N=N-@n(7,-110)$slope(30)/@n(8,-150)<`|OH>\\/<`|OH>@n(1,-30)\\@n(2,-70)<|`//`\<`|>`//`\`||>-N=N$slope()-/=\`//`-`\\
+$>
+
+en: 2,7-bis(phenyldiazenyl)naphthalene-1,8-diol (PIN)  <br>
+2,7-bis(phenylazo)naphthalene-1,8-diol 
+ru: 2,7-бис(фенилдиазенил)нафталин-1,8-диол (PIN)  <br>
+2,7-бис(фенилазо)нафталин-1,8-диол
+
+@End
 
 
 #P-68.3.1.3.3
 en: Azoxy compounds, <%a%>
+ru: Азоксисоединения, <%a%>
 %a: <$ {R}-N=N(O)-{R′} $>  
+
+#P-68.3.1.3.3.1+
+en: _N_-Oxides of azo compounds having the general structure <%a%> (R = R′ or R ≠ R′) are known 
+generically as ‘azoxy compounds’. Their nomenclature was revised in 1993 (ref. 2) and is used in these 
+recommendations. Azoxy compounds are named in two different ways:
+ru: _N_-Оксиды азосоединений, имеющие общую структуру <%a%> (R = R′ или R ≠ R′), в общем случае называются 
+«азоксисоединениями». Их номенклатура была пересмотрена в 1993 г. (ссылка 2), и именно она используется 
+в данных рекомендациях. Азоксисоединения называют двумя способами:
+%a: <$ {R}-N2(O)-{R′} $>
+
+@List 1
+
+@item
+en: by adding the term ‘oxide’ to the name of the corresponding azo compound, preceded by a locant 1 or 2; 
+ru: путем добавления термина «оксид» к названию соответствующего азосоединения с указанием перед ним локанта 1 или 2;
+
+@item
+en: in the traditional way of replacing the prefix ‘azo’ by ‘azoxy’ and using the locants _NNO_ and _ONN_ to indicate 
+the parent hydride associated with the =N(O) group. In the general structure <%a%>, the symbol _NNO_ specifies 
+that the oxygen atom is attached to the nitrogen atom next to the R′ group. The symbol _ONN_ specifies that the 
+oxygen atom is attached to the nitrogen atom next to the R group. When the point of attachment is not known, the 
+symbol _NON_ is used. 
+ru: традиционным способом — заменой префикса «азо-» на «азокси-» и использованием локантов _NNO_ и _ONN_ для 
+обозначения того атома азота (в составе &(parent hydride|ro)), с которым связана группа =N(O). В общей структуре <%a%> 
+символ _NNO_ указывает, что атом кислорода присоединен к атому азота, соседствующему с группой R′. Символ _ONN_ указывает, 
+что атом кислорода присоединен к атому азота, соседствующему с группой R. Если место присоединения неизвестно, 
+используется символ _NON_.
+%a: <$ {R}-N(O)N-{R′} $>
+
+@End
+
+en: Method (1) leads to preferred IUPAC names. Azoxy compounds could also be named by using the λ-convention or as 
+zwitterions. 
+ru: Способ (1) позволяет получить предпочтительные названия по номенклатуре ИЮПАК. Азоксисоединения также могут быть 
+названы с использованием &(l-convention|ro) или как цвиттер-ионы.
+
+@Examples
+
+@cell
+<$ C6H5-N=N(O)-C6H5 $>
+  
+en: (1) diphenyldiazene oxide (PIN)  <br>
+(2) azoxybenzene  <br>
+1-oxo-1,2-diphenyl-1λ^{5}-diazene (see P-74.2.2.1.4)  <br>
+(diphenyldiazeniumyl)oxidanide (see P-74.2.2.1.4)
+
+@cell
+<$
+`//`-`\\/=</Cl>\-N2(O)-{}_(h)\\-//<-Cl>`\`=<`\Cl>`/
+$>
+
+en: (2-chlorophenyl)(2,4-dichlorophenyl)diazene oxide (PIN)  <br>
+(the absence of locants indicates that the points of attachment are not known)  <br>
+2,2′,4-trichloroazoxybenzene
+ru: (2-хлорфенил)(2,4-дихлорфенил)диазен оксид (PIN) <br>
+(отсутствие локантов указывает на то, что точки крепления неизвестны) <br>
+2,2',4-трихлоразоксибензол
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)Cl|\|`//`\`//`\`||/\\<|>/\-N@n(1)=N@n(2)(O)-{}_(h)$slope(60)/=\`//`-`\\
+$>
+
+en: 1-(1-chloronaphthalen-2-yl)-2-phenyldiazene 2-oxide (PIN)  <br>
+1-chloro-2-(phenyl-_ONN_-azoxy)naphthalene
+ru: 1-(1-хлорнафталин-2-ил)-2-фенилдиазен 2-оксид (PIN) <br>
+1-хлор-2-(фенил-_ONN_-азокси)нафталин
+
+@End
+
+#P-68.3.1.3.3.2+
+en: An azoxy compound, according to the general seniority given to zwitterions over suffixes expressing 
+characteristic groups, is preferably named as a derivative of diazene oxide, unless some other priority is given to 
+another radical or ionic group. In general nomenclature, the traditional method for naming azoxy compounds is 
+maintained. An azoxy compound in which the general structure is <%a%> or <%b%>, in which R is 
+substituted by a principal characteristic group is named on the basis of the parent hydride, RH, substituted by the  
+R′-azoxy group in which the position of the oxygen atom is denoted by the prefix _NNO_-, _ONN_-, or _NON_-, as 
+appropriate.
+ru: В соответствии с общим правилом, согласно которому цвиттер-ионы имеют преимущество перед суффиксами, обозначающими 
+&(characteristic group|*), азоксисоединение предпочтительно называть производным диазен-оксида, если только приоритет 
+не отдан другому радикалу или ионной группе. В общей номенклатуре сохраняется традиционный способ наименования 
+азоксисоединений. Азоксисоединение, имеющее общую структуру <%a%> или <%b%>, в которой радикал R замещен главной 
+&(characteristic group|tv), называют как производное &(parent hydride|ro) RH, замещенного группой R′-азокси, причем 
+положение атома кислорода обозначают соответствующим префиксом: _NNO_-, _ONN_- или _NON_-.
+%a: <$ {R}-N=N(O)-{R′} $>
+%b: <$ {R′}-N=N(O)-{R} $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)COOH|\|`//`\`//`\`||/\\<|>/\-N@n(1)=N@n(2)(O)-{}_(h)$slope(60)/=\`//`-`\\
+$>
+
+en: 1-(1-carboxynaphthalen-2-yl)-2-phenyldiazene 2-oxide (PIN)  <br>
+2-(phenyl-_ONN_-azoxy)naphthalene-1-carboxylic acid  <br>
+[not 2-(phenyl-_ONN_-azoxy)-1-naphthoic acid;  <br>
+no substitution allowed on naphthoic acid] 
+ru: 1-(1-карбоксинафталин-2-ил)-2-фенилдиазен 2-оксид (PIN) <br>
+2-(фенил-_ONN_-азокси)нафталин-1-карбоновая кислота <br>
+[не 2-(фенил-_ONN_-азокси)-1-нафтойная кислота; <br>
+замещение в нафтойной кислоте не допускается]
+
+@End
+
+en: When the azoxy compound has to be expressed by a prefix, substitutive nomenclature using the λ-convention is 
+preferred (see P-14.1). 
+ru: Если азокси-соединение необходимо обозначать с помощью префикса, предпочтение отдается &(substitutive nomenclature|da) 
+с использованием &(l-convention|ro) (см. P-14.1).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:w(){}<_(a-90,~,L.6){}>_(a90,L.6,~){}@;
+$slope(30)|`//`\`//`\`||/\\<|>/<`|@w()>@n(1,-40)\\@n(2,-70)-N=N(O)-{}_(h)$slope(60)/=\`//`-`\\
+$>
+
+en: 2-(2-phenyl-2-oxo-2λ^{5}-diazenyl)naphthalen-1-yl (preferred prefix)  <br>
+2-(2-oxido-2-phenyldiazen-2-ium-1-yl)naphthalen-1-yl 
+ru: 2-(2-фенил-2-оксо-2λ^{5}-диазенил)нафталин-1-ил (&(preferred prefix)) <br>
+2-(2-оксидо-2-фенилдиазен-2-ий-1-ил)нафталин-1-ил
+
+@End
 
 #P-68.3.1.3.4
 en: Diazenecarbohydrazide, <%a%>
 %a: <$ HN=N-CO-NH-NH2 $>
+
+en: The hydrazide of ‘diazenecarboxylic acid’, <%a%>, is named systematically ‘diazenecarbohydrazide’; it is 
+the preferred IUPAC name. The name ‘carbazone’ is not recommended. Chalcogen analogues are named by using the 
+infixes and the prefixes ‘thio’, ‘seleno’, and ‘telluro’. 
+ru: Гидразид «диазенкарбоновой кислоты», <%a%>, систематически называется «диазенкарбогидразид»; 
+это предпочтительное название по номенклатуре ИЮПАК. Название «карбазон» не рекомендуется. &(Chalcogen analogue|*) 
+называют с использованием инфиксов и префиксов «тио-», «селено-» и «теллуро-».
+%a: <$ HN=N-CO-NH-NH2 $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+HN@n(2)=N@n(1)-CO-NH@Nx()-NH2@Nx(′)
+$>
+
+en: diazenecarbohydrazide (PIN) 
+ru: диазенкарбогидразид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+HN@n(2)=N@n(1)-CS-NH@Nx()-NH2@Nx(′)
+$>
+
+en: diazenecarbothiohydrazide (PIN) 
+ru: диазенкарботиогидразид (PIN)
+
+@End
+
+en: **Note:** Numerical locants that were used for the name ‘carbazone’ that is now abandoned are not transferred to the 
+preferred IUPAC name ‘diazenecarbohydrazide’. 
+ru: **Примечание:** Цифровые локанты, использовавшиеся для названия «карбазон» (которое в настоящее время выведено 
+из употребления), не переносятся на предпочтительное название по номенклатуре ИЮПАК — «диазенкарбогидразид».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-N@n(2)=N@n(1)-CO-NH@Nx()-NH@Nx(′)-C6H5
+$>
+
+en: _N_′,2-diphenyldiazenecarbohydrazide (PIN) 
+ru: _N_′,2-дифенилдиазенкарбогидразид (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+C6H5-N@n(2)=N@n(1)-CS-NH@Nx()-NH@Nx(′)-C6H5
+$>
+
+en: _N_′,2-diphenyldiazenecarbothiohydrazide (PIN)
+ru: _N_′,2-дифенилдиазенкарботиогидразид (PIN)
+
+@End
+
+en: As a prefix, the group <%a%> is named ‘2-(diazenecarbonyl)hydrazin-1-yl’ or ‘diazenecarbohydrazido’ 
+(preferred prefix). The name ‘carbazono’ is not recommended. 
+ru: В качестве префикса группа <%a%> называется «2-(диазенкарбонил)гидразин-1-ил» или «диазенкарбогидразидо» 
+(&(preferred prefix)). Название «карбазоно» не рекомендуется.
+%a: <$ {}–HN-NH-CO-N=NH $>
+
+en: The group <%a%> is named ‘(hydrazinecarbonyl)diazenyl’. 
+ru: Группа <%a%> называется «(гидразинкарбонил)диазенил».
+%a: <$ H2N-NH-CO-N=N–{} $>
+
+@Examples
+
+@cell
+<$ HN=N-CO-NH-NH-CH2-CH2-COO-CH2-CH3 $>
+  
+en: ethyl 3-(diazenecarbohydrazido)propanoate (PIN) <br>
+ethyl 3-[2-(diazenecarbonyl)hydrazin-1-yl]propanoate  
+ru: этил 3-(диазенкарбогидразидо)пропаноат (PIN) <br>
+этил 3-[2-(диазенкарбонил)гидразин-1-ил]пропаноат 
+
+@End
  
 #P-68.3.1.3.5
 en: Formazan, <%a%>
 %a: <$ H2N-N=CH-N=NH $> 
+
+en: The hydrazone of diazenecarbaldehyde, <%a%>, has the retained name, which is also the preferred IUPAC 
+name ‘formazan’; it is numbered in a special manner. It can also be named substitutively as a derivative of the parent 
+hydride ‘hydrazine’; its derivatives are named accordingly. 
+ru: Гидразон диазенкарбальдегида, <%a%>, имеет &(retained name) — «формазан», которое также является предпочтительным 
+названием по номенклатуре ИЮПАК; его нумерация осуществляется особым образом. Это соединение можно также называть 
+по заместительной номенклатуре как производное &(parent hydride|ro) «гидразин»; названия его производных строятся 
+соответствующим образом.
+%a: <$ H2N-N=CH-N=NH $>
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4)=CH@n(3)-N@n(2)=NH@n(1)
+$>
+
+en: formazan (PIN) 
+ru: формазан (PIN) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(2)-N@n(1)=CH-N=NH
+$>
+
+en: (diazenylmethylidene)hydrazine 
+ru: (диазенилэтилиден)гидразин
+
+@End
+
+#P-68.3.1.3.5.1
+en: Derivatives of formazan
+ru: Производные формазана
+
+en: Preferred names are constructed systematically as derivatives of formazan when prefixes only are present or when the 
+principal characteristic group is attached directly to the formazan structure. Otherwise, the functionalized formazan 
+parent must be expressed according to the seniority rules applied in constructing names (see P-4). 
+ru: Предпочтительные названия образуются систематически как производные формазана в тех случаях, когда присутствуют 
+только префиксы или когда главная &(characteristic group) присоединена непосредственно к структуре формазана. 
+В противном случае название функционализированного производного формазана должно формироваться в соответствии с правилами 
+старшинства, применяемыми при построении названий (см. P-4).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4)=C@n(3)(C6H5)-N@n(2)=N@n(1)-C6H5
+$>
+
+en: 1,3-diphenylformazan (PIN)  <br>
+[phenyl(phenyldiazenyl)methylidene]hydrazine  <br>
+phenyl(phenyldiazenyl)methanone hydrazone
+ru: 1,3-дифенилформазан (PIN) <br>
+[фенил(фенилдиазенил)метилиден]гидразин <br>
+фенил(фенилдиазенил)метанон гидразон
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-N@n(5)H-N@n(4)=C@n(3)(C6H5)-N@n(2)=NH@n(1)
+$>
+
+en: 3,5-diphenylformazan (PIN)  <br>
+[diazenyl(phenyl)methylidene]phenylhydrazine  <br>
+phenyl(diazenyl)methanone 2-phenylhydrazone 
+ru: 3,5-дифенилформазан (PIN) <br>
+[диазенил(фенил)метилиден]фенилгидразин <br>
+фенил(диазенил)метанон 2-фенилгидразон
+
+@cell
+<$
+@:n(n,a:-90,L:.5)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-N@n(5)H-N@n(4)=C@n(3,90)<$L(1.1)`|COOH$L()>-N@n(2)=N@n(1)-C6H5
+$>
+
+en: 1,5-diphenylformazan-3-carboxylic acid (PIN)  <br>
+(phenyldiazenyl)(phenylhydrazinylidene)acetic acid 
+ru: 1,5-дифенилформазан-3-карбоновая кислота (PIN) <br>
+(фенилдиазенил)(фенилгидразинилиден)уксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-NH-N=C@n(1,90)<`|CO@n(2)-CH3>-N=N-C6H5
+$>
+
+en: 1-(phenyldiazenyl)-1-(phenylhydrazinylidene)propan-2-one (PIN)  <br>
+3-acetyl-1,5-diphenylformazan
+ru: 1-(фенилдиазенил)-1-(фенилгидразинилиден)пропан-2-он (PIN) <br>
+3-ацетил-1,5-дифенилформазан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-NH-N=C@n(2,90)<`|CO@n(1)-C6H5>-N=N-C6H5
+$>
+
+en: 1-phenyl-2-(phenyldiazenyl)-2-(phenylhydrazinylidene)ethan-1-one (PIN)  <br>
+3-benzoyl-1,5-diphenylformazan 
+ru: 1-фенил-2-(фенилдиазенил)-2-(фенилгидразинилиден)этан-1-он (PIN) <br>
+3-бензоил-1,5-дифенилформазан
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:Nx(x,a:-80,L:.55)@n(\textit{N}&x,&a,&L)@;
+CH3-CO-NH@Nx()-N@Nx(′)=CH-N=N-C6H5
+$>
+
+en: _N_′-[(phenyldiazenyl)methylidene]acetohydrazide (PIN) 
+ru: _N_′-[(фенилдиазенил)метилиден]ацетогидразид (PIN)
+
+@End
+
+#P-68.3.1.3.5.2
+en: Prefixes derived from formazan for substitutive nomenclature 
+ru: Префиксы, производные от формазана, для &(substitutive nomenclature|ro)
+
+en: Substituent groups derived from formazan are as follows; retained names lead to preferred IUPAC prefixes. 
+ru: Ниже приведены &(substituent group|*), производные от формазана; &(retained name|*) соответствуют 
+предпочтительным префиксам по номенклатуре ИЮПАК.
+
+@Examples 3 -- .left-aligned-cells
+
+@cell
+
+@cell
+en: **Preferred prefix**
+ru: **&(Preferred prefix)**
+
+@cell
+en: **Systematic prefix**
+ru: **Систематический префикс**
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4)=CH@n(3)-N@n(2)=N@n(1)-{}
+$>
+
+@cell
+en: formazan-1-yl
+ru: формазан-1-ил
+
+@cell
+en: (hydrazinylidenemethyl)diazenyl 
+ru: (гидразинилиденметил)диазенил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1)=N@n(2)-CH@n(3)=N@n(4)=NH@n(5)-{}
+$>
+
+@cell
+en: formazan-5-yl 
+ru: формазан-5-ил
+
+@cell
+en: (diazenylmethylidene)hydrazinyl
+ru: (диазенилметилиден)гидразинил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(5)-N@n(4)=C@n(3,90)<`|{}>-N@n(2)=NH@n(1)
+$>
+
+@cell
+en: formazan-3-yl
+ru: формазан-3-ил
+
+@cell
+en: diazenyl(hydrazinylidene)methyl 
+ru: диазенил(гидразинилиден)метил
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-HN@n(5)-N@n(4)=CH@n(3)-N@n(2)=N@n(1)-{}
+$>
+
+@cell
+en: formazan-1,5-diyl
+ru: формазан-1,5-диил
+
+@cell
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1)=N@n(2)-C@n(3,90)<`|{}>=N@n(4)-NH@n(5)-{}
+$>
+
+@cell
+en: formazan-3,5-diyl
+ru: формазан-3,5-диил
+
+@cell
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}=N@n(5)-N@n(4)=CH@n(3)-N@n(2)=N@n(1)-{}
+$>
+
+@cell
+en: formazan-1-yl-5-ylidene
+ru: формазан-1-ил-5-илиден
+
+@cell
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}=N@n(5)-N@n(4)=C@n(3,90)<`|{}>-N@n(2)=NH@n(1)
+$>
+
+@cell
+en: formazan-3-yl-5-ylidene
+ru: формазан-3-ил-5-илиден
+
+@cell
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+{}-NH@n(5)-N@n(4)=C@n(3,90)<`|{}>-N@n(2)=N@n(1)-{}
+$>
+
+@cell
+en: formazan-1,3,5-triyl 
+ru: формазан-1,3,5-триил
+
+@End
+
+
+// ------------------
 
 #P-68.3.1.3.6
 en: Carbodiazone [bis(diazenyl)methanone], <%a%>
