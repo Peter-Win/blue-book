@@ -133,6 +133,7 @@
   "bridged fused ring system|pr*": "системах мостиковых конденсированных колец",
 
   "bridged fused ring name": "название мостикового конденсированного кольца",
+  "bridged fused ring name|ro*": "названий мостиковых конденсированных колец",
 
   "bridged ring system": "система мостиковых колец",
   "bridged ring system|ro": "системы мостиковых колец",
@@ -795,6 +796,8 @@
   "parent phane hydrocarbon": "исходный фановый углеводород",
   "parent phane hydrocarbon|ro": "исходного фанового углеводорода",
   "parent phane hydrocarbon|da": "исходному фановому углеводороду",
+
+  "parent radical|ro": "исходного радикала",
 
   "parent ring|ro": "исходного кольца",
   "parent ring|tv": "исходным кольцом",

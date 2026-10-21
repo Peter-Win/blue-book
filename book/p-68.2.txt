@@ -2865,22 +2865,214 @@ ru: формазан-1,3,5-триил
 
 @End
 
+@Examples
 
-// ------------------
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-NH-N=C@n(3,90)<-N=N-C6H5>`|CH2@n(2)-COOH@n(1)
+$>
+
+en: 3-(phenyldiazenyl)-3-(phenylhydrazinylidene)propanoic acid (PIN;  <br>
+propanoic acid is preferred to acetic acid)  <br>
+(1,5-diphenylformazan-3-yl)acetic acid 
+ru: 3-(фенилдиазенил)-3-(фенилгидразинилиден)пропановая кислота (PIN; <br>
+«пропановая кислота» старше, чем «уксусная кислота») <br>
+(1,5-дифенилформазан-3-ил)уксусная кислота
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)OH|\|`//<|SO3H>@n(1,150)`\`||/@n(4,-40)\@n(3,-70)-NH-N=C<`|CN>-N=N-||\<|SO3H>//`|`\\<`/>`|OH
+$>
+
+en: 3,3′-(3-cyanoformazan-1,5-diyl)bis(4-hydroxybenzene-1-sulfonic acid) (PIN)  <br>
+3-(2-{cyano[(2-hydroxy-5-sulfophenyl)diazenyl]methylidene}hydrazinyl)-4-hydroxybenzene-1-sulfonic acid  <br>
+{not 3-({cyano[(2-hydroxy-5-sulfophenyl)hydrazinylidene]methyl}diazenyl)-4-hydroxybenzene-1-sulfonic acid  <br>
+‘cyanohydroxysulfophenyldiazenyl...’ is lower alphabetically than ‘cyanohydroxysulfophenylhydrazinylidene...’} 
+ru: 3,3′-(3-цианоформазан-1,5-диил)бис(4-гидроксибензол-1-&(sulfonic acid)) (PIN) <br>
+3-(2-{циано[(2-гидрокси-5-сульфофенил)диазенил]метилиден}гидразинил)-4-гидроксибензол-1-сульфоновая кислота <br>
+{не 3-({циано[(2-гидрокси-5-сульфофенил)гидразинилиден]метил}диазенил)-4-гидроксибензол-1-сульфоновая кислота <br>
+«цианогидроксисульфофенилдиазенил...» стоит в алфавитном порядке раньше, чем «цианогидроксисульфофенилгидразинилиден...»}
+
+@End
 
 #P-68.3.1.3.6
 en: Carbodiazone [bis(diazenyl)methanone], <%a%>
+ru: Карбодиазон [бис(диазенил)метанон], <%a%>
 %a: <$ HN=N-CO-N=NH $>  
+
+en: The compound <%a%> is named systematically bis(diazenyl)methanone; its hydrocarbyl derivatives are 
+named substitutively. Such names are preferred IUPAC names over those denoted by the retained name ‘carbodiazone’, 
+which can be used in general nomenclature with full substitution according to a special numbering. The name 
+‘bis(diazenyl)methanone’ is preferred to 1,1′-carbonylbis(diazene) simply because a ketone, expressed by the suffix 
+‘one’, is senior to the parent structure ‘diazane’ or ‘diazene’ (see P-41). 
+ru: Систематическое название соединения <%a%> — бис(диазенил)метанон; его углеводородные производные именуются по 
+принципу замещения. Такие названия являются предпочтительными по номенклатуре ИЮПАК (PIN) по сравнению с наименованием 
+&(retained name|tv) «карбодиазон», которое может использоваться в общей номенклатуре при условии полного замещения 
+согласно специальной системе нумерации. Название «бис(диазенил)метанон» предпочтительнее названия 
+«1,1′-карбонилбис(диазен)» просто потому, что кетон (обозначаемый суффиксом «-он») является старшей структурной единицей 
+по отношению к &(parent structure|pr) «диазан» или «диазен» (см. P-41).
+%a: <$ HN=N-CO-N=NH $>
+
+en: Chalcogen analogues of bis(diazenyl)methanone are also named systematically as bis(diazenyl)methanethione, -selone, 
+and -tellone, respectively. The prefixes thio, seleno, and telluro are used with the name carbodiazone in general 
+nomenclature. 
+ru: &(Chalcogen analogue|*) бис(диазенил)метанона в систематической номенклатуре именуются соответственно как 
+бис(диазенил)метантион, -селон и -теллон. В общей номенклатуре с названием «карбодиазон» используются приставки «тио-», 
+«селено-» и «теллуро-».
+
+@Examples
+
+@cell
+<$ HN=N-CO-N=NH  $>
+
+en: bis(diazenyl)methanone (PIN)  <br>
+[not 1,1′-carbonylbis(diazene)] 
+ru: бис(диазенил)метанон (PIN) <br>
+[не 1,1'-карбонилбис(диазен)]
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(1)=N@n(2)-CO@n(3)-N@n(4)=NH@n(5)
+$>
+
+en: carbodiazone
+ru: карбодиазон
+
+@cell
+<$ HN=N-CS-N=NH  $>
+
+en: bis(diazenyl)methanethione (PIN)  <br>
+thiocarbodiazone 
+ru: бис(диазенил)метантион (PIN) <br>
+тиокарбодиазон
+
+@cell
+<$ HN=N-CO-N=N–{}  $>
+
+en: (diazenecarbonyl)diazenyl (preferred prefix) 
+ru: (диазенкарбонил)диазенил (&(preferred prefix))
+
+@cell
+<$ C6H5-N=N-CO-N=N-C6H5 $>
+  
+en: bis(phenyldiazenyl)methanone (PIN)  <br>
+1,5-diphenylcarbodiazone 
+ru: бис(фенилдиазенил)метанон (PIN) <br>
+1,5-дифенилкарбодиазон
+
+@End
 
 #P-68.3.1.3.7
 en: Isodiazene, <%a%>
+ru: Изодиазен, <%a%>
 %a: <$ {R}2N^+=N^– $> 
 
-//------------------------
+en: Compounds with the general structure <%a%> are called ‘isodiazenes’ generically and are named 
+substitutively on the basis of the parent radical ‘hydrazinylidene’, <%b%>. This method leads to preferred IUPAC 
+names rather than the names based on the parent hydride name ‘isodiazene’. 
+ru: Соединения с общей структурой <%a%> в общем случае называются «изодиазенами», а их названия образуются 
+по заместительной номенклатуре на основе &(parent radical|ro) «гидразинилиден» <%b%>. Этот подход позволяет получить 
+предпочтительные названия по номенклатуре ИЮПАК — в отличие от названий, основанных на наименовании 
+&(parent hydride|ro) «изодиазен».
+%a: <$ {R}2N-N":" <-> {R}2N^+=N^– $>
+%b: <$ H2N-N":" $>
+
+@Examples
+
+@cell
+<$ (CH3)2N-N":" $>  
+
+en: dimethylhydrazinylidene (PIN)  <br>
+dimethylisodiazene 
+ru: диметилгидразинилиден (PIN) <br>
+диметилизодиазен
+
+@End
+
 
 #P-68.3.1.4
 en: Polyazanes 
 ru: Полиазаны
+
+#P-68.3.1.4.1+
+en: Acyclic polyazanes are saturated chains of nitrogen atoms; hydrazine is the retained name and the 
+preselected name for diazane, <%a%>. Names are formed by prefixing the mononuclear parent hydride name ‘azane’ 
+with an appropriate numerical prefix and numbered in the same way as hydrocarbons. The parent hydrides are 
+preselected names (see P-12.2). The final ‘a’ of a numerical prefix is not elided before ‘azane’. 
+ru: Ациклические полиазаны представляют собой насыщенные цепи из атомов азота; «гидразин» — это &(retained name), 
+которое также является &(preselected name|tv) для диазана, <%a%>. Названия образуются путем добавления соответствующей 
+числительной приставки к названию &(mononuclear [hydride]|ro) &(parent hydride|ro) «азан»; нумерация осуществляется так же, 
+как и в случае с углеводородами. &(Parent hydride|*) являются предпочтительными названиями (см. P-12.2). 
+Конечная гласная «а» в числительной приставке перед словом «азан» не опускается.
+%a: <$ H2N-NH2 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(1)-NH@n(2)-NH2@n(3)
+$>
+
+en: 1-methyltriazane (PIN) 
+ru: 1-метилтриазан (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-NH@n(1)-N@n(2)(CH3)-NH@n(3)-NH2@n(4)
+$>
+
+en: 1,2-dimethyltetraazane (PIN) 
+ru: 1,2-диметилтетраазан (PIN)
+
+@End
+
+en: The corresponding prefixes are named according to the general method described in P-29. The traditional names 
+‘triazano’ and ‘triazeno’, now called epitriazano and epitriazeno (see P-25.4.2.1.4), are names of bridges in bridged 
+fused ring names and must not be used as substituent group names. 
+ru: Соответствующие префиксы именуются в соответствии с общим методом, описанным в разделе P-29. Традиционные названия 
+«триазано» (triazano) и «триазено» (triazeno) — ныне именуемые «эпитриазано» и «эпитриазено» (см. P-25.4.2.1.4) — 
+представляют собой названия мостиков в составе &(bridged fused ring name|ro*); 
+их не следует использовать в качестве названий заместителей.
+
+@p .framed
+en: The formation of systematic prefix names, i.e., triazan-1-yl, etc., as described in P-29, must be considered a change 
+even though the names triazano, tetrazano, etc., previously used as names for bridges in the naming of bridge fused 
+ring systems, are no longer used as such and have been replaced by the names ‘epitriazano’, etc. (see P-25.4.2.1.4). 
+ru: Образование систематических префиксных названий (например, триазан-1-ил и т. д.), описанное в разделе P-29, следует 
+рассматривать как изменение, даже несмотря на то, что названия «триазано», «тетразано» и т. п., ранее применявшиеся для 
+обозначения мостиков в названиях &(fused ring system|ro*), больше не используются в этом качестве и были заменены 
+на названия «эпитриазано» и т. п. (см. P-25.4.2.1.4).
+
+@Examples --
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+H2N@n(3)-NH@n(2)-NH@n(1)-{}
+$>
+
+en: triazan-1-yl (preselected prefix)  <br>
+(not triazano) 
+ru: триазан-1-ил (&(preselected prefix)) <br>
+(не триазано)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HN@n(3)=N@n(2)-NH@n(1)-{}
+$>
+
+en: triaz-2-en-1-yl (preselected prefix)  <br>
+(not triaz-2-eno) 
+ru: триаз-2-ен-1-ил (&(preselected prefix)) <br>
+(не триаз-2-ено)
+
+@End
 
 // ============================
 
