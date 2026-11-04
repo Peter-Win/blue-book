@@ -1,0 +1,550 @@
+#P-68.4
+en: Nomenclature for compounds of the Group 16 elements 
+ru: Номенклатура соединений элементов 16-й Группы
+
+@Content
+
+#P-68.4.0
+en: Introduction
+ru: Введение 
+
+en: The nomenclature of compounds containing chalcogen atoms depends on the number and kind of chalcogen atoms 
+present. When one or two contiguous chalcogen atoms are present, chalcogen atoms are not used as parent hydrides, 
+except for sulfones and disulfones when they are able to be expressed as described in previous sections. Hydroxy 
+compounds, ethers, peroxols, peroxides, and their chalcogen analogues are described in P-63. However, when three or 
+more contiguous identical chalcogen atoms are present these chalcogen atoms are always treated as parent hydrides in 
+the normal way. 
+ru: Номенклатура соединений, содержащих атомы халькогенов, зависит от количества и типа присутствующих атомов халькогенов. 
+Если в соединении имеется один или два соседствующих атома халькогена, то сами эти атомы не рассматриваются в качестве 
+&(parent hydride|ro*) (за исключением сульфонов и дисульфонов, если их можно обозначить в соответствии с правилами, 
+описанными в предыдущих разделах). Гидроксисоединения, простые эфиры, пероксолы, пероксиды и их &(chalcogen analogue|*) 
+рассматриваются в разделе P-63. Однако, если присутствуют три или более соседствующих одинаковых атома халькогена, 
+то такие цепочки атомов халькогенов всегда рассматриваются как &(parent hydride|*) — в соответствии с общепринятыми правилами.
+
+en: Sulfoxides and sulfones are also included in this type of nomenclature (see P-63.6). 
+ru: К этому типу номенклатуры также относятся сульфоксиды и сульфоны (см. P-63.6).
+
+#P-68.4.1
+en: Three or more homogeneous contiguous chalcogen atoms  
+ru: Три или более однородных смежных атома халькогена
+
+#P-68.4.1.1+
+en: Compounds with three or more contiguous identical chalcogen atoms are treated as parent hydrides in substitutive nomenclature. 
+ru: В &(substitutive nomenclature|pr) соединения, содержащие три или более непосредственно связанных одинаковых атома халькогена, 
+рассматриваются как &(parent hydride|*).
+
+@Examples
+
+@cell
+<$ HO-O-OH  $>
+
+en: trioxidane (preselected name) 
+ru: триоксидан (&(preselected name))
+
+@cell
+<$ CH3-S-S-SH  $>
+
+en: methyltrisulfane (PIN) 
+ru: метилтрисульфан (PIN)
+
+@cell
+<$ CH3-O-O-O-CH3 $>
+  
+en: dimethyltrioxidane (PIN)  <br>
+dimethyl trioxide 
+ru: диметилтриоксидан (PIN) <br>
+диметил триоксид
+
+@cell
+<$ CH3-S-S-S-CH3 $>
+  
+en: dimethyltrisulfane (PIN)  <br>
+dimethyl trisulfide 
+ru: диметилтрисульфан (PIN) <br>
+диметил трисульфид
+
+@cell
+<$ C6H5-Se-Se-Se-CH3 $>
+  
+en: methyl(phenyl)triselane (PIN)  <br>
+methyl phenyl triselenide 
+ru: метил(фенил)триселан (PIN) <br>
+метил фенил триселенид
+
+@cell
+<$ C6H5-Se-Se-Se-C6H5 $>
+  
+en: diphenyltriselane (PIN)  <br>
+diphenyl triselenide  <br>
+(not triselanediyldibenzene) 
+ru: дифенилтриселан (PIN) <br>
+дифенил триселенид <br>
+(не триселандиилдибензол)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-SO2-Te@n(1)-Te@n(2)-Te@n(3)-SO2-OH
+$>
+
+en: tritellanedisulfonic acid (preselected name)  <br>
+tritelluropentathionic acid (traditional name)
+ru: трителланеди&(sulfonic acid) (&(preselected name)) <br>
+трителуропентатионовая кислота (традиционное название)
+
+@cell
+<$ HO-SO2-S-S-S-SO2-OH  $>
+
+en: trisulfanedisulfonic acid (preselected name)  <br>
+pentathionic acid (traditional name) 
+ru: трисульфандисульфоновая кислота (&(preselected name)) <br>
+пентатионовая кислота (традиционное название)
+
+@cell
+<$ CH3-SeSeSe-O-SH  $>
+
+en: methyltriselane-_OS_-thioperoxol (PIN)  <br>
+_O_-(methyltriselanyl) thiohydroperoxide 
+ru: метилтриселанил-_OS_-тиопероксол (PIN) <br>
+_O_-(метилтриселанил) тиогидропероксид
+
+@cell
+<$ H-TeTeTe-SeSe-H  $>
+
+en: tritellane(diselenoperoxol) (preselected name)  <br>
+tritelluryl diselenohydroperoxide 
+ru: трителлан(диселенопероксол) (&(preselected name)) <br>
+трителлурил диселеногидропероксид
+
+@cell
+<$ C6H5-SSS-OH  $>
+
+en: phenyltrisulfanol (PIN) 
+ru: фенилтрисульфанол (PIN) 
+
+@cell
+<$ CH3-TeTeTeTe-SH  $>
+
+en: methyltetratellanethiol (PIN)
+ru: метилтетрателлантиол (PIN)
+
+@End
+
+#P-68.4.1.2+
+en: Multiplicative nomenclature is used if conditions for its use are fulfilled. Central substituent groups are 
+derived from the general method for generating divalent substituent groups (see P-29.3.2.2). 
+ru: &(Multiplicative nomenclature) используется, если соблюдены условия для её применения. Центральные &(substituent group|*) 
+образуются согласно общему методу формирования двухвалентных заместительных групп (см. P-29.3.2.2).
+
+@Examples --
+
+@cell
+<$ {}–O-O-O–{}  $>
+
+en: trioxidanediyl (preselected prefix)  <br>
+trioxy
+ru: триоксидандиил (&(preselected prefix)) <br>
+триокси
+
+@cell
+<$ {}–S-S-S–{} $> 
+
+en: trisulfanediyl (preselected prefix)  <br>
+trithio
+ru: трисульфанедиил (&(preselected prefix)) <br>
+тритио
+
+@cell
+<$ {}–Se-Se-Se-Se–{}  $>
+
+en: tetraselanediyl (preselected prefix) <br> 
+tetraseleno
+ru: тетраселендиил (&(preselected prefix)) <br>
+тетраселено
+
+@End
+
+@Examples
+
+@cell
+<$ HS-S-S-CH2-S-S-SH  $>
+
+en: 1,1′-methylenebis(trisulfane) (PIN) 
+ru: 1,1'-метиленбис(трисульфан) (PIN)
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HOOC-@n(1′,-120)/=\@n(4′,-50)<`//`-`\\>-Se-Se-Se-@n(4,-120)/=\@n(1,-60)<-COOH>`//`-`\\
+$>
+
+en: 4,4′-triselanediyldibenzoic acid (PIN)  <br>
+4,4′-triselenodibenzoic acid 
+ru: 4,4′-триселанедиилдибензойная кислота (PIN) <br>
+4,4′-триселенодибензойная кислота
+
+@End
+
+#P-68.4.1.3+
+en: If the chain of identical chalcogen atoms is terminated by one or two acyl groups the compound is named as 
+a pseudoketone (see P-64.1.2.1, P-64.3 and P-65.7.5.1) on the basis of the preferred carbonyl component. Multiplicative 
+nomenclature is used if the principles for its use are met. 
+ru: Если цепь из одинаковых атомов халькогена заканчивается одной или двумя ацильными группами, то соединение называют 
+псевдокетоном (см. P-64.1.2.1, P-64.3 и P-65.7.5.1), исходя из того, какой из карбонильных фрагментов является 
+предпочтительным. Если соблюдены соответствующие принципы, применяется &(multiplicative nomenclature).
+
+@Examples
+
+@cell
+<$ CH3-CH2-CO-O-O-OH  $>
+
+en: 1-trioxidanylpropan-1-one (PIN)  <br>
+1-hydrotrioxypropan-1-one 
+
+@cell
+<$ CH3-CH2-CO-S-S-S-CO-CH2-CH3 $>
+  
+en: 1,1′-trisulfanediyldi(propan-1-one) (PIN)  <br>
+1,1′-trithiodi(propan-1-one) 
+
+@cell
+<$ CH3-CH2-CO-Se-Se-Se-CH3 $>
+  
+en: 1-(methyltriselanyl)propan-1-one (PIN; a pseudoketone)  <br>
+(not Se-methyldiselanyl propaneselenoate, a pseudoester;  <br>
+formation of the pseudoester would require the fragmentation of a homogeneous chain)  <br>
+1-(methyltriseleno)propan-1-one 
+
+@cell
+<$ CH3-CH2-CO-S-S-S-S-S-CO-CH3  $>
+  
+en: 1-(acetylpentasulfanyl)propan-1-one (PIN) 
+
+@End
+
+#P-68.4.2
+en: Three or more heterogeneous contiguous chalcogen atoms  
+ru: Три или более гетерогенных смежных атома халькогена
+
+#P-68.4.2.1+
+en: Compounds of the type <%a%> are parent hydrides; they are discussed in P-21.2.3.1. 
+ru: Соединения типа <%a%> представляют собой &(parent hydride|*); они рассматриваются в разделе P-21.2.3.1.
+%a:  a[ba]_{_n_}
+
+@Examples
+
+@cell
+<$ HS-O-SH  $>
+
+en: dithioxane (preselected name) 
+ru: дитиоксан (&(preselected name))
+
+@cell
+<$ CH3-S-O-SH  $>
+
+en: methyldithioxane (PIN) <br>
+(not methylsulfane-_OS_-thioperoxol) 
+ru: метилдитиоксан (PIN) <br>
+(не метилсульфан-_OS_-тиопероксол)
+
+@cell
+<$ CH3-S-O-S-CH3 $>
+  
+en: dimethyldithioxane (PIN) 
+ru: диметилдитиоксан (PIN)
+
+@cell
+<$ C6H5-S-O-S-CH3 $>
+  
+en: methyl(phenyl)dithioxane (PIN) 
+ru: метил(фенил)дитиоксан (PIN)
+
+@cell
+<$ HS-O-S-OH  $>
+
+en: dithioxanol (preselected name)  <br>
+(sulfanyloxy)sulfanol  <br>
+(not hydroxysulfane-_OS_-thioperoxol) 
+ru: дитиоксанол (&(preselected name)) <br>
+(сульфанилокси)сульфанол <br>
+(не гидроксисульфан-_OS_-тиопероксол)
+
+@cell
+<$ HO-S-O-S-OH  $>
+
+en: dithioxanediol (preselected name)  <br>
+[not oxybis(sulfanol)]
+ru: дитиоксандиол (&(preselected name)) <br>
+[не оксибис(сульфанол)]
+
+@End
+
+#P-68.4.2.2+
+en: Compounds of the type R-(chalcogen)_{_x_}-H where _x_ = 3, 4,..., that cannot be named as alcohols, thiols, ethers, 
+sulfides, hydroperoxides, peroxides, or their chalcogen analogues as described in P-63 are named on the basis of the 
+mononuclear parent hydrides ‘oxidane’, (<%a%>), ‘sulfane’ (<%b%>), etc. and ‘dioxidane’ (<%c%>), ‘disulfane’ (<%d%>), etc. 
+They are also named using suffixes ‘ol’ (–OH), ‘thiol’ (–SH), etc. according to P-63.1.2 and ‘peroxol’ (–OOH), 
+_SO_-thioperoxol (–SOH), etc. according to P-63.4. A chain of two or three consecutive identical chalcogen atoms must not 
+be broken in the construction of the name. When a choice has to be made, suffixes are chosen in accordance with the 
+seniority order of suffixes, –OH is senior to –OOH (see P-41). 
+ru: Соединения типа R-(халькоген)_{_x_}-H, где _x_ = 3, 4, ..., которые невозможно классифицировать как спирты, тиолы, 
+простые эфиры, сульфиды, гидропероксиды, пероксиды или их &(chalcogen analogue|*) (согласно разделу P-63), именуются 
+на основе &(mononuclear [hydride]|ro*) &(parent hydride|ro*): «оксидан» (<%a%>), «сульфан» (<%b%>) и т. д., а также 
+«диоксидан» (<%c%>), «дисульфан» (<%d%>) и т. д. Кроме того, в соответствии с положениями P-63.1.2 и P-63.4, для их 
+наименования могут использоваться суффиксы «-ол» (–OH), «-тиол» (–SH), «-пероксол» (–OOH), «-тиопероксол» (–SOH) и т. д. 
+При составлении названия нельзя разрывать цепь, состоящую из двух или трех последовательных одинаковых атомов халькогена. 
+В тех случаях, когда требуется сделать выбор, суффиксы выбираются в соответствии с установленным порядком старшинства: 
+суффикс –OH является более старшим по сравнению с –OOH (см. P-41).
+%a:<$ H2O $>
+%b:<$ H2S $>
+%c:<$ HOOH $>
+%d:<$ HSSH $>
+
+@Examples
+
+@cell
+<$ HS-OH  $>
+
+en: sulfanol (preselected name)  <br>
+(not oxidanethiol) 
+ru: сульфанол (&(preselected name)) <br>
+(не оксидантиол)
+
+@cell
+<$ CH3-OO-SH  $>
+
+en: methyldioxidanethiol (PIN) 
+ru: метилдиоксиданэтиол (PIN)
+
+@cell
+<$ CH3-OOO-SH  $>
+
+en: methyltrioxidanethiol (PIN)
+ru: метилтриоксидантиол (PIN)
+
+@cell
+<$ CH3-SS-OH  $>
+
+en: methyldisulfanol (PIN) 
+ru: метилдисульфанол (PIN)
+
+@cell
+<$ CH3-SSS-SeH  $>
+
+en: methyltrisulfaneselenol (PIN) 
+ru: метилтрисульфанселенол (PIN)
+
+@cell
+<$ CH3-OO-SSH  $>
+
+en: methyldioxidanedithioperoxol (PIN) 
+ru: метилдиоксидандитиопероксол (PIN)
+
+@cell
+<$ CH3-O-S-SeSeH  $>
+
+en: methoxysulfanediselenoperoxol (PIN) 
+ru: метоксисульфандиселенопероксол (PIN)
+
+@cell
+<$ CH3-SS-OOH  $>
+
+en: methyldisulfaneperoxol (PIN) 
+ru: метилдисульфанилпероксол (PIN)
+
+@cell
+<$ CH3-S-O-S-OH  $>
+
+en: [(methylsulfanyl)oxy]sulfanol (PIN)  <br>
+[not (methylsulfanyl)oxidane-_SO_-thioperoxol] 
+ru: [(метилсульфанил)окси]сульфанол (PIN) <br>
+[не (метилсульфанил)оксидан-_SO_-тиопероксол]
+
+@cell
+<$
+@:n(n,a,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+HO-@n(1′,-120)/=\@n(4′,-50)<`//`-`\\>-Se-O-Se-@n(4,-120)/=\@n(1,-60)<-OH>`//`-`\\
+$>
+
+en: 4,4′-diselenoxanediyldiphenol (PIN) 
+ru: 4,4′-диселеноксандиилдифенол (PIN)
+
+@End
+
+#P-68.4.2.3+
+en: Mono-, di- and polynuclear parent hydride names, except for ‘oxidane’ itself, are used for compounds with 
+contiguous chalcogen atoms terminated by hydrogen atoms.
+ru: Названия &(mono[nuclear])-, &(di[nuclear])- и &(polynuclear [hydride]|ro*) &(parent hydride|ro*) 
+(за исключением самого «оксидана») используются для соединений, содержащих непрерывные цепочки атомов халькогенов, 
+на концах которых находятся атомы водорода.
+
+@Examples
+
+@cell
+<$ HSe-Te-SeH  $>
+
+en: tellanediselenol (preselected name)  <br>
+(not selane-_TeSe_-selenotelluroperoxol) 
+ru: телландиселенол (&(preselected name)) <br>
+(не селан-_TeSe_-селенотеллуропероксол)
+
+@cell
+<$ H-OO-S-OH  $>
+
+en: (hydroperoxy)sulfanol (preselected name)  <br>
+(not dioxidane-_SO_-peroxol) 
+ru: (гидроперокси)сульфанол (&(preselected name)) <br>
+(не диоксидан-_SO_-пероксол)
+
+@cell
+<$ H-OO-SS-H  $>
+
+en: disulfaneperoxol (preselected name)  <br>
+[not dioxidane(dithioperoxol)]
+ru: дисульфанпероксол (&(preselected name)) <br>
+[не диоксидан(дитиопероксол)]
+
+@End
+
+#P-68.4.2.4+
+en: Compounds with an organic group at one or both ends of a heterogeneous chalcogen chain of atoms are 
+named substitutively on the basis of the preferred organic group. Substituting groups may be made up of individual 
+units or formed by functional replacement nomenclature based on tri- or tetraoxy, etc., substituting groups. The latter 
+method is not used if the compound is a pseudoketone. Multiplicative or skeletal replacement (‘a’) nomenclature is used 
+if the requirements for use of either method are met. 
+ru: Соединения, содержащие органическую группу на одном или обоих концах гетерогенной цепи атомов халькогенов, 
+&(named substitutively|*), исходя из выбора преимущественной органической группы. &(Substituting group|*) могут состоять из 
+отдельных фрагментов или быть образованы с помощью &(functional replacement nomenclature|ro) (например, с использованием 
+таких групп, как триокси-, тетраокси- и т. д.). Последний метод не применяется, если соединение является псевдокетоном. 
+При соблюдении соответствующих условий может быть использована &(multiplicative nomenclature) или номенклатура 
+&(skeletal replacement a|ro).
+
+@Examples
+
+@cell
+<$ CH3-O-S-O-CH3 $>
+  
+en: [(methoxysulfanyl)oxy]methane (PIN)  <br>
+(methyl-_OSO_-thiotrioxy)methane  <br>
+dimethoxysulfane 
+ru: [(метоксисульфанил)окси]метан (PIN) <br>
+(метил-_OSO_-тиотриокси)метан <br>
+диметоксисульфан
+
+@cell
+<$ CH3-OO-S-CH3  $>
+  
+en: [(methylperoxy)sulfanyl]methane (PIN)  <br>
+[not methyl(methylsulfanyl)dioxidane]  <br>
+(methyl-_OOS_-thiotrioxy)methane 
+ru: [(метилперокси)сульфанил]метан (PIN) <br>
+[не метил(метилсульфанил)диоксидан] <br>
+(метил-_OOS_-тиотриокси)метан
+
+@cell
+<$ CH3-S-S-O-CH2-CH3  $>
+  
+en: [(methyldisulfanyl)oxy]ethane (PIN)  <br>
+[methyl(dithioperoxy)oxy]ethane  <br>
+[not ethoxy(methyl)disulfane]  <br>
+(methyl-_SSO_-dithiotrioxy)ethane 
+ru: [(метилдисульфанил)окси]этан (PIN) <br>
+[метил(дитиоперокси)окси]этан <br>
+[не этокси(метил)дисульфан] <br>
+(метил-_SSO_-дитиотриокси)этан
+
+@cell
+<$ C6H5-O-S-O-C6H5 $>
+  
+en: 1,1′-[sulfanediylbis(oxy)]dibenzene (PIN)  <br>
+_OSO_-thiotrioxydibenzene 
+ru: 1,1′-[сульфандиилбис(окси)]дибензол (PIN) <br>
+_OSO_-тиотриоксидибензол
+
+@cell
+<$ CH3-O-S-Se-C6H5 $>
+  
+en: [(methoxysulfanyl)selanyl]benzene (PIN)  <br>
+methyl-_OSSe_-selenothiotrioxybenzene 
+ru: [(метоксисульфанил)селанил]бензол (PIN) <br>
+метил-_OSSe_-селенотиотриоксибензол
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S-O-Se-CO@n(1)-CH2@n(2)-CH3@n(3)
+$>
+
+en: 1-{[(methylsulfanyl)oxy]selanyl}propan-1-one (PIN) 
+ru: 1-{[(метилсульфанил)окси]селанил}пропан-1-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CO@n(1)-O-O-S-CO-CH3
+$>
+
+en: 1-[(acetylsulfanyl)peroxy]propan-1-one (PIN)
+ru: 1-[(ацетилсульфанил)перокси]пропан-1-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CO@n(1)-O-S-S-O-CO@n(1')-CH2-CH3
+$>
+
+en: 1,1′-[disulfanediylbis(oxy)]di(propan-1-one) (PIN)  <br>
+1,1′-[dithioperoxybis(oxy)]di(propan-1-one) 
+ru: 1,1′-[дисульфанедилбис(окси)]ди(пропан-1-он) (PIN) <br>
+1,1′-[дитиопероксибис(окси)]ди(пропан-1-он)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(1)-CH2@n(2)-O@n(3)-Se@n(4)-S@n(5)-O@n(6)-CO@n(7)-CH2@n(8)-CH3@n(9)
+$>
+
+en: 3,6-dioxa-5-thia-4-selenanonan-7-one (PIN) 
+ru: 3,6-диокса-5-тиа-4-селенанонан-7-он (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CSe@n(1)-Se-O-S-CH3
+$>
+
+en: 1-{[(methylsulfanyl)oxy]selanyl}propane-1-selone (PIN)
+ru: 1-{[(метилсульфанил)окси]селанил}пропан-1-селон (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CO@n(1)-OO-S-CH3
+$>
+
+en: 1-[(methylsulfanyl)peroxy]propan-1-one (PIN) 
+ru: 1-[(метилсульфанил)перокси]пропан-1-он (PIN)
+
+@End
+
+
+#P-68.4.3
+en: Chalcogen parent hydrides with nonstandard bonding numbers 
+ru: &(Parent hydride|*) халькогенов с нестандартными валентными числами
+
+en: Many chalcogen compounds are designated by class names that were used as parent structures to name their derivatives. 
+In these recommendations, in conformity with the principle that substitutive names are preferred, derivatives named on 
+the basis of class names are retained for general use only. 
+
+
+// ==================================================
+
+#P-68.5
+en: Nomenclature for compounds of the Group 17 elements 
+ru: Номенклатура соединений элементов 17-й Группы
+
+// =================================================
+
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений

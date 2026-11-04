@@ -353,6 +353,8 @@
   "detachable [prefix]|tv*": "отделяемыми",
   "detachable [prefix]|da*": "отделяемым",
 
+  "di[nuclear]": "двух",
+
   "disubstituted|ro*": "дизамещённых",
 
 
@@ -393,6 +395,7 @@
   "functional class nomenclature|pr": "номенклатуре функциональных классов",
 
   "functional nomenclature": "функциональная номенклатура",
+  "functional nomenclature|da": "функциональной номенклатуре",
   "functional nomenclature|tv": "функциональной номенклатурой",
 
   "functional parent": "функциональный родитель",
@@ -403,6 +406,7 @@
 
   "functional replacement": "функциональное замещение",
   "functional replacement|ro": "функционального замещения",
+  "functional replacement|da": "функциональному замещению",
 
   "functional replacement analogue|*": "аналоги функционального замещения",
 
@@ -618,6 +622,7 @@
   "mononuclear [acid]|tv*": "моноядерными",
   "mononuclear [acid]|pr*": "моноядерных",
 
+  "mono[nuclear]": "моно",
   "mononuclear [hydride]|*": "моноядерные",
   "mononuclear [hydride]|ro": "моноядерного",
   "mononuclear [hydride]|ro*": "моноядерных",
@@ -741,6 +746,7 @@
   "parent acid": "исходная кислота",
   "parent acid|ro": "исходной кислоты",
   "parent acid|pr": "исходной кислоте",
+  "parent acid|pr*": "исходных кислотах",
 
   "parent [chain]": "исходная",
   "parent [chain]|ro": "исходной",
@@ -1120,6 +1126,7 @@
   "substitution|pr": "замещении",
 
   "substituting group|pr": "замещающей группе",
+  "substituting group|*": "замещающие группы",
 
   "subtractive modification": "субтрактивная модификация",
 
