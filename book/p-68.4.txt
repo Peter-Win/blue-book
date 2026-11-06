@@ -535,13 +535,360 @@ ru: &(Parent hydride|*) халькогенов с нестандартными �
 en: Many chalcogen compounds are designated by class names that were used as parent structures to name their derivatives. 
 In these recommendations, in conformity with the principle that substitutive names are preferred, derivatives named on 
 the basis of class names are retained for general use only. 
+ru: Многие соединения халькогенов обозначаются названиями классов, которые служили базовыми структурами для наименования их 
+производных. В данных рекомендациях, исходя из принципа предпочтительности &(substitutive name|ro*), названия производных, 
+образованные на основе названий классов, сохранены лишь для общего использования.
+
+@Content
+
+#P-68.4.3.1
+en: Sulfanes, selanes, and tellanes 
+ru: Сульфаны, селаны и телланы
+
+en: Sulfanes, selanes, and tellanes that have a nonstandard bonding number are named on the basis of parent hydrides such 
+as λ^{4}-sulfane, λ^{6}-sulfane, and λ^{4}-selane, according to the λ-convention. 
+ru: Сульфаны, селаны и телланы, имеющие нестандартное число связей, называются на основе соответствующих &(parent hydride|ro*) — 
+например, λ^{4}-сульфан, λ^{6}-сульфан и λ^{4}-селан — в соответствии с &(l-convention|tv).
+
+@Examples
+
+@cell
+<$ CH2=S(CH3)2 $>
+  
+en: dimethyl(methylidene)-λ^{4}-sulfane (PIN) 
+
+@cell
+<$ (CH3-O)4S  $>
+
+en: tetramethoxy-λ4-sulfane (PIN)  <br>
+[(trimethoxy-λ4-sulfanyl)oxy]methane
+
+@cell
+<$ SH2|`/`\`|/\ $>
+
+en: λ^{4}-thiane (PIN) 
+ru: λ^{4}-тиан (PIN) 
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SH2@n(1)|@n(2,30,.4)_pp7S<_(y.5)H>@n(3,-110)_p7_pp7_p7_pp7_p7
+$>
+
+en: 1_H_-1λ^{4},3λ^{4}-dithiepine (PIN) 
+ru: 1_H_-1λ^{4},3λ^{4}-дитиепин (PIN)
+
+@End
 
 
-// ==================================================
+#P-68.4.3.2
+en: Di- and polysulfoxides, polysulfones, and selenium and tellurium analogues 
+ru: Ди- и полисульфоксиды, полисульфоны, а также селеновые и теллуровые аналоги
+
+en: Compounds with the general structures <%a%> and <%b%>, in which n ≥ 2, have the class name ‘disulfoxides’, 
+‘trisulfoxides’, ‘disulfones’, etc. They and their selenium and tellurium analogues are named in two ways: 
+ru: Соединения с общими структурами <%a%> и <%b%>, в которых n ≥ 2, относятся к классам «дисульфоксиды», 
+«трисульфоксиды», «дисульфоны» и т. д. Их, а также их селеновые и теллуровые аналоги, называют двумя способами:
+%a: <$ {R}-[SO]'n'-{R′} $>
+%b: <$ {R}-[SO2]'n'-{R′} $>
+
+@List 1
+
+@item
+en: substitutively by adding the suffix ‘one’ to the name of the appropriate parent hydride, λ^{4} or λ^{6} disulfane, 
+diselane, ditellane, etc.; 
+ru: методом замещения — путем добавления суффикса «-он» к названию соответствующего &(parent hydride|ro) 
+λ^{4} или λ^{6} дисульфана, диселана, дителлана и т. д.;
+
+@item
+en: by functional class nomenclature, using class names such as ‘disulfoxide’, ‘disulfone’, ‘diselenoxide’, 
+‘diselenone’, etc. 
+ru: с использованием &(functional class nomenclature|ro) — применяя такие названия классов, как «дисульфоксид», 
+«дисульфон», «диселеноксид», «диселенон» и т. д.
+
+@End
+
+en: Method (1) generates preferred IUPAC names and is also used to name mixed sulfoxide-sulfones. 
+ru: Способ (1) позволяет получить предпочтительные названия по номенклатуре ИЮПАК; 
+он также используется для наименования смешанных сульфоксид-сульфонов.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-S@n(1)(=O)-S@n(2)(=O)-CH3
+$>
+
+en: 1,2-dimethyl-1λ^{4},2λ^{4}-disulfane-1,2-dione (PIN)  <br>
+dimethyl disulfoxide
+ru: 1,2-диметил-1λ^{4},2λ^{4}-дисульфан-1,2-дион (PIN) <br>
+диметилдисульфоксид
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-SO2@n(1)-SO2@n(2)-CH3
+$>
+
+en: 1-ethyl-2-methyl-1λ^{6},2λ^{6}-disulfane-1,1,2,2-tetrone (PIN)  <br>
+ethyl methyl disulfone 
+ru: 1-этил-2-метил-1λ^{6},2λ^{6}-дисульфан-1,1,2,2-тетрон (PIN) <br>
+этил метил дисульфон
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`//`-`\\/=\-SeO2@n(1)-Se@n(2)_(h)O2-\\-//`\<`=`/>/N=\`//`-
+$>
+
+en: 1-phenyl-2-(quinolin-7-yl)-1λ^{6},2λ^{6}-diselane-1,1,2,2-tetrone (PIN)  <br>
+phenyl quinolin-7-yl diselenone 
+ru: 1-фенил-2-(хинолин-7-ил)-1λ^{6},2λ^{6}-диселан-1,1,2,2-тетрон (PIN) <br>
+фенил хинолин-7-ил диселенон
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-CH2-SeO2@n(1)-Se@n(2)(O)-CH2-CH3
+$>
+
+en: diethyl-1λ^{6},2λ^{4}-diselane-1,1,2-trione (PIN)  <br>
+[(ethaneseleninyl)selenonyl]ethane  <br>
+[(ethylseleninyl)selenonyl]ethane 
+ru: диэтил-1λ^{6},2λ^{4}-диселан-1,1,2-трион (PIN) <br>
+[(этанселенинил)селенонил]этан <br>
+[(этилселенинил)селенонил]этан
+
+@End
+
+
+#P-68.4.3.3
+en: Sulfimides, and chalcogen analogues, <%a%>, where E = S, Se, or Te 
+ru: Сульфимиды и их &(chalcogen analogue|*), <%a%>, где E = S, Se или Te
+%a: <$ H2{E}=NH $>
+
+en: Compounds with the general structures, <%a%>, belong to a class called ‘sulfimides’ (CAS calls them sulfilimines). 
+They are named in two ways: 
+Соединения с общей структурой <%a%> относятся к классу, называемому «сульфимиды» (в системе CAS они именуются «сульфилиминами»).
+Их называют двумя способами:
+%a: <$ H2S=NH $>
+
+@List 1
+
+@item
+en: substitutively by adding the suffix ‘imine’ to the name of the parent hydride such as λ^{4}-sulfane; 
+ru: заместительным способом — путем добавления суффикса «-имин» к названию родоначального гидрида, например λ^{4}-сульфана;
+
+@item
+en: substitutively using the class name ‘sulfimide’. 
+ru: при использовании в качестве заместительного названия — «сульфимид».
+
+@End
+
+en: Method (1) generates preferred IUPAC names.  
+ru: Метод (1) генерирует предпочтительные названия по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(C2H5)2S@n(\textit{S})=N@n(\textit{N})-C6H5
+$>
+
+en: _S_,_S_-diethyl-_N_-phenyl-λ^{4}-sulfanimine (PIN)  <br>
+_S_,_S_-diethyl-_N_-phenylsulfimide 
+ru: _S_,_S_-диэтил-_N_-фенил-λ^{4}-сульфанимин (PIN) <br>
+_S_,_S_-диэтил-_N_-фенилсульфимид
+
+@End
+
+en: _N_ and/or _S_ substitution by groups that are not hydrocarbyl groups, may create senior parent structures that become the 
+basis for the name.  
+ru: _N_ и/или _S_ &(substitution) группами, не являющимися углеводородными, может привести к образованию более старших 
+&(parent structure|ro*), которые становятся основой для названия.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(C6H5)2S=N@n(\textit{N})-SO2-C6H5
+$>
+
+en: _N_-(diphenyl-λ^{4}-sulfanylidene)benzenesulfonamide (PIN)  <br>
+_S_,_S_-diphenyl-_N_-(benzenesulfonyl)sulfimide 
+ru: _N_-(дифенил-λ^{4}-сульфанилиден)бензолсульфонамид (PIN) <br>
+_S_,_S_-дифенил-_N_-(бензолсульфонил)сульфимид
+
+@End
+
+#P-68.4.3.4
+en: Sulfinylamines, <%a%>, sulfonylamines, <%b%> and chalcogen analogues where E = S, Se, or Te 
+ru: Сульфиниламины, <%a%>, сульфониламины, <%b%>, а также &(chalcogen analogue|*), где E = S, Se или Te
+%a: <$ {R}N={E}=O $>
+%b: <$ {R}N={E}(=O)2 $>
+
+en: Compounds with the general structures, <%a%> and <%b%>, have the class names ‘sulfinylamines’ and 
+‘sulfonylamines’, respectively. They are named substitutively on the basis of the parent hydrides λ^{4}-sulfane or 
+λ^{6}-sulfane. 
+ru: Соединения, имеющие общие структуры <%a%> и <%b%>, относятся к классам «сульфиниламины» и «сульфониламины» соответственно. 
+Они &(named substitutively|*) на основе &(parent hydride|ro*) — λ^{4}-сульфана или λ^{6}-сульфана.
+%a: <$ {R}-N=S=O $>
+%b: <$ {R}-N=S(=O)2 $>
+
+@Examples
+
+@cell
+<$ C6H5-N=S=O  $>
+
+en: (phenylimino)-λ^{4}-sulfanone (PIN)  <br>
+(not _N_-sulfinylaniline) 
+ru: (фенилимино)-λ^{4}-сульфанон (PIN) <br>
+(не _N_-сульфиниланилин)
+
+@cell
+<$ CH3-N=S(=O)2 $>
+  
+en: (methylimino)-λ^{6}-sulfanedione (PIN)  <br>
+(not _N_-sulfonylmethanamine)  
+ru: (метилимино)-λ^{6}-сульфандион (PIN) <br>
+(не _N_-сульфонилметанамин)
+
+@cell
+<$ (CH3)2S(O)=N-SO2-C6H5 $>
+  
+en: _N_-[dimethyl(oxo)-λ^{6}-sulfanylidene]benzenesulfonamide (PIN)  <br>
+(benzenesulfonylimino)dimethyl-λ^{6}-sulfanone 
+ru: _N_-[диметил(оксо)-λ^{6}-сульфанилиден]бензолсульфонамид (PIN) <br>
+(бензолсульфонилимино)диметил-λ^{6}-сульфанон
+
+@End
+
+#P-68.4.3.5
+en: Sulfonediimines, <%a%> and chalcogen compounds where E = S, Se, or Te 
+ru: Сульфондиимины, <%a%>, а также халькогеновые соединения, где E = S, Se или Te
+%a: <$ {R}{E}(=NH)2{R′} $>
+
+en: Compounds with the general structures, <%a%>, have the class name ‘sulfonediimines’. Preferred IUPAC names 
+are formed substitutively on the basis of the parent hydride λ^{6}-sulfane. Names based on the class name ‘sulfonediimine’ 
+are not recommended. 
+ru: Соединения с общей структурой <%a%> относятся к классу «сульфонедиимины». Согласно номенклатуре ИЮПАК, предпочтительные 
+названия образуются по заместительному принципу на основе &(parent hydride|ro) λ^{6}-сульфана. Использование названий, 
+производных от термина «сульфонедиимин», не рекомендуется.
+%a: <$ {R}{E}(=NH)2{R′} $>
+
+@Examples
+
+@cell
+<$ (C6H5)2S(=NH)2 $>
+  
+en: diphenyl-λ^{6}-sulfanediimine (PIN)  <br>
+(not diphenyl sulfonediimine) 
+ru: дифенил-λ^{6}-сульфандиимин (PIN) <br>
+(не дифенил сульфонидимин)
+
+@End
+
+#P-68.4.3.6
+en: Sulfoximides, <%a%> and chalcogen analogues where E = S, Se, or Te 
+ru: Сульфоксимиды, <%a%> и &(chalcogen analogue|*), где E = S, Se или Te
+%a: <$ {R}2{E}(=O)=N{R′} $>
+
+en: Compounds with the general structure <%a%> have the class name ‘sulfoximides’ (CAS calls them 
+sulfoximines). Preferred IUPAC names are formed substitutively on the basis of the parent hydride λ^{6}-sulfane. 
+Substitutive names may also be based on the functional parent name ‘sulfoximide’. 
+ru: Соединения с общей структурой <%a%> относятся к классу «сульфоксимиды» (в номенклатуре CAS они называются 
+«сульфоксиминами»). Согласно правилам IUPAC, предпочтительные названия таких соединений образуются по заместительному 
+принципу на основе &(parent hydride|ro) — λ^{6}-сульфана. Также допускается образование &(Substitutive name|ro*) 
+на основе функционального &(parent name|ro) «сульфоксимид».
+%a: <$ {R}2{E}(=O)=N{R′} $>
+
+@Examples
+
+@cell
+<$ (CH3)2S(=O)=N-C6H5 $>
+  
+en: dimethyl(phenylimino)-λ^{6}-sulfanone (PIN)  <br>
+_S_,_S_-dimethyl-_N_-phenylsulfoximide 
+ru: диметил(фенилимино)-λ^{6}-сульфанон (PIN) <br>
+_S_,_S_-диметил-_N_-фенилсульфоксимид
+
+@End
+
+#P-68.4.3.7
+en: Sulfur diimides, <%a%> and chalcogen analogues where E = S, Se, or Te 
+ru: &(Sulfur diimide|*), <%a%> и их &(chalcogen analogue|*), где E = S, Se или Te
+%a: <$ HN={E}=NH $>
+
+en: Compounds with the general structure, <%a%>, belong to a general class having the the class name ‘sulfur 
+diimides’. Preferred IUPAC names are formed substitutively on the basis of the parent hydride λ^{4}-sulfane. Functional 
+class names are based on the class name ‘sulfur diimide’. 
+ru: Соединения с общей структурой <%a%> относятся к классу, носящему название «&(sulfur diimide|*)». Согласно номенклатуре ИЮПАК, 
+предпочтительные названия таких соединений образуются по заместительному принципу на основе &(parent hydride|ro) — 
+λ^{4}-сульфана. &(Functional class name|*) строятся с использованием термина «&(sulfur diimide)».
+%a: <$ HN=S=NH $>
+
+@Examples
+
+@cell
+<$ CH3-N=S=N-CH2-CH3 $>
+  
+en: ethyl(methyl)-λ^{4}-sulfanediimine (PIN)  <br>
+ethylmethylsulfur diimide 
+ru: этил(метил)-λ^{4}-сульфандиимин (PIN) <br>
+этилметил&(sulfur diimide)
+
+@End
+
+#P-68.4.3.8
+en: Sulfur triimides, <%a%> and chalcogen analogues where E = S, Se, or Te 
+ru: &(Sulfur triimide|*), <%a%>, и их &(chalcogen analogue|*), где E = S, Se или Te
+%a: <$ {E}(=NH)3 $>
+
+en: Compounds with the general structure, <%a%>, belong to a general class called ‘sulfur triimides’. Preferred IUPAC 
+names are formed substitutively on the basis of the parent hydride λ^{6}-sulfane. Functional class names are based on the 
+class name ‘sulfur triimide’. 
+ru: Соединения с общей структурой <%a%> относятся к классу, называемому «&(sulfur triimide|*)». Предпочтительные названия 
+по номенклатуре ИЮПАК образуются по заместительному принципу на основе &(parent hydride|ro) — λ^{6}-сульфана. 
+&(Functional class name|*) строятся на основе термина «&(sulfur triimide)».
+%a: <$ S(=NH)3 $>
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-N=S<`||mN-C6H5>=N-CH3
+$>
+
+en: dimethyl(phenyl)-λ^{6}-sulfanetriimine (PIN)  <br>
+dimethyl(phenyl)sulfur triimide 
+ru: диметил(фенил)-λ^{6}-сульфантриимин (PIN) <br>
+диметил(фенил)&(sulfur triimide)
+
+@End
+
 
 #P-68.5
 en: Nomenclature for compounds of the Group 17 elements 
 ru: Номенклатура соединений элементов 17-й Группы
+
+@Content
+
+#P-68.5.0
+en: Substitutive nomenclature 
+ru: &(Substitutive nomenclature)
+
+#P-68.5.1
+en: Nomenclature based on halogen parent hydrides  
+
+#P-68.5.2
+en: Nomenclature of halogen acids 
+
+#P-68.5.3
+en: Amides of halogen acids 
 
 // =================================================
 
