@@ -314,7 +314,7 @@ _N_-гидроксипентан-2-имин (PIN)
 
 #(d)
 en: additive names;
-ru: аддитивные имена;
+ru: &(additive name|ro*);
 
 @Examples
 

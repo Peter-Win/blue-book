@@ -12,6 +12,9 @@
   "additive name": "аддитивное название",
   "additive name|ro*": "аддитивных названий",
 
+  "additive nomenclature": "аддитивная номенклатура",
+  "additive nomenclature|tv": "аддитивной номенклатурой",
+
   "additive operation|ro": "аддитивной операции",
 
   "al": "аль",
@@ -266,6 +269,8 @@
   "complex substituent group": "сложная замещающая группа",
   "complex substituent group|*": "сложные замещающие группы",
 
+  "compositional name": "композиционное название",
+
   "compound class|ro": "составного класса",
 
   "compound locant": "составной локант",
@@ -323,6 +328,9 @@
   "conjunctive nomenclature|ro": "конъюнктивной номенклатуры",
   "conjunctive nomenclature|tv": "конъюнктивной номенклатурой",
 
+  "coordination entity": "координационная единица",
+  "coordination entity|tv": "координационной единицей",
+
   "cumulative suffix": "кумулятивный суффикс",
   "cumulative suffix|*": "кумулятивные суффиксы",
 
@@ -354,6 +362,7 @@
   "detachable [prefix]|da*": "отделяемым",
 
   "di[nuclear]": "двух",
+  "dinuclear [entity]|tv*": "двуядерными",
 
   "disubstituted|ro*": "дизамещённых",
 
@@ -621,6 +630,9 @@
   "mononuclear [acid]|da*": "моноядерным",
   "mononuclear [acid]|tv*": "моноядерными",
   "mononuclear [acid]|pr*": "моноядерных",
+
+  "mononuclear [entity]": "моноядерная",
+  "mononuclear [entity]|tv*": "моноядерными",
 
   "mono[nuclear]": "моно",
   "mononuclear [hydride]|*": "моноядерные",
@@ -938,6 +950,8 @@
   "polynuclear [acid]|ro*": "многоядерных",
   "polynuclear [acid]|tv*": "многоядерными",
   "polynuclear [acid]|pr*": "многоядерных",
+
+  "polynuclear [entity]": "многоядерная",
 
   "polynuclear [hydride]|*": "многоядерные",
   "polynuclear [hydride]|ro*": "многоядерных",

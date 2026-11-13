@@ -1,0 +1,713 @@
+#P-69
+en: Nomenclature for organometallic compounds 
+ru: Номенклатура металлоорганических соединений
+
+@Content
+
+#P-69.0
+en: Introduction
+ru: Введение 
+
+en: This Section is partly an application of the principles, rules, and conventions established in previous Chapters, and 
+partly an extension of these principles, rules, and conventions to reconcile the nomenclatures of organic and inorganic 
+compounds (see ref. 12) to name organometallic compounds. 
+ru: Данный раздел представляет собой, с одной стороны, применение принципов, правил и соглашений, установленных в 
+предыдущих главах, а с другой — их расширение, направленное на согласование номенклатур органических и неорганических 
+соединений (см. лит. 12) для целей наименования металлоорганических соединений.
+
+en: Organometallic compounds are compounds having at least one bond between one metal atom and one carbon atom. In 
+addition to the traditional metals, some compounds containing elements such as boron, arsenic, and selenium linked to a 
+carbon atom have sometimes been considered to be organometallic. 
+ru: Металлоорганические соединения — это соединения, содержащие как минимум одну связь между атомом металла и атомом углерода. 
+Помимо традиционных металлов, к металлоорганическим соединениям иногда относят также вещества, в которых с атомом углерода 
+связаны такие элементы, как бор, мышьяк или селен.
+
+en: Organometallic nomenclature in these recommendations is divided into three categories: 
+ru: В данных рекомендациях номенклатура металлоорганических соединений разделена на три категории:
+
+@List 1
+
+@item
+en: organometallic compounds involving the elements of Groups 1 and 2;  
+ru: металлоорганические соединения, содержащие элементы 1-й и 2-й групп;
+
+@item
+en: organometallic compounds involving the elements of Groups 3-12 (the transition metals); and  
+ru: металлоорганические соединения, содержащие элементы 3–12-й групп (переходные металлы); и
+
+@item
+en: organometallic compounds involving the elements of Groups 13 through 16.
+ru: металлоорганические соединения, содержащие элементы с 13-й по 16-ю группу.
+
+@End
+
+en: Thus, a great part of nomenclature of organometallic compounds is outside the scope of this book, which deals with 
+organic compounds; it follows the principles, rules and conventions of the nomenclature of inorganic compounds 
+described in the Nomenclature of Inorganic Chemistry (Red Book), in particular, Chapter IR-10 , ref. 12. 
+ru: Таким образом, значительная часть номенклатуры металлоорганических соединений выходит за рамки данной книги, 
+посвященной органическим соединениям; в ней используются принципы, правила и соглашения номенклатуры неорганических соединений, 
+изложенные в издании «Номенклатура неорганической химии» («Красная книга»), в частности в главе IR-10 (см. источник 12).
+
+en: All organometallic compounds can be named by a type of additive nomenclature conveniently called coordination 
+nomenclature, a system in which the names of compounds are formed by adding the name(s) of (a) ligand(s), in 
+alphanumerical order if there is more than one, to that of a central atom (ref. 12, Chapters IR-7, IR-9). However, 
+organometallic compounds involving the elements of the Groups 13 through 16 can also be named by using substitutive 
+nomenclature, as shown in Section P-68. 
+ru: Все металлоорганические соединения можно называть с помощью разновидности аддитивной номенклатуры, которую принято 
+называть координационной номенклатурой. В этой системе названия соединений образуются путем добавления названий лигандов 
+(в алфавитном порядке, если их несколько) к названию центрального атома (см. источник 12, главы IR-7, IR-9). Однако для 
+металлоорганических соединений, содержащих элементы групп 13–16, также можно использовать &(substitutive nomenclature|vi), 
+как описано в разделе P-68.
+
+en: In this Section, all organometallic compounds are considered, first, those involving the elements of Groups 13 through 
+16 that are named substitutively, then those of the transition elements (Groups 3 through 12) and of Groups 1 and 2, that 
+are named additively. Finally, the seniority rules necessary to name compounds that fall into both caregories are 
+discussed. 
+ru: В этом разделе рассматриваются все металлоорганические соединения: сначала — соединения элементов 13–16-й групп, которые
+&(named substitutively|*), а затем — соединения переходных металлов (3–12-е группы) и элементов 1-й и 2-й групп, для которых 
+используется аддитивная номенклатура. В заключение обсуждаются правила старшинства, необходимые для наименования соединений, 
+которые могут быть отнесены к обеим категориям.
+
+en: Preferred IUPAC names are indicated for organometallic compounds named substitutively for the metals in Groups 14 - 16. 
+However, neither preferred IUPAC names or preselected names (see P-12.2) for organometallic compounds 
+involving the transition elements (including the Group 3 elements) and Groups 1 and 2 elements, except for ‘ocene’ 
+compounds, are noted. This determination will await consideration by a task group on inorganic and/or organometallic 
+nomenclature. 
+ru: Для металлоорганических соединений, которые &(named substitutively|*) с указанием металлов 14–16-й групп, определены 
+предпочтительные названия по ИЮПАК (PIN). Однако для металлоорганических соединений, содержащих переходные элементы 
+(включая элементы 3-й группы), а также элементы 1-й и 2-й групп — за исключением соединений типа «оцен» (ocene) — 
+предпочтительные названия по ИЮПАК или &(preselected name|*) (см. P-12.2) пока не установлены. Этот вопрос будет рассмотрен 
+рабочей группой по номенклатуре неорганических и/или металлоорганических соединений.
+
+
+#P-69.1
+en: Organometallic compounds involving the elements in Groups 13 through 16 
+ru: Металлоорганические соединения, включающие элементы Групп с 13 по 16
+
+en: Organometallic compounds involving the elements of Groups 13, 14, 15, and 16 are named substitutively by prefixing 
+the appropriate substituent names to the name of a parent hydride. Principles, rules, and conventions to name them have 
+been discussed in Section P-68. 
+ru: Металлоорганические соединения, содержащие элементы 13, 14, 15 и 16-й групп, &(named substitutively|*): к названию 
+&(parent hydride|ro) добавляют соответствующие названия &(substituent|ro*) в качестве префиксов. Принципы, правила и 
+соглашения, касающиеся их наименования, были рассмотрены в разделе P-68.
+
+@Examples
+
+@cell
+<$ Al(CH2-CH3)3 $>
+  
+en: triethylalumane (substitutive name)  
+ru: триэтилалюман (&(substitutive name))
+
+@cell
+<$ Pb(CH2-CH3)4 $>
+  
+en: tetraethylplumbane (PIN; substitutive name) 
+ru: тетраэтилплюмбан (PIN, &(substitutive name))
+
+@cell
+<$ BrSb(CH=CH2)2 $>
+  
+en: bromodi(ethenyl)stibane (PIN; substitutive name) 
+ru: бромоди(этенил)стибан (PIN; &(substitutive name))
+
+@cell
+<$ HIn(CH3)2 $>
+  
+en: dimethylindigane (substitutive name) 
+ru: диметилиндиган (&(substitutive name))
+
+@End
+
+#P-69.2
+en: Organometallic compounds involving the elements in Groups 3 through 12 
+ru: Металлоорганические соединения, включающие элементы Групп с 3 по 12
+
+#P-69.2.1+
+en: Coordination nomenclature is the primary nomenclature method used to name organometallic compounds 
+containing elements of Groups 3 through 12. It is described in _Nomenclature of Inorganic Chemistry_ (IR-10, ref. 12). It 
+is discussed briefly and exemplified in this Section. 
+ru: Координационная номенклатура — это основной метод наименования металлоорганических соединений, содержащих элементы 
+групп 3–12. Она описана в издании _«Номенклатура неорганической химии»_ (IR-10, ссылка 12). В данном разделе она кратко 
+рассматривается и иллюстрируется примерами.
+
+#P-69.2.2
+en: Definitions of terms 
+ru: Определения терминов
+
+en: In the rules that follow, certain terms are used in the sense indicated here. A **‘coordination entity’** refers to molecules 
+or ions in which there is an atom (A) to which attached other atoms (B) or groups (C). The atom (A) is known as the 
+**‘central atom’**, and all other atoms which are directly attached to (A) are called **‘ligands’**. Each central atom (A) has a 
+**‘coordination number’** which is the number of atoms directly attached to it. A group containing more than one 
+potential coordinating atom is termed a **‘multidentate’** ligand, the number of potential coordinating atoms being 
+indicated by the terms **‘monodentate’**, **‘bidentate’**, etc. A **‘chelate’** ligand is a group attached to the central atom 
+through two or more coordinating atoms, while a **‘bridging group’** is attached to more than one center of coordination. 
+A **‘polynuclear’** coordination entity is one that contains more than one central atom, their number being designated by 
+the terms **‘mononuclear’**, **‘dinuclear’**, etc., molecule. 
+ru: В приведенных ниже правилах некоторые термины используются в указанном здесь значении. Под **«&(coordination entity|tv)»** 
+понимаются молекулы или ионы, содержащие атом (A), к которому присоединены другие атомы (B) или группы (C). Атом (A) называется 
+**«центральным атомом»**, а все остальные атомы, непосредственно связанные с ним, — **«лигандами»**. Каждый центральный атом (A) 
+характеризуется **«координационным числом»**, которое представляет собой количество атомов, непосредственно с ним связанных. 
+Группу, содержащую более одного потенциального координационного центра (атома, способного к координации), называют 
+**«полидентатным»** лигандом; при этом количество таких потенциальных центров обозначается терминами **«монодентатный»**, 
+**«бидентатный»** и т. д. **«Хелатный»** лиганд — это группа, присоединенная к центральному атому посредством двух или более 
+координационных центров, в то время как **«мостиковая группа»** связана более чем с одним координационным центром. 
+**«&(Polynuclear [entity])»** &(coordination entity) — это частица, содержащая более одного центрального атома; 
+в зависимости от их количества такие частицы называют **«&(mononuclear [entity]|tv*)»**, **«&(dinuclear [entity]|tv*)»**  и т. д.
+
+en: Linear formulae are composed of the symbol of the central atom, followed by the ligands, in alphabetical order (as 
+written) if more than one is present (IR-4.4.3.2, ref. 12). [This is a change from that described in the 1990 Inorganic 
+Nomenclature recommendations.] In a line formula, a coordination entity is always placed in square brackets. No 
+brackets are required when the structure is based on developed organic formulas. Abbreviations are used to represent 
+complicated organic ligands in formulae (although they should not be used in names), for example Et = ethyl, ox = 
+ethanedioato or oxalato, and py = pyridine; (see IR-4.4.3.2 and Tables VII and VIII, ref. 12). 
+ru: Линейные формулы состоят из символа центрального атома, за которым следуют лиганды, расположенные в алфавитном порядке 
+(в том виде, в каком они записаны), если их несколько (IR-4.4.3.2, источник 12). [Это отличие от правил, изложенных в 
+рекомендациях по номенклатуре неорганических соединений 1990 года.] В линейной формуле &(coordination entity) всегда 
+заключается в квадратные скобки. Если структура представлена ​​в виде развернутых органических формул, использование скобок 
+не требуется. Для обозначения сложных органических лигандов в формулах применяются сокращения (хотя в названиях их использовать 
+не следует); например: Et — этил, ox — этандиоато или оксалато, py — пиридин (см. IR-4.4.3.2, а также таблицы VII и VIII, 
+источник 12).
+
+en: In names of coordination compounds, the name of the central atom is placed after that of the ligand(s), which are listed 
+in alphabetical order, regardless of the number of each. A compound or complex ligand is treated as a single unit. The 
+names of anionic ligands, whether organic or inorganic, end in ‘o’. If the anion name ends in ‘ate’, ‘ite’, or ‘ide’, the 
+final letter ‘e’ is replaced by ‘o’, giving ‘ato’, ‘ito’, or ‘ido’. 
+ru: В названиях координационных соединений наименование центрального атома ставится после названий лигандов, которые 
+перечисляются в алфавитном порядке, независимо от их количества. Сложный или составной лиганд рассматривается как единое целое. 
+Названия анионных лигандов — как органических, так и неорганических — оканчиваются на «о». Если название аниона оканчивается на 
+«-ат», «-ит» или «-ид», то добавляется конечная буква «o», в результате чего образуются окончания «-ато», «-ито» или «-идо».
+
+@Examples
+
+@cell
+<$ CH3^- $>
+
+en: methanido (for the suffix ‘ide’, see P-72.2.2.1) 
+ru: метанидо (о суффиксе «-ид» см. P-72.2.2.1)
+
+@cell
+<$ C6H5^- $>
+
+en: benzenido
+ru: бензенидо
+
+@cell
+<$ (CH3)2As^- $>
+
+en: dimethylarsanido
+ru: диметиларсанидо
+
+@cell
+<$ CH3-COO^- $>
+
+en: acetato (for the ending ‘ate’, see P-65.6.1)
+ru: ацетато (для окончания «-ат» см. в P-65.6.1)
+
+@End
+
+en: Because of a long established tradition, names for substituent groups as defined in Section P-29 can also be used as 
+ligand names. 
+ru: В силу давней традиции названия &(substituent group|ro*), определённые в разделе P-29, могут также использоваться 
+в качестве названий лигандов.
+
+@Examples
+
+@cell
+<$ CH3^– $>
+
+en: methyl 
+ru: метил 
+
+@cell
+<$ C6H5^– $>
+
+en: phenyl
+ru: фенил  
+
+@cell
+<$ (CH3)3Si^– $>
+
+en: trimethylsilyl  
+ru: триметилсилил
+
+@End
+
+en: The name of a coordinated molecule (neutral ligand) or of a cation as a ligand is used without change. 
+ru: Название координированной молекулы (нейтрального лиганда) или катиона, выступающего в качестве лиганда, используется без изменений.
+
+@Examples
+
+@cell
+<$ (CH3-CH2)3P   $>
+
+en: triethylphosphane
+ru: триэтилфосфан  
+
+@cell
+<$ CH3-NH2 $>
+  
+en: methanamine
+ru: метанамин 
+
+@End
+
+en: Exceptionally, the molecules <%a%>, <%b%>, <%c%>, and <%d%> are named ‘aqua’, ‘ammine’, ‘carbonyl’, and ‘nitrosyl’ when used 
+as ligands. 
+ru: В качестве исключения, молекулы <%a%>, <%b%>, <%c%> и <%d%> при использовании в качестве лигандов называются 
+«аква», «аммин», «карбонил» и «нитрозил».
+%a: <$ H2O $>
+%b: <$ NH3 $>
+%c: <$ CO $>
+%d: <$ NO $>
+
+#P-69.2.3
+en: Compounds with at least one metal-carbon single bond
+ru: Соединения, содержащие как минимум одну одинарную связь металл-углерод
+
+en: Compounds are named by citing the names of ligands, including hydrogen atom(s), in alphanumerical order, followed 
+by the name of the metal. The presence of hydrogen attached to a metal atom must always be indicated by the prefix 
+‘hydrido’.
+ru: Названия соединений формируются путем &(citation|ro) названий лигандов (включая атомы водорода) в алфавитно-цифровом 
+порядке, за которыми следует название металла. Наличие атома водорода, связанного с атомом металла, должно быть всегда 
+обозначено приставкой «гидридо».
+
+@Examples
+
+@cell
+<$ [Ti(CH3)Cl3] $>
+
+en: trichlorido(methanido)titanium  <br>
+trichlorido(methyl)titanium 
+ru: трихлоридо(метанидо)титан <br>
+трихлоридо(метил)титан
+
+@cell
+<$ [Pt{{C(O)-CH3}}(CH3)(PEt3)2]  $>
+
+en: acetyl(methanido)bis(triethylphosphane)platinum  <br>
+acetyl(methyl)bis(triethylphosphane)platinum 
+ru: ацетил(метанидо)бис(триэтилфосфан)платина <br>
+ацетил(метил)бис(триэтилфосфан)платина
+
+@cell
+<$ [Os(CH2-CH3)(NH3)5]Cl  $>
+
+en: pentaammine(ethanido)osmium(1+) chloride  <br>
+pentaammine(ethyl)osmium(1+) chloride 
+ru: пентааммин(этанидо)осмия(1+) хлорид <br>
+пентааммин(этил)осмия(1+) хлорид
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`//`\`||/\\<|>/@n(1)\\@n(2)/ReH2
+$>
+
+en: dihydrido(naphthalen-2-ido)rhenium  <br>
+dihydrido(naphthalen-2-yl)rhenium 
+ru: дигидридо(нафтален-2-идо)рений <br>
+дигидридо(нафтален-2-ил)рений
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-Hg-@n(4,-120)/=\@n(1,-60)<-COOH>`//`-`\\
+$>
+
+en: (4-carboxybenzenido)methanidomercury  <br>
+(4-carboxyphenyl)methylmercury 
+ru: (4-карбоксибензенидо)метанидортуть <br>
+(4-карбоксифенил)метилртуть
+
+@End
+
+#P-69.2.4
+en: Organometallic groups with multicenter bonding to carbon atoms  
+ru: Металлоорганические группы с многоцентровым связыванием с атомами углерода
+
+en: In order to indicate multicenter bonding to carbon atoms, for example in an unsaturated system, the name of the ligand 
+is preceded by the prefix η (eta). A right superscript is added to the symbol η to indicate the number of atoms that bind 
+to the metal. When it is necessary to indicate that not all unsaturation sites are bonded to the metal, numerical locants 
+are added in front of the symbol η. It may also be necessary to denote a single atom in the ligand that is directly 
+attached to the metal; in this case, the symbol κ (kappa) is cited before the element symbol that indicates the specific 
+position that is bonded to the metal. See IR-10.2.5.1 and IR-10.2.3.3 (ref. 12) for a complete discussion on the use of η 
+and κ symbols in additive nomenclature. 
+ru: Для обозначения многоцентрового связывания с атомами углерода, например, в ненасыщенной системе, перед названием лиганда 
+ставится префикс η (эта). К символу η добавляется верхний индекс справа, указывающий число атомов, связанных с металлом. 
+Если необходимо подчеркнуть, что не все центры ненасыщенности участвуют в связывании с металлом, перед символом η помещают 
+цифровые локанты. Также может возникнуть необходимость указать конкретный атом в составе лиганда, непосредственно связанный 
+с металлом; в этом случае перед символом соответствующего элемента ставится симвx`ол κ (каппа), обозначающий конкретное 
+положение, в котором осуществляется связь с металлом. Подробное описание использования символов η и κ в аддитивной номенклатуре 
+см. в разделах IR-10.2.5.1 и IR-10.2.3.3 (ссылка 12).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+Cr@:r(a,c,l:CH2,r:CH2)<_(A&a,L2.1)&c<_(a110,L%s:1.2,S:|)&r>_(a-110,L%s,S|:)&l>@(-90,C<_(y-.5)H>,l:H2C)@r(25,CH,r:H2C)@r(155,HC,r:H2C)
+$>
+
+en: tris(η^{3}-allyl)chromium
+ru: трис(η^{3}-аллил)хром
+
+@cell
+<$
+$L(1.2)@:sl(a,l)$slope(&a)&l@(%a:10,`/)@sl(%b:50,//)$color(darkgray)@sl(%a,/)$color()@sl(%c:25,\)@sl(%b,`//)_#1_(A-85,L2)_#4#
+_(p1;2;3;4,N0)_(y1.5,x.3)Fe<_(p1;4;5;6)>(CO)3
+$>
+
+en: [(2,3,5,6-η)-bicyclo[2.2.1]hepta-2,5-diene]tricarbonyliron
+ru: [(2,3,5,6-η)-бицикло[2.2.1]гепта-2,5-диен]трикарбонилжелезо
+
+@cell
+<$
+|@:in(m,d:0.3)<_(a-115.7,L&d,N0)"":&m>@(c)_q7_qq7_q7_qq7_q7@in(a)$color(darkgray)_q7$color()@in(b,.1)_s(#c;b;a)_(a-115,L.8,N0)$L(1.7)_(A-125)Mo#
+<_(A120)OC><_(A160)OC>$color(darkgray)_(A-90)$color()_(x-.5,y.6,N0)_(x1)_q_q_q_q_o
+$>
+
+en: dicarbonyl[(1−3-η)-cyclohepta-2,4,6-trien-1-ido](η^{5}-cyclopenta-2,4-dien-1-ido)molybdenum  <br>
+dicarbonyl[(1−3-η)-cyclohepta-2,4,6-trien-1-yl](η^{5}-cyclopenta-2,4-dien-1-yl)molybdenum  <br>
+dicarbonyl[(1−3-η)-cyclohepta-2,4,6-trien-1-ido](η^{5}-cyclopentadienido)molybdenum 
+ru: дикарбонил[(1-3-η)-циклогепта-2,4,6-триен-1-идо](η^{5}-циклопента-2,4-диен-1-идо)молибден <br>
+дикарбонил[(1-3-η)-циклогепта-2,4,6-триен-1-ил](η^{5}-циклопента-2,4-диен-1-ил)молибден <br>
+дикарбонил[(1-3-η)-циклогепта-2,4,6-триен-1-идо](η^{5}-циклопентадиенид)молибден
+
+@cell
+<$
+$padding(0.2)[(OC)3Mo; $color(darkgray)|$color()_q7_q7_q7_q7_q7_q7_o_(p-3;-3;-6;-7,N0)_(x-2.2)#Mo]^+
+$>
+
+en: tricarbonyl(η^{7}-cycloheptatrienylium)molybdenum(1+)  <br>
+tricarbonyl(η^{7}-cyclohepta-2,4,6-trien-1-ylium)molybdenum(1+)
+ru: трикарбонил(η^{7}-циклогептатриенил&(ium))молибден(1+) <br>
+трикарбонил(η^{7}-циклогепта-2,4,6-триен-1-ил&(ium))молибден(1+)
+
+@End
+
+#P-69.2.5
+en: Bridging organometallic groups with multicenter bonding to carbon atoms 
+ru: Соединение металлоорганических групп с атомами углерода посредством многоцентровых связей
+
+en: The prefix ‘μ’ (see IR-9.2.5.2, ref. 12) is added at the front of the name of a bridging ligand to indicate bridging 
+between two metal atoms. Locants for the ‘η’ positions are separated by a colon and a hyphen is added following the 
+name of the bridging group. Direct bonding between metal atoms is indicated as described in IR-10.2.5.1 (ref. 12). 
+ru: Префикс «μ» (см. IR-9.2.5.2, ссылка 12) добавляется перед названием мостикового лиганда для указания на то, что он 
+связывает два атома металла. Локанты для положений «η» разделяются двоеточием, а после названия мостиковой группы 
+ставится дефис. Прямая связь между атомами металла обозначается в соответствии с описанием в разделе IR-10.2.5.1 (ссылка 12).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.35)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|<$color(darkgray)_p$color()@n(3,120)_p@n(2,180)_p@n(1,-120)_p_o@n(8a,-100,.5)>@n(3a,100,.5)<_(x-.7,y-.5,N0){}:a>#
+_q7@n(4,110)$color(gray)_(P-7,S|:)$color()@n(5,60)_(P-7,S|:)@n(6,0)_q7@n(7,-60)_qq7@n(8,-100)_q7;
+$L(1.2)$slope(70)OC-Fe@n(2,145,.6)<`/OC><_(y-2.3,x-.3)#a>_(x1.5)Fe<`/OC><\CO>@n(1,40,.6)<_(y-2.1,x.2){}>-CO
+$>
+
+en: {μ-[2(1–3,3a,8a-η):1(4−6-η)]azulene}-(pentacarbonyl-1κ^{3}C,2κ^{2}C)diiron(_Fe_—_Fe_) 
+ru: {μ-[2(1–3,3a,8a-η):1(4−6-η)]азулен}-(пентакарбонил-1κ^{3}C,2κ^{2}C)дижелезо(_Fe_—_Fe_)
+
+@End
+
+#P-69.2.6
+en: Organometallic compounds with unsaturated molecules and substituent groups 
+ru: Металлоорганические соединения с ненасыщенными молекулами и &(substituent group|tv*)
+
+en: Organic molecules used as ligands are named substitutively in accordance with principles, rules and conventions of 
+substitutive nomenclature and cited in the name of the organometallic compound with the appropriate ‘η’ (hapto) 
+symbols. This method is preferred to that consisting of using prefixes only to denote characteristic groups in the organic 
+part of the organometallic compound. 
+ru: Органические молекулы, выступающие в роли лигандов, &(named substitutively|*) по принципам, правилам и соглашениям 
+&(substitutive nomenclature|ro) и &(cited|*) в названии металлоорганического соединения с использованием соответствующих 
+символов «η» (гапто-). Этот метод предпочтительнее того, при котором для обозначения &(characteristic group|ro*) 
+в органической части металлоорганического соединения используются только префиксы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(50)`/<_(A45)P(C6H5)2>@n(2,110)$color(darkgray)_(x-%h:1.6)$color()`\/_(x%h)\_s<_(x-1.4,N0){}:a>@n(1,-60)-CH</N(CH3)2>\CH3;
+$L(1.4)Cr<_(A150)OC><_(A60)CO><_(A20)CO>_(y-2.2,H)#a
+$>
+
+en: tricarbonyl{1-[2-(diphenylphosphanyl)-η^{6}-phenyl]-_N_,_N_-dimethylethan-1-amine}chromium
+ru: трикарбонил{1-[2-(дифенилфосфанил)-η^{6}-фенил]-_N_,_N_-диметилэтан-1-амин}хром
+
+@cell
+<$
+_(A60)$color(darkgray)_(A10,L1.3)$color()_(A-70)_(A150,N2)_(A120,W+)_(A180)_(A-120,L1.2,W-)=#1#
+_(x#1;5,y-0.8,H)Rh<_(p4;5,H,x-.2,y-.2)>;
+$slope(50)`/$color(darkgray)_(x-%h:1.6)$color()`\/_(x%h)\_s()<_(x-1.4,N0){}:t>-B(C6H5)3;
+#Rh_(y-1.8,H)#t
+$>
+
+en: [(1,2,5,6-η)-cycloocta-1,5-diene][triphenyl(η^{6}-phenyl)boranuido]rhodium  <br>
+[(1,2,5,6-η)-cycloocta-1,5-diene][triphenyl(η^{6}-phenyl)borato]rhodium 
+ru: [(1,2,5,6-η)-циклоокта-1,5-диен][трифенил(η^{6}-фенил)борануидо]родий <br>
+[(1,2,5,6-η)-циклоокта-1,5-диен][трифенил(η^{6}-фенил)борато]родий
+
+@End
+
+#P-69.2.7
+en: “Ocenes”
+ru: «Оцены»
+
+en: “Ocenes” are bis(<%n%>-cyclopenta-2,4-dien-1-ido) or bis(<%n%>-cyclopenta-2,4-dien-1-yl) or bis(<%n%>-cyclopentadienido) 
+complexes of certain metals. The names ferrocene, ruthenocene, osmocene, nickelocene, chromocene, cobaltocene, and 
+vanadocene are names for compounds corresponding to ‘bis(λ^{5}-cyclopenta-2,4-dien-1-yl)metal’, where the metal atom 
+is Fe, Ru, Os, Ni, Cr, Co, and V. Ocenes are considered as heterocycles and seniority is based on the extension of the 
+list of seniority for heterocycles through Groups 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, for example nickelocene > 
+cobaltocene > ferrocene. These names are substituted in accordance with the principles, rules, and conventions of 
+substitutive nomenclature, using suffixes or prefixes to denote characteristic groups. 
+ru: «Оцены» — это бис(<%n%>-циклопента-2,4-диен-1-идо), бис(<%n%>-циклопента-2,4-диен-1-ил) или бис(<%n%>-циклопентадиенидо)
+комплексы определенных металлов. Названия «ферроцен», «рутеноцен», «осмоцен», «никелоцен», «хромоцен», «кобальтоцен» и 
+«ванадоцен» относятся к соединениям, соответствующим общей формуле «бис(λ^{5}-циклопента-2,4-диен-1-ил)металл», где 
+в качестве металла выступают Fe, Ru, Os, Ni, Cr, Co или V соответственно. Оцены рассматриваются как гетероциклические 
+соединения; их старшинство определяется расширенным рядом старшинства для гетероциклов, включающим группы 
+12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 и 1 (например: никелоцен > кобальтоцен > ферроцен). Названия этих соединений могут быть 
+модифицированы в соответствии с принципами, правилами и соглашениями &(substitutive nomenclature|ro) с использованием 
+суффиксов или префиксов для обозначения характеристических &(characteristic group|ro*).
+%n:η^{5}
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(3',150)_q@n(2',60)_q@n(1',60)<-CO-CH3><_(x-%d:.9,N0){}:a>_q@n(5',-40)$color(darkgray)_q$color()@n(4',-150)_o;
+#a_(y%v:-1.8)Fe$color(darkgray)_(y%v)$color(){}:b;
+|@n(2,30)_p@n(3,140)_p@n(4,180)<_(x%d,N0)#b>_p@n(5,-140)_p@n(1,30)_o_(a-54)CO-CH3
+$>
+
+en: 1,1′-(ferrocene-1,1′-diyl)di(ethan-1-one) (PIN)  <br>
+1,1′-diacetylferrocene
+ru: 1,1′-(ферроцен-1,1′-диил)ди(этан-1-он) (PIN) <br>
+1,1′-диацетилферроцен
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(3',150)_q@n(2',60)_q@n(1',0)<_(x-%d:.9,N0){}:a>_q@n(5',-40)$color(darkgray)_q$color()@n(4',-150)_o;
+#a_(y%v:-1.7)Os$color(darkgray)_(y%v)$color(){}:b;
+|@n(2,30)_p@n(3,140)_p@n(4,180)<_(x%d,N0)#b>_p@n(5,-140)_p@n(1,30)_o_(a-54)CH2-CH2-OH
+$>
+
+en: 2-(osmocen-1-yl)ethanol (PIN)  <br>
+1-(2-hydroxyethyl)osmocene
+ru: 2-(осмоцен-1-ил)этанол (PIN) <br>
+1-(2-гидроксиэтил)осмоцен
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)|@n(3',150)_q@n(2',60)_q@n(1',0)<_(x-%d:.9,N0){}:a>_q@n(5',-40)$color(darkgray)_q$color()@n(4',-150)_o;
+#a_(y%v:-1.7)V$color(darkgray)_(y%v)$color(){}:b;
+|@n(2,30)_p@n(3,140)_p@n(4,180)<_(x%d,N0)#b>_p@n(5,-140)_p@n(1,30)_o_(a-54)CH<|CH3>-N(CH3)2
+$>
+
+en: _N_,_N_-dimethyl-1-vanadocenylethan-1-amine (PIN)  <br>
+[1-(dimethylamino)ethyl]vanadocene 
+ru: _N_,_N_-диметил-1-ванадоценилэтан-1-амин (PIN) <br>
+[1-(диметиламино)этил]ванадоцен
+
+@cell
+<$
+@:n(n,a:-90,L:.44)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:v(m)<_(y%v:.9,N0){}:&m>@;
+$L(1.1)@:Lo(h,m)-@n(2&h,50)_q<_(a54)CH3>@n(1&h,-65)$color(darkgray)_q@n(5&h,-165,.5)@v(&m)_q$color()@n(4&h,-175)_q@n(3&h,130)_o@(',c); @Lo(''',d);
+$color(darkgray)`-$color()@n(3,130)_p@n(4,-170,.35)_p@n(5)@v(a)_p@n(1,-80)<_p@n(2,50)_o>-CH2-C`H2-:rt;
+$color(darkgray)-$color()@n(3'',50)_q@n(4'',-20)_q@n(5'')@v(b)_q#rt@n(1'')_q@n(2'',130)_o;
+#a_(y%d:1.8)Ru_(y%d)#c; #b_(y%d)Ru_(y%d)#d
+$>
+
+en: 1,1′′-(ethane-1,2-diyl)bis(1′-methylruthenocene) (PIN)
+ru: 1,1′′-(этан-1,2-диил)бис(1′-метилрутеноцен) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-100,L:.7)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,126,0.8)@;
+@:gr()$color(darkgray)@; @:v(m)<_(y1.1,N0){}:&m>@;
+$L(1.1)@gr()`-@n(3,120)$color()_p@n(4,-160)_p@v(a)@btc(1)@n(5)_p@n(1,-70)<_p@n(2,60)_o>-C_(h)H2@bt(2)-:rt;
+@gr()`-$color()@n(5,120)_p#rt@n(1,-110)_p@n(2)@btc(3)@v(b)_p@n(3,-20)_p@n(4,60)_o;
+`-@n(3',120)_p@n(4',-160)@gr()_p@v(c)@n(5',-170)_p$color()@n(1',-70)<_p@n(2',60)_o>-C_(h)H2@bt(4,100)-:rb;
+`-@n(5',120)_p#rb@n(1',-110)@gr()_p@v(d)@n(2',-20)_p$color()@n(3',-20)_p@n(4',60)_o;
+#a_(y%d1:1.5)Fe_(y%d2:2)#c; #b_(y%d1)Fe_#d
+$>
+
+en: 1,3(1,1′)-diferrocenacyclotetraphane (PIN)
+ru: 1,3(1,1′)-диферроценациклотетра&(phane) (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:bt(t,a:-100,L:.7)<_(a&a,L&L,N0)$itemColor1(blue)"&t">@; @:btc(n)@bt(&n,126,0.8)@;
+@:gr()$color(darkgray)@; @:v(m)<_(y1.1,N0){}:&m>@;
+$L(1.1)@gr()`-@n(3,120)$color()_p@n(4,-160)_p@v(a)@btc(1)@n(5)_p:rt@n(1,-70)_p@n(2,60)_o;
+`-@n(3',120)_p@n(4',-160)@gr()_p@v(b)@n(5',-160)_p$color():rb@n(1',30)_p@n(2',60)_o;
+$L(1.2)#rt\CH2|CH2|CH2<`/#rb>_(A50)CH2-COOH;
+#a_(y1.5)Fe_#b
+$>
+
+en: 3,5-(ferrocene-1,1′-diyl)pentanoic acid (PIN) <br>
+1,1′-(4-carboxybutane-1,3-diyl)ferrocene 
+ru: 3,5-(ферроцен-1,1′-диил)пентановая кислота (PIN) <br>
+1,1′-(4-карбоксибутан-1,3-диил)ферроцен
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:gr()$color(darkgray)@; @:v(m)<_(a-126,L.95,N0){}:&m>@;
+$L(1.1)`/`\\`|//\|@n(3a,80)@gr()_q$color()@n(3,70)_q@n(2,0)@v(a)_q@n(1,-70)_q_o@n(7a,-80);
+-_q@gr()_q@v(b)_q$color()_q_o; #a_(y1.8)Fe_(y1.7)#b
+$>
+
+en: benzoferrocene (PIN)  <br>
+(η^{5}-cyclopenta-2,4-dien-1-ido)[(1,2,3,3a,7a)-η^{5}-1_H_-inden-1-ido]iron  <br>
+(η^{5}-cyclopenta-2,4-dien-1-yl)[(1,2,3,3a,7a)-η^{5}-1_H_-inden-1-yl]iron  <br>
+(η^{5}-cyclopentadienido)[(1,2,3,3a,7a)-η^{5}-indenido]iron 
+ru: бензоферроцен (PIN) <br>
+(η^{5}-циклопента-2,4-диен-1-идо)[(1,2,3,3a,7a)-η^{5}-1_H_-инден-1-идо]железо <br>
+(η^{5}-циклопента-2,4-диен-1-ил)[(1,2,3,3a,7a)-η^{5}-1_H_-инден-1-ил]железо <br>
+(η^{5}-циклопентадиенид)[(1,2,3,3a,7a)-η^{5}-инденидо]железо
+
+@End
+
+
+#P-69.3
+en: Organometallic compounds involving the elements in Groups 1 and 2  
+ru: Металлоорганические соединения, включающие элементы Групп 1 и 2
+
+en: Although many organometallic compounds of Groups 1 and 2 elements exist in associated molecular form and contain 
+structural solvent, their names are based on the stoichiometric compositions of the compounds, the solvent, if any, being 
+ignored. Additive names are formed by citing the names of the ligands denoting the organic groups and the ligand 
+‘hydrido’ denoting the hydrogen atoms, if any, in alphabetical order, followed by the name of the metal. 
+ru: Хотя многие металлоорганические соединения элементов 1-й и 2-й групп существуют в виде ассоциатов и содержат молекулы 
+растворителя, их названия основываются на стехиометрическом составе самих соединений, без учета растворителя 
+(если он присутствует). &(Additive name|ro*) формируются путем перечисления в алфавитном порядке названий лигандов, 
+соответствующих органическим группам, а также лиганда «гидридо» (если в соединении присутствуют атомы водорода), после чего 
+указывается название металла.
+
+@Examples
+
+@cell
+<$ [BeEtH]  $>
+
+en: ethylhydridoberyllium  <br>
+ethanidohydridoberyllium 
+ru: этилгидридобериллий <br>
+этанидогидридобериллий
+
+@cell
+en: <%a%> or <%b%>
+ru: <%a%> или <%b%>
+%a: <$ NaCH=CH2 $>
+%b: <$ [Na(CH=CH2)] $>
+
+en: ethenidosodium  <br>
+ethenylsodium  <br>
+vinylsodium  <br>
+(sodium ethenide is also acceptable;  <br>
+it is a compositional name analogous to sodium chloride; see IR-5, ref. 12) 
+ru: этенидонатрий <br>
+этенилнатрий <br>
+винилнатрий <br>
+(допустимо также название «этенид натрия»; <br>
+это &(compositional name), аналогичное названию «хлорид натрия»; см. IR-5, ссылка 12)
+
+@cell
+<$ [LiMe]  $>
+
+en: methanidolithium  <br>
+methyllithium 
+ru: метанидолитий <br>
+метиллитий
+
+@cell
+<$ [(LiMe)4]  $>
+
+en: tetra-μ_{3}-methanido-tetralithium  <br>
+tetra-μ_{3}-methyl-tetralithium 
+ru: тетра-μ_{3}-метанидо-тетралитий <br>
+тетра-μ_{3}-метил-тетралитий
+
+@cell
+<$ (LiMe)'n' $>
+  
+en: poly(methyllithium)  <br>
+poly(methanidolithium) 
+ru: поли(метиллитий) <br>
+поли(метанидолитий)
+
+@cell
+<$ LiMe  $>
+
+en: lithium methanide (compositional name; see IR-5, ref. 12) 
+ru: метаннид лития (&(compositional name); см. IR-5, прим. 12)
+
+@cell
+<$ [MgI(Me)]  $>
+
+en: iodido(methanido)magnesium  <br>
+(additive name of coordination type) 
+ru: йодидо(метанидо)магний <br>
+(&(additive name) координационного типа)
+
+@cell
+<$ [MgMe]I  $>
+
+en: methylmagnesium iodide (compositional name;  <br>
+the formally electropositive component named by additive nomenclature) 
+ru: метилмагний иодид (&(compositional name); <br>
+формально электроположительный компонент назван в соответствии с &(additive nomenclature|tv))
+
+@cell
+<$ [MgI(Me)]'n' $>
+  
+en: poly[iodido(methanido)magnesium], or  <br>
+poly[iodido(methyl)magnesium] 
+ru: поли[иодидо(метанидо)магний], или <br>
+поли[иодидо(метил)магний]
+
+@cell
+<$ MgIMe  $>
+
+en: magnesium iodide methanide  <br>
+(compositional name, see IR-5, ref. 12) 
+ru: магния иодид метанид <br>
+(&(compositional name); см. IR-5, ссылка 12)
+
+@End
+
+
+#P-69.4
+en: Metallacycles 
+ru: Металлациклы
+
+en: Metallacycles are organic heterocycles in which one or more heteroatoms is (are) metal atoms other than the metals 
+normally included in the nomenclature systems for heteromonocycles (see P-22.2). They may be named by extending 
+the Hantzsch-Widman system to include the metallic elements in addition to those in Groups 13 through 16, but with a 
+‘0’ standard valence and the stems described in Table 2.5, for example ‘ine’ and ‘inane’ for unsaturated and saturated 
+six-membered heterocycles, respectively or by selecting a parent hydrocarbon ring or ring system and replacing one or 
+more carbon atoms by a metal atom from Groups 2 through 12 using a nondetachable skeletal replacement (‘a’) prefix 
+to create the metallacyclic parent hydride. The name is adjusted to conform to the observed formula by substitutions 
+using detachable prefixes on the ring and appropriate ligand names to describe atoms or groups attached to the metal 
+atom.
+ru: Металлациклы — это органические гетероциклы, в которых один или несколько гетероатомов представлены атомами металлов 
+(за исключением тех металлов, которые обычно включаются в номенклатурные системы для гетеромоноциклов; см. P-22.2). 
+Их можно называть, расширяя систему &(hantzsch-widman|ro) путем включения в нее, помимо элементов 13–16-й групп, также 
+металлических элементов; при этом для металлов принимается стандартная валентность, равная «0», а используются основы 
+названий, приведенные в &[таблице 2.5] (например, «-ин» для ненасыщенных и «-инан» для насыщенных шестичленных гетероциклов). 
+Другой способ — выбрать в качестве основы углеводородное кольцо или циклическую систему и заменить один или несколько атомов 
+углерода атомом металла (из 2–12-й групп), используя &(nondetachable [prefix]) префикс &(skeletal replacement a|ro) 
+для формирования &(parent hydride|ro) металлацикла. Название корректируется в соответствии с установленной химической 
+формулой путем добавления к кольцу &(detachable [prefix]|ro*) префиксов, а также использования соответствующих названий 
+лигандов для описания атомов или групп, присоединенных к атому металла.
+
+#P-69.5
+en: Seniority order for organometallic compounds
+ru: Порядок старшинства для металлоорганических соединений 
