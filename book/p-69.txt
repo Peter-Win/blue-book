@@ -381,8 +381,8 @@ $>
 
 en: tricarbonyl(η^{7}-cycloheptatrienylium)molybdenum(1+)  <br>
 tricarbonyl(η^{7}-cyclohepta-2,4,6-trien-1-ylium)molybdenum(1+)
-ru: трикарбонил(η^{7}-циклогептатриенил&(ium))молибден(1+) <br>
-трикарбонил(η^{7}-циклогепта-2,4,6-триен-1-ил&(ium))молибден(1+)
+ru: трикарбонил(η^{7}-циклогептатриенил&(-ium))молибден(1+) <br>
+трикарбонил(η^{7}-циклогепта-2,4,6-триен-1-ил&(-ium))молибден(1+)
 
 @End
 
@@ -708,6 +708,218 @@ ru: Металлациклы — это органические гетероц�
 формулой путем добавления к кольцу &(detachable [prefix]|ro*) префиксов, а также использования соответствующих названий 
 лигандов для описания атомов или групп, присоединенных к атому металла.
 
+@p .framed
+en: The option to include the metallic elements in addition to the metals in Groups 13 through 16 in the Hantzsch
+Widman system and their skeletal replacement (‘a’) prefixes is a major change from previous recommendations on 
+the Hantzsch-Widman system. 
+ru: Возможность включения металлических элементов в дополнение к металлам из групп 13–16 в систему &(hantzsch-widman|ro), 
+а также использование для них префиксов &(hantzsch-widman|ro) для обозначения замещения атомов в скелете молекулы, 
+представляет собой существенное изменение по сравнению с прежними рекомендациями по системе &(hantzsch-widman|ro).
+
+en: **Note:** A project to consider the nomenclature for metallacycles containing transition metals has been established. 
+ru: **Примечание:** Был запущен проект по рассмотрению номенклатуры металлоциклов, содержащих переходные металлы.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+-<_(a54)CH3>@n(3,0)_qq<_(a54)CH3>@n(2,-80)_qPt@n(1,90,.55)<_(A-60)Cl><_(A-120)Cl>_q@n(5,-100)<_(a54)H3C>_qq@n(4,180)_(a54)H3C
+$>
+
+en: 1,1-dichloro-2,3,4,5-tetramethylplatinole  <br>
+(Hantzsch-Widman type name)  <br>
+1,1-dichloro-2,3,4,5-tetramethyl-1-platinacyclopenta-2,4-diene  <br>
+(skeletal replacement name) 
+ru: 1,1-дихлор-2,3,4,5-тетраметилплатинол  <br>
+(&(hantzsch-widman name))  <br>
+1,1-дихлор-2,3,4,5-тетраметил-1-платинациклопента-2,4-диен  <br>
+(&(skeletal replacement name))
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)`-_p_pFe@n(2,90,.55)<_(A-60)CO><_(A-120)OC><_(A-10)CO><_(A-170)OC>_pSiCl2@n(1,80,.55)_p
+$>
+
+en: 2,2,2,2-tetracarbonyl-1,1-dichloro-1,2-silaferrolane  <br>
+(Hantzsch-Widman type name)  <br>
+2,2,2,2-tetracarbonyl-1,1-dichloro-1-sila-2-ferracyclopentane  <br>
+(skeletal replacement name) 
+ru: 2,2,2,2-тетракарбонил-1,1-дихлор-1,2-силаферролан  <br>
+(&(hantzsch-widman name))  <br>
+2,2,2,2-тетракарбонил-1,1-дихлор-1-сила-2-феррациклопентан  <br>
+(&(skeletal replacement name))
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ps(a)_(A&a,L1.4)_(a55,L.9)_(a100,L%l:1.33,w+)_(a50,L%l,w-)_#-5_s_(a90,L.9,N0){}@(-45):a;@ps(45):b;
+$L(1.2)$slope(45)Ti/d\@n(1,-60)`/<_q_q_q_q>`\ww@n(6,90,.55)$L(1.8)<`/#b>`\#a 
+$>
+
+en: 6,6-di(η^{5}-cyclopenta-2,4-dien-1-ido)-6-titanabicyclo[3.2.0]heptane  <br>
+(skeletal replacement name)  <br>
+6,6-di(η^{5}-cyclopentadienyl)-6-titanabicyclo[3.2.0]heptane  <br>
+(skeletal replacement name)  <br>
+6,6-di(η^{5}-cyclopentadienido)-6-titanabicyclo[3.2.0]heptane  <br>
+(skeletal replacement name)
+ru: 6,6-ди(η^{5}-циклопента-2,4-диен-1-идо)-6-титанабицикло[3.2.0]гептан <br>
+(&(skeletal replacement name)) <br>
+6,6-ди(η^{5}-циклопентадиенил)-6-титанабицикло[3.2.0]гептан <br>
+(&(skeletal replacement name)) <br>
+6,6-ди(η^{5}-циклопентадиенид)-6-титанабицикло[3.2.0]гептан <br>
+(&(skeletal replacement name))
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(30)CO_(A-160)Ir`//`\@n(3,90)<`/H3C>`||/@n(5,-150)<`|CH3>\\|@n(1,120,.6)$L(1.1)<|P(CH2-CH3)3>/P(CH2-CH3)3
+$>
+
+en: 1-carbonyl-3,5-dimethyl-1,1-bis(triethylphosphane)-1-iridabenzene  <br>
+(skeletal replacement name) 
+ru: 1-карбонил-3,5-диметил-1,1-бис(триэтилфосфан)-1-иридабензол <br>
+(&(skeletal replacement name))
+
+@cell
+<$
+@:n(n,a:-90,L:.32)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$slope(48)$L(1.4)(CH3)2P/\P<(CH3)2>`/vPt@n(9,-90,.55)<`\vv>#
+$slope(30)$L(1)\|l\@n(4,90)//`|`\\@n(1)`/|`/@n(10,90)`\`|l`\@n(8)`//|\\@n(5,90)/`|/
+$>
+
+en: 9,9-[methylenebis(dimethylphosphane)]-10_H_-9-platinaanthracene  <br>
+(skeletal replacement name) 
+ru: 9,9-[метиленбис(диметилфосфан)]-10_H_-9-платинаантрацен <br>
+(&(skeletal replacement name))
+
+@cell
+<$
+@:n(n,a:-90,L:.34)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(y1.1)@n(4,160)_q7<|O-CH3>@n(5,45)_q7:n6@n(6,30)_q7Pt@n(7,180,.5)_q7@n(1,-30)<_(x-.8,y#Pt)@n(8,-180)_#n6>_q7<_q7@n(3,-160)>@n(2,-140)`|O-CH3;
+$L(1.5)$slope(45)#Pt/vvP(C6H5)3; #Pt\vvP(C6H5)3
+$>
+
+en: 2,5-dimethoxy-7,7-bis(triphenylphosphane)-7-platinabicyclo[4.1.1]octane  <br>
+(skeletal replacement name) 
+ru: 2,5-диметокси-7,7-бис(трифенилфосфан)-7-платинабицикло[4.1.1]октан <br>
+(&(skeletal replacement name))
+
+@cell
+<$
+@:n(n,a:-90,L:.34)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)$slope(42)I\Pt@n(1,,.6)`/@n(4,180)\@n(3,90,.5)`/H;
+CH3`/#Pt\@n(2,0)`/\$L()CH2_(h)CH<`|CH3>-CO-O-CH3;
+(CH3-CH2)3P_(x%d:2.2,>)#Pt_(x%d,<)P(CH2-CH3)3
+$>
+
+en: methyl 3-[1-iodo-1-methyl-1,1-bis(triethylphosphane)platinetan-3-yl]-2-methylpropanoate  <br>
+(Hantzsch-Widman name) <br>
+methyl 3-[1-iodido-1-methanido-1,1-bis(triethylphosphane)platinetan-3-yl]-2-methylpropanoate  <br>
+(Hantzsch-Widman name) <br>
+methyl 3-[1-iodo-1-methyl-1,1-bis(triethylphosphane)-1-platinacyclobutan-3-yl]-2- methylpropanoate  <br>
+(skeletal replacement name) 
+ru: метил-3-[1-йодо-1-метил-1,1-бис(триэтилфосфан)платинэтан-3-ил]-2-метилпропаноат <br>
+(&(hantzsch-widman name)) <br>
+метил 3-[1-йодидо-1-метанидо-1,1-бис(триэтилфосфан)платинэтан-3-ил]-2-метилпропаноат <br>
+(&(hantzsch-widman name)) <br>
+метил 3-[1-йодо-1-метил-1,1-бис(триэтилфосфан)-1-платинациклобутан-3-ил]-2-метилпропаноат <br>
+(&(skeletal replacement name))
+
+@End
+
+
 #P-69.5
 en: Seniority order for organometallic compounds
 ru: Порядок старшинства для металлоорганических соединений 
+
+en: When two different metals are present in an organometallic compound, one must be chosen as the basis of the name. 
+Metals are classified into:  
+ru: Если в металлоорганическом соединении присутствуют два различных металла, то один из них следует выбрать в качестве 
+основы для названия. Металлы подразделяются на:
+
+@List 1
+
+@item
+en: metals of Groups 1 through 12; and 
+ru: металлы групп 1–12; и
+
+@item
+en: metals of Groups 13 through 16. 
+ru: металлы групп 13–16.
+
+@End
+
+#P-69.5.1+
+en:  Compounds having two identical or different metal atoms belonging to the first class are named additively 
+using the methodology described in Section IR-9.2.5 of ref. 12, and the order of seniority of the Element Sequence 
+Table beginning at Zn, i.e. Zn > Cd > Hg >.....Li > Na > K > Rb > Cs > Fr (see Table VI, ref. 12). 
+ru: Соединения, содержащие два одинаковых или различных атома металлов, относящихся к первому классу, именуются по 
+аддитивному принципу в соответствии с методикой, описанной в разделе IR-9.2.5 источника 12, с учетом порядка старшинства 
+элементов, приведенного в таблице последовательности элементов (начиная с Zn): Zn > Cd > Hg > ... > Li > Na > K > Rb > Cs > Fr 
+(см. таблицу VI в источнике 12).
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.1)H3C\As</CH3>|\|`//N`\`||/\/Hg@n(1)\_(a54,N2)_q_qq<_qS_q>_(a54)Hg@n(2)-OH
+$>
+
+en: 1-[4-(dimethylarsanyl)pyridin-3-yl]-2-hydroxido-μ-thiophene-2,5-diyl-dimercury 
+ru: 1-[4-(диметиларсанил)пиридин-3-ил]-2-гидроксидо-μ-тиофен-2,5-диил-диртуть
+
+@End
+
+#P-69.5.2+
+en: Compounds having one metal atom of class (1) and another atom of class (2) are named additively using the 
+metal atom of class (1) as central atom, as in P-69.5.1; the other metal atom is named as a substituent group in 
+substitutive nomenclature or as a neutral ligand. 
+ru: Соединения, содержащие один атом металла класса (1) и другой атом класса (2), называют аддитивным способом, принимая 
+атом металла класса (1) за центральный атом (как в P-69.5.1); при этом другой атом металла обозначают либо как 
+&(substituent group) в &(substitutive nomenclature|pr), либо как нейтральный лиганд.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+C6H5-Hg-@n(1,-120)//-\\@n(4,-60)<`/`=`\>-Sb</C6H5>\C6H5
+$>
+
+en: [4-(diphenylstibanyl)phenyl](phenyl)mercury
+ru: [4-(дифенилстибанил)фенил](фенил)ртуть
+
+@End
+
+#P-69.5.3+
+en: For organometallic compounds having two metal atoms belonging to class (2), substitutive nomenclature is 
+used, as described in Section P-68. The order of priority to select the parent hydride is described in Section P-41: Sb > 
+Bi > Ge > Sn > Pb > Al > Ga > In > Tl. 
+ru: Для металлоорганических соединений, содержащих два атома металла и относящихся к классу (2), применяется 
+&(substitutive nomenclature), описанная в разделе P-68. Порядок приоритетности для выбора &(parent hydride) изложен 
+в разделе P-41: Sb > Bi > Ge > Sn > Pb > Al > Ga > In > Tl.
+
+@Examples
+
+@cell
+<$ (C6H5)2Bi-CH2-CH2-CH2-Pb(C2H5)3 $>
+  
+en: diphenyl[3-(triethylplumbyl)propyl]bismuthane (PIN) 
+ru: дифенил[3-(триэтилплюмбил)пропил]висмутан (PIN)
+
+@cell
+<$ H2Bi-GeH3 $>
+ 
+en: germylbismuthane
+ru: гермилвисмутан 
+
+@cell
+<$ Pb(SnH3)4 $>
+ 
+en: plumbanetetrayltetrakis(stannane)
+ru: плюмбантетраилтетракис(станнан)
+
+@End

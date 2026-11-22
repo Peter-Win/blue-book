@@ -505,12 +505,12 @@ ru: Соли четырехвалентного азота <%a%> (где одн�
 @item
 en: by adding the suffix ‘ium’ to the name of the amine or imine, with elision of the terminal letter ‘e’, if present, 
 substituent groups being cited as prefixes, and the name of the anion added as a separate word; 
-ru: путем добавления суффикса «&(ium)» к названию амина или имина, с опущением конечной буквы «e», если она присутствует, 
+ru: путем добавления суффикса «&(-ium)» к названию амина или имина, с опущением конечной буквы «e», если она присутствует, 
 при этом замещающие группы указываются в качестве префиксов, а название аниона добавляется как отдельное слово;
 
 @item
 en: by substituting the parent hydride ‘azanium’, <%n%>; 
-ru: путем замены &(parent hydride) «азан&(ium)», <%n%>;
+ru: путем замены &(parent hydride) «азан&(-ium)», <%n%>;
 %n: <$ NH4^+ $>
 
 @item
@@ -540,16 +540,16 @@ ru: (1) хлорид метанаминия (PIN) <br>
 
 en: (1) _N_-methylethanaminium bromide (PIN)  <br>
 (2) ethyl(methyl)azanium bromide 
-ru: (1) _N_-метилэтанамин&(ium) бромид (PIN) <br>
-(2) этил(метил)азан&(ium) бромид
+ru: (1) _N_-метилэтанамин&(-ium) бромид (PIN) <br>
+(2) этил(метил)азан&(-ium) бромид
 
 @cell
 <$ CH3-CH2-$pos(-90)N^+_(h)H(CH3)2-0I^- $>
 
 en: (1) _N,N_-dimethylethanaminium iodide (PIN)  <br>
 (2) ethyldi(methyl)azanium iodide 
-ru: (1) _N,N_-диметилэтанамин&(ium) йодид (PIN) <br>
-(2) этилди(метил)азан&(ium) йодид
+ru: (1) _N,N_-диметилэтанамин&(-ium) йодид (PIN) <br>
+(2) этилди(метил)азан&(-ium) йодид
 
 @cell
 <$ (CH3)4N^+ I^– $>
@@ -578,15 +578,15 @@ _N_-метилбензенаминий бромид <br>
 <$ -N^+<_(a54)CH3>_qq<-0Cl^->_qS_q_qq $>
 
 en: (1) 3-methyl-1,3-thiazol-3-ium chloride (PIN) 
-ru: (1) 3-метил-1,3-тиазол-3-&(ium) хлорид (PIN)
+ru: (1) 3-метил-1,3-тиазол-3-&(-ium) хлорид (PIN)
 
 @cell
 <$ CH3-CH=N$pos(-90)^+_(h)H-CH3-0Cl^- $>
 
 en: (1) _N_-methylethaniminium chloride (PIN)  <br>
 (2) ethylidene(methyl)azanium chloride 
-ru: (1) _N_-метилэтанимин&(ium) хлорид (PIN) <br>
-(2) этилиден(метил)азан&(ium) хлорид
+ru: (1) _N_-метилэтанимин&(-ium) хлорид (PIN) <br>
+(2) этилиден(метил)азан&(-ium) хлорид
 
 @cell
 <$
@@ -595,8 +595,8 @@ $>
 
 en: (1) N-phenylethaniminium bromide (PIN)  <br>
 (2) ethylidene(phenyl)azanium bromide 
-ru: (1) N-фенилэтанимин&(ium) бромид (PIN) <br>
-(2) этилиден(фенил)азан&(ium) бромид
+ru: (1) N-фенилэтанимин&(-ium) бромид (PIN) <br>
+(2) этилиден(фенил)азан&(-ium) бромид
 
 @End
 

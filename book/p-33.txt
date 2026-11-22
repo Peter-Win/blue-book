@@ -64,7 +64,7 @@ ru: метан (PIN)
 en: methanium (PIN)  <br>
 (the suffix ‘-ium’  indicates addition of <$H^+$>)
 ru: &(methanium) (PIN) <br>
-(суффикс «-&(ium)» указывает на добавление <$H^+$>)
+(суффикс «-&(-ium)» указывает на добавление <$H^+$>)
 
 
 @cell
@@ -96,7 +96,7 @@ en: methanaminium (PIN)  <br>
 (the suffix ‘-ium’  <br>
 describes addition of <$H^+$>) 
 ru: метанаминий (PIN) <br>
-(суффикс «-&(ium)» <br>
+(суффикс «-&(-ium)» <br>
 обозначает присоединение <$H^+$>)
 
 

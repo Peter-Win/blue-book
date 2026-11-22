@@ -41,6 +41,8 @@ h4, h5, h6 {
   align-items: flex-start;
 }
 .std-table-box.cells-align-top td {vertical-align: top;}
+.std-table-box.cells-align-baseline td {vertical-align: baseline;}
+
 
 .std-table-box td.middle {vertical-align: middle;}
 .std-table-box td.top {vertical-align: top;}

@@ -230,6 +230,7 @@
   "characteristic group|ro*": "характеристических групп",
   "characteristic group|da*": "характеристическим группам",
   "characteristic group|tv*": "характеристическими группами",
+  "characteristic group|pr*": "характеристических группах",
 
   "chloridic acid:comment": "суффикс. русских аналогов не найдено.",
   "chloridic acid": "хлоридная кислота",
@@ -333,6 +334,8 @@
 
   "cumulative suffix": "кумулятивный суффикс",
   "cumulative suffix|*": "кумулятивные суффиксы",
+  "cumulative suffix|2*": "кумулятивных суффикса",
+  "cumulative suffix|ro*": "кумулятивных суффиксов",
 
   "cyanatidic acid": "цианатидная кислота",
   "cyanatidic [acid]": "цианатидная",
@@ -434,9 +437,11 @@
   "functional replacement prefix|tv*": "префиксами функционального замещения",
   
   "functional suffix": "функциональный суффикс",
+  "functional suffix|da": "функциональному суффиксу",
   "functional suffix|*": "функциональные суффиксы",
   "functional suffix|ro*": "функциональных суффиксов",
   "functional suffix|tv*": "функциональными суффиксами",
+  "functional suffix|da*": "функциональным суффиксам",
 
   "functionalized parent hydride": "функционализированный исходный гидрид",
   "functionalized [hydride]": "функционализированный",
@@ -602,8 +607,8 @@
 
   "-ite": "ит",
 
-  "ium:comment": "Суффикс для таких случаев: methanium - метаний",
-  "ium": "ий",
+  "-ium:comment": "Суффикс для таких случаев: methanium - метаний",
+  "-ium": "ий",
 
   "l-convention": "λ-конвенция",
   "l-convention|ro": "λ-конвенции",
@@ -816,6 +821,7 @@
   "parent phane hydrocarbon|da": "исходному фановому углеводороду",
 
   "parent radical|ro": "исходного радикала",
+  "parent radical|ro*": "исходных радикалов",
 
   "parent ring|ro": "исходного кольца",
   "parent ring|tv": "исходным кольцом",
@@ -997,6 +1003,9 @@
 
   "quinque": "квинки",
 
+  "related species|*": "родственные частицы",
+  "related species|ro*": "родственных частиц",
+
   "replacement a prefix": "префикс замещения (‘a’)",
   "replacement a prefix|*": "префиксы замещения (‘a’)",
   "replacement a prefix|ro*": "префиксов замещения (‘a’)",
@@ -1168,6 +1177,7 @@
   "substitutive prefix": "заместительный префикс",
   "substitutive prefix|*": "заместительные префиксы",
   "substitutive prefix|ro*": "заместительных префиксов",
+  "substitutive prefix|da*": "заместительным префиксам",
   "substitutive [prefix]|ro*": "заместительных",
 
   "substitution operation|da": "операции замещения",
@@ -1250,6 +1260,8 @@
 
   "von baeyer name": "название по Фон-Баеру",
   "von baeyer name|ro": "названия по Фон-Баеру",
+
+  "ylo-": "ило",
 
   "zzz": ""
 }

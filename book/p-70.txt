@@ -1,0 +1,1069 @@
+#P-7
+en: Radicals, ions, and related species
+ru: Радикалы, ионы и &(related species|*)
+
+@Content
+
+#P-70
+en: Introduction 
+ru: Введение
+
+@Content
+
+#P-70.1
+en: General Methodology 
+ru: Общая методология
+
+en: The nomenclature for radicals, ions and related species is described in this Chapter. Its rules are based on the same 
+principles as those of organic compounds defined in the Chapters P-1 to P-6. The nomenclature was revised in 1993 
+(ref. 3). For definitions, symbols and conventions, see ref. 14; see also ref. 28. In the 1979 recommendations (ref. 1), 
+radicals were called ‘free radicals’ to distinguish them from substituent prefixes which were also called radicals. That 
+distinction was dropped in the 1993 publications (refs. 2, 3). 
+ru: В данной главе описывается номенклатура радикалов, ионов и &(related species|ro*). Ее правила основаны на тех же принципах, 
+что и номенклатура органических соединений, изложенная в главах с P-1 по P-6. Данная номенклатура была пересмотрена в 1993 году 
+(см. источник 3). Определения, символы и условные обозначения приведены в источнике 14; см. также источник 28. 
+В рекомендациях 1979 года (см. источник 1) радикалы называли «свободными радикалами», чтобы отличать их от 
+&(substituent prefix|ro*), которые также именовались радикалами. В публикациях 1993 года (см. источники 2, 3) от этого 
+разграничения отказались.
+
+#P-70.2
+en: Seniority of radicals and ions 
+ru: Старшинство радикалов и ионов
+
+en: As classes, radicals and ions are senior to acids and other classes in the following order: 
+ru: В иерархии химических классов радикалы и ионы стоят выше кислот и других классов в следующем порядке:
+
+@List 1
+
+@item
+en: radicals;  
+ru: радикалы;
+
+@item
+en: anions; 
+ru: анионы; 
+
+@item
+en: cations.
+ru: катионы.
+
+@End
+
+#P-70.3
+en: Name formation 
+ru: Образование названий
+
+en: Substitutive names and functional class names denote radicals and ions and related compounds. Parent hydrides and 
+parent compounds are selected and modified by use of specific suffixes (called cumulative suffixes) and prefixes; 
+traditional endings are used to describe anions derived from acids and related compounds (see P-72.2.2.2). The 
+nomenclature of di- and trivalent radicals does not indicate nor imply an electronic structure or spin multiplicity. 
+ru: &(Substitutive name|*) и &(functional class name|*) обозначают радикалы, ионы и родственные им соединения. В качестве 
+основы выбираются &(parent hydride|*) или &(parent compound|*), которые затем модифицируются с помощью специальных суффиксов 
+(так называемых &(cumulative suffix|ro*)) и префиксов; для обозначения анионов, производных от кислот и родственных им 
+соединений, используются традиционные окончания (см. P-72.2.2.2). Номенклатура двух- и трехвалентных радикалов не указывает 
+на их электронную структуру или спиновую мультиплетность и не подразумевает их.
+
+#P-70.3.1+
+en: Suffixes, prefixes, and endings for radicals and ions in substitutive nomenclature are listed in Table 7.1. They 
+are also described in Table 3.4. 
+ru: Суффиксы, префиксы и окончания для радикалов и ионов в &(substitutive nomenclature|pr) приведены в таблице 7.1. 
+Они также описаны в таблице 3.4.
+
+@Table 7.1 .left-aligned-cells .cells-align-baseline
+en: Suffixes or Endings and Prefixes for Radicals and Ions in Substitutive Nomenclature
+ru: Суффиксы или окончания и префиксы радикалов и ионов в &(Substitutive Nomenclature|pr)
+
+@th
+en: Operation
+ru: Операция
+
+@th
+en: Suffix or Ending
+ru: Суффикс или Окончание
+
+@th
+en: Prefix
+ru: Префикс
+
+@td colspan=3
+en: **Radicals formed by**
+ru: **Радиалы, образованные**
+
+@td
+en: &nbsp;loss of <%h%>
+ru: &nbsp;потерей <%h%>
+%h: H•  
+
+@td
+en: yl 
+ru: ил
+
+@td
+en: ylo 
+ru: &(ylo-)
+
+@td colspan=3
+en: &nbsp;loss of <%h%>
+ru: &nbsp;потерей <%h%>
+%h: 2 H•  
+
+@td
+en: &nbsp;&nbsp;from one atom  
+ru: &nbsp;&nbsp;из одного атома
+
+@td
+en: ylidene
+ru: илиден
+
+@td
+
+@td
+en: &nbsp;&nbsp;from different atoms  
+ru: &nbsp;&nbsp;из разных атомов
+
+@td
+en: diyl
+ru: диил
+
+@td
+
+@td colspan=3
+en: &nbsp;loss of <%h%>
+ru: &nbsp;потерей <%h%>
+%h: 3 H•  
+
+@td
+en: &nbsp;&nbsp;from one atom  
+ru: &nbsp;&nbsp;из одного атома
+
+@td
+en: ylidyne
+ru: илиден
+
+@td
+
+@td
+en: &nbsp;&nbsp;from different atoms  
+ru: &nbsp;&nbsp;из разных атомов
+
+@td
+en: triyl or ylylidene
+ru: триил или илиден
+
+@td
+
+@td
+en: &nbsp;addition of <%h%>
+ru: &nbsp;добавлением <%h%>
+%h: H•
+
+@td
+en: hydryl 
+ru: гидрил
+
+@td
+
+@td colspan=3
+en: **Anions formed by**
+ru: **Анионы, образованные**
+
+@td
+en: &nbsp;loss of <%h%>
+ru: &nbsp;потерей <%h%>
+%h: H^{+}
+
+@td
+en: ide <br>
+ate, ite (endings)
+ru: ид <br>
+ат, ит (окончания)
+
+@td
+
+@td
+en: &nbsp;addition of <%h%>
+ru: &nbsp;добавлением <%h%>
+%h: H^{–}
+
+@td
+en: uide 
+ru: уид
+
+@td
+
+@td
+en: &nbsp;addition of an electron
+ru: &nbsp;добавлением электрона
+
+@td
+en: elide ^{1}
+ru: элид ^{1}
+
+@td
+
+@td colspan=3
+en: **Cations formed by**
+ru: **Катионы, образованные**
+
+@td
+en: &nbsp;loss of <%h%>
+ru: &nbsp;потерей <%h%>
+%h: H^{–}
+
+@td
+en: ylium
+ru: илиум
+
+@td
+
+@td
+en: &nbsp;addition of <%h%>
+ru: &nbsp;потерей <%h%>
+%h: H^{+}
+
+@td
+en: ium
+ru: &(-ium)
+
+@td
+
+@td
+en: &nbsp;loss of an electron
+ru: &nbsp;потерей электрона
+
+@td
+en: elium ^{1}
+ru: элиум ^{1}
+
+@td
+
+@EndTable
+
+en: ^{1} The suffixes ‘elide’ and ‘elium’ are recommended to denote modification of a parent hydride by the addition or the 
+subtraction of one electron, respectively. 
+ru: ^{1} Суффиксы «элид» и «элиум» рекомендуется использовать для обозначения модификации &(parent hydride|ro), 
+происходящей вследствие добавления или, соответственно, удаления одного электрона.
+
+#P-70.3.2+
+en: Basic multiplying prefixes are used to denote multiplicity of the suffixes ‘yl’, ‘ylidene’, ‘ylidyne’, ‘ide’, 
+‘uide’, ‘ium’ and the prefix ‘ylo’. Multiplying prefixes ‘bis’, ‘tris’, etc., are used before the suffix ‘ylium’ and before 
+compound suffixes, such as ‘aminium’, ‘olate’, etc. 
+ru: Основные умножающие префиксы используются для обозначения кратности суффиксов «ил», «илиден», «илидин», «ид», «уид», 
+«&(-ium)» и префикса «ило». Умножающие префиксы «бис», «трис» и т. д. используются перед суффиксом «илиум» и перед составными 
+суффиксами, такими как «аминиум», «олат» и т. д.
+
+#P-70.3.3+
+en: In names, suffixes and endings are cited in a specific order as described below. 
+ru: В именах суффиксы и окончания &(cited|*) в определённом порядке, как описано ниже.
+
+#P-70.3.3.1+
+en: When two or more cumulative suffixes are present in a name, the order of citation is the reverse of the order 
+of seniority for radicals and ions as given in P-70.2, i.e.,‘ium’, ‘ylium’, ‘ide’, ‘uide’, ‘yl’, ‘ylidene’, ‘ylidyne’. 
+ru: Если в названии присутствует два или более &(cumulative suffix|2*), то порядок их перечисления является обратным 
+по отношению к порядку старшинства радикалов и ионов, приведенному в разделе P-70.2, а именно: «&(-ium)», «илиум», «ид», 
+«уид», «ил», «илиден», «илидин».
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3-N@n(3)=$dots(90)N$pos(-90)^+# -N$pos(-90)^-@n(1)-Si(CH3)3
+$>
+
+en: 3-methyl-1-(trimethylsilyl)triaz-2-en-2-ium-1-id-2-yl (PIN)
+ru: 3-метил-1-(триметилсилил)триаз-2-ен-2-&(-ium)-1-ид-2-ил (PIN)
+
+@End
+
+#P-70.3.3.2+
+en: When functional and cumulative suffixes are present, the order of citation is prescribed by specific rules.
+ru: При наличии функциональных и &(cumulative suffix|ro*) порядок их приведения регламентируется особыми правилами.
+
+#P-70.3.3.2.1+
+en: A cumulative suffix may be added to a functional suffix to form a defined compound suffix (see P-71.3.2). 
+ru: &(Cumulative suffix) может быть добавлен к &(functional suffix|da) для образования определенного 
+&(compound [prefix]|ro) суффикса (см. P-71.3.2).
+
+@Examples
+
+@cell
+<$ CH3-$dots(-90)NH $>
+
+en: methanaminyl (PIN)  <br>
+methylazanyl  <br>
+(traditional name: methylamino) 
+ru: метанаминил (PIN) <br>
+метилазанил <br>
+(традиционное название: метиламино)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-CH2@n(2)-CH@n(1)=$dots(Rt)N
+$>
+
+en: propan-1-iminyl (PIN)  <br>
+propylideneazanyl 
+ru: пропан-1-иминил (PIN) <br>
+пропилиденазанил
+
+@End
+
+#P-70.3.3.2.2+
+en: In zwitterionic compounds, cumulative suffixes precede functional suffixes and have seniority for lowest locants: 
+ru: В цвиттер-ионных соединениях &(cumulative suffix|*) предшествуют &(functional suffix|da*) и имеют приоритет при 
+определении наименьших локантов:
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)3N$pos(-90)^+@n(1)-NH@n(2)-SO2-O^-
+$>
+
+en: 1,1,1-trimethylhydrazin-1-ium-2-sulfonate (PIN)
+ru: 1,1,1-триметилгидразин-1-&(-ium)-2-сульфонат (PIN)
+
+@End
+
+
+#P-70.4
+en: General rules for the selection of preferred names 
+ru: Общие правила выбора предпочтительных названий
+
+en: The concept of preferred IUPAC names as applied to radicals and ions is based on the following principles. 
+ru: Концепция предпочтительных названий ИЮПАК, применяемая к радикалам и ионам, основана на следующих принципах:
+
+#(1)
+en: substitutive nomenclature based on carbane and heterane nomenclatures and a set of suffixes and prefixes 
+designed to express the formal operations needed to generate radicals and ions systematically are used to generate 
+preferred IUPAC names; accordingly, the preferred IUPAC name for a radical may not be the same as the preferred 
+prefix.
+ru: для формирования предпочтительных названий ИЮПАК используется &(substitutive nomenclature), базирующаяся на 
+номенклатуре «карбанов» и «гетеранов», а также на системе суффиксов и префиксов, предназначенных для описания 
+формальных операций, необходимых для систематического образования радикалов и ионов; исходя из этого, предпочтительное 
+название ИЮПАК для радикала может не совпадать с соответствующим ему &(preferred prefix|tv).
+
+#(2)
+en: some names are retained as preferred IUPAC names, notably contracted names such as methoxide, ethoxide, 
+etc., and methoxyl, ethoxyl, etc. related to the substitutive prefixes derived from alcohols and related hydroxy 
+compounds. 
+ru: некоторые названия сохранены в качестве предпочтительных названий ИЮПАК; к ним, в частности, относятся сокращенные 
+наименования, такие как «метоксид», «этоксид» и т. д., а также «метоксил», «этоксил» и т. д., соответствующие 
+&(substitutive prefix|da*), образованным от спиртов и родственных им гидроксисодержащих соединений.
+
+#(3)
+en: some names are retained only for use in general nomenclature, for example the ‘onium cations’ such as 
+ammonium and sulfonium, carbene, <%a%>; amide, <%b%>; and <%c%> , acetyl anion.
+ru: некоторые названия сохраняются только для использования в общей номенклатуре; к ним относятся, например, 
+«ониевые катионы» (такие как аммоний и сульфоний), карбен <%a%>, амид <%b%>, а также ацетильный анион <%c%>.
+%a: CH_{2}^{2•}
+%b: NH^{2–}
+%c: <$ CH3-C(O)^– $>
+
+#(4)
+en: functional class names using class names such as cation, anion, etc. can be used in general nomenclature, but 
+systematically constructed names or retained names are preferred IUPAC names, for example, ‘methylium’ not 
+‘methyl cation’, for <%a%>; ‘acetylium’ not ‘acetyl cation’ for <%b%>; ‘ethanide’ not ‘ethyl anion’ for <%c%>; 
+and ‘methaniumyl’ not ‘methyl radical cation’, for <%d%>.  
+ru: в общей номенклатуре могут использоваться &(functional class name|*), включающие такие термины, как «катион», 
+«анион» и т. д., однако предпочтительными названиями по номенклатуре ИЮПАК являются систематические или 
+&(retained name|*). Например: «метилий» (а не «метил-катион») для <%a%>; «ацетилий» (а не «ацетил-катион») для <%b%>; 
+«этанид» (а не «этил-анион») для <%c%>; а также «метаниумил» (а не «метил-радикал-катион») для <%d%>.
+%a: <$ CH3^+ $>
+%b: <$ CH3-C(O)^+ $>
+%c: <$ CH3-CH2 $>
+%d: CH_{4}^{•+}
+
+
+#P-71
+en: Radicals
+ru: Радикалы 
+
+@Content
+
+#P-71.1
+en: General methodology 
+ru: Общая методология
+
+en: Radicals are named by modifying a parent hydride name to signal the subtraction or addition of one or more hydrogen 
+atoms, H•. The modification to signal the addition of a single hydrogen atom is recommended for the first time. These 
+two operations are expressed by suffixes. 
+ru: Названия радикалов образуются путем модификации названия &(parent hydride|ro), указывающей на отнятие или присоединение 
+одного или нескольких атомов водорода (H•). В данном документе впервые предлагается использовать модификацию, указывающую 
+на присоединение одного атома водорода. Эти две операции обозначаются с помощью суффиксов.
+
+en: The suffixes ‘yl’ (–H•), ‘ylidene’ (–2H•), ‘ylidyne’ (–3H•) denote the removal of hydrogen atoms, a subtractive 
+operation. 
+ru: Суффиксы «-ил» (–H•), «-илиден» (–2H•) и «-илидин» (–3H•) указывают на отщепление атомов водорода — операцию вычитания.
+
+en: The suffix ‘hydryl’ denotes the additive operation, i.e., the addition of a single hydrogen atom. 
+ru: Суффикс «гидрил» обозначает аддитивную операцию, то есть присоединение одного атома водорода.
+
+en: The prefix ‘ylo’ is used to indicate the removal of ‘H•’ from a substituent group, a subtractive operation.
+ru: Префикс «&(ylo-)» используется для обозначения удаления «H•» из заместительной группы — это операция вычитания.
+
+#P-71.2
+en: Radicals derived from parent hydrides 
+ru: Радикалы, производные от &(parent hydride|ro*)
+
+#P-71.2.1
+en: Monovalent radicals
+ru: Одновалентные радикалы
+
+#P-71.2.1.1+
+en: A radical formally derived by the removal of one hydrogen atom from a mononuclear parent hydride of an 
+element of Group 14, from a terminal atom of an unbranched acyclic hydrocarbon, or from any position of a 
+monocyclic saturated hydrocarbon ring is named by replacing the ‘ane’ ending of the systematic name of the parent 
+hydride by ‘yl’. 
+ru: Радикал, формально образующийся путем отщепления одного атома водорода от &(mononuclear [hydride]|ro) 
+&(parent hydride|ro) 14-й группы, от концевого атома неразветвленного ациклического углеводорода или от любого 
+положения в моноциклическом насыщенном углеводородном кольце, обозначается путем замены окончания «-ан» в систематическом 
+названии &(parent hydride|ro) на окончание «-ил».
+
+@Examples
+
+@cell
+<$ "•"CH3 $>
+  
+en: methyl (PIN) 
+ru: метил (PIN) 
+
+@cell
+<$ "•"CH2-CH2-CH3 $>
+  
+en: propyl (PIN) 
+ru: пропил (PIN) 
+
+@cell
+<$ "•"GeH3 $>
+
+en: germyl (preselected name) 
+ru: гермил (&(preselected name)) 
+
+@cell
+<$ |`-`|-<_(y-.3,x-.1,N0)"•">_(A-45)H $>
+
+en: cyclobutyl (PIN) 
+ru: циклобутил (PIN)
+
+@End
+
+#P-71.2.1.2+
+en: A radical formally derived by the removal of one hydrogen atom from any position of a parent hydride, or a 
+modified parent hydride other than those described by P-71.2.1.1, above, is named by adding the suffix ‘yl’ to the name 
+of the parent hydride, eliding the final letter ‘e’ of the name of the parent hydride, if any. As an exception, the IUPAC 
+preferred name for <%a%> is ‘hydroxyl’, a retained name for the systematic name ‘oxidanyl’ (see ref. 12, IR-6.4.7); and 
+the IUPAC preferred name for <%b%> is ‘hydroperoxyl’, a retained name for the systematic name ‘dioxidanyl’. These 
+retained names must not be used when substituted, for example, <%c%> is named ‘methoxyl’ or ‘methyloxidanyl’, and 
+not ‘methylhydroxyl’ (see P-71.3.4). 
+ru: Радикал, формально образующийся путем удаления одного атома водорода из любого положения &(parent hydride|ro) 
+(или модифицированного &(parent hydride|ro), за исключением случаев, описанных выше в пункте P-71.2.1.1), именуется 
+путем добавления суффикса «-ил» к названию &(parent hydride|ro), при этом конечная буква «e» в названии &(parent hydride|ro) 
+(если она имеется) опускается. В качестве исключения, предпочтительным названием ИЮПАК для <%a%> является «гидроксил»
+ — &(retained name), заменяющее систематическое наименование «оксиданил» («oxidanyl») (см. ссылку 12, IR-6.4.7); 
+а предпочтительным названием ИЮПАК для <%b%> является «гидропероксил» — &(retained name), заменяющее систематическое 
+наименование «диоксиданил». Эти &(retained name|*) не должны использоваться в тех случаях, когда присутствуют заместители: 
+например, <%c%> именуется «метоксил» или «метилоксиданил», но не «метилгидроксил» («methylhydroxyl») (см. P-71.3.4).
+%a: <$ HO"•" $>
+%b: <$ HOO"•" $>
+%c: <$ CH3-O"•" $>
+
+@Examples
+
+@cell
+<$ HS"•" $> 
+
+en: sulfanyl (preselected name) 
+ru: сульфанил (&(preselected name))
+
+@cell
+<$ H2N"•" $>
+
+en: azanyl (preselected name)  <br>
+aminyl (traditional name: amino) 
+ru: азанил (&(preselected name)) <br>
+аминил (традиционное название: амино)
+
+@cell
+<$ H2B"•" $>
+
+en: boranyl (preselected name)  <br>
+(not boryl) 
+ru: боранил (&(preselected name)) <br>
+(не борил)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+SiH3@n(3)-$dots(-90)SiH@n(2)-SiH3@n(1)
+$>
+
+en: trisilan-2-yl (preselected name)
+ru: трисилан-2-ил (&(preselected name))
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+(CH3)3C-O-$dots(-90)P(C6H5)3
+$>
+
+en: _tert_-butoxytri(phenyl)-λ^{5}-phosphanyl (PIN)  <br>
+[(2-methylpropan-2-yl)oxy]tri(phenyl)-λ^{5}-phosphanyl <br> 
+(1,1-dimethylethoxy)tri(phenyl)-λ^{5}-phosphanyl
+ru: _трет_-бутокситри(фенил)-λ^{5}-фосфанил (PIN) <br>
+[(2-метилпропан-2-ил)окси]три(фенил)-λ^{5}-фосфанил <br>
+(1,1-диметилэтокси)три(фенил)-λ^{5}-фосфанил
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`/|\_(x-.4,y-1)_#1@n(1)\<|`/>@n(2,30)<_(y-.4,N0)"•">/H
+$>
+
+en: bicyclo[2.2.1]heptan-2-yl (PIN)
+ru: бицикло[2.2.1]гептан-2-ил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+`|@n(2,-40)_q@n(1,-100)_q<_q_q>`/`-`\@n(8,0)<`-H><_(A-120,L.35,N0)"•">/-\
+$>
+
+en: spiro[4.5]decan-8-yl (PIN) 
+ru: спиро[4.5]декан-8-ил (PIN)
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+CH3@n(3)-$dots(-90)CH@n(2,90)-CH3
+$>
+
+en: propan-2-yl (PIN)  <br>
+1-methylethyl  <br>
+isopropyl 
+ru: пропан-2-ил (PIN) <br>
+1-метилэтил <br>
+изопропил
+
+@cell
+<$
+@:n(n,a:-90,L:.52)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+$L(1.2)CH3@n(3)-$dots(90)C@n(2,-120,.6)<`|CH3>-CH3@n(1,-80)
+$>
+
+en: 2-methylpropan-2-yl (PIN)  <br>
+1,1-dimethylethyl  <br>
+_tert_-butyl [see P-70.4 (1)] 
+ru: 2-метилпропан-2-ил (PIN) <br>
+1,1-диметилэтил <br>
+_трет_-бутил [см. P-70.4 (1)]
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(x1.1)@n(3,60)_qq@n(2,-20)_q@n(1,90)<`|H><_(A-30,L.35,N0)"•">_q@n(5,-160)_qq@n(4,120)
+$>
+
+en: cyclopenta-2,4-dien-1-yl (PIN)  <br>
+cyclopentadienyl (see P-76)
+ru: циклопента-2,4-диен-1-ил (PIN) <br>
+циклопентадиенил (см. P-76)
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+|`//`\`||/\\/@n(1)\\@n(2,140,.45)<_(A-30,L.35,N0)"•">|`//`\
+$>
+
+en: naphthalen-2-yl (PIN) 
+ru: нафтален-2-ил (PIN)
+
+@End
+
+#P-71.2.1.3+
+en: A radical created by the addition of a single hydrogen atom, H•, may be indicated by suffix ‘hydryl’ when 
+the position of the hydrogen atom must be specified:
+ru: Радикал, образующийся в результате присоединения одного атома водорода (H•), может обозначаться суффиксом 
+«-гидрил», если необходимо указать положение этого атома водорода:
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.4)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+_(A90,S:|)_(P6,S:|)_(P6,S:|)_(P6,S:|)_(P6,S:|)_(P6,S:|)/<_(A-120)H><_(A-60)H><_(y.8,N0)"•">\_(A-30,S:|)_(P6,S:|)_(P6,S:|)_(P6,S:|)_(P6,S:|)<_(P6,S:|r)>_(A150,S:|)_(P6,S:|)
+$>
+
+en: anthracene-9-hydryl (PIN)  <br>
+anthracen-9-iumelide (see P-70.3.1)  <br>
+anthracen-9-eliumuide (see P-70.3.1)  <br>
+2,9-dihydroanthracen-2-yl 
+ru: антрацен-9-гидрил (PIN) <br>
+антрацен-9-иуэлид (см. P-70.3.1) <br>
+антрацен-9-элиумуид (см. P-70.3.1) <br>
+2,9-дигидроантрацен-2-ил
+
+@End
+
+#P-71.2.2
+en: Divalent and trivalent radicals
+ru: Двухвалентные и трехвалентные радикалы
+
+en: The names of divalent and trivalent radicals are formed substitutively using the suffixes ‘ylidene’ and ‘ylidyne’ in two 
+ways:
+ru: Названия двухвалентных и трехвалентных радикалов образуются по заместительному принципу с использованием суффиксов 
+«-илиден» и «-илидин»  двумя способами: 
+
+@List 1
+
+@item
+en: replacing the ending ‘ane’ of a mononuclear parent hydride of an element of Group 14, or from a terminal atom of 
+an unbranched acyclic hydrocarbon, or from any position of a monocyclic saturated hydrocarbon ring by the 
+appropriate suffix (corresponds to P-71.2.1.1) 
+ru: путем замены окончания «-ан» в названии &(mononuclear [hydride]|ro) &(parent hydride|ro) элемента 14-й группы, 
+либо в названии, относящемся к концевому атому неразветвленного ациклического углеводорода, либо в названии, относящемся 
+к любому положению в моноциклическом насыщенном углеводородном кольце, на соответствующий суффикс 
+(соответствует правилу P-71.2.1.1);
+
+@item
+en: adding the appropriate suffix to the name of a parent hydride, other than those described by P-71.2.1.1, at any 
+position eliding the final letter ‘e’ of the name of the parent hydride, if any (corresponds to P-71.2.1.2). 
+ru: путем добавления соответствующего суффикса к названию &(parent hydride|ro) (в случаях, не охваченных 
+правилом P-71.2.1.1) в любом его положении, при этом конечная буква «e» в названии &(parent hydride|ro) (если она имеется) 
+опускается (соответствует правилу P-71.2.1.2).
+
+@End
+
+en: These systematic names are preferred to retained names which may be used in general nomenclature. 
+ru: Такие систематические названия предпочтительнее &(retained name|ro*), которые также могут использоваться в общей номенклатуре.
+
+#P-71.2.2.1
+en: Specific method and retained names 
+ru: Конкретный метод и &(retained name|*)
+
+en: A radical formally derived by the removal of two hydrogen atom from one skeletal atom of a mononuclear parent 
+hydride of an element of Group 14, or from one terminal skeletal atom of an unbranched acyclic hydrocarbon, or from 
+one skeletal atom of a monocyclic saturated hydrocarbon ring is named by replacing the ‘ane’ ending of the systematic 
+name of the parent hydride by the suffix ‘-ylidene’ or ‘-diyl’. The suffix ‘-ylidyne’ or ‘-triyl’ is used to name radicals 
+formally derived by the removal of three hydrogen atoms from a mononuclear parent hydride of an element of Group 
+14 or from a terminal atom of an unbranched acyclic hydrocarbon. 
+ru: Радикал, формально образующийся в результате отщепления двух атомов водорода от одного скелетного атома 
+&(mononuclear [hydride]|ro) &(parent hydride|ro) элемента 14-й группы, либо от одного концевого скелетного атома 
+неразветвленного ациклического углеводорода, либо от одного скелетного атома моноциклического насыщенного углеводорода, 
+обозначается путем замены окончания «-ан» в систематическом названии &(parent hydride|ro) на суффикс «-илиден» 
+или «-диил». Суффикс «-илидин» или «-триил» используется для обозначения радикалов, 
+формально образующихся в результате отщепления трех атомов водорода от &(mononuclear [hydride]|ro) &(parent hydride|ro) 
+14-й группы или от концевого атома неразветвленного ациклического углеводорода.
+
+en: Systematic names are the preferred IUPAC names. The retained names carbene or methylene, nitrene or aminylene and 
+carbyne, can be used in general nomenclature, with full substitution. The use of the systematic or retained names does 
+not imply a specific electronic configuration. If needed, such a distinction would be made by using a separate word such 
+as singlet or triplet, or a descriptive phrase. The disposition of the two unpaired electrons in the structures is equivalent 
+to that given in the Red Book as <%a%> (see ref. 12, IR-6.4.7). 
+ru: Систематические названия являются предпочтительными названиями по номенклатуре ИЮПАК. &(Retained name|*) — «карбен» 
+(или «метилен»), «нитрен» (или «аминилен») и «карбин» — могут использоваться в общей номенклатуре с возможностью полного 
+замещения. Использование систематических или &(retained name|*) не подразумевает какой-либо конкретной электронной 
+конфигурации. При необходимости такое различие можно указать с помощью отдельного термина (например, «синглетный» или 
+«триплетный») либо описательной фразы. Расположение двух неспаренных электронов в этих структурах соответствует тому, 
+которое приведено в «Красной книге» как <%a%> (см. источник 12, IR-6.4.7).
+%a: CH_{2}^{2•}
+
+@Examples
+
+@cell
+<$ H2"С^{2•}" $>
+// пока не очень удачная реализация. возможно, стоит внести дополнение в CharChem
+
+en: methylidene (PIN)  <br>
+carbene  <br>
+methylene 
+ru: метилиден (PIN)  <br>
+карбен  <br>
+метилен
+
+@cell
+<$ H2"Si^{2•}" $>
+
+en: silylidene (preselected name)  <br>
+silanediyl  <br>
+(not silylene)
+ru: силилиден (&(preselected name)) <br>
+силандиил <br>
+(не силилен)
+
+@cell
+<$ H"C^{3•}" $>
+
+en: methylidyne (PIN)  <br>
+methanetriyl  <br>
+carbyne 
+ru: метилидин (PIN) <br>
+метантриил <br>
+карбин
+
+@cell
+<$ (C6H5)2"C^{2•}" $>
+
+en: diphenylmethylidene (PIN)  <br>
+diphenylmethanediyl  <br>
+diphenylcarbene  <br>
+diphenylmethylene 
+ru: дифенилметилиден (PIN) <br>
+дифенилметандиил <br>
+дифенилкарбен <br>
+дифенилметилен
+
+@cell
+<$ C6H5-CH2-Si"H^{2•}"  $>
+
+en: benzylsilylidene (PIN)  <br>
+benzylsilanediyl 
+ru: бензилсилилиден (PIN) <br>
+бензилсиландиил
+
+@cell
+<$ C|`/`\`|/\_(A-30,L.5,N0)"\small{2•}" $>
+
+en: cyclohexylidene (PIN)  <br>
+cyclohexane-1,1-diyl 
+ru: циклогексилиден (PIN) <br>
+циклогексан-1,1-диил
+
+@cell
+<$ CH3"C^{3•}"  $>
+
+en: ethylidyne (PIN)  <br>
+ethane-1,1,1-triyl  <br>
+(not methylcarbyne) 
+ru: этилидин (PIN) <br>
+этан-1,1,1-триил <br>
+(не метилкарбин)
+
+@End
+
+#P-71.2.2.2
+en: General method
+ru: Общий метод
+
+en: With the exception of the radicals named in P-71.2.2.1, the names of divalent and trivalent radicals derived by the 
+removal of two or three hydrogen atoms from one position of a parent hydride are formed by adding the suffixes  
+‘-ylidene’ or ‘-diyl’ and ‘-ylidyne’ or ‘-triyl’, respectively, to the name of the parent hydride, with elision of the final 
+letter ‘e’, if present. The name azanylidene is the preselected name for <%a%>; nitrene or aminylidene are retained names 
+for use in general nomenclature. 
+ru: За исключением радикалов, упомянутых в пункте P-71.2.2.1, названия двухвалентных и трехвалентных радикалов, образующихся 
+при отщеплении двух или трех атомов водорода от одного положения &(parent hydride|ro), формируются путем добавления к названию 
+этого гидрида суффиксов «-илиден» или «-диил» — для двухвалентных радикалов — и «-илидин»  или «-триил» — для трехвалентных 
+радикалов; при этом конечная буква «e» (если она имеется в названии &(parent hydride|ro)) опускается. Название «азанилиден» 
+является предпочтительным названием для <%a%>; названия «нитрен» и «аминилиден» сохранены для использования в общей номенклатуре.
+%a: HN^{2•}
+
+@Examples
+
+@cell
+HN^{2•}  
+
+en: azanylidene (preselected name)  <br>
+azanediyl  <br>
+aminylidene  <br>
+aminylene  <br>
+nitrene 
+ru: азанилиден (&(preselected name)) <br>
+азандиил <br>
+аминилиден <br>
+аминилен <br>
+нитрен
+
+@cell
+H_{2}P^{3•}  
+
+en: λ^{5}-phosphanylidyne (preselected name)  <br>
+λ^{5}-phosphanetriyl  <br>
+phosphoranylidyne  <br>
+phosphoranetriyl 
+ru: λ^{5}-фосфанилидин (&(preselected name)) <br>
+λ^{5}-фосфантриил <br>
+фосфоранилидин <br>
+фосфорантриил
+
+@cell
+<$ H2N-"N^{2•}" $>  
+
+en: hydrazinylidene (preselected name)  <br>
+diazanylidene  <br>
+hydrazine-1,1-diyl  <br>
+diazane-1,1-diyl  <br>
+(traditional name: hydrazono)  <br>
+(not aminonitrene) 
+ru: гидразинилиден (&(preselected name)) <br>
+диазанилиден <br>
+гидразин-1,1-диил <br>
+диазан-1,1-диил <br>
+(традиционное название: гидразоно) <br>
+(не аминонитрен)
+
+@cell
+<$ H2P-"P^{2•}" $>  
+
+en: diphosphanylidene (preselected name)  <br>
+diphosphane-1,1-diyl 
+ru: дифосфанилиден (&(preselected name)) <br>
+дифосфан-1,1-диил
+
+@cell
+<$ S/=\C<`/`=`\>_(A-30,L.5,N0)"\small{2•}" $>
+
+en: 4_H_-thiopyran-4-ylidene (PIN)  <br>
+4_H_-thiopyran-4,4-diyl 
+ru: 4_H_-тиопиран-4-илиден (PIN) <br>
+4_H_-тиопиран-4,4-диил
+
+@End
+
+#P-71.2.3
+en: Multiple radical centers (polyradicals) 
+ru: Множественные радикальные центры (полирадикалы)
+
+en: Polyradicals containing two or more radicals centers, formally derived by the removal of two or more hydrogen atoms 
+from each of two or more different skeletal atoms of a parent hydride, are named by adding to the name of the parent 
+hydride combinations of the suffix ‘yl’ for a monovalent radical center, ‘ylidene’ for a divalent radical center, and 
+‘ylidyne’ for a trivalent radical center, together with the appropriate numerical prefixes indicating the number of each 
+kind of radical center. The final letter ‘e’ of the name of the parent hydride, if present, is elided when followed by ‘y’. 
+All substituents, including characteristic groups, when present, are cited as prefixes. Preferred IUPAC names result 
+from the application of this rule. 
+ru: Полирадикалы, содержащие два или более радикальных центра, формально образующиеся путем отщепления двух или более 
+атомов водорода от двух или более различных атомов скелета &(parent hydride|ro), именуются путем добавления к названию 
+этого гидрида соответствующих суффиксов: «-ил» (для одновалентного радикального центра), «-илиден» (для двухвалентного 
+радикального центра) и «-илидин» (для трехвалентного радикального центра), а также числовых приставок, указывающих 
+количество радикальных центров каждого типа. Если название &(parent hydride|ro) оканчивается на букву «е», то при добавлении 
+части, начинающейся с «и», эта буква опускается. Все заместители, включая &(characteristic group), при их наличии 
+указываются в виде префиксов. Применение данного правила позволяет получить предпочтительные названия по номенклатуре ИЮПАК.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.55)<_(A&a,L&L,N0)"\small{&n•}">@;
+CH2@n(1)@ra()-CH2@n(2)@ra()
+$>
+
+en: ethane-1,2-diyl (PIN)  <br>
+(traditional name: ethylene) 
+ru: этан-1,2-диил (PIN) <br>
+(традиционное название: этилен)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.55)<_(A&a,L&L,N0)"\small{&n•}">@;
+HN@n(1)@ra()-NH@n(2)@ra()
+$>
+
+en: hydrazine-1,2-diyl (preselected name)  <br>
+diazane-1,2-diyl 
+ru: гидразин-1,2-диил (&(preselected name)) <br>
+диазан-1,2-диил
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.55)<_(A&a,L&L,N0)"\small{&n•}">@;
+CH3-C@ra(2)-CH2-C@ra(2)-CH3
+$>
+
+en: pentane-2,4-diylidene (PIN) 
+ru: пентан-2,4-диилиден (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.55)<_(A&a,L&L,N0)"\small{&n•}">@;
+CH2@n(1)@ra()-CH@n(2)@ra()-CH2@n(3)@ra()
+$>
+
+en: propane-1,2,3-triyl (PIN) 
+ru: пропан-1,2,3-триил (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.3)<_(A&a,L&L,N0)"\small{&n•}">@;
+/=\@n(1,-160)@ra(,-20)`//`-`\\@n(4,-20)@ra(,-160)
+$>
+
+en: benzene-1,4-diyl (PIN)  <br>
+{traditional names: _p_-phenylene;  <br>
+1,4-phenylene [see P-70.4 (1)]} 
+ru: бензол-1,4-диил (PIN) <br>
+{традиционные названия: _p_-фенилен; <br>
+1,4-фенилен [см. P-70.4 (1)]}
+
+@cell
+<$
+@:n(n,a:90,L:.45)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.3)<_(A&a,L&L,N0)"\small{&n•}">@;
+_(x1.3)$slope(45)<\\CH2>@n(3,-135)_q4@n(2,135)@ra(,-50)_q4@n(1,45)@ra(,-130)_q4@n(4,-45)`//H2C
+$>
+
+en: 3,4-dimethylidenecyclobutane-1,2-diyl (PIN) 
+ru: 3,4-диметилиденциклобутан-1,2-диил (PIN)
+
+@cell
+<$
+@:n(n,a:90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.5)<_(A&a,L&L,N0)"\small{&n•}">@;
+C6H5-CH@n(1)@ra()-[CH2]10-CH2@n(12)@ra()
+$>
+
+en: 1-phenyldodecane-1,12-diyl (PIN) 
+ru: 1-фенилдодекан-1,12-диил (PIN)
+
+@End
+
+#P-71.2.4+
+en: Acyclic radicals derived by the removal of one or more hydrogen atoms from nonterminal chain positions are 
+named in two ways: 
+ru: Ациклические радикалы, образующиеся при отщеплении одного или нескольких атомов водорода от неконцевых 
+положений цепи, называют двумя способами:
+
+@List 1
+
+@item
+en: by citing the locant of the nonterminal position of the chain 
+ru: путем указания локанта неконцевого положения в цепи
+
+@item
+en: by substituting a parent radical that has the free valence(s) at the end of a chain. 
+ru: путем использования в качестве основы названия радикала, у которого свободная валентность (или валентности) 
+находится на конце цепи.
+
+@End
+
+en: Method (1) generates preferred IUPAC names. The principal chain is chosen, if necessary, by the method indicated in 
+Section P-46 for substituent groups. 
+ru: Способ (1) позволяет получить предпочтительные названия по номенклатуре ИЮПАК. При необходимости выбор главной цепи 
+осуществляется в соответствии с правилами, приведенными в разделе P-46 для заместителей.
+
+@Examples
+
+@cell
+<$
+@:n(n,a:-90,L:.55)<_(A&a,L&L,N0)$itemColor1(gray)"&n">@;
+@:ra(n,a:-90,L:.5)<_(A&a,L&L,N0)"\small{&n•}">@;
+CH3@n(3)-CH@n(2,90)@ra()-CH3@n(1)
+$>
+
+en: propan-2-yl (PIN)  <br>
+1-methylethyl 
+ru: пропан-2-ил (PIN) <br>
+1-метилэтил
+
+@End
+
+#P-71.2.5
+en: The λ-convention 
+ru: &(l-Convention)
+
+en: Divalent and trivalent radical centers in a parent hydride formally derived by the removal of two or three hydrogen 
+atoms from the same skeletal atom in its standard valence state may be described by the λ-convention (see P-14.1). 
+Locants for the radical centers are followed by the symbol <%l%>, where ‘_n_’ is the bonding number of the skeletal atom (see 
+P-14.1). This method is only for general nomenclature. 
+ru: Двухвалентные и трехвалентные радикальные центры в &(parent hydride|pr), формально образующиеся в результате удаления 
+двух или трех атомов водорода от одного и того же скелетного атома, находящегося в своем стандартном валентном состоянии, 
+могут быть описаны с помощью &(l-convention|ro) (см. P-14.1). За локантами радикальных центров следует символ <%l%>, 
+где «_n_» — валентное число скелетного атома (см. P-14.1). Этот метод предназначен только для общей номенклатуры.
+%l: λ^{_n_}
+
+@Examples
+
+@cell
+<$
+@:ra(n,a:-90,L:.5)<_(A&a,L&L,N0)"\scriptsize{&n•}">@;
+Cl2C@ra(2,-35,.55)
+$>
+  
+en: dichloro-λ^{2}-methane  <br>
+dichloromethylidene (PIN)  <br>
+dichloromethanediyl 
+ru: дихлор-λ^{2}-метан <br>
+дихлорметилиден (PIN) <br>
+дихлорметандиил
+
+@cell
+<$
+@:ra(n,a:-90,L:.5)<_(A&a,L&L,N0)"\scriptsize{&n•}">@;
+FC@ra(3,-35,.55)
+$>
+
+en: fluoro-λ^{1}-methane  <br>
+fluoromethylidyne (PIN)  <br>
+fluoromethanetriyl 
+ru: фтор-λ^{1}-метан <br>
+фторметилидин (PIN) <br>
+фторметантриил
+
+@cell
+<$
+@:ra(n,a:-90,L:.5)<_(A&a,L&L,N0)"\scriptsize{&n•}">@;
+C6H5-N@ra(2,-35,.55)
+$>
+
+en: phenyl-λ^{1}-azane  <br>
+benzenaminylidene (PIN)  <br>
+phenylazanediyl 
+ru: фенил-λ^{1}-азан <br>
+бензенаминилиден (PIN) <br>
+фенилазанедиил
+
+@End
+
+// ---------------
+
+#P-71.3
+en: Radical centers on characteristic groups 
+ru: Центры радикалов в &(characteristic group|pr*)
+
+#P-71.4
+en: Assemblies of parent radicals 
+ru: &(Assembly|*) &(parent radical|ro*)
+
+#P-71.5
+en: Prefixes denoting radicals
+ru: Приставки, обозначающие радикалы 
+
+#P-71.6
+en: Order of citation and seniority of suffixes ‘yl’, ‘ylidene’, and ‘ylidyne’ 
+ru: Порядок &(citation|ro) и старшинство суффиксов «ил», «илиден» и «илидин»
+
+#P-71.7
+en: Choice of parent radical
+ru: Выбор &(parent radical|ro) 
+
+
+// ------------
+
+#P-72
+en: Anions 
+ru: Анионы
+
+#P-73
+en: Cations 
+
+#P-74
+en: Zwitterions 
+ru: Цвиттер-ионы
+
+#P-75
+en: Radical ions
+ru: Радикал-ионы 
+
+#P-76
+en: Delocalized radicals and ions 
+ru: Делокализованные радикалы и ионы
+
+#P-77
+en: Salts 
+ru: Соли
